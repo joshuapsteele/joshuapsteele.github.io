@@ -6,8 +6,4 @@ title: Contact
 url: /contact/
 
 ---
-Submissions from this form will go straight to my inbox, and I will reply as quickly as possible.
-
-Grace and Peace,
-
-~Josh
+You can email me at "joshuapsteele" at the domain of my personal website!
