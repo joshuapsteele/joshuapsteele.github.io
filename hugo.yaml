@@ -2,7 +2,7 @@
 baseURL: https://joshuapsteele.github.io
 publishDir: docs
 languageCode: en-US
-title: The Rev. Dev. Joshua P. Steele
+title: Joshua P. Steele
 theme: PaperMod
 taxonomies:
   category: category
@@ -31,6 +31,24 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+  profileMode:
+    enabled: true
+    title: "The Rev. Dev." # optional default will be site title
+    subtitle: "Joshua P. Steele"
+    # imageUrl: "<image link>" # optional
+    # imageTitle: "<title of image as alt>" # optional
+    # imageWidth: 120 # custom size
+    # imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "/blog/"
+      - name: Github
+        url: "https://github.com/joshuapsteele"
+  socialIcons: # optional
+    - name: "micro.blog"
+      url: "https://social.joshuapsteele.com"
+    - name: "omg.lol"
+      url: "https://steele.omg.lol"
 markup:
   highlight:
     codeFences: true
@@ -50,8 +68,8 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: Archives
-      url: /archives/
+    - name: Blog
+      url: /blog/
       weight: 1
     - name: Categories
       url: /categories/

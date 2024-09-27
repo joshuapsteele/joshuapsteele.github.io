@@ -1,38 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pages on The Rev. Dev. Joshua P. Steele</title>
+    <title>Pages on Joshua P. Steele</title>
     <link>https://joshuapsteele.github.io/pages/</link>
-    <description>Recent content in Pages on The Rev. Dev. Joshua P. Steele</description>
+    <description>Recent content in Pages on Joshua P. Steele</description>
     <generator>Hugo -- 0.120.4</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 18 Dec 2022 14:46:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 11:37:13 +0000</lastBuildDate>
     <atom:link href="https://joshuapsteele.github.io/pages/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home</title>
-      <link>https://joshuapsteele.github.io/home/</link>
-      <pubDate>Sun, 18 Dec 2022 14:46:35 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/home/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://joshuapsteele.github.io/contact-2/</link>
-      <pubDate>Sun, 18 Dec 2022 14:46:33 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/contact-2/</guid>
-      <description>About me Minimized simplicity
-I love simplicity I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.
-Blog Posts I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.
-Go to blog
-Services I am a fashion photographer and blogger, feel free to read the whole story.</description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://joshuapsteele.github.io/blog/</link>
-      <pubDate>Mon, 28 Nov 2022 19:39:08 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/blog/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Philosophy of Ministry</title>
       <link>https://joshuapsteele.github.io/portfolio/philosophy-of-ministry/</link>
@@ -73,15 +48,6 @@ To be a good husband To be a good father To be a good friend To solve people’s
       <guid>https://joshuapsteele.github.io/resources/</guid>
       <description>A &amp;ldquo;tool&amp;rdquo; is &amp;ldquo;anything that can make your life better.&amp;rdquo; I love tools, whether physical or digital. And I love books, because they&amp;rsquo;re some of the best tools out there!
 Lifestyle Tools Coffee Maker: OXO 9-Cup Coffee Maker Coffee Grinder: Capresso Infinity Conical Burr Grinder Water Bottle: Owala FreeSip, 24oz Previous: Iron Flask, 64oz Fitness Tools Squat Rack: REP Fitness PR-1100 Power Rack Previous: Valor Fitness BD–9 Squat Stands Bench: Amazon Basics Flat Weight Bench Barbell and Weights: Fitness Gear 300lb.</description>
-    </item>
-    <item>
-      <title>Start Here</title>
-      <link>https://joshuapsteele.github.io/start-here/</link>
-      <pubDate>Sat, 27 Jan 2018 01:56:03 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/start-here/</guid>
-      <description>The Problem: Everyone Loves a Good Story, But Few People Live One Absolutely everyone wants to live a meaningful life - to live a good story.
-So why do so few of us feel like our lives have purpose?! Instead of a meaningful narrative, life seems like a series of random (at best) or unfortunate (at worst) events.
-Yet, we all have a sneaking suspicion that things ought to be different, that there ought to be a greater sense of purpose, direction, and significance out there - something that can shape our chaotic series of events into a meaningful and beautiful story.</description>
     </item>
     <item>
       <title>The Rev. Dev. Joshua P. Steele</title>
@@ -135,13 +101,6 @@ Who Really Cares about the Trinity? Matthew 28:16-20. June 6, 2020. Preached at 
       <description>Submissions from this form will go straight to my inbox, and I will reply as quickly as possible.
 Grace and Peace,
 ~Josh</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://joshuapsteele.github.io/pages/ask-josh-anything/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/pages/ask-josh-anything/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>

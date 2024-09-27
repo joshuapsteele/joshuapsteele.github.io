@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>The Rev. Dev. Joshua P. Steele</title>
+    <title>Joshua P. Steele</title>
     <link>https://joshuapsteele.github.io/</link>
-    <description>Recent content on The Rev. Dev. Joshua P. Steele</description>
+    <description>Recent content on Joshua P. Steele</description>
     <generator>Hugo -- 0.120.4</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 26 Sep 2024 11:39:54 +0000</lastBuildDate>
@@ -275,31 +275,6 @@ Quit laughing at How to Read a Book by Mortimer J.</description>
       <guid>https://joshuapsteele.github.io/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</guid>
       <description>Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:
 High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.</description>
-    </item>
-    <item>
-      <title>Home</title>
-      <link>https://joshuapsteele.github.io/home/</link>
-      <pubDate>Sun, 18 Dec 2022 14:46:35 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/home/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>https://joshuapsteele.github.io/contact-2/</link>
-      <pubDate>Sun, 18 Dec 2022 14:46:33 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/contact-2/</guid>
-      <description>About me Minimized simplicity
-I love simplicity I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes.
-Blog Posts I am a fashion photographer and blogger, feel free to read the whole story. Whereas a trend often connotes a very specific aesthetic expression, and often lasting shorter than a season.
-Go to blog
-Services I am a fashion photographer and blogger, feel free to read the whole story.</description>
-    </item>
-    <item>
-      <title>Blog</title>
-      <link>https://joshuapsteele.github.io/blog/</link>
-      <pubDate>Mon, 28 Nov 2022 19:39:08 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/blog/</guid>
-      <description></description>
     </item>
     <item>
       <title>Questions Worth Asking (Self-Elicitation Questions)</title>
@@ -1621,15 +1596,6 @@ Thankfully, I think I’ve found something that can help. I’d like to introduc
 Lifestyle Tools Coffee Maker: OXO 9-Cup Coffee Maker Coffee Grinder: Capresso Infinity Conical Burr Grinder Water Bottle: Owala FreeSip, 24oz Previous: Iron Flask, 64oz Fitness Tools Squat Rack: REP Fitness PR-1100 Power Rack Previous: Valor Fitness BD–9 Squat Stands Bench: Amazon Basics Flat Weight Bench Barbell and Weights: Fitness Gear 300lb.</description>
     </item>
     <item>
-      <title>Start Here</title>
-      <link>https://joshuapsteele.github.io/start-here/</link>
-      <pubDate>Sat, 27 Jan 2018 01:56:03 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/start-here/</guid>
-      <description>The Problem: Everyone Loves a Good Story, But Few People Live One Absolutely everyone wants to live a meaningful life - to live a good story.
-So why do so few of us feel like our lives have purpose?! Instead of a meaningful narrative, life seems like a series of random (at best) or unfortunate (at worst) events.
-Yet, we all have a sneaking suspicion that things ought to be different, that there ought to be a greater sense of purpose, direction, and significance out there - something that can shape our chaotic series of events into a meaningful and beautiful story.</description>
-    </item>
-    <item>
       <title>The Rev. Dev. Joshua P. Steele</title>
       <link>https://joshuapsteele.github.io/</link>
       <pubDate>Fri, 26 Jan 2018 00:46:00 +0000</pubDate>
@@ -2546,13 +2512,6 @@ From a Grateful Son – A Poem for My Mother Thank you, Mom, for having me
 that day so long ago.
 Thank you, then, for holding me
 and now for letting go.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://joshuapsteele.github.io/pages/ask-josh-anything/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/pages/ask-josh-anything/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
