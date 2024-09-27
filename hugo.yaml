@@ -1,0 +1,55 @@
+baseURL: https://joshuapsteele.com
+languageCode: en-US
+title: The Rev. Dev. Joshua P. Steele
+theme: PaperMod
+taxonomies:
+  category: category
+  tag: tag
+params:
+  description: Joshua P. Steele
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  showToc: true
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: About
+      url: /portfolio/
+      weight: 1
+    - name: Blog
+      url: /blog/
+      weight: 2
+    - name: Contact
+      url: /contact/
+      weight: 3
+    - name: Resources
+      url: /resources/
+      weight: 4
+    - name: Social
+      url: http://social.joshuapsteele.com/
+      weight: 5
