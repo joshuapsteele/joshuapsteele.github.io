@@ -9,6 +9,7 @@ taxonomies:
   tag: tag
 params:
   description: Joshua P. Steele
+  env: production
   defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
@@ -49,18 +50,21 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: About
-      url: /portfolio/
+    - name: Archives
+      url: /archives/
       weight: 1
-    - name: Blog
-      url: /blog/
+    - name: Categories
+      url: /categories/
       weight: 2
-    - name: Contact
-      url: /contact/
+    - name: Tags
+      url: /tags/
       weight: 3
     - name: Resources
       url: /resources/
       weight: 4
+    - name: Search
+      url: /search?
+      weight: 5
     - name: Social
       url: http://social.joshuapsteele.com/
-      weight: 5
+      weight: 6
