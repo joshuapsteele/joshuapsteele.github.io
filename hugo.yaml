@@ -1,4 +1,6 @@
-baseURL: https://joshuapsteele.com
+# baseURL: https://joshuapsteele.com
+baseURL: https://joshuapsteele.github.io
+publishDir: docs
 languageCode: en-US
 title: The Rev. Dev. Joshua P. Steele
 theme: PaperMod
