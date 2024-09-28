@@ -5,12 +5,12 @@ languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
 taxonomies:
-  category: category
-  tag: tag
+  category: categories
+  tag: tags
 params:
   description: Joshua P. Steele
   env: production
-  # defaultTheme: auto
+  defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
   showReadingTime: true
@@ -36,24 +36,24 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-  # profileMode:
-  #   enabled: true
-  #   title: "The Rev. Dev." # optional default will be site title
-  #   subtitle: "Joshua P. Steele"
-  #   imageUrl: "<image link>" # optional
-  #   imageTitle: "<title of image as alt>" # optional
-  #   imageWidth: 120 # custom size
-  #   imageHeight: 120 # custom size
-  #   buttons:
-  #     - name: Blog
-  #       url: "/blog/"
-  #     - name: Github
-  #       url: "https://github.com/joshuapsteele"
-  # socialIcons: # optional
-  #   - name: "micro.blog"
-  #     url: "https://social.joshuapsteele.com"
-  #   - name: "omg.lol"
-  #     url: "https://steele.omg.lol"
+  profileMode:
+    enabled: true
+    title: "Joshua P. Steele" # optional default will be site title
+    subtitle: "The Rev. Dev."
+    imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
+    imageTitle: "Joshua P. Steele" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: Blog
+        url: "/blog/"
+      - name: Github
+        url: "https://github.com/joshuapsteele"
+  socialIcons: # optional
+    - name: micro.blog
+      url: "https://social.joshuapsteele.com"
+    - name: omg.lol
+      url: "https://steele.omg.lol"
 markup:
   highlight:
     codeFences: true
@@ -77,10 +77,10 @@ menu:
       url: /blog/
       weight: 1
     - name: Categories
-      url: /category/
+      url: /categories/
       weight: 2
     - name: Tags
-      url: /tag/
+      url: /tags/
       weight: 3
     - name: Resources
       url: /resources/
