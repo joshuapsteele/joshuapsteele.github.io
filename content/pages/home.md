@@ -2,7 +2,7 @@
 author: joshuapsteele
 date: "2018-01-26T00:46:00+00:00"
 guid: https://joshuapsteele.com/?page_id=40142
-title: The Rev. Dev. Joshua P. Steele
+title: Home
 url: /
 
 ---
@@ -22,21 +22,3 @@ If you'd like to learn more about me, check out:
 - My [**/blog**](/blog/)
 - The [**/tools**](/resources/) I use
 - What I'm up to [**/now**](/now/)
-
-* * *
-
-## How can I help you?
-
-The contact form below goes straight to my inbox. I do my best to respond to every email!
-
-* * *
-
-## Find me elsewhere online
-
-* * *
-
-## Subscribe to my (very) occasional email newsletter
-
-Enter your best email
-
-[Powered by Buttondown.](https://buttondown.email/refer/joshuapsteele)

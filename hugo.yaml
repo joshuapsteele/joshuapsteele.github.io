@@ -5,8 +5,8 @@ languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
 taxonomies:
-  category: categories
-  tag: tags
+  category: category
+  tag: tag
 params:
   description: Joshua P. Steele
   env: production
@@ -77,10 +77,10 @@ menu:
       url: /blog/
       weight: 1
     - name: Categories
-      url: /categories/
+      url: /category/
       weight: 2
     - name: Tags
-      url: /tags/
+      url: /tag/
       weight: 3
     - name: Resources
       url: /resources/
