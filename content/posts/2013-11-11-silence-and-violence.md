@@ -30,7 +30,7 @@ twitter_cards_summary_img_size:
 url: /silence-and-violence/
 ---
 
-<figure class="wp-caption alignright" style="width: 300px">[![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)<figcaption class="wp-caption-text">Silent Cross by Margot Krebs Neale</figcaption></figure>
+[![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)
 
 **“Violence is not human destiny because the God of peace is the beginning and the end of human history…**
 

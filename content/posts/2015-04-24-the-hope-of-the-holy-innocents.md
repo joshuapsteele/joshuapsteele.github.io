@@ -214,8 +214,7 @@ The prophet Jeremiah witnessed Jerusalem destroyed and its inhabitants terrorize
 
 Imagine Eve, the mother of the living, weeping as she looks forward from the past to see all the horrible effects of the exile from Eden, and you’ll get a similar idea.
 
-<figure class="wp-block-image alignnone">![](http://68.media.tumblr.com/3db50ce023b508bf504989eb63cade85/tumblr_nudb6u53As1qfvq9bo1_r1_1280.jpg)<figcaption>“Mary Consoles Eve”; Crayon and pencil by Sr. Grace Remington, OCSO. Copyright 2005, Sisters of the Mississippi Abbey</figcaption></figure>Although some think Matthew used this verse due to the geographical proximity of Rachel’s grave to Bethlehem, it’s mo  
-re likely that the connection is theological.
+![Mary Consoles Eve; Crayon and pencil by Sr. Grace Remington, OCSO. Copyright 2005, Sisters of the Mississippi Abbey](http://68.media.tumblr.com/3db50ce023b508bf504989eb63cade85/tumblr_nudb6u53As1qfvq9bo1_r1_1280.jpg)
 
 The connection is HOPE.
 
