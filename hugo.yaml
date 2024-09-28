@@ -5,8 +5,8 @@ languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
 taxonomies:
-  category: category
-  tag: tag
+  category: categories
+  tag: tags
 params:
   description: Joshua P. Steele
   env: production
@@ -16,12 +16,17 @@ params:
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
+  showPostNavLinks: true
   showCodeCopyButtons: true
   comments: true
   hideFooter: true
   assets:
     favicon: /favicon.ico
     disableHLJS: true
+  editPost:
+    URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
