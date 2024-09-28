@@ -10,7 +10,7 @@ taxonomies:
 params:
   description: Joshua P. Steele
   env: production
-  defaultTheme: auto
+  # defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
   showReadingTime: true
@@ -36,24 +36,24 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
-  profileMode:
-    enabled: true
-    title: "The Rev. Dev." # optional default will be site title
-    subtitle: "Joshua P. Steele"
-    # imageUrl: "<image link>" # optional
-    # imageTitle: "<title of image as alt>" # optional
-    # imageWidth: 120 # custom size
-    # imageHeight: 120 # custom size
-    buttons:
-      - name: Blog
-        url: "/blog/"
-      - name: Github
-        url: "https://github.com/joshuapsteele"
-  socialIcons: # optional
-    - name: "micro.blog"
-      url: "https://social.joshuapsteele.com"
-    - name: "omg.lol"
-      url: "https://steele.omg.lol"
+  # profileMode:
+  #   enabled: true
+  #   title: "The Rev. Dev." # optional default will be site title
+  #   subtitle: "Joshua P. Steele"
+  #   imageUrl: "<image link>" # optional
+  #   imageTitle: "<title of image as alt>" # optional
+  #   imageWidth: 120 # custom size
+  #   imageHeight: 120 # custom size
+  #   buttons:
+  #     - name: Blog
+  #       url: "/blog/"
+  #     - name: Github
+  #       url: "https://github.com/joshuapsteele"
+  # socialIcons: # optional
+  #   - name: "micro.blog"
+  #     url: "https://social.joshuapsteele.com"
+  #   - name: "omg.lol"
+  #     url: "https://steele.omg.lol"
 markup:
   highlight:
     codeFences: true
