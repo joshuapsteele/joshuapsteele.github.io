@@ -19,7 +19,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Barth
-title: '&#8220;True Christianity cannot be a private Christianity&#8221; (Barth)'
+title: '"True Christianity cannot be a private Christianity" (Barth)'
 url: /true-christianity-cannot-be-a-private-christianity-barth/
 ---
 

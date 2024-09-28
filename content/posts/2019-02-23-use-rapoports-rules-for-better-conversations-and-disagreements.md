@@ -13,7 +13,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Use Rapoport&#8217;s Rules for Better Conversations and Disagreements
+title: Use Rapoport's Rules for Better Conversations and Disagreements
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
 ---
 

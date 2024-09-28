@@ -22,7 +22,7 @@ tags:
 - research
 - writing
 title: When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in
-  the Lord&#8217;s Prayer
+  the Lord's Prayer
 url: /when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/
 ---
 

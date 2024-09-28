@@ -11,7 +11,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Frustrated with Church? You&#8217;re the Problem!
+title: Frustrated with Church? You're the Problem!
 url: /frustrated-with-church-youre-the-problem/
 ---
 

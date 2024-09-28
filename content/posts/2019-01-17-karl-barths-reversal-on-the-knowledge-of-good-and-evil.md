@@ -14,7 +14,7 @@ rank_math_robots:
 tags:
 - Barth
 - research
-title: Karl Barth&#8217;s Reversal on the &#8220;Knowledge of Good and Evil&#8221;
+title: Karl Barth's Reversal on the "Knowledge of Good and Evil"
 url: /karl-barths-reversal-on-the-knowledge-of-good-and-evil/
 ---
 

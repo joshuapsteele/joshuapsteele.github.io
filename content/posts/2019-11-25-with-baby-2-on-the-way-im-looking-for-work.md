@@ -17,7 +17,7 @@ rank_math_primary_category:
 - "922"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'With baby #2 on the way, I&#8217;m looking for work!'
+title: 'With baby #2 on the way, I'm looking for work!'
 url: /with-baby-2-on-the-way-im-looking-for-work/
 ---
 

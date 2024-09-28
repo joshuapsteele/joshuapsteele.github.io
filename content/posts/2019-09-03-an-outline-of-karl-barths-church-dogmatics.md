@@ -23,7 +23,7 @@ rank_math_seo_score:
 tags:
 - Barth
 - research
-title: An Outline of Karl Barth&#8217;s Church Dogmatics
+title: An Outline of Karl Barth's Church Dogmatics
 url: /an-outline-of-karl-barths-church-dogmatics/
 ---
 

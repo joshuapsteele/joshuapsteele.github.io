@@ -15,7 +15,7 @@ tags:
 - Barth
 - Bible
 - research
-title: A List of Karl Barth&#8217;s Sermons
+title: A List of Karl Barth's Sermons
 url: /a-list-of-karl-barths-sermons/
 ---
 

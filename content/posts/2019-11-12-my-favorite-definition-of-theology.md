@@ -17,7 +17,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Jenson
-title: My favorite definition of &#8220;theology&#8221;
+title: My favorite definition of "theology"
 url: /my-favorite-definition-of-theology/
 ---
 

@@ -16,7 +16,7 @@ tags:
 - edc
 - reviews
 - tools
-title: 'Help, I&#8217;m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
+title: 'Help, I'm Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
 ---
 

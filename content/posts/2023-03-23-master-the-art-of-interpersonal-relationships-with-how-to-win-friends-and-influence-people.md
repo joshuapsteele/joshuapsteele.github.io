@@ -18,8 +18,8 @@ tags:
 - leadership
 - relationships
 - soft skills
-title: Master the Art of Interpersonal Relationships with &#8220;How to Win Friends
-  and Influence People&#8221;
+title: Master the Art of Interpersonal Relationships with "How to Win Friends
+  and Influence People"
 url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/
 ---
 

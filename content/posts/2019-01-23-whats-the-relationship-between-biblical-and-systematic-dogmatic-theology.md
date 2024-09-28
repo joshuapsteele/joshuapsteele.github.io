@@ -15,7 +15,7 @@ rank_math_robots:
 tags:
 - Bible
 - theology
-title: What&#8217;s the relationship between biblical and systematic/dogmatic theology?
+title: What's the relationship between biblical and systematic/dogmatic theology?
 url: /whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/
 ---
 

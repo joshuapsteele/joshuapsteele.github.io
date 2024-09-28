@@ -13,7 +13,7 @@ rank_math_og_content_image:
 - a:2:{s:5:"check";s:32:"025a5a8f7b6c690025e320d9aaa3781f";s:6:"images";a:1:{i:0;i:3857;}}
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Let&#8217;s Take Seth Godin to Church
+title: Let's Take Seth Godin to Church
 url: /lets-take-seth-godin-to-church/
 ---
 

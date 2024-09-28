@@ -17,7 +17,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'Improvising Church &#038; State: Overaccepting as a Synthesis of Anglican
+title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican
   and Anabaptist Approaches'
 url: /improvising-church-state/
 ---

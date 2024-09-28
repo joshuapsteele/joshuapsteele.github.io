@@ -18,7 +18,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Bonhoeffer
-title: Two of Bonhoeffer&#8217;s Most Convicting Paragraphs
+title: Two of Bonhoeffer's Most Convicting Paragraphs
 url: /two-of-bonhoeffers-most-convicting-paragraphs/
 ---
 

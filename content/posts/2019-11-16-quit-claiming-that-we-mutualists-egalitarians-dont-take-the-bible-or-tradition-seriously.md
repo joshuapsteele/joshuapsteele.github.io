@@ -15,7 +15,7 @@ rank_math_primary_category:
 - "1"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Quit claiming that we mutualists (egalitarians) don&#8217;t take the Bible
+title: Quit claiming that we mutualists (egalitarians) don't take the Bible
   or tradition seriously.
 url: /quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/
 ---

@@ -15,7 +15,7 @@ rank_math_seo_score:
 - "11"
 tags:
 - immigration
-title: You Can&#8217;t Follow Jesus and Hate Immigrants
+title: You Can't Follow Jesus and Hate Immigrants
 url: /you-cant-follow-jesus-and-hate-immigrants/
 ---
 

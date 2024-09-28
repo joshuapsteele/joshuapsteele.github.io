@@ -174,8 +174,8 @@ rank_math_robots:
 tags:
 - Anglican Compass
 - women's ordination
-title: 'If Women Can Be Saved, Then Women Can Be Priests: A Critique of the &#8220;in
-  persona Christi&#8221; Argument Against Women&#8217;s Ordination'
+title: 'If Women Can Be Saved, Then Women Can Be Priests: A Critique of the "in
+  persona Christi" Argument Against Women's Ordination'
 url: /if-women-can-be-saved-then-women-can-be-priests/
 ---
 

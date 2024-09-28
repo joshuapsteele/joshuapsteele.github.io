@@ -15,7 +15,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: A Deacon&#8217;s Last Day
+title: A Deacon's Last Day
 url: /a-deacons-last-day/
 ---
 

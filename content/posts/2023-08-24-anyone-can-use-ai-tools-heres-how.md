@@ -18,7 +18,7 @@ rank_math_seo_score:
 - "21"
 tags:
 - ai
-title: 'Anyone Can Use AI Tools: Here&#8217;s How'
+title: 'Anyone Can Use AI Tools: Here's How'
 url: /anyone-can-use-ai-tools-heres-how/
 ---
 

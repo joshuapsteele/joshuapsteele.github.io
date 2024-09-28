@@ -14,7 +14,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Reading Recommendations? Barth&#039;s &#038; Bonhoeffer&#039;s False Gods
+title: Reading Recommendations? Barth's and Bonhoeffer's False Gods
 url: /reading-recommendations-barths-bonhoeffers-false-gods/
 ---
 

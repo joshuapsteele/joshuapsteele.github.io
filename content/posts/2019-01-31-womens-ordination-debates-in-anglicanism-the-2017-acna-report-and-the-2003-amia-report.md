@@ -14,7 +14,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Anglican
-title: 'Women&#8217;s Ordination Debates in Anglicanism: The 2017 ACNA Report and
+title: 'Women's Ordination Debates in Anglicanism: The 2017 ACNA Report and
   the 2003 AMIA Report'
 url: /womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/
 ---

@@ -15,7 +15,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: Barth and Bonhoeffer on Religion&#8217;s False God(s)
+title: Barth and Bonhoeffer on Religion's False God(s)
 url: /barth-and-bonhoeffer-on-religions-false-gods/
 ---
 

@@ -19,7 +19,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - mental health
-title: It&#8217;s Time to Get Some Help
+title: It's Time to Get Some Help
 url: /its-time-to-get-some-help/
 ---
 

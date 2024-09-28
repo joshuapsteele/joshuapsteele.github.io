@@ -21,7 +21,7 @@ tagazine-media:
   13:03:27";}
 - a:7:{s:7:"primary";s:0:"";s:6:"images";a:4:{s:68:"http://www.callcentrehelper.com/images/stories/2010/white_papers.gif";a:6:{s:8:"file_url";s:68:"http://www.callcentrehelper.com/images/stories/2010/white_papers.gif";s:5:"width";i:187;s:6:"height";i:207;s:4:"type";s:5:"image";s:4:"area";i:38709;s:9:"file_path";s:0:"";}s:79:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/Michael-Pahl.jpg";a:6:{s:8:"file_url";s:79:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/Michael-Pahl.jpg";s:5:"width";i:250;s:6:"height";i:165;s:4:"type";s:5:"image";s:4:"area";i:41250;s:9:"file_path";s:0:"";}s:89:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2012/Carl-Ruby-13_001.jpg?w=250";a:6:{s:8:"file_url";s:89:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2012/Carl-Ruby-13_001.jpg?w=250";s:5:"width";i:250;s:6:"height";i:165;s:4:"type";s:5:"image";s:4:"area";i:41250;s:9:"file_path";s:0:"";}s:105:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/chris-williamson-fall-bible-conference.jpg";a:6:{s:8:"file_url";s:105:"http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/chris-williamson-fall-bible-conference.jpg";s:5:"width";i:250;s:6:"height";i:165;s:4:"type";s:5:"image";s:4:"area";i:41250;s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";i:4;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-02-19
   13:03:27";}
-title: Oh Cedarville&#8230;
+title: Oh Cedarville!
 url: /oh-cedarville/
 ---
 

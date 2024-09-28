@@ -20,7 +20,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: 'Barth, Bonhoeffer, &#038; The Theological Critique of Religion: My Reading
+title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading
   List This Fall'
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/
 ---

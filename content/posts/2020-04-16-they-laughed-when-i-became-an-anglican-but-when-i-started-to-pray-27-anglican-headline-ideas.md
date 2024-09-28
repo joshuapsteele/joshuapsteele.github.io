@@ -18,7 +18,7 @@ rank_math_robots:
 tags:
 - Anglican
 - copywriting
-title: '&#8220;They laughed when I became an Anglican, but when I started to pray&#8230;&#8221;
+title: '"They laughed when I became an Anglican, but when I started to pray!"
   27 Anglican Headline Ideas'
 url: /they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/
 ---

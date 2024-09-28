@@ -13,7 +13,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Learn more about Rublev&#8217;s Trinity icon [video]
+title: Learn more about Rublev's Trinity icon [video]
 url: /learn-more-about-rublevs-trinity-icon-video/
 ---
 

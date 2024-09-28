@@ -15,7 +15,7 @@ rank_math_primary_category:
 - "1"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Here&#8217;s what I&#8217;m committing myself to as a priest.
+title: Here's what I'm committing myself to as a priest.
 url: /heres-what-im-committing-myself-to-as-a-priest/
 ---
 

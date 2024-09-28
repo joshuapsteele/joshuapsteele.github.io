@@ -14,7 +14,7 @@ rank_math_robots:
 tags:
 - Bonhoeffer
 - research
-title: 'Bonhoeffer&#8217;s &#8220;Definition&#8221; of &#8220;Religion&#8221; in Prison:
+title: 'Bonhoeffer's "Definition" of "Religion" in Prison:
   15 Facets/Aspects'
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
 ---

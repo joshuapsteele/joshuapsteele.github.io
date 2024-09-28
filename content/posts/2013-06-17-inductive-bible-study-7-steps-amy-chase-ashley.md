@@ -27,7 +27,7 @@ rank_math_seo_score:
 - "81"
 rank_math_title:
 - Inductive Bible Study in 7 Steps - by Amy Chase Ashley
-title: 'Inductive Bible Study in 7 Steps: &#8220;Scripture, Handle With Care,&#8221;
+title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care,"
   by Amy Chase Ashley'
 total_sidebar_layout:
 - right_sidebar

@@ -15,7 +15,7 @@ rank_math_primary_category:
 - "909"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: The Hermeneutical Implications of Scripture&#8217;s Theological Location
+title: The Hermeneutical Implications of Scripture's Theological Location
 url: /hermeneutical-implications-scriptures-theological-location/
 ---
 

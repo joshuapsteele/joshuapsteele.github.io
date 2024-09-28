@@ -22,7 +22,7 @@ rank_math_og_content_image:
 - a:2:{s:5:"check";s:32:"2069c091f1889b4b802d7780790c055d";s:6:"images";a:0:{}}
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Cedarville&#8230;
+title: Cedarville!
 url: /cedarville-2/
 ---
 

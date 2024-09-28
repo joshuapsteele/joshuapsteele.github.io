@@ -15,7 +15,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: I&#8217;m quite excited for these Oxford Handbooks!
+title: I'm quite excited for these Oxford Handbooks!
 url: /im-quite-excited-for-these-oxford-handbooks/
 ---
 

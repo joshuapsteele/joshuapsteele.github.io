@@ -12,7 +12,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: What I&#8217;m Reading
+title: What I'm Reading
 url: /what-im-reading/
 ---
 

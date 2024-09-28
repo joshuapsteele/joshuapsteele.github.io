@@ -12,7 +12,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: What are your &#8220;must-own&#8221; biblical and theological studies reference
+title: What are your "must-own" biblical and theological studies reference
   works?
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/
 ---

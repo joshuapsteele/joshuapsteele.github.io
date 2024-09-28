@@ -19,8 +19,8 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - research
-title: Help! I&#8217;m looking for examples of &#8220;theological triage,&#8221; &#8220;doctrinal
-  taxonomy,&#8221; or &#8220;dogmatic rank&#8221;
+title: Help! I'm looking for examples of "theological triage," "doctrinal
+  taxonomy," or "dogmatic rank"
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/
 ---
 

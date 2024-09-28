@@ -16,7 +16,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: King Jesus&#039; Kingdom Gospel
+title: King Jesus' Kingdom Gospel
 url: /king-jesus-kingdom-gospel/
 ---
 

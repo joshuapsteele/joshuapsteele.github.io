@@ -9,7 +9,7 @@ guid: https://joshuapsteele.com/?p=43045
 id: 43045
 rank_math_internal_links_processed:
 - "1"
-title: 6 Things I&#8217;m Excited About (2024-08-04)
+title: 6 Things I'm Excited About (2024-08-04)
 url: /6-things-im-excited-about-2024-08-04/
 ---
 

@@ -13,7 +13,7 @@ rank_math_internal_links_processed:
 - "1"
 rank_math_seo_score:
 - "16"
-title: 'Life Lessons: 32 Things I&#8217;ve Learned So Far'
+title: 'Life Lessons: 32 Things I've Learned So Far'
 url: /life-lessons/
 ---
 

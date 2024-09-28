@@ -19,7 +19,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Barth
-title: 'Barth Timeline: A Chronology of Karl Barth&#8217;s Life'
+title: 'Barth Timeline: A Chronology of Karl Barth's Life'
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---
 

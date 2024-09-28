@@ -11,7 +11,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Let&#8217;s learn how to be bored again
+title: Let's learn how to be bored again
 url: /lets-learn-how-to-be-bored-again/
 ---
 

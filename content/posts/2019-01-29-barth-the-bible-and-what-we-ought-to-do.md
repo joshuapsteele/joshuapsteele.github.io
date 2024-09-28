@@ -14,7 +14,7 @@ rank_math_robots:
 tags:
 - Barth
 - Bible
-title: Barth, the Bible, and &#8220;What we ought to do&#8221;
+title: Barth, the Bible, and "What we ought to do"
 url: /barth-the-bible-and-what-we-ought-to-do/
 ---
 

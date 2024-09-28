@@ -21,8 +21,8 @@ tags:
 - Bonhoeffer
 - religion
 - research
-title: 'To Be or Not To Be Religious: A Clarification of Karl Barth&#8217;s and Dietrich
-  Bonhoeffer&#8217;s Divergence and Convergence Regarding Religion'
+title: 'To Be or Not To Be Religious: A Clarification of Karl Barth's and Dietrich
+  Bonhoeffer's Divergence and Convergence Regarding Religion'
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
 ---
 

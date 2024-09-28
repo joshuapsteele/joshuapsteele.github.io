@@ -14,7 +14,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'Dangerous Beauty: Phoenix &#038; Grand Canyon Trip 2018'
+title: 'Dangerous Beauty: Phoenix and Grand Canyon Trip 2018'
 total_sidebar_layout:
 - right_sidebar
 url: /dangerous-beauty-phoenix-grand-canyon-trip-2018/

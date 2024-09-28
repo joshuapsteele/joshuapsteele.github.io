@@ -18,7 +18,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Anglican
-title: Top 3 Reasons Why I&#8217;m an Anglican Christian
+title: Top 3 Reasons Why I'm an Anglican Christian
 total_sidebar_layout:
 - right_sidebar
 url: /top-3-reasons-im-anglican-christian/

@@ -22,7 +22,7 @@ rank_math_og_content_image:
 - a:2:{s:5:"check";s:32:"917fa68194d30e03b5a3d475bdd948f1";s:6:"images";a:1:{i:0;s:71:"https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650";}}
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Ok, Maybe a Bit More on Cedarville&#8230;
+title: Ok, Maybe a Bit More on Cedarville!
 url: /ok-maybe-a-bit-more-on-cedarville/
 ---
 

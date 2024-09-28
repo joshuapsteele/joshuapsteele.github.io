@@ -15,7 +15,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: '&#8220;Why You Never See Your Friends Anymore&#8221; (The Atlantic)'
+title: '"Why You Never See Your Friends Anymore" (The Atlantic)'
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
 ---
 

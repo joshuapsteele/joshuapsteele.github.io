@@ -24,7 +24,7 @@ rank_math_robots:
 tags:
 - Anglican Compass
 - women's ordination
-title: I&#8217;m a Female Priest and I Support My Opponents in the Women&#8217;s Ordination
+title: I'm a Female Priest and I Support My Opponents in the Women's Ordination
   Debate
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/
 ---

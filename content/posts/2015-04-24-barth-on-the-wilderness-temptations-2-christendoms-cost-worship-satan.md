@@ -21,7 +21,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'Barth on the Wilderness Temptations: #2, Christendom&#039;s Cost &#8212; Worship
+title: 'Barth on the Wilderness Temptations: #2, Christendom's Cost — Worship
   Satan'
 url: /barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan/
 ---

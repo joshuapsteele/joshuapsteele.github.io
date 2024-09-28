@@ -16,7 +16,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - questions
-title: 'Cut the &#8220;Positivity&#8221; Crap: What Frustrates You?'
+title: 'Cut the "Positivity" Crap: What Frustrates You?'
 total_sidebar_layout:
 - right_sidebar
 url: /cut-positivity-crap-frustrates/

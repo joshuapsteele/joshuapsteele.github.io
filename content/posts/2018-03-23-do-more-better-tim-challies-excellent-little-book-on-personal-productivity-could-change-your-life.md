@@ -14,7 +14,7 @@ rank_math_primary_category:
 - "987"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'Do More Better: Tim Challies&#8217; Excellent Little Book on Personal Productivity
+title: 'Do More Better: Tim Challies' Excellent Little Book on Personal Productivity
   Could Change Your Life'
 total_sidebar_layout:
 - right_sidebar

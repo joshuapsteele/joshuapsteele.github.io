@@ -15,7 +15,7 @@ rank_math_primary_category:
 - "922"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Here&#8217;s a video of my ordination to the Priesthood
+title: Here's a video of my ordination to the Priesthood
 url: /heres-a-video-of-my-ordination-to-the-priesthood/
 ---
 

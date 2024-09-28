@@ -13,7 +13,7 @@ rank_math_seo_score:
 - "5"
 tags:
 - acna
-title: I&#8217;m Resigning from Ordained Ministry in the Anglican Church in North
+title: I'm Resigning from Ordained Ministry in the Anglican Church in North
   America
 url: /im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/
 ---

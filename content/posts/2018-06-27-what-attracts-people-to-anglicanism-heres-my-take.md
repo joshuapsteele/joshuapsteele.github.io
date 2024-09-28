@@ -15,7 +15,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - Anglican
-title: What Attracts People to Anglicanism? Here&#8217;s My Take
+title: What Attracts People to Anglicanism? Here's My Take
 url: /what-attracts-people-to-anglicanism-heres-my-take/
 ---
 

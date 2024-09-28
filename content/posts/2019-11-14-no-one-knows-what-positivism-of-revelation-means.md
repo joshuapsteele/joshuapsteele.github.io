@@ -15,7 +15,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: No One Knows what &#8220;Positivism of Revelation&#8221; Means!
+title: No One Knows what "Positivism of Revelation" Means!
 url: /no-one-knows-what-positivism-of-revelation-means/
 ---
 

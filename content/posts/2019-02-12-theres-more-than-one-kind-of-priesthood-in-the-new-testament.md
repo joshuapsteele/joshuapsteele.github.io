@@ -15,7 +15,7 @@ rank_math_robots:
 tags:
 - Bible
 - theology
-title: There&#8217;s more than one kind of &#8220;priesthood&#8221; in the New Testament
+title: There's more than one kind of "priesthood" in the New Testament
 url: /theres-more-than-one-kind-of-priesthood-in-the-new-testament/
 ---
 

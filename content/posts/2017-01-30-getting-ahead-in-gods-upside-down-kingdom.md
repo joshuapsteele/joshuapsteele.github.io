@@ -17,7 +17,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: 'Getting Ahead in God&#8217;s Upside-Down Kingdom: An Appeal for a Consistently
+title: 'Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently
   Pro-Life Ethic'
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---

@@ -12,7 +12,7 @@ categories:
 date: "2019-01-30T14:31:31Z"
 fusion_builder_status:
 - ""
-guid: http://anglicancompass.com/?p=9885&#038;preview=true&#038;preview_id=9885
+guid: http://anglicancompass.com/?p=9885andpreview=trueandpreview_id=9885
 id: 9885
 kd_featured-image-2_post_id:
 - ""

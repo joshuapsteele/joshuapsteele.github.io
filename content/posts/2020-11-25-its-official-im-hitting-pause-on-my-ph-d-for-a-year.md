@@ -12,7 +12,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: It&#8217;s Official. I&#8217;m Hitting Pause on My Ph.D. for a Year
+title: It's Official. I'm Hitting Pause on My Ph.D. for a Year
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
 ---
 

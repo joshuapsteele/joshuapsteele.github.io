@@ -11,7 +11,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Frustrated with Church? Join the Club&#8230;
+title: Frustrated with Church? Join the Club!
 url: /frustrated-with-church-join-the-club/
 ---
 

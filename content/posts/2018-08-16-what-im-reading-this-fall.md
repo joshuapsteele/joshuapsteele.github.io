@@ -13,7 +13,7 @@ rank_math_robots:
 - a:1:{i:0;s:5:"index";}
 tags:
 - reading
-title: What I&#8217;m Reading this Fall
+title: What I'm Reading this Fall
 url: /what-im-reading-this-fall/
 ---
 

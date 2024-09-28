@@ -16,7 +16,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: 30 Works on Karl Barth &#038; Dietrich Bonhoeffer. Are There Others?
+title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
 url: /works-on-barth-and-bonhoeffer/
 ---
 

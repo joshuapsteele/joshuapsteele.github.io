@@ -17,7 +17,7 @@ rank_math_og_content_image:
 - a:2:{s:5:"check";s:32:"4195e952d0efa2cf205d7d3a915fbb6f";s:6:"images";a:1:{i:0;s:109:"https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590";}}
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: (Un)Righteous Anger? &#8211; Yoda, Jonah, Nahum, and Us
+title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
 twitter_cards_summary_img_size:
 - a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
 - a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}

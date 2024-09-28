@@ -12,7 +12,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Here&#8217;s the Template I Use to Take Notes on Books I Read
+title: Here's the Template I Use to Take Notes on Books I Read
 url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
 ---
 

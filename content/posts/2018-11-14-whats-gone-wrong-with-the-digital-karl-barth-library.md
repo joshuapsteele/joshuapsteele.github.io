@@ -15,7 +15,7 @@ tags:
 - Barth
 - Bonhoeffer
 - research
-title: What&#8217;s gone wrong with the Digital Karl Barth Library?
+title: What's gone wrong with the Digital Karl Barth Library?
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
 ---
 

@@ -15,7 +15,7 @@ rank_math_primary_category:
 - "987"
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Getting back on the &#8220;Getting Things Done&#8221; Productivity Bandwagon
+title: Getting back on the "Getting Things Done" Productivity Bandwagon
 total_sidebar_layout:
 - right_sidebar
 url: /getting-back-on-the-getting-things-done-productivity-bandwagon/

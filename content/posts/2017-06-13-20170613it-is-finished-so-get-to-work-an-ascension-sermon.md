@@ -27,7 +27,7 @@ rank_math_seo_score:
 - "16"
 rank_math_title:
 - It is Finished, a Sermon on the Ascension by Joshua P. Steele
-title: It is Finished! So, Get to Work! &#8211; A Sermon on the Ascension
+title: It is Finished! So, Get to Work! – A Sermon on the Ascension
 total_sidebar_layout:
 - right_sidebar
 url: /20170613it-is-finished-so-get-to-work-an-ascension-sermon/

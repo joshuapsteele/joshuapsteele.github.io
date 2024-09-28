@@ -15,7 +15,7 @@ rank_math_news_sitemap_robots:
 - index
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: The Lasting Supper &#8211; Luke 22:14-30
+title: The Lasting Supper – Luke 22:14-30
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
 ---
 

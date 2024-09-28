@@ -16,8 +16,8 @@ tags:
 - Barth
 - Bible
 - Bonhoeffer
-title: 'Here&#8217;s the Elevator Pitch for my Dissertation Proposal: &#8220;Scriptural,
-  but Not Religious&#8221;'
+title: 'Here's the Elevator Pitch for my Dissertation Proposal: "Scriptural,
+  but Not Religious"'
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/
 ---
 

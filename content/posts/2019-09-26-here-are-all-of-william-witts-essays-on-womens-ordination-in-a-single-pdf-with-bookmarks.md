@@ -15,7 +15,7 @@ rank_math_primary_category:
 - ""
 rank_math_robots:
 - a:1:{i:0;s:5:"index";}
-title: Here are all of William Witt&#8217;s essays on Women&#8217;s ordination, in
+title: Here are all of William Witt's essays on Women's ordination, in
   a single PDF (with bookmarks!)
 url: /here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/
 ---
