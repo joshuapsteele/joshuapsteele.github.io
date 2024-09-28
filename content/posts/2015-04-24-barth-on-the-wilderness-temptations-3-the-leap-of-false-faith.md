@@ -6,22 +6,7 @@ categories:
 date: "2015-04-24T09:13:36Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 id: 3299
-publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
-publicize_twitter_url:
-- ""
-- ""
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: 'Barth on the Wilderness Temptations: #3, The Leap of False Faith'
+title: "Barth on the Wilderness Temptations: #3, The Leap of False Faith"
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 ---
 

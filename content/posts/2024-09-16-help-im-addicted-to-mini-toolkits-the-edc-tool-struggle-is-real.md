@@ -8,15 +8,11 @@ date: "2024-09-16T16:09:39Z"
 guid: https://joshuapsteele.com/?p=43059
 id: 43059
 image: /wp-content/uploads/2024/09/58074_W7.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "13"
 tags:
 - edc
 - reviews
 - tools
-title: 'Help, I'm Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
+title: "Help, I'm Addicted to Mini Toolkits: The EDC Tool Struggle Is Real"
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
 ---
 

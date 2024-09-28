@@ -6,18 +6,12 @@ date: "2018-04-17T21:30:36Z"
 guid: https://joshuapsteele.com/?p=41208
 id: 41208
 image: /wp-content/uploads/2018/04/pablo-1.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Barth
 - Bible
 - Bonhoeffer
-title: 'Here's the Elevator Pitch for my Dissertation Proposal: "Scriptural,
-  but Not Religious"'
+title: "Here's the Elevator Pitch for my Dissertation Proposal: 'Scriptural,
+  but Not Religious'"
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/
 ---
 

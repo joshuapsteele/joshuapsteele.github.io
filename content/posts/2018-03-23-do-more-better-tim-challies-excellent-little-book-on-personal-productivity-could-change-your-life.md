@@ -6,16 +6,7 @@ date: "2018-03-23T13:38:00Z"
 guid: https://joshuapsteele.com/?p=41180
 id: 41180
 image: /wp-content/uploads/2018/03/pablo-1.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: 'Do More Better: Tim Challies' Excellent Little Book on Personal Productivity
-  Could Change Your Life'
+title: "Do More Better: Tim Challies' Excellent Little Book on Personal Productivity Could Change Your Life"
 total_sidebar_layout:
 - right_sidebar
 url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/

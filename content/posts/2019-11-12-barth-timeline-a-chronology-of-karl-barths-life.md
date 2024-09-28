@@ -5,21 +5,9 @@ categories:
 date: "2019-11-12T16:07:20Z"
 guid: https://joshuapsteele.com/?p=42013
 id: 42013
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"787223adce3a79e306e2b4dd881254bd";s:6:"images";a:1:{i:0;i:42016;}}
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Barth
-title: 'Barth Timeline: A Chronology of Karl Barth's Life'
+title: "Barth Timeline: A Chronology of Karl Barth's Life"
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---
 

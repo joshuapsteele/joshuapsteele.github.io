@@ -1,31 +1,8 @@
 ---
 author: joshuapsteele
-categories:
-- Personal
-custom_permalink:
-- mothers-day-poem/
-date: "2009-05-10T22:43:54Z"
-guid: http://windowinthesky.wordpress.com/?p=395
-id: 395
+date: 2009-05-10T00:00:00Z
 image: /wp-content/uploads/2009/05/pablo-3.png
-rank_math_description:
-- This is a Mother's Day poem I wrote for my mom back in 2009. It's titled "From a
-  Grateful Son," and I hope that you enjoy it!
-rank_math_focus_keyword:
-- Mother
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "70"
-rank_math_title:
-- A Mother's Day Poem for the Best Mom - Joshua P. Steele
-title: 'From a Grateful Son: A Mother's Day Poem'
+title: "From a Grateful Son: A Mother's Day Poem"
 url: /mothers-day-poem/
 ---
 

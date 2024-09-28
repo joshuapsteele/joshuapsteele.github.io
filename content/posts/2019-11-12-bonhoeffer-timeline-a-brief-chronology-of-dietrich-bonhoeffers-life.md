@@ -5,19 +5,9 @@ categories:
 date: "2019-11-12T15:21:09Z"
 guid: https://joshuapsteele.com/?p=42011
 id: 42011
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Bonhoeffer
-title: 'Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life'
+title: "Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life"
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
 ---
 

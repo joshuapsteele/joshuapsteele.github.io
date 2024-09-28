@@ -6,22 +6,7 @@ categories:
 date: "2015-04-24T09:13:42Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/barth-on-the-wilderness-temptations-1-stones-into-bread/
 id: 3302
-publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
-publicize_twitter_url:
-- ""
-- ""
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: 'Karl Barth on the Wilderness Temptations: #1, Stones into Bread'
+title: "Karl Barth on the Wilderness Temptations: #1, Stones into Bread"
 url: /barth-on-the-wilderness-temptations-1-stones-into-bread/
 ---
 

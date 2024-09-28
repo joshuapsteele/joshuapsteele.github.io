@@ -5,19 +5,7 @@ categories:
 date: "2019-11-25T16:14:29Z"
 guid: https://joshuapsteele.com/?p=42105
 id: 42105
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"c6c0defe1aff919f5c27e02d9c2d3cfa";s:6:"images";a:1:{i:0;i:42107;}}
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: 'With baby #2 on the way, I'm looking for work!'
+title: "With baby #2 on the way, I'm looking for work!"
 url: /with-baby-2-on-the-way-im-looking-for-work/
 ---
 

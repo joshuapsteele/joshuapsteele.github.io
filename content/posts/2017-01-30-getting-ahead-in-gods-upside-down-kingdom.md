@@ -9,16 +9,7 @@ enclosure:
 guid: https://joshuapsteele.com/?p=4174
 id: 4174
 image: /wp-content/uploads/2017/01/pablo-12.png
-jetpack_seo_noindex:
-- ""
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: 'Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently
-  Pro-Life Ethic'
+title: "Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently Pro-Life Ethic"
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
 

@@ -6,23 +6,13 @@ date: "2016-12-31T18:15:34Z"
 guid: https://joshuapsteele.com/?p=4042
 id: 4042
 image: /wp-content/uploads/2016/12/pablo-6.png
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Barth
 - Bonhoeffer
 - religion
 - research
-title: 'To Be or Not To Be Religious: A Clarification of Karl Barth's and Dietrich
-  Bonhoeffer's Divergence and Convergence Regarding Religion'
+title: "To Be or Not To Be Religious: A Clarification of Karl Barth's and Dietrich
+  Bonhoeffer's Divergence and Convergence Regarding Religion"
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
 ---
 

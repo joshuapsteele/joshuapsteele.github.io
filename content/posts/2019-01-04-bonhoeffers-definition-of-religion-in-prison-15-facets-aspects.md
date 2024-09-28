@@ -5,17 +5,10 @@ categories:
 date: "2019-01-04T14:59:19Z"
 guid: https://joshuapsteele.com/?p=41548
 id: 41548
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Bonhoeffer
 - research
-title: 'Bonhoeffer's "Definition" of "Religion" in Prison:
-  15 Facets/Aspects'
+title: "Bonhoeffer's 'Definition' of 'Religion' in Prison: 15 Facets/Aspects"
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
 ---
 
