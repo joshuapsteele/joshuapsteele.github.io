@@ -52,6 +52,8 @@ params:
   socialIcons: # optional
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/joshuapsteele/"
     - name: micro.blog
       url: "https://social.joshuapsteele.com"
     - name: omg.lol
