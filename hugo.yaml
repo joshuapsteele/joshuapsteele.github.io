@@ -45,11 +45,13 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
+      - name: About
+        url: "/about/"
       - name: Blog
         url: "/blog/"
-      - name: Github
-        url: "https://github.com/joshuapsteele"
   socialIcons: # optional
+    - name: GitHub
+      url: "https://github.com/joshuapsteele/"
     - name: micro.blog
       url: "https://social.joshuapsteele.com"
     - name: omg.lol
@@ -73,21 +75,18 @@ outputFormats:
     baseName: feed
 menu:
   main:
+    - name: About
+      url: /about/
+      weight: 1
     - name: Blog
       url: /blog/
-      weight: 1
-    - name: Categories
-      url: /categories/
       weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
     - name: Resources
       url: /resources/
-      weight: 4
+      weight: 5
     - name: Search
       url: /search?
-      weight: 5
+      weight: 6
     - name: Social
       url: http://social.joshuapsteele.com/
-      weight: 6
+      weight: 7

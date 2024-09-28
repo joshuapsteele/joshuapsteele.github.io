@@ -33,7 +33,13 @@ My wife’s an avid runner, so we splurged for a nice [Sole F-85 treadmill](http
 
 And I pulled the trigger on a power rack: [Rep Fitness’s PR-1100](https://repfitness.com/products/pr-1100-power-rack).
 
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><figure class="wp-block-image size-medium">![Valor Fitness BD-9 Squat Stands](https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg)</figure><figure class="wp-block-image size-medium">![Rep Fitness PR-1100 Power Rack](https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg)</figure><figure class="wp-block-image size-medium">![Rep Fitness PR-1100 Power Rack](https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg)</figure></figure>Next on my list, as a part of [getting back into the saddle](https://joshuapsteele.com/back-in-the-saddle/), as it were, is USING this equipment more regularly, as a part of getting back into shape.
+![Valor Fitness BD-9 Squat Stands](https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg)
+
+![Rep Fitness PR-1100 Power Rack](https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg)
+
+![Rep Fitness PR-1100 Power Rack](https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg)
+
+Next on my list, as a part of [getting back into the saddle](https://joshuapsteele.com/back-in-the-saddle/), as it were, is USING this equipment more regularly, as a part of getting back into shape.
 
 Future upgrades to the home gym include:
 
