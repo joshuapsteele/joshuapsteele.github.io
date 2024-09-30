@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Coding Bootcamp on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/tags/coding-bootcamp/</link>
+    <link>http://localhost:1313/tags/coding-bootcamp/</link>
     <description>Recent content in Coding Bootcamp on Joshua P. Steele</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 03 Feb 2023 17:42:02 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/tags/coding-bootcamp/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/coding-bootcamp/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
-      <link>https://joshuapsteele.github.io/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
+      <link>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
       <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <guid>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
       <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;&#xA;&lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;&#xA;&lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
     </item>
   </channel>

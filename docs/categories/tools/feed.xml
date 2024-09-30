@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tools on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/categories/tools/</link>
+    <link>http://localhost:1313/categories/tools/</link>
     <description>Recent content in Tools on Joshua P. Steele</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 16 Sep 2024 16:09:39 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/categories/tools/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/tools/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Help, I&#39;m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real</title>
-      <link>https://joshuapsteele.github.io/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/</link>
+      <link>http://localhost:1313/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/</link>
       <pubDate>Mon, 16 Sep 2024 16:09:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/</guid>
+      <guid>http://localhost:1313/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/</guid>
       <description>&lt;p&gt;I don’t know what it is about mini toolkits, but I love them.&lt;/p&gt;&#xA;&lt;p&gt;Actually, scratch that. I know why. It’s the same reason I love buying tools and books, more generally: the illusion of control. I like how having tools (and a great personal library) makes me feel like I’m ready for whatever life throws at me (ha!).&lt;/p&gt;&#xA;&lt;p&gt;It’s why I liked carrying around a pocketknife as a kid, and it’s why I’m into EDC (everyday carry) and tools as an adult.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Home Improvement Roadmap and Roadblocks</title>
-      <link>https://joshuapsteele.github.io/home-improvement-roadmap-and-roadblocks/</link>
+      <link>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</link>
       <pubDate>Sun, 14 Jul 2024 16:26:44 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/home-improvement-roadmap-and-roadblocks/</guid>
+      <guid>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</guid>
       <description>&lt;p&gt;We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.&lt;/p&gt;&#xA;&lt;p&gt;Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:&lt;/p&gt;&#xA;&lt;p&gt;– Replace roof and gutters&lt;br&gt;&#xA;– Replace furnace and central air conditioning&lt;/p&gt;</description>
     </item>
   </channel>

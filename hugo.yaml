@@ -13,7 +13,7 @@ params:
   mainSections: ["posts"]  # Defines which content section to show on homepage
   themeColor: "#ff6600"     # Optional: set a custom theme color for Ananke
   showShareButtons: true
-  showReadingTime: true
+  show_reading_time: true
   comments: true
   assets:
     favicon: /favicon.ico
@@ -22,12 +22,25 @@ params:
     Text: "Suggest Changes"
     appendFilePath: true
 
+  ananke_socials:
+    - name: twitter
+      url: "https://x.com/joshuapsteele"
+    - name: github
+      url: "https://github.com/joshuapsteele/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/joshuapsteele/"
+    - name: microblog
+      url: "https://social.joshuapsteele.com"
+    - name: omglol
+      url: "https://steele.omg.lol"
+
   social:
     twitter: "joshuapsteele"  # Define twitter handle directly for sharing purposes
     github: "https://github.com/joshuapsteele/"
     linkedin: "https://www.linkedin.com/in/joshuapsteele/"
     microblog: "https://social.joshuapsteele.com"
     omglol: "https://steele.omg.lol"
+    
   socialLinks:  # A separate section for links used in your template
     - name: "GitHub"
       url: "https://github.com/joshuapsteele/"
@@ -74,3 +87,7 @@ menu:
     - name: Social
       url: http://social.joshuapsteele.com/
       weight: 7
+
+services:
+  disqus:
+    shortname: 'joshuapsteele.disqus.com'

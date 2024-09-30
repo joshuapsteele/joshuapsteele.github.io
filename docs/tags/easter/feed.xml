@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Easter on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/tags/easter/</link>
+    <link>http://localhost:1313/tags/easter/</link>
     <description>Recent content in Easter on Joshua P. Steele</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 18 Mar 2024 20:49:57 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/tags/easter/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/easter/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death in His Grave</title>
-      <link>https://joshuapsteele.github.io/death-in-his-grave/</link>
+      <link>http://localhost:1313/death-in-his-grave/</link>
       <pubDate>Mon, 18 Mar 2024 20:49:57 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/death-in-his-grave/</guid>
+      <guid>http://localhost:1313/death-in-his-grave/</guid>
       <description>&lt;p&gt;With Holy Week and Easter coming up, I’ve been thinking about music and artwork that I’ve found particularly poignant when reflection on the crucifixion and resurrection.&lt;/p&gt;&#xA;&lt;p&gt;First, I’ve seen many icons of the resurrection (“anastasis,” in Greek) like the one below.&lt;/p&gt;&#xA;&lt;p&gt;But I don’t think I fully appreciated the image until I realized it was Adam and Eve that Christ is helping up out of their graves. He’s trampled down the doors/gates of Hell and is taking an elderly Adam and an elderly Eve by the hand. Rescuing them from the realm of Death, in order to bring them back to eternal life with God.&lt;/p&gt;</description>
     </item>
   </channel>

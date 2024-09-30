@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Security on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/tags/security/</link>
+    <link>http://localhost:1313/tags/security/</link>
     <description>Recent content in Security on Joshua P. Steele</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 25 Jul 2023 21:24:41 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/tags/security/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/security/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title>
-      <link>https://joshuapsteele.github.io/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
+      <link>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
       <pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
+      <guid>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p&gt;&#xA;&lt;p&gt;This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p&gt;</description>
     </item>
   </channel>
