@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ChatGPT on Joshua P. Steele</title>
     <link>https://joshuapsteele.github.io/tags/chatgpt/</link>
     <description>Recent content in ChatGPT on Joshua P. Steele</description>
-    <generator>Hugo -- 0.120.4</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 19 Dec 2022 14:17:13 +0000</lastBuildDate>
     <atom:link href="https://joshuapsteele.github.io/tags/chatgpt/feed.xml" rel="self" type="application/rss+xml" />
@@ -13,8 +13,7 @@
       <link>https://joshuapsteele.github.io/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</link>
       <pubDate>Mon, 19 Dec 2022 14:17:13 +0000</pubDate>
       <guid>https://joshuapsteele.github.io/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</guid>
-      <description>Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:
-High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.</description>
+      <description>&lt;p&gt;Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:&lt;/p&gt;&#xA;&lt;p&gt;High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

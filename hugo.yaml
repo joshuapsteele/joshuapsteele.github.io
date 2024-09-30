@@ -1,63 +1,43 @@
-# baseURL: https://joshuapsteele.com
 baseURL: https://joshuapsteele.github.io
 publishDir: docs
 languageCode: en-US
 title: Joshua P. Steele
-theme: PaperMod
+theme: "github.com/theNewDynamic/gohugo-theme-ananke"
 taxonomies:
   category: categories
   tag: tags
+
 params:
-  description: Joshua P. Steele
+  description: "Joshua P. Steele - Personal Blog and Projects"
   env: production
-  defaultTheme: auto
-  disableThemeToggle: true
+  mainSections: ["posts"]  # Defines which content section to show on homepage
+  themeColor: "#ff6600"     # Optional: set a custom theme color for Ananke
   showShareButtons: true
   showReadingTime: true
-  showToc: true
-  showBreadCrumbs: true
-  showPostNavLinks: true
-  showCodeCopyButtons: true
   comments: true
-  hideFooter: true
   assets:
     favicon: /favicon.ico
-    disableHLJS: true
   editPost:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
-  fuseOpts:
-    isCaseSensitive: false
-    shouldSort: true
-    location: 0
-    distance: 1000
-    threshold: 0.4
-    minMatchCharLength: 0
-    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
-    keys: ["title", "permalink", "summary", "content"]
-  profileMode:
-    enabled: true
-    title: "Joshua P. Steele" # optional default will be site title
-    subtitle: "The Rev. Dev."
-    imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
-    imageTitle: "Joshua P. Steele" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
-    buttons:
-      - name: About
-        url: "/about/"
-      - name: Blog
-        url: "/blog/"
-  socialIcons: # optional
-    - name: GitHub
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  social:
+    twitter: "joshuapsteele"  # Define twitter handle directly for sharing purposes
+    github: "https://github.com/joshuapsteele/"
+    linkedin: "https://www.linkedin.com/in/joshuapsteele/"
+    microblog: "https://social.joshuapsteele.com"
+    omglol: "https://steele.omg.lol"
+  socialLinks:  # A separate section for links used in your template
+    - name: "GitHub"
       url: "https://github.com/joshuapsteele/"
-    - name: LinkedIn
+    - name: "LinkedIn"
       url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: micro.blog
+    - name: "MicroBlog"
       url: "https://social.joshuapsteele.com"
-    - name: omg.lol
+    - name: "omg.lol"
       url: "https://steele.omg.lol"
+
 markup:
   highlight:
     codeFences: true
@@ -66,15 +46,17 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
 outputs:
   home:
     - HTML
     - RSS
-    - JSON
+
 outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
+
 menu:
   main:
     - name: About
