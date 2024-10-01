@@ -13,48 +13,18 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
   showShareButtons: true
-<<<<<<< HEAD
-  show_reading_time: true
-=======
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
   showPostNavLinks: true
   showCodeCopyButtons: true
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
   comments: true
-  hideFooter: true
+  hideFooter: false
   assets:
     favicon: /favicon.ico
     disableHLJS: true
   editPost:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
-<<<<<<< HEAD
-    Text: "Suggest Changes"
-    appendFilePath: true
-
-  ananke_socials:
-    - name: twitter
-      url: "https://x.com/joshuapsteele"
-    - name: github
-      url: "https://github.com/joshuapsteele/"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: microblog
-      url: "https://social.joshuapsteele.com"
-    - name: omglol
-      url: "https://steele.omg.lol"
-
-  social:
-    twitter: "joshuapsteele"  # Define twitter handle directly for sharing purposes
-    github: "https://github.com/joshuapsteele/"
-    linkedin: "https://www.linkedin.com/in/joshuapsteele/"
-    microblog: "https://social.joshuapsteele.com"
-    omglol: "https://steele.omg.lol"
-    
-  socialLinks:  # A separate section for links used in your template
-    - name: "GitHub"
-=======
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
   fuseOpts:
@@ -69,7 +39,7 @@ params:
   profileMode:
     enabled: true
     title: "Joshua P. Steele" # optional default will be site title
-    subtitle: "The Rev. Dev."
+    subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
     imageWidth: 120 # custom size
@@ -81,11 +51,10 @@ params:
         url: "/blog/"
   socialIcons: # optional
     - name: GitHub
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       url: "https://github.com/joshuapsteele/"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: micro.blog
+    - name: microblog
       url: "https://social.joshuapsteele.com"
     - name: omg.lol
       url: "https://steele.omg.lol"
@@ -116,14 +85,10 @@ menu:
       weight: 2
     - name: Resources
       url: /resources/
-      weight: 5
+      weight: 3
     - name: Search
       url: /search?
-      weight: 6
+      weight: 4
     - name: Social
       url: http://social.joshuapsteele.com/
-      weight: 7
-
-services:
-  disqus:
-    shortname: 'joshuapsteele.disqus.com'
+      weight: 5

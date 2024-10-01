@@ -1,32 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-<<<<<<< HEAD
     <title>Relationships on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/relationships/</link>
-    <description>Recent content in Relationships on Joshua P. Steele</description>
-    <generator>Hugo</generator>
-=======
-    <title>relationships on Joshua P. Steele</title>
     <link>https://joshuapsteele.github.io/tags/relationships/</link>
-    <description>Recent content in relationships on Joshua P. Steele</description>
-    <generator>Hugo -- 0.120.4</generator>
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
+    <description>Recent content in Relationships on Joshua P. Steele</description>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 23 Mar 2023 12:29:48 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/relationships/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuapsteele.github.io/tags/relationships/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Master the Art of Interpersonal Relationships with &#34;How to Win Friends and Influence People&#34;</title>
-      <link>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
+      <link>https://joshuapsteele.github.io/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
       <pubDate>Thu, 23 Mar 2023 12:29:48 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
-      <description>&lt;p&gt;Dale Carnegie’s timeless classic, &lt;em&gt;&lt;a href=&#34;https://amzn.to/3K0VcaM&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;&lt;/em&gt;, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.&lt;/p&gt;&#xA;&lt;p&gt;In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!&lt;/p&gt;</description>
-=======
       <guid>https://joshuapsteele.github.io/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
-      <description>Dale Carnegie’s timeless classic, How to Win Friends and Influence People, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.
-In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!</description>
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
+      <description>&lt;p&gt;Dale Carnegie’s timeless classic, &lt;em&gt;&lt;a href=&#34;https://amzn.to/3K0VcaM&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;&lt;/em&gt;, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.&lt;/p&gt;
+&lt;p&gt;In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

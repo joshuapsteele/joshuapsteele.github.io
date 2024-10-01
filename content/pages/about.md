@@ -2,7 +2,7 @@
 author: joshuapsteele
 date: "2018-01-26T00:46:00+00:00"
 guid: https://joshuapsteele.com/?page_id=40142
-title: Home
+title: About
 url: /about/
 
 ---

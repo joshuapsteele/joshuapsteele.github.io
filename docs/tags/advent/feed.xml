@@ -1,34 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-<<<<<<< HEAD
     <title>Advent on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/advent/</link>
-    <description>Recent content in Advent on Joshua P. Steele</description>
-    <generator>Hugo</generator>
-=======
-    <title>advent on Joshua P. Steele</title>
     <link>https://joshuapsteele.github.io/tags/advent/</link>
-    <description>Recent content in advent on Joshua P. Steele</description>
-    <generator>Hugo -- 0.120.4</generator>
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
+    <description>Recent content in Advent on Joshua P. Steele</description>
+    <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 28 Nov 2020 00:22:13 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/advent/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://joshuapsteele.github.io/tags/advent/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Haven’t You Torn The Sky Open Yet?</title>
-      <link>http://localhost:1313/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</link>
+      <link>https://joshuapsteele.github.io/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</link>
       <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
-<<<<<<< HEAD
-      <guid>http://localhost:1313/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;figure class=&#34;wp-block-audio&#34;&gt;&lt;audio controls=&#34;&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3&#34;&gt;&lt;/audio&gt;&lt;/figure&gt;---&#xA;&lt;h2 id=&#34;if-there-are-two-things-i-hate-they-are-waiting-and-staying-awake&#34;&gt;If there are two things I hate, they are waiting and staying awake.&lt;/h2&gt;&#xA;&lt;p&gt;I hate waiting.&lt;/p&gt;&#xA;&lt;p&gt;Ask anyone who knows me. I am absolutely horrible when it comes to delayed gratification. I’ve been known to open new boxes of cereal on the way home from the store.&lt;/p&gt;&#xA;&lt;p&gt;And I hate staying awake.&lt;/p&gt;</description>
-=======
       <guid>https://joshuapsteele.github.io/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</guid>
-      <description>Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.
---- If there are two things I hate, they are waiting and staying awake. I hate waiting.
-Ask anyone who knows me. I am absolutely horrible when it comes to delayed gratification. I’ve been known to open new boxes of cereal on the way home from the store.
-And I hate staying awake.</description>
->>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
+      <description>&lt;p&gt;&lt;em&gt;Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.&lt;/em&gt;&lt;/p&gt;
+&lt;figure class=&#34;wp-block-audio&#34;&gt;&lt;audio controls=&#34;&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3&#34;&gt;&lt;/audio&gt;&lt;/figure&gt;---
+&lt;h2 id=&#34;if-there-are-two-things-i-hate-they-are-waiting-and-staying-awake&#34;&gt;If there are two things I hate, they are waiting and staying awake.&lt;/h2&gt;
+&lt;p&gt;I hate waiting.&lt;/p&gt;
+&lt;p&gt;Ask anyone who knows me. I am absolutely horrible when it comes to delayed gratification. I’ve been known to open new boxes of cereal on the way home from the store.&lt;/p&gt;
+&lt;p&gt;And I hate staying awake.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
