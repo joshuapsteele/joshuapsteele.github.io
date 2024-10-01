@@ -8,8 +8,6 @@ url: /about/
 ---
 ## Joshua P. Steele, "The Rev. Dev."
 
-This is a test of the GitHub action to deploy and update my site.
-
 I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
 
 As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)) with three Bible/theology degrees.
