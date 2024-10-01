@@ -1,137 +1,245 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Joshua P. Steele</title>
     <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Joshua P. Steele</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.120.4</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 26 Sep 2024 11:39:54 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/personal/</link>
       <pubDate>Thu, 26 Sep 2024 11:39:54 +0000</pubDate>
       <guid>http://localhost:1313/categories/personal/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/personal/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Tools</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/tools/</link>
       <pubDate>Mon, 16 Sep 2024 16:09:39 +0000</pubDate>
       <guid>http://localhost:1313/categories/tools/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/tools/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Bible and Scripture</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/bible-and-scripture/</link>
       <pubDate>Fri, 13 Sep 2024 16:19:56 +0000</pubDate>
       <guid>http://localhost:1313/categories/bible-and-scripture/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/bible-and-scripture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/bible-and-scripture/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Church and Society</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/church-and-society/</link>
       <pubDate>Fri, 13 Sep 2024 16:19:56 +0000</pubDate>
       <guid>http://localhost:1313/categories/church-and-society/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/church-and-society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/church-and-society/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Church and Theology</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/church-and-theology/</link>
       <pubDate>Mon, 09 Sep 2024 14:03:42 +0000</pubDate>
       <guid>http://localhost:1313/categories/church-and-theology/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/church-and-theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/church-and-theology/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>The Christian Life</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/the-christian-life/</link>
       <pubDate>Mon, 09 Sep 2024 14:03:42 +0000</pubDate>
       <guid>http://localhost:1313/categories/the-christian-life/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/the-christian-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/the-christian-life/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Miscellaneous</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/miscellaneous/</link>
       <pubDate>Wed, 04 Sep 2024 10:51:34 +0000</pubDate>
       <guid>http://localhost:1313/categories/miscellaneous/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/miscellaneous/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/miscellaneous/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Productivity and Time Management</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/productivity-and-time-management/</link>
       <pubDate>Wed, 03 Jul 2024 12:41:36 +0000</pubDate>
       <guid>http://localhost:1313/categories/productivity-and-time-management/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/productivity-and-time-management/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/productivity-and-time-management/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/uncategorized/</link>
       <pubDate>Fri, 08 Mar 2024 12:26:14 +0000</pubDate>
       <guid>http://localhost:1313/categories/uncategorized/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/uncategorized/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/uncategorized/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Pastoral Ministry</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/pastoral-ministry/</link>
       <pubDate>Wed, 08 Nov 2023 19:50:28 +0000</pubDate>
       <guid>http://localhost:1313/categories/pastoral-ministry/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/pastoral-ministry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/pastoral-ministry/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Technology</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Thu, 24 Aug 2023 19:39:18 +0000</pubDate>
       <guid>http://localhost:1313/categories/technology/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/technology/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Software Engineering</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/software-engineering/</link>
       <pubDate>Mon, 03 Jul 2023 21:08:09 +0000</pubDate>
       <guid>http://localhost:1313/categories/software-engineering/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/software-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/software-engineering/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Ministry</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/ministry/</link>
       <pubDate>Thu, 07 Oct 2021 06:52:40 +0000</pubDate>
       <guid>http://localhost:1313/categories/ministry/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/ministry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/ministry/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Sermons</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/sermons/</link>
       <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
       <guid>http://localhost:1313/categories/sermons/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/sermons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/sermons/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Dissertation</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/dissertation/</link>
       <pubDate>Wed, 25 Nov 2020 18:09:02 +0000</pubDate>
       <guid>http://localhost:1313/categories/dissertation/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/dissertation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/dissertation/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/opinion/</link>
       <pubDate>Thu, 02 Jul 2020 06:00:53 +0000</pubDate>
       <guid>http://localhost:1313/categories/opinion/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/opinion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/opinion/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Theology</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/theology/</link>
       <pubDate>Mon, 18 Nov 2019 15:31:52 +0000</pubDate>
       <guid>http://localhost:1313/categories/theology/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/theology/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Anglicanism</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/categories/anglicanism/</link>
       <pubDate>Thu, 26 Sep 2019 05:00:18 +0000</pubDate>
       <guid>http://localhost:1313/categories/anglicanism/</guid>
+=======
+      <link>https://joshuapsteele.github.io/categories/anglicanism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/categories/anglicanism/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
   </channel>

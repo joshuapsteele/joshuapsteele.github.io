@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+<<<<<<< HEAD
     <title>Testing on Joshua P. Steele</title>
     <link>http://localhost:1313/tags/testing/</link>
     <description>Recent content in Testing on Joshua P. Steele</description>
     <generator>Hugo</generator>
+=======
+    <title>testing on Joshua P. Steele</title>
+    <link>https://joshuapsteele.github.io/tags/testing/</link>
+    <description>Recent content in testing on Joshua P. Steele</description>
+    <generator>Hugo -- 0.120.4</generator>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     <language>en-US</language>
     <lastBuildDate>Wed, 21 Dec 2022 21:08:05 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/testing/feed.xml" rel="self" type="application/rss+xml" />
@@ -12,8 +19,14 @@
       <title>Software Testing: Possibilities, Problems, and Principles</title>
       <link>http://localhost:1313/software-testing-possibilities-problems-and-principles/</link>
       <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/software-testing-possibilities-problems-and-principles/</guid>
       <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;&#xA;&lt;figure&gt;![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)&lt;figcaption&gt;Khorikov-UT-HI.png&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)&lt;figcaption&gt;Aniche-HI.png&lt;/figcaption&gt;&lt;/figure&gt;---&#xA;&lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;&#xA;&lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/software-testing-possibilities-problems-and-principles/</guid>
+      <description>Note: Throughout what follows, I am heavily indebted to two books in particular: Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov (Manning Publications, 2020) and Effective Software Testing: A Developer’s Guide by Mauricio Aniche (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.
+![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)Khorikov-UT-HI.png![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)Aniche-HI.png--- Software Testing, Our Field’s Least-Sexy Superpower Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower.</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
   </channel>
 </rss>

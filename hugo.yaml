@@ -1,24 +1,35 @@
+# baseURL: https://joshuapsteele.com
 baseURL: https://joshuapsteele.github.io
 publishDir: docs
 languageCode: en-US
 title: Joshua P. Steele
-theme: "github.com/theNewDynamic/gohugo-theme-ananke"
+theme: PaperMod
 taxonomies:
   category: categories
   tag: tags
-
 params:
-  description: "Joshua P. Steele - Personal Blog and Projects"
+  description: Joshua P. Steele
   env: production
-  mainSections: ["posts"]  # Defines which content section to show on homepage
-  themeColor: "#ff6600"     # Optional: set a custom theme color for Ananke
+  defaultTheme: auto
+  disableThemeToggle: true
   showShareButtons: true
+<<<<<<< HEAD
   show_reading_time: true
+=======
+  showReadingTime: true
+  showToc: true
+  showBreadCrumbs: true
+  showPostNavLinks: true
+  showCodeCopyButtons: true
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
   comments: true
+  hideFooter: true
   assets:
     favicon: /favicon.ico
+    disableHLJS: true
   editPost:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
+<<<<<<< HEAD
     Text: "Suggest Changes"
     appendFilePath: true
 
@@ -43,14 +54,41 @@ params:
     
   socialLinks:  # A separate section for links used in your template
     - name: "GitHub"
+=======
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+  profileMode:
+    enabled: true
+    title: "Joshua P. Steele" # optional default will be site title
+    subtitle: "The Rev. Dev."
+    imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
+    imageTitle: "Joshua P. Steele" # optional
+    imageWidth: 120 # custom size
+    imageHeight: 120 # custom size
+    buttons:
+      - name: About
+        url: "/about/"
+      - name: Blog
+        url: "/blog/"
+  socialIcons: # optional
+    - name: GitHub
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       url: "https://github.com/joshuapsteele/"
-    - name: "LinkedIn"
+    - name: LinkedIn
       url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: "MicroBlog"
+    - name: micro.blog
       url: "https://social.joshuapsteele.com"
-    - name: "omg.lol"
+    - name: omg.lol
       url: "https://steele.omg.lol"
-
 markup:
   highlight:
     codeFences: true
@@ -59,17 +97,15 @@ markup:
   goldmark:
     renderer:
       unsafe: true
-
 outputs:
   home:
     - HTML
     - RSS
-
+    - JSON
 outputFormats:
   RSS:
     mediaType: application/rss+xml
     baseName: feed
-
 menu:
   main:
     - name: About

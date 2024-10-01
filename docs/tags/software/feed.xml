@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
+<<<<<<< HEAD
     <title>Software on Joshua P. Steele</title>
     <link>http://localhost:1313/tags/software/</link>
     <description>Recent content in Software on Joshua P. Steele</description>
     <generator>Hugo</generator>
+=======
+    <title>software on Joshua P. Steele</title>
+    <link>https://joshuapsteele.github.io/tags/software/</link>
+    <description>Recent content in software on Joshua P. Steele</description>
+    <generator>Hugo -- 0.120.4</generator>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     <language>en-US</language>
     <lastBuildDate>Sat, 18 Mar 2023 12:50:58 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/software/feed.xml" rel="self" type="application/rss+xml" />
@@ -12,36 +19,69 @@
       <title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title>
       <link>http://localhost:1313/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link>
       <pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid>
       <description>&lt;p&gt;As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;learnxinyminutes.com&lt;/a&gt;, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p&gt;&#xA;&lt;h2 id=&#34;quick-and-efficient-learning&#34;&gt;Quick and Efficient Learning&lt;/h2&gt;&#xA;&lt;p&gt;Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid>
+      <description>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to learnxinyminutes.com, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.
+Quick and Efficient Learning Learn X in Y Minutes understands that time is precious, which is why it provides:</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
     <item>
       <title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title>
       <link>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
       <pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
       <description>&lt;p&gt;I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p&gt;&#xA;&lt;h2 id=&#34;how-did-you-become-interested-in-software-engineering&#34;&gt;How did you become interested in software engineering?&lt;/h2&gt;&#xA;&lt;p&gt;I wrote a bit about &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;my coding bootcamp journey&lt;/a&gt; in a previous post.&lt;/p&gt;&#xA;&lt;p&gt;Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
+      <description>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)
+How did you become interested in software engineering? I wrote a bit about my coding bootcamp journey in a previous post.
+Part of my interest in software engineering is/was related to the particular path my journey took.</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
     <item>
       <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
       <link>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
       <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
       <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;&#xA;&lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;&#xA;&lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <description>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.
+So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.
+In fact, for a few months between finishing seminary and starting my Ph.</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
     <item>
       <title>Logos 10 Bible Software: The Ultimate Theological Learning Tool</title>
       <link>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
       <pubDate>Thu, 22 Dec 2022 13:46:21 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. &lt;a href=&#34;https://partners.faithlife.com/click.track?CID=431490&amp;amp;AFID=529204&#34;&gt;Do so via my exclusive partner offer for Logos 10 here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;If I could go back in time and chat with Joshua Steele when he was a Bible &amp;amp; Spanish major in college, there are a few things I’d tell my younger self:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Quit laughing at &lt;em&gt;How to Read a Book&lt;/em&gt; by Mortimer J. Adler and READ the thing.&lt;/li&gt;&#xA;&lt;li&gt;Baba ghanoush is superior to hummus.&lt;/li&gt;&#xA;&lt;li&gt;Study computer science sooner rather than later.&lt;/li&gt;&#xA;&lt;li&gt;Bite the bullet and INVEST IN A LOGOS BIBLE SOFTWARE LIBRARY.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Don’t get me wrong. I love physical books as much as anyone, and I own quite a few (hundred)!&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
+      <description>TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. Do so via my exclusive partner offer for Logos 10 here!
+If I could go back in time and chat with Joshua Steele when he was a Bible &amp;amp; Spanish major in college, there are a few things I’d tell my younger self:
+Quit laughing at How to Read a Book by Mortimer J.</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
     <item>
       <title>Software Testing: Possibilities, Problems, and Principles</title>
       <link>http://localhost:1313/software-testing-possibilities-problems-and-principles/</link>
       <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
+<<<<<<< HEAD
       <guid>http://localhost:1313/software-testing-possibilities-problems-and-principles/</guid>
       <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;&#xA;&lt;figure&gt;![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)&lt;figcaption&gt;Khorikov-UT-HI.png&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)&lt;figcaption&gt;Aniche-HI.png&lt;/figcaption&gt;&lt;/figure&gt;---&#xA;&lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;&#xA;&lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
+=======
+      <guid>https://joshuapsteele.github.io/software-testing-possibilities-problems-and-principles/</guid>
+      <description>Note: Throughout what follows, I am heavily indebted to two books in particular: Unit Testing: Principles, Practices, and Patterns by Vladimir Khorikov (Manning Publications, 2020) and Effective Software Testing: A Developer’s Guide by Mauricio Aniche (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.
+![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)Khorikov-UT-HI.png![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)Aniche-HI.png--- Software Testing, Our Field’s Least-Sexy Superpower Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower.</description>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
     </item>
   </channel>
 </rss>

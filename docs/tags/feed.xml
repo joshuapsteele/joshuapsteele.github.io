@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Joshua P. Steele</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Joshua P. Steele</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- 0.120.4</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 26 Sep 2024 11:39:54 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/feed.xml" rel="self" type="application/rss+xml" />
     <item>
+<<<<<<< HEAD
       <title>Kids</title>
       <link>http://localhost:1313/tags/kids/</link>
       <pubDate>Thu, 26 Sep 2024 11:39:54 +0000</pubDate>
@@ -279,10 +280,283 @@
       <link>http://localhost:1313/tags/testing/</link>
       <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
       <guid>http://localhost:1313/tags/testing/</guid>
+=======
+      <title>kids</title>
+      <link>https://joshuapsteele.github.io/tags/kids/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/kids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>parenting</title>
+      <link>https://joshuapsteele.github.io/tags/parenting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/parenting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>edc</title>
+      <link>https://joshuapsteele.github.io/tags/edc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/edc/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>reviews</title>
+      <link>https://joshuapsteele.github.io/tags/reviews/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/reviews/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>tools</title>
+      <link>https://joshuapsteele.github.io/tags/tools/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>immigration</title>
+      <link>https://joshuapsteele.github.io/tags/immigration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/immigration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>politics</title>
+      <link>https://joshuapsteele.github.io/tags/politics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/politics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>drafts</title>
+      <link>https://joshuapsteele.github.io/tags/drafts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/drafts/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>home improvement</title>
+      <link>https://joshuapsteele.github.io/tags/home-improvement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/home-improvement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>book of common prayer</title>
+      <link>https://joshuapsteele.github.io/tags/book-of-common-prayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/book-of-common-prayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>prayer</title>
+      <link>https://joshuapsteele.github.io/tags/prayer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/prayer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>easter</title>
+      <link>https://joshuapsteele.github.io/tags/easter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/easter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>holy week</title>
+      <link>https://joshuapsteele.github.io/tags/holy-week/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/holy-week/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>resurrection</title>
+      <link>https://joshuapsteele.github.io/tags/resurrection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/resurrection/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>home gym</title>
+      <link>https://joshuapsteele.github.io/tags/home-gym/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/home-gym/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>weightlifting</title>
+      <link>https://joshuapsteele.github.io/tags/weightlifting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/weightlifting/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>local churches</title>
+      <link>https://joshuapsteele.github.io/tags/local-churches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/local-churches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>worship styles</title>
+      <link>https://joshuapsteele.github.io/tags/worship-styles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/worship-styles/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>acna</title>
+      <link>https://joshuapsteele.github.io/tags/acna/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/acna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ai</title>
+      <link>https://joshuapsteele.github.io/tags/ai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>internet</title>
+      <link>https://joshuapsteele.github.io/tags/internet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/internet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>security</title>
+      <link>https://joshuapsteele.github.io/tags/security/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>technology</title>
+      <link>https://joshuapsteele.github.io/tags/technology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>books</title>
+      <link>https://joshuapsteele.github.io/tags/books/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/books/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>communication</title>
+      <link>https://joshuapsteele.github.io/tags/communication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/communication/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>friendship</title>
+      <link>https://joshuapsteele.github.io/tags/friendship/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/friendship/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>leadership</title>
+      <link>https://joshuapsteele.github.io/tags/leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/leadership/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>relationships</title>
+      <link>https://joshuapsteele.github.io/tags/relationships/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/relationships/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>soft skills</title>
+      <link>https://joshuapsteele.github.io/tags/soft-skills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/soft-skills/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>learning</title>
+      <link>https://joshuapsteele.github.io/tags/learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/learning/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>programming</title>
+      <link>https://joshuapsteele.github.io/tags/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/programming/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>software</title>
+      <link>https://joshuapsteele.github.io/tags/software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>software engineering</title>
+      <link>https://joshuapsteele.github.io/tags/software-engineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/software-engineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>linux</title>
+      <link>https://joshuapsteele.github.io/tags/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>coding</title>
+      <link>https://joshuapsteele.github.io/tags/coding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/coding/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>coding bootcamp</title>
+      <link>https://joshuapsteele.github.io/tags/coding-bootcamp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/coding-bootcamp/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>logos</title>
+      <link>https://joshuapsteele.github.io/tags/logos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/logos/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>theology</title>
+      <link>https://joshuapsteele.github.io/tags/theology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/theology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>testing</title>
+      <link>https://joshuapsteele.github.io/tags/testing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/testing/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>ChatGPT</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/chatgpt/</link>
       <pubDate>Mon, 19 Dec 2022 14:17:13 +0000</pubDate>
       <guid>http://localhost:1313/tags/chatgpt/</guid>
@@ -377,10 +651,107 @@
       <link>http://localhost:1313/tags/reading/</link>
       <pubDate>Sun, 05 Jul 2020 21:08:43 +0000</pubDate>
       <guid>http://localhost:1313/tags/reading/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/chatgpt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/chatgpt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>questions</title>
+      <link>https://joshuapsteele.github.io/tags/questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/questions/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>abuse</title>
+      <link>https://joshuapsteele.github.io/tags/abuse/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/abuse/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>churches</title>
+      <link>https://joshuapsteele.github.io/tags/churches/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/churches/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ministry</title>
+      <link>https://joshuapsteele.github.io/tags/ministry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/ministry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>safety</title>
+      <link>https://joshuapsteele.github.io/tags/safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/safety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>advent</title>
+      <link>https://joshuapsteele.github.io/tags/advent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/advent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>isaiah</title>
+      <link>https://joshuapsteele.github.io/tags/isaiah/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/isaiah/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>opinion</title>
+      <link>https://joshuapsteele.github.io/tags/opinion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/opinion/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>mental health</title>
+      <link>https://joshuapsteele.github.io/tags/mental-health/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/mental-health/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Social media</title>
+      <link>https://joshuapsteele.github.io/tags/social-media/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/social-media/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>research</title>
+      <link>https://joshuapsteele.github.io/tags/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>writing</title>
+      <link>https://joshuapsteele.github.io/tags/writing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/writing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>reading</title>
+      <link>https://joshuapsteele.github.io/tags/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/reading/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Anglican Compass</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/anglican-compass/</link>
       <pubDate>Thu, 02 Jul 2020 06:00:53 +0000</pubDate>
       <guid>http://localhost:1313/tags/anglican-compass/</guid>
@@ -391,10 +762,23 @@
       <link>http://localhost:1313/tags/womens-ordination/</link>
       <pubDate>Thu, 02 Jul 2020 06:00:53 +0000</pubDate>
       <guid>http://localhost:1313/tags/womens-ordination/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/anglican-compass/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/anglican-compass/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>women&#39;s ordination</title>
+      <link>https://joshuapsteele.github.io/tags/womens-ordination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/womens-ordination/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Bible</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/bible/</link>
       <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
       <guid>http://localhost:1313/tags/bible/</guid>
@@ -426,17 +810,57 @@
       <link>http://localhost:1313/tags/sermons/</link>
       <pubDate>Sun, 07 Jun 2020 13:02:06 +0000</pubDate>
       <guid>http://localhost:1313/tags/sermons/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/bible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/bible/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>racism</title>
+      <link>https://joshuapsteele.github.io/tags/racism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/racism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>collect</title>
+      <link>https://joshuapsteele.github.io/tags/collect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/collect/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>juneteenth</title>
+      <link>https://joshuapsteele.github.io/tags/juneteenth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/juneteenth/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>sermons</title>
+      <link>https://joshuapsteele.github.io/tags/sermons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/sermons/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Race</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/race/</link>
       <pubDate>Mon, 01 Jun 2020 07:00:51 +0000</pubDate>
       <guid>http://localhost:1313/tags/race/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/race/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/race/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Anglican</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/anglican/</link>
       <pubDate>Thu, 21 May 2020 20:21:06 +0000</pubDate>
       <guid>http://localhost:1313/tags/anglican/</guid>
@@ -454,17 +878,43 @@
       <link>http://localhost:1313/tags/copywriting/</link>
       <pubDate>Thu, 16 Apr 2020 14:06:29 +0000</pubDate>
       <guid>http://localhost:1313/tags/copywriting/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/anglican/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/anglican/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>women&amp;amp;apos;s ordination</title>
+      <link>https://joshuapsteele.github.io/tags/womenampaposs-ordination/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/womenampaposs-ordination/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>copywriting</title>
+      <link>https://joshuapsteele.github.io/tags/copywriting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/copywriting/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Barth</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/barth/</link>
       <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
       <guid>http://localhost:1313/tags/barth/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/barth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/barth/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Bonhoeffer</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/bonhoeffer/</link>
       <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
       <guid>http://localhost:1313/tags/bonhoeffer/</guid>
@@ -475,10 +925,23 @@
       <link>http://localhost:1313/tags/religion/</link>
       <pubDate>Fri, 03 Apr 2020 13:38:27 +0000</pubDate>
       <guid>http://localhost:1313/tags/religion/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/bonhoeffer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/bonhoeffer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>religion</title>
+      <link>https://joshuapsteele.github.io/tags/religion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/religion/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Sermon on the Mount</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/sermon-on-the-mount/</link>
       <pubDate>Wed, 27 Nov 2019 12:46:52 +0000</pubDate>
       <guid>http://localhost:1313/tags/sermon-on-the-mount/</guid>
@@ -489,17 +952,36 @@
       <link>http://localhost:1313/tags/how-to-think/</link>
       <pubDate>Tue, 19 Nov 2019 15:26:29 +0000</pubDate>
       <guid>http://localhost:1313/tags/how-to-think/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/sermon-on-the-mount/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/sermon-on-the-mount/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>how to think</title>
+      <link>https://joshuapsteele.github.io/tags/how-to-think/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/how-to-think/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Jenson</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/jenson/</link>
       <pubDate>Tue, 12 Nov 2019 21:35:32 +0000</pubDate>
       <guid>http://localhost:1313/tags/jenson/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/jenson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/jenson/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
     <item>
       <title>Romans</title>
+<<<<<<< HEAD
       <link>http://localhost:1313/tags/romans/</link>
       <pubDate>Fri, 09 Aug 2019 15:21:55 +0000</pubDate>
       <guid>http://localhost:1313/tags/romans/</guid>
@@ -510,6 +992,18 @@
       <link>http://localhost:1313/tags/essay/</link>
       <pubDate>Tue, 07 May 2019 15:51:49 +0000</pubDate>
       <guid>http://localhost:1313/tags/essay/</guid>
+=======
+      <link>https://joshuapsteele.github.io/tags/romans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/romans/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>essay</title>
+      <link>https://joshuapsteele.github.io/tags/essay/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.github.io/tags/essay/</guid>
+>>>>>>> parent of 304ec71 (Update site on Mon Sep 30 09:11:54 EDT 2024)
       <description></description>
     </item>
   </channel>
