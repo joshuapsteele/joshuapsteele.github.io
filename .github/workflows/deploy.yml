@@ -19,7 +19,7 @@ jobs:
           hugo-version: 'latest'  # You can pin a specific Hugo version here
 
       - name: Build site
-        run: hugo --gc --minify
+        run: hugo --gc --minify -d docs
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
