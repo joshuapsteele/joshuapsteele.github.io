@@ -13,7 +13,7 @@ params:
   defaultTheme: auto
   mainSections:
   - blog
-  - pages
+  # - pages
   disableThemeToggle: true
   showShareButtons: true
   showReadingTime: true
