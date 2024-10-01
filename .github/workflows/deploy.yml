@@ -19,10 +19,10 @@ jobs:
           hugo-version: 'latest'  # You can pin a specific Hugo version here
 
       - name: Build site
-        run: hugo --gc --minify -d docs
+        run: hugo --gc --minify  # No `-d docs`, default build to `public/`
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          publish_dir: ./public  # Deploy from the `public` folder to the root of `gh-pages`
