@@ -10,7 +10,7 @@ taxonomies:
 params:
   description: "Joshua P. Steele - Personal Blog and Projects"
   env: production
-  mainSections: ["blog"]  # Defines which content section to show on homepage
+  mainSections: ["posts"]  # Defines which content section to show on homepage
   themeColor: "#ff6600"     # Optional: set a custom theme color for Ananke
   showShareButtons: true
   show_reading_time: true
