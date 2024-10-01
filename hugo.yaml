@@ -11,6 +11,9 @@ params:
   description: Joshua P. Steele
   env: production
   defaultTheme: auto
+  mainSections:
+  - blog
+  - pages
   disableThemeToggle: true
   showShareButtons: true
   showReadingTime: true
