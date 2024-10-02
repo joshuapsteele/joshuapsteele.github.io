@@ -41,6 +41,19 @@ params:
     minMatchCharLength: 0
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
     keys: ["title", "permalink", "summary", "content"]
+  homeInfoParams:
+    enabled: false
+    title: "Joshua P. Steele" # optional default will be site title
+    content: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
+    buttons:
+      - name: About
+        url: "/about/"
+      - name: Blog
+        url: "/blog/"
+      - name: Categories
+        url: "/categories/"
+      - name: Tags
+        url: "/tags/"
   profileMode:
     enabled: true
     title: "Joshua P. Steele" # optional default will be site title
@@ -54,6 +67,10 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
+      - name: Categories
+        url: "/categories/"
+      - name: Tags
+        url: "/tags/"
   socialIcons: # optional
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
@@ -94,6 +111,3 @@ menu:
     - name: Search
       url: /search?
       weight: 4
-    - name: Social
-      url: http://social.joshuapsteele.com/
-      weight: 5
