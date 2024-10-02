@@ -16,6 +16,47 @@
       <description>&lt;p&gt;As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;learnxinyminutes.com&lt;/a&gt;, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p&gt;
 &lt;h2 id=&#34;quick-and-efficient-learning&#34;&gt;Quick and Efficient Learning&lt;/h2&gt;
 &lt;p&gt;Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
+<h2 id="quick-and-efficient-learning">Quick and Efficient Learning</h2>
+<p>Learn X in Y Minutes understands that time is precious, which is why it provides:</p>
+<ul>
+<li>Clear and efficient learning paths</li>
+<li>Concise tutorials that dive straight into coding</li>
+<li>Rapid acquisition of programming language essentials</li>
+</ul>
+<p>Say goodbye to endless hours spent on lengthy tutorials and get straight to the point with Learn X in Y Minutes.</p>
+<h2 id="programming-languages-and-essential-tools">Programming Languages and Essential Tools</h2>
+<p>The website covers a wide range of programming languages, including but not limited to:</p>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/python/">Python</a></li>
+<li><a href="https://learnxinyminutes.com/docs/javascript/">JavaScript</a></li>
+<li><a href="https://learnxinyminutes.com/docs/ruby/">Ruby</a></li>
+<li><a href="https://learnxinyminutes.com/docs/c++/">C++</a></li>
+</ul>
+<p>In addition to programming languages, Learn X in Y Minutes also covers essential tools and technologies like:</p>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/git/">Git</a></li>
+<li><a href="https://learnxinyminutes.com/docs/docker/">Docker</a></li>
+<li><a href="https://learnxinyminutes.com/docs/vim/">Vim</a></li>
+</ul>
+<p>This makes the site an excellent resource for acquiring knowledge about popular tools in the tech industry.</p>
+<h2 id="open-source-and-community-driven">Open-Source and Community-Driven</h2>
+<p>One of the best features of Learn X in Y Minutes is that <a href="https://github.com/adambard/learnxinyminutes-docs">it’s an open-source project</a>. This means that it’s:</p>
+<ul>
+<li>Continually updated and improved by a community of developers</li>
+<li>Always up-to-date and relevant to the ever-evolving world of programming</li>
+</ul>
+<h2 id="level-up-your-career">Level Up Your Career</h2>
+<p>Are you looking to switch careers or enhance your skills for your current job? Learn X in Y Minutes is a goldmine for learning new languages or tech quickly, enabling you to:</p>
+<ul>
+<li>Adapt to new technologies</li>
+<li>Stay competitive in the fast-paced world of software development</li>
+<li>Boost your career growth</li>
+</ul>
+<h2 id="start-learning-now">Start Learning Now!</h2>
+<p>Head over to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a> and start learning now! Whether you’re a seasoned developer or just starting your programming journey, this site has something for everyone.</p>
+<p>Remember to share your experiences and thoughts about Learn X in Y Minutes in the comments section below. Let’s spread the word about this fantastic resource and help others in the programming community to learn and grow!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title>
@@ -25,6 +66,36 @@
       <description>&lt;p&gt;Are you new to the world of computer programming? If so, learning &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p&gt;
 &lt;p&gt;In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p&gt;
 &lt;p&gt;(Want to learn even more about Linux? Check out &lt;em&gt;&lt;a href=&#34;https://amzn.to/3mRKdY5&#34;&gt;Linux Pocket Guide: Essential Commands&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href=&#34;https://amzn.to/3ZSntpL&#34;&gt;The Linux Command Line: A Complete Introduction&lt;/a&gt;&lt;/em&gt;.)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
+<p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.</p>
+<p>(Want to learn even more about Linux? Check out <em><a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands</a></em> and <em><a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction</a></em>.)</p>
+<h2 id="pwd-print-working-directory"><code>pwd</code> (Print Working Directory)</h2>
+<p>The ‘pwd’ command displays your current location in the filesystem. This helps you stay oriented while navigating directories and understand where your files and folders are located.</p>
+<h2 id="cd-change-directory"><code>cd</code> (Change Directory)</h2>
+<p>The ‘cd’ command allows you to move between directories with ease. This is particularly useful when managing and organizing projects in the filesystem.</p>
+<h2 id="ls-list"><code>ls</code> (List)</h2>
+<p>The ‘ls’ command lists the contents of a directory. You can use flags like ‘-l’ to get a more detailed view, including file permissions, ownership, and modification dates.</p>
+<h2 id="touch"><code>touch</code></h2>
+<p>The ‘touch’ command enables you to create new empty files with a specified name. This is perfect for quickly setting up a new project or creating placeholder files.</p>
+<h2 id="nano-vi-vim"><code>nano</code>, <code>vi</code>, <code>vim</code></h2>
+<p>These are popular text editors available in most Linux distributions. They allow you to create and edit files directly in the terminal, making it simple to manage your code without leaving the command line.</p>
+<h2 id="mkdir-make-directory"><code>mkdir</code> (Make Directory)</h2>
+<p>The ‘mkdir’ command allows you to create new directories easily. This is useful for organizing your projects and files in a structured manner.</p>
+<h2 id="rm-remove"><code>rm</code> (Remove)</h2>
+<p>The ‘rm’ command is used to delete files or directories. However, use this command with caution, as it can permanently remove your data. Flags like ‘-r’ can be added to remove directories and their contents.</p>
+<h2 id="grep"><code>grep</code></h2>
+<p>The ‘grep’ command enables you to search for specific patterns within files. This is useful for finding specific content in your code or debugging issues.</p>
+<h2 id="mv-move"><code>mv</code> (Move)</h2>
+<p>The ‘mv’ command helps you move or rename files and directories, streamlining your project organization and making it easier to manage your work.</p>
+<h2 id="cat-concatenate"><code>cat</code> (Concatenate)</h2>
+<p>The ‘cat’ command allows you to display the contents of a file or concatenate multiple files. This is ideal for quickly reviewing or merging files without opening them in a text editor.</p>
+<h2 id="chmod-change-mode"><code>chmod</code> (Change Mode)</h2>
+<p>The ‘chmod’ command enables you to change file permissions, controlling access and execution. This is essential for ensuring the proper level of security for your files and projects.</p>
+<h2 id="man-manual"><code>man</code> (Manual)</h2>
+<p>The ‘man’ command provides access to the manual page for any Linux command. This is a valuable resource for learning more about each command’s functionality, options, and usage examples.</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>By mastering these Linux commands, you’ll be well on your way to becoming a proficient computer programmer. As you continue to practice and refine your skills, you’ll unlock new opportunities for success in the world of coding. Remember that practice makes perfect, so don’t be afraid to dive in and start exploring the power of Linux. Happy coding!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
@@ -34,6 +105,27 @@
       <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;
 &lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;
 &lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
+<p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.</p>
+<p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on <a href="https://teamtreehouse.com/">Treehouse</a> and on <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and I got to work!)</p>
+<p>However, once I got accepted into a Ph.D. program (and realized that I needed to learn how to read in German ASAP in order to pass a translation exam), my programming learning fell by the wayside.</p>
+<p>While a full-time Ph.D. student, I got some basic web design experience as the Managing Editor of a website. Most of my time was spent using WordPress, but I knew just enough HTML and CSS to be dangerous (i.e., to fix small problems).</p>
+<p>Suffice it to say that <a href="https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">the Ph.D.</a> did not go as planned. (More on that some other time.) Neither did that part-time website job. So, after months of searching unsuccessfully for church (or church-adjacent) work, I resurrected the idea of teaching myself how to code. I dove back into freeCodeCamp’s curriculum and started chipping away.</p>
+<p>But it was slow going. Getting a tech job seemed like an impossible dream. And, although there’s a TON of information online, I desperately craved having teachers and fellow students I could talk to. (I’m a big fan of asking questions. All the time.) I wanted some personal help in order to put things into context, to see the big picture and the path forward to a job.</p>
+<p>When I first started learning how to code again, there were always enough church-related job opportunities to keep me distracted from coding. After all, I had studied the Bible and theology for over a decade. My training was church-focused (<a href="https://joshuapsteele.com/portfolio/cv/">just look at my C.V.</a>). So, if there were a church-focused job out there for me, obviously I should focus on finding it. Right?</p>
+<p>After a particularly devastating disappointment (I was offered a church-adjacent marketing position that was then rescinded within 48 hours), I decided to go all-in on a coding bootcamp.</p>
+<p>I’ll say more about my bootcamp selection process in another post. But I had my eyes on <a href="https://www.techelevator.com/">Tech Elevator</a> because (1) they published their job placement numbers (to <a href="https://cirr.org/">CIRR</a>), (2) they had a campus in Pittsburgh (where we were moving), and (3) their <a href="https://www.techelevator.com/coding-bootcamp/full-time-coding-bootcamp/">curriculum</a> contained not just coding information, but also a job-search component.</p>
+<p>So, we spent just over $15,000 on the 14-week bootcamp in the Fall of 2021.</p>
+<p>It was one of the most intense learning periods in my entire life! But I loved having teachers and fellow students that I could ask questions to. And I thoroughly benefited from the career coaching components of the bootcamp.</p>
+<p>Tech Elevator not only taught me the (1) fundamentals of object-oriented programming in Java and (2) the basics of responsive web design. It also helped me revise and re-frame my experience to help me find a tech job. I rewrote my resume. I developed an “elevator pitch.” I prepared for common interview questions, both at the HR and the technical level (the dreaded whiteboarding experience!).</p>
+<p>Tech Elevator hooked us students up with a handful of initial “matchmaking interviews,” one of which led me to my current position! This was a HUGE help because, without a computer science degree or industry experience, it can be a pain to get past the initial application phase.</p>
+<p>Now that I’ve worked as a software engineer for a year, I can say that doing a coding bootcamp was one of the best investments I’ve ever made.</p>
+<p>HOWEVER, it’s not for everyone. I would only recommend a bootcamp if you are a highly motivated learner. There’s a lot of information to find and digest, and you need to have a real hunger for learning (and a willingness to make mistakes and be wrong as you figure things out).</p>
+<p>If you’re considering doing a bootcamp, <a href="https://www.techelevator.com/coding-aptitude-test/">take Tech Elevator’s Coding Aptitude Test for free</a>! And dive into free “learn to code” resources online (like <a href="https://www.freecodecamp.org/">freeCodeCamp</a> or <a href="https://www.theodinproject.com/">The Odin Project</a>) to see if you like the kind of thinking that’s required to do software development!</p>
+<p>That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use <a href="https://joshuapsteele.com/contact/">the contact form</a> to email me.)</p>
+<hr>
+<p>UPDATE: On 2023-02-16, I was promoted to Software Engineer II! If you’d like to connect professionally, <a href="https://www.linkedin.com/in/joshuapsteele/">come find me @joshuapsteele on LinkedIn</a>.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>

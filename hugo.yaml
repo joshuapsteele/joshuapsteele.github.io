@@ -21,6 +21,8 @@ params:
   showBreadCrumbs: true
   showPostNavLinks: true
   showCodeCopyButtons: true
+  showFullTextInRSS: true
+  showAllPagesInArchive: true
   comments: true
   hideFooter: false
   assets:
@@ -59,7 +61,7 @@ params:
       url: "https://www.linkedin.com/in/joshuapsteele/"
     - name: microblog
       url: "https://social.joshuapsteele.com"
-    - name: omg.lol
+    - name: "omglol"
       url: "https://steele.omg.lol"
 markup:
   highlight:
