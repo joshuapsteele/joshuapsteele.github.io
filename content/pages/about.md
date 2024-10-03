@@ -4,9 +4,8 @@ date: "2018-01-26T00:46:00+00:00"
 guid: https://joshuapsteele.com/?page_id=40142
 title: About
 url: /about/
-
+showtoc: false
 ---
-## Joshua P. Steele, "The Rev. Dev."
 
 I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
 
