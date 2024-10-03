@@ -21,26 +21,6 @@ url: /prayers-for-the-sick/
 
 (The following prayers come from [the 1979 Book of Common Prayer](https://www.bcponline.org/PastoralOffices/ministration_to_the_sick.html).)
 
-<div class="wp-block-rank-math-toc-block" id="rank-math-toc">## Contents
-
-<nav>- [Prayers for the Sick](#prayers-for-the-sick)
-    - [For a Sick Person](#for-a-sick-person)
-    - [For Recovery from Sickness](#for-recovery-from-sickness)
-    - [For a Sick Child](#for-a-sick-child)
-    - [Before an Operation](#before-an-operation)
-    - [For Strength and Confidence](#for-strength-and-confidence)
-    - [For the Sanctification of Illness](#for-the-sanctification-of-illness)
-    - [For Health of Body and Soul](#for-health-of-body-and-soul)
-    - [For Doctors and Nurses](#for-doctors-and-nurses)
-    - [Thanksgiving for a Beginning of Recovery](#thanksgiving-for-a-beginning-of-recovery)
-- [Prayers for use by a Sick Person](#prayers-for-use-by-a-sick-person)
-    - [For Trust in God](#for-trust-in-god)
-    - [In Pain](#in-pain)
-    - [For Sleep](#for-sleep)
-    - [In the Morning](#in-the-morning)
-
-</nav></div>---
-
 ## Prayers for the Sick
 
 ### For a Sick Person
