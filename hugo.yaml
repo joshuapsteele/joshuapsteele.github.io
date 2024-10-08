@@ -111,3 +111,6 @@ menu:
     - name: Search
       url: /search?
       weight: 4
+services:
+  disqus:
+    shortname: joshuapsteele
