@@ -24,7 +24,11 @@ If that’s all you’d like to know, great! If you’d like to know more about 
 
 Here’s a cute picture/tweet for your troubles.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020479447953301504 </figure>## It all started on Tuesday, July 17, 2018.
+(NOTE: The Twitter embeds/links below no longer work. Apologies! But I'm keeping them in for posterity.)
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020479447953301504 </figure>
+
+## It all started on Tuesday, July 17, 2018.
 
 The main thing *I* had scheduled that day was a get-together with my doctoral supervisor and his other students to discuss part two of our reading of Friedrich Schleiermacher’s *Christian Faith*.
 
@@ -42,7 +46,7 @@ You see, on Saturday, July 21, Rachel’s sister, Hannah, was getting married. R
 
 Or at least, that’s what we were planning on.
 
-## The Midwife Appointment (<g class="gr_ gr_21 gr-alert sel gr_gramm gr_replaced gr_inline_cards gr_disable_anim_appear Style multiReplace" data-gr-id="21" id="21">4:00 pm</g>, Tuesday)
+## The Midwife Appointment (4:00 pm, Tuesday)
 
 I met Rachel at Elmhurst Hospital for our midwife appointment on Tuesday afternoon.
 
@@ -94,11 +98,17 @@ The induction process started around 12:30 am with the insertion of a medicine c
 
 Despite our hopes that things would start to progress rather quickly, Wednesday was a looooooong day. Looking back, I can tell that this was the case because I had time to tweet.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019570011952861184 </figure>Also, I figured that now was as good a time as any to ask for some last-minute parenting advice.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019570011952861184 </figure>
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019606474115420160 </figure>By the way, my friend Ryan Clevenger wins the award for best dad advice given in response to my tweet.
+Also, I figured that now was as good a time as any to ask for some last-minute parenting advice.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/Nazianzenus/status/1019641823030112261 </figure>Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervidil out, they checked and Rachel was barely dilated.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019606474115420160 </figure>
+
+By the way, my friend Ryan Clevenger wins the award for best dad advice given in response to my tweet.
+
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/Nazianzenus/status/1019641823030112261 </figure>
+
+Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervidil out, they checked and Rachel was barely dilated.
 
 Nevertheless, they decided to try to insert what is called the Cook Cervical Ripening Balloon, AKA the Cook catheter.
 
@@ -126,13 +136,15 @@ After talking with our doula, Teri, on the phone, we decided to start Pitocin on
 
 So, they started Pitocin at around 4:00pm on Wednesday. Just like Cervidil, the first round lasted approximately 12 hours.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019780168326565889 </figure>### To Eat, or Not to Eat
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019780168326565889 </figure>
+
+### To Eat, or Not to Eat
 
 Apparently, normal hospital protocol is that you’re only allowed to consume clear liquids while on Pitocin. We’d heard from various people that this was a load of crap. However, the midwife who was there when we started Pitocin still said “clear liquids only.”
 
 Nevertheless, we still snuck Rachel snacks when nurses weren’t in the room!
 
-On Wednesday evening, we met with a different midwife to discuss how things were progressing. She <g class="gr_ gr_49 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" data-gr-id="49" id="49">said</g> “You’re eating, right?,” and then we told her about our clear liquid instructions.
+On Wednesday evening, we met with a different midwife to discuss how things were progressing. She said “You’re eating, right?,” and then we told her about our clear liquid instructions.
 
  “No no no, you (looks at me) go get her some dinner, OK?”
 
@@ -164,7 +176,9 @@ Unfortunately, what also started around this time was *vomiting* (Rachel, not me
 
 Things were progressing, but they didn’t exactly take off after the Cook catheter was in. So, it was back on Pitocin.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019982256037859329 </figure>Rachel’s contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019982256037859329 </figure>
+
+Rachel’s contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.
 
 What’s more, she was getting to the point where she had to stop talking during contractions. This despite her insistence that, while she *could* talk through the contractions if she really wanted to, it was easier not to talk…
 
@@ -196,7 +210,9 @@ However, that nurse eventually left. Also, Rachel was able to get a decent nap i
 
 ## Removed Cook Catheter (8:00pm, Thursday)
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020115308634361857 </figure>There’s something about <g class="gr_ gr_54 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" data-gr-id="54" id="54">12 hour</g> rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020115308634361857 </figure>
+
+There’s something about 12 hour rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
 
 After a pretty intense afternoon, Rachel was dilated to (\*drumroll\*) … 3cm!
 
@@ -262,7 +278,7 @@ Again, at this point, I was purposefully trying not to pay attention to the cloc
 
 But, at 2:30 am Rachel had only been at 5 centimeters. So, it didn’t seem wise to get my hopes up. And yet, here my wife was, throwing up over the side of the tub during contractions and saying she didn’t know how much longer she could do this for.
 
-Somewhere around 5:15–5:30, the midwife and her student came in and checked Rachel <g class="gr_ gr_25 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="25" id="25">again,</g> because she was complaining of increased pressure down low.
+Somewhere around 5:15–5:30, the midwife and her student came in and checked Rachel again, because she was complaining of increased pressure down low.
 
 At this point, I was praying that she was at least 8cm dilated. If not, based on how intense things had just gotten, I wasn’t sure how much longer Rachel would make it without, at the very least, some nitrous gas for pain management.
 

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/categories/personal/</link>
+    <link>http://localhost:1313/categories/personal/</link>
     <description>Recent content in Personal on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 26 Sep 2024 11:39:54 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/categories/personal/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/personal/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Things I Love About My Kids</title>
-      <link>https://joshuapsteele.github.io/10-things-i-love-about-my-kids/</link>
+      <link>http://localhost:1313/10-things-i-love-about-my-kids/</link>
       <pubDate>Thu, 26 Sep 2024 11:39:54 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/10-things-i-love-about-my-kids/</guid>
+      <guid>http://localhost:1313/10-things-i-love-about-my-kids/</guid>
       <description>&lt;p&gt;Lest &lt;a href=&#34;https://joshuapsteele.com/i-love-my-kids-but-i-sometimes-regret-having-them/&#34;&gt;my previous parenting post&lt;/a&gt; suggest that things are all doom-and-gloom at the Steele-haus, here are 10 things I love about my kids.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;I got to baptize all 3 of them as babies, a poignant reminder that they are beloved children of God.&lt;/li&gt;
@@ -43,9 +43,9 @@
     </item>
     <item>
       <title>I Love My Kids, But I Sometimes Regret Having Them</title>
-      <link>https://joshuapsteele.github.io/i-love-my-kids-but-i-sometimes-regret-having-them/</link>
+      <link>http://localhost:1313/i-love-my-kids-but-i-sometimes-regret-having-them/</link>
       <pubDate>Tue, 24 Sep 2024 08:51:00 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/i-love-my-kids-but-i-sometimes-regret-having-them/</guid>
+      <guid>http://localhost:1313/i-love-my-kids-but-i-sometimes-regret-having-them/</guid>
       <description>&lt;p&gt;I love my kids, but I sometimes regret having them.&lt;/p&gt;
 &lt;p&gt;Pardon the clickbait-y title and opening sentence. But are we parents allowed to say that? Are we allowed to feel both of those things at once?&lt;/p&gt;
 &lt;p&gt;We’ve got a 6-year-old, a 4-year-old, and an almost-2-year-old. And, no, I don’t actually begrudge them their existence! I want what’s best for their lives and futures. And don’t get me wrong; &lt;a href=&#34;https://joshuapsteele.com/10-things-i-love-about-my-kids/&#34;&gt;there are moments of laughter, poignancy, joy, etc.&lt;/a&gt;&lt;/p&gt;</description>
@@ -81,9 +81,9 @@
     </item>
     <item>
       <title>Know Thyself: Unveiling Your Unique Strengths and Personality Traits</title>
-      <link>https://joshuapsteele.github.io/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
+      <link>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
       <pubDate>Wed, 03 Jul 2024 12:41:36 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
+      <guid>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
       <description>&lt;p&gt;In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening. Today, I want to share my insights from various personality paradigms and how they shape my approach to work and life.&lt;/p&gt;
 &lt;h2 id=&#34;cliftonstrengths-harnessing-core-talents&#34;&gt;CliftonStrengths: Harnessing Core Talents&lt;/h2&gt;
 &lt;p&gt;The CliftonStrengths assessment has been instrumental in identifying my core talents. Here are my top five strengths:&lt;/p&gt;
@@ -149,9 +149,9 @@
     </item>
     <item>
       <title>Finding a Hat for My Big, Bald Head</title>
-      <link>https://joshuapsteele.github.io/finding-a-hat-for-my-big-bald-head/</link>
+      <link>http://localhost:1313/finding-a-hat-for-my-big-bald-head/</link>
       <pubDate>Fri, 26 Apr 2024 12:48:48 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/finding-a-hat-for-my-big-bald-head/</guid>
+      <guid>http://localhost:1313/finding-a-hat-for-my-big-bald-head/</guid>
       <description>&lt;p&gt;I’ve been on a lifelong journey to find hats that will fit my big ol’ head. Now that I’m bald, and the summer months are approaching, I figured it would be good to find one or two more hats to add to my rotation.&lt;/p&gt;
 &lt;p&gt;I’ve narrowed this round down to trying the following hats, in case you’re interested (Amazon affiliate links below):&lt;/p&gt;
 &lt;ul&gt;
@@ -236,9 +236,9 @@
     </item>
     <item>
       <title>Home Gym Upgrades</title>
-      <link>https://joshuapsteele.github.io/home-gym-upgrades/</link>
+      <link>http://localhost:1313/home-gym-upgrades/</link>
       <pubDate>Mon, 11 Mar 2024 21:15:17 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/home-gym-upgrades/</guid>
+      <guid>http://localhost:1313/home-gym-upgrades/</guid>
       <description>&lt;p&gt;I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.&lt;/p&gt;
 &lt;p&gt;When we lived in a basement apartment, space was very limited, but I was able to fit a &lt;a href=&#34;https://valorfitness.com/products/bd-9-independent-power-squat-stands&#34;&gt;Valor Fitness BD-9 squat rack/stands&lt;/a&gt; and an &lt;a href=&#34;https://amzn.to/3Tawich&#34;&gt;Amazon Basics flat bench&lt;/a&gt; in, along with a &lt;a href=&#34;https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb&#34;&gt;300-lb Olympic barbell and weight set&lt;/a&gt; from Dicks Sporting Goods.&lt;/p&gt;
 &lt;p&gt;(If you’re similarly pressed for space, I highly recommend those items above!)&lt;/p&gt;</description>
@@ -265,9 +265,9 @@
     </item>
     <item>
       <title>Back in the Saddle</title>
-      <link>https://joshuapsteele.github.io/back-in-the-saddle/</link>
+      <link>http://localhost:1313/back-in-the-saddle/</link>
       <pubDate>Thu, 07 Mar 2024 21:24:37 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/back-in-the-saddle/</guid>
+      <guid>http://localhost:1313/back-in-the-saddle/</guid>
       <description>&lt;p&gt;I know I’m not alone in this, but the past few years have been pretty rough for me.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I’ve gained at least 50 pounds.&lt;/li&gt;
@@ -298,9 +298,9 @@
     </item>
     <item>
       <title>I&#39;m Resigning from Ordained Ministry in the Anglican Church in North America</title>
-      <link>https://joshuapsteele.github.io/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</link>
+      <link>http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</link>
       <pubDate>Wed, 08 Nov 2023 19:50:28 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</guid>
+      <guid>http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</guid>
       <description>&lt;p&gt;After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.&lt;/p&gt;
 &lt;p&gt;This also coincides with plans to move closer to family in NW Ohio (where there is not much of an ACNA presence to speak of) and to then pursue church involvement outside of the ACNA.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.</p>
@@ -318,9 +318,9 @@
     </item>
     <item>
       <title>Life Lessons: 32 Things I&#39;ve Learned So Far</title>
-      <link>https://joshuapsteele.github.io/life-lessons/</link>
+      <link>http://localhost:1313/life-lessons/</link>
       <pubDate>Tue, 17 Oct 2023 12:45:42 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/life-lessons/</guid>
+      <guid>http://localhost:1313/life-lessons/</guid>
       <description>&lt;p&gt;Here are 32 things I’ve learned from life, so far.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You are not your thoughts. There is a “you” behind and above your inner voice/monologue/dialogue. Pay attention to what you pay attention to. Think about what you think about.&lt;/li&gt;
@@ -395,9 +395,9 @@
     </item>
     <item>
       <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
-      <link>https://joshuapsteele.github.io/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
+      <link>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
       <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <guid>http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
       <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;
 &lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;
 &lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
@@ -425,9 +425,9 @@
     </item>
     <item>
       <title>What Color is My Parachute? The Flower Petal Exercise</title>
-      <link>https://joshuapsteele.github.io/what-color-is-my-parachute-the-flower-petal-exercise/</link>
+      <link>http://localhost:1313/what-color-is-my-parachute-the-flower-petal-exercise/</link>
       <pubDate>Tue, 19 Jan 2021 22:34:46 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-color-is-my-parachute-the-flower-petal-exercise/</guid>
+      <guid>http://localhost:1313/what-color-is-my-parachute-the-flower-petal-exercise/</guid>
       <description>&lt;p&gt;I’m working my way through the classic job search guide &lt;em&gt;&lt;a href=&#34;https://amzn.to/3O8cnYK&#34;&gt;What Color Is Your Parachute&lt;/a&gt;&lt;/em&gt;. First, I’ll summarize the 7-part “Flower Petal” exercise—a comprehensive self-assessment geared toward the workplace. Then, I’ll share *my* results from the self-assessment.&lt;/p&gt;
 &lt;p&gt;Ah, but first, my &lt;strong&gt;TL;DR&lt;/strong&gt;: &lt;strong&gt;If you’re looking for work, or going to be looking for work soon, do yourself a huge favor and buy the latest edition of &lt;em&gt;&lt;a href=&#34;https://amzn.to/3O8cnYK&#34;&gt;What Color Is Your Parachute&lt;/a&gt;&lt;/em&gt;.&lt;/strong&gt; Work through the book, especially the Flower Petal Exercise. It’s well-worth your time!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I’m working my way through the classic job search guide <em><a href="https://amzn.to/3O8cnYK">What Color Is Your Parachute</a></em>. First, I’ll summarize the 7-part “Flower Petal” exercise—a comprehensive self-assessment geared toward the workplace. Then, I’ll share *my* results from the self-assessment.</p>
@@ -538,9 +538,9 @@
     </item>
     <item>
       <title>It&#39;s Official. I&#39;m Hitting Pause on My Ph.D. for a Year</title>
-      <link>https://joshuapsteele.github.io/its-official-im-hitting-pause-on-my-ph-d-for-a-year/</link>
+      <link>http://localhost:1313/its-official-im-hitting-pause-on-my-ph-d-for-a-year/</link>
       <pubDate>Wed, 25 Nov 2020 18:09:02 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/its-official-im-hitting-pause-on-my-ph-d-for-a-year/</guid>
+      <guid>http://localhost:1313/its-official-im-hitting-pause-on-my-ph-d-for-a-year/</guid>
       <description>&lt;p&gt;I received word yesterday that the Ph.D. Committee voted to approve my request for “Excused Program Leave” beginning in January 2021 and lasting until January 2022.&lt;/p&gt;
 &lt;p&gt;At the risk of sounding like Captain Obvious, 2020 has been a particularly difficult year.&lt;/p&gt;
 &lt;p&gt;Attempting to complete my “Barth, Bonhoeffer, and the Bible” dissertation has taken a toll on my mental health as I ran into some major research and writing roadblocks right before and during the COVID pandemic.&lt;/p&gt;</description>
@@ -555,9 +555,9 @@
     </item>
     <item>
       <title>I&#39;m looking for a new role to supplement my part-time work for Anglican Compass</title>
-      <link>https://joshuapsteele.github.io/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/</link>
+      <link>http://localhost:1313/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/</link>
       <pubDate>Tue, 10 Nov 2020 21:07:25 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/</guid>
+      <guid>http://localhost:1313/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/</guid>
       <description>&lt;p&gt;Hey everyone! Just a brief update to note that I’m looking for a new role to supplement my part-time work as Managing Editor of &lt;a href=&#34;https://anglicancompass.com/&#34;&gt;Anglican Compass&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;I’m pretty flexible at this point, but I want to do something that benefits the church. I think I would make a great Assistant Rector! 🙂&lt;/p&gt;
 &lt;p&gt;Any advice, opportunities, or connections you can offer would be appreciated!&lt;/p&gt;
@@ -570,9 +570,9 @@
     </item>
     <item>
       <title>Josh&#43;? On the use of the sign of the cross (plus sign) in clergy signatures</title>
-      <link>https://joshuapsteele.github.io/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/</link>
+      <link>http://localhost:1313/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/</link>
       <pubDate>Fri, 04 Sep 2020 13:57:32 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/</guid>
+      <guid>http://localhost:1313/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/</guid>
       <description>&lt;p&gt;This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.&lt;/p&gt;
 &lt;p&gt;In my opinion, the use of the sign of the cross in clergy names/signatures—unless it’s done in official ecclesiastical communication or immediately after a blessing or prayer for the recipient—is pretentious. It’s showy. At the very least, it conveys or connotes pretentiousness.&lt;/p&gt;
 &lt;p&gt;Note that I’m not making a claim about the *people* who use crosses in their signatures, their inner thoughts, or their intentions. For all I know, every single clergyperson out there says a prayer of blessing for their recipients every single time they use the sign of the cross in a signature. I’m also not writing this about any person in particular.&lt;/p&gt;</description>
@@ -587,9 +587,9 @@
     </item>
     <item>
       <title>It&#39;s Time to Get Some Help</title>
-      <link>https://joshuapsteele.github.io/its-time-to-get-some-help/</link>
+      <link>http://localhost:1313/its-time-to-get-some-help/</link>
       <pubDate>Wed, 02 Sep 2020 17:19:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/its-time-to-get-some-help/</guid>
+      <guid>http://localhost:1313/its-time-to-get-some-help/</guid>
       <description>&lt;p&gt;Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.&lt;/p&gt;
 &lt;p&gt;Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and &lt;em&gt;trapped&lt;/em&gt; often enough that I decided it was time to seek out help.&lt;/p&gt;
 &lt;p&gt;I know, I know. That’s pretty personal for a blog post for the whole internet to read!&lt;/p&gt;</description>
@@ -606,9 +606,9 @@
     </item>
     <item>
       <title>A Prayer for Trustfulness in Times of Worry and Anxiety</title>
-      <link>https://joshuapsteele.github.io/a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/</link>
+      <link>http://localhost:1313/a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/</link>
       <pubDate>Sun, 30 Aug 2020 13:03:34 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/</guid>
+      <guid>http://localhost:1313/a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/</guid>
       <description>&lt;p&gt;I needed this prayer this morning, and I plan to return to it often in the days ahead.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Most loving Father, you will us to give thanks for all things, to dread nothing but the loss of you, and to cast all our care on the One who cares for us. Preserve us from faithless fears and worldly anxieties, and grant that no clouds of this mortal life may hide from us the light of that love which is immortal, and which you have manifested unto us in your Son, Jesus Christ our Lord. Amen.&lt;/p&gt;</description>
@@ -621,18 +621,18 @@
     </item>
     <item>
       <title>First Day of 24th Grade!</title>
-      <link>https://joshuapsteele.github.io/first-day-of-24th-grade-2/</link>
+      <link>http://localhost:1313/first-day-of-24th-grade-2/</link>
       <pubDate>Thu, 27 Aug 2020 14:45:13 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/first-day-of-24th-grade-2/</guid>
+      <guid>http://localhost:1313/first-day-of-24th-grade-2/</guid>
       <description>&lt;p&gt;Not sure how this is going to go, or even why I’m doing this anymore, but here we go! Still praying for either a dissertation break-through or a clear sign that I should quit. I hope to receive or discover one of those before the end of the calendar year.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Not sure how this is going to go, or even why I’m doing this anymore, but here we go! Still praying for either a dissertation break-through or a clear sign that I should quit. I hope to receive or discover one of those before the end of the calendar year.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>It’s time for another social media fast!</title>
-      <link>https://joshuapsteele.github.io/its-time-for-another-social-media-fast/</link>
+      <link>http://localhost:1313/its-time-for-another-social-media-fast/</link>
       <pubDate>Wed, 19 Aug 2020 15:52:45 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/its-time-for-another-social-media-fast/</guid>
+      <guid>http://localhost:1313/its-time-for-another-social-media-fast/</guid>
       <description>&lt;p&gt;After listening to &lt;a href=&#34;https://www.blinkist.com/en/books/deep-work-en&#34;&gt;the Blinkist summary of Cal Newport’s &lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt; (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.&lt;/p&gt;
 &lt;p&gt;I think I’ll still keep &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;my micro.blog up and running&lt;/a&gt;, but between &lt;a href=&#34;https://anglicancompass.com&#34;&gt;running Anglican Compass&lt;/a&gt; and &lt;a href=&#34;https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof/&#34;&gt;sprinting for some last-ditch clarity on my increasingly frustrating dissertation&lt;/a&gt;, I need all the extra bandwidth I can get!&lt;/p&gt;
 &lt;p&gt;If you need to get in touch for some reason, please &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use the contact form on my website&lt;/a&gt;. You can also &lt;a href=&#34;https://buttondown.email/joshuapsteele&#34;&gt;sign up for my very occasional email newsletter here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -644,9 +644,9 @@
     </item>
     <item>
       <title>The Ph.D. Plan (Or the Lack Thereof)</title>
-      <link>https://joshuapsteele.github.io/the-phd-plan-or-the-lack-thereof/</link>
+      <link>http://localhost:1313/the-phd-plan-or-the-lack-thereof/</link>
       <pubDate>Thu, 13 Aug 2020 21:40:06 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/the-phd-plan-or-the-lack-thereof/</guid>
+      <guid>http://localhost:1313/the-phd-plan-or-the-lack-thereof/</guid>
       <description>&lt;p&gt;For months and months now, I’ve been praying for either (1) a breakthrough on my “Barth, Bonhoeffer, and the Bible” dissertation or (2) a clear sign that I should quit the Ph.D. Unfortunately, after countless confusing dead ends in my endeavors to put Karl Barth and Dietrich Bonhoeffer into precise conversation with each other regarding specific passages of the Bible, I’ve now realized that such an approach is not going to work.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>For months and months now, I’ve been praying for either (1) a breakthrough on my “Barth, Bonhoeffer, and the Bible” dissertation or (2) a clear sign that I should quit the Ph.D. Unfortunately, after countless confusing dead ends in my endeavors to put Karl Barth and Dietrich Bonhoeffer into precise conversation with each other regarding specific passages of the Bible, I’ve now realized that such an approach is not going to work.</p>
 <p>Perhaps I’ve missed something. Perhaps there’s a passage of Scripture out there that both Barth and Bonhoeffer wrote about that contains a theologically significant exegetical disagreement worth writing home about.</p>
@@ -664,9 +664,9 @@
     </item>
     <item>
       <title>A Shameless Request: Help Me Buy More Books?</title>
-      <link>https://joshuapsteele.github.io/a-shameless-request-help-me-buy-more-books/</link>
+      <link>http://localhost:1313/a-shameless-request-help-me-buy-more-books/</link>
       <pubDate>Sun, 05 Jul 2020 21:08:43 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/a-shameless-request-help-me-buy-more-books/</guid>
+      <guid>http://localhost:1313/a-shameless-request-help-me-buy-more-books/</guid>
       <description>&lt;p&gt;After realizing just how easy it was to lose access to the physical books that I own (now sequestered in my library carrel at Wheaton), on a bit of a whim &lt;a href=&#34;https://www.facebook.com/donate/573962246651661/&#34;&gt;I created a fundraiser to help my upgrade my Logos Bible Software library&lt;/a&gt; to either the Anglican Gold ($216) or Anglican Platinum ($582) libraries.&lt;/p&gt;
 &lt;p&gt;Upgrading would help me in my preaching, teaching, and writing roles (as a pastor-theologian and as the Managing Editor of AnglicanCompass.com). I’ve already benefited immensely from the Anglican Silver package I bought when I got into the Logos Bible Software ecosystem a couple years ago (mainly to gain easy digital access to Barth and Bonhoeffer’s writings for my dissertation). I plan to stick with Logos—especially for biblical commentaries, systematic theologies, and reference works—because it allows me to quickly research, prepare for sermons, answer questions from readers, etc.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>After realizing just how easy it was to lose access to the physical books that I own (now sequestered in my library carrel at Wheaton), on a bit of a whim <a href="https://www.facebook.com/donate/573962246651661/">I created a fundraiser to help my upgrade my Logos Bible Software library</a> to either the Anglican Gold ($216) or Anglican Platinum ($582) libraries.</p>
@@ -694,9 +694,9 @@
     </item>
     <item>
       <title>With baby #2 on the way, I&#39;m looking for work!</title>
-      <link>https://joshuapsteele.github.io/with-baby-2-on-the-way-im-looking-for-work/</link>
+      <link>http://localhost:1313/with-baby-2-on-the-way-im-looking-for-work/</link>
       <pubDate>Mon, 25 Nov 2019 16:14:29 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/with-baby-2-on-the-way-im-looking-for-work/</guid>
+      <guid>http://localhost:1313/with-baby-2-on-the-way-im-looking-for-work/</guid>
       <description>&lt;p&gt;I’m a husband to Rachel and a father to Eva.&lt;/p&gt;
 &lt;p&gt;I’m also:&lt;/p&gt;
 &lt;ul&gt;
@@ -727,17 +727,17 @@
     </item>
     <item>
       <title>Here&#39;s a video of my ordination to the Priesthood</title>
-      <link>https://joshuapsteele.github.io/heres-a-video-of-my-ordination-to-the-priesthood/</link>
+      <link>http://localhost:1313/heres-a-video-of-my-ordination-to-the-priesthood/</link>
       <pubDate>Mon, 04 Nov 2019 22:50:42 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/heres-a-video-of-my-ordination-to-the-priesthood/</guid>
+      <guid>http://localhost:1313/heres-a-video-of-my-ordination-to-the-priesthood/</guid>
       <description>&lt;figure class=&#34;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;422&#34; loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/nfRMqjhNhzs?feature=oembed&#34; title=&#34;Church of the Savior Ordination Service (2019-11-02)&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;My Bishop, Todd Hunter, preached [an excellent, challenging sermon (“Love Your Enemies, Really?”)](https://friendsofthesavior.org/sermons/love-your-enemies-really-bishop-todd-hunter). It’s definitely worth a listen!</description>
       <content:encoded><![CDATA[<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/nfRMqjhNhzs?feature=oembed" title="Church of the Savior Ordination Service (2019-11-02)" width="750"></iframe></div></figure>My Bishop, Todd Hunter, preached [an excellent, challenging sermon (“Love Your Enemies, Really?”)](https://friendsofthesavior.org/sermons/love-your-enemies-really-bishop-todd-hunter). It’s definitely worth a listen!]]></content:encoded>
     </item>
     <item>
       <title>Help me achieve my home gym dream</title>
-      <link>https://joshuapsteele.github.io/help-me-achieve-my-home-gym-dream/</link>
+      <link>http://localhost:1313/help-me-achieve-my-home-gym-dream/</link>
       <pubDate>Tue, 02 Apr 2019 18:46:35 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/help-me-achieve-my-home-gym-dream/</guid>
+      <guid>http://localhost:1313/help-me-achieve-my-home-gym-dream/</guid>
       <description>&lt;p&gt;I’m trying to put together a basic home gym in our basement apartment. Mainly, I’m interested in doing squats for now. Then, I’ll expand to deadlifts and benchpress. Our ceilings are too low for overhead presses, however.&lt;/p&gt;
 &lt;p&gt;Anyways, I just ordered the Valor Fitness BD-9 squat rack from Amazon.&lt;/p&gt;
 &lt;p&gt;I still need a decent Olympic bar and Olympic plates.&lt;/p&gt;</description>
@@ -748,9 +748,9 @@
     </item>
     <item>
       <title>Use Rapoport&#39;s Rules for Better Conversations and Disagreements</title>
-      <link>https://joshuapsteele.github.io/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
+      <link>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
       <pubDate>Sat, 23 Feb 2019 17:06:02 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
+      <guid>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
       <description>&lt;p&gt;I’m reading Walter Sinnott-Armstrong’s excellent book, &lt;a href=&#34;https://amzn.to/2BNTlTq&#34;&gt;&lt;em&gt;Think Again: How to Reason and Argue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In it (on pages 25–26), I came across &lt;a href=&#34;https://rationalwiki.org/wiki/Rapoport%27s_Rules&#34;&gt;“Rapoport’s Rules.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (&lt;a href=&#34;https://amzn.to/2NmrH4m&#34;&gt;&lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/a&gt;, 31–35), here they are:&lt;/p&gt;
@@ -770,9 +770,9 @@
     </item>
     <item>
       <title>Women&#39;s Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003 AMIA Report</title>
-      <link>https://joshuapsteele.github.io/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/</link>
+      <link>http://localhost:1313/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/</link>
       <pubDate>Thu, 31 Jan 2019 14:17:52 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/</guid>
+      <guid>http://localhost:1313/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/</guid>
       <description>&lt;p&gt;I became an “egalitarian” in college, before I became an Anglican in seminary.&lt;/p&gt;
 &lt;p&gt;It’s taken some time for me to get used to the different contours of the women’s ordination debate within Anglicanism. Growing up, the debate was all about particular Bible verses and whether or not women could teach and preach. However, in Anglicanism, although those same questions/arguments are present, I hear much more about whether or not women can administer the sacraments as priests.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I became an “egalitarian” in college, before I became an Anglican in seminary.</p>
@@ -788,9 +788,9 @@
     </item>
     <item>
       <title>StickKing to the Slow Carb Diet</title>
-      <link>https://joshuapsteele.github.io/stickking-to-the-slow-carb-diet/</link>
+      <link>http://localhost:1313/stickking-to-the-slow-carb-diet/</link>
       <pubDate>Tue, 22 Jan 2019 02:14:32 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/stickking-to-the-slow-carb-diet/</guid>
+      <guid>http://localhost:1313/stickking-to-the-slow-carb-diet/</guid>
       <description>&lt;p&gt;Last night, the scale read 192.4. I’d really like it to read 180 or less.&lt;/p&gt;
 &lt;p&gt;So, in lieu of how effective &lt;a href=&#34;https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/&#34;&gt;putting money on the line via StickK&lt;/a&gt; has been for my daily writing habit these past two weeks, I’ve decided to put money on the line as motivation to stick to the Slow Carb Diet for a month.&lt;/p&gt;
 &lt;p&gt;For my writing habit, I’ve committed to writing 500 words toward my dissertation every day for 8 weeks. For every week I’m unsuccessful, $35 goes to the NRA. (I’m a pacifist. I do not like the NRA.)&lt;/p&gt;</description>
@@ -816,9 +816,9 @@
     </item>
     <item>
       <title>What blogs are you reading?</title>
-      <link>https://joshuapsteele.github.io/what-blogs-are-you-reading/</link>
+      <link>http://localhost:1313/what-blogs-are-you-reading/</link>
       <pubDate>Sun, 13 Jan 2019 20:53:15 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-blogs-are-you-reading/</guid>
+      <guid>http://localhost:1313/what-blogs-are-you-reading/</guid>
       <description>&lt;p&gt;Right now, I’m using the RSS readers &lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt; and &lt;a href=&#34;http://reederapp.com/&#34;&gt;Reeder&lt;/a&gt; to subscribe to the following blogs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.ayjay.org&#34;&gt;Snakes and Ladders – by Alan Jacobs&lt;/a&gt;&lt;/li&gt;
@@ -850,9 +850,9 @@
     </item>
     <item>
       <title>Help me StickK to my writing habit</title>
-      <link>https://joshuapsteele.github.io/help-me-stickk-to-my-writing-habit/</link>
+      <link>http://localhost:1313/help-me-stickk-to-my-writing-habit/</link>
       <pubDate>Tue, 08 Jan 2019 14:44:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/help-me-stickk-to-my-writing-habit/</guid>
+      <guid>http://localhost:1313/help-me-stickk-to-my-writing-habit/</guid>
       <description>&lt;p&gt;I need to finish &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;this dissertation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To do so, I need to write regularly. For me, that means writing every day—a minimum of 500 words every day.&lt;/p&gt;
 &lt;p&gt;Last spring, I did a pretty good job of writing regularly. However, I’ve fallen off the wagon for various reasons, and it’s been a bear to get back on!&lt;/p&gt;
@@ -870,9 +870,9 @@
     </item>
     <item>
       <title>Eva Joy Steele: A Birth Story</title>
-      <link>https://joshuapsteele.github.io/eva-joy-steele-a-birth-story/</link>
+      <link>http://localhost:1313/eva-joy-steele-a-birth-story/</link>
       <pubDate>Thu, 09 Aug 2018 15:56:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/eva-joy-steele-a-birth-story/</guid>
+      <guid>http://localhost:1313/eva-joy-steele-a-birth-story/</guid>
       <description>&lt;p&gt;This is a self-indulgently long story. The gist of it is that my wife, Rachel, was unexpectedly induced due to gestational hypertension at 37 weeks, right before we were supposed to head to Pennsylvania for her sister’s wedding.&lt;/p&gt;
 &lt;p&gt;After a lengthy induction and labor, our beautiful daughter, Eva Joy Steele, was born at 5:46am on Friday, July 20, 2018.&lt;/p&gt;
 &lt;p&gt;If that’s all you’d like to know, great! If you’d like to know more about what went down, keep reading.&lt;/p&gt;</description>
@@ -880,7 +880,9 @@
 <p>After a lengthy induction and labor, our beautiful daughter, Eva Joy Steele, was born at 5:46am on Friday, July 20, 2018.</p>
 <p>If that’s all you’d like to know, great! If you’d like to know more about what went down, keep reading.</p>
 <p>Here’s a cute picture/tweet for your troubles.</p>
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020479447953301504 </figure>## It all started on Tuesday, July 17, 2018.
+<p>(NOTE: The Twitter embeds/links below no longer work. Apologies! But I&rsquo;m keeping them in for posterity.)</p>
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020479447953301504 </figure>
+<h2 id="it-all-started-on-tuesday-july-17-2018">It all started on Tuesday, July 17, 2018.</h2>
 <p>The main thing <em>I</em> had scheduled that day was a get-together with my doctoral supervisor and his other students to discuss part two of our reading of Friedrich Schleiermacher’s <em>Christian Faith</em>.</p>
 <p>As per usual, before diving into our book discussion, we went around the table and gave life updates. The gist of mine was:</p>
 <blockquote>
@@ -891,7 +893,7 @@
 </blockquote>
 <p>You see, on Saturday, July 21, Rachel’s sister, Hannah, was getting married. Rachel was the Matron of Honor, and I was the officiant for the wedding.</p>
 <p>Or at least, that’s what we were planning on.</p>
-<h2 id="the-midwife-appointment-g-classgr_-gr_21-gr-alert-sel-gr_gramm-gr_replaced-gr_inline_cards-gr_disable_anim_appear-style-multireplace-data-gr-id21-id21400-pmg-tuesday">The Midwife Appointment (<g class="gr_ gr_21 gr-alert sel gr_gramm gr_replaced gr_inline_cards gr_disable_anim_appear Style multiReplace" data-gr-id="21" id="21">4:00 pm</g>, Tuesday)</h2>
+<h2 id="the-midwife-appointment-400-pm-tuesday">The Midwife Appointment (4:00 pm, Tuesday)</h2>
 <p>I met Rachel at Elmhurst Hospital for our midwife appointment on Tuesday afternoon.</p>
 <p>Just like the previous week, her initial blood pressure was high. So, they sent us over to triage on the Labor and Delivery unit for another NST.</p>
 <p>“No big deal,” we thought. “Things will come back normal again, and we’ll be on our way to Pennsylvania tomorrow.”</p>
@@ -917,9 +919,12 @@
 <h2 id="induction-starts-cervidil-1230-am--1230-pm-wednesday">INDUCTION STARTS: Cervidil (˜12:30 am – 12:30 pm, Wednesday)</h2>
 <p>The induction process started around 12:30 am with the insertion of a medicine called <a href="https://www.thebump.com/a/cervidil">Cervidil</a> to soften the cervix.</p>
 <p>Despite our hopes that things would start to progress rather quickly, Wednesday was a looooooong day. Looking back, I can tell that this was the case because I had time to tweet.</p>
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019570011952861184 </figure>Also, I figured that now was as good a time as any to ask for some last-minute parenting advice.
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019606474115420160 </figure>By the way, my friend Ryan Clevenger wins the award for best dad advice given in response to my tweet.
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/Nazianzenus/status/1019641823030112261 </figure>Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervidil out, they checked and Rachel was barely dilated.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019570011952861184 </figure>
+<p>Also, I figured that now was as good a time as any to ask for some last-minute parenting advice.</p>
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019606474115420160 </figure>
+<p>By the way, my friend Ryan Clevenger wins the award for best dad advice given in response to my tweet.</p>
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/Nazianzenus/status/1019641823030112261 </figure>
+<p>Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervidil out, they checked and Rachel was barely dilated.</p>
 <p>Nevertheless, they decided to try to insert what is called the Cook Cervical Ripening Balloon, AKA the Cook catheter.</p>
 <h2 id="cook-cervical-ripening-balloon-unsuccessful-attempt-1-130-pm-wednesday">Cook Cervical Ripening Balloon, Unsuccessful Attempt #1 (1:30 pm, Wednesday)</h2>
 <p>Here’s a picture of what we’re talking about.</p>
@@ -935,10 +940,11 @@
 <p>After the unsuccessful insertion of the Cook catheter, they decided to monitor Rachel to see if any regular contractions started. No dice.</p>
 <p>After talking with our doula, Teri, on the phone, we decided to start Pitocin on Wednesday afternoon. If you’re curious, <a href="https://www.thebump.com/a/pitocin">here’s some more information about Pitocin and what it does.</a></p>
 <p>So, they started Pitocin at around 4:00pm on Wednesday. Just like Cervidil, the first round lasted approximately 12 hours.</p>
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019780168326565889 </figure>### To Eat, or Not to Eat
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019780168326565889 </figure>
+<h3 id="to-eat-or-not-to-eat">To Eat, or Not to Eat</h3>
 <p>Apparently, normal hospital protocol is that you’re only allowed to consume clear liquids while on Pitocin. We’d heard from various people that this was a load of crap. However, the midwife who was there when we started Pitocin still said “clear liquids only.”</p>
 <p>Nevertheless, we still snuck Rachel snacks when nurses weren’t in the room!</p>
-<p>On Wednesday evening, we met with a different midwife to discuss how things were progressing. She <g class="gr_ gr_49 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-ins replaceWithoutSep" data-gr-id="49" id="49">said</g> “You’re eating, right?,” and then we told her about our clear liquid instructions.</p>
+<p>On Wednesday evening, we met with a different midwife to discuss how things were progressing. She said “You’re eating, right?,” and then we told her about our clear liquid instructions.</p>
 <p>“No no no, you (looks at me) go get her some dinner, OK?”</p>
 <p>Best. midwife. ever. I went and got Rachel some Pad Thai.</p>
 <p>We also discussed with the midwife what would happen if things didn’t progress at all over night. She said that, if NOTHING had changed in the morning, that they would consider another consult with maternal and fetal medicine doctors to see if we could be sent home for 24 hours before returning to re-start the induction process.</p>
@@ -954,7 +960,8 @@
 <p>Unfortunately, what also started around this time was <em>vomiting</em> (Rachel, not me). I wrote down the first times: 0912, 0945, 1050, 1121, 1215, 1430, 1605… Then, in my notebook, I just have “… (more times).” It was rough.</p>
 <h2 id="back-on-pitocin-1030-am-thursday">Back on Pitocin (10:30 am, Thursday)</h2>
 <p>Things were progressing, but they didn’t exactly take off after the Cook catheter was in. So, it was back on Pitocin.</p>
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019982256037859329 </figure>Rachel’s contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019982256037859329 </figure>
+<p>Rachel’s contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.</p>
 <p>What’s more, she was getting to the point where she had to stop talking during contractions. This despite her insistence that, while she <em>could</em> talk through the contractions if she really wanted to, it was easier not to talk…</p>
 <p>Between that and the vomiting, I suggested that we give our doula a call and ask her to come in.</p>
 <h2 id="doula-teri-arrives-100-pm-thursday">Doula Teri Arrives (1:00 pm, Thursday)</h2>
@@ -970,7 +977,8 @@
 <p>Whenever she would come into the room, which she did rather frequently, Rachel’s contractions would slow down or get erratic. This made the nurse (and the midwife) want to crank up the Pitocin. It wasn’t the greatest afternoon.</p>
 <p>However, that nurse eventually left. Also, Rachel was able to get a decent nap in… THROUGH some pretty intense contractions! (Teri and I were pretty surprised, looking at the monitor, watching the contractions come, without a peep or change in facial expression from Rachel as she slept.)</p>
 <h2 id="removed-cook-catheter-800pm-thursday">Removed Cook Catheter (8:00pm, Thursday)</h2>
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020115308634361857 </figure>There’s something about <g class="gr_ gr_54 gr-alert gr_spell gr_inline_cards gr_run_anim ContextualSpelling multiReplace" data-gr-id="54" id="54">12 hour</g> rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
+<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020115308634361857 </figure>
+<p>There’s something about 12 hour rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.</p>
 <p>After a pretty intense afternoon, Rachel was dilated to (*drumroll*) … 3cm!</p>
 <p>43.5 hours for 3 centimeters. Sure, progress. But SLOW!</p>
 <p>The midwife recommended breaking the bag of waters to move things along. After being reassured that this wouldn’t put us “on a clock” before they would intervene with a C-section, we decided to go ahead with that plan.</p>
@@ -1003,7 +1011,7 @@
 <p>I asked Teri to go grab me a ginger ale, and I snuck swigs of ginger all and bites of a Clif Bar between Rachel’s contractions in the tub.</p>
 <p>Again, at this point, I was purposefully trying not to pay attention to the clock. Sure, things seemed to be moving along now. I’d read in the books that when the mom said “I can’t do this anymore,” that usually meant they were in transition, which meant they were about ready to push…</p>
 <p>But, at 2:30 am Rachel had only been at 5 centimeters. So, it didn’t seem wise to get my hopes up. And yet, here my wife was, throwing up over the side of the tub during contractions and saying she didn’t know how much longer she could do this for.</p>
-<p>Somewhere around 5:15–5:30, the midwife and her student came in and checked Rachel <g class="gr_ gr_25 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep" data-gr-id="25" id="25">again,</g> because she was complaining of increased pressure down low.</p>
+<p>Somewhere around 5:15–5:30, the midwife and her student came in and checked Rachel again, because she was complaining of increased pressure down low.</p>
 <p>At this point, I was praying that she was at least 8cm dilated. If not, based on how intense things had just gotten, I wasn’t sure how much longer Rachel would make it without, at the very least, some nitrous gas for pain management.</p>
 <p>However, thanks be to God, she was dilated to…9.5cm!</p>
 <h2 id="but-i-have-to-push-530546-am-friday">“BUT I HAVE TO PUSH!” (5:30–5:46 am, Friday)</h2>
@@ -1029,9 +1037,9 @@
     </item>
     <item>
       <title>Please Don&#39;t Leave Me Alone: On Male Friendships, or the Lack Thereof</title>
-      <link>https://joshuapsteele.github.io/please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/</link>
+      <link>http://localhost:1313/please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/</link>
       <pubDate>Tue, 20 Mar 2018 18:15:22 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/</guid>
+      <guid>http://localhost:1313/please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/</guid>
       <description>&lt;p&gt;Maybe you, like me, consider yourself quite the introvert. Maybe you, like me, have a difficult time walking the tightrope between feeling quickly overwhelmed by interpersonal relationships, on the one hand, and feeling incredibly lonely, on the other hand.&lt;/p&gt;
 &lt;p&gt;Maybe you, like me, feel these problems acutely as a male (although I’m sure that females are having their own relational struggles as our culture increasingly pressures us all to be “alone together,” looking at our screens instead of looking each other in the eye).&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Maybe you, like me, consider yourself quite the introvert. Maybe you, like me, have a difficult time walking the tightrope between feeling quickly overwhelmed by interpersonal relationships, on the one hand, and feeling incredibly lonely, on the other hand.</p>
@@ -1075,9 +1083,9 @@
     </item>
     <item>
       <title>Getting back on the &#34;Getting Things Done&#34; Productivity Bandwagon</title>
-      <link>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
+      <link>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
       <pubDate>Tue, 13 Mar 2018 22:06:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
+      <guid>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
       <description>&lt;p&gt;Getting Things Done (“GTD” for short) is a wildly popular personal productivity system invented and popularized by David Allen. However, as &lt;a href=&#34;https://lifehacker.com/getting-things-done-ten-years-in-1795707084&#34;&gt;Nicole Dieker at Lifehacker pointed out in 2017&lt;/a&gt;, “You don’t hear a lot of people talk about the &lt;a href=&#34;http://gettingthingsdone.com/&#34;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt;&lt;/a&gt; productivity system anymore.”&lt;/p&gt;
 &lt;p&gt;I think that’s a shame, because it’s a very effective system.&lt;/p&gt;
 &lt;p&gt;I first tried Getting Things Done after reading “&lt;a href=&#34;http://amzn.to/2tMiX1w&#34;&gt;What’s Best Nex&lt;/a&gt;t” by Matt Perman, and then reading “&lt;a href=&#34;http://amzn.to/2HvNJxv&#34;&gt;Getting Things Done&lt;/a&gt;” by David Allen (in its newly revised 2015 edition) shortly thereafter.&lt;/p&gt;</description>
@@ -1140,9 +1148,9 @@
     </item>
     <item>
       <title>This Song is a Beautiful Picture of the Theological Journey</title>
-      <link>https://joshuapsteele.github.io/the-truth-is-not-a-cave/</link>
+      <link>http://localhost:1313/the-truth-is-not-a-cave/</link>
       <pubDate>Mon, 12 Mar 2018 21:36:16 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/the-truth-is-not-a-cave/</guid>
+      <guid>http://localhost:1313/the-truth-is-not-a-cave/</guid>
       <description>&lt;p&gt;I was recently privileged to see one of my favorite bands, &lt;a href=&#34;http://theohhellos.com/&#34;&gt;The Oh Hellos&lt;/a&gt;, in concert at the House of Blues in downtown Chicago.&lt;/p&gt;
 &lt;p&gt;I love all of The Oh Hellos’ music, but one song, in particular, has remained poignant to me ever since I first heard it. The song is called “The Truth is a Cave,” and I think it provides a beautiful picture of what I’m calling “the theological journey” – the stages one goes through in one’s knowledge of God.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I was recently privileged to see one of my favorite bands, <a href="http://theohhellos.com/">The Oh Hellos</a>, in concert at the House of Blues in downtown Chicago.</p>
@@ -1182,9 +1190,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Dangerous Beauty: Phoenix and Grand Canyon Trip 2018</title>
-      <link>https://joshuapsteele.github.io/dangerous-beauty-phoenix-grand-canyon-trip-2018/</link>
+      <link>http://localhost:1313/dangerous-beauty-phoenix-grand-canyon-trip-2018/</link>
       <pubDate>Fri, 09 Mar 2018 14:47:50 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/dangerous-beauty-phoenix-grand-canyon-trip-2018/</guid>
+      <guid>http://localhost:1313/dangerous-beauty-phoenix-grand-canyon-trip-2018/</guid>
       <description>&lt;h3 id=&#34;rachel-and-i-just-got-back-from-our-very-first-trip-to-the-southwest&#34;&gt;Rachel and I just got back from our very first trip to the Southwest.&lt;/h3&gt;
 &lt;p&gt;The main reason for the trip was to visit some good friends of ours, the Smith family, in Phoenix, AZ. Here’s a picture of the group of us together after church at &lt;a href=&#34;https://livingfaithanglican.org/&#34;&gt;Living Faith Anglican Church in Tempe, AZ&lt;/a&gt;, where my friend Peter Smith is the rector.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg&#34; alt=&#34;&#34;  /&gt;
@@ -1219,9 +1227,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>3 Confessions of an Expectant Father</title>
-      <link>https://joshuapsteele.github.io/3-confessions-expectant-father/</link>
+      <link>http://localhost:1313/3-confessions-expectant-father/</link>
       <pubDate>Tue, 27 Feb 2018 12:29:34 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/3-confessions-expectant-father/</guid>
+      <guid>http://localhost:1313/3-confessions-expectant-father/</guid>
       <description>&lt;h2 id=&#34;were-expecting&#34;&gt;We’re Expecting!&lt;/h2&gt;
 &lt;p&gt;In case you haven’t heard the news, my wife Rachel and I are expecting our firstborn child this August! Rachel is currently 16 weeks along, and we won’t find out the gender of the baby (whom I am affectionately calling “Lump”) for another month.&lt;/p&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg&#34; alt=&#34;&#34;  /&gt;
@@ -1295,9 +1303,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Testimony: A Faith Story, In Brief</title>
-      <link>https://joshuapsteele.github.io/testimony-brief/</link>
+      <link>http://localhost:1313/testimony-brief/</link>
       <pubDate>Mon, 07 Aug 2017 07:00:36 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/testimony-brief/</guid>
+      <guid>http://localhost:1313/testimony-brief/</guid>
       <description>&lt;p&gt;&lt;em&gt;The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words. It was challenging to do, but also a helpful exercise! I challenge you to write out your own story in approximately 500 words.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h1 id=&#34;testimony&#34;&gt;Testimony&lt;/h1&gt;
@@ -1329,9 +1337,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Thank God, I Went to Cedarville</title>
-      <link>https://joshuapsteele.github.io/thank-god-i-went-to-cedarville/</link>
+      <link>http://localhost:1313/thank-god-i-went-to-cedarville/</link>
       <pubDate>Tue, 31 May 2016 20:20:53 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/thank-god-i-went-to-cedarville/</guid>
+      <guid>http://localhost:1313/thank-god-i-went-to-cedarville/</guid>
       <description>&lt;p&gt;As I prepare for my final semester at &lt;a href=&#34;http://www.beesondivinity.com/&#34;&gt;Beeson Divinity School&lt;/a&gt;, it strikes me just how well I was prepared for my seminary education by my undergraduate professors at Cedarville University.&lt;/p&gt;
 &lt;p&gt;All things considered, my time at CU &lt;strong&gt;exposed me to the riches of biblical and theological studies, and it left me hungry for more&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;College gave me a &lt;strong&gt;love for Christ’s gospel and Christ’s Church&lt;/strong&gt; – which has only increased since I arrived at Beeson.&lt;/p&gt;</description>
@@ -1373,9 +1381,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>How Do You Want To Be Remembered?</title>
-      <link>https://joshuapsteele.github.io/how-do-you-want-to-be-remembered/</link>
+      <link>http://localhost:1313/how-do-you-want-to-be-remembered/</link>
       <pubDate>Mon, 30 May 2016 20:49:33 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/how-do-you-want-to-be-remembered/</guid>
+      <guid>http://localhost:1313/how-do-you-want-to-be-remembered/</guid>
       <description>&lt;p&gt;Do you know what the worst thing about &lt;em&gt;&lt;strong&gt;death&lt;/strong&gt;&lt;/em&gt; is?&lt;/p&gt;
 &lt;p&gt;It’s not the &lt;span style=&#34;text-decoration: underline;&#34;&gt;dying&lt;/span&gt; itself – its the &lt;strong&gt;separation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;That is, we don’t suffer the most from our own deaths (a one-time occurrence), but from suffering the deaths of others (repeatedly). Instead of living relationships, we are left with distant memories.&lt;/p&gt;
@@ -1434,9 +1442,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>What are you afraid of?</title>
-      <link>https://joshuapsteele.github.io/what-are-you-afraid-of/</link>
+      <link>http://localhost:1313/what-are-you-afraid-of/</link>
       <pubDate>Fri, 27 May 2016 20:02:19 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-are-you-afraid-of/</guid>
+      <guid>http://localhost:1313/what-are-you-afraid-of/</guid>
       <description>&lt;p&gt;I’m scared. Are you?&lt;/p&gt;
 &lt;p&gt;Specifically, as I wrote in my journal this very morning:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1483,23 +1491,53 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>What I&#39;m Reading</title>
-      <link>https://joshuapsteele.github.io/what-im-reading/</link>
+      <link>http://localhost:1313/what-im-reading/</link>
       <pubDate>Thu, 26 May 2016 14:56:03 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-im-reading/</guid>
+      <guid>http://localhost:1313/what-im-reading/</guid>
       <description>&lt;p&gt;Ah, the joys of summer reading.&lt;/p&gt;
-&lt;div class=&#34;gallery galleryid-3824 gallery-columns-3 gallery-size-medium&#34; id=&#34;gallery-1&#34;&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0493-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3829&#34;&gt; Hoping to be able to read German with a dictionary by the end of the summer! &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0492-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3828&#34;&gt; Karl Barth’s theological bombshell. &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0494-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3830&#34;&gt; I’m trying the Slow-Carb Diet and kettlebell swings. &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0500-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3834&#34;&gt; I’ve wanted to get my hands on a copy of the Homilies for some time. &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0495-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3831&#34;&gt; Finally getting around to reading this classic! &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0499-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3833&#34;&gt; My very first Seth Godin book. &lt;/figcaption&gt;&lt;/figure&gt;&lt;figure class=&#34;gallery-item&#34;&gt;&lt;div class=&#34;gallery-icon landscape&#34;&gt; [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0496-2/) &lt;/div&gt; &lt;figcaption class=&#34;wp-caption-text gallery-caption&#34; id=&#34;gallery-1-3832&#34;&gt; What has Barth to do with Plantinga? I’m hoping Diller can tell me. &lt;/figcaption&gt;&lt;/figure&gt; &lt;/div&gt;**What about you? What are you reading?**
-&lt;p&gt;&lt;strong&gt;Is there anything I should add to this eclectic assortment?&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;p&gt;Here are a few of the books I’m currently diving into:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg&#34; alt=&#34;Hoping to be able to read German with a dictionary by the end of the summer!&#34;  /&gt;
+
+&lt;em&gt;Hoping to be able to read German with a dictionary by the end of the summer!&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg&#34; alt=&#34;Karl Barth’s theological bombshell.&#34;  /&gt;
+
+&lt;em&gt;Karl Barth’s theological bombshell.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg&#34; alt=&#34;I’m trying the Slow-Carb Diet and kettlebell swings.&#34;  /&gt;
+
+&lt;em&gt;I’m trying the Slow-Carb Diet and kettlebell swings.&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Ah, the joys of summer reading.</p>
-<div class="gallery galleryid-3824 gallery-columns-3 gallery-size-medium" id="gallery-1"><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0493-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3829"> Hoping to be able to read German with a dictionary by the end of the summer! </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0492-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3828"> Karl Barth’s theological bombshell. </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0494-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3830"> I’m trying the Slow-Carb Diet and kettlebell swings. </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0500-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3834"> I’ve wanted to get my hands on a copy of the Homilies for some time. </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0495-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3831"> Finally getting around to reading this classic! </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0499-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3833"> My very first Seth Godin book. </figcaption></figure><figure class="gallery-item"><div class="gallery-icon landscape"> [![](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg)](https://joshuapsteele.com/what-im-reading/img_0496-2/) </div> <figcaption class="wp-caption-text gallery-caption" id="gallery-1-3832"> What has Barth to do with Plantinga? I’m hoping Diller can tell me. </figcaption></figure> </div>**What about you? What are you reading?**
-<p><strong>Is there anything I should add to this eclectic assortment?</strong></p>
+<p>Here are a few of the books I’m currently diving into:</p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg" alt="Hoping to be able to read German with a dictionary by the end of the summer!"  />
+
+<em>Hoping to be able to read German with a dictionary by the end of the summer!</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg" alt="Karl Barth’s theological bombshell."  />
+
+<em>Karl Barth’s theological bombshell.</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg" alt="I’m trying the Slow-Carb Diet and kettlebell swings."  />
+
+<em>I’m trying the Slow-Carb Diet and kettlebell swings.</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg" alt="I’ve wanted to get my hands on a copy of the Homilies for some time."  />
+
+<em>I’ve wanted to get my hands on a copy of the Homilies for some time.</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg" alt="Finally getting around to reading this classic!"  />
+
+<em>Finally getting around to reading this classic!</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg" alt="My very first Seth Godin book."  />
+
+<em>My very first Seth Godin book.</em></p>
+<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg" alt="What has Barth to do with Plantinga? I’m hoping Diller can tell me."  />
+
+<em>What has Barth to do with Plantinga? I’m hoping Diller can tell me.</em></p>
+<p><strong>What about you? What are you reading?</strong></p>
+<p>Is there anything I should add to this eclectic assortment?</p>
 <p>~Josh (<a href="https://twitter.com/joshuapsteele">@joshuapsteele</a>)</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Theology in Outline: What Do I Believe?</title>
-      <link>https://joshuapsteele.github.io/theology-outline/</link>
+      <link>http://localhost:1313/theology-outline/</link>
       <pubDate>Tue, 08 Dec 2015 11:45:35 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/theology-outline/</guid>
+      <guid>http://localhost:1313/theology-outline/</guid>
       <description>&lt;p&gt;&lt;em&gt;Theology is confusing enough, much more so when you attempt to summarize it all in a single essay! Nevertheless, such was my assignment in seminary in 2015. Here are the results.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -1639,9 +1677,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>My Uncle, Timothy Steele</title>
-      <link>https://joshuapsteele.github.io/20150424my-uncle-timothy-steele/</link>
+      <link>http://localhost:1313/20150424my-uncle-timothy-steele/</link>
       <pubDate>Fri, 24 Apr 2015 09:15:26 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/20150424my-uncle-timothy-steele/</guid>
+      <guid>http://localhost:1313/20150424my-uncle-timothy-steele/</guid>
       <description>&lt;p&gt;(This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;blockquote&gt;
@@ -1690,9 +1728,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Presenting on Karl Barth at 2015 Southeastern ETS</title>
-      <link>https://joshuapsteele.github.io/presenting-on-barth-at-2015-southeastern-ets/</link>
+      <link>http://localhost:1313/presenting-on-barth-at-2015-southeastern-ets/</link>
       <pubDate>Fri, 24 Apr 2015 09:13:41 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/presenting-on-barth-at-2015-southeastern-ets/</guid>
+      <guid>http://localhost:1313/presenting-on-barth-at-2015-southeastern-ets/</guid>
       <description>&lt;p&gt;I just received the news today that my student paper submission for the &lt;a href=&#34;https://lru.hobsonsradius.com/ssc/eform/N70x7m7aEx6G0x67128L.ssc&#34;&gt;2015 Southeast Regional Meeting of the Evangelical Theological Society&lt;/a&gt; has been accepted!&lt;/p&gt;
 &lt;p&gt;My theme lately has been to write on &lt;u&gt;Karl Barth and the unity of the Church&lt;/u&gt;. At last year&amp;rsquo;s Regional ETS (hosted by my seminary, &lt;a href=&#34;http://www.beesondivinity.com/&#34;&gt;Beeson Divinity School&lt;/a&gt;), I presented an edited version of my undergraduate thesis: &lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;. Click the link if you&amp;rsquo;d like to read the PDF. Here&amp;rsquo;s the thesis:&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I just received the news today that my student paper submission for the <a href="https://lru.hobsonsradius.com/ssc/eform/N70x7m7aEx6G0x67128L.ssc">2015 Southeast Regional Meeting of the Evangelical Theological Society</a> has been accepted!</p>
@@ -1712,9 +1750,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Who am I to be a theologian?</title>
-      <link>https://joshuapsteele.github.io/who-am-i-to-be-a-theologian/</link>
+      <link>http://localhost:1313/who-am-i-to-be-a-theologian/</link>
       <pubDate>Fri, 24 Apr 2015 09:13:34 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/who-am-i-to-be-a-theologian/</guid>
+      <guid>http://localhost:1313/who-am-i-to-be-a-theologian/</guid>
       <description>&lt;p&gt;For my 20th Century History &amp;amp; Doctrine course at &lt;a href=&#34;http://www.beesondivinity.com/&#34;&gt;Beeson Divinity School&lt;/a&gt;, I&amp;rsquo;m re-reading through &lt;a href=&#34;http://en.wikipedia.org/wiki/Karl_Barth&#34;&gt;Karl Barth&lt;/a&gt;&amp;rsquo;s &lt;em&gt;&lt;a href=&#34;http://www.amazon.com/Evangelical-Theology-Introduction-Karl-Barth/dp/0802818196&#34;&gt;Evangelical Theology: An Introduction&lt;/a&gt;&lt;/em&gt;. If you&amp;rsquo;re involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a particularly challenging portion from the chapter on &amp;ldquo;Wonder,&amp;rdquo; beginning on page 71. I wish the language were gender-inclusive, but Karl&amp;rsquo;s words still ring true:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1734,9 +1772,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Ok, Maybe a Bit More on Cedarville!</title>
-      <link>https://joshuapsteele.github.io/ok-maybe-a-bit-more-on-cedarville/</link>
+      <link>http://localhost:1313/ok-maybe-a-bit-more-on-cedarville/</link>
       <pubDate>Thu, 20 Mar 2014 11:46:15 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/ok-maybe-a-bit-more-on-cedarville/</guid>
+      <guid>http://localhost:1313/ok-maybe-a-bit-more-on-cedarville/</guid>
       <description>&lt;p&gt;You’ll notice that &lt;a href=&#34;https://joshuapsteele.com/2014/03/18/cedarville-2/&#34;&gt;the previous post on Cedarville&lt;/a&gt; ends with a link to &lt;a href=&#34;http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm&#34;&gt;the Course Schedule&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650&#34; alt=&#34;Image&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -1759,9 +1797,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Concerning Romans</title>
-      <link>https://joshuapsteele.github.io/concerning-romans/</link>
+      <link>http://localhost:1313/concerning-romans/</link>
       <pubDate>Thu, 20 Mar 2014 11:29:22 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/concerning-romans/</guid>
+      <guid>http://localhost:1313/concerning-romans/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://www.treybailey.net/wp-content/uploads/2012/03/romans_title.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;Well, judging by my blog stats for the past 48 hours — as compared with the past few months — I’d get many more views on this post if it &lt;a href=&#34;https://joshuapsteele.com/2014/03/18/cedarville-2/&#34;&gt;concerned the chaos at Cedarville University&lt;/a&gt;!&lt;/p&gt;
@@ -1781,9 +1819,9 @@ And I desired a truth I wouldn’t have to seek</p>
     </item>
     <item>
       <title>Cedarville!</title>
-      <link>https://joshuapsteele.github.io/cedarville-2/</link>
+      <link>http://localhost:1313/cedarville-2/</link>
       <pubDate>Tue, 18 Mar 2014 17:11:59 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/cedarville-2/</guid>
+      <guid>http://localhost:1313/cedarville-2/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://img2.findthebest.com/sites/default/files/10/media/images/Cedarville_University_220560.gif&#34; alt=&#34;&#34;  /&gt;
 I wish I could say I was proud of my alma mater…&lt;/p&gt;
 &lt;p&gt;Despite my Lenten Facebook fast, I was made aware of &lt;strong&gt;the following post&lt;/strong&gt; by my friend &lt;a href=&#34;http://marlenagraves.com/&#34;&gt;&lt;strong&gt;Marlena Graves&lt;/strong&gt;&lt;/a&gt;. I thought I’d share it, just in case anyone is considering Cedarville as a choice for college. I’d still strongly recommend you attend another institution, where you can trust the administration. My &lt;a href=&#34;https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/&#34;&gt;previous thoughts&lt;/a&gt; on&lt;a href=&#34;https://joshuapsteele.com/2013/02/19/oh-cedarville/&#34;&gt; these matters&lt;/a&gt; still &lt;a href=&#34;http://fiatlux125.wordpress.com/&#34;&gt;stand&lt;/a&gt;.&lt;/p&gt;
@@ -1803,9 +1841,9 @@ I wish I could say I was proud of my alma mater…</p>
     </item>
     <item>
       <title>Peru 2014!</title>
-      <link>https://joshuapsteele.github.io/peru-2014/</link>
+      <link>http://localhost:1313/peru-2014/</link>
       <pubDate>Fri, 07 Mar 2014 17:46:05 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/peru-2014/</guid>
+      <guid>http://localhost:1313/peru-2014/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.youcaring.com/mission-trip-fundraiser/peru-or-bust-deboer-and-steele/147648&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://afc726434ed5e9fb25d7-167fb5fa80ab95bdc8384d427ef6a062.r6.cf1.rackcdn.com/e1a5366a-4bc0-410e-b2a7-f7c40c65b852_profile.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;I’m happy to announce that Rachel and I will be completing my required &lt;a href=&#34;http://www.beesondivinity.com/cross-culturalministrypracticums&#34;&gt;Cross Cultural Ministry Practicum&lt;/a&gt; for &lt;a href=&#34;http://www.beesondivinity.com/&#34;&gt;Beeson Divinity School&lt;/a&gt; along with our good friends Kyle, Rebekah, and baby Luke DeBoer in Lima, Peru this summer!&lt;/p&gt;
 &lt;p&gt;Our goal is to assist &lt;a href=&#34;http://www.abweperu.org/page_family/pagefamily.php?id=12&#34;&gt;the Stone families&lt;/a&gt; (Dave &amp;amp; Evelyn; Jonathan &amp;amp; Angela) in their various local ministries, including:&lt;/p&gt;
@@ -1832,9 +1870,9 @@ I wish I could say I was proud of my alma mater…</p>
     </item>
     <item>
       <title>Alabama Update</title>
-      <link>https://joshuapsteele.github.io/20130719alabama-update/</link>
+      <link>http://localhost:1313/20130719alabama-update/</link>
       <pubDate>Fri, 19 Jul 2013 09:26:03 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/20130719alabama-update/</guid>
+      <guid>http://localhost:1313/20130719alabama-update/</guid>
       <description>&lt;p&gt;Rachel and I are in the middle of our second month of calling Birmingham, Alabama “home.”&lt;/p&gt;
 &lt;p&gt;While we could both do with a little less humidity (!), we’re enjoying ourselves and our surroundings down here in Alabama.&lt;/p&gt;
 &lt;h2 id=&#34;whats-happening-in-birmingham-al&#34;&gt;What’s Happening in Birmingham, AL:&lt;/h2&gt;
@@ -1856,9 +1894,9 @@ I wish I could say I was proud of my alma mater…</p>
     </item>
     <item>
       <title>Requiescas in Pace, Mi Avia</title>
-      <link>https://joshuapsteele.github.io/requiescas-in-pace-mi-avia/</link>
+      <link>http://localhost:1313/requiescas-in-pace-mi-avia/</link>
       <pubDate>Sun, 23 Jun 2013 17:41:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/requiescas-in-pace-mi-avia/</guid>
+      <guid>http://localhost:1313/requiescas-in-pace-mi-avia/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/996164_10152895104580316_41022478_n.jpg&#34; alt=&#34;&#34;  /&gt;
 “Depart, O Christian soul, out of this world;&lt;br&gt;
 In the Name of God the Father Almighty who created you;&lt;br&gt;
@@ -1877,9 +1915,9 @@ and your dwelling place in the Paradise of God.”</p>
     </item>
     <item>
       <title>Heads up! Guest post on the way.</title>
-      <link>https://joshuapsteele.github.io/heads-up-guest-post-on-the-way/</link>
+      <link>http://localhost:1313/heads-up-guest-post-on-the-way/</link>
       <pubDate>Sun, 16 Jun 2013 13:19:57 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/heads-up-guest-post-on-the-way/</guid>
+      <guid>http://localhost:1313/heads-up-guest-post-on-the-way/</guid>
       <description>&lt;p&gt;Great news! The first ever guest post on this blog is coming soon from my good friend Amy Chase, an incoming student this Fall at &lt;a href=&#34;http://www.asburyseminary.edu/&#34;&gt;Asbury Theological Seminary&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Her post? A sermon titled &lt;strong&gt;“&lt;a href=&#34;http://www.biblegateway.com/passage/?search=Jeremiah%2029:11&amp;amp;version=NET&#34;&gt;Jeremiah 29:11&lt;/a&gt;, Scripture: Handle with Care.”&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Stay tuned!&lt;/p&gt;</description>
@@ -1890,9 +1928,9 @@ and your dwelling place in the Paradise of God.”</p>
     </item>
     <item>
       <title>My Unforgettable Cedarville Experience (pt 2)</title>
-      <link>https://joshuapsteele.github.io/my-unforgettable-cedarville-experience-pt-2-2/</link>
+      <link>http://localhost:1313/my-unforgettable-cedarville-experience-pt-2-2/</link>
       <pubDate>Fri, 10 May 2013 09:26:30 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/my-unforgettable-cedarville-experience-pt-2-2/</guid>
+      <guid>http://localhost:1313/my-unforgettable-cedarville-experience-pt-2-2/</guid>
       <description>&lt;div class=&#34;sfy-html&#34;&gt;&lt;div class=&#34;s-story noborder&#34;&gt;&lt;div class=&#34;s-header&#34;&gt;Since my [previous post](https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/ &#34;My Unforgettable Cedarville Experience&#34;), quite a few things have happened at my alma mater. Here’s a [Storify overview](https://storify.com/fiatlux125/cedarville-2012-2013/) of my crazy final year at Cedarville University.
 &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
       <content:encoded><![CDATA[<div class="sfy-html"><div class="s-story noborder"><div class="s-header">Since my [previous post](https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/ "My Unforgettable Cedarville Experience"), quite a few things have happened at my alma mater. Here’s a [Storify overview](https://storify.com/fiatlux125/cedarville-2012-2013/) of my crazy final year at Cedarville University.
@@ -1900,9 +1938,9 @@ and your dwelling place in the Paradise of God.”</p>
     </item>
     <item>
       <title>A Farewell to Cedarville</title>
-      <link>https://joshuapsteele.github.io/a-farewell-to-cedarville/</link>
+      <link>http://localhost:1313/a-farewell-to-cedarville/</link>
       <pubDate>Wed, 24 Apr 2013 06:00:34 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/a-farewell-to-cedarville/</guid>
+      <guid>http://localhost:1313/a-farewell-to-cedarville/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;(Originally posted in &lt;a href=&#34;http://www.theventriloquist.us/&#34;&gt;The Ventriloquist&lt;/a&gt;. Go check out the rest of &lt;a href=&#34;http://www.theventriloquist.us/&#34;&gt;Issue 10&lt;/a&gt;!)&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;strong&gt;“A Farewell to Cedarville” – Joshua Steele&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;As what was once a vision for the future has become an agenda for returning to the past, the list of people who no longer fit the Cedarville mold is growing.&lt;/strong&gt; I contacted former vice president of Student Life, Dr. &lt;a href=&#34;http://www.carlruby.com/&#34;&gt;Carl Ruby&lt;/a&gt;; former professor Dr. &lt;a href=&#34;https://sites.google.com/site/michaelpahl/&#34;&gt;Michael Pahl&lt;/a&gt;; current professors Dr. TC Ham, Dr. Shawn Graves, and Dr. David Mills; and former trustees Dr. William Rudd and Rev. Chris Williamson to see where things stand as this academic year comes to a close.&lt;/p&gt;</description>
@@ -1930,9 +1968,9 @@ and your dwelling place in the Paradise of God.”</p>
     </item>
     <item>
       <title>Honors, Grace, and Generosity</title>
-      <link>https://joshuapsteele.github.io/honors-grace-and-generosity/</link>
+      <link>http://localhost:1313/honors-grace-and-generosity/</link>
       <pubDate>Mon, 15 Apr 2013 22:31:53 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/honors-grace-and-generosity/</guid>
+      <guid>http://localhost:1313/honors-grace-and-generosity/</guid>
       <description>&lt;p&gt;Yahweh and others have been too good to me.&lt;/p&gt;
 &lt;p&gt;Today I received two awards at Cedarville University’s &lt;a href=&#34;http://www.cedarville.edu/cf/calendar/viewsingleevent/id/b30deaf6-2481-ade4-b080-a503cd1527b2&#34;&gt;49th Annual Academic Honors Day Chapel&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The first: The Oxford University Press Award in Preseminary Bible, given to the graduating senior with the highest cumulative GPA in the preseminary major.&lt;/p&gt;
@@ -1958,9 +1996,9 @@ but also that I’ve gotten to glimpse the Kingdom here.</p>
     </item>
     <item>
       <title>On Building/Burning Bridges</title>
-      <link>https://joshuapsteele.github.io/on-buildingburning-bridges/</link>
+      <link>http://localhost:1313/on-buildingburning-bridges/</link>
       <pubDate>Fri, 29 Mar 2013 15:07:13 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/on-buildingburning-bridges/</guid>
+      <guid>http://localhost:1313/on-buildingburning-bridges/</guid>
       <description>&lt;p&gt;DISCLAIMER: there’s a fair bit about the Church that frustrates me.&lt;/p&gt;
 &lt;p&gt;However, I’d like to address those frustrations in a way that builds bridges, not burns them down. Especially since sin and justice are both relational. It does no good to flee the former for the latter in a way that creates more rifts than it heals.&lt;/p&gt;
 &lt;p&gt;Therefore, any criticisms I level against my sisters and brothers in Christ, (many of those criticisms coming from outside the walls of the Church), I’d like first to aim them at myself. After all, if I want to witness self-righteous pride, xenophobia, misplaced anger, etc., I need look no further than the mirror.&lt;/p&gt;</description>
@@ -1978,9 +2016,9 @@ but also that I’ve gotten to glimpse the Kingdom here.</p>
     </item>
     <item>
       <title>Let There Be Light: My Resignation</title>
-      <link>https://joshuapsteele.github.io/let-there-be-light-my-resignation/</link>
+      <link>http://localhost:1313/let-there-be-light-my-resignation/</link>
       <pubDate>Tue, 26 Feb 2013 16:45:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/let-there-be-light-my-resignation/</guid>
+      <guid>http://localhost:1313/let-there-be-light-my-resignation/</guid>
       <description>&lt;p&gt;&lt;span style=&#34;text-decoration:underline;color:#ff0000;&#34;&gt;&lt;em&gt;&lt;strong&gt;**Please read:&lt;/strong&gt;&lt;/em&gt; &lt;/span&gt;&lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://fiatlux125.wordpress.com/2013/02/26/leadership-transfer-2/&#34;&gt;Let There Be Light – Leadership Transfer&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;span style=&#34;text-decoration:underline;color:#ff0000;&#34;&gt;&lt;em&gt;&lt;strong&gt;**&lt;/strong&gt;&lt;/em&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Until further notice, I hereby rescind my use of the Let There Be Light platform&lt;/strong&gt; (including &lt;a href=&#34;http://fiatlux125.wordpress.com/&#34;&gt;blog&lt;/a&gt;, &lt;a href=&#34;https://www.facebook.com/fiatlux125&#34;&gt;Facebook&lt;/a&gt;, and &lt;a href=&#34;https://twitter.com/fiatlux125&#34;&gt;Twitter&lt;/a&gt;) &lt;strong&gt;to protest recent changes at Cedarville University.&lt;/strong&gt; The LTBL platform will now be &lt;em&gt;&lt;strong&gt;exclusively alumni-run&lt;/strong&gt;&lt;/em&gt;, and I encourage everyone interested in developments at the University to follow their posts and make subsequent judgments regarding Cedarville’s identity and vision.&lt;/p&gt;
 &lt;p&gt;My goal in all of this is &lt;span style=&#34;text-decoration:underline;&#34;&gt;&lt;strong&gt;to honor my Messiah by following him well and furthering his Kingdom with justice, unity, and true peace.&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;</description>
@@ -2014,9 +2052,9 @@ but also that I’ve gotten to glimpse the Kingdom here.</p>
     </item>
     <item>
       <title>Open Apology</title>
-      <link>https://joshuapsteele.github.io/open-apology/</link>
+      <link>http://localhost:1313/open-apology/</link>
       <pubDate>Fri, 22 Feb 2013 23:36:21 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/open-apology/</guid>
+      <guid>http://localhost:1313/open-apology/</guid>
       <description>&lt;p&gt;To whomever the following concerns:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;I’d like to apologize publicly to any persons I may have offended during the past few months of my student activism efforts at Cedarville University.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;After all, I recognize that some of my statements/claims about the perceived injustices at my University have seemed quite shocking, especially without further context. So I apologize for the times when I put pithiness before precision and unwittingly ostracized many good people whom I was not intending to criticize at all.&lt;/p&gt;</description>
@@ -2040,9 +2078,9 @@ but also that I’ve gotten to glimpse the Kingdom here.</p>
     </item>
     <item>
       <title>For shame, Cedarville</title>
-      <link>https://joshuapsteele.github.io/2320/</link>
+      <link>http://localhost:1313/2320/</link>
       <pubDate>Fri, 22 Feb 2013 08:48:49 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/2320/</guid>
+      <guid>http://localhost:1313/2320/</guid>
       <description>&lt;p&gt;This is ridiculous and dangerous. For shame, Mr. Scharnberg and Dr. Gredy.&lt;/p&gt;
 &lt;p&gt;How dare you try and accomplish this (already concerning) return to fundamentalism in an unethical manner! How dare you sacrifice good men and their families on the altar of your own agenda, and then proceed to bathe your actions in lies!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This is ridiculous and dangerous. For shame, Mr. Scharnberg and Dr. Gredy.</p>
@@ -2051,9 +2089,9 @@ but also that I’ve gotten to glimpse the Kingdom here.</p>
     </item>
     <item>
       <title>Oh Cedarville!</title>
-      <link>https://joshuapsteele.github.io/oh-cedarville/</link>
+      <link>http://localhost:1313/oh-cedarville/</link>
       <pubDate>Tue, 19 Feb 2013 07:38:20 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/oh-cedarville/</guid>
+      <guid>http://localhost:1313/oh-cedarville/</guid>
       <description>&lt;p&gt;Have you ever been extremely frustrated with someone/thing you love?&lt;/p&gt;
 &lt;p&gt;That’s been my experience during my final year here at Cedarville University. See, &lt;a href=&#34;https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/&#34;&gt;I love this place.&lt;/a&gt; And that’s why I can’t stand it sometimes. There are still so many good and godly women and men here, so much potential for God’s Kingdom. And that’s why recent decisions made by Cedarville Admins and Trustees are so heartbreaking. &lt;a href=&#34;https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/&#34; title=&#34;Open Letter to Cedarville Admins and Trustees&#34;&gt;I’ve written about this before&lt;/a&gt; (Open Letter).&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Have you ever been extremely frustrated with someone/thing you love?</p>
@@ -2100,9 +2138,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Open Letter to Cedarville Admins and Trustees</title>
-      <link>https://joshuapsteele.github.io/open-letter-to-cedarville-admins-and-trustees/</link>
+      <link>http://localhost:1313/open-letter-to-cedarville-admins-and-trustees/</link>
       <pubDate>Sun, 13 Jan 2013 21:22:06 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/open-letter-to-cedarville-admins-and-trustees/</guid>
+      <guid>http://localhost:1313/open-letter-to-cedarville-admins-and-trustees/</guid>
       <description>&lt;p&gt;To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.&lt;/p&gt;
 &lt;p&gt;Allow me to thank you all for your countless hours of service to this institution. I do not want to underestimate your care and concern for this place. In fact, I want to reassure you that &lt;a href=&#34;http://windowinthesky.wordpress.com/2012/09/12/my-unforgettable-cedarville-experience/&#34; title=&#34;My Unforgettable Cedarville Experience&#34;&gt;I share your passion&lt;/a&gt;. Here at Cedarville I have been blessed with the opportunity of meeting, falling in love with, and marrying my wife. Even more importantly, at Cedarville I have fallen in love with the Gospel. Thanks to godly men and women here – whose vision of God, his Word, and his world I’ve been privileged to catch – my eyes have been opened to the richness, complexity, and scope of God’s redemptive mission.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.</p>
@@ -2153,9 +2191,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>An Explanation</title>
-      <link>https://joshuapsteele.github.io/an-explanation/</link>
+      <link>http://localhost:1313/an-explanation/</link>
       <pubDate>Sat, 22 Sep 2012 13:04:53 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/an-explanation/</guid>
+      <guid>http://localhost:1313/an-explanation/</guid>
       <description>&lt;p&gt;&lt;strong&gt;If you haven’t read my previous two blog posts, &lt;a href=&#34;http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/&#34; title=&#34;Cedarville, Let there be Light. (pt. 1)&#34;&gt;“Cedarville, Let there be Light. (pt. 1&lt;/a&gt; and &lt;a href=&#34;http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/&#34; title=&#34;Cedarville, Let there be Light. (pt. 2)&#34;&gt;pt. 2)&lt;/a&gt;,” please go do so before reading this post.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;: I’ve been blogging in order to raise awareness of Cedarville University’s recent dismissal of Dr. Michael Pahl from his teaching post. Using the University’s statement on Dr. Pahl, I’ve raised some uncomfortable questions that I believe need to be asked in this situation. For example:&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><strong>If you haven’t read my previous two blog posts, <a href="http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/" title="Cedarville, Let there be Light. (pt. 1)">“Cedarville, Let there be Light. (pt. 1</a> and <a href="http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/" title="Cedarville, Let there be Light. (pt. 2)">pt. 2)</a>,” please go do so before reading this post.</strong></p>
@@ -2197,9 +2235,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Cedarville, Let there be Light. (pt. 2)</title>
-      <link>https://joshuapsteele.github.io/cedarville-let-there-be-light-pt-2/</link>
+      <link>http://localhost:1313/cedarville-let-there-be-light-pt-2/</link>
       <pubDate>Fri, 21 Sep 2012 07:00:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/cedarville-let-there-be-light-pt-2/</guid>
+      <guid>http://localhost:1313/cedarville-let-there-be-light-pt-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/&#34; title=&#34;Cedarville, Let there be Light. (pt. 1)&#34;&gt;Read Part One&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;further-questions-all-relating-to-the-university-statement-on-dr-pahls-dismissal&#34;&gt;Further Questions, All Relating to the University Statement on Dr. Pahl’s Dismissal:&lt;/h1&gt;
 &lt;ul&gt;
@@ -2254,9 +2292,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Cedarville, Let there be Light. (pt. 1)</title>
-      <link>https://joshuapsteele.github.io/cedarville-let-there-be-light-pt-1/</link>
+      <link>http://localhost:1313/cedarville-let-there-be-light-pt-1/</link>
       <pubDate>Thu, 20 Sep 2012 15:07:47 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/cedarville-let-there-be-light-pt-1/</guid>
+      <guid>http://localhost:1313/cedarville-let-there-be-light-pt-1/</guid>
       <description>&lt;h1 id=&#34;the-statement&#34;&gt;The Statement:&lt;/h1&gt;
 &lt;p&gt;“Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of&lt;a href=&#34;http://www.cedarville.edu/About/Doctrinal-Statement.aspx&#34;&gt; Cedarville University’s doctrinal statement&lt;/a&gt;. This decision was made following a review by the University administration and &lt;a href=&#34;http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx&#34;&gt;trustees&lt;/a&gt; prompted by Dr. Pahl’s recent book, &lt;a href=&#34;http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270&#34;&gt;The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is his commitment to Scripture’s inspiration, authority and infallibility. He is a promising scholar and a dedicated teacher, and he will be missed by his colleagues and students. Nevertheless, the University has determined this decision to be in the best interests of its constituency at this time.”&lt;/p&gt;</description>
@@ -2305,9 +2343,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Sacrificing Scripture on the Altars of Our Own Agendas</title>
-      <link>https://joshuapsteele.github.io/sacrificing-scripture-on-the-altars-of-our-own-agendas/</link>
+      <link>http://localhost:1313/sacrificing-scripture-on-the-altars-of-our-own-agendas/</link>
       <pubDate>Wed, 19 Sep 2012 16:21:17 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/sacrificing-scripture-on-the-altars-of-our-own-agendas/</guid>
+      <guid>http://localhost:1313/sacrificing-scripture-on-the-altars-of-our-own-agendas/</guid>
       <description>&lt;p&gt;Undoubtedly the title of this blog post could be taken in hundreds of different directions. However, given recent developments close to home, and &lt;a href=&#34;http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Cedarville-to-Host-Answers-in-Genesis-Conference.aspx&#34;&gt;the Answers in Genesis conference coming to Cedarville University on Sept. 23-24&lt;/a&gt;, I’d like to get people thinking about Ken Ham, his organization’s agenda, and &lt;strong&gt;how Scripture might very well be getting abused for the sake of Young Earth Creationism&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;I say this as someone who used to be a zealous defender of everything that Answers in Genesis stands for. I viewed the Creationism vs. Evolution debate as central and foundational to the Christian life. I would sit for hours on end and listen to guys like Kent Hovind and their defenses of Young Earth Creationism…&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Undoubtedly the title of this blog post could be taken in hundreds of different directions. However, given recent developments close to home, and <a href="http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Cedarville-to-Host-Answers-in-Genesis-Conference.aspx">the Answers in Genesis conference coming to Cedarville University on Sept. 23-24</a>, I’d like to get people thinking about Ken Ham, his organization’s agenda, and <strong>how Scripture might very well be getting abused for the sake of Young Earth Creationism</strong>.</p>
@@ -2336,9 +2374,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>My Unforgettable Cedarville Experience</title>
-      <link>https://joshuapsteele.github.io/my-unforgettable-cedarville-experience/</link>
+      <link>http://localhost:1313/my-unforgettable-cedarville-experience/</link>
       <pubDate>Wed, 12 Sep 2012 19:19:08 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/my-unforgettable-cedarville-experience/</guid>
+      <guid>http://localhost:1313/my-unforgettable-cedarville-experience/</guid>
       <description>&lt;p&gt;&lt;em&gt;(The following is an expanded version of the speech I gave at this year’s CU Scholar Dessert Reception.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The first thing I ever decided about Cedarville University was that I would not, under any circumstances, attend. Since my administrator’s son, Drew Flamm, worked in admissions at CU, I had been inundated since before I could remember with calls to become a yellow-jacket, and out of sheer stubbornness of heart, I refused.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><em>(The following is an expanded version of the speech I gave at this year’s CU Scholar Dessert Reception.)</em></p>
@@ -2369,9 +2407,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Wedding Vows: My Personal Take on the Traditional Version</title>
-      <link>https://joshuapsteele.github.io/wedding-vows/</link>
+      <link>http://localhost:1313/wedding-vows/</link>
       <pubDate>Tue, 14 Aug 2012 20:20:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/wedding-vows/</guid>
+      <guid>http://localhost:1313/wedding-vows/</guid>
       <description>&lt;h1 id=&#34;the-traditional-wedding-vows&#34;&gt;The Traditional Wedding Vows&lt;/h1&gt;
 &lt;p&gt;In case you didn’t know, the “traditional” wedding vows – in English, at least – are found in the &lt;a href=&#34;http://www.bcponline.org/&#34;&gt;Book of Common Prayer&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://justus.anglican.org/resources/bcp/1662/baskerville.htm&#34;&gt;1662 Book of Common Prayer&lt;/a&gt;, the marriage vows read as follows:&lt;/p&gt;
@@ -2412,9 +2450,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>Unity?</title>
-      <link>https://joshuapsteele.github.io/unity/</link>
+      <link>http://localhost:1313/unity/</link>
       <pubDate>Thu, 19 Apr 2012 19:22:24 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/unity/</guid>
+      <guid>http://localhost:1313/unity/</guid>
       <description>&lt;p&gt;The more I study the New Testament, I become more convinced that the unity of the Church is of utmost importance to God.&lt;/p&gt;
 &lt;p&gt;What bothers me is that this has never been taught to me before. All of the things I’ve learned (specifically in my studies on Philippians, Galatians, and now Romans) about the importance of unity for the sake of the Gospel mission and the Kingdom of God have come as somewhat of a shock.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The more I study the New Testament, I become more convinced that the unity of the Church is of utmost importance to God.</p>
@@ -2440,9 +2478,9 @@ As Chris Williamson put it on his Twitter account:</p>
     </item>
     <item>
       <title>My High School Graduation Valedictorian Speech was a Poem</title>
-      <link>https://joshuapsteele.github.io/a-valediction/</link>
+      <link>http://localhost:1313/a-valediction/</link>
       <pubDate>Sat, 06 Jun 2009 21:44:17 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/a-valediction/</guid>
+      <guid>http://localhost:1313/a-valediction/</guid>
       <description>&lt;h1 id=&#34;my-valedictorian-address-a-poem&#34;&gt;My Valedictorian Address, a Poem&lt;/h1&gt;
 &lt;p&gt;The following is my valedictorian speech, delivered at my high school graduation in 2009. As you’ll see below, the majority of the speech was an original poem. Sure, I’m tempted to be a bit embarrassed by the poem today, but I’m also proud that I went for it. Let me know what you think!&lt;/p&gt;
 &lt;hr&gt;

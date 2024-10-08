@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home Improvement on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/tags/home-improvement/</link>
+    <link>http://localhost:1313/tags/home-improvement/</link>
     <description>Recent content in Home Improvement on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 14 Jul 2024 16:26:44 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/tags/home-improvement/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/home-improvement/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home Improvement Roadmap and Roadblocks</title>
-      <link>https://joshuapsteele.github.io/home-improvement-roadmap-and-roadblocks/</link>
+      <link>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</link>
       <pubDate>Sun, 14 Jul 2024 16:26:44 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/home-improvement-roadmap-and-roadblocks/</guid>
+      <guid>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</guid>
       <description>&lt;p&gt;We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.&lt;/p&gt;
 &lt;p&gt;Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:&lt;/p&gt;
 &lt;p&gt;– Replace roof and gutters&lt;br&gt;

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Productivity and Time Management on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/categories/productivity-and-time-management/</link>
+    <link>http://localhost:1313/categories/productivity-and-time-management/</link>
     <description>Recent content in Productivity and Time Management on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 03 Jul 2024 12:41:36 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/categories/productivity-and-time-management/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/productivity-and-time-management/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Know Thyself: Unveiling Your Unique Strengths and Personality Traits</title>
-      <link>https://joshuapsteele.github.io/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
+      <link>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
       <pubDate>Wed, 03 Jul 2024 12:41:36 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
+      <guid>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
       <description>&lt;p&gt;In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening. Today, I want to share my insights from various personality paradigms and how they shape my approach to work and life.&lt;/p&gt;
 &lt;h2 id=&#34;cliftonstrengths-harnessing-core-talents&#34;&gt;CliftonStrengths: Harnessing Core Talents&lt;/h2&gt;
 &lt;p&gt;The CliftonStrengths assessment has been instrumental in identifying my core talents. Here are my top five strengths:&lt;/p&gt;
@@ -78,9 +78,9 @@
     </item>
     <item>
       <title>Life Lessons: 32 Things I&#39;ve Learned So Far</title>
-      <link>https://joshuapsteele.github.io/life-lessons/</link>
+      <link>http://localhost:1313/life-lessons/</link>
       <pubDate>Tue, 17 Oct 2023 12:45:42 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/life-lessons/</guid>
+      <guid>http://localhost:1313/life-lessons/</guid>
       <description>&lt;p&gt;Here are 32 things I’ve learned from life, so far.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You are not your thoughts. There is a “you” behind and above your inner voice/monologue/dialogue. Pay attention to what you pay attention to. Think about what you think about.&lt;/li&gt;
@@ -155,9 +155,9 @@
     </item>
     <item>
       <title>Master the Art of Interpersonal Relationships with &#34;How to Win Friends and Influence People&#34;</title>
-      <link>https://joshuapsteele.github.io/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
+      <link>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
       <pubDate>Thu, 23 Mar 2023 12:29:48 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
+      <guid>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
       <description>&lt;p&gt;Dale Carnegie’s timeless classic, &lt;em&gt;&lt;a href=&#34;https://amzn.to/3K0VcaM&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;&lt;/em&gt;, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.&lt;/p&gt;
 &lt;p&gt;In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Dale Carnegie’s timeless classic, <em><a href="https://amzn.to/3K0VcaM">How to Win Friends and Influence People</a></em>, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.</p>
@@ -199,9 +199,9 @@
     </item>
     <item>
       <title>Most Useful Websites: My Favorite Online Resources</title>
-      <link>https://joshuapsteele.github.io/most-useful-websites-my-favorite-online-resources/</link>
+      <link>http://localhost:1313/most-useful-websites-my-favorite-online-resources/</link>
       <pubDate>Tue, 08 Nov 2022 19:40:28 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/most-useful-websites-my-favorite-online-resources/</guid>
+      <guid>http://localhost:1313/most-useful-websites-my-favorite-online-resources/</guid>
       <description>&lt;h2 id=&#34;general--thinking&#34;&gt;General / Thinking&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Untools: &lt;a href=&#34;https://untools.co/&#34;&gt;https://untools.co/&lt;/a&gt;&lt;/li&gt;
@@ -278,9 +278,9 @@
     </item>
     <item>
       <title>It’s time for another social media fast!</title>
-      <link>https://joshuapsteele.github.io/its-time-for-another-social-media-fast/</link>
+      <link>http://localhost:1313/its-time-for-another-social-media-fast/</link>
       <pubDate>Wed, 19 Aug 2020 15:52:45 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/its-time-for-another-social-media-fast/</guid>
+      <guid>http://localhost:1313/its-time-for-another-social-media-fast/</guid>
       <description>&lt;p&gt;After listening to &lt;a href=&#34;https://www.blinkist.com/en/books/deep-work-en&#34;&gt;the Blinkist summary of Cal Newport’s &lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt; (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.&lt;/p&gt;
 &lt;p&gt;I think I’ll still keep &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;my micro.blog up and running&lt;/a&gt;, but between &lt;a href=&#34;https://anglicancompass.com&#34;&gt;running Anglican Compass&lt;/a&gt; and &lt;a href=&#34;https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof/&#34;&gt;sprinting for some last-ditch clarity on my increasingly frustrating dissertation&lt;/a&gt;, I need all the extra bandwidth I can get!&lt;/p&gt;
 &lt;p&gt;If you need to get in touch for some reason, please &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use the contact form on my website&lt;/a&gt;. You can also &lt;a href=&#34;https://buttondown.email/joshuapsteele&#34;&gt;sign up for my very occasional email newsletter here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -292,9 +292,9 @@
     </item>
     <item>
       <title>They Say, I Say Writing Templates</title>
-      <link>https://joshuapsteele.github.io/they-say-i-say-writing-templates/</link>
+      <link>http://localhost:1313/they-say-i-say-writing-templates/</link>
       <pubDate>Tue, 30 Jun 2020 17:40:44 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/they-say-i-say-writing-templates/</guid>
+      <guid>http://localhost:1313/they-say-i-say-writing-templates/</guid>
       <description>&lt;p&gt;SOURCE: &lt;a href=&#34;https://amzn.to/3eOMlXF&#34;&gt;&lt;em&gt;They Say / I Say: The Moves that Matter in Academic Writing&lt;/em&gt;&lt;/a&gt;, 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!&lt;/p&gt;
 &lt;h2 id=&#34;disagreeing-without-being-disagreeable&#34;&gt;Disagreeing Without Being Disagreeable&lt;/h2&gt;
 &lt;ul&gt;
@@ -642,9 +642,9 @@
     </item>
     <item>
       <title>Balderdash! 12 Suggestions for Overcoming Writer’s Block (From Andrew T. Le Peau’s “Write Better”)</title>
-      <link>https://joshuapsteele.github.io/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</link>
+      <link>http://localhost:1313/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</link>
       <pubDate>Tue, 19 May 2020 13:29:06 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</guid>
+      <guid>http://localhost:1313/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</guid>
       <description>&lt;p&gt;Writer’s block sucks. I’m currently facing it with regard to &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;my dissertation&lt;/a&gt; and I’ve decided to hit pause on research and writing until I regain access to my library carrell at Wheaton.&lt;/p&gt;
 &lt;p&gt;Thankfully, I’ve come across some helpful advice on overcoming writer’s block in Andrew T. Le Peau’s &lt;a href=&#34;https://amzn.to/2ZuTZC3&#34;&gt;&lt;em&gt;Writer Better: A Lifelong Editor on Craft, Art, and Spirituality&lt;/em&gt;&lt;/a&gt; (affiliate link).&lt;/p&gt;
 &lt;p&gt;The book is &lt;em&gt;filled&lt;/em&gt; with helpful and practical advice on writing, rewriting, publishing, etc. To whet your appetite, I’d like to share some of Le Peau’s tips for conquering writer’s block. These all come from chapter 7, pages. 72–80.&lt;/p&gt;</description>
@@ -670,9 +670,9 @@
     </item>
     <item>
       <title>Helpful Writing Templates</title>
-      <link>https://joshuapsteele.github.io/helpful-writing-templates/</link>
+      <link>http://localhost:1313/helpful-writing-templates/</link>
       <pubDate>Fri, 23 Aug 2019 14:43:59 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/helpful-writing-templates/</guid>
+      <guid>http://localhost:1313/helpful-writing-templates/</guid>
       <description>&lt;p&gt;The following templates come from &lt;em&gt;&lt;a href=&#34;https://amzn.to/33TJdor&#34;&gt;They Say / I Say: The Moves That Matter in Academic Writing&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;introducing-what-they-say&#34;&gt;&lt;strong&gt;Introducing What They Say&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -1002,9 +1002,9 @@
     </item>
     <item>
       <title>Help me achieve my home gym dream</title>
-      <link>https://joshuapsteele.github.io/help-me-achieve-my-home-gym-dream/</link>
+      <link>http://localhost:1313/help-me-achieve-my-home-gym-dream/</link>
       <pubDate>Tue, 02 Apr 2019 18:46:35 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/help-me-achieve-my-home-gym-dream/</guid>
+      <guid>http://localhost:1313/help-me-achieve-my-home-gym-dream/</guid>
       <description>&lt;p&gt;I’m trying to put together a basic home gym in our basement apartment. Mainly, I’m interested in doing squats for now. Then, I’ll expand to deadlifts and benchpress. Our ceilings are too low for overhead presses, however.&lt;/p&gt;
 &lt;p&gt;Anyways, I just ordered the Valor Fitness BD-9 squat rack from Amazon.&lt;/p&gt;
 &lt;p&gt;I still need a decent Olympic bar and Olympic plates.&lt;/p&gt;</description>
@@ -1015,9 +1015,9 @@
     </item>
     <item>
       <title>Use Rapoport&#39;s Rules for Better Conversations and Disagreements</title>
-      <link>https://joshuapsteele.github.io/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
+      <link>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
       <pubDate>Sat, 23 Feb 2019 17:06:02 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
+      <guid>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
       <description>&lt;p&gt;I’m reading Walter Sinnott-Armstrong’s excellent book, &lt;a href=&#34;https://amzn.to/2BNTlTq&#34;&gt;&lt;em&gt;Think Again: How to Reason and Argue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In it (on pages 25–26), I came across &lt;a href=&#34;https://rationalwiki.org/wiki/Rapoport%27s_Rules&#34;&gt;“Rapoport’s Rules.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (&lt;a href=&#34;https://amzn.to/2NmrH4m&#34;&gt;&lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/a&gt;, 31–35), here they are:&lt;/p&gt;
@@ -1037,9 +1037,9 @@
     </item>
     <item>
       <title>What blogs are you reading?</title>
-      <link>https://joshuapsteele.github.io/what-blogs-are-you-reading/</link>
+      <link>http://localhost:1313/what-blogs-are-you-reading/</link>
       <pubDate>Sun, 13 Jan 2019 20:53:15 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-blogs-are-you-reading/</guid>
+      <guid>http://localhost:1313/what-blogs-are-you-reading/</guid>
       <description>&lt;p&gt;Right now, I’m using the RSS readers &lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt; and &lt;a href=&#34;http://reederapp.com/&#34;&gt;Reeder&lt;/a&gt; to subscribe to the following blogs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.ayjay.org&#34;&gt;Snakes and Ladders – by Alan Jacobs&lt;/a&gt;&lt;/li&gt;
@@ -1071,9 +1071,9 @@
     </item>
     <item>
       <title>Help me StickK to my writing habit</title>
-      <link>https://joshuapsteele.github.io/help-me-stickk-to-my-writing-habit/</link>
+      <link>http://localhost:1313/help-me-stickk-to-my-writing-habit/</link>
       <pubDate>Tue, 08 Jan 2019 14:44:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/help-me-stickk-to-my-writing-habit/</guid>
+      <guid>http://localhost:1313/help-me-stickk-to-my-writing-habit/</guid>
       <description>&lt;p&gt;I need to finish &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;this dissertation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To do so, I need to write regularly. For me, that means writing every day—a minimum of 500 words every day.&lt;/p&gt;
 &lt;p&gt;Last spring, I did a pretty good job of writing regularly. However, I’ve fallen off the wagon for various reasons, and it’s been a bear to get back on!&lt;/p&gt;
@@ -1091,9 +1091,9 @@
     </item>
     <item>
       <title>This is a fantastic wooden pencil (Mitsubishi 9850)</title>
-      <link>https://joshuapsteele.github.io/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</link>
+      <link>http://localhost:1313/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</link>
       <pubDate>Thu, 22 Nov 2018 17:00:05 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</guid>
+      <guid>http://localhost:1313/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</guid>
       <description>&lt;p&gt;Just wanted to give a quick shout-out to this fantastic pencil: &lt;a href=&#34;https://amzn.to/2QcXI2B&#34;&gt;the Mitsubishi 9850&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Mitsubishi-Pencil-pencil-hardness-K9850HB/dp/B001BKZVWU/ref=as_li_ss_il?ie=UTF8&amp;amp;linkCode=li3&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=e6e38efe0138c6a5bb4092270163728e&amp;amp;language=en_US&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;amp;ASIN=B001BKZVWU&amp;amp;Format=_SL250_&amp;amp;ID=AsinImage&amp;amp;MarketPlace=US&amp;amp;ServiceVersion=20070822&amp;amp;WS=1&amp;amp;tag=joshuapsteele-20&amp;amp;language=en_US&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&amp;amp;language=en_US&amp;amp;l=li3&amp;amp;o=1&amp;amp;a=B001BKZVWU&#34; alt=&#34;&#34;  /&gt;
@@ -1110,9 +1110,9 @@
     </item>
     <item>
       <title>Here&#39;s the Template I Use to Take Notes on Books I Read</title>
-      <link>https://joshuapsteele.github.io/heres-the-template-i-use-to-take-notes-on-books-i-read/</link>
+      <link>http://localhost:1313/heres-the-template-i-use-to-take-notes-on-books-i-read/</link>
       <pubDate>Thu, 06 Sep 2018 19:41:44 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/heres-the-template-i-use-to-take-notes-on-books-i-read/</guid>
+      <guid>http://localhost:1313/heres-the-template-i-use-to-take-notes-on-books-i-read/</guid>
       <description>&lt;p&gt;Developed from &lt;a href=&#34;https://amzn.to/2M5AHsy&#34;&gt;&lt;em&gt;How to Read a Book&lt;/em&gt;, by Mortimer J. Adler&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;bibliographic-data&#34;&gt;BIBLIOGRAPHIC DATA:&lt;/h1&gt;
 &lt;p&gt;Author(s):&lt;/p&gt;
@@ -1172,9 +1172,9 @@
     </item>
     <item>
       <title>Two More Pieces about Jordan Peterson</title>
-      <link>https://joshuapsteele.github.io/two-more-pieces-about-jordan-peterson/</link>
+      <link>http://localhost:1313/two-more-pieces-about-jordan-peterson/</link>
       <pubDate>Fri, 08 Jun 2018 19:08:55 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/two-more-pieces-about-jordan-peterson/</guid>
+      <guid>http://localhost:1313/two-more-pieces-about-jordan-peterson/</guid>
       <description>&lt;p&gt;Previously, &lt;a href=&#34;https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/&#34;&gt;I catalogued a bunch of different takes on Jordan Peterson, before giving my own take&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.&lt;/p&gt;
 &lt;h1 id=&#34;jordan-peterson-custodian-of-the-patriarchy-by-nellie-bowles-new-york-times&#34;&gt;“Jordan Peterson, Custodian of the Patriarchy,” by Nellie Bowles (New York Times)&lt;/h1&gt;
@@ -1224,9 +1224,9 @@
     </item>
     <item>
       <title>The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths</title>
-      <link>https://joshuapsteele.github.io/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</link>
+      <link>http://localhost:1313/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</link>
       <pubDate>Fri, 08 Jun 2018 18:39:38 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</guid>
+      <guid>http://localhost:1313/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</guid>
       <description>&lt;p&gt;In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.&lt;/p&gt;
 &lt;p&gt;So, I thought I would take a few minutes to share it with you.&lt;/p&gt;
 &lt;h1 id=&#34;gretchen-rubin-explains-the-four-tendencies&#34;&gt;Gretchen Rubin Explains the Four Tendencies&lt;/h1&gt;
@@ -1271,9 +1271,9 @@
     </item>
     <item>
       <title>Hate Running? Try Rucking Instead</title>
-      <link>https://joshuapsteele.github.io/hate-running-try-rucking-instead/</link>
+      <link>http://localhost:1313/hate-running-try-rucking-instead/</link>
       <pubDate>Fri, 08 Jun 2018 16:09:30 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/hate-running-try-rucking-instead/</guid>
+      <guid>http://localhost:1313/hate-running-try-rucking-instead/</guid>
       <description>&lt;p&gt;&lt;em&gt;(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;rucking-gt-running&#34;&gt;Rucking &amp;gt; Running&lt;/h1&gt;
 &lt;p&gt;It took me a &lt;em&gt;long&lt;/em&gt; time to “fall in love” with running. It did not take me nearly as long to fall &lt;em&gt;out&lt;/em&gt; of love with running!&lt;/p&gt;
@@ -1340,9 +1340,9 @@ That’s it.</p>
     </item>
     <item>
       <title>What to make of Jordan Peterson? Some takes, then my own.</title>
-      <link>https://joshuapsteele.github.io/what-to-make-of-jordan-peterson-some-takes-then-my-own/</link>
+      <link>http://localhost:1313/what-to-make-of-jordan-peterson-some-takes-then-my-own/</link>
       <pubDate>Wed, 28 Mar 2018 14:44:59 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-to-make-of-jordan-peterson-some-takes-then-my-own/</guid>
+      <guid>http://localhost:1313/what-to-make-of-jordan-peterson-some-takes-then-my-own/</guid>
       <description>&lt;p&gt;&lt;em&gt;UPDATE: Read my post, &lt;a href=&#34;https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/&#34;&gt;“Two More Pieces about Jordan Peterson.”&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;If I remember correctly, I first heard of and listened to Jordan Peterson on &lt;a href=&#34;https://www.artofmanliness.com/2017/08/31/podcast-335-using-power-myths-live-flourishing-life/&#34;&gt;an episode of The Art of Manliness podcast&lt;/a&gt;. (Or perhaps it was &lt;a href=&#34;https://www.artofmanliness.com/2018/02/06/12-rules-for-life-jordan-peterson-interview/&#34;&gt;this episode&lt;/a&gt;.)&lt;/p&gt;
 &lt;h1 id=&#34;however-i-could-be-mistaken-because-petersons-been-popping-up-in-conversation-all-over-the-place-in-my-circles&#34;&gt;However, I could be mistaken, because Peterson’s been popping up in conversation all over the place in my circles.&lt;/h1&gt;
@@ -1457,9 +1457,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Do More Better: Tim Challies&#39; Excellent Little Book on Personal Productivity Could Change Your Life</title>
-      <link>https://joshuapsteele.github.io/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</link>
+      <link>http://localhost:1313/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</link>
       <pubDate>Fri, 23 Mar 2018 13:38:00 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</guid>
+      <guid>http://localhost:1313/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</guid>
       <description>&lt;p&gt;Tim Challies begins his book, &lt;a href=&#34;http://amzn.to/2ufosG4&#34;&gt;&lt;em&gt;Do More Better: A Practical Guide to Productivity&lt;/em&gt;&lt;/a&gt; with a bold claim: “I believe this book can improve your life.”&lt;/p&gt;
 &lt;p&gt;However, after reading the book, which is just 120 pages long including endnotes!, I believe that Challies makes good on his claim.&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=joshuapsteele-20&amp;marketplace=amazon&amp;region=US&amp;placement=1941114172&amp;asins=1941114172&amp;linkId=61476ee8a72a820b76e43d746b704020&amp;show_border=true&amp;link_opens_in_new_window=true&#34; style=&#34;width:120px;height:240px;&#34;&gt;&lt;/iframe&gt;
@@ -1519,9 +1519,9 @@ That’s it.</p>
     </item>
     <item>
       <title>I Need to Develop a Writing Habit. Do You?</title>
-      <link>https://joshuapsteele.github.io/i-need-to-develop-a-writing-habit-do-you/</link>
+      <link>http://localhost:1313/i-need-to-develop-a-writing-habit-do-you/</link>
       <pubDate>Mon, 19 Mar 2018 14:33:39 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/i-need-to-develop-a-writing-habit-do-you/</guid>
+      <guid>http://localhost:1313/i-need-to-develop-a-writing-habit-do-you/</guid>
       <description>&lt;p&gt;Because good writing = good thinking, I believe that &lt;em&gt;everyone&lt;/em&gt; could benefit from developing the habit of regular writing.&lt;/p&gt;
 &lt;p&gt;However, because I&lt;/p&gt;
 &lt;ul&gt;
@@ -1631,9 +1631,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Getting back on the &#34;Getting Things Done&#34; Productivity Bandwagon</title>
-      <link>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
+      <link>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
       <pubDate>Tue, 13 Mar 2018 22:06:09 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
+      <guid>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
       <description>&lt;p&gt;Getting Things Done (“GTD” for short) is a wildly popular personal productivity system invented and popularized by David Allen. However, as &lt;a href=&#34;https://lifehacker.com/getting-things-done-ten-years-in-1795707084&#34;&gt;Nicole Dieker at Lifehacker pointed out in 2017&lt;/a&gt;, “You don’t hear a lot of people talk about the &lt;a href=&#34;http://gettingthingsdone.com/&#34;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt;&lt;/a&gt; productivity system anymore.”&lt;/p&gt;
 &lt;p&gt;I think that’s a shame, because it’s a very effective system.&lt;/p&gt;
 &lt;p&gt;I first tried Getting Things Done after reading “&lt;a href=&#34;http://amzn.to/2tMiX1w&#34;&gt;What’s Best Nex&lt;/a&gt;t” by Matt Perman, and then reading “&lt;a href=&#34;http://amzn.to/2HvNJxv&#34;&gt;Getting Things Done&lt;/a&gt;” by David Allen (in its newly revised 2015 edition) shortly thereafter.&lt;/p&gt;</description>
@@ -1696,9 +1696,9 @@ That’s it.</p>
     </item>
     <item>
       <title>This One Simple Trick Helps Me Read Faster as a Ph.D. Student</title>
-      <link>https://joshuapsteele.github.io/one-simple-trick-helps-read-faster-ph-d-student/</link>
+      <link>http://localhost:1313/one-simple-trick-helps-read-faster-ph-d-student/</link>
       <pubDate>Mon, 05 Mar 2018 06:00:28 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/one-simple-trick-helps-read-faster-ph-d-student/</guid>
+      <guid>http://localhost:1313/one-simple-trick-helps-read-faster-ph-d-student/</guid>
       <description>&lt;p&gt;Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.&lt;/p&gt;
 &lt;p&gt;But, I mean, come on. Who has enough time to read? I don’t know about you, but I’ve got a stack of books a mile high that I’d like to work my way through.&lt;/p&gt;
 &lt;p&gt;Now, there’s a bunch of good advice out there about &lt;strong&gt;finding more time to read&lt;/strong&gt; (see &lt;a href=&#34;https://www.fs.blog/2013/09/finding-time-to-read/&#34;&gt;this post from Farnam Street&lt;/a&gt; and &lt;a href=&#34;https://www.artofmanliness.com/2018/02/26/how-to-read-more-books/&#34;&gt;this post from The Art of Manliness&lt;/a&gt;). In fact, finding more time to read is one of the main reasons why you should learn the basics of personal productivity and time management (see &lt;a href=&#34;https://joshuapsteele.com/category/productivity-and-time-management/&#34;&gt;my posts about productivity and time management&lt;/a&gt;).&lt;/p&gt;</description>
@@ -1719,9 +1719,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity</title>
-      <link>https://joshuapsteele.github.io/go-sleep-kids-bible-psalm-127-says-productivity/</link>
+      <link>http://localhost:1313/go-sleep-kids-bible-psalm-127-says-productivity/</link>
       <pubDate>Wed, 28 Feb 2018 12:51:21 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/go-sleep-kids-bible-psalm-127-says-productivity/</guid>
+      <guid>http://localhost:1313/go-sleep-kids-bible-psalm-127-says-productivity/</guid>
       <description>&lt;h2 id=&#34;personal-productivity-in-psalm-127&#34;&gt;Personal Productivity in Psalm 127&lt;/h2&gt;
 &lt;p&gt;I love Psalm 127. Not because it makes me feel great, necessarily, but because it hits me like a ton of bricks whenever I read it (like I did last night, during evening prayer).&lt;/p&gt;
 &lt;p&gt;Here’s how the Psalm opens:&lt;/p&gt;
@@ -1785,9 +1785,9 @@ That’s it.</p>
     </item>
     <item>
       <title>How to Pray Before You Read and Write: A Prayer of St. Thomas Aquinas Before Study</title>
-      <link>https://joshuapsteele.github.io/prayer-of-st-thomas-aquinas-before-study/</link>
+      <link>http://localhost:1313/prayer-of-st-thomas-aquinas-before-study/</link>
       <pubDate>Fri, 02 Feb 2018 09:15:24 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/prayer-of-st-thomas-aquinas-before-study/</guid>
+      <guid>http://localhost:1313/prayer-of-st-thomas-aquinas-before-study/</guid>
       <description>&lt;p&gt;I want to share with you the following prayer of St. Thomas Aquinas Before Study, based on &lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://www.preces-latinae.org/thesaurus/Varia/CreatorIneff.html&#34;&gt;Oratio S. Thomae Aquinatis ante studium&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;, which Thomas Aquinas would pray before studying, writing, or preaching.&lt;/p&gt;
 &lt;p&gt;We prayed it responsively before class (Patristic and Medieval History and Doctrine) with Dr. Piotr Malysz at Beeson Divinity School, and I’ve since turned back to this prayer often!&lt;/p&gt;
 &lt;hr&gt;
@@ -1809,9 +1809,9 @@ That’s it.</p>
     </item>
     <item>
       <title>5 Books Every Christian Should Read</title>
-      <link>https://joshuapsteele.github.io/5-books-every-christian-read/</link>
+      <link>http://localhost:1313/5-books-every-christian-read/</link>
       <pubDate>Wed, 31 Jan 2018 03:59:33 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/5-books-every-christian-read/</guid>
+      <guid>http://localhost:1313/5-books-every-christian-read/</guid>
       <description>&lt;p&gt;OK, OK. I get it. Claiming that every Christian should read these 5 books is a bold claim.&lt;/p&gt;
 &lt;p&gt;But, honestly, I think that these reading recommendations stand up to the scrutiny.&lt;/p&gt;
 &lt;p&gt;I’ve been wracking my brain trying to come up with just the top 5 books that a busy Christian should read if she wants to learn the essentials about:&lt;/p&gt;
@@ -1903,9 +1903,9 @@ That’s it.</p>
     </item>
     <item>
       <title>An 80/20 Approach to the Christian Life: 2 Reasons Why Christians Should Care About the Pareto Principle</title>
-      <link>https://joshuapsteele.github.io/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</link>
+      <link>http://localhost:1313/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</link>
       <pubDate>Tue, 30 Jan 2018 12:48:49 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</guid>
+      <guid>http://localhost:1313/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</guid>
       <description>&lt;p&gt;Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?&lt;/p&gt;
 &lt;p&gt;I’m right there with you! That’s why I’ve made “&lt;a href=&#34;https://joshuapsteele.com/category/productivity-and-time-management/&#34;&gt;Get Your Act Together (Productivity and Time Management)&lt;/a&gt;” the first of my &lt;a href=&#34;https://joshuapsteele.com/start-here/&#34;&gt;Steps to Find Purpose and Meaning in Life&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thankfully, I think I’ve found something that can help. I’d like to introduce you to the “&lt;strong&gt;Pareto Principle&lt;/strong&gt;,” also known as “&lt;strong&gt;the 80/20 Rule&lt;/strong&gt;,” the “law of the vital few,” or the “principle of factor sparsity,” if you want to get all technical about it.&lt;/p&gt;</description>
@@ -1966,9 +1966,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Principles: 10 Imperatives for the Good Life</title>
-      <link>https://joshuapsteele.github.io/principles-10-imperatives-good-life/</link>
+      <link>http://localhost:1313/principles-10-imperatives-good-life/</link>
       <pubDate>Tue, 17 Oct 2017 16:18:56 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/principles-10-imperatives-good-life/</guid>
+      <guid>http://localhost:1313/principles-10-imperatives-good-life/</guid>
       <description>&lt;p&gt;Why write out a list of principles?&lt;/p&gt;
 &lt;p&gt;For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.&lt;/p&gt;
 &lt;p&gt;For another, I’ve just been given a copy of &lt;em&gt;&lt;a href=&#34;http://amzn.to/2yQpytf&#34;&gt;Principles: Life and Work&lt;/a&gt;&lt;/em&gt;&lt;a href=&#34;http://amzn.to/2yQpytf&#34;&gt; by Ray Dalio&lt;/a&gt; (affiliate link).&lt;/p&gt;
@@ -2064,9 +2064,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Podcasts You Should Listen To</title>
-      <link>https://joshuapsteele.github.io/my-favorite-podcasts/</link>
+      <link>http://localhost:1313/my-favorite-podcasts/</link>
       <pubDate>Tue, 25 Jul 2017 15:46:34 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/my-favorite-podcasts/</guid>
+      <guid>http://localhost:1313/my-favorite-podcasts/</guid>
       <description>&lt;h1 id=&#34;podcasts-an-introduction&#34;&gt;Podcasts: An Introduction&lt;/h1&gt;
 &lt;p&gt;Although podcasts (think “iPod” + “broadcast”) have been around for over a decade, we’re living in a bit of a golden age – or a least a Rennaissance – of the medium. For the uninitiated, here’s a nice video about what podcasts are:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oerm5Q&#34;&gt;https://www.youtube.com/watch?v=oerm5Q&lt;/a&gt;_9u2A&lt;/p&gt;
@@ -2110,9 +2110,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Is The Well-Equipped Christian Worth It?</title>
-      <link>https://joshuapsteele.github.io/is-the-well-equipped-christian-worth-it/</link>
+      <link>http://localhost:1313/is-the-well-equipped-christian-worth-it/</link>
       <pubDate>Tue, 31 Jan 2017 23:13:18 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/is-the-well-equipped-christian-worth-it/</guid>
+      <guid>http://localhost:1313/is-the-well-equipped-christian-worth-it/</guid>
       <description>&lt;p&gt;Have you ever had a problem finding a reliable resource for recommendations?&lt;/p&gt;
 &lt;p&gt;I have.&lt;/p&gt;
 &lt;p&gt;Certain Google searches are a piece of cake, but the “best resources for ______” ones can be hit-or-miss.&lt;/p&gt;
@@ -2146,9 +2146,9 @@ That’s it.</p>
     </item>
     <item>
       <title>A Ridiculously Helpful Markdown Tutorial</title>
-      <link>https://joshuapsteele.github.io/a-ridiculously-helpful-markdown-tutorial/</link>
+      <link>http://localhost:1313/a-ridiculously-helpful-markdown-tutorial/</link>
       <pubDate>Fri, 26 Aug 2016 14:09:01 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/a-ridiculously-helpful-markdown-tutorial/</guid>
+      <guid>http://localhost:1313/a-ridiculously-helpful-markdown-tutorial/</guid>
       <description>&lt;p&gt;I’ve been dragging my heels on learning Markdown for awhile now.&lt;/p&gt;
 &lt;p&gt;If you don’t know, Markdown is:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2166,9 +2166,9 @@ That’s it.</p>
     </item>
     <item>
       <title>How Do You Want To Be Remembered?</title>
-      <link>https://joshuapsteele.github.io/how-do-you-want-to-be-remembered/</link>
+      <link>http://localhost:1313/how-do-you-want-to-be-remembered/</link>
       <pubDate>Mon, 30 May 2016 20:49:33 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/how-do-you-want-to-be-remembered/</guid>
+      <guid>http://localhost:1313/how-do-you-want-to-be-remembered/</guid>
       <description>&lt;p&gt;Do you know what the worst thing about &lt;em&gt;&lt;strong&gt;death&lt;/strong&gt;&lt;/em&gt; is?&lt;/p&gt;
 &lt;p&gt;It’s not the &lt;span style=&#34;text-decoration: underline;&#34;&gt;dying&lt;/span&gt; itself – its the &lt;strong&gt;separation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;That is, we don’t suffer the most from our own deaths (a one-time occurrence), but from suffering the deaths of others (repeatedly). Instead of living relationships, we are left with distant memories.&lt;/p&gt;
@@ -2227,9 +2227,9 @@ That’s it.</p>
     </item>
     <item>
       <title>Let&#39;s Take Seth Godin to Church</title>
-      <link>https://joshuapsteele.github.io/lets-take-seth-godin-to-church/</link>
+      <link>http://localhost:1313/lets-take-seth-godin-to-church/</link>
       <pubDate>Sat, 28 May 2016 16:44:59 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/lets-take-seth-godin-to-church/</guid>
+      <guid>http://localhost:1313/lets-take-seth-godin-to-church/</guid>
       <description>&lt;p&gt;I’m not going to lie. My first reaction when I saw the cover of this book? &lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg&#34; alt=&#34;&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;h5 id=&#34;no-of-course-youre-not-indispensable-what-use-could-this-crap-possibly-be-to-the-church-or-to-me--simultaneously-a-pastor-and-a-pastor-in-training&#34;&gt;No! Of course you’re not indispensable. What use could this crap possibly be to the Church, or to me – simultaneously a pastor and a pastor-in-training.&lt;/h5&gt;
@@ -2290,9 +2290,9 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
     </item>
     <item>
       <title>What are you afraid of?</title>
-      <link>https://joshuapsteele.github.io/what-are-you-afraid-of/</link>
+      <link>http://localhost:1313/what-are-you-afraid-of/</link>
       <pubDate>Fri, 27 May 2016 20:02:19 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/what-are-you-afraid-of/</guid>
+      <guid>http://localhost:1313/what-are-you-afraid-of/</guid>
       <description>&lt;p&gt;I’m scared. Are you?&lt;/p&gt;
 &lt;p&gt;Specifically, as I wrote in my journal this very morning:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2339,9 +2339,9 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
     </item>
     <item>
       <title>Kettlebell Swings: Back Balm for the Sedentary [Seminarian]</title>
-      <link>https://joshuapsteele.github.io/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</link>
+      <link>http://localhost:1313/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</link>
       <pubDate>Wed, 25 May 2016 23:53:49 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</guid>
+      <guid>http://localhost:1313/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</guid>
       <description>&lt;p&gt;I love books. Books, however, do not like my back.&lt;/p&gt;
 &lt;p&gt;Can you relate?&lt;/p&gt;
 &lt;p&gt;Maybe it’s not sitting around reading books all day, but I imagine plenty of you out there suffer from back pain/fatigue.&lt;/p&gt;
