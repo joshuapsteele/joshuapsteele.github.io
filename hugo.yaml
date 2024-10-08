@@ -4,6 +4,7 @@ publishDir: public
 languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
+disqusShortname: joshuapsteele
 taxonomies:
   category: categories
   tag: tags
