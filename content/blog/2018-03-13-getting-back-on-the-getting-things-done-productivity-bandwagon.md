@@ -7,112 +7,92 @@ date: "2018-03-13T22:06:09Z"
 guid: https://joshuapsteele.com/?p=41155
 id: 41155
 image: /wp-content/uploads/2018/03/andrew-neel-308138-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-title: Getting back on the "Getting Things Done" Productivity Bandwagon
-total_sidebar_layout:
-- right_sidebar
+title: Getting Back on the "Getting Things Done" Productivity Bandwagon
 url: /getting-back-on-the-getting-things-done-productivity-bandwagon/
 ---
 
-Getting Things Done (“GTD” for short) is a wildly popular personal productivity system invented and popularized by David Allen. However, as [Nicole Dieker at Lifehacker pointed out in 2017](https://lifehacker.com/getting-things-done-ten-years-in-1795707084), “You don’t hear a lot of people talk about the [*Getting Things Done*](http://gettingthingsdone.com/) productivity system anymore.”
+Getting Things Done ("GTD" for short) is a widely popular personal productivity system invented and popularized by David Allen. However, as [Nicole Dieker at Lifehacker pointed out in 2017](https://lifehacker.com/getting-things-done-ten-years-in-1795707084), "You don’t hear a lot of people talk about the [*Getting Things Done*](http://gettingthingsdone.com/) productivity system anymore."
 
-I think that’s a shame, because it’s a very effective system.
+I think that’s a shame because it’s a very effective system.
 
-I first tried Getting Things Done after reading “[What’s Best Nex](http://amzn.to/2tMiX1w)t” by Matt Perman, and then reading “[Getting Things Done](http://amzn.to/2HvNJxv)” by David Allen (in its newly revised 2015 edition) shortly thereafter.
+I first tried Getting Things Done after reading "[What’s Best Next](http://amzn.to/2tMiX1w)" by Matt Perman and then reading "[Getting Things Done](http://amzn.to/2HvNJxv)" by David Allen (in its newly revised 2015 edition) shortly thereafter.
 
 At its core, GTD revolves around the following idea from David Allen:
 
-### “Your mind is for having ideas, not holding them.”
+> “Your mind is for having ideas, not holding them.”
 
-What’s that mean? Well, your brain does a much better job of coming up with random things than with keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to keep track of all those things, instead of moving forward on them.
+What does that mean? Well, your brain does a much better job of coming up with random things than keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to remember everything instead of acting on them.
 
-Enter the GTD system. It’s designed to solve the problem of keeping track of the “open loops” your brain comes up with, whether “I need to buy milk” or “I need to revamp my blog.”
+Enter the GTD system. It’s designed to solve the problem of tracking the “open loops” your brain creates—whether "I need to buy milk" or "I need to revamp my blog."
 
-# The “Pillars” of GTD
+## The "Pillars" of GTD
 
-1. **Capture**. Think on paper. Get stuff out of your head and into a list.
-2. **Clarify**. Decide whether or not each item on your list is an action, a project, something to delete, defer, or delegate, etc. Check out this [GTD Workflow Chart](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf).
-3. **Organize**. As you clarify, put things into different “buckets” – Action Lists, Project Lists, Someday/Maybe Lists, Waiting For Lists, Reference Materials, etc.
-4. **Review**. Look at your buckets!! Daily and weekly.
-5. **Engage**. You know, get. stuff. done.
+1. **Capture**: Think on paper. Get stuff out of your head and into a list.
+2. **Clarify**: Decide whether each item is an action, a project, something to delete, defer, or delegate, etc. [GTD Workflow Chart](https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf).
+3. **Organize**: As you clarify, put things into different “buckets” – Action Lists, Project Lists, Someday/Maybe Lists, Waiting For Lists, Reference Materials, etc.
+4. **Review**: Look at your buckets regularly—daily and weekly.
+5. **Engage**: You know, get stuff done.
 
-# Getting Back on the GTD Bandwagon
+## Getting Back on the GTD Bandwagon
 
-Unfortunately, after following GTD for a few years, I “fell off the bandwagon.” I started to get sloppy with my practices of capturing and clarifying my “open loops,” so I started to spend more of my time worrying about what I had to get done that I was forgetting about, instead of reviewing my “Next Action” lists and getting things done, GTD-style.
+Unfortunately, after following GTD for a few years, I “fell off the bandwagon.” I got sloppy with capturing and clarifying my “open loops,” leading to more time worrying about what I had to do instead of reviewing my "Next Action" lists and moving forward, GTD-style.
 
-So, just this past week, I decided to get back on the GTD bandwagon. I’ve got a Ph.D. dissertation to write and a baby on the way, after all! There’s no time to spend all day worrying about the things I’m forgetting! 🙂
+Just this past week, I decided to get back on the GTD bandwagon. I’ve got a Ph.D. dissertation to write and a baby on the way, after all! There’s no time to spend worrying about things I’m forgetting. 🙂
 
----
+## My GTD Tools
 
-# My GTD Tools
+### [ToDoist](https://support.todoist.com/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist)
 
-## [ToDoist](https://support.todoist.com/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist)
+ToDoist is a fantastic task manager that I use to keep track of my personal tasks and projects.
 
-ToDoist is a fantastic task manager. I use it to keep track of my personal tasks and projects.
+### [Google Calendar](https://calendar.google.com/)
 
-## [Google Calendar](https://calendar.google.com/)
+I use Google Calendar for managing my schedule—pretty straightforward. 🙂
 
-I use Google Calendar as my…calendar. Pretty straightforward. 🙂
+### [Gmail](https://mail.google.com/)
 
-## [Gmail](https://mail.google.com/)
+For email communication, I use Gmail along with [Unroll.Me](https://unroll.me/) and [Boomerang](https://www.boomeranggmail.com/), both of which I highly recommend. I have three simple folders:
 
-I use Gmail for email communication. In addition to folders created automatically by [Unroll.Me](https://unroll.me/) and [Boomerang](https://www.boomeranggmail.com/) (two FANTASTIC things to use in conjunction with Gmail), I have three simple folders:
+- **@ACTION_SUPPORT**
+- **@KEEP**
+- **@WAITING_FOR_SUPPORT**
 
-- @ACTION\_SUPPORT
-- @KEEP
-- @WAITING\_FOR\_SUPPORT
+When an email requires action, I place it in the **@ACTION_SUPPORT** folder and create a task in ToDoist to remind me. If it's a reference email, I archive it or move it to the **@KEEP** folder. For emails I’m waiting on others to act, I set a follow-up reminder in ToDoist and move it to **@WAITING_FOR_SUPPORT**.
 
-If I receive an email that requires action from me, I place it in the @ACTION\_SUPPORT folder and create a task in ToDoist reminding me to do the action.
+### [Evernote](https://evernote.com/)
 
-If I receive an email that doesn’t contain an action, but that I want to keep for reference purposes, I either click “Archive” in GMail, or I move it to the “@KEEP” folder.
-
-If I have an email that I can’t take the next action on, but that I’m waiting for someone to take an action before I can move forward, I create a task in ToDoist reminding me to follow up on this, and I move the email to the @WAITING\_FOR\_SUPPORT folder.
-
-## [Evernote](https://evernote.com/)
-
-Evernote is basically my second brain and reference file system. Everything from old receipts to class notes is in there.
+Evernote is my second brain—my reference system for everything from receipts to class notes.
 
 ### [Leuchtturm1917 Medium Size Hardcover A5 Notebook – Dotted Grid](http://amzn.to/2FG5Ccu)
 
-This is my favorite notebook and tool for “capturing” ideas, projects, actions, etc.
+This is my go-to tool for "capturing" ideas, projects, actions, etc.
 
----
+## Good Overviews of GTD
 
-# Some Good Overviews of GTD
-
-The best overview of the GTD system is the aforementioned book, “[Getting Things Done](http://amzn.to/2FC6IWz).”
-
-However, there are also some very helpful free overviews of the GTD system out there.
+The best overview is David Allen’s book, "[Getting Things Done](http://amzn.to/2FC6IWz)," but here are some great free overviews:
 
 ### How to Hack Your To-Do List
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/Xduzwk04l2E?start=1&feature=oembed" title="How To Hack Your To-Do List" width="750"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/Xduzwk04l2E?start=1&feature=oembed" title="How To Hack Your To-Do List" width="750"></iframe>
 
-### Watch and Listen to David Allen Himself Summarize GTD
+### Watch and Listen to David Allen Summarize GTD
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/pvjOhLV3V6c?feature=oembed" title="Overview of Getting Things Done | lynda.com" width="750"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/pvjOhLV3V6c?feature=oembed" title="Overview of Getting Things Done | lynda.com" width="750"></iframe>
 
-### [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955) \[LifeHacker\]
+### [Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy](https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955) [LifeHacker]
 
-<div class="row"><div class="col-md-8 col-md-offset-2 col-xs-12 text-center">### [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) \[Hamberg.no\]
+### [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) [Hamberg.no]
 
-### Getting Things Done (GTD) by David Allen – Animated Book Summary And Review
+### Getting Things Done (GTD) by David Allen – Animated Book Summary and Review
 
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/gCswMsONkwY?feature=oembed" title="Getting Things Done (GTD) by David Allen - Animated Book Summary And Review" width="750"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/gCswMsONkwY?feature=oembed" title="Getting Things Done (GTD) by David Allen - Animated Book Summary and Review" width="750"></iframe>
 
-</div></div># Want to try GTD?
+## Want to Try GTD?
 
-Again, the best place to start is with the book, “[Getting Things Done](http://amzn.to/2FC6IWz),” by David Allen.
+The best starting point is David Allen's book, "[Getting Things Done](http://amzn.to/2FC6IWz)."
 
-However, I’m also happy to answer any of your GTD questions! Please ask them in the comments below!
+Feel free to ask me any GTD-related questions in the comments below!
 
 ---
 
-Note: Some links above are **affiliate links**. This means that, if you click on the link and make a purchase, then (at no extra cost to you) I earn a small commission. I only recommend things I think would be useful to my readers!
+*Note: Some links are **affiliate links**, meaning I earn a small commission (at no extra cost to you) if you click and purchase. I only recommend things I find useful!*

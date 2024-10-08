@@ -5,16 +5,6 @@ categories:
 date: "2019-11-19T15:26:29Z"
 guid: https://joshuapsteele.com/?p=42060
 id: 42060
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - how to think
 title: Damer’s “Code of Intellectual Conduct”
@@ -25,7 +15,9 @@ This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice]
 
 SOURCE: T. Edward Damer, *Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments*, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.
 
-<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_V9rDc1WZVbDCiH&asin=1133049982&tag=joshuapsteele-20" style="max-width:100%" title="Attacking Faulty Reasoning" type="text/html" width="750"></iframe></div></figure>## 1. The Fallibility Principle 
+<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_V9rDc1WZVbDCiH&asin=1133049982&tag=joshuapsteele-20" style="max-width:100%" title="Attacking Faulty Reasoning" type="text/html" width="750"></iframe></div></figure>
+
+## 1. The Fallibility Principle 
 
 > Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is **fallible**, which means that **one must acknowledge that one’s own initial view may not be the most defensible position on the question**.
 

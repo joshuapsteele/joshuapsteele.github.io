@@ -24,7 +24,11 @@ url: /software-testing-possibilities-problems-and-principles/
 
 Note: Throughout what follows, I am heavily indebted to two books in particular: [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) by [Vladimir Khorikov](https://twitter.com/vkhorikov?lang=en) (Manning Publications, 2020) and [Effective Software Testing: A Developer’s Guide](https://www.manning.com/books/effective-software-testing) by [Mauricio Aniche](https://twitter.com/mauricioaniche) (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.
 
-<figure>![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)<figcaption>Khorikov-UT-HI.png</figcaption></figure><figure>![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)<figcaption>Aniche-HI.png</figcaption></figure>---
+![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)
+
+![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)
+
+---
 
 ## Software Testing, Our Field’s Least-Sexy Superpower
 
@@ -36,7 +40,9 @@ Sure, tests aren’t very fun or glamorous to write and maintain. But can you im
 
 What if your house could test itself and let you know when it needed repairs? What if your body could test itself? What if, every day, you could live your life in the comfort of knowing that you and your belongings were being checked for errors thousands of times? Wouldn’t that be nice? Imagine the security and freedom that such a life-wide testing suite could provide!
 
-<figure>![](https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Possibilities of Software Testing
+![](https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080)
+
+## Possibilities of Software Testing
 
 I don’t know how far away we are from automatic home and health testing, but I do know that automated software testing has the potential to make our lives much better as we develop and sell software.
 
@@ -56,7 +62,9 @@ And, as we’ll discuss below, [well-designed code is easy to test](https://docs
 
 Now, speaking of testing difficulties…
 
-<figure>![](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Problems with Software Testing
+![](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080)
+
+## Problems with Software Testing
 
 All too often, the reality of software testing falls far short of its potential.
 
@@ -86,7 +94,9 @@ What should we keep in mind when we prepare to write code, when tests break, whe
 
 ---
 
-<figure>![](https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Principles of Software Testing
+![](https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080)
+
+## Principles of Software Testing
 
 Lots could and has been said about software testing. But I’d like to do an “80/20 analysis” of software testing and focus on the 20% of principles and mental models that yield 80% of the results.
 
@@ -133,11 +143,14 @@ Unfortunately, it’s not so simple.
 
 This is because, apart from Maintainability, the other three qualities are in tension with one another. You can only maximize two of the remaining three qualities.
 
-<figure>![UnitTesting04fig08_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/97683B15-BF10-416A-B336-4182179A0E2A_2/bpWRZyrcBDzP71Nk97VopU9hJSQf30X0WDoxASNykDkz/UnitTesting04fig08_alt.jpeg)<figcaption>UnitTesting04fig08\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+![UnitTesting04fig08_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/97683B15-BF10-416A-B336-4182179A0E2A_2/bpWRZyrcBDzP71Nk97VopU9hJSQf30X0WDoxASNykDkz/UnitTesting04fig08_alt.jpeg)
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 And, even then, you can’t completely forget about the last quality you’ve chosen not to prioritize! After all, no one wants a test that (1) doesn’t catch any bugs, (2) is so tightly coupled to the production code that it’s meaningless, or (3) takes forever to run.
 
-<figure>![](https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Avoid Brittle Tests: Maximize Resistance to Refactoring
+![](https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080)
+
+### Avoid Brittle Tests: Maximize Resistance to Refactoring
 
 Should we prioritize any particular quality of a good test while we’re building our test suite?
 
@@ -232,7 +245,8 @@ System tests **maximize protection against regressions** by exercising the entir
 
 Using all three different kinds of tests, then, is key to having a test suite that catches bugs and gives fast feedback.
 
-<figure>![UnitTesting04fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/3554AE46-C4BA-4C5A-B879-2E6B639AA252_2/qH4ihIUx7NKs4kWQNlU3uNEe2Ji1K3CD0cE8Y1svGI8z/UnitTesting04fig12_alt.jpeg)<figcaption>UnitTesting04fig12\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+![UnitTesting04fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/3554AE46-C4BA-4C5A-B879-2E6B639AA252_2/qH4ihIUx7NKs4kWQNlU3uNEe2Ji1K3CD0cE8Y1svGI8z/UnitTesting04fig12_alt.jpeg)
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 ### The Test Pyramid
 
@@ -240,7 +254,8 @@ Due to the strengths and weaknesses of the three different kinds of tests, the �
 
 Here is Mauricio Aniche’s version of the Test Pyramid, which adds exploratory manual testing (vs. automated testing) as a top layer:
 
-<figure>![EffectiveSoftwareTesting01-08.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/AFC5E00F-399B-454E-88E9-96DF37822C93_2/a3yCuLMk35hMVojHrgkpkB9dy9tzOB9RlqBjWHdnCZcz/EffectiveSoftwareTesting01-08.png)<figcaption>EffectiveSoftwareTesting01–08.png</figcaption></figure>(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
+![EffectiveSoftwareTesting01-08.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/AFC5E00F-399B-454E-88E9-96DF37822C93_2/a3yCuLMk35hMVojHrgkpkB9dy9tzOB9RlqBjWHdnCZcz/EffectiveSoftwareTesting01-08.png)
+(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
 
 The main reason to be *sparing* in our creation and use of integration and system tests is **time**. Remember, one of the four qualities of a good test is “fast feedback,” and this is definitely a weakness of integration and system tests.
 
@@ -287,7 +302,9 @@ If we’re just considering binary true/false conditions, then MC/DC requires N 
 
 While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.
 
-<figure>![](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Well-Designed Code is Easy to Test
+![](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080)
+
+### Well-Designed Code is Easy to Test
 
 A deep-dive into software design and architecture far exceeds the scope of this overview of software testing principles. Nevertheless, there’s an important connection between software testing and software design.
 
@@ -307,7 +324,8 @@ Keeping domain code (AKA “business logic”) separate from infrastructure code
 
 The business logic at the “center” of your application should only interact with external dependencies by interacting with ports (application services), that interact with adapters, that are themselves coupled to the external dependencies.
 
-<figure>![EffectiveSoftwareTesting07-01.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png)<figcaption>EffectiveSoftwareTesting07–01.png</figcaption></figure>(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
+![EffectiveSoftwareTesting07-01.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png)
+(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
 
 This “separation of concerns” approach to software design increases the testability of a system because it allows us to focus our testing efforts, especially at the unit-test level, on the most important part of the system—the domain code—without directly relying on any external dependencies (which could slow our tests down, make them unpredictable, etc.).
 
@@ -319,7 +337,8 @@ At each level of a system, there is an important distinction between ***what* th
 
 At the highest level, *inter-system* communications between applications are observable behaviors, while *intra-system* communication between classes inside an application are implementation details.
 
-<figure>![UnitTesting05fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/B9F43CB1-DFFA-45E7-9072-18D1BBC56367_2/NBFvJV4sruSIntQaOKcRgfO8WpP7mNWeKI1pmI4eydkz/UnitTesting05fig12_alt.jpeg)<figcaption>UnitTesting05fig12\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+![UnitTesting05fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/B9F43CB1-DFFA-45E7-9072-18D1BBC56367_2/NBFvJV4sruSIntQaOKcRgfO8WpP7mNWeKI1pmI4eydkz/UnitTesting05fig12_alt.jpeg)
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 Remember that, as we test each level of the system, in order to avoid writing brittle tests that throw false positives, we need to test the observable behavior, and not the implementation details.
 
@@ -342,7 +361,8 @@ Whenever an application “leaks” its implementation details into its public A
 
 In addition to the distinction between observable behavior and implementation details, there’s an important framework to keep in mind when determining how to test each part of our software system.
 
-<figure>![UnitTesting07fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/FEB14714-FF80-4C38-A57F-7F190BFF4A40_2/zxxZxZZDo7qDyNjq1Sya4VF9CAK4SnL5jPb7pMnyNmMz/UnitTesting07fig01_alt.jpeg)<figcaption>UnitTesting07fig01\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+![UnitTesting07fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/FEB14714-FF80-4C38-A57F-7F190BFF4A40_2/zxxZxZZDo7qDyNjq1Sya4VF9CAK4SnL5jPb7pMnyNmMz/UnitTesting07fig01_alt.jpeg)
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 Khorikov lists the following four types of production code:
 
@@ -357,13 +377,16 @@ Put differently, the more complicated the code, or the more significant for the 
 
 Why? Because, at least from a testing perspective, collaborators are expensive and time-consuming to test. Restricting interaction with collaborators to “controllers” in the application services / infrastructure layer of our application allows us to be strategic in our use of **test doubles and integration tests for the controllers**, while spending more of our valuable time writing **unit tests for our domain code and complex algorithms**.
 
-<figure>![UnitTesting08fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/D2685F77-D498-4959-9B7D-6FF2DEEAC26A_2/IP8Scjkvxo8Egqj2Fz8ly0vviNmuKTxCKtz97Fyfz5sz/UnitTesting08fig01_alt.jpeg)<figcaption>UnitTesting08fig01\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<figure>![UnitTesting08fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/D2685F77-D498-4959-9B7D-6FF2DEEAC26A_2/IP8Scjkvxo8Egqj2Fz8ly0vviNmuKTxCKtz97Fyfz5sz/UnitTesting08fig01_alt.jpeg)<figcaption>UnitTesting08fig01\_alt.jpeg</figcaption></figure>
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 If the classes in our domain code depend only on each other, they should be relatively easy and quick to unit test. Then, after checking as many edge cases as possible in our unit tests, we can judiciously test the happy paths and all other edge cases in our integration tests of the controllers in the application service layer.
 
 Nevertheless, even if we do all of this properly, we still need to reckon with collaborators and dependencies at some point, ideally without making our testing suite prohibitively expensive and time-consuming to run! This brings us to the important topic of test doubles.
 
-<figure>![](https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Test Doubles: Mocks vs Stubs
+![](https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080)
+
+### Test Doubles: Mocks vs Stubs
 
 Test doubles (think “stunt doubles”) mimic the behavior of dependencies. There are various kinds of test doubles. Aniche (2022) lists five, for example:
 
@@ -396,7 +419,8 @@ Another way of summarizing this principle is that “asking a question should no
 
 Note that, in terms of CQS, mocks mimic commands while stubs mimic queries.
 
-<figure>![Image.tiff](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/9A23E848-9BAF-4318-8874-FA36C3D793F6_2/x5OUyH6SgUYVQnLrLvyE0Bya9z3mvCQcJrtuH90Ndxsz/Image.tiff)<figcaption>Image.tiff</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+![Image.tiff](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/9A23E848-9BAF-4318-8874-FA36C3D793F6_2/x5OUyH6SgUYVQnLrLvyE0Bya9z3mvCQcJrtuH90Ndxsz/Image.tiff)
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 
 ### When to Use Mocks and Stubs
 
@@ -412,7 +436,9 @@ And, even when writing integration tests for application service code, when inte
 
 Finally, when replacing unmanaged dependencies with test doubles, we should do so by creating (and then mocking or stubbing) an adapter layer that stands between our application and the third-party dependency. In other words, even when mocking a dependency you don’t control, you should “only mock types that you own” (Khorikov 2020). This doesn’t mean that you should mock managed dependencies like your database (see above)! But it does add in a helpful buffer between your application and its unmanaged dependencies.
 
-<figure>![](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Conclusion
+![](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080)
+
+## Conclusion
 
 Much more could be (and has been) said about software testing! If I had more time, I would discuss the following. But I recommend that curious readers do their own research on:
 
@@ -426,7 +452,9 @@ Nevertheless, I hope that this overview of software testing possibilities, probl
 
 ---
 
-<figure>![](https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Recommended Resources on Software Testing
+![](https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080)
+
+## Recommended Resources on Software Testing
 
 - Test Case Checklist in [*Code Complete*](https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/), 2nd edition by Steve McConnell (Microsoft 2004:532)
 - [*Effective Software Testing: A Developer’s Guide*](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/) by Mauricio Aniche (Manning, 2022)

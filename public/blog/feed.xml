@@ -1540,7 +1540,8 @@ for the mouth of the LORD has spoken.</p>
 <p>However, even if I just consider the amount of <strong>time saved</strong> (1) looking things up and (2) citing works (which Logos handles AUTOMATICALLY when you copy and paste quotes!!!), I’ve come out on top</p>
 <p>This is not to mention the breadth and depth that Logos Bible Software has added to my essays, sermons, emails (I used to receive a lot of Anglicanism-related questions!), and blog posts.</p>
 <p>Now that Logos 10 is out, I can heartily continue to recommend Logos Bible Software. If you haven’t done so already, I strongly encourage you to consider buying (or upgrading to) Logos 10! (<a href="https://partners.faithlife.com/click.track?CID=431490&amp;AFID=529204">Again, you can do so via my exclusive partner link here!</a>)</p>
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/mfoaX1zkhuU?feature=oembed" title="Logos 10 Is Here" width="750"></iframe></div></figure>## Top 3 Features of Logos 10
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/mfoaX1zkhuU?feature=oembed" title="Logos 10 Is Here" width="750"></iframe></div></figure>
+<h2 id="top-3-features-of-logos-10">Top 3 Features of Logos 10</h2>
 <p>Real quick, here are my 3 favorite things about Logos 10 (compared to Logos 8 and 9).</p>
 <h3 id="1-its-faster">1. It’s FASTER</h3>
 <p>Right out of the box, you can tell that they’ve tweaked things under the hood to make Logos 10 run faster (noticeably faster on my 2016 MacBook Pro) than previous versions.</p>
@@ -1574,17 +1575,27 @@ for the mouth of the LORD has spoken.</p>
       <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
       <guid>https://joshuapsteele.github.io/software-testing-possibilities-problems-and-principles/</guid>
       <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;
-&lt;figure&gt;![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)&lt;figcaption&gt;Khorikov-UT-HI.png&lt;/figcaption&gt;&lt;/figure&gt;&lt;figure&gt;![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)&lt;figcaption&gt;Aniche-HI.png&lt;/figcaption&gt;&lt;/figure&gt;---
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png&#34; alt=&#34;Khorikov-UT-HI.png&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png&#34; alt=&#34;Aniche-HI.png&#34;  /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;
 &lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
-<figure>![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)<figcaption>Khorikov-UT-HI.png</figcaption></figure><figure>![Aniche-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png)<figcaption>Aniche-HI.png</figcaption></figure>---
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png" alt="Khorikov-UT-HI.png"  />
+</p>
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png" alt="Aniche-HI.png"  />
+</p>
+<hr>
 <h2 id="software-testing-our-fields-least-sexy-superpower">Software Testing, Our Field’s Least-Sexy Superpower</h2>
 <p>Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!</p>
 <p>So I now think of software testing as software development’s least-sexy superpower.</p>
 <p>Sure, tests aren’t very fun or glamorous to write and maintain. But can you imagine if other industries had similar testing powers?</p>
 <p>What if your house could test itself and let you know when it needed repairs? What if your body could test itself? What if, every day, you could live your life in the comfort of knowing that you and your belongings were being checked for errors thousands of times? Wouldn’t that be nice? Imagine the security and freedom that such a life-wide testing suite could provide!</p>
-<figure>![](https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Possibilities of Software Testing
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h2 id="possibilities-of-software-testing">Possibilities of Software Testing</h2>
 <p>I don’t know how far away we are from automatic home and health testing, but I do know that automated software testing has the potential to make our lives much better as we develop and sell software.</p>
 <p>Sure, software development can get incredibly complicated and frustrating. But what if you had a robust testing suite that:</p>
 <ol>
@@ -1597,7 +1608,9 @@ for the mouth of the LORD has spoken.</p>
 <p>After all, a robust testing suite functions as its own form of <strong>documentation</strong> for your project. A developer should be able to read through the tests and quickly get up to speed with how the production code functions. They can then confidently make changes to the codebase, knowing that (1) they have a decent idea of how things work and (2) that the testing suite will alert them to breaking changes.</p>
 <p>And, as we’ll discuss below, <a href="https://docs.craft.do/editor/d/032236cd-2bcc-fa12-9dfe-e5564a597e07/836657DD-FF3A-4CE5-8565-F6945FE45D6A/b/C94D92D2-AC78-4BCC-AB6B-5388B77EAF8B#8434D46D-25CD-49D8-83AC-87FE1E45A738">well-designed code is easy to test</a>! That is, there’s an important connection between software testing and software <strong>design</strong>. When we run into difficulties writing tests, we should consider improving the design of our production code.</p>
 <p>Now, speaking of testing difficulties…</p>
-<figure>![](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Problems with Software Testing
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h2 id="problems-with-software-testing">Problems with Software Testing</h2>
 <p>All too often, the reality of software testing falls far short of its potential.</p>
 <p>Thanks to the “test early, test often” perspective of <a href="https://www.testim.io/blog/shift-left-testing-guide/">“shift left” testing</a>, most of us software engineers have to write tests. Most of our production code has an ever-increasing <strong>quantity</strong> of test code associated with it. (More on the different <a href="https://docs.craft.do/editor/d/032236cd-2bcc-fa12-9dfe-e5564a597e07/836657DD-FF3A-4CE5-8565-F6945FE45D6A/b/C94D92D2-AC78-4BCC-AB6B-5388B77EAF8B#AA5E8A29-25DD-4777-80AD-37DF0A172857">kinds of tests</a> below.)</p>
 <p>But the <strong>quality</strong> of our testing suites is often lacking.</p>
@@ -1620,7 +1633,9 @@ for the mouth of the LORD has spoken.</p>
 <h2 id="how-can-deljoshdel-we-test-better">How Can <del>Josh</del> We Test Better?</h2>
 <p>What should we keep in mind when we prepare to write code, when tests break, when our code coverage tool gets mad, etc.?</p>
 <hr>
-<figure>![](https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Principles of Software Testing
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h2 id="principles-of-software-testing">Principles of Software Testing</h2>
 <p>Lots could and has been said about software testing. But I’d like to do an “80/20 analysis” of software testing and focus on the 20% of principles and mental models that yield 80% of the results.</p>
 <h3 id="what-is-software-testing">What is Software Testing?</h3>
 <p>Simply put, <strong>software testing is the process of making sure that your software does what you want it to do</strong>.</p>
@@ -1669,9 +1684,13 @@ for the mouth of the LORD has spoken.</p>
 <p>OK, so we should just max out each of these four qualities whenever writing tests, right?</p>
 <p>Unfortunately, it’s not so simple.</p>
 <p>This is because, apart from Maintainability, the other three qualities are in tension with one another. You can only maximize two of the remaining three qualities.</p>
-<figure>![UnitTesting04fig08_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/97683B15-BF10-416A-B336-4182179A0E2A_2/bpWRZyrcBDzP71Nk97VopU9hJSQf30X0WDoxASNykDkz/UnitTesting04fig08_alt.jpeg)<figcaption>UnitTesting04fig08\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/97683B15-BF10-416A-B336-4182179A0E2A_2/bpWRZyrcBDzP71Nk97VopU9hJSQf30X0WDoxASNykDkz/UnitTesting04fig08_alt.jpeg" alt="UnitTesting04fig08_alt.jpeg"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
 <p>And, even then, you can’t completely forget about the last quality you’ve chosen not to prioritize! After all, no one wants a test that (1) doesn’t catch any bugs, (2) is so tightly coupled to the production code that it’s meaningless, or (3) takes forever to run.</p>
-<figure>![](https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Avoid Brittle Tests: Maximize Resistance to Refactoring
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h3 id="avoid-brittle-tests-maximize-resistance-to-refactoring">Avoid Brittle Tests: Maximize Resistance to Refactoring</h3>
 <p>Should we prioritize any particular quality of a good test while we’re building our test suite?</p>
 <p>While we need to keep all four qualities in mind throughout the testing process, I agree with Khorikov when he argues for <strong>prioritizing resistance to refactoring</strong>. We need to take special care to avoid producing “brittle” tests that yield false positives (“cry wolf”) whenever we refactor our production code.</p>
 <p>Put simply, we need to <strong>test the what, not the how</strong>. (More on this in “<a href="craftdocs://open?blockId=9811D0C8-FEBE-42CC-BA53-9A767F01549F&amp;spaceId=032236cd-2bcc-fa12-9dfe-e5564a597e07">Observable Behavior vs Implementation Details</a>” below.) Our tests should be as loosely coupled to the implementation details of our production code as possible. Instead, they should focus on testing the observable behavior of our software.</p>
@@ -1753,11 +1772,15 @@ for the mouth of the LORD has spoken.</p>
 <p>Unlike integration tests, end-to-end or system tests <strong>test the entire system</strong>. They take even longer to write and run than integration tests, but they emulate an end-user’s interactions with your system more than any other kind of test.</p>
 <p>System tests <strong>maximize protection against regressions</strong> by exercising the entire code base.</p>
 <p>Using all three different kinds of tests, then, is key to having a test suite that catches bugs and gives fast feedback.</p>
-<figure>![UnitTesting04fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/3554AE46-C4BA-4C5A-B879-2E6B639AA252_2/qH4ihIUx7NKs4kWQNlU3uNEe2Ji1K3CD0cE8Y1svGI8z/UnitTesting04fig12_alt.jpeg)<figcaption>UnitTesting04fig12\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/3554AE46-C4BA-4C5A-B879-2E6B639AA252_2/qH4ihIUx7NKs4kWQNlU3uNEe2Ji1K3CD0cE8Y1svGI8z/UnitTesting04fig12_alt.jpeg" alt="UnitTesting04fig12_alt.jpeg"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
 <h3 id="the-test-pyramid">The Test Pyramid</h3>
 <p>Due to the strengths and weaknesses of the three different kinds of tests, the “test pyramid” model suggests that developers should write many unit tests, fewer integration tests, and even fewer end-to-end tests. The width of the pyramid represents the number of tests at each level.</p>
 <p>Here is Mauricio Aniche’s version of the Test Pyramid, which adds exploratory manual testing (vs. automated testing) as a top layer:</p>
-<figure>![EffectiveSoftwareTesting01-08.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/AFC5E00F-399B-454E-88E9-96DF37822C93_2/a3yCuLMk35hMVojHrgkpkB9dy9tzOB9RlqBjWHdnCZcz/EffectiveSoftwareTesting01-08.png)<figcaption>EffectiveSoftwareTesting01–08.png</figcaption></figure>(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/AFC5E00F-399B-454E-88E9-96DF37822C93_2/a3yCuLMk35hMVojHrgkpkB9dy9tzOB9RlqBjWHdnCZcz/EffectiveSoftwareTesting01-08.png" alt="EffectiveSoftwareTesting01-08.png"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/">Aniche 2022</a>)</p>
 <p>The main reason to be <em>sparing</em> in our creation and use of integration and system tests is <strong>time</strong>. Remember, one of the four qualities of a good test is “fast feedback,” and this is definitely a weakness of integration and system tests.</p>
 <p>Nevertheless, because they exercise a lot of the codebase (and thereby increase our code coverage), integration and system tests are particularly good at catching bugs. So, if we want our testing suite to be good at “protection against regressions,” we need to include well-thought-out integration and system tests.</p>
 <h3 id="code-coverage-good-servant-bad-master">Code Coverage: Good Servant, Bad Master</h3>
@@ -1796,7 +1819,9 @@ for the mouth of the LORD has spoken.</p>
 <p>To achieve MC/DC, you list all possible test cases (those required if you were going for path coverage), before searching for “independence pairs” of test cases where (1) a single condition change (2) independently changes the outcome of the code in question. After finding these independence pairs for all of the conditions, you can reduce the list of test cases down to at least one independence pair for each condition under test.</p>
 <p>If we’re just considering binary true/false conditions, then MC/DC requires N + 1 test cases vs path coverage’s 2<sup>N</sup> test cases (Aniche 2022, citing <a href="https://www.google.com/books/edition/An_Investigation_of_Three_Forms_of_the_M/8ibStgAACAAJ?hl=en">Chilenski 2001</a>).</p>
 <p>While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.</p>
-<figure>![](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Well-Designed Code is Easy to Test
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h3 id="well-designed-code-is-easy-to-test">Well-Designed Code is Easy to Test</h3>
 <p>A deep-dive into software design and architecture far exceeds the scope of this overview of software testing principles. Nevertheless, there’s an important connection between software testing and software design.</p>
 <p>Code that is well-designed is easy to test. And code that is difficult to test is often poorly designed.</p>
 <p>When testing is integrated into the software development process, then any friction encountered when writing tests should raise questions about the way the production code is structured. Granted, certain difficulties cannot be avoided (sometimes requirements demand behavior that is inherently difficult to test). But there are often ways to improve the design of our production code while also making it easier to test.</p>
@@ -1808,13 +1833,17 @@ for the mouth of the LORD has spoken.</p>
 </blockquote>
 <p>Keeping domain code (AKA “business logic”) separate from infrastructure code (AKA “application services layer”) is a key emphasis of the “Hexagonal Architecture” or “Ports and Adapters” pattern.</p>
 <p>The business logic at the “center” of your application should only interact with external dependencies by interacting with ports (application services), that interact with adapters, that are themselves coupled to the external dependencies.</p>
-<figure>![EffectiveSoftwareTesting07-01.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png)<figcaption>EffectiveSoftwareTesting07–01.png</figcaption></figure>(Image source: [Aniche 2022](https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png" alt="EffectiveSoftwareTesting07-01.png"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/">Aniche 2022</a>)</p>
 <p>This “separation of concerns” approach to software design increases the testability of a system because it allows us to focus our testing efforts, especially at the unit-test level, on the most important part of the system—the domain code—without directly relying on any external dependencies (which could slow our tests down, make them unpredictable, etc.).</p>
 <p>Keeping domain code separate from infrastructure code also helps us to avoid writing brittle tests by emphasizing a key principle behind “resistance to refactoring”—observable behavior vs implementation details.</p>
 <h3 id="observable-behavior-vs-implementation-details">Observable Behavior vs Implementation Details</h3>
 <p>At each level of a system, there is an important distinction between <strong><em>what</em> the system is accomplishing (the observable behavior)</strong> and <strong><em>how</em> it accomplishes it (implementation details)</strong>.</p>
 <p>At the highest level, <em>inter-system</em> communications between applications are observable behaviors, while <em>intra-system</em> communication between classes inside an application are implementation details.</p>
-<figure>![UnitTesting05fig12_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/B9F43CB1-DFFA-45E7-9072-18D1BBC56367_2/NBFvJV4sruSIntQaOKcRgfO8WpP7mNWeKI1pmI4eydkz/UnitTesting05fig12_alt.jpeg)<figcaption>UnitTesting05fig12\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/B9F43CB1-DFFA-45E7-9072-18D1BBC56367_2/NBFvJV4sruSIntQaOKcRgfO8WpP7mNWeKI1pmI4eydkz/UnitTesting05fig12_alt.jpeg" alt="UnitTesting05fig12_alt.jpeg"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
 <p>Remember that, as we test each level of the system, in order to avoid writing brittle tests that throw false positives, we need to test the observable behavior, and not the implementation details.</p>
 <p>At first glance, it might seem like the distinction is between observable behavior and implementation details is the same as between an applications <strong>public API (application programming interface)</strong> and its <strong>private API</strong>. In languages like C# and Java, this public/private distinction is usually achieved using <strong>access modifiers</strong> (<code>public</code>, <code>private</code>, <code>protected</code>, etc.).</p>
 <p>However, although a <em>well-designed API</em> has a public API that coincides with its observable behavior and a private API that coincides with its implementation details, it’s very easy and common for an application to <strong>“leak” its implementation details into its public API</strong> by making those implementation details inappropriately observable.</p>
@@ -1840,7 +1869,9 @@ for the mouth of the LORD has spoken.</p>
 <p>Whenever an application “leaks” its implementation details into its public API, it makes it easy for developers to write brittle tests. As Khorikov observes, “by making all implementation details private, you leave your tests no choice other than to verify the code’s observable behavior, which automatically improves their resistance to refactoring.”</p>
 <h3 id="four-types-of-code-complexitysignificance-vs-number-of-dependencies">Four Types of Code: Complexity/Significance vs Number of Dependencies</h3>
 <p>In addition to the distinction between observable behavior and implementation details, there’s an important framework to keep in mind when determining how to test each part of our software system.</p>
-<figure>![UnitTesting07fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/FEB14714-FF80-4C38-A57F-7F190BFF4A40_2/zxxZxZZDo7qDyNjq1Sya4VF9CAK4SnL5jPb7pMnyNmMz/UnitTesting07fig01_alt.jpeg)<figcaption>UnitTesting07fig01\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/FEB14714-FF80-4C38-A57F-7F190BFF4A40_2/zxxZxZZDo7qDyNjq1Sya4VF9CAK4SnL5jPb7pMnyNmMz/UnitTesting07fig01_alt.jpeg" alt="UnitTesting07fig01_alt.jpeg"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
 <p>Khorikov lists the following four types of production code:</p>
 <ul>
 <li>
@@ -1867,10 +1898,13 @@ for the mouth of the LORD has spoken.</p>
 <p>Although trivial code is difficult, if not impossible, to avoid, well-designed software systems avoid “overcomplicated code” by making sure that code is either complex/significant OR it works with a number of dependencies, but not both at the same time.</p>
 <p>Put differently, the more complicated the code, or the more significant for the domain layer, the fewer collaborators it should have.</p>
 <p>Why? Because, at least from a testing perspective, collaborators are expensive and time-consuming to test. Restricting interaction with collaborators to “controllers” in the application services / infrastructure layer of our application allows us to be strategic in our use of <strong>test doubles and integration tests for the controllers</strong>, while spending more of our valuable time writing <strong>unit tests for our domain code and complex algorithms</strong>.</p>
-<figure>![UnitTesting08fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/D2685F77-D498-4959-9B7D-6FF2DEEAC26A_2/IP8Scjkvxo8Egqj2Fz8ly0vviNmuKTxCKtz97Fyfz5sz/UnitTesting08fig01_alt.jpeg)<figcaption>UnitTesting08fig01\_alt.jpeg</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<figure>![UnitTesting08fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/D2685F77-D498-4959-9B7D-6FF2DEEAC26A_2/IP8Scjkvxo8Egqj2Fz8ly0vviNmuKTxCKtz97Fyfz5sz/UnitTesting08fig01_alt.jpeg)<figcaption>UnitTesting08fig01\_alt.jpeg</figcaption></figure>
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
 <p>If the classes in our domain code depend only on each other, they should be relatively easy and quick to unit test. Then, after checking as many edge cases as possible in our unit tests, we can judiciously test the happy paths and all other edge cases in our integration tests of the controllers in the application service layer.</p>
 <p>Nevertheless, even if we do all of this properly, we still need to reckon with collaborators and dependencies at some point, ideally without making our testing suite prohibitively expensive and time-consuming to run! This brings us to the important topic of test doubles.</p>
-<figure>![](https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080)</figure>### Test Doubles: Mocks vs Stubs
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h3 id="test-doubles-mocks-vs-stubs">Test Doubles: Mocks vs Stubs</h3>
 <p>Test doubles (think “stunt doubles”) mimic the behavior of dependencies. There are various kinds of test doubles. Aniche (2022) lists five, for example:</p>
 <ul>
 <li>Dummies: passed to the class under test but never used</li>
@@ -1906,7 +1940,9 @@ for the mouth of the LORD has spoken.</p>
 </ul>
 <p>Another way of summarizing this principle is that “asking a question should not change the answer” (Khorikov 2020).</p>
 <p>Note that, in terms of CQS, mocks mimic commands while stubs mimic queries.</p>
-<figure>![Image.tiff](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/9A23E848-9BAF-4318-8874-FA36C3D793F6_2/x5OUyH6SgUYVQnLrLvyE0Bya9z3mvCQcJrtuH90Ndxsz/Image.tiff)<figcaption>Image.tiff</figcaption></figure>(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/9A23E848-9BAF-4318-8874-FA36C3D793F6_2/x5OUyH6SgUYVQnLrLvyE0Bya9z3mvCQcJrtuH90Ndxsz/Image.tiff" alt="Image.tiff"  />
+
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
 <h3 id="when-to-use-mocks-and-stubs">When to Use Mocks and Stubs</h3>
 <p>A corollary of what we’ve just discussed is that we should <strong>never assert (verify) interactions with stubs in our tests</strong>. Doing so is unnecessary if our tests are correctly focusing on observable behavior, because stubs should only ever emulate steps on the way to our SUT (system under test) producing observable output.</p>
 <p>A corollary of what we previously discussed about complexity/significance vs number of collaborators means that <strong>we should not have to use test doubles in our unit tests of domain code (and complex algorithms), but should rather save mocks and stubs for our integration tests of controllers and application services code</strong>.</p>
@@ -1914,7 +1950,9 @@ for the mouth of the LORD has spoken.</p>
 <p>When unit testing domain code classes at the “center” of your system, the only direct dependencies should be upon other domain code classes. And, since we’ve already discussed the benefit of expanding our definition of “unit” beyond “class” to include “unit of behavior/work,” <strong>we should use real versions of these “in-process” dependencies in our unit tests, instead of replacing them with mocks or stubs</strong>.</p>
 <p>And, even when writing integration tests for application service code, when interactions with “out-of-process” dependencies are inescapable, <strong>we should only replace unmanaged out-of-process dependencies with test doubles. Whenever possible, we should use real instances of managed out-of-process dependencies (such as a database) in our integration tests, rather than replacing these with mocks or stubs</strong>.</p>
 <p>Finally, when replacing unmanaged dependencies with test doubles, we should do so by creating (and then mocking or stubbing) an adapter layer that stands between our application and the third-party dependency. In other words, even when mocking a dependency you don’t control, you should “only mock types that you own” (Khorikov 2020). This doesn’t mean that you should mock managed dependencies like your database (see above)! But it does add in a helpful buffer between your application and its unmanaged dependencies.</p>
-<figure>![](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Conclusion
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h2 id="conclusion">Conclusion</h2>
 <p>Much more could be (and has been) said about software testing! If I had more time, I would discuss the following. But I recommend that curious readers do their own research on:</p>
 <ul>
 <li><a href="https://www.baeldung.com/parameterized-tests-junit-5">Parameterized testing</a>, which can help save time and space when you’ve got a bunch of test cases you need to cover for a single method</li>
@@ -1924,7 +1962,9 @@ for the mouth of the LORD has spoken.</p>
 <p>…Not to mention doing your own research on testing libraries and frameworks in your favorite language(s)! (In Java world, that includes <a href="https://junit.org/junit5/">JUnit</a>, <a href="https://site.mockito.org/">Mockito</a>, <a href="https://jqwik.net/">jqwik</a>, <a href="https://assertj.github.io/doc/">AssertJ</a>, <a href="https://pitest.org/">Pitest</a>, etc.)</p>
 <p>Nevertheless, I hope that this overview of software testing possibilities, problems, and principles helps you to write better tests and develop better software! If you have anything to add or correct, please do leave a comment. Or reach out to me (Twitter <a href="https://twitter.com/joshuapsteele">@joshuapsteele</a>, GitHub <a href="https://github.com/jsteelepfpt">jsteelepfpt</a>, LinkedIn <a href="https://www.linkedin.com/in/joshuapsteele/">joshuapsteele</a>).</p>
 <hr>
-<figure>![](https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080)</figure>## Recommended Resources on Software Testing
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
+</p>
+<h2 id="recommended-resources-on-software-testing">Recommended Resources on Software Testing</h2>
 <ul>
 <li>Test Case Checklist in <a href="https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/"><em>Code Complete</em></a>, 2nd edition by Steve McConnell (Microsoft 2004:532)</li>
 <li><a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/"><em>Effective Software Testing: A Developer’s Guide</em></a> by Mauricio Aniche (Manning, 2022)</li>
@@ -4820,12 +4860,14 @@ for the mouth of the LORD has spoken.</p>
       <guid>https://joshuapsteele.github.io/damers-code-of-intellectual-conduct/</guid>
       <description>&lt;p&gt;This code of conduct very much relates to &lt;a href=&#34;https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/&#34;&gt;Rapoport’s Rules, Adler’s advice&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/&#34;&gt;Alan Jacobs’s “The Thinking Person’s Checklist.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SOURCE: T. Edward Damer, &lt;em&gt;Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments&lt;/em&gt;, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.&lt;/p&gt;
-&lt;figure class=&#34;wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;550&#34; loading=&#34;lazy&#34; src=&#34;https://read.amazon.com/kp/card?preview=inline&amp;linkCode=ll1&amp;ref_=k4w_oembed_V9rDc1WZVbDCiH&amp;asin=1133049982&amp;tag=joshuapsteele-20&#34; style=&#34;max-width:100%&#34; title=&#34;Attacking Faulty Reasoning&#34; type=&#34;text/html&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;## 1. The Fallibility Principle 
+&lt;figure class=&#34;wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;550&#34; loading=&#34;lazy&#34; src=&#34;https://read.amazon.com/kp/card?preview=inline&amp;linkCode=ll1&amp;ref_=k4w_oembed_V9rDc1WZVbDCiH&amp;asin=1133049982&amp;tag=joshuapsteele-20&#34; style=&#34;max-width:100%&#34; title=&#34;Attacking Faulty Reasoning&#34; type=&#34;text/html&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;1-the-fallibility-principle&#34;&gt;1. The Fallibility Principle&lt;/h2&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is &lt;strong&gt;fallible&lt;/strong&gt;, which means that &lt;strong&gt;one must acknowledge that one’s own initial view may not be the most defensible position on the question&lt;/strong&gt;.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This code of conduct very much relates to <a href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/">Rapoport’s Rules, Adler’s advice</a>, and <a href="https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/">Alan Jacobs’s “The Thinking Person’s Checklist.”</a></p>
 <p>SOURCE: T. Edward Damer, <em>Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments</em>, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.</p>
-<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_V9rDc1WZVbDCiH&asin=1133049982&tag=joshuapsteele-20" style="max-width:100%" title="Attacking Faulty Reasoning" type="text/html" width="750"></iframe></div></figure>## 1. The Fallibility Principle 
+<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_V9rDc1WZVbDCiH&asin=1133049982&tag=joshuapsteele-20" style="max-width:100%" title="Attacking Faulty Reasoning" type="text/html" width="750"></iframe></div></figure>
+<h2 id="1-the-fallibility-principle">1. The Fallibility Principle</h2>
 <blockquote>
 <p>Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is <strong>fallible</strong>, which means that <strong>one must acknowledge that one’s own initial view may not be the most defensible position on the question</strong>.</p>
 </blockquote>
@@ -15504,68 +15546,65 @@ Why does Bonhoeffer then speak approvingly of a “religionless Christianity,”
 ]]></content:encoded>
     </item>
     <item>
-      <title>Getting back on the &#34;Getting Things Done&#34; Productivity Bandwagon</title>
+      <title>Getting Back on the &#34;Getting Things Done&#34; Productivity Bandwagon</title>
       <link>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
       <pubDate>Tue, 13 Mar 2018 22:06:09 +0000</pubDate>
       <guid>https://joshuapsteele.github.io/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
-      <description>&lt;p&gt;Getting Things Done (“GTD” for short) is a wildly popular personal productivity system invented and popularized by David Allen. However, as &lt;a href=&#34;https://lifehacker.com/getting-things-done-ten-years-in-1795707084&#34;&gt;Nicole Dieker at Lifehacker pointed out in 2017&lt;/a&gt;, “You don’t hear a lot of people talk about the &lt;a href=&#34;http://gettingthingsdone.com/&#34;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt;&lt;/a&gt; productivity system anymore.”&lt;/p&gt;
-&lt;p&gt;I think that’s a shame, because it’s a very effective system.&lt;/p&gt;
-&lt;p&gt;I first tried Getting Things Done after reading “&lt;a href=&#34;http://amzn.to/2tMiX1w&#34;&gt;What’s Best Nex&lt;/a&gt;t” by Matt Perman, and then reading “&lt;a href=&#34;http://amzn.to/2HvNJxv&#34;&gt;Getting Things Done&lt;/a&gt;” by David Allen (in its newly revised 2015 edition) shortly thereafter.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Getting Things Done (“GTD” for short) is a wildly popular personal productivity system invented and popularized by David Allen. However, as <a href="https://lifehacker.com/getting-things-done-ten-years-in-1795707084">Nicole Dieker at Lifehacker pointed out in 2017</a>, “You don’t hear a lot of people talk about the <a href="http://gettingthingsdone.com/"><em>Getting Things Done</em></a> productivity system anymore.”</p>
-<p>I think that’s a shame, because it’s a very effective system.</p>
-<p>I first tried Getting Things Done after reading “<a href="http://amzn.to/2tMiX1w">What’s Best Nex</a>t” by Matt Perman, and then reading “<a href="http://amzn.to/2HvNJxv">Getting Things Done</a>” by David Allen (in its newly revised 2015 edition) shortly thereafter.</p>
+      <description>&lt;p&gt;Getting Things Done (&amp;ldquo;GTD&amp;rdquo; for short) is a widely popular personal productivity system invented and popularized by David Allen. However, as &lt;a href=&#34;https://lifehacker.com/getting-things-done-ten-years-in-1795707084&#34;&gt;Nicole Dieker at Lifehacker pointed out in 2017&lt;/a&gt;, &amp;ldquo;You don’t hear a lot of people talk about the &lt;a href=&#34;http://gettingthingsdone.com/&#34;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt;&lt;/a&gt; productivity system anymore.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I think that’s a shame because it’s a very effective system.&lt;/p&gt;
+&lt;p&gt;I first tried Getting Things Done after reading &amp;ldquo;&lt;a href=&#34;http://amzn.to/2tMiX1w&#34;&gt;What’s Best Next&lt;/a&gt;&amp;rdquo; by Matt Perman and then reading &amp;ldquo;&lt;a href=&#34;http://amzn.to/2HvNJxv&#34;&gt;Getting Things Done&lt;/a&gt;&amp;rdquo; by David Allen (in its newly revised 2015 edition) shortly thereafter.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Getting Things Done (&ldquo;GTD&rdquo; for short) is a widely popular personal productivity system invented and popularized by David Allen. However, as <a href="https://lifehacker.com/getting-things-done-ten-years-in-1795707084">Nicole Dieker at Lifehacker pointed out in 2017</a>, &ldquo;You don’t hear a lot of people talk about the <a href="http://gettingthingsdone.com/"><em>Getting Things Done</em></a> productivity system anymore.&rdquo;</p>
+<p>I think that’s a shame because it’s a very effective system.</p>
+<p>I first tried Getting Things Done after reading &ldquo;<a href="http://amzn.to/2tMiX1w">What’s Best Next</a>&rdquo; by Matt Perman and then reading &ldquo;<a href="http://amzn.to/2HvNJxv">Getting Things Done</a>&rdquo; by David Allen (in its newly revised 2015 edition) shortly thereafter.</p>
 <p>At its core, GTD revolves around the following idea from David Allen:</p>
-<h3 id="your-mind-is-for-having-ideas-not-holding-them">“Your mind is for having ideas, not holding them.”</h3>
-<p>What’s that mean? Well, your brain does a much better job of coming up with random things than with keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to keep track of all those things, instead of moving forward on them.</p>
-<p>Enter the GTD system. It’s designed to solve the problem of keeping track of the “open loops” your brain comes up with, whether “I need to buy milk” or “I need to revamp my blog.”</p>
-<h1 id="the-pillars-of-gtd">The “Pillars” of GTD</h1>
+<blockquote>
+<p>“Your mind is for having ideas, not holding them.”</p>
+</blockquote>
+<p>What does that mean? Well, your brain does a much better job of coming up with random things than keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to remember everything instead of acting on them.</p>
+<p>Enter the GTD system. It’s designed to solve the problem of tracking the “open loops” your brain creates—whether &ldquo;I need to buy milk&rdquo; or &ldquo;I need to revamp my blog.&rdquo;</p>
+<h2 id="the-pillars-of-gtd">The &ldquo;Pillars&rdquo; of GTD</h2>
 <ol>
-<li><strong>Capture</strong>. Think on paper. Get stuff out of your head and into a list.</li>
-<li><strong>Clarify</strong>. Decide whether or not each item on your list is an action, a project, something to delete, defer, or delegate, etc. Check out this <a href="https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf">GTD Workflow Chart</a>.</li>
-<li><strong>Organize</strong>. As you clarify, put things into different “buckets” – Action Lists, Project Lists, Someday/Maybe Lists, Waiting For Lists, Reference Materials, etc.</li>
-<li><strong>Review</strong>. Look at your buckets!! Daily and weekly.</li>
-<li><strong>Engage</strong>. You know, get. stuff. done.</li>
+<li><strong>Capture</strong>: Think on paper. Get stuff out of your head and into a list.</li>
+<li><strong>Clarify</strong>: Decide whether each item is an action, a project, something to delete, defer, or delegate, etc. <a href="https://gettingthingsdone.com/pdfs/tt_workflow_chart.pdf">GTD Workflow Chart</a>.</li>
+<li><strong>Organize</strong>: As you clarify, put things into different “buckets” – Action Lists, Project Lists, Someday/Maybe Lists, Waiting For Lists, Reference Materials, etc.</li>
+<li><strong>Review</strong>: Look at your buckets regularly—daily and weekly.</li>
+<li><strong>Engage</strong>: You know, get stuff done.</li>
 </ol>
-<h1 id="getting-back-on-the-gtd-bandwagon">Getting Back on the GTD Bandwagon</h1>
-<p>Unfortunately, after following GTD for a few years, I “fell off the bandwagon.” I started to get sloppy with my practices of capturing and clarifying my “open loops,” so I started to spend more of my time worrying about what I had to get done that I was forgetting about, instead of reviewing my “Next Action” lists and getting things done, GTD-style.</p>
-<p>So, just this past week, I decided to get back on the GTD bandwagon. I’ve got a Ph.D. dissertation to write and a baby on the way, after all! There’s no time to spend all day worrying about the things I’m forgetting! 🙂</p>
-<hr>
-<h1 id="my-gtd-tools">My GTD Tools</h1>
-<h2 id="todoisthttpssupporttodoistcomhcen-usarticles203799792-getting-things-done-gtd-with-todoist"><a href="https://support.todoist.com/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist">ToDoist</a></h2>
-<p>ToDoist is a fantastic task manager. I use it to keep track of my personal tasks and projects.</p>
-<h2 id="google-calendarhttpscalendargooglecom"><a href="https://calendar.google.com/">Google Calendar</a></h2>
-<p>I use Google Calendar as my…calendar. Pretty straightforward. 🙂</p>
-<h2 id="gmailhttpsmailgooglecom"><a href="https://mail.google.com/">Gmail</a></h2>
-<p>I use Gmail for email communication. In addition to folders created automatically by <a href="https://unroll.me/">Unroll.Me</a> and <a href="https://www.boomeranggmail.com/">Boomerang</a> (two FANTASTIC things to use in conjunction with Gmail), I have three simple folders:</p>
+<h2 id="getting-back-on-the-gtd-bandwagon">Getting Back on the GTD Bandwagon</h2>
+<p>Unfortunately, after following GTD for a few years, I “fell off the bandwagon.” I got sloppy with capturing and clarifying my “open loops,” leading to more time worrying about what I had to do instead of reviewing my &ldquo;Next Action&rdquo; lists and moving forward, GTD-style.</p>
+<p>Just this past week, I decided to get back on the GTD bandwagon. I’ve got a Ph.D. dissertation to write and a baby on the way, after all! There’s no time to spend worrying about things I’m forgetting. 🙂</p>
+<h2 id="my-gtd-tools">My GTD Tools</h2>
+<h3 id="todoisthttpssupporttodoistcomhcen-usarticles203799792-getting-things-done-gtd-with-todoist"><a href="https://support.todoist.com/hc/en-us/articles/203799792-Getting-Things-Done-GTD-with-Todoist">ToDoist</a></h3>
+<p>ToDoist is a fantastic task manager that I use to keep track of my personal tasks and projects.</p>
+<h3 id="google-calendarhttpscalendargooglecom"><a href="https://calendar.google.com/">Google Calendar</a></h3>
+<p>I use Google Calendar for managing my schedule—pretty straightforward. 🙂</p>
+<h3 id="gmailhttpsmailgooglecom"><a href="https://mail.google.com/">Gmail</a></h3>
+<p>For email communication, I use Gmail along with <a href="https://unroll.me/">Unroll.Me</a> and <a href="https://www.boomeranggmail.com/">Boomerang</a>, both of which I highly recommend. I have three simple folders:</p>
 <ul>
-<li>@ACTION_SUPPORT</li>
-<li>@KEEP</li>
-<li>@WAITING_FOR_SUPPORT</li>
+<li><strong>@ACTION_SUPPORT</strong></li>
+<li><strong>@KEEP</strong></li>
+<li><strong>@WAITING_FOR_SUPPORT</strong></li>
 </ul>
-<p>If I receive an email that requires action from me, I place it in the @ACTION_SUPPORT folder and create a task in ToDoist reminding me to do the action.</p>
-<p>If I receive an email that doesn’t contain an action, but that I want to keep for reference purposes, I either click “Archive” in GMail, or I move it to the “@KEEP” folder.</p>
-<p>If I have an email that I can’t take the next action on, but that I’m waiting for someone to take an action before I can move forward, I create a task in ToDoist reminding me to follow up on this, and I move the email to the @WAITING_FOR_SUPPORT folder.</p>
-<h2 id="evernotehttpsevernotecom"><a href="https://evernote.com/">Evernote</a></h2>
-<p>Evernote is basically my second brain and reference file system. Everything from old receipts to class notes is in there.</p>
+<p>When an email requires action, I place it in the <strong>@ACTION_SUPPORT</strong> folder and create a task in ToDoist to remind me. If it&rsquo;s a reference email, I archive it or move it to the <strong>@KEEP</strong> folder. For emails I’m waiting on others to act, I set a follow-up reminder in ToDoist and move it to <strong>@WAITING_FOR_SUPPORT</strong>.</p>
+<h3 id="evernotehttpsevernotecom"><a href="https://evernote.com/">Evernote</a></h3>
+<p>Evernote is my second brain—my reference system for everything from receipts to class notes.</p>
 <h3 id="leuchtturm1917-medium-size-hardcover-a5-notebook--dotted-gridhttpamznto2fg5ccu"><a href="http://amzn.to/2FG5Ccu">Leuchtturm1917 Medium Size Hardcover A5 Notebook – Dotted Grid</a></h3>
-<p>This is my favorite notebook and tool for “capturing” ideas, projects, actions, etc.</p>
-<hr>
-<h1 id="some-good-overviews-of-gtd">Some Good Overviews of GTD</h1>
-<p>The best overview of the GTD system is the aforementioned book, “<a href="http://amzn.to/2FC6IWz">Getting Things Done</a>.”</p>
-<p>However, there are also some very helpful free overviews of the GTD system out there.</p>
+<p>This is my go-to tool for &ldquo;capturing&rdquo; ideas, projects, actions, etc.</p>
+<h2 id="good-overviews-of-gtd">Good Overviews of GTD</h2>
+<p>The best overview is David Allen’s book, &ldquo;<a href="http://amzn.to/2FC6IWz">Getting Things Done</a>,&rdquo; but here are some great free overviews:</p>
 <h3 id="how-to-hack-your-to-do-list">How to Hack Your To-Do List</h3>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/Xduzwk04l2E?start=1&feature=oembed" title="How To Hack Your To-Do List" width="750"></iframe>
-<h3 id="watch-and-listen-to-david-allen-himself-summarize-gtd">Watch and Listen to David Allen Himself Summarize GTD</h3>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/pvjOhLV3V6c?feature=oembed" title="Overview of Getting Things Done | lynda.com" width="750"></iframe>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/Xduzwk04l2E?start=1&feature=oembed" title="How To Hack Your To-Do List" width="750"></iframe>
+<h3 id="watch-and-listen-to-david-allen-summarize-gtd">Watch and Listen to David Allen Summarize GTD</h3>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/pvjOhLV3V6c?feature=oembed" title="Overview of Getting Things Done | lynda.com" width="750"></iframe>
 <h3 id="productivity-101-a-primer-to-the-getting-things-done-gtd-philosophyhttpslifehackercomproductivity-101-a-primer-to-the-getting-things-done-1551880955-lifehacker"><a href="https://lifehacker.com/productivity-101-a-primer-to-the-getting-things-done-1551880955">Productivity 101: A Primer to the Getting Things Done (GTD) Philosophy</a> [LifeHacker]</h3>
-<div class="row"><div class="col-md-8 col-md-offset-2 col-xs-12 text-center">### [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) \[Hamberg.no\]
-<h3 id="getting-things-done-gtd-by-david-allen--animated-book-summary-and-review">Getting Things Done (GTD) by David Allen – Animated Book Summary And Review</h3>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/gCswMsONkwY?feature=oembed" title="Getting Things Done (GTD) by David Allen - Animated Book Summary And Review" width="750"></iframe>
-</div></div># Want to try GTD?
-<p>Again, the best place to start is with the book, “<a href="http://amzn.to/2FC6IWz">Getting Things Done</a>,” by David Allen.</p>
-<p>However, I’m also happy to answer any of your GTD questions! Please ask them in the comments below!</p>
+<h3 id="gtd-in-15-minutes--a-pragmatic-guide-to-getting-things-donehttpshambergnogtd-hambergno"><a href="https://hamberg.no/gtd/">GTD in 15 minutes – A Pragmatic Guide to Getting Things Done</a> [Hamberg.no]</h3>
+<h3 id="getting-things-done-gtd-by-david-allen--animated-book-summary-and-review">Getting Things Done (GTD) by David Allen – Animated Book Summary and Review</h3>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/gCswMsONkwY?feature=oembed" title="Getting Things Done (GTD) by David Allen - Animated Book Summary and Review" width="750"></iframe>
+<h2 id="want-to-try-gtd">Want to Try GTD?</h2>
+<p>The best starting point is David Allen&rsquo;s book, &ldquo;<a href="http://amzn.to/2FC6IWz">Getting Things Done</a>.&rdquo;</p>
+<p>Feel free to ask me any GTD-related questions in the comments below!</p>
 <hr>
-<p>Note: Some links above are <strong>affiliate links</strong>. This means that, if you click on the link and make a purchase, then (at no extra cost to you) I earn a small commission. I only recommend things I think would be useful to my readers!</p>
+<p><em>Note: Some links are <strong>affiliate links</strong>, meaning I earn a small commission (at no extra cost to you) if you click and purchase. I only recommend things I find useful!</em></p>
 ]]></content:encoded>
     </item>
     <item>
