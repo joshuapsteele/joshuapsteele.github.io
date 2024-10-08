@@ -16,7 +16,7 @@ params:
   - blog
   # - pages
   disableThemeToggle: true
-  showShareButtons: true
+  showShareButtons: false
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
