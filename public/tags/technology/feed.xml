@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Technology on Joshua P. Steele</title>
-    <link>https://joshuapsteele.github.io/tags/technology/</link>
+    <link>http://localhost:1313/tags/technology/</link>
     <description>Recent content in Technology on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 25 Jul 2023 21:24:41 +0000</lastBuildDate>
-    <atom:link href="https://joshuapsteele.github.io/tags/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/technology/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title>
-      <link>https://joshuapsteele.github.io/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
+      <link>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
       <pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
+      <guid>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p&gt;
 &lt;p&gt;This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p&gt;</description>
@@ -80,9 +80,9 @@
     </item>
     <item>
       <title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title>
-      <link>https://joshuapsteele.github.io/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
+      <link>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
       <pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate>
-      <guid>https://joshuapsteele.github.io/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
+      <guid>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
       <description>&lt;p&gt;I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p&gt;
 &lt;h2 id=&#34;how-did-you-become-interested-in-software-engineering&#34;&gt;How did you become interested in software engineering?&lt;/h2&gt;
 &lt;p&gt;I wrote a bit about &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;my coding bootcamp journey&lt;/a&gt; in a previous post.&lt;/p&gt;
