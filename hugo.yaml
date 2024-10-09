@@ -1,5 +1,5 @@
-# baseURL: https://joshuapsteele.com
-baseURL: https://joshuapsteele.github.io
+baseURL: https://joshuapsteele.com
+# baseURL: https://joshuapsteele.github.io
 publishDir: public
 languageCode: en-US
 title: Joshua P. Steele
