@@ -5,16 +5,6 @@ categories:
 date: "2022-12-21T21:08:05Z"
 guid: https://joshuapsteele.com/?p=42730
 id: 42730
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"ecbaa7a3575f55ca332a8deeb2153b39";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - software
 - testing
