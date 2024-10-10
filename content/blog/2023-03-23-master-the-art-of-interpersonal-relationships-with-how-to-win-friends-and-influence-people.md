@@ -5,7 +5,8 @@ categories:
 date: "2023-03-23T12:29:48Z"
 guid: https://joshuapsteele.com/?p=42792
 id: 42792
-image: /wp-content/uploads/2023/03/pexels-photo-6146961-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2023/03/pexels-photo-6146961-1568x1045.jpeg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

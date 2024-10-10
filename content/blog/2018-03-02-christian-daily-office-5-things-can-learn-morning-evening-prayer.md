@@ -5,7 +5,8 @@ categories:
 date: "2018-03-02T05:00:31Z"
 guid: https://joshuapsteele.com/?p=41119
 id: 41119
-image: /wp-content/uploads/2018/02/pablo-3-1.png
+cover:
+    image: /wp-content/uploads/2018/02/pablo-3-1.png
 rank_math_canonical_url:
 - http://anglicanpastor.com/christian-do-the-daily-office-5-things-you-can-learn-from-morning-and-evening-prayer/
 rank_math_internal_links_processed:

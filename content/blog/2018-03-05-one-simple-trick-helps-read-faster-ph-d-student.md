@@ -5,7 +5,8 @@ categories:
 date: "2018-03-05T06:00:28Z"
 guid: https://joshuapsteele.com/?p=41127
 id: 41127
-image: /wp-content/uploads/2018/03/brandi-redd-414738-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/03/brandi-redd-414738-unsplash.jpg
 rank_math_description:
 - Click to learn more about the one simple trick I use to read faster as a Ph.D. student.
   It might not sound like the most exciting thing to try, but I guarantee that it

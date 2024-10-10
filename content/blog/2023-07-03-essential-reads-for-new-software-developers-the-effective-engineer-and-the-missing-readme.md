@@ -8,7 +8,8 @@ categories:
 date: "2023-07-03T21:08:09Z"
 guid: https://joshuapsteele.com/?p=42816
 id: 42816
-image: /wp-content/uploads/2023/07/pexels-photo-1181472-1568x1047.jpeg
+cover:
+    image: /wp-content/uploads/2023/07/pexels-photo-1181472-1568x1047.jpeg
 jetpack_seo_html_title:
 - Essential Reads for New Software Developers
 jetpack_seo_noindex:

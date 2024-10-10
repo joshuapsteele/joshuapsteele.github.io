@@ -7,7 +7,8 @@ custom_permalink:
 date: "2017-08-07T07:00:36Z"
 guid: https://joshuapsteele.com/?p=39977
 id: 39977
-image: /wp-content/uploads/2017/08/pablo-4.png
+cover:
+    image: /wp-content/uploads/2017/08/pablo-4.png
 rank_math_description:
 - My attempt to tell my testimony, the story of my Christian faith, in approximately
   500 words. Knowing Jesus is not the same as knowing about him!

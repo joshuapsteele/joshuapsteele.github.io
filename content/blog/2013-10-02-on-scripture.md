@@ -6,7 +6,8 @@ categories:
 date: "2013-10-02T13:01:12Z"
 guid: https://joshuapsteele.com/?p=2868
 id: 2868
-image: /wp-content/uploads/2013/10/pablo-6.png
+cover:
+    image: /wp-content/uploads/2013/10/pablo-6.png
 publicize_facebook_url:
 - https://facebook.com/759340315_10153259108265316
 - https://facebook.com/759340315_10153259108265316

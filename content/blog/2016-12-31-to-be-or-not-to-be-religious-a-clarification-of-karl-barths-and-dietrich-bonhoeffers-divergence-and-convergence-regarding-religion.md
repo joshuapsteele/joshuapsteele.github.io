@@ -5,7 +5,8 @@ categories:
 date: "2016-12-31T18:15:34Z"
 guid: https://joshuapsteele.com/?p=4042
 id: 4042
-image: /wp-content/uploads/2016/12/pablo-6.png
+cover:
+    image: /wp-content/uploads/2016/12/pablo-6.png
 tags:
 - Barth
 - Bonhoeffer

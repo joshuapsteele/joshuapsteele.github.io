@@ -6,7 +6,8 @@ categories:
 date: "2017-12-09T15:22:06Z"
 guid: https://joshuapsteele.com/?p=40055
 id: 40055
-image: /wp-content/uploads/2017/12/paul-skorupskas-59950-1200x800.jpg
+cover:
+    image: /wp-content/uploads/2017/12/paul-skorupskas-59950-1200x800.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

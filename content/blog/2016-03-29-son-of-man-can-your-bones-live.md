@@ -6,7 +6,8 @@ categories:
 date: "2016-03-29T22:07:45Z"
 guid: https://joshuapsteele.com/?p=3716
 id: 3716
-image: /wp-content/uploads/2016/03/pablo-4.png
+cover:
+    image: /wp-content/uploads/2016/03/pablo-4.png
 publicize_twitter_user:
 - joshuapsteele
 - joshuapsteele

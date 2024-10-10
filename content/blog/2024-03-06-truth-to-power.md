@@ -7,8 +7,6 @@ categories:
 date: "2024-03-06T12:06:43Z"
 guid: https://joshuapsteele.com/?p=42937
 id: 42937
-rank_math_internal_links_processed:
-- "1"
 tags:
 - drafts
 title: Truth to Power

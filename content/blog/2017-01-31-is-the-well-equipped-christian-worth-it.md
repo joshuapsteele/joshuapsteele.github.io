@@ -5,7 +5,8 @@ categories:
 date: "2017-01-31T23:13:18Z"
 guid: https://joshuapsteele.com/?p=4198
 id: 4198
-image: /wp-content/uploads/2017/01/pablo-13.png
+cover:
+    image: /wp-content/uploads/2017/01/pablo-13.png
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

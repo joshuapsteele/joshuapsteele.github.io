@@ -8,7 +8,8 @@ enclosure:
 - "https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3\r\n14392340\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=4235
 id: 4235
-image: /wp-content/uploads/2017/04/pablo-1.png
+cover:
+    image: /wp-content/uploads/2017/04/pablo-1.png
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

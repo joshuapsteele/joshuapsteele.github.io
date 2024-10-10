@@ -6,7 +6,8 @@ categories:
 date: "2023-06-09T12:17:21Z"
 guid: https://joshuapsteele.com/?p=42801
 id: 42801
-image: /wp-content/uploads/2023/06/v2osk-UlREpSirjsc-unsplash-1568x1046.jpg
+cover:
+    image: /wp-content/uploads/2023/06/v2osk-UlREpSirjsc-unsplash-1568x1046.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

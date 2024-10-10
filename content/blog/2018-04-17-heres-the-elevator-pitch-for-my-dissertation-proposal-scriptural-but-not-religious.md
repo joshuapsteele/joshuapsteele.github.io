@@ -5,7 +5,8 @@ categories:
 date: "2018-04-17T21:30:36Z"
 guid: https://joshuapsteele.com/?p=41208
 id: 41208
-image: /wp-content/uploads/2018/04/pablo-1.png
+cover:
+    image: /wp-content/uploads/2018/04/pablo-1.png
 tags:
 - Barth
 - Bible

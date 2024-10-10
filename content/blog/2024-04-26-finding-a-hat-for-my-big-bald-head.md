@@ -7,7 +7,8 @@ categories:
 date: "2024-04-26T12:48:48Z"
 guid: https://joshuapsteele.com/?p=42976
 id: 42976
-image: /wp-content/uploads/2024/04/pexels-photo-396777-1568x1176.jpeg
+cover:
+    image: /wp-content/uploads/2024/04/pexels-photo-396777-1568x1176.jpeg
 rank_math_internal_links_processed:
 - "1"
 rank_math_seo_score:

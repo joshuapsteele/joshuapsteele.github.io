@@ -6,7 +6,8 @@ categories:
 date: "2018-02-28T12:51:21Z"
 guid: https://joshuapsteele.com/?p=41110
 id: 41110
-image: /wp-content/uploads/2018/02/tim-bish-171738-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/02/tim-bish-171738-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

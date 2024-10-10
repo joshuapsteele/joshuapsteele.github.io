@@ -5,7 +5,8 @@ categories:
 date: "2020-06-07T13:02:06Z"
 guid: https://joshuapsteele.com/?p=42308
 id: 42308
-image: /wp-content/uploads/2020/06/img_0397-1200x786.jpg
+cover:
+    image: /wp-content/uploads/2020/06/img_0397-1200x786.jpg
 mf2_syndication:
 - a:0:{}
 rank_math_internal_links_processed:

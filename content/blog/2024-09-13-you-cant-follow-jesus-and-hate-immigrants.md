@@ -8,7 +8,8 @@ categories:
 date: "2024-09-13T16:19:56Z"
 guid: https://joshuapsteele.com/?p=43053
 id: 43053
-image: /wp-content/uploads/2024/09/greg-bulla-6RD0mcpY8f8-unsplash-1568x1023.jpg
+cover:
+    image: /wp-content/uploads/2024/09/greg-bulla-6RD0mcpY8f8-unsplash-1568x1023.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_seo_score:

@@ -7,11 +7,8 @@ categories:
 date: "2024-07-14T16:26:44Z"
 guid: https://joshuapsteele.com/?p=43025
 id: 43025
-image: /wp-content/uploads/2024/07/pexels-photo-3990359-1568x1045.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "12"
+cover:
+    image: /wp-content/uploads/2024/07/pexels-photo-3990359-1568x1045.jpeg
 tags:
 - drafts
 - home improvement

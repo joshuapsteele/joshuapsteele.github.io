@@ -5,7 +5,8 @@ categories:
 date: "2018-02-28T17:06:33Z"
 guid: https://joshuapsteele.com/?p=41115
 id: 41115
-image: /wp-content/uploads/2018/02/andre-hunter-350301-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/02/andre-hunter-350301-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

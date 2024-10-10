@@ -8,7 +8,8 @@ geo_public:
 - "0"
 guid: https://windowinthesky.wordpress.com/2015/05/07/what-does-it-mean-to-be-human/
 id: 3322
-image: /wp-content/uploads/2015/05/pablo-5.png
+cover:
+    image: /wp-content/uploads/2015/05/pablo-5.png
 publicize_facebook_url:
 - https://facebook.com/
 - https://facebook.com/

@@ -7,7 +7,8 @@ categories:
 date: "2024-03-07T21:24:37Z"
 guid: https://joshuapsteele.com/?p=42939
 id: 42939
-image: /wp-content/uploads/2024/03/saddle-horse-cowboy-western-53136-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2024/03/saddle-horse-cowboy-western-53136-1568x1045.jpeg
 rank_math_internal_links_processed:
 - "1"
 rank_math_seo_score:

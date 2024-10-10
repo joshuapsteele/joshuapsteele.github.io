@@ -8,7 +8,8 @@ custom_permalink:
 date: "2016-09-24T01:00:30Z"
 guid: https://joshuapsteele.com/?p=3939
 id: 3939
-image: /wp-content/uploads/2016/09/pablo.png
+cover:
+    image: /wp-content/uploads/2016/09/pablo.png
 rank_math_description:
 - 'Here''s my claim regarding wealth: American Christians should reduce their standards
   of living and give their excess resources to the poor and oppressed.'

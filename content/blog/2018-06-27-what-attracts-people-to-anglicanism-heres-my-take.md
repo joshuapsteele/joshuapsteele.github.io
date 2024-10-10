@@ -6,7 +6,8 @@ categories:
 date: "2018-06-27T21:02:31Z"
 guid: https://joshuapsteele.com/?p=41285
 id: 41285
-image: /wp-content/uploads/2018/06/joseph-pearson-411286-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/06/joseph-pearson-411286-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

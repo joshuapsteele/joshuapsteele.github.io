@@ -9,7 +9,8 @@ categories:
 date: "2024-09-09T14:03:42Z"
 guid: https://joshuapsteele.com/?p=42964
 id: 42964
-image: /wp-content/uploads/2024/09/pexels-photo-1202723-1568x1016.jpeg
+cover:
+    image: /wp-content/uploads/2024/09/pexels-photo-1202723-1568x1016.jpeg
 rank_math_internal_links_processed:
 - "1"
 rank_math_seo_score:

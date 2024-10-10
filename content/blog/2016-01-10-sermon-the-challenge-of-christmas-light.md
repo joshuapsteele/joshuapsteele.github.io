@@ -79,7 +79,8 @@ enclosure:
   audio/mpeg
 guid: https://joshuapsteele.com/?p=3536
 id: 3536
-image: /wp-content/uploads/2016/01/st20john005-1200x1685.jpg
+cover:
+    image: /wp-content/uploads/2016/01/st20john005-1200x1685.jpg
 publicize_twitter_user:
 - joshuapsteele
 - joshuapsteele

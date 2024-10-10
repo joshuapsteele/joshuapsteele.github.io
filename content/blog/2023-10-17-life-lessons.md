@@ -8,7 +8,8 @@ footnotes:
 - ""
 guid: https://joshuapsteele.com/?p=42871
 id: 42871
-image: /wp-content/uploads/2023/10/pexels-photo-15760058-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2023/10/pexels-photo-15760058-1568x1045.jpeg
 title: "Life Lessons: 32 Things I've Learned So Far"
 url: /life-lessons/
 ---

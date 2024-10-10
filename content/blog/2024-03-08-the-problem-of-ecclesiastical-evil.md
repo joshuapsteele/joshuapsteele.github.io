@@ -7,10 +7,6 @@ categories:
 date: "2024-03-08T12:26:14Z"
 guid: https://joshuapsteele.com/?p=42943
 id: 42943
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "16"
 tags:
 - drafts
 title: The Problem of Ecclesiastical Evil

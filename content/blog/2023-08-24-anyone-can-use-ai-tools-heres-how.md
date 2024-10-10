@@ -7,7 +7,8 @@ footnotes:
 - ""
 guid: https://joshuapsteele.com/?p=42845
 id: 42845
-image: /wp-content/uploads/2023/08/pexels-photo-4491443-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2023/08/pexels-photo-4491443-1568x1045.jpeg
 tags:
 - ai
 title: "Anyone Can Use AI Tools: Here's How"

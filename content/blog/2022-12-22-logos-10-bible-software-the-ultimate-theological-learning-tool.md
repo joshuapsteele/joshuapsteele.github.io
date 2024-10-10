@@ -8,7 +8,8 @@ categories:
 date: "2022-12-22T13:46:21Z"
 guid: https://joshuapsteele.com/?p=42736
 id: 42736
-image: /wp-content/uploads/2022/12/Logos-10-Partner-Overview.jpg
+cover:
+    image: /wp-content/uploads/2022/12/Logos-10-Partner-Overview.jpg
 tags:
 - logos
 - software

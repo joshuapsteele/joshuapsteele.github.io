@@ -5,7 +5,8 @@ categories:
 date: "2018-06-08T16:09:30Z"
 guid: https://joshuapsteele.com/?p=41253
 id: 41253
-image: /wp-content/uploads/2018/06/151019-M-ZM882-228.jpg
+cover:
+    image: /wp-content/uploads/2018/06/151019-M-ZM882-228.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

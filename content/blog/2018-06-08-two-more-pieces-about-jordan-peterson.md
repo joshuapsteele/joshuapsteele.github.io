@@ -7,7 +7,8 @@ categories:
 date: "2018-06-08T19:08:55Z"
 guid: https://joshuapsteele.com/?p=41274
 id: 41274
-image: /wp-content/uploads/2018/06/Peterson_Lecture_33522701146.png
+cover:
+    image: /wp-content/uploads/2018/06/Peterson_Lecture_33522701146.png
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

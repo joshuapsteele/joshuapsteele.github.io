@@ -9,7 +9,8 @@ categories:
 date: "2023-02-03T17:42:02Z"
 guid: https://joshuapsteele.com/?p=42760
 id: 42760
-image: /wp-content/uploads/2023/02/pexels-photo-2312369-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2023/02/pexels-photo-2312369-1568x1045.jpeg
 jetpack_seo_html_title:
 - 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 jetpack_seo_noindex:

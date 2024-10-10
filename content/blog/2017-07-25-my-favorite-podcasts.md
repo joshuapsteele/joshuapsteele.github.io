@@ -7,7 +7,8 @@ custom_permalink:
 date: "2017-07-25T15:46:34Z"
 guid: https://joshuapsteele.com/?p=39778
 id: 39778
-image: /wp-content/uploads/2017/07/pablo-2.png
+cover:
+    image: /wp-content/uploads/2017/07/pablo-2.png
 rank_math_description:
 - This is a list of my current favorite podcasts. Whether you listen to podcasts through
   Apple Podcasts, Stitcher, or Overcast, they're a great way to learn!

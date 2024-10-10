@@ -8,7 +8,8 @@ custom_permalink:
 date: "2012-05-03T14:02:32Z"
 guid: http://windowinthesky.wordpress.com/?p=1344
 id: 1344
-image: /wp-content/uploads/2012/05/pablo-3.png
+cover:
+    image: /wp-content/uploads/2012/05/pablo-3.png
 rank_math_description:
 - This is an attempt, written in 2012, to distill and paraphrase the main message,
   argument, logic, etc. of St. Paul's Epistle to the Romans.

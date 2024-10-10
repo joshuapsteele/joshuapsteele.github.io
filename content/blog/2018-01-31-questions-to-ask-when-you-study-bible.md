@@ -7,7 +7,8 @@ footnotes:
 - ""
 guid: https://joshuapsteele.com/?p=40995
 id: 40995
-image: /wp-content/uploads/2018/01/rod-long-425679.jpg
+cover:
+    image: /wp-content/uploads/2018/01/rod-long-425679.jpg
 rank_math_description:
 - Have you ever felt overwhelmed when reading and studying the Bible? These 3 simple
   questions can help structure your personal or group Bible study. Plus, they work

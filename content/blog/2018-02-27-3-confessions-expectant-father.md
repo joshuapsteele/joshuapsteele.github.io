@@ -5,7 +5,8 @@ categories:
 date: "2018-02-27T12:29:34Z"
 guid: https://joshuapsteele.com/?p=41078
 id: 41078
-image: /wp-content/uploads/2018/02/aditya-romansa-117344-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/02/aditya-romansa-117344-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

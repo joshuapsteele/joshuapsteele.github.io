@@ -2,7 +2,8 @@
 author: joshuapsteele
 cover:
   alt: pexels-photo-3930091
-  image: /wp-content/uploads/2018/01/pexels-photo-3930091.jpeg
+  cover:
+    image: /wp-content/uploads/2018/01/pexels-photo-3930091.jpeg
 date: "2018-01-27T01:56:48+00:00"
 guid: https://joshuapsteele.com/?page_id=40911
 title: Recommended Tools and Resources

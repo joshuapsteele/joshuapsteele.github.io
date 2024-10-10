@@ -7,7 +7,8 @@ custom_permalink:
 date: "2020-09-04T13:57:32Z"
 guid: https://joshuapsteele.com/?p=42390
 id: 42390
-image: /wp-content/uploads/2020/09/scott-graham-OQMZwNd3ThU-unsplash-1200x801.jpg
+cover:
+    image: /wp-content/uploads/2020/09/scott-graham-OQMZwNd3ThU-unsplash-1200x801.jpg
 mf2_syndication:
 - a:0:{}
 rank_math_internal_links_processed:

@@ -5,7 +5,8 @@ categories:
 date: "2018-03-01T05:00:03Z"
 guid: https://joshuapsteele.com/?p=41122
 id: 41122
-image: /wp-content/uploads/2018/02/pablo-1-1.png
+cover:
+    image: /wp-content/uploads/2018/02/pablo-1-1.png
 rank_math_canonical_url:
 - http://anglicanpastor.com/top-3-reasons-why-im-an-anglican-christian/
 rank_math_internal_links_processed:

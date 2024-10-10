@@ -6,7 +6,8 @@ categories:
 date: "2016-09-12T22:34:54Z"
 guid: https://joshuapsteele.com/?p=3932
 id: 3932
-image: /wp-content/uploads/2016/09/pablo-5.png
+cover:
+    image: /wp-content/uploads/2016/09/pablo-5.png
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

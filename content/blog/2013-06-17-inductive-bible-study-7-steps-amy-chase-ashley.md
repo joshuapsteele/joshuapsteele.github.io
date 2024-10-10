@@ -6,7 +6,8 @@ categories:
 date: "2013-06-17T00:34:27Z"
 guid: https://joshuapsteele.com/?p=2725
 id: 2725
-image: /wp-content/uploads/2013/06/ben-white-197680.jpg
+cover:
+    image: /wp-content/uploads/2013/06/ben-white-197680.jpg
 rank_math_description:
 - Want to learn how to study the Bible on your own? You need to learn the basics of
   what's called "inductive Bible study." Amy Chase Ashley has a 7 step process that

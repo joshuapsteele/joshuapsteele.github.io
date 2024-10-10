@@ -5,7 +5,8 @@ categories:
 date: "2018-01-31T03:59:33Z"
 guid: https://joshuapsteele.com/?p=40991
 id: 40991
-image: /wp-content/uploads/2018/01/chris-lawton-236416.jpg
+cover:
+    image: /wp-content/uploads/2018/01/chris-lawton-236416.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

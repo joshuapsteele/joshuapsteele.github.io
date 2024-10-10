@@ -5,7 +5,8 @@ categories:
 date: "2018-01-30T12:48:49Z"
 guid: https://joshuapsteele.com/?p=40963
 id: 40963
-image: /wp-content/uploads/2018/01/lindsay-henwood-47743.jpg
+cover:
+    image: /wp-content/uploads/2018/01/lindsay-henwood-47743.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

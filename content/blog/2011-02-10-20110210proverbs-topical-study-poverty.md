@@ -8,7 +8,8 @@ custom_permalink:
 date: "2011-02-10T23:44:16Z"
 guid: http://windowinthesky.wordpress.com/?p=1041
 id: 1041
-image: /wp-content/uploads/2011/02/pablo-2.png
+cover:
+    image: /wp-content/uploads/2011/02/pablo-2.png
 rank_math_description:
 - This is a topical study on what the book of Proverbs has to say about poverty, including
   some application from the Bible to present-day poverty.

@@ -8,7 +8,8 @@ custom_permalink:
 date: "2018-03-12T21:36:16Z"
 guid: https://joshuapsteele.com/?p=41151
 id: 41151
-image: /wp-content/uploads/2018/03/matty-adame-261105-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/03/matty-adame-261105-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

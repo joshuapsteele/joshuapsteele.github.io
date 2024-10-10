@@ -5,7 +5,8 @@ categories:
 date: "2023-03-16T17:37:01Z"
 guid: https://joshuapsteele.com/?p=42784
 id: 42784
-image: /wp-content/uploads/2023/03/penguin-funny-blue-water-86405-1568x1045.jpeg
+cover:
+    image: /wp-content/uploads/2023/03/penguin-funny-blue-water-86405-1568x1045.jpeg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

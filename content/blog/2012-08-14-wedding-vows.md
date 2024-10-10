@@ -5,7 +5,8 @@ categories:
 date: "2012-08-14T20:20:39Z"
 guid: http://windowinthesky.wordpress.com/?p=1412
 id: 1412
-image: /wp-content/uploads/2012/08/pablo-7.png
+cover:
+    image: /wp-content/uploads/2012/08/pablo-7.png
 rank_math_description:
 - The traditional marriage vows come from the Book of Common Prayer. When I got married
   in 2012, I wrote my own vows based on the traditional version.

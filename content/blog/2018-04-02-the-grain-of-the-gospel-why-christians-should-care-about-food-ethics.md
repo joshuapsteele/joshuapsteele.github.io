@@ -5,7 +5,8 @@ categories:
 date: "2018-04-02T06:00:45Z"
 guid: https://joshuapsteele.com/?p=41199
 id: 41199
-image: /wp-content/uploads/2018/04/lukas-blazek-261682-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/04/lukas-blazek-261682-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

@@ -7,7 +7,8 @@ custom_permalink:
 date: "2015-12-08T11:45:35Z"
 guid: https://joshuapsteele.com/?p=3504
 id: 3504
-image: /wp-content/uploads/2015/12/pablo-5-1.png
+cover:
+    image: /wp-content/uploads/2015/12/pablo-5-1.png
 publicize_twitter_user:
 - joshuapsteele
 - joshuapsteele

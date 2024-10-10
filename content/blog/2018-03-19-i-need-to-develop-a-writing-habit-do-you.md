@@ -5,7 +5,8 @@ categories:
 date: "2018-03-19T14:33:39Z"
 guid: https://joshuapsteele.com/?p=41164
 id: 41164
-image: /wp-content/uploads/2018/03/technology-3230663_1920.jpg
+cover:
+    image: /wp-content/uploads/2018/03/technology-3230663_1920.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

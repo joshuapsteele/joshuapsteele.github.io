@@ -21,7 +21,8 @@ excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the
   of the Holy Innocents in this 2014 sermon.
 guid: https://windowinthesky.wordpress.com/2015/04/24/the-hope-of-the-holy-innocents/
 id: 3310
-image: /wp-content/uploads/2015/04/0_Le_Massacre_des_Innocents_daprès_P.P._Rubens_-_Musées_royaux_des_beaux-arts_de_Belgique_2-1200x891.jpg
+cover:
+    image: /wp-content/uploads/2015/04/0_Le_Massacre_des_Innocents_daprès_P.P._Rubens_-_Musées_royaux_des_beaux-arts_de_Belgique_2-1200x891.jpg
 mf2_syndication:
 - a:0:{}
 publicize_facebook_url:

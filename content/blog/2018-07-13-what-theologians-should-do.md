@@ -5,7 +5,8 @@ categories:
 date: "2018-07-13T14:36:54Z"
 guid: https://joshuapsteele.com/?p=41303
 id: 41303
-image: /wp-content/uploads/2018/07/john-towner-126000-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/07/john-towner-126000-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

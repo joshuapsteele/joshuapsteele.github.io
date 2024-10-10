@@ -6,7 +6,8 @@ categories:
 date: "2016-03-11T20:56:19Z"
 guid: https://joshuapsteele.com/?p=3580
 id: 3580
-image: /wp-content/uploads/2016/03/hqdefault.jpg
+cover:
+    image: /wp-content/uploads/2016/03/hqdefault.jpg
 publicize_twitter_user:
 - joshuapsteele
 - joshuapsteele

@@ -8,7 +8,8 @@ enclosure:
 - "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3\r\n19491761\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=4174
 id: 4174
-image: /wp-content/uploads/2017/01/pablo-12.png
+cover:
+    image: /wp-content/uploads/2017/01/pablo-12.png
 title: "Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently Pro-Life Ethic"
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---

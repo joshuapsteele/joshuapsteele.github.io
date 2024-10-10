@@ -5,7 +5,8 @@ categories:
 date: "2018-08-09T15:56:09Z"
 guid: https://joshuapsteele.com/?p=41336
 id: 41336
-image: /wp-content/uploads/2018/08/IMG_0100.jpg
+cover:
+    image: /wp-content/uploads/2018/08/IMG_0100.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

@@ -7,7 +7,8 @@ categories:
 date: "2024-09-16T16:09:39Z"
 guid: https://joshuapsteele.com/?p=43059
 id: 43059
-image: /wp-content/uploads/2024/09/58074_W7.jpg
+cover:
+    image: /wp-content/uploads/2024/09/58074_W7.jpg
 tags:
 - edc
 - reviews

@@ -8,7 +8,8 @@ enclosure:
 - "https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3\r\n15871511\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=39721
 id: 39721
-image: /wp-content/uploads/2017/06/pablo-5.png
+cover:
+    image: /wp-content/uploads/2017/06/pablo-5.png
 rank_math_description:
 - An Ascension Day sermon about how the Ascension both completes the gospel and compels
   the Christian Church in its mission here on earth. Click to hear/read this "It is

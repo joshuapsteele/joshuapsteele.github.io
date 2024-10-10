@@ -6,7 +6,8 @@ categories:
 date: "2018-02-02T09:15:24Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/a-prayer-before-study-2/
 id: 3303
-image: /wp-content/uploads/2015/04/pablo-1.png
+cover:
+    image: /wp-content/uploads/2015/04/pablo-1.png
 mf2_syndication:
 - a:0:{}
 publicize_facebook_url:

@@ -6,7 +6,8 @@ categories:
 date: "2018-03-20T18:15:22Z"
 guid: https://joshuapsteele.com/?p=41170
 id: 41170
-image: /wp-content/uploads/2018/03/charlotte-188983-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/03/charlotte-188983-unsplash.jpg
 title: "Please Don't Leave Me Alone: On Male Friendships, or the Lack Thereof"
 total_sidebar_layout:
 - right_sidebar

@@ -5,7 +5,8 @@ categories:
 date: "2018-02-25T15:06:44Z"
 guid: https://joshuapsteele.com/?p=41075
 id: 41075
-image: /wp-content/uploads/2018/02/sofiya-levchenko-309396-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/02/sofiya-levchenko-309396-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:

@@ -5,7 +5,8 @@ categories:
 date: "2015-12-08T11:53:24Z"
 guid: https://joshuapsteele.com/?p=3516
 id: 3516
-image: /wp-content/uploads/2015/12/pablo-5.png
+cover:
+    image: /wp-content/uploads/2015/12/pablo-5.png
 publicize_twitter_user:
 - joshuapsteele
 - joshuapsteele

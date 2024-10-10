@@ -5,7 +5,8 @@ categories:
 date: "2018-06-08T18:39:38Z"
 guid: https://joshuapsteele.com/?p=41270
 id: 41270
-image: /wp-content/uploads/2018/06/david-pisnoy-562428-unsplash.jpg
+cover:
+    image: /wp-content/uploads/2018/06/david-pisnoy-562428-unsplash.jpg
 rank_math_internal_links_processed:
 - "1"
 rank_math_news_sitemap_robots:
