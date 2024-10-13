@@ -3,32 +3,13 @@ author: joshuapsteele
 categories:
 - Church and Theology
 - The Christian Life
-custom_permalink:
-- christians-and-wealth-2/
 date: "2016-09-24T01:00:30Z"
 guid: https://joshuapsteele.com/?p=3939
 id: 3939
 cover:
     image: /wp-content/uploads/2016/09/pablo.png
-rank_math_description:
-- 'Here''s my claim regarding wealth: American Christians should reduce their standards
-  of living and give their excess resources to the poor and oppressed.'
-rank_math_focus_keyword:
-- wealth
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "73"
-rank_math_title:
-- 'Wealth and Christians: An Argument for Downward Mobility'
 title: 'Christians and Wealth: An Argument for Downward Mobility'
-url: /christians-and-wealth-2/
+url: /christians-and-wealth/
 ---
 
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:
