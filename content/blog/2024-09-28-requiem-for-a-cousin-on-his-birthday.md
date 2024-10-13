@@ -75,8 +75,10 @@ My consolation as I mourn yet another death is that I believe, in spite of all t
 
 Meditating on the untimely death of his son (also named Eric), and on the risen Christ's invitation to St. Thomas to put his hands into his wounds, Nicholas Wolterstorff writes:
 
-> To believe in Christ's rising from the grave is to accept it as a sign of our own rising from our graves. If for each of us it was our destiny to be obliterated, and for all of us together it was our destiny to fade away without a trace, then not Christ's rising but my dear son's early dying would be the logo of our fate. 
-> [...] To believe in Christ's rising and death's dying is also to live with the power and the challenge to rise up now from all our dark graves of suffering love. If sympathy for the world's wounds is not enlarged by our anguish, if love for those around us is not expanded, if gratitude for what is good does not flame up, if insight is not deepened, if commitment to what is important is not strengthened, if aching for a new day is not intensified, if hope is weakened and faith diminished, if from the experience of death there comes nothing good, then death has won. Then death, be proud.
+> To believe in Christ's rising from the grave is to accept it as a sign of our own rising from our graves. If for each of us it was our destiny to be obliterated, and for all of us together it was our destiny to fade away without a trace, then not Christ's rising but my dear son's early dying would be the logo of our fate.  
+>  
+> [...] To believe in Christ's rising and death's dying is also to live with the power and the challenge to rise up now from all our dark graves of suffering love. If sympathy for the world's wounds is not enlarged by our anguish, if love for those around us is not expanded, if gratitude for what is good does not flame up, if insight is not deepened, if commitment to what is important is not strengthened, if aching for a new day is not intensified, if hope is weakened and faith diminished, if from the experience of death there comes nothing good, then death has won. Then death, be proud.  
+>  
 > So I shall struggle to live the reality of Christ's dying and death's dying. In my living, my son's dying will not be the last word. But as I rise up, I bear the wounds of his death. My rising does not remove them. They mark me. If you want to know who I am, put your hand in.  
 > (Lament for a Son, 92). 
 
