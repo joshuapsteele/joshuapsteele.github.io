@@ -44,7 +44,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
   homeInfoParams:
     enabled: false
-    title: "Joshua P. Steele" # optional default will be site title
+    title: "The Rev. Dev." # optional default will be site title
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # move this from profileMode
     imageTitle: "Joshua P. Steele"
@@ -61,7 +61,7 @@ params:
         url: "/tags/"
   profileMode:
     enabled: true
-    title: "Joshua P. Steele" # optional default will be site title
+    title: "The Rev. Dev. Joshua P. Steele"
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
