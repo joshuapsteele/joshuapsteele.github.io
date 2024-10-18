@@ -27,12 +27,12 @@
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
         <img src="/RevDev Logo Version 4_White.png" alt="Rev Dev logo" title="Rev Dev logo"
-            width="300" style="border-radius: 0%;" />
+            width="300" style="border-radius: 0%; margin-left: 2.5%; margin-bottom: 12px" />
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
         {{- end }}
-        
+
         <h1>{{ .title | default site.Title | markdownify }}</h1>
         <span>{{ .subtitle | markdownify }}</span>
         {{- partial "social_icons.html" -}}
