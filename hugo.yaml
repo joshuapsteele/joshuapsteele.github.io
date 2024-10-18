@@ -61,7 +61,7 @@ params:
         url: "/tags/"
   profileMode:
     enabled: true
-    title: "The Rev. Dev. Joshua P. Steele"
+    title: "The Rev. Dev."
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
@@ -81,10 +81,10 @@ params:
       url: "https://github.com/joshuapsteele/"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: microblog
-      url: "https://social.joshuapsteele.com"
     - name: "omglol"
       url: "https://steele.omg.lol"
+    - name: microblog
+      url: "https://social.joshuapsteele.com"
 markup:
   highlight:
     codeFences: true
