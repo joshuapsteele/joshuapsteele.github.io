@@ -6,4 +6,4 @@ title: Contact
 url: /contact/
 
 ---
-You can email me at "joshuapsteele" at the domain of my personal website!
+You can email me at "joshua", followed by the "at" symbol, followed by the domain of my main personal website!

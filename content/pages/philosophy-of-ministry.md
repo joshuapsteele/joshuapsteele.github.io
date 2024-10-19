@@ -6,6 +6,10 @@ title: Philosophy of Ministry
 url: /portfolio/philosophy-of-ministry/
 
 ---
+*(Note: Since writing this "philosophy of ministry", I have since [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/). I now work full-time as a software engineer, and am trying to discern what my Christian "vocation" looks like, going forward. Nevertheless, I will leave what I've written below for posterity.)*
+
+***
+
 Every Christian is a theologian.
 
 I consider it my life's work to help "everyday Christians" grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God's redemptive work in the world. In biblical terms, I'm called to "equip the saints for the work of ministry" and to "build up the body of Christ" (Eph. 4:12).
@@ -30,5 +34,3 @@ But, of course, I can’t accomplish any of this on my own. I need to “pray ea
 Such is the ministry of Word and Sacrament to which I have been called and ordained within Christ’s Church.
 
 At the end of the day, as a pastor, I am not a CEO, guru, or celebrity speaker. Instead, I am an under-shepherd, with delegated authority from the Good Shepherd to feed and equip his flock to do the work he has called us all to do.
-
-* * *
