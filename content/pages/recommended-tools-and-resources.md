@@ -12,14 +12,16 @@ url: /resources/
 ---
 A "tool" is "anything that can make your life better." I love tools, whether physical or digital. And I love books, because they're some of the best tools out there!
 
-## Lifestyle Tools
+## Home
 
 - Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
 - Coffee Grinder: [Capresso Infinity Conical Burr Grinder](https://amzn.to/3EfZnN3)
 - Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&dib_tag=se&hvadid=570597068294&hvdev=c&hvlocphy=9015124&hvnetw=g&hvqmt=e&hvrand=2727167960365447975&hvtargid=kwd-1094615620699&hydadcr=19109_13375463&keywords=owala+24+oz&qid=1719953416&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&language=en_US&ref_=as_li_ss_tl)
   - Previous: [Iron Flask, 64oz](https://amzn.to/3tkbBOl)
+- Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?&linkCode=ll1&tag=joshuapsteele-20&linkId=78c66778226bc3838f43d50a3d0d6ac9&language=en_US&ref_=as_li_ss_tl)
+- Cleaning Wipes: [Tub O' Towels Heavy Duty Cleaning Wipes](https://www.amazon.com/dp/B00022W4ZU?&linkCode=ll1&tag=joshuapsteele-20&linkId=45617e28ba4dd2c7dea9084447edab7c&language=en_US&ref_=as_li_ss_tl)
 
-## Fitness Tools
+## Health/Fitness
 
 - Squat Rack: [REP Fitness PR-1100 Power Rack](https://repfitness.com/products/pr-1100-power-rack?variant=41268793835678&currency=USD&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gbraid=0AAAAADGahfSVB3Fm46rsTlYrlFDFoYvQW&gclid=CjwKCAjwyo60BhBiEiwAHmVLJeL6t8gJJ4FwALzzSBjuRmv7mkM5U42NnxtUn2mHjYaA7pHiw55FpRoCy_sQAvD_BwE)
   - Previous: [Valor Fitness BD–9 Squat Stands](https://amzn.to/3UCxeVS)
@@ -27,19 +29,34 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - Barbell and Weights: [Fitness Gear 300lb. Olympic Weight Set](https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb)
 - Kettlebell(s): [CAP Barbell Cast Iron Kettlebells](https://amzn.to/3EfZhFb)
 - Steel Mace(s): [Retrospec Steel Macebells](https://amzn.to/3JcIXXN)
+- [_Starting Strength: Basic Barbell Training_](https://amzn.to/3fLhgdt), by Mark Rippetoe
+- [_Kettlebell Simple & Sinister: Revised and Updated Edition_](https://amzn.to/3fSoU5O), by Pavel Tsatsouline
+- Darebee: [https://darebee.com/](https://darebee.com/)
 
-## Work Tools (Software Engineer)
+## Office
 
 - Computer: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
-- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
-- Task Management: Apple Reminders (used to use [Todoist](https://todoist.com/)) and Jira
 - Notebook: [Leuchtturm1917 Medium Size Hardcover A5 Notebook - Dotted Pages](http://amzn.to/2tvaejo)
+  - Pocket Notebook: [Field Notes](https://www.amazon.com/dp/B071Y41YY3?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=abb7ce32fcb4b3209937dd5e358b191b&language=en_US&ref_=as_li_ss_tl)
 - Pen: [Uni-ball Power Tank 0.7mm, Blue or Black](https://amzn.to/3DROD6d)
 - Password Manager: [1Password](https://1password.com/)
 - Notes / Personal Knowledge Management: [Obsidian](https://obsidian.md/)
-- See "Software Development Resources" below!
+- Task Management: Apple Reminders (used to use [Todoist](https://todoist.com/)) and Jira
 
-## Work Tools (Homeowner, DIY)
+## Software Development
+
+- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
+- [_The Pragmatic Programmer: Your Journey to Mastery_](https://amzn.to/3FZSYXO), by David Thomas and Andrew Hunt
+- [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF), by Steve McConnell
+- Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
+- O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
+- roadmap.sh: [https://roadmap.sh/](https://roadmap.sh/)
+- cheat.sh: [https://cheat.sh/](https://cheat.sh/)
+- DevHints.io: [https://devhints.io/](https://devhints.io/)
+- Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+- Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
+
+## DIY/Repair Tools
 
 - Toolbox: [Milwaukee 13in Jobsite Work Tool Box](https://www.homedepot.com/p/Milwaukee-13-in-Jobsite-Work-Tool-Box-MTB1400/205026948?irgwc=1&cm_mmc=afl-ir-197432-456723-&clickid=3Y21mUzudxyKWRlXNX2VQxEqUkC0JfwEey7AwM0)
 - Drill and Driver Set: [BOSCH CLPK22–120 12V Max Cordless 2-Tool 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit](https://amzn.to/3ZMf6wm)
@@ -57,50 +74,29 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - Stud Finder: [C.H. Hanson Magnetic Stud Finder](https://amzn.to/3NxMqD2)
 - Pry Bar / Nail Puller: [Stanley 8-Inch Nail Puller](https://amzn.to/3Nx5jWH)
 - Hex / Allen Wrenches: [TEKTON Ball End Hex Key Wrench Set, 26-Piece](https://amzn.to/3Nx5jWH)
+- Tire Pressure Gauge: [ETENWOLF Digital Tire Pressure Gauge, 2 Pack](https://www.amazon.com/dp/B0CKYZB8KL?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=9abd90ed86a0d15efb6944d8e57df839&language=en_US&ref_=as_li_ss_tl)
 
-* * *
+## How to Think
 
-## General / Thinking Resources
-
-- Mortimer J. Adler, [How to Read a Book: The Classic Guide to Intelligent Reading](https://amzn.to/3tf34fD)
-- Josh Kaufman, The Personal MBA: [https://personalmba.com/](https://personalmba.com/)
-- Ward Farnsworth, [The Practicing Stoic: A Philosophical User’s Manual](https://amzn.to/3UnCCwi)
-- Gabriel Weinberg and Lauren McCann, [Super Thinking: The Big Book of Mental Models](https://amzn.to/3Tq7ACK)
+- [_How to Read a Book: The Classic Guide to Intelligent Reading_](https://amzn.to/3tf34fD), by Mortimer J. Adler
+- [_The Personal MBA_](https://personalmba.com/), by Josh Kaufman
+- [_The Practicing Stoic: A Philosophical User’s Manual_](https://amzn.to/3UnCCwi), by Ward Farnsworth
+- [_Super Thinking: The Big Book of Mental Models_](https://amzn.to/3Tq7ACK), by Gabriel Weinberg and Lauren McCann
 - Untools: [https://untools.co/](https://untools.co/)
 - James Clear: [https://jamesclear.com/](https://jamesclear.com/)
 - Farnam Street: [https://fs.blog/](https://fs.blog/)
 - Your Logical Fallacy Is: [https://yourlogicalfallacyis.com/](https://yourlogicalfallacyis.com/)
 - Your Bias Is: [https://yourbias.is/](https://yourbias.is/)
 
-## Fitness / Health Resources
-
-- Mark Rippetoe, [Starting Strength: Basic Barbell Training](https://amzn.to/3fLhgdt)
-- Pavel Tsatsouline, [Kettlebell Simple & Sinister: Revised and Updated Edition](https://amzn.to/3fSoU5O)
-- Darebee: [https://darebee.com/](https://darebee.com/)
-
-## Design Resources
+## Graphic/Web Design
 
 - Unsplash: [https://unsplash.com/](https://unsplash.com/)
 - The Noun Project: [https://thenounproject.com/](https://thenounproject.com/)
 - PDF24 Tools: [https://tools.pdf24.org/en/](https://tools.pdf24.org/en/)
 
-## Software Development Resources
+## Productivity and Time Management
 
-- David Thomas and Andrew Hunt, [The Pragmatic Programmer: Your Journey to Mastery](https://amzn.to/3FZSYXO)
-- Steve McConnell, [Code Complete: A Practical Handbook of Software Construction, Second Edition](https://amzn.to/3hkLzYF)
-- Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
-- O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
-- roadmap.sh: [https://roadmap.sh/](https://roadmap.sh/)
-- cheat.sh: [https://cheat.sh/](https://cheat.sh/)
-- DevHints.io: [https://devhints.io/](https://devhints.io/)
-- Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
-- Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
-
-* * *
-
-## Productivity and Time Management Resources
-
-- Stephen Covey, [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](http://amzn.to/2FXQM1n)
-- Brian Tracy, [Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time](http://amzn.to/2DzEFco)
-- Cal Newport, [Deep Work: Rules for Focused Success in a Distracted World](http://amzn.to/2DotWhU)
-- David Allen, [Getting Things Done: The Art of Stress-Free Productivity](http://amzn.to/2DxVkhi)
+- [_The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_](http://amzn.to/2FXQM1n), by Stephen Covey
+- [_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_](http://amzn.to/2DzEFco), by Brian Tracy
+- [_Deep Work: Rules for Focused Success in a Distracted World_](http://amzn.to/2DotWhU), by Cal Newport
+- [_Getting Things Done: The Art of Stress-Free Productivity_](http://amzn.to/2DxVkhi), by David Allen
