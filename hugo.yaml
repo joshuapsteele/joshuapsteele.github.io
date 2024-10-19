@@ -33,6 +33,8 @@ params:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
+  footer:
+    text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -72,10 +74,10 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
-      - name: Categories
-        url: "/categories/"
-      - name: Tags
-        url: "/tags/"
+      - name: Resources
+        url: "/resources/"
+      - name: Search
+        url: "/search/"
   socialIcons: # optional
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
@@ -110,12 +112,21 @@ menu:
     - name: Blog
       url: /blog/
       weight: 2
+    - name: Photos
+      url: https://social.joshuapsteele.com/photos/
+      weight: 3
     - name: Resources
       url: /resources/
-      weight: 3
+      weight: 4
+    - name: Social
+      url: https://social.joshuapsteele.com
+      weight: 5
+    - name: Subscribe
+      url: https://social.joshuapsteele.com/subscribe/
+      weight: 6
     - name: Search
       url: /search?
-      weight: 4
+      weight: 7
 services:
   disqus:
     shortname: joshuapsteele
