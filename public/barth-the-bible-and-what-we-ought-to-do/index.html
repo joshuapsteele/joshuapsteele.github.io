@@ -12,7 +12,7 @@
 It is as well to remind ourselves, at the conclusion of this analysis, that the question: What ought we to do?, is the question which was put to Peter and the other apostles (Ac. 2:37f.) by those who heard Peter’s sermon on the day of Pentecost. This means that, although we ourselves have to ask it, we must not ask it of ourselves. We must ask it of God, of the God who has revealed Himself to us and has given us the witnesses of His revelation. It is a question which is put by Holy Scripture, and therefore we must put it to Holy Scripture as the witness to God’s revelation. That the sovereign decision of God confronts us and our decisions objectively in Jesus Christ is, as we have seen, the supreme criterion of all ethical reflection. But Jesus Christ cannot be separated from His apostles, from the whole witness which underlies the community of God in the form of Israel, and then of the Christian Church. We hear Him as we hear His witnesses. It is in their testimony that the divine command is always to be sought and will always be found as the sovereign divine decision. We must not be surprised, then, if—in very different forms—we are always given what is in fact the one answer: “Repent, and be baptised every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.”">
 <meta name="author" content="joshuapsteele">
 <link rel="canonical" href="https://joshuapsteele.com/barth-the-bible-and-what-we-ought-to-do/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.32138c67c73d144c39b7806249d0f0e9b5e147343bfd7fae63029a66a201bfdf.css" integrity="sha256-MhOMZ8c9FEw5t4BiSdDw6bXhRzQ7/X&#43;uYwKaZqIBv98=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1f24eeb10c64a6bd3e9e0c4d7e91db2ea9ce00b908e585d6c5e43020f9e975d.css" integrity="sha256-0fJO6xDGSmvT6eDE1&#43;kdsuqc4AuQjlhdbF5DAg&#43;el10=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://joshuapsteele.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://joshuapsteele.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://joshuapsteele.com/favicon-32x32.png">
@@ -57,7 +57,8 @@ It is as well to remind ourselves, at the conclusion of this analysis, that the 
         }
 
     </style>
-</noscript><meta property="og:title" content="Barth, the Bible, and &#34;What we ought to do&#34;" />
+</noscript><link rel="stylesheet" href="/assets/css/custom.css">
+<meta property="og:title" content="Barth, the Bible, and &#34;What we ought to do&#34;" />
 <meta property="og:description" content="Came across this Barth quote in Church Dogmatics II/2 this morning. I really like it, because it’s a good reminder that Barth valued the Bible. His distinction between the Bible as witness to the Word of God and Jesus Christ as the Word of God did not cause him to abandon the Scriptural witness.
 
 It is as well to remind ourselves, at the conclusion of this analysis, that the question: What ought we to do?, is the question which was put to Peter and the other apostles (Ac. 2:37f.) by those who heard Peter’s sermon on the day of Pentecost. This means that, although we ourselves have to ask it, we must not ask it of ourselves. We must ask it of God, of the God who has revealed Himself to us and has given us the witnesses of His revelation. It is a question which is put by Holy Scripture, and therefore we must put it to Holy Scripture as the witness to God’s revelation. That the sovereign decision of God confronts us and our decisions objectively in Jesus Christ is, as we have seen, the supreme criterion of all ethical reflection. But Jesus Christ cannot be separated from His apostles, from the whole witness which underlies the community of God in the form of Israel, and then of the Christian Church. We hear Him as we hear His witnesses. It is in their testimony that the divine command is always to be sought and will always be found as the sovereign divine decision. We must not be surprised, then, if—in very different forms—we are always given what is in fact the one answer: “Repent, and be baptised every one of you in the name of Jesus Christ for the remission of sins, and ye shall receive the gift of the Holy Ghost.”" />
@@ -130,7 +131,11 @@ It is as well to remind ourselves, at the conclusion of this analysis, that the 
 
 <body class="" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -141,6 +146,26 @@ It is as well to remind ourselves, at the conclusion of this analysis, that the 
         <div class="logo">
             <a href="https://joshuapsteele.com/" accesskey="h" title="Joshua P. Steele (Alt + H)">Joshua P. Steele</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -320,6 +345,18 @@ It is as well to remind ourselves, at the conclusion of this analysis, that the 
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 <script>

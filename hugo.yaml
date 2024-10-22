@@ -15,7 +15,7 @@ params:
   mainSections:
   - blog
   - pages
-  disableThemeToggle: true
+  disableThemeToggle: false
   showShareButtons: false
   showReadingTime: true
   showToc: true

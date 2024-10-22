@@ -12,7 +12,7 @@ Until further notice, I hereby rescind my use of the Let There Be Light platform
 My goal in all of this is to honor my Messiah by following him well and furthering his Kingdom with justice, unity, and true peace.">
 <meta name="author" content="joshuapsteele">
 <link rel="canonical" href="https://joshuapsteele.com/let-there-be-light-my-resignation/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.32138c67c73d144c39b7806249d0f0e9b5e147343bfd7fae63029a66a201bfdf.css" integrity="sha256-MhOMZ8c9FEw5t4BiSdDw6bXhRzQ7/X&#43;uYwKaZqIBv98=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1f24eeb10c64a6bd3e9e0c4d7e91db2ea9ce00b908e585d6c5e43020f9e975d.css" integrity="sha256-0fJO6xDGSmvT6eDE1&#43;kdsuqc4AuQjlhdbF5DAg&#43;el10=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://joshuapsteele.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://joshuapsteele.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://joshuapsteele.com/favicon-32x32.png">
@@ -57,7 +57,8 @@ My goal in all of this is to honor my Messiah by following him well and furtheri
         }
 
     </style>
-</noscript><meta property="og:title" content="Let There Be Light: My Resignation" />
+</noscript><link rel="stylesheet" href="/assets/css/custom.css">
+<meta property="og:title" content="Let There Be Light: My Resignation" />
 <meta property="og:description" content="**Please read: Let There Be Light – Leadership Transfer**
 Until further notice, I hereby rescind my use of the Let There Be Light platform (including blog, Facebook, and Twitter) to protest recent changes at Cedarville University. The LTBL platform will now be exclusively alumni-run, and I encourage everyone interested in developments at the University to follow their posts and make subsequent judgments regarding Cedarville’s identity and vision.
 My goal in all of this is to honor my Messiah by following him well and furthering his Kingdom with justice, unity, and true peace." />
@@ -130,7 +131,11 @@ My goal in all of this is to honor my Messiah by following him well and furtheri
 
 <body class="" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -141,6 +146,26 @@ My goal in all of this is to honor my Messiah by following him well and furtheri
         <div class="logo">
             <a href="https://joshuapsteele.com/" accesskey="h" title="Joshua P. Steele (Alt + H)">Joshua P. Steele</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -338,6 +363,18 @@ My goal in all of this is to honor my Messiah by following him well and furtheri
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 <script>

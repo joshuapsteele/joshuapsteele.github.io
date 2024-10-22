@@ -41,7 +41,7 @@ This hat gets here in the mail today! I’m excited to try it out
 ">
 <meta name="author" content="joshuapsteele">
 <link rel="canonical" href="https://joshuapsteele.com/finding-a-hat-for-my-big-bald-head/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.32138c67c73d144c39b7806249d0f0e9b5e147343bfd7fae63029a66a201bfdf.css" integrity="sha256-MhOMZ8c9FEw5t4BiSdDw6bXhRzQ7/X&#43;uYwKaZqIBv98=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1f24eeb10c64a6bd3e9e0c4d7e91db2ea9ce00b908e585d6c5e43020f9e975d.css" integrity="sha256-0fJO6xDGSmvT6eDE1&#43;kdsuqc4AuQjlhdbF5DAg&#43;el10=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://joshuapsteele.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://joshuapsteele.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://joshuapsteele.com/favicon-32x32.png">
@@ -86,7 +86,8 @@ This hat gets here in the mail today! I’m excited to try it out
         }
 
     </style>
-</noscript><meta property="og:title" content="Finding a Hat for My Big, Bald Head" />
+</noscript><link rel="stylesheet" href="/assets/css/custom.css">
+<meta property="og:title" content="Finding a Hat for My Big, Bald Head" />
 <meta property="og:description" content="I’ve been on a lifelong journey to find hats that will fit my big ol’ head. Now that I’m bald, and the summer months are approaching, I figured it would be good to find one or two more hats to add to my rotation.
 I’ve narrowed this round down to trying the following hats, in case you’re interested (Amazon affiliate links below):
 
@@ -219,7 +220,11 @@ This hat gets here in the mail today! I’m excited to try it out
 
 <body class="" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -230,6 +235,26 @@ This hat gets here in the mail today! I’m excited to try it out
         <div class="logo">
             <a href="https://joshuapsteele.com/" accesskey="h" title="Joshua P. Steele (Alt + H)">Joshua P. Steele</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -452,6 +477,18 @@ This hat gets here in the mail today! I’m excited to try it out
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 <script>

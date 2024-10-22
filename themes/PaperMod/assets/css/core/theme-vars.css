@@ -36,3 +36,7 @@
 .dark.list {
     background: var(--theme);
 }
+
+body:not(.dark) #home-logo {
+    filter: invert(1);
+}

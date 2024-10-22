@@ -13,7 +13,7 @@ And immediately he left the synagogue and entered the house of Simon and Andrew,
 That evening at sundown they brought to him all who were sick or oppressed by demons. And the whole city was gathered together at the door. And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.">
 <meta name="author" content="joshuapsteele">
 <link rel="canonical" href="https://joshuapsteele.com/morning-prayer-homily-mark-1-29-45/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.32138c67c73d144c39b7806249d0f0e9b5e147343bfd7fae63029a66a201bfdf.css" integrity="sha256-MhOMZ8c9FEw5t4BiSdDw6bXhRzQ7/X&#43;uYwKaZqIBv98=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.d1f24eeb10c64a6bd3e9e0c4d7e91db2ea9ce00b908e585d6c5e43020f9e975d.css" integrity="sha256-0fJO6xDGSmvT6eDE1&#43;kdsuqc4AuQjlhdbF5DAg&#43;el10=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://joshuapsteele.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://joshuapsteele.com/favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://joshuapsteele.com/favicon-32x32.png">
@@ -58,7 +58,8 @@ That evening at sundown they brought to him all who were sick or oppressed by de
         }
 
     </style>
-</noscript><meta property="og:title" content="Morning Prayer Homily: Mark 1.29-45" />
+</noscript><link rel="stylesheet" href="/assets/css/custom.css">
+<meta property="og:title" content="Morning Prayer Homily: Mark 1.29-45" />
 <meta property="og:description" content="A homily on Mark 1:29-45 (ESV):
 
 And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. Now Simon’s mother-in-law lay ill with a fever, and immediately they told him about her. And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.
@@ -133,7 +134,11 @@ That evening at sundown they brought to him all who were sick or oppressed by de
 
 <body class="" id="top">
 <script>
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
+    if (localStorage.getItem("pref-theme") === "dark") {
+        document.body.classList.add('dark');
+    } else if (localStorage.getItem("pref-theme") === "light") {
+        document.body.classList.remove('dark')
+    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
         document.body.classList.add('dark');
     }
 
@@ -144,6 +149,26 @@ That evening at sundown they brought to him all who were sick or oppressed by de
         <div class="logo">
             <a href="https://joshuapsteele.com/" accesskey="h" title="Joshua P. Steele (Alt + H)">Joshua P. Steele</a>
             <div class="logo-switches">
+                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
+                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+                    </svg>
+                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
+                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round">
+                        <circle cx="12" cy="12" r="5"></circle>
+                        <line x1="12" y1="1" x2="12" y2="3"></line>
+                        <line x1="12" y1="21" x2="12" y2="23"></line>
+                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+                        <line x1="1" y1="12" x2="3" y2="12"></line>
+                        <line x1="21" y1="12" x2="23" y2="12"></line>
+                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+                    </svg>
+                </button>
             </div>
         </div>
         <ul id="menu">
@@ -337,6 +362,18 @@ That evening at sundown they brought to him all who were sick or oppressed by de
             mybutton.style.opacity = "0";
         }
     };
+
+</script>
+<script>
+    document.getElementById("theme-toggle").addEventListener("click", () => {
+        if (document.body.className.includes("dark")) {
+            document.body.classList.remove('dark');
+            localStorage.setItem("pref-theme", 'light');
+        } else {
+            document.body.classList.add('dark');
+            localStorage.setItem("pref-theme", 'dark');
+        }
+    })
 
 </script>
 <script>
