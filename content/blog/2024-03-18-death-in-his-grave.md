@@ -9,10 +9,6 @@ guid: https://joshuapsteele.com/?p=42966
 id: 42966
 cover:
     image: /wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "17"
 tags:
 - easter
 - holy week

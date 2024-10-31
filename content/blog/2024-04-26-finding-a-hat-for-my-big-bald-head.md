@@ -9,10 +9,6 @@ guid: https://joshuapsteele.com/?p=42976
 id: 42976
 cover:
     image: /wp-content/uploads/2024/04/pexels-photo-396777-1568x1176.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "19"
 title: Finding a Hat for My Big, Bald Head
 url: /finding-a-hat-for-my-big-bald-head/
 ---
