@@ -57,6 +57,8 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
+      - name: Contact
+        url: "/contact/"
       - name: Categories
         url: "/categories/"
       - name: Tags
@@ -74,6 +76,8 @@ params:
         url: "/about/"
       - name: Blog
         url: "/blog/"
+      - name: Contact
+        url: "/contact/"
       - name: Resources
         url: "/resources/"
       - name: Search
