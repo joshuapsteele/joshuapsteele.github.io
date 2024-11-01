@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://joshuapsteele.com/ask-me-anything-this-november/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/gods-economy/</loc>
-    <lastmod>2024-10-13T00:00:00+00:00</lastmod>
+    <loc>https://joshuapsteele.com/blog/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/gods-economy/</loc>
     <lastmod>2024-10-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
