@@ -91,6 +91,8 @@ params:
       url: "https://steele.omg.lol"
     - name: microblog
       url: "https://social.joshuapsteele.com"
+    - name: RSS
+      url: "https://joshuapsteele.com/index.xml"
 markup:
   highlight:
     codeFences: true
@@ -116,8 +118,8 @@ menu:
     - name: Blog
       url: /blog/
       weight: 2
-    - name: Photos
-      url: https://social.joshuapsteele.com/photos/
+    - name: Contact
+      url: /contact/
       weight: 3
     - name: Resources
       url: /resources/
