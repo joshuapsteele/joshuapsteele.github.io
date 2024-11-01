@@ -91,8 +91,8 @@ params:
       url: "https://steele.omg.lol"
     - name: microblog
       url: "https://social.joshuapsteele.com"
-    - name: RSS
-      url: "https://joshuapsteele.com/index.xml"
+    - name: rss
+      url: "https://joshuapsteele.com/feed.xml"
 markup:
   highlight:
     codeFences: true
