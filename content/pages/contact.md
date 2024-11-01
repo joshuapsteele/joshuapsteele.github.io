@@ -6,4 +6,9 @@ title: Contact
 url: /contact/
 
 ---
-You can email me at "joshua", followed by the "at" symbol, followed by the domain of my main personal website!
+The best way to contact me is to send an email to [blog@joshuapsteele.com](mailto:blog@joshuapsteele.com). I'll do my best to reaad and reply as soon as possible!
+
+If you'd like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on [the homepage here](/) and also over at [steele.omg.lol](https://steele.omg.lol).
+
+Cheers,
+Josh
