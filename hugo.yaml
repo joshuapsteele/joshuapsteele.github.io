@@ -2,14 +2,14 @@ baseURL: https://joshuapsteele.com
 # baseURL: https://joshuapsteele.github.io
 publishDir: public
 languageCode: en-US
-title: Joshua P. Steele
+title: The Rev. Dev. Joshua P. Steele
 theme: PaperMod
 disqusShortname: joshuapsteele
 taxonomies:
   category: categories
   tag: tags
 params:
-  description: Joshua P. Steele
+  description: Joshua P. Steele's home on the web
   env: production
   defaultTheme: auto
   mainSections:
@@ -46,7 +46,7 @@ params:
     keys: ["title", "permalink", "summary", "content"]
   homeInfoParams:
     enabled: false
-    title: "The Rev. Dev." # optional default will be site title
+    title: "The Rev. Dev. Joshua P. Steele" # optional default will be site title
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # move this from profileMode
     imageTitle: "Joshua P. Steele"
@@ -65,7 +65,7 @@ params:
         url: "/tags/"
   profileMode:
     enabled: true
-    title: "The Rev. Dev."
+    title: "The Rev. Dev. Joshua P. Steele"
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
     imageUrl: "/wp-content/uploads/2023/11/Joshua_Steele-Close-Headshot-Photo-Square_2018-1-300x300.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
@@ -92,7 +92,7 @@ params:
     - name: microblog
       url: "https://social.joshuapsteele.com"
     - name: rss
-      url: "https://joshuapsteele.com/feed.xml"
+      url: "https://joshuapsteele.com/feed"
 markup:
   highlight:
     codeFences: true
