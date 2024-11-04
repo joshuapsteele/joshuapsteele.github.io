@@ -16,6 +16,10 @@ Last Updated: 2024-11-04
 
 - How do I fix a light switch that doesn't controll a ceiling light/fan like I want it to?
 - How do I get rid of woodpeckers that keep pecking my house?
+- What's the best "budget" bidet?
+- What's the best "budget" smart TV?
+
+On a deeper level: 
 - What was the point of 12 years of theological studies, getting ordained, etc., if I'm now working fulltime as a software engineer?
 
 ## Questions I've Answered
