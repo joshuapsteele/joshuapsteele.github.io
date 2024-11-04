@@ -7,14 +7,6 @@ custom_permalink:
 date: "2022-11-08T20:10:02Z"
 guid: https://joshuapsteele.com/?p=42643
 id: 42643
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - questions
 title: Questions Worth Asking (Self-Elicitation Questions)
@@ -150,3 +142,36 @@ url: /questions-worth-asking/
 - What would this look like if it were easy?
 - How can I throw money at this problem? How can I “waste” money to improve the quality of my life?
 - No hurry, no pause.
+
+## Useful questions for reframing ([Derek Sivers, Useful Not True](https://sive.rs/u))
+
+### When something goes wrong
+
+- What’s great about this?
+- How can I use this to my advantage?
+- Does this change the goal, or the path, or nothing?
+- How can I reduce the downsides? 
+
+### When changing direction
+
+- When I was at my happiest, what was I doing?
+- What have I strongly wanted for the longest time?
+- What’s the opposite of what I usually do?
+- Which of my old beliefs are not serving me?
+- Forget me. What would be most helpful for others? 
+
+### When stuck
+
+- What is my one top priority now?
+- How can I begin without waiting for anything?
+- What advice would I love to hear from an all-knowing sage?
+- What am I doing that’s actually a distraction?
+- Instead of avoiding mistakes, how can I make more to learn faster?
+- Who can help? 
+
+### To make peace with what’s out of your control
+
+- What happens if I ignore it and do nothing?
+- Should I learn a lesson from this, or just move on?
+- How can I blame no one, and see this as nobody’s fault?
+- How can I be OK no matter what happens? 
