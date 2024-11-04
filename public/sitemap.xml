@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/pages/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/questions/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/ask-me-anything-this-november/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/gods-economy/</loc>
@@ -301,9 +307,6 @@
   </url><url>
     <loc>https://joshuapsteele.com/tags/safety/</loc>
     <lastmod>2021-10-07T06:52:40+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/pages/</loc>
-    <lastmod>2021-05-21T11:37:13+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/portfolio/philosophy-of-ministry/</loc>
     <lastmod>2021-05-21T11:37:13+00:00</lastmod>
