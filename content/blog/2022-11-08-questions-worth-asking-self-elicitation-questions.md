@@ -73,55 +73,68 @@ url: /questions-worth-asking/
 
 ## [Forty-Nine Questions to Improve Your Results](https://joshkaufman.net/49-questions-better-results/), by Josh Kaufman
 
-- Do I use my body optimally? 
-    - What is the quality of my current diet?
-    - Do I get enough sleep?
-    - Am I managing my energy well each day?
-    - How do I manage daily stress?
-    - Do I have good posture and poise?
-    - What can I do to improve my ability to observe the world around me?
-- Do I know what I want? 
-    - What achievements would make me really excited?
-    - What “states of being” do I want to experience each day?
-    - Are my priorities and values clearly defined?
-    - Am I capable of making decisions quickly and confidently?
-    - Do I consistently focus my attention on what I want vs. what I don’t want?
-- What am I afraid of? 
-    - Have I created an honest and complete list of the fears I’m holding on to?
-    - Have I confronted each fear to imagine how I would handle it if it came to pass?
-    - Am I capable of recognizing and correcting self-limitation?
-    - Am I appropriately pushing my own limits?
-- Is my mind clear and focused? 
-    - Do I systematically externalize (write or record) what I think about?
-    - Am I making it easy to capture my thoughts quickly, as I have them?
-    - What has my attention right now?
-    - Am I regularly asking myself appropriate guiding questions?
-    - Do I spend most of my time focusing on a single task, or constantly flipping between multiple tasks?
-    - Do I spend enough time actively reflecting on my goals, projects, and progress?
-- Am I confident, relaxed, and productive? 
-    - Have I found a planning method that works for me?
-    - Am I “just organized enough”?
-    - Do I have an up-to-date list of my projects and active tasks?
-    - Do I review all of my commitments on a regular basis?
-    - Do I take regular, genuine breaks from my work?
-    - Am I consciously creating positive habits?
-    - Am I working to shed non-productive habits?
-    - Am I comfortable with telling other people “no”?
-- How do I perform best? 
-    - What do I particularly enjoy?
-    - What am I particularly good at doing?
-    - What environment do I find most conducive to doing good work?
-    - How do I tend to learn most effectively?
-    - How do I prefer to work with and communicate with others?
-    - What is currently holding me back?
-- What do I really need to be happy and fulfilled? 
-    - How am I currently defining “success”?
-    - Is there another way of defining “success” that I may find more fulfilling?
-    - How often do I compare myself to my perceptions of other people?
-    - Am I currently living below my means?
-    - If I could only own 100 things, what would they be?
-    - Am I capable of separating necessity and luxury?
-    - What do I feel grateful for in my life and work?
+### Do I use my body optimally? 
+
+- What is the quality of my current diet?
+- Do I get enough sleep?
+- Am I managing my energy well each day?
+- How do I manage daily stress?
+- Do I have good posture and poise?
+- What can I do to improve my ability to observe the world around me?
+
+### Do I know what I want? 
+
+- What achievements would make me really excited?
+- What “states of being” do I want to experience each day?
+- Are my priorities and values clearly defined?
+- Am I capable of making decisions quickly and confidently?
+- Do I consistently focus my attention on what I want vs. what I don’t want?
+
+### What am I afraid of? 
+
+- Have I created an honest and complete list of the fears I’m holding on to?
+- Have I confronted each fear to imagine how I would handle it if it came to pass?
+- Am I capable of recognizing and correcting self-limitation?
+- Am I appropriately pushing my own limits?
+
+### Is my mind clear and focused? 
+
+- Do I systematically externalize (write or record) what I think about?
+- Am I making it easy to capture my thoughts quickly, as I have them?
+- What has my attention right now?
+- Am I regularly asking myself appropriate guiding questions?
+- Do I spend most of my time focusing on a single task, or constantly flipping between multiple tasks?
+- Do I spend enough time actively reflecting on my goals, projects, and progress?
+
+### Am I confident, relaxed, and productive? 
+
+- Have I found a planning method that works for me?
+- Am I “just organized enough”?
+- Do I have an up-to-date list of my projects and active tasks?
+- Do I review all of my commitments on a regular basis?
+- Do I take regular, genuine breaks from my work?
+- Am I consciously creating positive habits?
+- Am I working to shed non-productive habits?
+- Am I comfortable with telling other people “no”?
+
+### How do I perform best? 
+
+- What do I particularly enjoy?
+- What am I particularly good at doing?
+- What environment do I find most conducive to doing good work?
+- How do I tend to learn most effectively?
+- How do I prefer to work with and communicate with others?
+- What is currently holding me back?
+
+### What do I really need to be happy and fulfilled? 
+
+- How am I currently defining “success”?
+- Is there another way of defining “success” that I may find more fulfilling?
+- How often do I compare myself to my perceptions of other people?
+- Am I currently living below my means?
+- If I could only own 100 things, what would they be?
+- Am I capable of separating necessity and luxury?
+- What do I feel grateful for in my life and work?
 
 ## [Testing the “Impossible”: 17 Questions That Changed My Life](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/), by Tim Ferriss
 
