@@ -8,7 +8,7 @@ showtoc: false
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 
-Last Updated: 2024-11-04
+Last Updated: 2024-11-07
 
 ## Questions I'm Asking
 
@@ -21,6 +21,7 @@ Last Updated: 2024-11-04
 
 On a deeper level: 
 - What was the point of 12 years of theological studies, getting ordained, etc., if I'm now working fulltime as a software engineer?
+- What has happened to the church in the USA?
 
 ## Questions I've Answered
 

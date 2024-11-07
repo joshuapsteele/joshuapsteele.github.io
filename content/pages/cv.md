@@ -193,15 +193,3 @@ _(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
 
 - Regional ETS Southeast
 - Birmingham, AL: 2014
-
-* * *
-
-## REFERENCES
-
-_(For contact information, please [contact me](/contact/).)_
-
-- **[Kevin Miller](https://friendsofthesavior.org/staff)**, my Rector at Church of the Savior in Wheaton, IL.
-- **[Greg Goebel](https://twitter.com/GoebelGreg)**, my supervisor/co-conspirator at Anglican Compass.
-- **[Marc Cortez](https://www.wheaton.edu/academics/faculty/marc-cortez/)**, my doctoral supervisor at Wheaton College.
-- **[Peter Smith](https://www.livingfaithanglican.org/leadership)**, one of my closest friends, a former supervisor and colleague in student ministry.
-- **[Jonathan Musser](https://worldrelieftriad.org/staff-directory)**, one of my closest friends, a former roommate in college.

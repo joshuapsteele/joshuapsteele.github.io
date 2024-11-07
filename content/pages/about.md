@@ -15,7 +15,7 @@ Currently living in Toledo, OH, I've got a wife, three young children, and an ad
 
 This is my main personal website, powered by [Hugo](https://gohugo.io) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod), and hosted on [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io). 
 
-You can also follow my shorter posts on micro.blog over at [social.joshuapsteele.com](https://social.joshuapsteeele.com), which get cross-posted to [Mastodon](https://social.lol/@steele) and [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social), and [Threads](https://www.threads.net/@joshuapsteele).
+You can also follow my shorter posts on micro.blog over at [social.joshuapsteele.com](https://social.joshuapsteeele.com), which get cross-posted to [Mastodon](https://social.lol/@steele) and [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social).
 
 If you'd like to learn more about me, check out:
 

@@ -6,6 +6,8 @@ title: Essays
 url: /portfolio/essays/
 
 ---
+_(Note: Since writing the essays below, I've left the academy and now work as a software engineer. Nevertheless, I'm keeping these around for posterity.)_
+
 ## Wheaton College Graduate School (2017 - )
 
 _(Here's the [elevator pitch for my dissertation proposal](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/): "Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.")_
