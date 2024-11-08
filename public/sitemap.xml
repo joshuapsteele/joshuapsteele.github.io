@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/pages/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tech-stack/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/questions/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/</loc>
     <lastmod>2024-11-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/ask-me-anything-this-november/</loc>

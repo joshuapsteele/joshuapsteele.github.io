@@ -2,7 +2,7 @@ baseURL: https://joshuapsteele.com
 # baseURL: https://joshuapsteele.github.io
 publishDir: public
 languageCode: en-US
-title: The Rev. Dev. Joshua P. Steele
+title: Joshua P. Steele
 theme: PaperMod
 disqusShortname: joshuapsteele
 taxonomies:
