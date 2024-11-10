@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/cv/</loc>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/pages/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tech-stack/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
@@ -311,13 +314,13 @@
     <loc>https://joshuapsteele.com/tags/safety/</loc>
     <lastmod>2021-10-07T06:52:40+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/portfolio/philosophy-of-ministry/</loc>
+    <loc>https://joshuapsteele.com/philosophy-of-ministry/</loc>
     <lastmod>2021-05-21T11:37:13+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/</loc>
     <lastmod>2021-01-19T22:34:46+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/portfolio/my-story/</loc>
+    <loc>https://joshuapsteele.com/my-story/</loc>
     <lastmod>2021-01-09T22:32:26+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/advent/</loc>
@@ -842,9 +845,6 @@
     <loc>https://joshuapsteele.com/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/</loc>
     <lastmod>2017-04-13T19:44:07+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/portfolio/</loc>
-    <lastmod>2017-02-02T17:39:21+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/is-the-well-equipped-christian-worth-it/</loc>
     <lastmod>2017-01-31T23:13:18+00:00</lastmod>
   </url><url>
@@ -854,11 +854,8 @@
     <loc>https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/</loc>
     <lastmod>2016-12-31T18:15:34+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/portfolio/essays/</loc>
+    <loc>https://joshuapsteele.com/essays/</loc>
     <lastmod>2016-12-28T21:36:36+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/portfolio/cv/</loc>
-    <lastmod>2016-12-28T21:11:24+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/a-christmas-homily/</loc>
     <lastmod>2016-12-28T14:38:54+00:00</lastmod>
@@ -926,7 +923,7 @@
     <loc>https://joshuapsteele.com/theology-outline/</loc>
     <lastmod>2015-12-08T11:45:35+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/portfolio/sermons/</loc>
+    <loc>https://joshuapsteele.com/sermons/</loc>
     <lastmod>2015-12-08T10:10:12+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/</loc>

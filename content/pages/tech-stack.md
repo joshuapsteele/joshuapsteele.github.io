@@ -3,6 +3,8 @@ author: joshuapsteele
 date: 2024-11-08
 title: Tech Stack
 url: /tech-stack/
+aliases:
+- /techstack/
 ---
 
 Here's my current personal tech stack. For other recommended tools and resources, visit my [/resources](/resources) page!

@@ -3,7 +3,9 @@ author: joshuapsteele
 date: "2021-01-09T22:32:26+00:00"
 guid: https://joshuapsteele.com/?page_id=42475
 title: My Story
-url: /portfolio/my-story/
+url: /my-story/
+aliases:
+- /portfolio/my-story/
 
 ---
 _(Note: for a much briefer profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/).)_

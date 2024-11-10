@@ -1,9 +1,12 @@
 ---
 author: joshuapsteele
-date: "2016-12-28T21:11:24+00:00"
+date: 2024-11-10
 guid: https://joshuapsteele.com/?page_id=4007
 title: CV
-url: /portfolio/cv/
+url: /cv/
+aliases:
+- /portfolio/cv/
+- /resume/
 
 ---
 _(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
