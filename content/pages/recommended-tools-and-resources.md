@@ -14,6 +14,8 @@ aliases:
 ---
 A "tool" is "anything that can make your life better." I love tools, whether physical or digital. And I love books, because they're some of the best tools out there!
 
+(For my personal "tech stack" recommendations, including what I use for email, social media, etc., see [my `/tech-stack` page](/tech-stack/).)
+
 ## Home
 
 - Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
@@ -58,21 +60,30 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 - Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
 
-## DIY/Repair Tools
+## DIY/Home Repair Tools
 
-- Toolbox: [Milwaukee 13in Jobsite Work Tool Box](https://www.homedepot.com/p/Milwaukee-13-in-Jobsite-Work-Tool-Box-MTB1400/205026948?irgwc=1&cm_mmc=afl-ir-197432-456723-&clickid=3Y21mUzudxyKWRlXNX2VQxEqUkC0JfwEey7AwM0)
+- Toolboxes: 
+  - [Hyper Tough 16-inch Open Top Tool Tote](https://www.walmart.com/ip/Hyper-Tough-16-inch-Open-Top-Tool-Tote/3183302817)
+  - (Previous, Discontinued) [Milwaukee 13in Jobsite Work Tool Box](https://www.homedepot.com/p/Milwaukee-13-in-Jobsite-Work-Tool-Box-MTB1400/205026948?irgwc=1&cm_mmc=afl-ir-197432-456723-&clickid=3Y21mUzudxyKWRlXNX2VQxEqUkC0JfwEey7AwM0)
 - Drill and Driver Set: [BOSCH CLPK22–120 12V Max Cordless 2-Tool 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit](https://amzn.to/3ZMf6wm)
-- Utility Knife: [Milwaukee Fastback 6-in-1 48-22-1505](https://www.homedepot.com/p/Milwaukee-FASTBACK-6-in-1-Folding-Utility-Knives-with-General-Purpose-Blade-48-22-1505/313736993)
-  - Previous: [Milwaukee Fastback 48–22–1902](https://amzn.to/3GUFn2W)
-- Hammer: [ESTWING 12 oz Straight Rip Claw - E3-12S](https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0002YWCHS?crid=PVFGWEWC3P8&dib=eyJ2IjoiMSJ9.0kPIudBwQ69077p5NsA2PAXB-xFYzF_TfsneR0K0VOAEzA3E5xihbHEPkwaRbn_eYZllzTSW05VaRnAY9QlNlSFoRy2vOk5KA69nxL_M4VeGTQcWiY47BSUYusbIqvoq76QAsKnt6lIHTG9dXy7CdyGLAfp5O7LZK3ukCLTiyBojDisWSHODsXbugdLZUyTc2rsOFS7eQiMvaMWoh6avrL-q2pF35bx_w8LBRZYH3jJwsK4H8D8atGU1R5PhNxLyzC649B7h9Iie9yzUAePOXWtTLzs6Lqaab_BOj8LwRX8.UFwnQQC07Coun2uSYJlJfNw0dA-M3toVRIGIweI_Jc0&dib_tag=se&keywords=estwing%2B12oz%2Bhammer&qid=1719953947&sprefix=estwing%2B12oz%2Bhammer%2Caps%2C123&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=555159c3ae98d06c7a0083fed71d5e52&language=en_US&ref_=as_li_ss_tl)
-  - Previous: [ESTWING 16 oz Straight Rip Claw - E3-16S](https://amzn.to/3X8RLDQ)
-- Screwdriver: [WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver](https://www.amazon.com/dp/B0761K3H82?amp=&crid=1F4VBUZP08GZB&amp=&sprefix=workpro+rat&linkCode=ll1&tag=joshuapsteele-20&linkId=bd6578ba4dc79cabbd7cb430f74d74dc&language=en_US&ref_=as_li_ss_tl)
-- Pliers / Wrench:
+- Utility Knives: 
+  - [Milwaukee Fastback 6-in-1 48-22-1505](https://www.homedepot.com/p/Milwaukee-FASTBACK-6-in-1-Folding-Utility-Knives-with-General-Purpose-Blade-48-22-1505/313736993)
+  - [OLFA 25mm Utility Knife](https://amzn.to/4fm9CQ0)
+  - [OLFA 18mm Utility Knife](https://amzn.to/4fhzrRp)
+- Hammers: 
+  - [ESTWING 12 oz Straight Rip Claw - E3-12S](https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0002YWCHS?crid=PVFGWEWC3P8&dib=eyJ2IjoiMSJ9.0kPIudBwQ69077p5NsA2PAXB-xFYzF_TfsneR0K0VOAEzA3E5xihbHEPkwaRbn_eYZllzTSW05VaRnAY9QlNlSFoRy2vOk5KA69nxL_M4VeGTQcWiY47BSUYusbIqvoq76QAsKnt6lIHTG9dXy7CdyGLAfp5O7LZK3ukCLTiyBojDisWSHODsXbugdLZUyTc2rsOFS7eQiMvaMWoh6avrL-q2pF35bx_w8LBRZYH3jJwsK4H8D8atGU1R5PhNxLyzC649B7h9Iie9yzUAePOXWtTLzs6Lqaab_BOj8LwRX8.UFwnQQC07Coun2uSYJlJfNw0dA-M3toVRIGIweI_Jc0&dib_tag=se&keywords=estwing%2B12oz%2Bhammer&qid=1719953947&sprefix=estwing%2B12oz%2Bhammer%2Caps%2C123&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=555159c3ae98d06c7a0083fed71d5e52&language=en_US&ref_=as_li_ss_tl)
+  - [ESTWING 16 oz Straight Rip Claw - E3-16S](https://amzn.to/3X8RLDQ)
+- Screwdrivers: 
+  - [WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver](https://www.amazon.com/dp/B0761K3H82?amp=&crid=1F4VBUZP08GZB&amp=&sprefix=workpro+rat&linkCode=ll1&tag=joshuapsteele-20&linkId=bd6578ba4dc79cabbd7cb430f74d74dc&language=en_US&ref_=as_li_ss_tl)
+  - [Wera 838 RA-R M Ratcheting Screwdriver](https://amzn.to/3UKb1Yo)
+  - [HOTO 24-in-1 Precision Screwdriver](https://amzn.to/4enkfAW)
+- Pliers / Wrenches:
   - [KNIPEX Tools - Pliers Wrench, Chrome (8603250), 10-Inch](https://amzn.to/3Jissd3)
   - [KNIPEX Tools - Cobra Water Pump Pliers (8701250),10-Inch](https://www.amazon.com/Knipex-8701250-10-Inch-Cobra-Pliers/dp/B000X4J2H0?crid=2O0CSXVIHLPKZ&dib=eyJ2IjoiMSJ9.e1jTg0yp5P4nUnL39gQs8mSVe4G_tQBchMOV5R_pewBTMni2_YNFivR72FaXKFy4_i3xd6r6sv9tRKq3YZbp-VceAlmRW1CS6F_ag1Uy2ChyNsIaXlAzTAgYNzVZSiqYWUqOp0U0FK8Hu26t-ZSGUmi4QSzuhb0M80hwHxhWKoKxg7DJpapV8yhksIaD-eMPE3SnaEd6ItuiOs50LoRKkL-wuPRPxNDI97Fi8meh8lwRf55Vj3v7Pc75nprZUelo96k2ekLflhfDXivpzq7QdlLIgBEGAgkmRNbTbwLRNIk.9lmuOedLB4UlaLpp3Zo6GQDEPyNm2FqSZxHMAK1BczM&dib_tag=se&keywords=Knipex%2Bcobras%2B250&qid=1719954307&sprefix=knipex%2Bcobra%2B250%2Caps%2C115&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=8c772411a4e1a69f6d60edae571906a2&language=en_US&ref_=as_li_ss_tl)
   - In addition to the "250mm" size above, I also own the Pliers Wrench in 100mm and 180mm sizes, and the Cobra Pliers in 100mm and 180mm sizes.
-- Measuring Tape: [Stanley FatMax 25-foot Measuring Tape](https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66?crid=2UVH1TQU7TXGU&dib=eyJ2IjoiMSJ9.iOUNvqkiZp0p7TlI_EJ9r0XBYr968uSdy6qX-cTUt3be9snjaF8ewFu-AFDrdphcSq4XU4U2WOCl4I1DJTwP321n1-NHc5HutIJMCzQ5NhvMCjBTdmgUT1wdkWS9Dl29Y5K0zbB-Yfx4LGMovayFJbesB0M828lGc_D6OR0gZu9p95dgfZu0Y5_5C5P4pjrwC5pl6auYhMlADDju4ZYElGI4i10H95WLDM7upfWXGwhmiYXDSdceJUs7G0dLypaejfhkaxqbRzxMWuJlVFQsd82XzXezP0-uqcGCuq-TDFc.CvkQ24qgzcDBkkZiVQcRjMs_5rDAWGLygiw9bq-gITY&dib_tag=se&keywords=stanley%2Bfatmax%2B25&qid=1719954257&sprefix=stanley%2Bfatmax%2B25%2Caps%2C168&sr=8-3&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=cb2dd68ea98a50801235fbdd3a7e3855&language=en_US&ref_=as_li_ss_tl)
-  - Previous: [Stanley Powerlock 25-foot Measuring Tape](https://amzn.to/3Xhk03y)
+- Measuring Tapes: 
+  - [Stanley FatMax 25-foot Measuring Tape](https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66?crid=2UVH1TQU7TXGU&dib=eyJ2IjoiMSJ9.iOUNvqkiZp0p7TlI_EJ9r0XBYr968uSdy6qX-cTUt3be9snjaF8ewFu-AFDrdphcSq4XU4U2WOCl4I1DJTwP321n1-NHc5HutIJMCzQ5NhvMCjBTdmgUT1wdkWS9Dl29Y5K0zbB-Yfx4LGMovayFJbesB0M828lGc_D6OR0gZu9p95dgfZu0Y5_5C5P4pjrwC5pl6auYhMlADDju4ZYElGI4i10H95WLDM7upfWXGwhmiYXDSdceJUs7G0dLypaejfhkaxqbRzxMWuJlVFQsd82XzXezP0-uqcGCuq-TDFc.CvkQ24qgzcDBkkZiVQcRjMs_5rDAWGLygiw9bq-gITY&dib_tag=se&keywords=stanley%2Bfatmax%2B25&qid=1719954257&sprefix=stanley%2Bfatmax%2B25%2Caps%2C168&sr=8-3&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=cb2dd68ea98a50801235fbdd3a7e3855&language=en_US&ref_=as_li_ss_tl)
+  - [Stanley Powerlock 25-foot Measuring Tape](https://amzn.to/3Xhk03y)
 - Stud Finder: [C.H. Hanson Magnetic Stud Finder](https://amzn.to/3NxMqD2)
 - Pry Bar / Nail Puller: [Stanley 8-Inch Nail Puller](https://amzn.to/3Nx5jWH)
 - Hex / Allen Wrenches: [TEKTON Ball End Hex Key Wrench Set, 26-Piece](https://amzn.to/3Nx5jWH)
