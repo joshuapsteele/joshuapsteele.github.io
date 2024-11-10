@@ -1,8 +1,6 @@
 ---
 author: joshuapsteele
-date: 2009-05-10T00:00:00Z
-cover:
-    image: /wp-content/uploads/2009/05/pablo-3.png
+date: 2009-05-10
 title: "From a Grateful Son: A Mother's Day Poem"
 url: /mothers-day-poem/
 ---

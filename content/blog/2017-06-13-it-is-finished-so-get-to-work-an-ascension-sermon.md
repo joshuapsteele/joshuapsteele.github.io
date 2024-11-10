@@ -8,30 +8,8 @@ enclosure:
 - "https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3\r\n15871511\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=39721
 id: 39721
-cover:
-    image: /wp-content/uploads/2017/06/pablo-5.png
-rank_math_description:
-- An Ascension Day sermon about how the Ascension both completes the gospel and compels
-  the Christian Church in its mission here on earth. Click to hear/read this "It is
-  finished" sermon.
-rank_math_focus_keyword:
-- it is finished sermon
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "16"
-rank_math_title:
-- It is Finished, a Sermon on the Ascension by Joshua P. Steele
 title: It is Finished! So, Get to Work! – A Sermon on the Ascension
-total_sidebar_layout:
-- right_sidebar
-url: /20170613it-is-finished-so-get-to-work-an-ascension-sermon/
+url: /it-is-finished-so-get-to-work-an-ascension-sermon/
 ---
 
 *The following is an “It is Finished” sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:*

@@ -2,9 +2,7 @@
 author: joshuapsteele
 categories:
 - Uncategorized
-custom_permalink:
-- questions-worth-asking/
-date: "2022-11-08T20:10:02Z"
+date: 2022-11-08
 guid: https://joshuapsteele.com/?p=42643
 id: 42643
 tags:
@@ -12,6 +10,8 @@ tags:
 title: Questions Worth Asking (Self-Elicitation Questions)
 url: /questions-worth-asking/
 ---
+
+These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see [my `/questions` page](/questions).
 
 ## Five-Minute Journal Questions
 

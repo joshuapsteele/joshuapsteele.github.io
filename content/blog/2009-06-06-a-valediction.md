@@ -2,30 +2,9 @@
 author: joshuapsteele
 categories:
 - Personal
-custom_permalink:
-- a-valediction/
-date: "2009-06-06T21:44:17Z"
+date: 2009-06-06
 guid: http://windowinthesky.wordpress.com/?p=407
 id: 407
-cover:
-    image: /wp-content/uploads/2009/06/pablo-4.png
-rank_math_description:
-- This is my valedictorian address from my high school graduation in 2009. As you'll
-  see, the majority of the speech was an original poem. I hope you like it!
-rank_math_focus_keyword:
-- valedictorian
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "62"
-rank_math_title:
-- My High School Valedictorian Address was a Poem
 title: My High School Graduation Valedictorian Speech was a Poem
 total_sidebar_layout:
 - right_sidebar

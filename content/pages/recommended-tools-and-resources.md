@@ -16,14 +16,24 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 (For my personal "tech stack" recommendations, including what I use for email, social media, etc., see [my `/tech-stack` page](/tech-stack/).)
 
-## Home
+## How to Think
 
-- Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
-- Coffee Grinder: [Capresso Infinity Conical Burr Grinder](https://amzn.to/3EfZnN3)
-- Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&dib_tag=se&hvadid=570597068294&hvdev=c&hvlocphy=9015124&hvnetw=g&hvqmt=e&hvrand=2727167960365447975&hvtargid=kwd-1094615620699&hydadcr=19109_13375463&keywords=owala+24+oz&qid=1719953416&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&language=en_US&ref_=as_li_ss_tl)
-  - Previous: [Iron Flask, 64oz](https://amzn.to/3tkbBOl)
-- Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?&linkCode=ll1&tag=joshuapsteele-20&linkId=78c66778226bc3838f43d50a3d0d6ac9&language=en_US&ref_=as_li_ss_tl)
-- Cleaning Wipes: [Tub O' Towels Heavy Duty Cleaning Wipes](https://www.amazon.com/dp/B00022W4ZU?&linkCode=ll1&tag=joshuapsteele-20&linkId=45617e28ba4dd2c7dea9084447edab7c&language=en_US&ref_=as_li_ss_tl)
+- [_How to Read a Book: The Classic Guide to Intelligent Reading_](https://amzn.to/3tf34fD), by Mortimer J. Adler
+- [_The Personal MBA_](https://personalmba.com/), by Josh Kaufman
+- [_The Practicing Stoic: A Philosophical User’s Manual_](https://amzn.to/3UnCCwi), by Ward Farnsworth
+- [_Super Thinking: The Big Book of Mental Models_](https://amzn.to/3Tq7ACK), by Gabriel Weinberg and Lauren McCann
+- Untools: [https://untools.co/](https://untools.co/)
+- James Clear: [https://jamesclear.com/](https://jamesclear.com/)
+- Farnam Street: [https://fs.blog/](https://fs.blog/)
+- Your Logical Fallacy Is: [https://yourlogicalfallacyis.com/](https://yourlogicalfallacyis.com/)
+- Your Bias Is: [https://yourbias.is/](https://yourbias.is/)
+
+## Productivity and Time Management
+
+- [_The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_](http://amzn.to/2FXQM1n), by Stephen Covey
+- [_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_](http://amzn.to/2DzEFco), by Brian Tracy
+- [_Deep Work: Rules for Focused Success in a Distracted World_](http://amzn.to/2DotWhU), by Cal Newport
+- [_Getting Things Done: The Art of Stress-Free Productivity_](http://amzn.to/2DxVkhi), by David Allen
 
 ## Health/Fitness
 
@@ -60,11 +70,18 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
 - Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
 
+## Home
+
+- Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
+- Coffee Grinder: [Capresso Infinity Conical Burr Grinder](https://amzn.to/3EfZnN3)
+- Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&dib_tag=se&hvadid=570597068294&hvdev=c&hvlocphy=9015124&hvnetw=g&hvqmt=e&hvrand=2727167960365447975&hvtargid=kwd-1094615620699&hydadcr=19109_13375463&keywords=owala+24+oz&qid=1719953416&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&language=en_US&ref_=as_li_ss_tl)
+  - Previous: [Iron Flask, 64oz](https://amzn.to/3tkbBOl)
+- Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?&linkCode=ll1&tag=joshuapsteele-20&linkId=78c66778226bc3838f43d50a3d0d6ac9&language=en_US&ref_=as_li_ss_tl)
+- Cleaning Wipes: [Tub O' Towels Heavy Duty Cleaning Wipes](https://www.amazon.com/dp/B00022W4ZU?&linkCode=ll1&tag=joshuapsteele-20&linkId=45617e28ba4dd2c7dea9084447edab7c&language=en_US&ref_=as_li_ss_tl)
+
 ## DIY/Home Repair Tools
 
-- Toolboxes: 
-  - [Hyper Tough 16-inch Open Top Tool Tote](https://www.walmart.com/ip/Hyper-Tough-16-inch-Open-Top-Tool-Tote/3183302817)
-  - (Previous, Discontinued) [Milwaukee 13in Jobsite Work Tool Box](https://www.homedepot.com/p/Milwaukee-13-in-Jobsite-Work-Tool-Box-MTB1400/205026948?irgwc=1&cm_mmc=afl-ir-197432-456723-&clickid=3Y21mUzudxyKWRlXNX2VQxEqUkC0JfwEey7AwM0)
+- Toolbox: [Hyper Tough 16-inch Open Top Tool Tote](https://www.walmart.com/ip/Hyper-Tough-16-inch-Open-Top-Tool-Tote/3183302817)
 - Drill and Driver Set: [BOSCH CLPK22–120 12V Max Cordless 2-Tool 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit](https://amzn.to/3ZMf6wm)
 - Utility Knives: 
   - [Milwaukee Fastback 6-in-1 48-22-1505](https://www.homedepot.com/p/Milwaukee-FASTBACK-6-in-1-Folding-Utility-Knives-with-General-Purpose-Blade-48-22-1505/313736993)
@@ -88,28 +105,3 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - Pry Bar / Nail Puller: [Stanley 8-Inch Nail Puller](https://amzn.to/3Nx5jWH)
 - Hex / Allen Wrenches: [TEKTON Ball End Hex Key Wrench Set, 26-Piece](https://amzn.to/3Nx5jWH)
 - Tire Pressure Gauge: [ETENWOLF Digital Tire Pressure Gauge, 2 Pack](https://www.amazon.com/dp/B0CKYZB8KL?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=9abd90ed86a0d15efb6944d8e57df839&language=en_US&ref_=as_li_ss_tl)
-
-## How to Think
-
-- [_How to Read a Book: The Classic Guide to Intelligent Reading_](https://amzn.to/3tf34fD), by Mortimer J. Adler
-- [_The Personal MBA_](https://personalmba.com/), by Josh Kaufman
-- [_The Practicing Stoic: A Philosophical User’s Manual_](https://amzn.to/3UnCCwi), by Ward Farnsworth
-- [_Super Thinking: The Big Book of Mental Models_](https://amzn.to/3Tq7ACK), by Gabriel Weinberg and Lauren McCann
-- Untools: [https://untools.co/](https://untools.co/)
-- James Clear: [https://jamesclear.com/](https://jamesclear.com/)
-- Farnam Street: [https://fs.blog/](https://fs.blog/)
-- Your Logical Fallacy Is: [https://yourlogicalfallacyis.com/](https://yourlogicalfallacyis.com/)
-- Your Bias Is: [https://yourbias.is/](https://yourbias.is/)
-
-## Graphic/Web Design
-
-- Unsplash: [https://unsplash.com/](https://unsplash.com/)
-- The Noun Project: [https://thenounproject.com/](https://thenounproject.com/)
-- PDF24 Tools: [https://tools.pdf24.org/en/](https://tools.pdf24.org/en/)
-
-## Productivity and Time Management
-
-- [_The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change_](http://amzn.to/2FXQM1n), by Stephen Covey
-- [_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_](http://amzn.to/2DzEFco), by Brian Tracy
-- [_Deep Work: Rules for Focused Success in a Distracted World_](http://amzn.to/2DotWhU), by Cal Newport
-- [_Getting Things Done: The Art of Stress-Free Productivity_](http://amzn.to/2DxVkhi), by David Allen

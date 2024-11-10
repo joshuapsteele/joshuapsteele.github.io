@@ -3,31 +3,10 @@ author: joshuapsteele
 categories:
 - Bible and Scripture
 - The Christian Life
-custom_permalink:
-- bible-poverty-proverbs
-date: "2011-02-10T23:44:16Z"
+date: 2011-02-10
 guid: http://windowinthesky.wordpress.com/?p=1041
 id: 1041
-rank_math_description:
-- This is a topical study on what the book of Proverbs has to say about poverty, including
-  some application from the Bible to present-day poverty.
-rank_math_focus_keyword:
-- poverty
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "76"
-rank_math_title:
-- 'Poverty: What Can the Bible, Specifically Proverbs, Teach Us Today?'
 title: 'What the Bible Says About Poverty: The Book of Proverbs'
-total_sidebar_layout:
-- right_sidebar
 url: /bible-poverty-proverbs
 ---
 
