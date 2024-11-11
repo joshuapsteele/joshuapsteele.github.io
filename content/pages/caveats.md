@@ -2,9 +2,8 @@
 author: joshuapsteele
 title: Caveats
 url: /caveats/
+showtoc: false
 ---
-# Caveats
-
 Please keep these points in mind when reading what I write.
 
 - **Provoking Thought, Not Debate**  

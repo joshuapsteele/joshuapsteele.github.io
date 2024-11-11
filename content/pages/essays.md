@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2016-12-28T21:36:36+00:00"
 guid: https://joshuapsteele.com/?page_id=4016
 title: Essays
 url: /essays/

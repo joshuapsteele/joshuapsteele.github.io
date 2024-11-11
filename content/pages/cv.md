@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: 2024-11-10
 guid: https://joshuapsteele.com/?page_id=4007
 title: CV
 url: /cv/
