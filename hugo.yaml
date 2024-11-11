@@ -24,7 +24,7 @@ params:
   showCodeCopyButtons: true
   showFullTextInRSS: true
   showAllPagesInArchive: true
-  comments: true
+  comments: false
   hideFooter: false
   assets:
     favicon: /favicon.ico
