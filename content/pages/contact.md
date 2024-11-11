@@ -1,10 +1,8 @@
 ---
 author: joshuapsteele
-date: "2013-05-13T17:01:10+00:00"
 guid: https://joshuapsteele.com/?page_id=2619
 title: Contact
 url: /contact/
-
 ---
 The best way to contact me is to send an email to [blog@joshuapsteele.com](mailto:blog@joshuapsteele.com). I'll do my best to reaad and reply as soon as possible!
 

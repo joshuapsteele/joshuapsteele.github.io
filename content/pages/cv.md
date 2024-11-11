@@ -7,7 +7,6 @@ url: /cv/
 aliases:
 - /portfolio/cv/
 - /resume/
-
 ---
 _(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
 
