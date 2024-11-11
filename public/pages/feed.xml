@@ -6,12 +6,89 @@
     <description>Recent content in Pages on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 10 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/pages/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://joshuapsteele.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/about/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
+&lt;p&gt;As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;) with three Bible/theology degrees.&lt;/p&gt;
+&lt;p&gt;Currently living in Toledo, OH, I&amp;rsquo;ve got a wife, three young children, and an addiction to buying books and tools.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
+<p>As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>) with three Bible/theology degrees.</p>
+<p>Currently living in Toledo, OH, I&rsquo;ve got a wife, three young children, and an addiction to buying books and tools.</p>
+<p>This is my main personal website, powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>, and hosted on <a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages</a>.</p>
+<p>You can also follow my shorter posts on micro.blog over at <a href="https://social.joshuapsteeele.com">social.joshuapsteele.com</a>, which get cross-posted to <a href="https://social.lol/@steele">Mastodon</a> and <a href="https://bsky.app/profile/joshuapsteele.bsky.social">Bluesky</a>.</p>
+<p>If you&rsquo;d like to learn more about me, check out:</p>
+<ul>
+<li>My <a href="/portfolio/cv/"><strong>/resume</strong></a> (and here&rsquo;s <a href="https://www.linkedin.com/in/joshuapsteele/">my LinkedIn profile</a>)</li>
+<li>My <a href="/blog/"><strong>/blog</strong></a></li>
+<li>The <a href="/resources/"><strong>/tools</strong></a> I use</li>
+<li>What I&rsquo;m up to <a href="/now/"><strong>/now</strong></a></li>
+<li>The <a href="/questions/"><strong>/questions</strong></a> I&rsquo;m asking</li>
+</ul>
+<p>Want to contact me? Send an email to <a href="blog@joshuapsteele.com">blog@joshuapsteele.com</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Caveats</title>
+      <link>https://joshuapsteele.com/caveats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/caveats/</guid>
+      <description>&lt;p&gt;Please keep these points in mind when reading what I write.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Provoking Thought, Not Debate&lt;/strong&gt;&lt;br&gt;
+My intent is (almost always) to provoke thought, not start a debate or argument.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;I&amp;rsquo;m not Y!&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+You&amp;rsquo;re probably right! If my words don’t apply to you, please feel free to ignore them and move along.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&amp;ldquo;Not all X! You left out Z!&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
+I recognize that reality is complex and nuanced. Communication is always an oversimplification of reality. I try to value brevity, so I often keep things punchy and to the point when sharing online.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Please keep these points in mind when reading what I write.</p>
+<ul>
+<li>
+<p><strong>Provoking Thought, Not Debate</strong><br>
+My intent is (almost always) to provoke thought, not start a debate or argument.</p>
+</li>
+<li>
+<p><strong>&ldquo;I&rsquo;m not Y!&rdquo;</strong><br>
+You&rsquo;re probably right! If my words don’t apply to you, please feel free to ignore them and move along.</p>
+</li>
+<li>
+<p><strong>&ldquo;Not all X! You left out Z!&rdquo;</strong><br>
+I recognize that reality is complex and nuanced. Communication is always an oversimplification of reality. I try to value brevity, so I often keep things punchy and to the point when sharing online.</p>
+</li>
+<li>
+<p><strong>Avoiding Back-and-Forth Arguments</strong><br>
+I (almost) never engage in extended arguments on social media. If you really want to respond, please consider emailing me (contact details at <a href="/contact/">joshuapsteele.com/contact</a>), writing your own post, or texting me. (But don’t call—I’m a Millennial.)</p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://joshuapsteele.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/contact/</guid>
+      <description>&lt;p&gt;The best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to reaad and reply as soon as possible!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;the homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cheers,
+Josh&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>The best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to reaad and reply as soon as possible!</p>
+<p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">the homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
+<p>Cheers,
+Josh</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>CV</title>
       <link>https://joshuapsteele.com/cv/</link>
-      <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/cv/</guid>
       <description>&lt;p&gt;&lt;em&gt;(For a brief profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;. You can also view my resume on &lt;a href=&#34;https://www.linkedin.com/in/joshuapsteele/&#34;&gt;LinkedIn&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -263,100 +340,167 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Tech Stack</title>
-      <link>https://joshuapsteele.com/tech-stack/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/tech-stack/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href=&#34;https://joshuapsteele.com/resources&#34;&gt;/resources&lt;/a&gt; page!&lt;/p&gt;
-&lt;h2 id=&#34;personal-website-joshuapsteelecom&#34;&gt;Personal Website: &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;joshuapsteele.com&lt;/a&gt;&lt;/h2&gt;
+      <title>Essays</title>
+      <link>https://joshuapsteele.com/essays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/essays/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing the essays below, I&amp;rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&amp;rsquo;m keeping these around for posterity.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wheaton-college-graduate-school-2017---&#34;&gt;Wheaton College Graduate School (2017 - )&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;(Here&amp;rsquo;s the &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;elevator pitch for my dissertation proposal&lt;/a&gt;: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Domain registrar: &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hosting: &lt;a href=&#34;https://github.com/joshuapsteele/joshuapsteele.github.io&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Static website generator: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Hugo theme: &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/&#34;&gt;The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em&gt;Römerbrief&lt;/em&gt; Reading of Romans 9:30–10:21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/&#34;&gt;The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/&#34;&gt;When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf&#34;&gt;Theological Hermeneutics Essay&lt;/a&gt;: &lt;a href=&#34;https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/&#34;&gt;The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;email-fastmailhttpsfastmailcom&#34;&gt;Email: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;beeson-divinity-school-2013-2016&#34;&gt;Beeson Divinity School (2013-2016)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Email provider: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Custom DNS settings for joshuapsteele.com over at &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;, my domain registrar&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf&#34;&gt;To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf&#34;&gt;A Crucicentric Credo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf&#34;&gt;What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf&#34;&gt;Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/On_Scripture.pdf&#34;&gt;Dogmatic Essay on Scripture&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;social-media-microbloghttpsmicroblog-and-omglolhttpsomglol&#34;&gt;Social Media: &lt;a href=&#34;https://micro.blog/&#34;&gt;micro.blog&lt;/a&gt; and &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&#34;cedarville-university-2009-2013&#34;&gt;Cedarville University (2009-2013)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;My main social media hub is through Micro.Blog Premium ($100/year) for &lt;a href=&#34;https://social.joshuapsteele.com&#34;&gt;social.joshuapsteele.com&lt;/a&gt;, which is an alias of &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;micro.blog/joshuapsteele&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Short posts and long posts&lt;/li&gt;
-&lt;li&gt;Photo hosting&lt;/li&gt;
-&lt;li&gt;Podcast hosting&lt;/li&gt;
-&lt;li&gt;Cross-posting to Mastodon, BlueSky, and Threads&lt;/li&gt;
-&lt;li&gt;Custom themes&lt;/li&gt;
-&lt;li&gt;Publish from the web or native apps&lt;/li&gt;
-&lt;li&gt;Up to 5 blogs&lt;/li&gt;
-&lt;li&gt;Email newsletters&lt;/li&gt;
-&lt;li&gt;Private and shared notes&lt;/li&gt;
-&lt;li&gt;Strata mobile app for notes&lt;/li&gt;
-&lt;li&gt;Bookmark archiving and highlighting&lt;/li&gt;
-&lt;li&gt;Short video hosting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;I bought 10 years of &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;, which gives me a homepage at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt; as well as my Mastodon profile at &lt;a href=&#34;https://social.lol/@steele&#34;&gt;social.lol/@steele&lt;/a&gt;
-&lt;ul&gt;
-&lt;li&gt;Email forwarding for an &amp;ldquo;@omg.lol&amp;rdquo; email address&lt;/li&gt;
-&lt;li&gt;Now Page at &lt;a href=&#34;https://steele.omg.lol/now&#34;&gt;steele.omg.lol/now&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Statuslog at &lt;a href=&#34;https://steele.status.lol/&#34;&gt;steele.status.lol&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Weblog at &lt;a href=&#34;https://steele.weblog.lol/&#34;&gt;steele.weblog.lol&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Pastebin&lt;/li&gt;
-&lt;li&gt;PURLs&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf&#34;&gt;Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf&#34;&gt;Exposition Paper: Deuteronomy 6:1-15&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf&#34;&gt;Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf&#34;&gt;Exposition Paper: Micah 6:1-16&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf&#34;&gt;Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf&#34;&gt;The Argument/Story of Romans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf&#34;&gt;Exegetical Paper: Hebrews 10:19-25&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
-<h2 id="personal-website-joshuapsteelecom">Personal Website: <a href="/">joshuapsteele.com</a></h2>
+      <content:encoded><![CDATA[<p><em>(Note: Since writing the essays below, I&rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&rsquo;m keeping these around for posterity.)</em></p>
+<h2 id="wheaton-college-graduate-school-2017---">Wheaton College Graduate School (2017 - )</h2>
+<p><em>(Here&rsquo;s the <a href="/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">elevator pitch for my dissertation proposal</a>: &ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&rdquo;)</em></p>
 <ul>
-<li>Domain registrar: <a href="https://porkbun.com/">Porkbun</a></li>
-<li>Hosting: <a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages</a></li>
-<li>Static website generator: <a href="https://gohugo.io/">Hugo</a></li>
-<li>Hugo theme: <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a></li>
+<li><a href="/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/">The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s <em>Römerbrief</em> Reading of Romans 9:30–10:21</a></li>
+<li><a href="/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/">The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24</a></li>
+<li><a href="/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/">When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer</a></li>
+<li><a href="/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf">Theological Hermeneutics Essay</a>: <a href="/hermeneutical-implications-scriptures-theological-location/">The Hermeneutical Implications of Scripture&rsquo;s Theological Location</a></li>
 </ul>
-<h2 id="email-fastmailhttpsfastmailcom">Email: <a href="https://fastmail.com">Fastmail</a></h2>
+<h2 id="beeson-divinity-school-2013-2016">Beeson Divinity School (2013-2016)</h2>
 <ul>
-<li>Email provider: <a href="https://fastmail.com">Fastmail</a></li>
-<li>Custom DNS settings for joshuapsteele.com over at <a href="https://porkbun.com/">Porkbun</a>, my domain registrar</li>
+<li><a href="/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf">To Be or Not To Be Religious: A Clarification of Karl Barth&rsquo;s and Dietrich Bonhoeffer&rsquo;s Divergence and Convergence Regarding Religion</a></li>
+<li><a href="/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf">A Crucicentric Credo</a></li>
+<li><a href="/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf">What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?</a></li>
+<li><a href="/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf">Disunity as Ecclesiological Impossibility: A Barthian Analogy</a></li>
+<li><a href="/wp-content/uploads/2016/12/On_Scripture.pdf">Dogmatic Essay on Scripture</a></li>
 </ul>
-<h2 id="social-media-microbloghttpsmicroblog-and-omglolhttpsomglol">Social Media: <a href="https://micro.blog/">micro.blog</a> and <a href="https://omg.lol">omg.lol</a></h2>
+<h2 id="cedarville-university-2009-2013">Cedarville University (2009-2013)</h2>
 <ul>
-<li>My main social media hub is through Micro.Blog Premium ($100/year) for <a href="https://social.joshuapsteele.com">social.joshuapsteele.com</a>, which is an alias of <a href="https://micro.blog/joshuapsteele">micro.blog/joshuapsteele</a>
+<li><a href="/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf">Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God</a></li>
+<li><a href="/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf">Creation and Doxology: A Portrait of Biblical Creation Theology</a></li>
+<li><a href="/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf">Exposition Paper: Deuteronomy 6:1-15</a></li>
+<li><a href="/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf">Yahweh&rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah</a></li>
+<li><a href="/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf">Exposition Paper: Micah 6:1-16</a></li>
+<li><a href="/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf">Romans 13:1-7 - A Contextually-Appropriate Reading</a></li>
+<li><a href="/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf">The Argument/Story of Romans</a></li>
+<li><a href="/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf">Exegetical Paper: Hebrews 10:19-25</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My Story</title>
+      <link>https://joshuapsteele.com/my-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/my-story/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: for a much briefer profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;from-childhood-to-college&#34;&gt;From Childhood to College&lt;/h2&gt;
+&lt;p&gt;God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><em>(Note: for a much briefer profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>.)</em></p>
+<h2 id="from-childhood-to-college">From Childhood to College</h2>
+<p>God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.</p>
+<p>At age five, I prayed the “sinner’s prayer” after my dad shared the gospel with me. But after I read the first <em>Left Behind</em> book at age ten, I was terrified about my eternal destiny. After all, I could not directly remember my mindset at age five. Was I really sincere, or did I merely pray the prayer to make my dad happy? Searching for certainty, I lost many hours of sleep worrying that my family members were being raptured without me that very moment.</p>
+<p>Although my views on the rapture have since changed, I look back upon this spiritual struggle with gratitude to God for providing me with guides, my pastor and parents, who pointed me to the Bible to prevent me from turning my faith inward on itself, from basing my salvation in my sincerity rather than on God’s faithfulness to redeem. Although I would not now advise this to my younger self (I view my Roman Catholic infant baptism as my valid baptism), I was baptized again at age ten, in a public declaration of my rededicated faith.</p>
+<p>Although I languished in spiritual apathy and bitterness during junior high, God used a friendship with a missionary-kid and a trip to Brazil to revitalize my faith and give me a love for foreign languages and cultures. In high school, God used a committed youth pastor to encourage my development into a student leader and worship leader. As a missions bookend to my high school experience, I was given a glimpse of how God could use me for his glory when our youth group traveled to Mexico City and I led bilingual worship and translated for my peers.</p>
+<p>After returning from Mexico, however, my first opportunity to preach wrecked my plans for the future (I wanted to be a mechanical engineer). As I prepared my first sermon, it bothered me that I knew much more about calculus, physics, and Spanish than I did about Scripture. Wanting to learn more about the gospel to preach that good news to others, I changed my major from Mechanical Engineering to Pre-seminary Bible just three weeks before my first semester of college.</p>
+<h2 id="college-cedarville-university">College (Cedarville University)</h2>
+<p>I had a lot going for me as I entered college. Although I am the son of a bricklayer and a homemaker, I was able to go to a Christian university because God miraculously provided a full-ride scholarship. Furthermore, the conservative Baptist environment of my high school days had given me a love for the gospel, for prayer, and for studying Scripture.</p>
+<p>And yet, I suffered from a nasty combination of piety and pride. I was full of myself and I wanted to be really good at theology, to prove to myself and my parents that I was not crazy for abandoning engineering. I had also hidden an addiction to pornography throughout high school. God had some chains to break and an ego to deflate. Thankfully, although pride and lust are still temptations that I battle through accountability, confession, repentance, and prayer, God both humbled me and set me free from bondage to porn.</p>
+<p>In college, I fell in love with a nursing student from Pennsylvania (we got married during the summer before our senior year, August 4, 2012). I also fell in love with the gospel. My college theology professors were invaluable guides, first revealing the shallowness of my theology, and then pointing out the depths of the theological task. They demonstrated what it looked like to be in love with the God of the gospel and to be faithful with the intellectual gifts he provides. I emerged from their classrooms wanting to advance God’s kingdom by investing in the Church academically, pastorally, and globally—as part- professor, pastor, and missionary.</p>
+<p>Nevertheless, my college years ended on a painful note. In what I now refer to as the “Cedarville Purge,” the most conservative constituents of the university exacted revenge for a shift to moderate evangelicalism that had taken place in the years just before I arrived as a freshman. My professors were forced out because being a moderate evangelical was too liberal for the university’s new vision. I and others protested the shameful actions of the trustees and administrators—but we failed. Although God was gracious to provide other jobs for my professors, it was a very painful experience during a formative period in my life.</p>
+<h2 id="seminary-beeson-divinity-school">Seminary (Beeson Divinity School)</h2>
+<p>Given the unhappy ending to my college career, I am extremely thankful that God led me to Beeson Divinity School and St. Peter’s Anglican Church in Birmingham, AL. The theological tradition and breadth of Anglicanism, as well as the ecumenical spirit of Beeson, were breaths of fresh air and balms to my wounded spirit. In not throwing out the theological baby with the bathwater, it was healthy for me to step back from the prophetic fervor of my final days at Cedarville, and instead to devote myself to being faithful with the gifts and opportunities God gave me in Alabama.</p>
+<p>I <em>learned</em> a lot as a seminarian. And I was also given the opportunity as a youth minister at St. Peter’s to <em>teach</em> others about the God of the gospel who has captured my thoughts. The joys and challenges of student ministry reinforced my identity as a student and a teacher. While I used to think I could be satisfied as a professor even without a pastoral role in the Church, my time as a youth minister in seminary changed that. If forced to choose between the Church and the academy, I would choose pastoral ministry every time. I was ordained as a deacon in October 2016, shortly before completing my M.Div.</p>
+<h2 id="phd-and-the-priesthood-wheaton-college">Ph.D. and The Priesthood (Wheaton College)</h2>
+<p>Nevertheless, in the interests of becoming a pastor-theologian, I decided to pursue a Ph.D. I entered the Ph.D. program at Wheaton College in 2017. Since then, God has blessed me and my family in many ways. He provided fulfilling work as a Nurse Practitioner for my wife, Rachel. He provided me with a part-time job as the Managing Editor of Anglican Compass. And he also blessed us with two wonderful children (Eva in July 2018, Andrew in July 2020).</p>
+<p>Another blessing has been our church family at Church of the Savior. When we left Alabama, I was really anxious about finding a place to serve as clergy while a full-time doctoral student. Our rector, Kevin Miller, has been incredibly supportive as a mentor. He’s given me opportunities to serve and he sponsored my ordination to the priesthood in November 2019—all while allowing my roles in preaching, pastoral care, student ministry, worship, church website, and church administration to change over time as my Ph.D. commitments necessitated.</p>
+<p>Nevertheless, I have also faced several challenges in the past couple years. I ran into huge dissertation roadblocks right before the COVID-19 lockdown in March, when I lost access to my library carrell for 5 months. These obstacles, plus employment uncertainty, the arrival of our second child, and increased isolation from the church due to virtual-only worship made 2020 one of the most difficult years of my life.</p>
+<p>I made the decision to start medication and therapy for depression and anxiety in fall 2020. In early winter, after a lot of prayer, deliberation, and seeking godly counsel, I made the difficult decision to hit pause (“excused program leave”) on my Ph.D. program for a year for the sake of my mental health. Since making that decision, I’ve grown more and more confident that stepping away from the Ph.D. for at least a year is the right thing to do.</p>
+<p>Where does that leave me? My rocky road as a Ph.D. student has convinced me even more that my heart lies with the Church, not with the Academy. I thank God for the blessings of formal theological education, and I’d like to do everything I can to help bridge the gap between the Church and the Academy by making gospel-centered theological education accessible to each and every Christian, and not just for specialists!</p>
+<p>So, I’m still a student and a teacher at heart. And I’m still trying to discern whether finishing my Ph.D. is the right decision at this point in my life. But, at the end of the day, I’m a pastor at heart. And, whether or not I finish my Ph.D., the following words from my ordination to the priesthood are my North Star in ministry:</p>
+<blockquote>
+<p>“Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.”</p>
+</blockquote>
+<p>May it be so. Amen.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>https://joshuapsteele.com/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/now/</guid>
+      <description>&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Living in Toledo, OH (my hometown!)&lt;/li&gt;
+&lt;li&gt;Raising 3 young kids (6yo, 4yo, 1yo) with my wife&lt;/li&gt;
+&lt;li&gt;Enjoying my work as a software engineer&lt;/li&gt;
+&lt;li&gt;Trying to lose weight (current weight: 235lbs; goal: 200lbs)&lt;/li&gt;
+&lt;li&gt;Working on home and auto repair&lt;/li&gt;
+&lt;li&gt;Buying too many books and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, and if you have your own site, &lt;a href=&#34;https://nownownow.com/about&#34;&gt;you should make one&lt;/a&gt;, too.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last updated: 2024-10-19&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
 <ul>
-<li>Short posts and long posts</li>
-<li>Photo hosting</li>
-<li>Podcast hosting</li>
-<li>Cross-posting to Mastodon, BlueSky, and Threads</li>
-<li>Custom themes</li>
-<li>Publish from the web or native apps</li>
-<li>Up to 5 blogs</li>
-<li>Email newsletters</li>
-<li>Private and shared notes</li>
-<li>Strata mobile app for notes</li>
-<li>Bookmark archiving and highlighting</li>
-<li>Short video hosting</li>
+<li>Living in Toledo, OH (my hometown!)</li>
+<li>Raising 3 young kids (6yo, 4yo, 1yo) with my wife</li>
+<li>Enjoying my work as a software engineer</li>
+<li>Trying to lose weight (current weight: 235lbs; goal: 200lbs)</li>
+<li>Working on home and auto repair</li>
+<li>Buying too many books and tools</li>
 </ul>
-</li>
-<li>I bought 10 years of <a href="https://omg.lol">omg.lol</a>, which gives me a homepage at <a href="https://steele.omg.lol">steele.omg.lol</a> as well as my Mastodon profile at <a href="https://social.lol/@steele">social.lol/@steele</a>
+<p><em>(This is a <a href="https://nownownow.com/about">now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)</em></p>
+<p>Last updated: 2024-10-19</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Philosophy of Ministry</title>
+      <link>https://joshuapsteele.com/philosophy-of-ministry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/philosophy-of-ministry/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Every Christian is a theologian.&lt;/p&gt;
+&lt;p&gt;I consider it my life&amp;rsquo;s work to help &amp;ldquo;everyday Christians&amp;rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&amp;rsquo;s redemptive work in the world. In biblical terms, I&amp;rsquo;m called to &amp;ldquo;equip the saints for the work of ministry&amp;rdquo; and to &amp;ldquo;build up the body of Christ&amp;rdquo; (Eph. 4:12).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><em>(Note: Since writing this &ldquo;philosophy of ministry&rdquo;, I have since <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>. I now work full-time as a software engineer, and am trying to discern what my Christian &ldquo;vocation&rdquo; looks like, going forward. Nevertheless, I will leave what I&rsquo;ve written below for posterity.)</em></p>
+<hr>
+<p>Every Christian is a theologian.</p>
+<p>I consider it my life&rsquo;s work to help &ldquo;everyday Christians&rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&rsquo;s redemptive work in the world. In biblical terms, I&rsquo;m called to &ldquo;equip the saints for the work of ministry&rdquo; and to &ldquo;build up the body of Christ&rdquo; (Eph. 4:12).</p>
+<p>Now, on the one hand, this means that I’m not supposed to do all the work of ministry myself! I am not an expert who asks the non-specialists to step aside so that the real work can be done by a professional. No! The “ministry” is done by all the saints, not just the ordained clergy.</p>
+<p>And yet, on the other hand, I must set the saints a good example in my life and work. I must constantly grow in the knowledge and love of God if I am to be &ldquo;a messenger, watchman, and steward of the Lord&rdquo; who can &ldquo;teach, to warn, to feed, and to provide for the Lord&rsquo;s family&rdquo; (2019 BCP, p. 489).</p>
+<p>Pastoral ministry requires a lifelong devotion to the Word of God. As my bishop put it when I was ordained to the priesthood, &ldquo;the demands of this holy Office are so great&rdquo; that I must &ldquo;lay aside all worldly distractions and take care to direct all that [I] do to this purpose: read, mark, learn, and inwardly digest the Scriptures&rdquo; (2019 BCP, p. 489).</p>
+<p>Put simply: Bible study—and not just for sermon preparation—is essential for pastoral ministry. I will not be able to &ldquo;frame [my] conduct, and that of my household and those committed to [my] care, according to the doctrine and discipline of Christ&rdquo; (2019 BCP, p. 489) unless I&rsquo;m saying &ldquo;no&rdquo; to enough other things to protect the time and space I need to digest the Scriptures.</p>
+<p>But, of course, I can’t accomplish any of this on my own. I need to “pray earnestly” for the “Holy Spirit to enlighten [my] mind and strengthen [my] resolve” (2019 BCP, p. 489). To equip the saints for the work of ministry, I need to saturate my life with Scripture and prayer. This is the two-stroke engine, as it were, that drives a genuinely successful ministry of Word and Sacrament. It’s the part of my ordination vows that enables me to do the other things I vowed to do:</p>
 <ul>
-<li>Email forwarding for an &ldquo;@omg.lol&rdquo; email address</li>
-<li>Now Page at <a href="https://steele.omg.lol/now">steele.omg.lol/now</a></li>
-<li>Statuslog at <a href="https://steele.status.lol/">steele.status.lol</a></li>
-<li>Weblog at <a href="https://steele.weblog.lol/">steele.weblog.lol</a></li>
-<li>Pastebin</li>
-<li>PURLs</li>
+<li>&ldquo;to minister the doctrine, sacraments, and discipline of Christ, as the Lord has commanded and this Church has received them, according to the commandments of God, so that [I] may teach the people committed to [my] charge with all diligence to keep and observe them&rdquo;</li>
+<li>&ldquo;to banish and drive away from the Body of Christ all erroneous and strange doctrines contrary to God’s Word&rdquo;</li>
+<li>&ldquo;to use both public and private admonitions and exhortations, to the weak as well as the strong within [my] charge, as need shall require and occasion be given&rdquo;</li>
+<li>&ldquo;to frame and fashion my own life and the life of my family, according to the doctrine of Christ, and to make myself and them, as much as I am able, a wholesome example and pattern to the flock of Christ&rdquo;</li>
+<li>&ldquo;to maintain and set forward, as much as I am able, quietness, peace, and love among all Christian people, and especially among those who are or shall be committed to my charge&rdquo;</li>
+<li>&ldquo;to obey my Bishop and other chief Ministers who, according to the Canons of this Church, may have charge and authority over [me], following with a glad mind and a good will their godly admonitions, and submitting [myself] to their godly judgments&rdquo; (2019 BCP, pp. 490–91).</li>
 </ul>
-</li>
-</ul>
+<p>Such is the ministry of Word and Sacrament to which I have been called and ordained within Christ’s Church.</p>
+<p>At the end of the day, as a pastor, I am not a CEO, guru, or celebrity speaker. Instead, I am an under-shepherd, with delegated authority from the Good Shepherd to feed and equip his flock to do the work he has called us all to do.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Questions</title>
       <link>https://joshuapsteele.com/questions/</link>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/questions/</guid>
       <description>&lt;p&gt;This is a &lt;code&gt;/questions&lt;/code&gt; page, where I keep track of the questions I&amp;rsquo;m asking!&lt;/p&gt;
 &lt;p&gt;Last Updated: 2024-11-10&lt;/p&gt;
@@ -396,253 +540,9 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Philosophy of Ministry</title>
-      <link>https://joshuapsteele.com/philosophy-of-ministry/</link>
-      <pubDate>Fri, 21 May 2021 11:37:13 +0000</pubDate>
-      <guid>https://joshuapsteele.com/philosophy-of-ministry/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;Every Christian is a theologian.&lt;/p&gt;
-&lt;p&gt;I consider it my life&amp;rsquo;s work to help &amp;ldquo;everyday Christians&amp;rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&amp;rsquo;s redemptive work in the world. In biblical terms, I&amp;rsquo;m called to &amp;ldquo;equip the saints for the work of ministry&amp;rdquo; and to &amp;ldquo;build up the body of Christ&amp;rdquo; (Eph. 4:12).&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><em>(Note: Since writing this &ldquo;philosophy of ministry&rdquo;, I have since <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>. I now work full-time as a software engineer, and am trying to discern what my Christian &ldquo;vocation&rdquo; looks like, going forward. Nevertheless, I will leave what I&rsquo;ve written below for posterity.)</em></p>
-<hr>
-<p>Every Christian is a theologian.</p>
-<p>I consider it my life&rsquo;s work to help &ldquo;everyday Christians&rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&rsquo;s redemptive work in the world. In biblical terms, I&rsquo;m called to &ldquo;equip the saints for the work of ministry&rdquo; and to &ldquo;build up the body of Christ&rdquo; (Eph. 4:12).</p>
-<p>Now, on the one hand, this means that I’m not supposed to do all the work of ministry myself! I am not an expert who asks the non-specialists to step aside so that the real work can be done by a professional. No! The “ministry” is done by all the saints, not just the ordained clergy.</p>
-<p>And yet, on the other hand, I must set the saints a good example in my life and work. I must constantly grow in the knowledge and love of God if I am to be &ldquo;a messenger, watchman, and steward of the Lord&rdquo; who can &ldquo;teach, to warn, to feed, and to provide for the Lord&rsquo;s family&rdquo; (2019 BCP, p. 489).</p>
-<p>Pastoral ministry requires a lifelong devotion to the Word of God. As my bishop put it when I was ordained to the priesthood, &ldquo;the demands of this holy Office are so great&rdquo; that I must &ldquo;lay aside all worldly distractions and take care to direct all that [I] do to this purpose: read, mark, learn, and inwardly digest the Scriptures&rdquo; (2019 BCP, p. 489).</p>
-<p>Put simply: Bible study—and not just for sermon preparation—is essential for pastoral ministry. I will not be able to &ldquo;frame [my] conduct, and that of my household and those committed to [my] care, according to the doctrine and discipline of Christ&rdquo; (2019 BCP, p. 489) unless I&rsquo;m saying &ldquo;no&rdquo; to enough other things to protect the time and space I need to digest the Scriptures.</p>
-<p>But, of course, I can’t accomplish any of this on my own. I need to “pray earnestly” for the “Holy Spirit to enlighten [my] mind and strengthen [my] resolve” (2019 BCP, p. 489). To equip the saints for the work of ministry, I need to saturate my life with Scripture and prayer. This is the two-stroke engine, as it were, that drives a genuinely successful ministry of Word and Sacrament. It’s the part of my ordination vows that enables me to do the other things I vowed to do:</p>
-<ul>
-<li>&ldquo;to minister the doctrine, sacraments, and discipline of Christ, as the Lord has commanded and this Church has received them, according to the commandments of God, so that [I] may teach the people committed to [my] charge with all diligence to keep and observe them&rdquo;</li>
-<li>&ldquo;to banish and drive away from the Body of Christ all erroneous and strange doctrines contrary to God’s Word&rdquo;</li>
-<li>&ldquo;to use both public and private admonitions and exhortations, to the weak as well as the strong within [my] charge, as need shall require and occasion be given&rdquo;</li>
-<li>&ldquo;to frame and fashion my own life and the life of my family, according to the doctrine of Christ, and to make myself and them, as much as I am able, a wholesome example and pattern to the flock of Christ&rdquo;</li>
-<li>&ldquo;to maintain and set forward, as much as I am able, quietness, peace, and love among all Christian people, and especially among those who are or shall be committed to my charge&rdquo;</li>
-<li>&ldquo;to obey my Bishop and other chief Ministers who, according to the Canons of this Church, may have charge and authority over [me], following with a glad mind and a good will their godly admonitions, and submitting [myself] to their godly judgments&rdquo; (2019 BCP, pp. 490–91).</li>
-</ul>
-<p>Such is the ministry of Word and Sacrament to which I have been called and ordained within Christ’s Church.</p>
-<p>At the end of the day, as a pastor, I am not a CEO, guru, or celebrity speaker. Instead, I am an under-shepherd, with delegated authority from the Good Shepherd to feed and equip his flock to do the work he has called us all to do.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>My Story</title>
-      <link>https://joshuapsteele.com/my-story/</link>
-      <pubDate>Sat, 09 Jan 2021 22:32:26 +0000</pubDate>
-      <guid>https://joshuapsteele.com/my-story/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Note: for a much briefer profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;from-childhood-to-college&#34;&gt;From Childhood to College&lt;/h2&gt;
-&lt;p&gt;God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><em>(Note: for a much briefer profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>.)</em></p>
-<h2 id="from-childhood-to-college">From Childhood to College</h2>
-<p>God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.</p>
-<p>At age five, I prayed the “sinner’s prayer” after my dad shared the gospel with me. But after I read the first <em>Left Behind</em> book at age ten, I was terrified about my eternal destiny. After all, I could not directly remember my mindset at age five. Was I really sincere, or did I merely pray the prayer to make my dad happy? Searching for certainty, I lost many hours of sleep worrying that my family members were being raptured without me that very moment.</p>
-<p>Although my views on the rapture have since changed, I look back upon this spiritual struggle with gratitude to God for providing me with guides, my pastor and parents, who pointed me to the Bible to prevent me from turning my faith inward on itself, from basing my salvation in my sincerity rather than on God’s faithfulness to redeem. Although I would not now advise this to my younger self (I view my Roman Catholic infant baptism as my valid baptism), I was baptized again at age ten, in a public declaration of my rededicated faith.</p>
-<p>Although I languished in spiritual apathy and bitterness during junior high, God used a friendship with a missionary-kid and a trip to Brazil to revitalize my faith and give me a love for foreign languages and cultures. In high school, God used a committed youth pastor to encourage my development into a student leader and worship leader. As a missions bookend to my high school experience, I was given a glimpse of how God could use me for his glory when our youth group traveled to Mexico City and I led bilingual worship and translated for my peers.</p>
-<p>After returning from Mexico, however, my first opportunity to preach wrecked my plans for the future (I wanted to be a mechanical engineer). As I prepared my first sermon, it bothered me that I knew much more about calculus, physics, and Spanish than I did about Scripture. Wanting to learn more about the gospel to preach that good news to others, I changed my major from Mechanical Engineering to Pre-seminary Bible just three weeks before my first semester of college.</p>
-<h2 id="college-cedarville-university">College (Cedarville University)</h2>
-<p>I had a lot going for me as I entered college. Although I am the son of a bricklayer and a homemaker, I was able to go to a Christian university because God miraculously provided a full-ride scholarship. Furthermore, the conservative Baptist environment of my high school days had given me a love for the gospel, for prayer, and for studying Scripture.</p>
-<p>And yet, I suffered from a nasty combination of piety and pride. I was full of myself and I wanted to be really good at theology, to prove to myself and my parents that I was not crazy for abandoning engineering. I had also hidden an addiction to pornography throughout high school. God had some chains to break and an ego to deflate. Thankfully, although pride and lust are still temptations that I battle through accountability, confession, repentance, and prayer, God both humbled me and set me free from bondage to porn.</p>
-<p>In college, I fell in love with a nursing student from Pennsylvania (we got married during the summer before our senior year, August 4, 2012). I also fell in love with the gospel. My college theology professors were invaluable guides, first revealing the shallowness of my theology, and then pointing out the depths of the theological task. They demonstrated what it looked like to be in love with the God of the gospel and to be faithful with the intellectual gifts he provides. I emerged from their classrooms wanting to advance God’s kingdom by investing in the Church academically, pastorally, and globally—as part- professor, pastor, and missionary.</p>
-<p>Nevertheless, my college years ended on a painful note. In what I now refer to as the “Cedarville Purge,” the most conservative constituents of the university exacted revenge for a shift to moderate evangelicalism that had taken place in the years just before I arrived as a freshman. My professors were forced out because being a moderate evangelical was too liberal for the university’s new vision. I and others protested the shameful actions of the trustees and administrators—but we failed. Although God was gracious to provide other jobs for my professors, it was a very painful experience during a formative period in my life.</p>
-<h2 id="seminary-beeson-divinity-school">Seminary (Beeson Divinity School)</h2>
-<p>Given the unhappy ending to my college career, I am extremely thankful that God led me to Beeson Divinity School and St. Peter’s Anglican Church in Birmingham, AL. The theological tradition and breadth of Anglicanism, as well as the ecumenical spirit of Beeson, were breaths of fresh air and balms to my wounded spirit. In not throwing out the theological baby with the bathwater, it was healthy for me to step back from the prophetic fervor of my final days at Cedarville, and instead to devote myself to being faithful with the gifts and opportunities God gave me in Alabama.</p>
-<p>I <em>learned</em> a lot as a seminarian. And I was also given the opportunity as a youth minister at St. Peter’s to <em>teach</em> others about the God of the gospel who has captured my thoughts. The joys and challenges of student ministry reinforced my identity as a student and a teacher. While I used to think I could be satisfied as a professor even without a pastoral role in the Church, my time as a youth minister in seminary changed that. If forced to choose between the Church and the academy, I would choose pastoral ministry every time. I was ordained as a deacon in October 2016, shortly before completing my M.Div.</p>
-<h2 id="phd-and-the-priesthood-wheaton-college">Ph.D. and The Priesthood (Wheaton College)</h2>
-<p>Nevertheless, in the interests of becoming a pastor-theologian, I decided to pursue a Ph.D. I entered the Ph.D. program at Wheaton College in 2017. Since then, God has blessed me and my family in many ways. He provided fulfilling work as a Nurse Practitioner for my wife, Rachel. He provided me with a part-time job as the Managing Editor of Anglican Compass. And he also blessed us with two wonderful children (Eva in July 2018, Andrew in July 2020).</p>
-<p>Another blessing has been our church family at Church of the Savior. When we left Alabama, I was really anxious about finding a place to serve as clergy while a full-time doctoral student. Our rector, Kevin Miller, has been incredibly supportive as a mentor. He’s given me opportunities to serve and he sponsored my ordination to the priesthood in November 2019—all while allowing my roles in preaching, pastoral care, student ministry, worship, church website, and church administration to change over time as my Ph.D. commitments necessitated.</p>
-<p>Nevertheless, I have also faced several challenges in the past couple years. I ran into huge dissertation roadblocks right before the COVID-19 lockdown in March, when I lost access to my library carrell for 5 months. These obstacles, plus employment uncertainty, the arrival of our second child, and increased isolation from the church due to virtual-only worship made 2020 one of the most difficult years of my life.</p>
-<p>I made the decision to start medication and therapy for depression and anxiety in fall 2020. In early winter, after a lot of prayer, deliberation, and seeking godly counsel, I made the difficult decision to hit pause (“excused program leave”) on my Ph.D. program for a year for the sake of my mental health. Since making that decision, I’ve grown more and more confident that stepping away from the Ph.D. for at least a year is the right thing to do.</p>
-<p>Where does that leave me? My rocky road as a Ph.D. student has convinced me even more that my heart lies with the Church, not with the Academy. I thank God for the blessings of formal theological education, and I’d like to do everything I can to help bridge the gap between the Church and the Academy by making gospel-centered theological education accessible to each and every Christian, and not just for specialists!</p>
-<p>So, I’m still a student and a teacher at heart. And I’m still trying to discern whether finishing my Ph.D. is the right decision at this point in my life. But, at the end of the day, I’m a pastor at heart. And, whether or not I finish my Ph.D., the following words from my ordination to the priesthood are my North Star in ministry:</p>
-<blockquote>
-<p>“Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.”</p>
-</blockquote>
-<p>May it be so. Amen.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Now</title>
-      <link>https://joshuapsteele.com/now/</link>
-      <pubDate>Wed, 21 Nov 2018 15:00:59 +0000</pubDate>
-      <guid>https://joshuapsteele.com/now/</guid>
-      <description>&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Living in Toledo, OH (my hometown!)&lt;/li&gt;
-&lt;li&gt;Raising 3 young kids (6yo, 4yo, 1yo) with my wife&lt;/li&gt;
-&lt;li&gt;Enjoying my work as a software engineer&lt;/li&gt;
-&lt;li&gt;Trying to lose weight (current weight: 235lbs; goal: 200lbs)&lt;/li&gt;
-&lt;li&gt;Working on home and auto repair&lt;/li&gt;
-&lt;li&gt;Buying too many books and tools&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;(This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, and if you have your own site, &lt;a href=&#34;https://nownownow.com/about&#34;&gt;you should make one&lt;/a&gt;, too.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Last updated: 2024-10-19&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
-<ul>
-<li>Living in Toledo, OH (my hometown!)</li>
-<li>Raising 3 young kids (6yo, 4yo, 1yo) with my wife</li>
-<li>Enjoying my work as a software engineer</li>
-<li>Trying to lose weight (current weight: 235lbs; goal: 200lbs)</li>
-<li>Working on home and auto repair</li>
-<li>Buying too many books and tools</li>
-</ul>
-<p><em>(This is a <a href="https://nownownow.com/about">now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)</em></p>
-<p>Last updated: 2024-10-19</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Wish List</title>
-      <link>https://joshuapsteele.com/wishlist/</link>
-      <pubDate>Sun, 11 Nov 2018 19:20:15 +0000</pubDate>
-      <guid>https://joshuapsteele.com/wishlist/</guid>
-      <description>&lt;p&gt;I want…&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;To be a good husband&lt;/li&gt;
-&lt;li&gt;To be a good father&lt;/li&gt;
-&lt;li&gt;To be a good friend&lt;/li&gt;
-&lt;li&gt;To solve people’s problems&lt;/li&gt;
-&lt;li&gt;To build what people use&lt;/li&gt;
-&lt;li&gt;To write what people read&lt;/li&gt;
-&lt;li&gt;To never stop learning&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;finances&#34;&gt;Finances&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;To have control over my time
-&lt;ul&gt;
-&lt;li&gt;“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, &lt;em&gt;The Psychology of Money&lt;/em&gt;, 83).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;To make at least $200K/year&lt;/li&gt;
-&lt;li&gt;To have at least $100K saved in the bank&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;home&#34;&gt;Home&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;To own a house with
-&lt;ul&gt;
-&lt;li&gt;✅ central AC,&lt;/li&gt;
-&lt;li&gt;✅ dry basement,&lt;/li&gt;
-&lt;li&gt;✅ home office,&lt;/li&gt;
-&lt;li&gt;✅ workshop (garage), and&lt;/li&gt;
-&lt;li&gt;✅ home gym (also garage)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;health--fitness&#34;&gt;Health &amp;amp; Fitness&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;To weigh 200 pounds or less&lt;/li&gt;
-&lt;li&gt;To be able to run a half marathon at any time&lt;/li&gt;
-&lt;li&gt;To look good naked&lt;/li&gt;
-&lt;li&gt;✅ Power rack with a pull-up bar (like the &lt;a href=&#34;https://repfitness.com/collections/power-racks/products/pr-1100-power-rack&#34;&gt;REP Fitness PR–1100&lt;/a&gt; or &lt;a href=&#34;https://www.roguefitness.com/rogue-r-3-power-rack&#34;&gt;Rogue R–3&lt;/a&gt;; Went with the REP Fitness PR-1100!)&lt;/li&gt;
-&lt;li&gt;✅ Deadlift platform (build my own with &lt;a href=&#34;https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat&#34;&gt;horse stall mats from Tractor Supply Co.&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;TBD, working on reading the books I already own!&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;✅ Workbench&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://amzn.to/3w6X1LM&#34;&gt;Table saw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3XzmOrA&#34;&gt;Miter saw&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3CWkjYp&#34;&gt;Reciprocating saw, AKA “Sawzall”&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://amzn.to/3iLeFBI&#34;&gt;Pocket hole jig&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html&#34;&gt;Hand truck&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html&#34;&gt;Floor jack&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html&#34;&gt;Jack stands&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3ZJ0BZT&#34;&gt;Stanley FuBar III&lt;/a&gt; pry bar&lt;/li&gt;
-&lt;li&gt;✅ &lt;a href=&#34;https://marshalltown.com/pro-2152-monster-pry-bar&#34;&gt;“Burke bar” pry bar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;tech&#34;&gt;Tech&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://supernote.com/products/supernote-x-series-standard-set?variant=42979128279276&#34;&gt;Supernote A5X tablet, pen, and folio cover&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;✅ XBox (Series X or S) console, controllers, and headsets&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Electric guitar, amp, and pedals (something like &lt;a href=&#34;https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black&#34;&gt;this Yamaha GigMaker set&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Rifle (something like a &lt;a href=&#34;https://www.ruger.com/products/1022/overview.html&#34;&gt;Ruger 10/22&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Shotgun (something like a &lt;a href=&#34;https://www.remarms.com/shotguns/pump-action/model-870/&#34;&gt;Remington 870&lt;/a&gt; or &lt;a href=&#34;https://www.mossberg.com/firearms/shotguns/500.html&#34;&gt;Mossberg 500&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Handgun (perhaps a &lt;a href=&#34;https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5&#34;&gt;Glock G19 Gen 5&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;p&gt;Last updated 2024-09-19&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I want…</p>
-<ul>
-<li>To be a good husband</li>
-<li>To be a good father</li>
-<li>To be a good friend</li>
-<li>To solve people’s problems</li>
-<li>To build what people use</li>
-<li>To write what people read</li>
-<li>To never stop learning</li>
-</ul>
-<h2 id="finances">Finances</h2>
-<ul>
-<li>To have control over my time
-<ul>
-<li>“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, <em>The Psychology of Money</em>, 83).</li>
-</ul>
-</li>
-<li>To make at least $200K/year</li>
-<li>To have at least $100K saved in the bank</li>
-</ul>
-<h2 id="home">Home</h2>
-<ul>
-<li>To own a house with
-<ul>
-<li>✅ central AC,</li>
-<li>✅ dry basement,</li>
-<li>✅ home office,</li>
-<li>✅ workshop (garage), and</li>
-<li>✅ home gym (also garage)</li>
-</ul>
-</li>
-</ul>
-<h2 id="health--fitness">Health &amp; Fitness</h2>
-<ul>
-<li>To weigh 200 pounds or less</li>
-<li>To be able to run a half marathon at any time</li>
-<li>To look good naked</li>
-<li>✅ Power rack with a pull-up bar (like the <a href="https://repfitness.com/collections/power-racks/products/pr-1100-power-rack">REP Fitness PR–1100</a> or <a href="https://www.roguefitness.com/rogue-r-3-power-rack">Rogue R–3</a>; Went with the REP Fitness PR-1100!)</li>
-<li>✅ Deadlift platform (build my own with <a href="https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat">horse stall mats from Tractor Supply Co.</a>)</li>
-</ul>
-<h2 id="books">Books</h2>
-<ul>
-<li>TBD, working on reading the books I already own!</li>
-</ul>
-<h2 id="tools">Tools</h2>
-<ul>
-<li>✅ Workbench</li>
-<li><a href="https://amzn.to/3w6X1LM">Table saw</a></li>
-<li>✅ <a href="https://amzn.to/3XzmOrA">Miter saw</a></li>
-<li>✅ <a href="https://amzn.to/3CWkjYp">Reciprocating saw, AKA “Sawzall”</a>)</li>
-<li><a href="https://amzn.to/3iLeFBI">Pocket hole jig</a></li>
-<li><a href="https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html">Hand truck</a></li>
-<li>✅ <a href="https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html">Floor jack</a></li>
-<li>✅ <a href="https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html">Jack stands</a></li>
-<li>✅ <a href="https://amzn.to/3ZJ0BZT">Stanley FuBar III</a> pry bar</li>
-<li>✅ <a href="https://marshalltown.com/pro-2152-monster-pry-bar">“Burke bar” pry bar</a></li>
-</ul>
-<h2 id="tech">Tech</h2>
-<ul>
-<li><a href="https://supernote.com/products/supernote-x-series-standard-set?variant=42979128279276">Supernote A5X tablet, pen, and folio cover</a></li>
-<li>✅ XBox (Series X or S) console, controllers, and headsets</li>
-</ul>
-<h2 id="miscellaneous">Miscellaneous</h2>
-<ul>
-<li>Electric guitar, amp, and pedals (something like <a href="https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black">this Yamaha GigMaker set</a>)</li>
-<li>Rifle (something like a <a href="https://www.ruger.com/products/1022/overview.html">Ruger 10/22</a>)</li>
-<li>Shotgun (something like a <a href="https://www.remarms.com/shotguns/pump-action/model-870/">Remington 870</a> or <a href="https://www.mossberg.com/firearms/shotguns/500.html">Mossberg 500</a>)</li>
-<li>Handgun (perhaps a <a href="https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5">Glock G19 Gen 5</a>)</li>
-</ul>
-<hr>
-<p>Last updated 2024-09-19</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Recommended Tools and Resources</title>
       <link>https://joshuapsteele.com/resources/</link>
-      <pubDate>Sat, 27 Jan 2018 01:56:48 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/resources/</guid>
       <description>&lt;p&gt;A &amp;ldquo;tool&amp;rdquo; is &amp;ldquo;anything that can make your life better.&amp;rdquo; I love tools, whether physical or digital. And I love books, because they&amp;rsquo;re some of the best tools out there!&lt;/p&gt;
 &lt;p&gt;(For my personal &amp;ldquo;tech stack&amp;rdquo; recommendations, including what I use for email, social media, etc., see &lt;a href=&#34;https://joshuapsteele.com/tech-stack/&#34;&gt;my &lt;code&gt;/tech-stack&lt;/code&gt; page&lt;/a&gt;.)&lt;/p&gt;
@@ -879,72 +779,9 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Essays</title>
-      <link>https://joshuapsteele.com/essays/</link>
-      <pubDate>Wed, 28 Dec 2016 21:36:36 +0000</pubDate>
-      <guid>https://joshuapsteele.com/essays/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing the essays below, I&amp;rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&amp;rsquo;m keeping these around for posterity.)&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;wheaton-college-graduate-school-2017---&#34;&gt;Wheaton College Graduate School (2017 - )&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;(Here&amp;rsquo;s the &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;elevator pitch for my dissertation proposal&lt;/a&gt;: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/&#34;&gt;The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em&gt;Römerbrief&lt;/em&gt; Reading of Romans 9:30–10:21&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/&#34;&gt;The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/&#34;&gt;When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf&#34;&gt;Theological Hermeneutics Essay&lt;/a&gt;: &lt;a href=&#34;https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/&#34;&gt;The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;beeson-divinity-school-2013-2016&#34;&gt;Beeson Divinity School (2013-2016)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf&#34;&gt;To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf&#34;&gt;A Crucicentric Credo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf&#34;&gt;What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf&#34;&gt;Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/On_Scripture.pdf&#34;&gt;Dogmatic Essay on Scripture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;cedarville-university-2009-2013&#34;&gt;Cedarville University (2009-2013)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf&#34;&gt;Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf&#34;&gt;Exposition Paper: Deuteronomy 6:1-15&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf&#34;&gt;Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf&#34;&gt;Exposition Paper: Micah 6:1-16&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf&#34;&gt;Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf&#34;&gt;The Argument/Story of Romans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf&#34;&gt;Exegetical Paper: Hebrews 10:19-25&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p><em>(Note: Since writing the essays below, I&rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&rsquo;m keeping these around for posterity.)</em></p>
-<h2 id="wheaton-college-graduate-school-2017---">Wheaton College Graduate School (2017 - )</h2>
-<p><em>(Here&rsquo;s the <a href="/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">elevator pitch for my dissertation proposal</a>: &ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&rdquo;)</em></p>
-<ul>
-<li><a href="/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/">The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s <em>Römerbrief</em> Reading of Romans 9:30–10:21</a></li>
-<li><a href="/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/">The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24</a></li>
-<li><a href="/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/">When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer</a></li>
-<li><a href="/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf">Theological Hermeneutics Essay</a>: <a href="/hermeneutical-implications-scriptures-theological-location/">The Hermeneutical Implications of Scripture&rsquo;s Theological Location</a></li>
-</ul>
-<h2 id="beeson-divinity-school-2013-2016">Beeson Divinity School (2013-2016)</h2>
-<ul>
-<li><a href="/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf">To Be or Not To Be Religious: A Clarification of Karl Barth&rsquo;s and Dietrich Bonhoeffer&rsquo;s Divergence and Convergence Regarding Religion</a></li>
-<li><a href="/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf">A Crucicentric Credo</a></li>
-<li><a href="/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf">What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?</a></li>
-<li><a href="/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf">Disunity as Ecclesiological Impossibility: A Barthian Analogy</a></li>
-<li><a href="/wp-content/uploads/2016/12/On_Scripture.pdf">Dogmatic Essay on Scripture</a></li>
-</ul>
-<h2 id="cedarville-university-2009-2013">Cedarville University (2009-2013)</h2>
-<ul>
-<li><a href="/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf">Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God</a></li>
-<li><a href="/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf">Creation and Doxology: A Portrait of Biblical Creation Theology</a></li>
-<li><a href="/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf">Exposition Paper: Deuteronomy 6:1-15</a></li>
-<li><a href="/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf">Yahweh&rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah</a></li>
-<li><a href="/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf">Exposition Paper: Micah 6:1-16</a></li>
-<li><a href="/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf">Romans 13:1-7 - A Contextually-Appropriate Reading</a></li>
-<li><a href="/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf">The Argument/Story of Romans</a></li>
-<li><a href="/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf">Exegetical Paper: Hebrews 10:19-25</a></li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Sermons</title>
       <link>https://joshuapsteele.com/sermons/</link>
-      <pubDate>Tue, 08 Dec 2015 10:10:12 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/sermons/</guid>
       <description>&lt;p&gt;( &lt;em&gt;Click &lt;a href=&#34;https://joshuapsteele.com/category/sermons/&#34;&gt;here&lt;/a&gt; to view all posts that have been categorized as sermons on my blog.&lt;/em&gt;)&lt;/p&gt;
 &lt;h2 id=&#34;why-havent-you-torn-the-sky-open-yetwhy-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020&#34;&gt;&lt;a href=&#34;https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/&#34;&gt;Why Haven&amp;rsquo;t You Torn the Sky Open Yet?&lt;/a&gt;&lt;/h2&gt;
@@ -1071,81 +908,243 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>About</title>
-      <link>https://joshuapsteele.com/about/</link>
+      <title>Tech Stack</title>
+      <link>https://joshuapsteele.com/tech-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/about/</guid>
-      <description>&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
-&lt;p&gt;As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;) with three Bible/theology degrees.&lt;/p&gt;
-&lt;p&gt;Currently living in Toledo, OH, I&amp;rsquo;ve got a wife, three young children, and an addiction to buying books and tools.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
-<p>As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>) with three Bible/theology degrees.</p>
-<p>Currently living in Toledo, OH, I&rsquo;ve got a wife, three young children, and an addiction to buying books and tools.</p>
-<p>This is my main personal website, powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>, and hosted on <a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages</a>.</p>
-<p>You can also follow my shorter posts on micro.blog over at <a href="https://social.joshuapsteeele.com">social.joshuapsteele.com</a>, which get cross-posted to <a href="https://social.lol/@steele">Mastodon</a> and <a href="https://bsky.app/profile/joshuapsteele.bsky.social">Bluesky</a>.</p>
-<p>If you&rsquo;d like to learn more about me, check out:</p>
-<ul>
-<li>My <a href="/portfolio/cv/"><strong>/resume</strong></a> (and here&rsquo;s <a href="https://www.linkedin.com/in/joshuapsteele/">my LinkedIn profile</a>)</li>
-<li>My <a href="/blog/"><strong>/blog</strong></a></li>
-<li>The <a href="/resources/"><strong>/tools</strong></a> I use</li>
-<li>What I&rsquo;m up to <a href="/now/"><strong>/now</strong></a></li>
-<li>The <a href="/questions/"><strong>/questions</strong></a> I&rsquo;m asking</li>
-</ul>
-<p>Want to contact me? Send an email to <a href="blog@joshuapsteele.com">blog@joshuapsteele.com</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Caveats</title>
-      <link>https://joshuapsteele.com/caveats/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/caveats/</guid>
-      <description>&lt;p&gt;Please keep these points in mind when reading what I write.&lt;/p&gt;
+      <guid>https://joshuapsteele.com/tech-stack/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href=&#34;https://joshuapsteele.com/resources&#34;&gt;/resources&lt;/a&gt; page!&lt;/p&gt;
+&lt;h2 id=&#34;personal-website-joshuapsteelecom&#34;&gt;Personal Website: &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;joshuapsteele.com&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Provoking Thought, Not Debate&lt;/strong&gt;&lt;br&gt;
-My intent is (almost always) to provoke thought, not start a debate or argument.&lt;/p&gt;
+&lt;li&gt;Domain registrar: &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hosting: &lt;a href=&#34;https://github.com/joshuapsteele/joshuapsteele.github.io&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Static website generator: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hugo theme: &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;email-fastmailhttpsfastmailcom&#34;&gt;Email: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email provider: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Custom DNS settings for joshuapsteele.com over at &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;, my domain registrar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;social-media-microbloghttpsmicroblog-and-omglolhttpsomglol&#34;&gt;Social Media: &lt;a href=&#34;https://micro.blog/&#34;&gt;micro.blog&lt;/a&gt; and &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;My main social media hub is through Micro.Blog Premium ($100/year) for &lt;a href=&#34;https://social.joshuapsteele.com&#34;&gt;social.joshuapsteele.com&lt;/a&gt;, which is an alias of &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;micro.blog/joshuapsteele&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Short posts and long posts&lt;/li&gt;
+&lt;li&gt;Photo hosting&lt;/li&gt;
+&lt;li&gt;Podcast hosting&lt;/li&gt;
+&lt;li&gt;Cross-posting to Mastodon, BlueSky, and Threads&lt;/li&gt;
+&lt;li&gt;Custom themes&lt;/li&gt;
+&lt;li&gt;Publish from the web or native apps&lt;/li&gt;
+&lt;li&gt;Up to 5 blogs&lt;/li&gt;
+&lt;li&gt;Email newsletters&lt;/li&gt;
+&lt;li&gt;Private and shared notes&lt;/li&gt;
+&lt;li&gt;Strata mobile app for notes&lt;/li&gt;
+&lt;li&gt;Bookmark archiving and highlighting&lt;/li&gt;
+&lt;li&gt;Short video hosting&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;I&amp;rsquo;m not Y!&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-You&amp;rsquo;re probably right! If my words don’t apply to you, please feel free to ignore them and move along.&lt;/p&gt;
+&lt;li&gt;I bought 10 years of &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;, which gives me a homepage at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt; as well as my Mastodon profile at &lt;a href=&#34;https://social.lol/@steele&#34;&gt;social.lol/@steele&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Email forwarding for an &amp;ldquo;@omg.lol&amp;rdquo; email address&lt;/li&gt;
+&lt;li&gt;Now Page at &lt;a href=&#34;https://steele.omg.lol/now&#34;&gt;steele.omg.lol/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statuslog at &lt;a href=&#34;https://steele.status.lol/&#34;&gt;steele.status.lol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weblog at &lt;a href=&#34;https://steele.weblog.lol/&#34;&gt;steele.weblog.lol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pastebin&lt;/li&gt;
+&lt;li&gt;PURLs&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&amp;ldquo;Not all X! You left out Z!&amp;rdquo;&lt;/strong&gt;&lt;br&gt;
-I recognize that reality is complex and nuanced. Communication is always an oversimplification of reality. I try to value brevity, so I often keep things punchy and to the point when sharing online.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Please keep these points in mind when reading what I write.</p>
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
+<h2 id="personal-website-joshuapsteelecom">Personal Website: <a href="/">joshuapsteele.com</a></h2>
 <ul>
-<li>
-<p><strong>Provoking Thought, Not Debate</strong><br>
-My intent is (almost always) to provoke thought, not start a debate or argument.</p>
+<li>Domain registrar: <a href="https://porkbun.com/">Porkbun</a></li>
+<li>Hosting: <a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages</a></li>
+<li>Static website generator: <a href="https://gohugo.io/">Hugo</a></li>
+<li>Hugo theme: <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a></li>
+</ul>
+<h2 id="email-fastmailhttpsfastmailcom">Email: <a href="https://fastmail.com">Fastmail</a></h2>
+<ul>
+<li>Email provider: <a href="https://fastmail.com">Fastmail</a></li>
+<li>Custom DNS settings for joshuapsteele.com over at <a href="https://porkbun.com/">Porkbun</a>, my domain registrar</li>
+</ul>
+<h2 id="social-media-microbloghttpsmicroblog-and-omglolhttpsomglol">Social Media: <a href="https://micro.blog/">micro.blog</a> and <a href="https://omg.lol">omg.lol</a></h2>
+<ul>
+<li>My main social media hub is through Micro.Blog Premium ($100/year) for <a href="https://social.joshuapsteele.com">social.joshuapsteele.com</a>, which is an alias of <a href="https://micro.blog/joshuapsteele">micro.blog/joshuapsteele</a>
+<ul>
+<li>Short posts and long posts</li>
+<li>Photo hosting</li>
+<li>Podcast hosting</li>
+<li>Cross-posting to Mastodon, BlueSky, and Threads</li>
+<li>Custom themes</li>
+<li>Publish from the web or native apps</li>
+<li>Up to 5 blogs</li>
+<li>Email newsletters</li>
+<li>Private and shared notes</li>
+<li>Strata mobile app for notes</li>
+<li>Bookmark archiving and highlighting</li>
+<li>Short video hosting</li>
+</ul>
 </li>
-<li>
-<p><strong>&ldquo;I&rsquo;m not Y!&rdquo;</strong><br>
-You&rsquo;re probably right! If my words don’t apply to you, please feel free to ignore them and move along.</p>
-</li>
-<li>
-<p><strong>&ldquo;Not all X! You left out Z!&rdquo;</strong><br>
-I recognize that reality is complex and nuanced. Communication is always an oversimplification of reality. I try to value brevity, so I often keep things punchy and to the point when sharing online.</p>
-</li>
-<li>
-<p><strong>Avoiding Back-and-Forth Arguments</strong><br>
-I (almost) never engage in extended arguments on social media. If you really want to respond, please consider emailing me (contact details at <a href="/contact/">joshuapsteele.com/contact</a>), writing your own post, or texting me. (But don’t call—I’m a Millennial.)</p>
+<li>I bought 10 years of <a href="https://omg.lol">omg.lol</a>, which gives me a homepage at <a href="https://steele.omg.lol">steele.omg.lol</a> as well as my Mastodon profile at <a href="https://social.lol/@steele">social.lol/@steele</a>
+<ul>
+<li>Email forwarding for an &ldquo;@omg.lol&rdquo; email address</li>
+<li>Now Page at <a href="https://steele.omg.lol/now">steele.omg.lol/now</a></li>
+<li>Statuslog at <a href="https://steele.status.lol/">steele.status.lol</a></li>
+<li>Weblog at <a href="https://steele.weblog.lol/">steele.weblog.lol</a></li>
+<li>Pastebin</li>
+<li>PURLs</li>
+</ul>
 </li>
 </ul>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Contact</title>
-      <link>https://joshuapsteele.com/contact/</link>
+      <title>Wish List</title>
+      <link>https://joshuapsteele.com/wishlist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/contact/</guid>
-      <description>&lt;p&gt;The best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to reaad and reply as soon as possible!&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;the homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Cheers,
-Josh&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to reaad and reply as soon as possible!</p>
-<p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">the homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
-<p>Cheers,
-Josh</p>
+      <guid>https://joshuapsteele.com/wishlist/</guid>
+      <description>&lt;p&gt;I want…&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;To be a good husband&lt;/li&gt;
+&lt;li&gt;To be a good father&lt;/li&gt;
+&lt;li&gt;To be a good friend&lt;/li&gt;
+&lt;li&gt;To solve people’s problems&lt;/li&gt;
+&lt;li&gt;To build what people use&lt;/li&gt;
+&lt;li&gt;To write what people read&lt;/li&gt;
+&lt;li&gt;To never stop learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;finances&#34;&gt;Finances&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To have control over my time
+&lt;ul&gt;
+&lt;li&gt;“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, &lt;em&gt;The Psychology of Money&lt;/em&gt;, 83).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;To make at least $200K/year&lt;/li&gt;
+&lt;li&gt;To have at least $100K saved in the bank&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;home&#34;&gt;Home&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To own a house with
+&lt;ul&gt;
+&lt;li&gt;✅ central AC,&lt;/li&gt;
+&lt;li&gt;✅ dry basement,&lt;/li&gt;
+&lt;li&gt;✅ home office,&lt;/li&gt;
+&lt;li&gt;✅ workshop (garage), and&lt;/li&gt;
+&lt;li&gt;✅ home gym (also garage)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;health--fitness&#34;&gt;Health &amp;amp; Fitness&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To weigh 200 pounds or less&lt;/li&gt;
+&lt;li&gt;To be able to run a half marathon at any time&lt;/li&gt;
+&lt;li&gt;To look good naked&lt;/li&gt;
+&lt;li&gt;✅ Power rack with a pull-up bar (like the &lt;a href=&#34;https://repfitness.com/collections/power-racks/products/pr-1100-power-rack&#34;&gt;REP Fitness PR–1100&lt;/a&gt; or &lt;a href=&#34;https://www.roguefitness.com/rogue-r-3-power-rack&#34;&gt;Rogue R–3&lt;/a&gt;; Went with the REP Fitness PR-1100!)&lt;/li&gt;
+&lt;li&gt;✅ Deadlift platform (build my own with &lt;a href=&#34;https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat&#34;&gt;horse stall mats from Tractor Supply Co.&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD, working on reading the books I already own!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;✅ Workbench&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3w6X1LM&#34;&gt;Table saw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3XzmOrA&#34;&gt;Miter saw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3CWkjYp&#34;&gt;Reciprocating saw, AKA “Sawzall”&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3iLeFBI&#34;&gt;Pocket hole jig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html&#34;&gt;Hand truck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html&#34;&gt;Floor jack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html&#34;&gt;Jack stands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3ZJ0BZT&#34;&gt;Stanley FuBar III&lt;/a&gt; pry bar&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://marshalltown.com/pro-2152-monster-pry-bar&#34;&gt;“Burke bar” pry bar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tech&#34;&gt;Tech&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://supernote.com/products/supernote-x-series-standard-set?variant=42979128279276&#34;&gt;Supernote A5X tablet, pen, and folio cover&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ XBox (Series X or S) console, controllers, and headsets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;miscellaneous&#34;&gt;Miscellaneous&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Electric guitar, amp, and pedals (something like &lt;a href=&#34;https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black&#34;&gt;this Yamaha GigMaker set&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Rifle (something like a &lt;a href=&#34;https://www.ruger.com/products/1022/overview.html&#34;&gt;Ruger 10/22&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Shotgun (something like a &lt;a href=&#34;https://www.remarms.com/shotguns/pump-action/model-870/&#34;&gt;Remington 870&lt;/a&gt; or &lt;a href=&#34;https://www.mossberg.com/firearms/shotguns/500.html&#34;&gt;Mossberg 500&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Handgun (perhaps a &lt;a href=&#34;https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5&#34;&gt;Glock G19 Gen 5&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Last updated 2024-09-19&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I want…</p>
+<ul>
+<li>To be a good husband</li>
+<li>To be a good father</li>
+<li>To be a good friend</li>
+<li>To solve people’s problems</li>
+<li>To build what people use</li>
+<li>To write what people read</li>
+<li>To never stop learning</li>
+</ul>
+<h2 id="finances">Finances</h2>
+<ul>
+<li>To have control over my time
+<ul>
+<li>“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, <em>The Psychology of Money</em>, 83).</li>
+</ul>
+</li>
+<li>To make at least $200K/year</li>
+<li>To have at least $100K saved in the bank</li>
+</ul>
+<h2 id="home">Home</h2>
+<ul>
+<li>To own a house with
+<ul>
+<li>✅ central AC,</li>
+<li>✅ dry basement,</li>
+<li>✅ home office,</li>
+<li>✅ workshop (garage), and</li>
+<li>✅ home gym (also garage)</li>
+</ul>
+</li>
+</ul>
+<h2 id="health--fitness">Health &amp; Fitness</h2>
+<ul>
+<li>To weigh 200 pounds or less</li>
+<li>To be able to run a half marathon at any time</li>
+<li>To look good naked</li>
+<li>✅ Power rack with a pull-up bar (like the <a href="https://repfitness.com/collections/power-racks/products/pr-1100-power-rack">REP Fitness PR–1100</a> or <a href="https://www.roguefitness.com/rogue-r-3-power-rack">Rogue R–3</a>; Went with the REP Fitness PR-1100!)</li>
+<li>✅ Deadlift platform (build my own with <a href="https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat">horse stall mats from Tractor Supply Co.</a>)</li>
+</ul>
+<h2 id="books">Books</h2>
+<ul>
+<li>TBD, working on reading the books I already own!</li>
+</ul>
+<h2 id="tools">Tools</h2>
+<ul>
+<li>✅ Workbench</li>
+<li><a href="https://amzn.to/3w6X1LM">Table saw</a></li>
+<li>✅ <a href="https://amzn.to/3XzmOrA">Miter saw</a></li>
+<li>✅ <a href="https://amzn.to/3CWkjYp">Reciprocating saw, AKA “Sawzall”</a>)</li>
+<li><a href="https://amzn.to/3iLeFBI">Pocket hole jig</a></li>
+<li><a href="https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html">Hand truck</a></li>
+<li>✅ <a href="https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html">Floor jack</a></li>
+<li>✅ <a href="https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html">Jack stands</a></li>
+<li>✅ <a href="https://amzn.to/3ZJ0BZT">Stanley FuBar III</a> pry bar</li>
+<li>✅ <a href="https://marshalltown.com/pro-2152-monster-pry-bar">“Burke bar” pry bar</a></li>
+</ul>
+<h2 id="tech">Tech</h2>
+<ul>
+<li><a href="https://supernote.com/products/supernote-x-series-standard-set?variant=42979128279276">Supernote A5X tablet, pen, and folio cover</a></li>
+<li>✅ XBox (Series X or S) console, controllers, and headsets</li>
+</ul>
+<h2 id="miscellaneous">Miscellaneous</h2>
+<ul>
+<li>Electric guitar, amp, and pedals (something like <a href="https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black">this Yamaha GigMaker set</a>)</li>
+<li>Rifle (something like a <a href="https://www.ruger.com/products/1022/overview.html">Ruger 10/22</a>)</li>
+<li>Shotgun (something like a <a href="https://www.remarms.com/shotguns/pump-action/model-870/">Remington 870</a> or <a href="https://www.mossberg.com/firearms/shotguns/500.html">Mossberg 500</a>)</li>
+<li>Handgun (perhaps a <a href="https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5">Glock G19 Gen 5</a>)</li>
+</ul>
+<hr>
+<p>Last updated 2024-09-19</p>
 ]]></content:encoded>
     </item>
   </channel>

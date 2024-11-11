@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2015-12-08T10:10:12+00:00"
 guid: https://joshuapsteele.com/?page_id=3453
 title: Sermons
 url: /sermons/

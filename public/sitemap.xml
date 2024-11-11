@@ -2,25 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joshuapsteele.com/cv/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/pages/</loc>
-    <lastmod>2024-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tech-stack/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/questions/</loc>
-    <lastmod>2024-11-04T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/ask-me-anything-this-november/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
+    <lastmod>2024-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
     <lastmod>2024-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/gods-economy/</loc>
@@ -314,14 +302,8 @@
     <loc>https://joshuapsteele.com/tags/safety/</loc>
     <lastmod>2021-10-07T06:52:40+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/philosophy-of-ministry/</loc>
-    <lastmod>2021-05-21T11:37:13+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/</loc>
     <lastmod>2021-01-19T22:34:46+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/my-story/</loc>
-    <lastmod>2021-01-09T22:32:26+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/advent/</loc>
     <lastmod>2020-11-28T00:22:13+00:00</lastmod>
@@ -716,14 +698,8 @@
     <loc>https://joshuapsteele.com/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</loc>
     <lastmod>2018-11-22T17:00:05+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/now/</loc>
-    <lastmod>2018-11-21T15:00:59+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/</loc>
     <lastmod>2018-11-14T15:29:55+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/wishlist/</loc>
-    <lastmod>2018-11-11T19:20:15+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/justification-and-sanctification/</loc>
     <lastmod>2018-11-09T15:27:48+00:00</lastmod>
@@ -821,9 +797,6 @@
     <loc>https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</loc>
     <lastmod>2018-01-30T12:48:49+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/resources/</loc>
-    <lastmod>2018-01-27T01:56:48+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/</loc>
     <lastmod>2017-12-09T15:22:06+00:00</lastmod>
   </url><url>
@@ -850,9 +823,6 @@
   </url><url>
     <loc>https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/</loc>
     <lastmod>2016-12-31T18:15:34+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/essays/</loc>
-    <lastmod>2016-12-28T21:36:36+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/a-christmas-homily/</loc>
     <lastmod>2016-12-28T14:38:54+00:00</lastmod>
@@ -919,9 +889,6 @@
   </url><url>
     <loc>https://joshuapsteele.com/theology-outline/</loc>
     <lastmod>2015-12-08T11:45:35+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/sermons/</loc>
-    <lastmod>2015-12-08T10:10:12+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/faithful-faith-in-a-faithful-god-romans-1-1-17/</loc>
     <lastmod>2015-10-03T08:27:35+00:00</lastmod>
@@ -1135,6 +1102,28 @@
   </url><url>
     <loc>https://joshuapsteele.com/contact/</loc>
   </url><url>
+    <loc>https://joshuapsteele.com/cv/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/essays/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/my-story/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/now/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/pages/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/philosophy-of-ministry/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/questions/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/resources/</loc>
+  </url><url>
     <loc>https://joshuapsteele.com/search/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/sermons/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/tech-stack/</loc>
+  </url><url>
+    <loc>https://joshuapsteele.com/wishlist/</loc>
   </url>
 </urlset>

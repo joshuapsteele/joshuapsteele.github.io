@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: 2024-11-04
 title: Questions
 url: /questions/
 showtoc: false

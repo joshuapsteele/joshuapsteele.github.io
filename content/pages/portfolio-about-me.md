@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2017-02-02T17:39:21+00:00"
 guid: https://joshuapsteele.com/?page_id=4204
 title: Portfolio (About Me)
 url: /portfolio-about-me/

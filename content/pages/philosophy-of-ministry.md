@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2021-05-21T11:37:13+00:00"
 guid: https://joshuapsteele.com/?page_id=42536
 title: Philosophy of Ministry
 url: /philosophy-of-ministry/

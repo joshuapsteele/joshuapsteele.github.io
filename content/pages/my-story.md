@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2021-01-09T22:32:26+00:00"
 guid: https://joshuapsteele.com/?page_id=42475
 title: My Story
 url: /my-story/

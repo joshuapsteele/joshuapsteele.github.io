@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: "2018-11-21T15:00:59+00:00"
 guid: https://joshuapsteele.com/?page_id=41441
 title: Now
 url: /now/

@@ -1,6 +1,5 @@
 ---
 author: joshuapsteele
-date: 2024-11-08
 title: Tech Stack
 url: /tech-stack/
 aliases:
