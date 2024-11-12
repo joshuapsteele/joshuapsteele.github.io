@@ -6,11 +6,11 @@ showtoc: false
 ---
 You can add the following caveats to everything I write online.
 
-- **If it doesn't directly apply to you, feel free to move along**
+- **If it doesn't directly apply to you, feel free to move along**  
   I'm usually writing for a broad audience and just trying to get people thinking. If I'm interested in starting a debate or argument with a specific individual, I will say so directly.
-- **If you think reality is more complicated than what I wrote, you're right**
+- **If you think reality is more complicated than what I wrote, you're right**  
   All communication is an oversimplification of reality. The shorter my post, the more I've purposefully left out.
-- **I will (almost) never get into extended arguments online**
+- **I will (almost) never get into extended arguments online**  
   If you still think you really need to say something, write your own post, write me an [email](/contact/), send me a letter, etc. (Just don't call me, I'm a Millennial!)
 
 Finally, I'm just as susceptible to [cognitive biases](https://yourbias.is/) and [logical fallacies](https://yourlogicalfallacyis.com/) as anyone else. Nevertheless, I'd like to do my best to stick to [the following Rules of Civil Conversation](https://therulesofcivilconversation.org/). And I ask that you consider doing the same.
