@@ -4,16 +4,24 @@ title: Caveats
 url: /caveats/
 showtoc: false
 ---
-Please keep these points in mind when reading what I write.
+You can add the following caveats to everything I write online.
 
-- **Provoking Thought, Not Debate**  
-  My intent is (almost always) to provoke thought, not start a debate or argument.
+- **If it doesn't directly apply to you, feel free to move along**
+  I'm usually writing for a broad audience and just trying to get people thinking. If I'm interested in starting a debate or argument with a specific individual, I will say so directly.
+- **If you think reality is more complicated than what I wrote, you're right**
+  All communication is an oversimplification of reality. The shorter my post, the more I've purposefully left out.
+- **I will (almost) never get into extended arguments online**
+  If you still think you really need to say something, write your own post, write me an [email](/contact/), send me a letter, etc. (Just don't call me, I'm a Millennial!)
 
-- **"I'm not Y!"**  
-  You're probably right! If my words don’t apply to you, please feel free to ignore them and move along.
+Finally, I'm just as susceptible to [cognitive biases](https://yourbias.is/) and [logical fallacies](https://yourlogicalfallacyis.com/) as anyone else. Nevertheless, I'd like to do my best to stick to [the following Rules of Civil Conversation](https://therulesofcivilconversation.org/). And I ask that you consider doing the same.
 
-- **"Not all X! You left out Z!"**  
-  I recognize that reality is complex and nuanced. Communication is always an oversimplification of reality. I try to value brevity, so I often keep things punchy and to the point when sharing online.
+I resolve to:
 
-- **Avoiding Back-and-Forth Arguments**  
-  I (almost) never engage in extended arguments on social media. If you really want to respond, please consider emailing me (contact details at [joshuapsteele.com/contact](/contact/)), writing your own post, or texting me. (But don’t call—I’m a Millennial.)
+1. Try and reach a shared understanding rather than ‘win the argument’.
+2. Clarify with others to make sure I genuinely understand their perspective.
+3. Endeavor to avoid committing [logical fallacies](https://yourlogicalfallacyis.com/) in support of my claims.
+4. Attempt to account for my own [biases](https://yourbias.is/) and try to be intellectually humble.
+5. Try to be reasonable, rational, and create coherent arguments.
+6. Refrain from personal attacks, sarcasm, and mean-spiritedness.
+7. Use the ‘[Principle of Charity](https://ethics.org.au/ethics-explainer-the-principle-of-charity/)’ to see the merits of others’ points of view in the best light.
+8. Remain genuinely receptive to changing my mind if presented with compelling arguments or evidence
