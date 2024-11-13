@@ -2,15 +2,10 @@
 author: joshuapsteele
 categories:
 - The Christian Life
+
 date: "2019-11-17T20:26:42Z"
 guid: https://joshuapsteele.com/?p=42049
 id: 42049
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Help me come up with “rules for conversation”!
 url: /help-me-come-up-with-rules-for-conversation/
 ---

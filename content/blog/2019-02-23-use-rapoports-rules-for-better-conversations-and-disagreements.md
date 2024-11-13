@@ -4,15 +4,12 @@ categories:
 - Personal
 - Productivity and Time Management
 - The Christian Life
+tags:
+- 8020
+- reading notes
 date: "2019-02-23T17:06:02Z"
 guid: https://joshuapsteele.com/?p=41724
 id: 41724
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Use Rapoport's Rules for Better Conversations and Disagreements
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
 ---
