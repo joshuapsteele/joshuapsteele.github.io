@@ -5,16 +5,6 @@ categories:
 date: "2019-11-18T15:03:16Z"
 guid: https://joshuapsteele.com/?p=42056
 id: 42056
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - how to think
 title: Alan Jacobs’s “The Thinking Person’s Checklist”

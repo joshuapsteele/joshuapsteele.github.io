@@ -2,7 +2,9 @@
 author: joshuapsteele
 categories:
 - The Christian Life
-
+tags:
+- 8020
+- reading notes
 date: "2019-11-17T20:26:42Z"
 guid: https://joshuapsteele.com/?p=42049
 id: 42049
