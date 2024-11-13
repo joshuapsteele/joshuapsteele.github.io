@@ -6,6 +6,8 @@ date: "2019-11-19T15:26:29Z"
 guid: https://joshuapsteele.com/?p=42060
 id: 42060
 tags:
+- 8020
+- reading notes
 - how to think
 title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
@@ -14,8 +16,6 @@ url: /damers-code-of-intellectual-conduct/
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)
 
 SOURCE: T. Edward Damer, *Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments*, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.
-
-<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_V9rDc1WZVbDCiH&asin=1133049982&tag=joshuapsteele-20" style="max-width:100%" title="Attacking Faulty Reasoning" type="text/html" width="750"></iframe></div></figure>
 
 ## 1. The Fallibility Principle 
 

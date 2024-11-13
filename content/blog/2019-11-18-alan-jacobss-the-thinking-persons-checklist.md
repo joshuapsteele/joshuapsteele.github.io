@@ -6,6 +6,8 @@ date: "2019-11-18T15:03:16Z"
 guid: https://joshuapsteele.com/?p=42056
 id: 42056
 tags:
+- 8020
+- reading notes
 - how to think
 title: Alan Jacobs’s “The Thinking Person’s Checklist”
 url: /alan-jacobss-the-thinking-persons-checklist/
