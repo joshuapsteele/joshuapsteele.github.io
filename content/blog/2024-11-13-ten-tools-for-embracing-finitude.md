@@ -1,6 +1,5 @@
 ---
 date: '2024-11-13T16:40:14-05:00'
-draft: true
 title: 'Ten Tools for Embracing Finitude'
 author: joshuapsteele
 categories:
