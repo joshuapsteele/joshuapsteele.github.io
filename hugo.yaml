@@ -92,7 +92,7 @@ params:
     - name: microblog
       url: "https://social.joshuapsteele.com"
     - name: rss
-      url: "https://joshuapsteele.com/feed"
+      url: "https://joshuapsteele.com/feed.xml"
 markup:
   highlight:
     codeFences: true
@@ -106,6 +106,9 @@ outputs:
     - HTML
     - RSS
     - JSON
+  section:
+    - HTML
+    - RSS
 outputFormats:
   RSS:
     mediaType: application/rss+xml
