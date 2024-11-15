@@ -1,5 +1,5 @@
 ---
-date: '2024-11-13T16:50:14-05:00'
+date: "2024-11-13T16:50:14-05:00"
 title: 'Five Questions for Coming to Grips with Your Life'
 author: joshuapsteele
 categories:

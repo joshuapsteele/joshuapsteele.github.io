@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-date: 2024-11-01
+date: "2024-11-01"
 title: "Ask Me Anything This November: WeblogPoMo AMA"
 url: /ask-me-anything-this-november
 showtoc: false

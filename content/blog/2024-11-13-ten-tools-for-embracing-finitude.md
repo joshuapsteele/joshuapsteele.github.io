@@ -1,5 +1,5 @@
 ---
-date: '2024-11-13T16:40:14-05:00'
+date: "2024-11-13T16:40:14-05:00"
 title: 'Ten Tools for Embracing Finitude'
 author: joshuapsteele
 categories:

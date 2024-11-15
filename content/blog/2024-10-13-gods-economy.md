@@ -1,9 +1,7 @@
 ---
 author: joshuapsteele
-date: 2024-10-13
+date: "2024-10-13"
 title: "God's Economy"
-cover:
-    image: /ibrahim-rifath-OApHds2yEGQ-unsplash.jpg
 url: /gods-economy
 showtoc: false
 ---
