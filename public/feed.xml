@@ -6,8 +6,17 @@
     <description>Recent content on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 13 Nov 2024 16:50:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 09:07:20 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 1</title>
+      <link>https://joshuapsteele.com/test-post-1/</link>
+      <pubDate>Sat, 16 Nov 2024 09:07:20 -0500</pubDate>
+      <guid>https://joshuapsteele.com/test-post-1/</guid>
+      <description>&lt;p&gt;This is a test post. Number 1.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is a test post. Number 1.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
       <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
