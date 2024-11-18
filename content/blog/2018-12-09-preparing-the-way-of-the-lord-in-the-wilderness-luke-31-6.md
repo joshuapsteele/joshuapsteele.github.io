@@ -3,20 +3,15 @@ author: joshuapsteele
 categories:
 - Sermons
 date: "2018-12-09T15:42:08Z"
-format: aside
 guid: https://joshuapsteele.com/?p=41505
 id: 41505
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - sermons
 title: 'Preparing the Way of the Lord in the Wilderness: Luke 3:1-6'
 url: /preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/
 ---
+
+*(Sermon preached at Church of the Savior in Wheaton, IL.)*
 
 I’d like to pray this week’s collect again:
 
@@ -318,9 +313,3 @@ So, like John the Baptist, let’s prepare the way of the Lord.
 Let’s get a people ready for Christ’s return by getting ourselves ready, every day, to repent and cling to Jesus for forgiveness and comfort we so desperately need.
 
 Amen.
-
----
-
-Here’s the video of the service. I start at about 41:30.
-
-<iframe allowfullscreen="true" allowtransparency="true" frameborder="0" height="315" loading="lazy" scrolling="no" src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fsaviorfriends%2Fvideos%2F2604637289561292%2F&show_text=0&width=560" style="border:none;overflow:hidden" width="560"></iframe>
