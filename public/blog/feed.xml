@@ -6,8 +6,19 @@
     <description>Recent content in Blogs on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 16 Nov 2024 09:07:20 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 16:36:45 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/blog/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Post 2</title>
+      <link>https://joshuapsteele.com/test-post-2/</link>
+      <pubDate>Mon, 18 Nov 2024 16:36:45 -0500</pubDate>
+      <guid>https://joshuapsteele.com/test-post-2/</guid>
+      <description>&lt;p&gt;This is a test post. Number 2.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m hoping it makes it to micro.blog, BlueSky, and Threads!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is a test post. Number 2.</p>
+<p>I&rsquo;m hoping it makes it to micro.blog, BlueSky, and Threads!</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Test Post 1</title>
       <link>https://joshuapsteele.com/test-post-1/</link>
