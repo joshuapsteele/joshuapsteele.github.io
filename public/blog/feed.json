@@ -8,8 +8,8 @@
             "title": "Troubleshooting Hugo to Micro.blog Crossposting",
             "id": "https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/",
             "url": "https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/",
-            "content_text": "\u003cp\u003eI\u0026rsquo;m trying to troubleshoot what\u0026rsquo;s going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads.\u003c/p\u003e\n\u003cp\u003eWhat\u0026rsquo;s supposed to happen is that this blog post, after I merge it to my \u003ca href=\"https://github.com/joshuapsteele/joshuapsteele.github.io\"\u003eGitHub repository\u003c/a\u003e, will end up on the JSONfeed at \u003ccode\u003ehttps://joshuapsteele.com/blog/feed.json\u003c/code\u003e.\u003c/p\u003e\n\u003cp\u003eThat JSONFeed is supposed to get polled by Micro.blog, which should then add the new post to my Micro.blog timeline, as well as cross-post it to BlueSky, Mastodon, and Threads.\u003c/p\u003e",
-            "date_published": "2024-11-19T16:12:36-05:00"
+            "content_text": "\u003cp\u003e\u003cem\u003eUPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eI\u0026rsquo;m trying to troubleshoot what\u0026rsquo;s going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads.\u003c/p\u003e\n\u003cp\u003eWhat\u0026rsquo;s supposed to happen is that this blog post, after I merge it to my \u003ca href=\"https://github.com/joshuapsteele/joshuapsteele.github.io\"\u003eGitHub repository\u003c/a\u003e, will end up on the JSONfeed at \u003ccode\u003ehttps://joshuapsteele.com/blog/feed.json\u003c/code\u003e.\u003c/p\u003e",
+            "date_published": "2024-11-19T17:25:36-05:00"
         }, {
             "title": "Test Post 2",
             "id": "https://joshuapsteele.com/test-post-2/",

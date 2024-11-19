@@ -1,11 +1,13 @@
 ---
-date: '2024-11-19T16:12:36-05:00'
+date: '2024-11-19T17:25:36-05:00'
 title: 'Troubleshooting Hugo to Micro.blog Crossposting'
 author: joshuapsteele
 tags:
 - Hugo
 url: /troubleshooting-hugo-to-microblog-crossposting/
 ---
+
+*UPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.*
 
 I'm trying to troubleshoot what's going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads. 
 
@@ -17,7 +19,7 @@ As best I can tell, the JSONFeed at `/blog/feed.json` is valid. Here's how I hav
 
 First, here's my `/layouts/_default/list.jsonfeed.json`:
 
-```json
+```
 {{- $pctx := . -}}
 {{- if .IsHome -}}{{ $pctx = site }}{{- end -}}
 {{- $pages := slice -}}
@@ -87,7 +89,7 @@ First, here's my `/layouts/_default/list.jsonfeed.json`:
 
 Then, here's the relevant portion of my `hugo.yaml` file:
 
-```yaml
+```
 mediaTypes:
   application/feed+json:
     suffixes:
