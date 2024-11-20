@@ -60,16 +60,17 @@ I want…
 
 ## Tech
 
-- [Supernote A5X tablet, pen, and folio cover](https://supernote.com/products/supernote-x-series-standard-set?variant=42979128279276)
+- New MacBook Pro
+- New iPhone
 - ✅ XBox (Series X or S) console, controllers, and headsets
 
 ## Miscellaneous
 
-- Electric guitar, amp, and pedals (something like [this Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black))
-- Rifle (something like a [Ruger 10/22](https://www.ruger.com/products/1022/overview.html))
-- Shotgun (something like a [Remington 870](https://www.remarms.com/shotguns/pump-action/model-870/) or [Mossberg 500](https://www.mossberg.com/firearms/shotguns/500.html))
-- Handgun (perhaps a [Glock G19 Gen 5](https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5))
+- Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
+- Rifle: [Ruger 10/22](https://www.ruger.com/products/1022/overview.html)
+- Shotgun: [Remington 870](https://www.remarms.com/shotguns/pump-action/model-870/) or [Mossberg 500](https://www.mossberg.com/firearms/shotguns/500.html)
+- Handgun: [Glock G19 Gen 5](https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5)
 
 * * *
 
-Last updated 2024-09-19
+Last updated 2024-11-20
