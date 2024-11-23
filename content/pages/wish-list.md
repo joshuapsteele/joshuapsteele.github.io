@@ -41,12 +41,11 @@ I want…
 - ✅ Power rack with a pull-up bar (like the [REP Fitness PR–1100](https://repfitness.com/collections/power-racks/products/pr-1100-power-rack) or [Rogue R–3](https://www.roguefitness.com/rogue-r-3-power-rack); Went with the REP Fitness PR-1100!)
 - ✅ Deadlift platform (build my own with [horse stall mats from Tractor Supply Co.](https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat))
 
-## Books
-
-- TBD, working on reading the books I already own!
-
 ## Tools
 
+- Tool shed
+- Extension ladder
+- Come-along winch
 - ✅ Workbench
 - [Table saw](https://amzn.to/3w6X1LM)
 - ✅ [Miter saw](https://amzn.to/3XzmOrA)
@@ -64,13 +63,17 @@ I want…
 - New iPhone
 - ✅ XBox (Series X or S) console, controllers, and headsets
 
+## Books
+
+- TBD, working on reading the books I already own!
+
 ## Miscellaneous
 
 - Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
-- Rifle: [Ruger 10/22](https://www.ruger.com/products/1022/overview.html)
-- Shotgun: [Remington 870](https://www.remarms.com/shotguns/pump-action/model-870/) or [Mossberg 500](https://www.mossberg.com/firearms/shotguns/500.html)
-- Handgun: [Glock G19 Gen 5](https://palmettostatearmory.com/glock-g19-gen5-9mm-pistol-black-pa195s203.html?avad=194130_c2dcb05c5)
+- ✅ Rifle: [Ruger 10/22](https://www.ruger.com/products/1022/overview.html)
+- ✅ Shotgun: [Mossberg Maverick 88]()
+- Handgun: [CZ P10-C](https://palmettostatearmory.com/brands/cz/pistols/p10/p10-c.html) or [Glock G19 Gen 5](https://palmettostatearmory.com/brands/glock/glock-19/gen-5.html)
 
 * * *
 
-Last updated 2024-11-20
+Last updated 2024-11-23
