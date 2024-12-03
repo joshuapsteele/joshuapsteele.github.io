@@ -5,23 +5,17 @@
     "home_page_url": "https://joshuapsteele.com/blog/",
     "feed_url": "https://joshuapsteele.com/blog/feed.json",
     "items": [ {
+            "title": "First Guns",
+            "id": "https://joshuapsteele.com/first-guns/",
+            "url": "https://joshuapsteele.com/first-guns/",
+            "content_text": "\u003cp\u003eI bought my first 3 guns for a combination of recreation and home defense:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003eRifle: Ruger 10/22 Carbine w/3-9x40 Scope, .22LR\u003c/li\u003e\n\u003cli\u003eShotgun: Mossberg Maverick 88 Security, 12ga\u003c/li\u003e\n\u003cli\u003eHandgun: Taurus G3C, 9mm Luger\u003c/li\u003e\n\u003c/ul\u003e\n\u003cp\u003eLooking forward to practicing with the 10/22 and the handgun at a local indoor range. And I might see about doing some clay target shooting outdoors if/when we get some nice weather.\u003c/p\u003e\n\u003cp\u003e(For what it\u0026rsquo;s worth, I am willing to use lethal force against someone who breaks into my house and demonstrates intent to use lethal force against my family. But I would make no theological or religious justifications for doing so.)\u003c/p\u003e",
+            "date_published": "2024-12-03T11:57:44-05:00"
+        }, {
             "title": "Troubleshooting Hugo to Micro.blog Crossposting",
             "id": "https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/",
             "url": "https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/",
             "content_text": "\u003cp\u003e\u003cem\u003eUPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.\u003c/em\u003e\u003c/p\u003e\n\u003cp\u003eI\u0026rsquo;m trying to troubleshoot what\u0026rsquo;s going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads.\u003c/p\u003e\n\u003cp\u003eWhat\u0026rsquo;s supposed to happen is that this blog post, after I merge it to my \u003ca href=\"https://github.com/joshuapsteele/joshuapsteele.github.io\"\u003eGitHub repository\u003c/a\u003e, will end up on the JSONfeed at \u003ccode\u003ehttps://joshuapsteele.com/blog/feed.json\u003c/code\u003e.\u003c/p\u003e",
             "date_published": "2024-11-19T17:25:36-05:00"
-        }, {
-            "title": "Test Post 2",
-            "id": "https://joshuapsteele.com/test-post-2/",
-            "url": "https://joshuapsteele.com/test-post-2/",
-            "content_text": "\u003cp\u003eThis is a test post. Number 2.\u003c/p\u003e\n\u003cp\u003eI\u0026rsquo;m hoping it makes it to micro.blog, BlueSky, and Threads!\u003c/p\u003e",
-            "date_published": "2024-11-18T16:36:45-05:00"
-        }, {
-            "title": "Test Post 1",
-            "id": "https://joshuapsteele.com/test-post-1/",
-            "url": "https://joshuapsteele.com/test-post-1/",
-            "content_text": "\u003cp\u003eThis is a test post. Number 1.\u003c/p\u003e",
-            "date_published": "2024-11-16T09:07:20-05:00"
         }, {
             "title": "Five Questions for Coming to Grips with Your Life",
             "id": "https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/",

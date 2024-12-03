@@ -6,21 +6,6 @@ categories:
 date: "2013-10-22T20:47:06Z"
 guid: https://joshuapsteele.com/?p=2918
 id: 2918
-publicize_facebook_url:
-- https://facebook.com/759340315_10153329742305316
-- https://facebook.com/759340315_10153329742305316
-publicize_twitter_url:
-- http://t.co/J6XIZQUJb3
-- http://t.co/J6XIZQUJb3
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Down With the Pacifists!
 url: /down-with-the-pacifists/
 ---

@@ -6,8 +6,31 @@
     <description>Recent content on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 19 Nov 2024 17:25:36 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 11:57:44 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Guns</title>
+      <link>https://joshuapsteele.com/first-guns/</link>
+      <pubDate>Tue, 03 Dec 2024 11:57:44 -0500</pubDate>
+      <guid>https://joshuapsteele.com/first-guns/</guid>
+      <description>&lt;p&gt;I bought my first 3 guns for a combination of recreation and home defense:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rifle: Ruger 10/22 Carbine w/3-9x40 Scope, .22LR&lt;/li&gt;
+&lt;li&gt;Shotgun: Mossberg Maverick 88 Security, 12ga&lt;/li&gt;
+&lt;li&gt;Handgun: Taurus G3C, 9mm Luger&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Looking forward to practicing with the 10/22 and the handgun at a local indoor range. And I might see about doing some clay target shooting outdoors if/when we get some nice weather.&lt;/p&gt;
+&lt;p&gt;(For what it&amp;rsquo;s worth, I am willing to use lethal force against someone who breaks into my house and demonstrates intent to use lethal force against my family. But I would make no theological or religious justifications for doing so.)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I bought my first 3 guns for a combination of recreation and home defense:</p>
+<ul>
+<li>Rifle: Ruger 10/22 Carbine w/3-9x40 Scope, .22LR</li>
+<li>Shotgun: Mossberg Maverick 88 Security, 12ga</li>
+<li>Handgun: Taurus G3C, 9mm Luger</li>
+</ul>
+<p>Looking forward to practicing with the 10/22 and the handgun at a local indoor range. And I might see about doing some clay target shooting outdoors if/when we get some nice weather.</p>
+<p>(For what it&rsquo;s worth, I am willing to use lethal force against someone who breaks into my house and demonstrates intent to use lethal force against my family. But I would make no theological or religious justifications for doing so.)</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>Troubleshooting Hugo to Micro.blog Crossposting</title>
       <link>https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/</link>
@@ -111,26 +134,6 @@
 </span></span><span style="display:flex;"><span>    rel: alternate
 </span></span><span style="display:flex;"><span>    isPlainText: true
 </span></span></code></pre></div><p>Is anything obviously wrong with the way I have things set up?</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Test Post 2</title>
-      <link>https://joshuapsteele.com/test-post-2/</link>
-      <pubDate>Mon, 18 Nov 2024 16:36:45 -0500</pubDate>
-      <guid>https://joshuapsteele.com/test-post-2/</guid>
-      <description>&lt;p&gt;This is a test post. Number 2.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m hoping it makes it to micro.blog, BlueSky, and Threads!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This is a test post. Number 2.</p>
-<p>I&rsquo;m hoping it makes it to micro.blog, BlueSky, and Threads!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Test Post 1</title>
-      <link>https://joshuapsteele.com/test-post-1/</link>
-      <pubDate>Sat, 16 Nov 2024 09:07:20 -0500</pubDate>
-      <guid>https://joshuapsteele.com/test-post-1/</guid>
-      <description>&lt;p&gt;This is a test post. Number 1.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This is a test post. Number 1.</p>
 ]]></content:encoded>
     </item>
     <item>
