@@ -7,7 +7,7 @@ aliases:
 - /wish-list/
 
 ---
-I want…
+## Life
 
 - To be a good husband
 - To be a good father
@@ -16,6 +16,14 @@ I want…
 - To build what people use
 - To write what people read
 - To never stop learning
+
+## Health & Fitness
+
+- To weigh 200 pounds or less
+- To be able to run a half marathon at any time
+- To look good naked
+- ✅ Power rack with a pull-up bar (like the [REP Fitness PR–1100](https://repfitness.com/collections/power-racks/products/pr-1100-power-rack) or [Rogue R–3](https://www.roguefitness.com/rogue-r-3-power-rack); Went with the REP Fitness PR-1100!)
+- ✅ Deadlift platform (build my own with [horse stall mats from Tractor Supply Co.](https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat))
 
 ## Finances
 
@@ -32,20 +40,18 @@ I want…
   - ✅ home office,
   - ✅ workshop (garage), and
   - ✅ home gym (also garage)
-
-## Health & Fitness
-
-- To weigh 200 pounds or less
-- To be able to run a half marathon at any time
-- To look good naked
-- ✅ Power rack with a pull-up bar (like the [REP Fitness PR–1100](https://repfitness.com/collections/power-racks/products/pr-1100-power-rack) or [Rogue R–3](https://www.roguefitness.com/rogue-r-3-power-rack); Went with the REP Fitness PR-1100!)
-- ✅ Deadlift platform (build my own with [horse stall mats from Tractor Supply Co.](https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat))
+- New roof
+- New furnace
+- New central AC
+- Tool shed
 
 ## Tools
 
-- Tool shed
 - Extension ladder
 - Come-along winch
+- Table saw
+- Planer
+- Jointer
 - ✅ Workbench
 - [Table saw](https://amzn.to/3w6X1LM)
 - ✅ [Miter saw](https://amzn.to/3XzmOrA)
@@ -57,23 +63,26 @@ I want…
 - ✅ [Stanley FuBar III](https://amzn.to/3ZJ0BZT) pry bar
 - ✅ [“Burke bar” pry bar](https://marshalltown.com/pro-2152-monster-pry-bar)
 
-## Tech
+## Hobbies and Tech
 
-- New MacBook Pro
-- New iPhone
-- ✅ XBox (Series X or S) console, controllers, and headsets
+- New MacBook Pro (Current: 2016)
+- New iPhone (Current: iPhone XR)
+- ✅ XBox
+- Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
 
 ## Books
 
 - TBD, working on reading the books I already own!
 
-## Miscellaneous
+## Guns
 
-- Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
 - ✅ Rifle: [Ruger 10/22](https://www.ruger.com/products/1022/overview.html)
-- ✅ Shotgun: [Mossberg Maverick 88]()
-- Handgun: [CZ P10-C](https://palmettostatearmory.com/brands/cz/pistols/p10/p10-c.html) or [Glock G19 Gen 5](https://palmettostatearmory.com/brands/glock/glock-19/gen-5.html)
+- ✅ Shotgun: [Mossberg Maverick 88 Security](https://www.mossberg.com/firearms/shotguns/maverick-88.html)
+- Handgun: 
+  - ✅ [Taurus G3C](https://www.taurususa.com/pistols/taurus-g3/taurus-r-g3c-tenifer-matte-black-9mm-luger-compact-12-rds)
+  - [CZ P10-C](https://palmettostatearmory.com/brands/cz/pistols/p10/p10-c.html)
+  - [Glock G19 Gen 5](https://palmettostatearmory.com/brands/glock/glock-19/gen-5.html)
 
 * * *
 
-Last updated 2024-11-23
+Last updated 2024-12-03
