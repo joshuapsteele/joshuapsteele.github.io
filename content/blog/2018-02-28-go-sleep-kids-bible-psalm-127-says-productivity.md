@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories:
 - Productivity and Time Management
-- Bible and Scripture
+- Bible
 date: "2018-02-28T12:51:21Z"
 guid: https://joshuapsteele.com/?p=41110
 id: 41110

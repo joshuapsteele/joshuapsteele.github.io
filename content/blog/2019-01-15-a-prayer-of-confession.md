@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Church and Theology
 - The Christian Life
 date: "2019-01-15T20:35:33Z"

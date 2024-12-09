@@ -5,15 +5,6 @@ categories:
 date: "2013-02-22T23:36:21Z"
 guid: https://joshuapsteele.com/?p=2323
 id: 2323
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Open Apology
 url: /open-apology/
 ---

@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Church and Theology
 date: "2015-04-24T09:13:38Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan/

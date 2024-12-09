@@ -5,17 +5,6 @@ categories:
 date: "2012-09-20T15:07:47Z"
 guid: http://windowinthesky.wordpress.com/?p=1468
 id: 1468
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-09-20
-  19:20:45";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-09-20
-  19:20:45";}
 title: Cedarville, Let there be Light. (pt. 1)
 url: /cedarville-let-there-be-light-pt-1/
 ---

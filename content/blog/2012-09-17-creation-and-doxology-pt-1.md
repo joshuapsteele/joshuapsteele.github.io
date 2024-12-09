@@ -1,24 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Church and Theology
 date: "2012-09-17T17:07:57Z"
 guid: http://windowinthesky.wordpress.com/?p=1429
 id: 1429
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-09-18
-  01:17:25";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-09-18
-  01:17:25";}
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 1)'
 url: /creation-and-doxology-pt-1/
 ---

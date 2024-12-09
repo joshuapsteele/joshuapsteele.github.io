@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Sermons
 date: "2017-04-13T19:44:07Z"
 enclosure:

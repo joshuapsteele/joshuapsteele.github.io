@@ -1,8 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - The Christian Life
+tags:
+- poverty
+- Proverbs
 date: 2011-02-10
 guid: http://windowinthesky.wordpress.com/?p=1041
 id: 1041

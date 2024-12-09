@@ -5,17 +5,6 @@ categories:
 date: "2012-09-22T13:04:53Z"
 guid: http://windowinthesky.wordpress.com/?p=1482
 id: 1482
-publicize_reach:
-- a:3:{s:7:"twitter";a:1:{i:1661606;i:326;}s:2:"fb";a:1:{i:1661609;i:812;}s:2:"wp";a:1:{i:0;i:10;}}
-- a:3:{s:7:"twitter";a:1:{i:1661606;i:326;}s:2:"fb";a:1:{i:1661609;i:812;}s:2:"wp";a:1:{i:0;i:10;}}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "909"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: An Explanation
 url: /an-explanation/
 ---

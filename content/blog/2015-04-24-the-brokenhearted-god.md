@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 date: "2015-04-24T09:15:27Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/the-brokenhearted-god/
 id: 3309

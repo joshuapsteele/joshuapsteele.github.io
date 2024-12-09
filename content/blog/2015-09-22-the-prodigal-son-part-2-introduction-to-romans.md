@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Sermons
 date: "2015-09-22T21:26:20Z"
 excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.

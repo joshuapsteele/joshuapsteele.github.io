@@ -3,7 +3,7 @@ activitypub_status:
 - federate
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Church and Society
 date: "2024-09-13T16:19:56Z"
 guid: https://joshuapsteele.com/?p=43053

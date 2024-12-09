@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - The Christian Life
 date: "2013-12-13T17:46:29Z"
 guid: https://joshuapsteele.com/?p=3080

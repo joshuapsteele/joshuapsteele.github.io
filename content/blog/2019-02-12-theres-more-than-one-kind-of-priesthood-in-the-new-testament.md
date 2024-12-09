@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Church and Theology
 date: "2019-02-12T20:47:11Z"
 guid: https://joshuapsteele.com/?p=41717

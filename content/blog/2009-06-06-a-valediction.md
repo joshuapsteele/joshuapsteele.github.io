@@ -6,8 +6,6 @@ date: 2009-06-06
 guid: http://windowinthesky.wordpress.com/?p=407
 id: 407
 title: My High School Graduation Valedictorian Speech was a Poem
-total_sidebar_layout:
-- right_sidebar
 url: /a-valediction/
 ---
 

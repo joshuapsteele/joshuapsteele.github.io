@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Dissertation
 date: "2019-11-21T22:04:08Z"
 guid: https://joshuapsteele.com/?p=42072

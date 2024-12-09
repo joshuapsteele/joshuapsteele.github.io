@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 date: "2018-01-31T15:09:33Z"
 footnotes:
 - ""

@@ -5,18 +5,6 @@ categories:
 date: "2013-02-26T16:45:09Z"
 guid: https://joshuapsteele.com/?p=2353
 id: 2353
-publicize_reach:
-- a:2:{s:7:"twitter";a:1:{i:1661606;i:400;}s:2:"wp";a:1:{i:0;i:22;}}
-- a:2:{s:7:"twitter";a:1:{i:1661606;i:400;}s:2:"wp";a:1:{i:0;i:22;}}
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Let There Be Light: My Resignation'
 url: /let-there-be-light-my-resignation/
 ---

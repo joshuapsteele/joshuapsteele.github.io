@@ -1,17 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Personal
 date: "2012-09-19T16:21:17Z"
 guid: http://windowinthesky.wordpress.com/?p=1459
 id: 1459
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Sacrificing Scripture on the Altars of Our Own Agendas
 url: /sacrificing-scripture-on-the-altars-of-our-own-agendas/
 ---

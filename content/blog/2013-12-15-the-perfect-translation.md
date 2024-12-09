@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 date: "2013-12-15T09:20:56Z"
 guid: https://joshuapsteele.com/?p=3089
 id: 3089

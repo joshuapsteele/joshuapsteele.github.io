@@ -5,20 +5,6 @@ categories:
 date: "2013-03-29T15:07:13Z"
 guid: https://joshuapsteele.com/?p=2578
 id: 2578
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-03-29
-  19:07:13";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-03-29
-  19:07:13";}
 title: On Building/Burning Bridges
 url: /on-buildingburning-bridges/
 ---

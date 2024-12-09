@@ -5,23 +5,6 @@ categories:
 date: "2013-01-13T21:22:06Z"
 guid: http://windowinthesky.wordpress.com/?p=1967
 id: 1967
-publicize_reach:
-- a:2:{s:7:"twitter";a:1:{i:1661606;i:363;}s:2:"wp";a:1:{i:0;i:13;}}
-- a:2:{s:7:"twitter";a:1:{i:1661606;i:363;}s:2:"wp";a:1:{i:0;i:13;}}
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-01-14
-  02:54:20";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-01-14
-  02:54:20";}
 title: Open Letter to Cedarville Admins and Trustees
 url: /open-letter-to-cedarville-admins-and-trustees/
 ---

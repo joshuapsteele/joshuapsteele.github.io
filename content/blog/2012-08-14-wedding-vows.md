@@ -2,28 +2,11 @@
 author: joshuapsteele
 categories:
 - Personal
+tags:
+- poetry
 date: "2012-08-14T20:20:39Z"
 guid: http://windowinthesky.wordpress.com/?p=1412
 id: 1412
-cover:
-    image: /wp-content/uploads/2012/08/pablo-7.png
-rank_math_description:
-- The traditional marriage vows come from the Book of Common Prayer. When I got married
-  in 2012, I wrote my own vows based on the traditional version.
-rank_math_focus_keyword:
-- vows
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "73"
-rank_math_title:
-- 'Wedding Vows: My Personal Take on the Traditional Version'
 title: 'Wedding Vows: My Personal Take on the Traditional Version'
 url: /wedding-vows/
 ---

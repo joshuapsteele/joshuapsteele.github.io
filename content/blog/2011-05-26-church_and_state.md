@@ -6,14 +6,6 @@ categories:
 date: "2011-05-26T12:23:48Z"
 guid: http://windowinthesky.wordpress.com/?p=1096
 id: 1096
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Church and State
 url: /church_and_state/
 ---

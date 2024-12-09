@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - Sermons
 date: "2016-07-25T22:18:51Z"
 guid: https://joshuapsteele.com/?p=3909

@@ -1,35 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Bible and Scripture
+- Bible
 - The Christian Life
 custom_permalink:
 - romans-distilled-paraphrased
 date: "2012-05-03T14:02:32Z"
 guid: http://windowinthesky.wordpress.com/?p=1344
 id: 1344
-cover:
-    image: /wp-content/uploads/2012/05/pablo-3.png
-rank_math_description:
-- This is an attempt, written in 2012, to distill and paraphrase the main message,
-  argument, logic, etc. of St. Paul's Epistle to the Romans.
-rank_math_focus_keyword:
-- Romans
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "67"
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-05-03
-  18:07:19";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";s:1:"0";s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2012-05-03
-  18:07:19";}
 title: The Book of Romans, Distilled and Paraphrased
 url: /romans-distilled-paraphrased
 ---
