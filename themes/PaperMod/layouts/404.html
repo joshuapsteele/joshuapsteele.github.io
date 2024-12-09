@@ -1,6 +1,6 @@
 {{- define "main" }}
-<div class="not-found">
-    <h1>404: Page Not Found</h1>
+<div class="not-found">404</div>
+<div>
     <p>Oops! The page you're looking for doesn't exist or has been moved.</p>
     <p>Here are some options to help you find your way:</p>
     <ul>
@@ -10,32 +10,4 @@
     </ul>
     <p>If you believe this is an error, please let me know!</p>
 </div>
-<style>
-    .not-found {
-        text-align: center;
-        padding: 2rem;
-        font-family: Arial, sans-serif;
-    }
-    .not-found h1 {
-        font-size: 2.5rem;
-        margin-bottom: 1rem;
-    }
-    .not-found p {
-        margin: 0.5rem 0;
-    }
-    .not-found ul {
-        list-style: none;
-        padding: 0;
-    }
-    .not-found ul li {
-        margin: 0.5rem 0;
-    }
-    .not-found ul li a {
-        text-decoration: none;
-        color: #007BFF;
-    }
-    .not-found ul li a:hover {
-        text-decoration: underline;
-    }
-</style>
 {{- end }}{{/* end main */ -}}
