@@ -1,5 +1,5 @@
 ---
-date: '2024-12-07T13:55:08-05:00'
+date: '2024-12-07T13:55:08Z'
 title: 'O Come, O Come, Emmanuel: Extra Verses'
 author: joshuapsteele
 categories:
