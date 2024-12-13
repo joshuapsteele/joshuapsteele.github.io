@@ -23,7 +23,7 @@ params:
   showFullTextInRSS: true
   showFullTestInJSONFeed: true
   showAllPagesInArchive: true
-  comments: false
+  comments: true
   hideFooter: false
   assets:
     favicon: /favicon.ico
@@ -63,14 +63,16 @@ params:
       - name: Search
         url: "/search/"
   socialIcons: # optional
+    - name: BlueSky
+      url: "https://bsky.app/profile/joshuapsteele.bsky.social"
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
     - name: LinkedIn
       url: "https://www.linkedin.com/in/joshuapsteele/"
-    - name: "omglol"
-      url: "https://steele.omg.lol"
     - name: microblog
       url: "https://social.joshuapsteele.com"
+    - name: "omglol"
+      url: "https://steele.omg.lol"
     - name: rss
       url: "https://joshuapsteele.com/blog/feed.xml"
 markup:
@@ -120,12 +122,9 @@ menu:
     - name: Social
       url: https://social.joshuapsteele.com
       weight: 5
-    - name: Subscribe
-      url: https://social.joshuapsteele.com/subscribe/
-      weight: 6
     - name: Search
       url: /search?
-      weight: 7
+      weight: 6
 services:
   disqus:
     shortname: joshuapsteele

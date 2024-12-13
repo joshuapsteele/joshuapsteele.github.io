@@ -201,17 +201,6 @@ For my writing habit, I’ve committed to writing 500 words toward my dissertati
                 </a>
             </li>
             <li>
-                <a href="https://social.joshuapsteele.com/subscribe/" title="Subscribe">
-                    <span>Subscribe</span>&nbsp;
-                    <svg fill="none" shape-rendering="geometricPrecision" stroke="currentColor" stroke-linecap="round"
-                        stroke-linejoin="round" stroke-width="2.5" viewBox="0 0 24 24" height="12" width="12">
-                        <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6"></path>
-                        <path d="M15 3h6v6"></path>
-                        <path d="M10 14L21 3"></path>
-                    </svg>
-                </a>
-            </li>
-            <li>
                 <a href="https://joshuapsteele.com/search" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
@@ -285,7 +274,26 @@ For my writing habit, I’ve committed to writing 500 words toward my dissertati
   </a>
 </nav>
 
-  </footer>
+  </footer><div id="disqus_thread"></div>
+<script>
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "joshuapsteele" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </article>
     </main>
     <script src="https://tinylytics.app/embed/kLx6jW19SrdcVTjNny3p.js" defer></script>
