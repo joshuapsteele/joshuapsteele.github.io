@@ -37,7 +37,7 @@ _(For a brief profile of what I'm like and what makes me tick as a worker, [read
 - January 2022 - February 2023
 - Prepared End User Sync Simplified for EA and GA Release (Q1-Q2 2022)
 - Constructed Okta Integration (Q2-Q3 2022)
-- Responsibilities include: software development (Java, MySQL, JavaScript, Python); bug fixes; research; planning.
+- Responsibilities included: software development (Java, MySQL, JavaScript, Python); bug fixes; research; planning.
 
 ### **Managing Editor - [Anglican Compass](https://anglicancompass.com/)**
 
