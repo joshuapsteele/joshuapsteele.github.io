@@ -1,6 +1,5 @@
 ---
 date: '2025-01-10T09:23:13-05:00'
-draft: true
 title: 'Dinner Prayer Highlights from Our 4-Year-Old'
 author: joshuapsteele
 categories:
