@@ -16,7 +16,6 @@ Last Updated: 2024-11-10
 - How do I fix a light switch that doesn't controll a ceiling light/fan like I want it to?
 - How do I get rid of woodpeckers that keep pecking my house?
 - What's the best "budget" bidet?
-- What's the best "budget" smart TV?
 - When should I replace my 2016 MacBook Pro, and what should I replace it with?
 - What reference works should I expand my personal library with?
 - Why does Toledo's NPR station play so much classical music? Is there a way to get more NPR programming on the station?
@@ -27,5 +26,7 @@ On a deeper level:
 - What can be done at the grassroots level to counter fascism, Christian Nationalism, etc.?
 
 ## Questions I've Answered
+
+- [What's the best "budget" smart TV?](/best-budget-smart-tv/)
 
 *TBD! Will link to answers in the future.*
