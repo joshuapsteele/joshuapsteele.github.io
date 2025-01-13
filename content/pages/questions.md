@@ -7,12 +7,13 @@ showtoc: false
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 
-Last Updated: 2024-11-10
+Last Updated: 2025-01-13
 
 ## Questions I'm Asking
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
+- How can I check my roof, attic, insulation, etc. for leaks, mold, etc.?
 - How do I fix a light switch that doesn't controll a ceiling light/fan like I want it to?
 - How do I get rid of woodpeckers that keep pecking my house?
 - What's the best "budget" bidet?
