@@ -51,8 +51,8 @@ What I want:
 
 ## Tools
 
-- Extension ladder
-- Come-along winch
+- ✅ Extension ladder
+- ✅ Come-along winch
 - Chain (to use with come-along)
 - Hi-lift jack
 - Bottle jack
@@ -87,12 +87,12 @@ What I want:
   - ✅ [Taurus G3C](https://www.taurususa.com/pistols/taurus-g3/taurus-r-g3c-tenifer-matte-black-9mm-luger-compact-12-rds)
   - [CZ P10-C](https://palmettostatearmory.com/brands/cz/pistols/p10/p10-c.html)
   - [Glock G19 Gen 5](https://palmettostatearmory.com/brands/glock/glock-19/gen-5.html)
-- Handgun, .22LR: [Kel-Tec P17](https://www.keltecweapons.com/firearm/pistols/p17/)
-- Sling for 10/22 rifle
-- Sling for shotgun
+- ✅ Handgun, .22LR: [Kel-Tec P17](https://www.keltecweapons.com/firearm/pistols/p17/)
+- ✅ Sling for 10/22 rifle
+- ✅ Sling for shotgun
 - CLP gun cleaner, spray
 - CLP gun cleaner, needle applicator
-- Individual First Aid Kit (IFAK), including a CAT tourniquet
+- Individual First Aid Kit (IFAK), including a ✅ CAT tourniquet
 - ✅ XBox
 
 ## Books
