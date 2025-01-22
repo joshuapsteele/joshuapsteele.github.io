@@ -2,22 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/categories/bible/</loc>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-01-17T06:50:09+00:00</lastmod>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
-    <lastmod>2025-01-17T06:50:09+00:00</lastmod>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/politics/</loc>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/stay-woke-ephesians-5/</loc>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/</loc>
+    <lastmod>2025-01-22T08:12:07-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/diagnostic-tools-for-homeowners/</loc>
     <lastmod>2025-01-17T06:50:09+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/diy/</loc>
-    <lastmod>2025-01-17T06:50:09+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-01-17T06:50:09+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/</loc>
     <lastmod>2025-01-17T06:50:09+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/tools/</loc>
@@ -116,9 +125,6 @@
     <loc>https://joshuapsteele.com/categories/tools/</loc>
     <lastmod>2024-09-16T16:09:39+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/categories/bible/</loc>
-    <lastmod>2024-09-13T16:19:56+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/tags/immigration/</loc>
     <lastmod>2024-09-13T16:19:56+00:00</lastmod>
   </url><url>
@@ -129,9 +135,6 @@
     <lastmod>2024-09-09T14:03:42+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/church-and-theology/</loc>
-    <lastmod>2024-09-09T14:03:42+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/politics/</loc>
     <lastmod>2024-09-09T14:03:42+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/the-christian-life/</loc>
