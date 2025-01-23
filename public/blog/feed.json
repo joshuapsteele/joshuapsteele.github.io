@@ -5,6 +5,12 @@
     "home_page_url": "https://joshuapsteele.com/blog/",
     "feed_url": "https://joshuapsteele.com/blog/feed.json",
     "items": [ {
+            "title": "Devs! Let's Talk Authorization",
+            "id": "https://joshuapsteele.com/lets-talk-authorization/",
+            "url": "https://joshuapsteele.com/lets-talk-authorization/",
+            "content_text": "\u003cp\u003eCalling all software developers! As I embark on a new, exploratory work project, I\u0026rsquo;d like to hear your thoughts on authorization.\u003c/p\u003e\n\u003cp\u003eHow have you designed and implemented authorization in your applications?\u003c/p\u003e\n\u003cp\u003eTo get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?\u003c/p\u003e\n\u003cp\u003eWhat tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?\u003c/p\u003e",
+            "date_published": "2025-01-23T09:16:56-05:00"
+        }, {
             "title": "Stay Woke! Ephesians 5:11-14",
             "id": "https://joshuapsteele.com/stay-woke-ephesians-5/",
             "url": "https://joshuapsteele.com/stay-woke-ephesians-5/",
