@@ -52,16 +52,24 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
-      - name: About
+      - name: About 👤
         url: "/about/"
-      - name: Blog
+      - name: Blog 📝
         url: "/blog/"
-      - name: Contact
+      - name: Contact 📬
         url: "/contact/"
-      - name: Resources
+      - name: CV 📄
+        url: "/cv/"
+      - name: Now ⏳
+        url: "/now/"
+      - name: Questions 🤨
+        url: "/questions/"
+      - name: Resources 🧰
         url: "/resources/"
-      - name: Search
+      - name: Search 🔎
         url: "/search/"
+      - name: Wish List 🎁
+        url: "/wish-list/"
   socialIcons: # optional
     - name: BlueSky
       url: "https://bsky.app/profile/joshuapsteele.bsky.social"
