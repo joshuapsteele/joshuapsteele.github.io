@@ -53,18 +53,18 @@ What I want:
 
 - ✅ Extension ladder
 - ✅ Come-along winch
-- Chain (to use with come-along)
-- Hi-lift jack
-- Bottle jack
+- ✅ Chain (to use with come-along)
+- ✅ Hi-lift jack
+- ✅ Bottle jack
 - Table saw
 - Planer
 - Router
 - Jointer
 - Belt sander
-- Wheelbarrow
+- ✅ Wheelbarrow
 - Post hole digger
-- Chalk line
-- Calipers
+- ✅ Chalk line
+- ✅ Calipers
 - ✅ Workbench
 - [Table saw](https://amzn.to/3w6X1LM)
 - ✅ [Miter saw](https://amzn.to/3XzmOrA)
@@ -81,7 +81,6 @@ What I want:
 - New MacBook Pro (Current: 2016)
 - New iPhone (Current: iPhone XR)
 - Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
-- ✅ XBox
 
 ## Books
 
@@ -89,4 +88,4 @@ What I want:
 
 * * *
 
-Last updated 2024-12-10
+Last updated 2025-02-04
