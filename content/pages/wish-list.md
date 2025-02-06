@@ -70,7 +70,7 @@ What I want:
 - ✅ [Miter saw](https://amzn.to/3XzmOrA)
 - ✅ [Reciprocating saw, AKA “Sawzall”](https://amzn.to/3CWkjYp))
 - ✅ [Pocket hole jig](https://amzn.to/3iLeFBI)
-- [Hand truck](https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html)
+- ✅ [Hand truck](https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html)
 - ✅ [Floor jack](https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html)
 - ✅ [Jack stands](https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html)
 - ✅ [Stanley FuBar III](https://amzn.to/3ZJ0BZT) pry bar
