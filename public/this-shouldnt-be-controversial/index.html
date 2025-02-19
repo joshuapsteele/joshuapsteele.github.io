@@ -5,14 +5,16 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="index, follow">
-<title>Devs! Let&#39;s Talk Authorization | Joshua P. Steele</title>
-<meta name="keywords" content="authorization">
-<meta name="description" content="Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.
-How have you designed and implemented authorization in your applications?
-To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?
-What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?">
+<title>This Shouldn&#39;t Be Controversial | Joshua P. Steele</title>
+<meta name="keywords" content="politics">
+<meta name="description" content="The following statements should not be controversial, but they sadly are. What would you add to this list?
+Donald Trump lost the 2020 election.
+January 6th, 2021, was an insurrection.
+Congress, not the President (and much less the President&rsquo;s unelected adviser), holds the power of the purse.
+The Judicial branch, and not the Executive branch, interprets the law and the Constitution.
+No one, not even the President, is above the law.">
 <meta name="author" content="joshuapsteele">
-<link rel="canonical" href="https://joshuapsteele.com/lets-talk-authorization/">
+<link rel="canonical" href="https://joshuapsteele.com/this-shouldnt-be-controversial/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.72d18a3f820545452e4bd854eca18b020aad9c7b1bad7b51d11857fcaabdee33.css" integrity="sha256-ctGKP4IFRUUuS9hU7KGLAgqtnHsbrXtR0RhX/Kq97jM=" rel="preload stylesheet" as="style">
 <link rel="icon" href="https://joshuapsteele.com/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="https://joshuapsteele.com/favicon-16x16.png">
@@ -21,7 +23,7 @@ What tools or libraries have you found most useful in your work? Have you built 
 <link rel="mask-icon" href="https://joshuapsteele.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="https://joshuapsteele.com/lets-talk-authorization/">
+<link rel="alternate" hreflang="en" href="https://joshuapsteele.com/this-shouldnt-be-controversial/">
 <noscript>
     <style>
         #theme-toggle,
@@ -59,22 +61,26 @@ What tools or libraries have you found most useful in your work? Have you built 
 
     </style>
 </noscript><link rel="stylesheet" href="/assets/css/custom.css">
-<meta property="og:title" content="Devs! Let&#39;s Talk Authorization" />
-<meta property="og:description" content="Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.
-How have you designed and implemented authorization in your applications?
-To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?
-What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?" />
+<meta property="og:title" content="This Shouldn&#39;t Be Controversial" />
+<meta property="og:description" content="The following statements should not be controversial, but they sadly are. What would you add to this list?
+Donald Trump lost the 2020 election.
+January 6th, 2021, was an insurrection.
+Congress, not the President (and much less the President&rsquo;s unelected adviser), holds the power of the purse.
+The Judicial branch, and not the Executive branch, interprets the law and the Constitution.
+No one, not even the President, is above the law." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://joshuapsteele.com/lets-talk-authorization/" /><meta property="article:section" content="blog" />
-<meta property="article:published_time" content="2025-01-23T09:16:56-05:00" />
-<meta property="article:modified_time" content="2025-01-23T09:16:56-05:00" />
+<meta property="og:url" content="https://joshuapsteele.com/this-shouldnt-be-controversial/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2025-02-19T09:16:56-05:00" />
+<meta property="article:modified_time" content="2025-02-19T09:16:56-05:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Devs! Let&#39;s Talk Authorization"/>
-<meta name="twitter:description" content="Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.
-How have you designed and implemented authorization in your applications?
-To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?
-What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?"/>
+<meta name="twitter:title" content="This Shouldn&#39;t Be Controversial"/>
+<meta name="twitter:description" content="The following statements should not be controversial, but they sadly are. What would you add to this list?
+Donald Trump lost the 2020 election.
+January 6th, 2021, was an insurrection.
+Congress, not the President (and much less the President&rsquo;s unelected adviser), holds the power of the purse.
+The Judicial branch, and not the Executive branch, interprets the law and the Constitution.
+No one, not even the President, is above the law."/>
 
 
 <script type="application/ld+json">
@@ -91,8 +97,8 @@ What tools or libraries have you found most useful in your work? Have you built 
     {
       "@type": "ListItem",
       "position":  2 ,
-      "name": "Devs! Let's Talk Authorization",
-      "item": "https://joshuapsteele.com/lets-talk-authorization/"
+      "name": "This Shouldn't Be Controversial",
+      "item": "https://joshuapsteele.com/this-shouldnt-be-controversial/"
     }
   ]
 }
@@ -101,24 +107,24 @@ What tools or libraries have you found most useful in your work? Have you built 
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "Devs! Let's Talk Authorization",
-  "name": "Devs! Let\u0027s Talk Authorization",
-  "description": "Calling all software developers! As I embark on a new, exploratory work project, I\u0026rsquo;d like to hear your thoughts on authorization.\nHow have you designed and implemented authorization in your applications?\nTo get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?\nWhat tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?\n",
+  "headline": "This Shouldn't Be Controversial",
+  "name": "This Shouldn\u0027t Be Controversial",
+  "description": "The following statements should not be controversial, but they sadly are. What would you add to this list?\nDonald Trump lost the 2020 election.\nJanuary 6th, 2021, was an insurrection.\nCongress, not the President (and much less the President\u0026rsquo;s unelected adviser), holds the power of the purse.\nThe Judicial branch, and not the Executive branch, interprets the law and the Constitution.\nNo one, not even the President, is above the law.\n",
   "keywords": [
-    "authorization"
+    "politics"
   ],
-  "articleBody": "Calling all software developers! As I embark on a new, exploratory work project, I’d like to hear your thoughts on authorization.\nHow have you designed and implemented authorization in your applications?\nTo get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?\nWhat tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?\nWhat are the best practices you’ve discovered? Any industry standards or patterns you follow?\nWhat are the pitfalls to avoid? What are the most common mistakes you’ve seen?\nWhat are the most helpful resources you’ve found on the topic of authorization in software development? I’m looking for books, articles, videos, or anything else that has helped you.\nThanks so much! I’m looking forward to hearing your thoughts! Leave a comment below, send me an email at blog@joshuapsteele.com or reach out to me on BlueSky @joshuapsteele.bsky.social.\n",
-  "wordCount" : "173",
+  "articleBody": "The following statements should not be controversial, but they sadly are. What would you add to this list?\nDonald Trump lost the 2020 election.\nJanuary 6th, 2021, was an insurrection.\nCongress, not the President (and much less the President’s unelected adviser), holds the power of the purse.\nThe Judicial branch, and not the Executive branch, interprets the law and the Constitution.\nNo one, not even the President, is above the law.\nDOGE is not an official, legal government agency.\nElon Musk is not the President of the United States.\nElon Musk has not been elected to any public office.\nElon Musk personally benefits from many government contracts, and should not be making spending decisions for the government.\nExecutive orders are not laws.\nRussia invaded Ukraine. Ukraine did not start the war with Russia.\nThe United States of America is a democratic republic, not a dictatorship.\nThe United States of America is a secular nation, not a theocracy.\nThe United States of America is a country, not a corporation.\n",
+  "wordCount" : "168",
   "inLanguage": "en",
-  "datePublished": "2025-01-23T09:16:56-05:00",
-  "dateModified": "2025-01-23T09:16:56-05:00",
+  "datePublished": "2025-02-19T09:16:56-05:00",
+  "dateModified": "2025-02-19T09:16:56-05:00",
   "author":{
     "@type": "Person",
     "name": "joshuapsteele"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://joshuapsteele.com/lets-talk-authorization/"
+    "@id": "https://joshuapsteele.com/this-shouldnt-be-controversial/"
   },
   "publisher": {
     "@type": "Organization",
@@ -217,39 +223,41 @@ What tools or libraries have you found most useful in your work? Have you built 
   <header class="post-header">
     <div class="breadcrumbs"><a href="https://joshuapsteele.com/">Home</a>&nbsp;»&nbsp;<a href="https://joshuapsteele.com/blog/">Blogs</a></div>
     <h1 class="post-title entry-hint-parent">
-      Devs! Let&#39;s Talk Authorization
+      This Shouldn&#39;t Be Controversial
     </h1>
-    <div class="post-meta"><span title='2025-01-23 09:16:56 -0500 EST'>January 23, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;joshuapsteele&nbsp;|&nbsp;<a href="https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content/blog/2025-01-23-lets-talk-authorization.md" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
+    <div class="post-meta"><span title='2025-02-19 09:16:56 -0500 EST'>February 19, 2025</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;joshuapsteele&nbsp;|&nbsp;<a href="https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content/blog/2025-02-19-this-shouldnt-be-controversial.md" rel="noopener noreferrer" target="_blank">Suggest Changes</a>
 
 </div>
   </header> 
 
-  <div class="post-content"><p>Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.</p>
-<p>How have you designed and implemented authorization in your applications?</p>
-<p>To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?</p>
-<p>What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?</p>
-<p>What are the best practices you&rsquo;ve discovered? Any industry standards or patterns you follow?</p>
-<p>What are the pitfalls to avoid? What are the most common mistakes you&rsquo;ve seen?</p>
-<p>What are the most helpful resources you&rsquo;ve found on the topic of authorization in software development? I&rsquo;m looking for books, articles, videos, or anything else that has helped you.</p>
-<p>Thanks so much! I&rsquo;m looking forward to hearing your thoughts! Leave a comment below, send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>.</p>
+  <div class="post-content"><p>The following statements should not be controversial, but they sadly are. What would you add to this list?</p>
+<p>Donald Trump lost the 2020 election.</p>
+<p>January 6th, 2021, was an insurrection.</p>
+<p>Congress, not the President (and much less the President&rsquo;s unelected adviser), holds the power of the purse.</p>
+<p>The Judicial branch, and not the Executive branch, interprets the law and the Constitution.</p>
+<p>No one, not even the President, is above the law.</p>
+<p>DOGE is not an official, legal government agency.</p>
+<p>Elon Musk is not the President of the United States.</p>
+<p>Elon Musk has not been elected to any public office.</p>
+<p>Elon Musk personally benefits from many government contracts, and should not be making spending decisions for the government.</p>
+<p>Executive orders are not laws.</p>
+<p>Russia invaded Ukraine. Ukraine did not start the war with Russia.</p>
+<p>The United States of America is a democratic republic, not a dictatorship.</p>
+<p>The United States of America is a secular nation, not a theocracy.</p>
+<p>The United States of America is a country, not a corporation.</p>
 
 
   </div>
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="https://joshuapsteele.com/tags/authorization/">Authorization</a></li>
+      <li><a href="https://joshuapsteele.com/tags/politics/">Politics</a></li>
     </ul>
 <nav class="paginav">
-  <a class="prev" href="https://joshuapsteele.com/this-shouldnt-be-controversial/">
-    <span class="title">« Prev</span>
-    <br>
-    <span>This Shouldn&#39;t Be Controversial</span>
-  </a>
-  <a class="next" href="https://joshuapsteele.com/stay-woke-ephesians-5/">
+  <a class="next" href="https://joshuapsteele.com/lets-talk-authorization/">
     <span class="title">Next »</span>
     <br>
-    <span>Stay Woke! Ephesians 5:11-14</span>
+    <span>Devs! Let&#39;s Talk Authorization</span>
   </a>
 </nav>
 

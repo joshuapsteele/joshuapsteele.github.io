@@ -6,8 +6,15 @@
     <description>Recent content in Categories on Joshua P. Steele</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 23 Jan 2025 09:16:56 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 09:16:56 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Politics</title>
+      <link>https://joshuapsteele.com/categories/politics/</link>
+      <pubDate>Wed, 19 Feb 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/categories/politics/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Software Engineering</title>
       <link>https://joshuapsteele.com/categories/software-engineering/</link>

@@ -5,6 +5,12 @@
     "home_page_url": "https://joshuapsteele.com/blog/",
     "feed_url": "https://joshuapsteele.com/blog/feed.json",
     "items": [ {
+            "title": "This Shouldn't Be Controversial",
+            "id": "https://joshuapsteele.com/this-shouldnt-be-controversial/",
+            "url": "https://joshuapsteele.com/this-shouldnt-be-controversial/",
+            "content_text": "\u003cp\u003eThe following statements should not be controversial, but they sadly are. What would you add to this list?\u003c/p\u003e\n\u003cp\u003eDonald Trump lost the 2020 election.\u003c/p\u003e\n\u003cp\u003eJanuary 6th, 2021, was an insurrection.\u003c/p\u003e\n\u003cp\u003eCongress, not the President (and much less the President\u0026rsquo;s unelected adviser), holds the power of the purse.\u003c/p\u003e\n\u003cp\u003eThe Judicial branch, and not the Executive branch, interprets the law and the Constitution.\u003c/p\u003e\n\u003cp\u003eNo one, not even the President, is above the law.\u003c/p\u003e",
+            "date_published": "2025-02-19T09:16:56-05:00"
+        }, {
             "title": "Devs! Let's Talk Authorization",
             "id": "https://joshuapsteele.com/lets-talk-authorization/",
             "url": "https://joshuapsteele.com/lets-talk-authorization/",
