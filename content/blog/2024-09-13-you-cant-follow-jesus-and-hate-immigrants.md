@@ -53,7 +53,7 @@ The Bible actually has quite a bit to say about immigrants, sojourners, and refu
 > Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it.  
 > (Hebrews 13:2, NIV)
 
-As M. Daniel Carroll Rodas explains in an article on “Aliens, Immigration, and Refugees”:
+As M. Daniel Carroll Rodas explains in [a helpful article on “Aliens, Immigration, and Refugees”](static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf) (click that link for a PDF of the article):
 
 - Both the Old and New Testaments offer rich teachings on migration, emphasizing that refugees and immigrants are made in the image of God.
 - Many biblical figures, like Abraham, Moses, and Jesus himself, were displaced persons.
@@ -62,7 +62,7 @@ As M. Daniel Carroll Rodas explains in an article on “Aliens, Immigration, and
 - The New Testament epistles also call the church to care for those on the margins, reminding Christians that they, too, are “strangers” in the world.
 - Biblical teachings on migration should shape how Christians act toward immigrants today, promoting “human flourishing and the common good” through both personal behavior and societal involvement
 
-(Source: M. Daniel Carroll R., “Aliens, Immigration, and Refugees,” *Dictionary of Scripture and Ethics*, Grand Rapids, MI: Baker Academic, 2011, 58).
+(Source: M. Daniel Carroll R., “Aliens, Immigration, and Refugees,” *[Dictionary of Scripture and Ethics](https://www.amazon.com/s?k=Dictionary+of+Scripture+and+Ethics&linkCode=ll2&tag=joshuapsteele-20&linkId=fe86bbace8a5c59f7354c6bde6fc84eb&language=en_US&ref_=as_li_ss_tl)*, Grand Rapids, MI: Baker Academic, 2011, 58).
 
 You can’t follow Jesus and hate immigrants.
 
@@ -84,8 +84,8 @@ Let’s commit to being voices of love, grace, and justice in a world that so de
 
 The following bibliography is from M. Daniel Carroll R., “Aliens, Immigration, and Refugees,” *Dictionary of Scripture and Ethics* (Grand Rapids, MI: Baker Academic, 2011), 58.
 
-- Brettell, C., and J. Hollifield. *Migration Theory: Talking across Disciplines*. 2nd ed. Routledge, 2008.
-- Carroll R., M. D. *Christians at the Border: Immigration, the Church, and the Bible*. Baker Academic, 2008.
+- Brettell, C., and J. Hollifield. *[Migration Theory: Talking across Disciplines](https://www.amazon.com/s?k=Migration+Theory%3A+Talking+across+Disciplines&crid=2X0CWCPHERXT6&sprefix=migration+theory+talking+across+disciplines%2Caps%2C198&linkCode=ll2&tag=joshuapsteele-20&linkId=d9b25e15f9aab25b87dcddac62ca0c13&language=en_US&ref_=as_li_ss_tl)*. 2nd ed. Routledge, 2008.
+- Carroll R., M. D. *[Christians at the Border: Immigration, the Church, and the Bible](https://www.amazon.com/s?k=Christians+at+the+Border%3A+Immigration%2C+the+Church%2C+and+the+Bible&crid=32MV5KEGRWYR2&sprefix=christians+at+the+border+immigration%2C+the+church%2C+and+the+bible%2Caps%2C124&linkCode=ll2&tag=joshuapsteele-20&linkId=a8ce589e7b8f5e2125749678778e8cde&language=en_US&ref_=as_li_ss_tl)*. Baker Academic, 2008.
 - Groody, D., ed. *A Promised Land, a Perilous Journey: Theological Perspectives on Migration*. University of Notre Dame Press, 2008.
 - Hanciles, J. *Beyond Christendom: Globalization, African Migration and the Transformation of the West*. Orbis, 2008.
 - Hoffmeier, J. *The Immigration Crisis: Immigrants, Aliens, and the Bible*. Crossway, 2009.
