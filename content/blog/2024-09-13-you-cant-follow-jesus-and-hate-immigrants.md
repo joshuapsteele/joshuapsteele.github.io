@@ -53,7 +53,7 @@ The Bible actually has quite a bit to say about immigrants, sojourners, and refu
 > Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it.  
 > (Hebrews 13:2, NIV)
 
-As M. Daniel Carroll Rodas explains in [a helpful article on “Aliens, Immigration, and Refugees”](static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf) (click that link for a PDF of the article):
+As M. Daniel Carroll Rodas explains in [a helpful article on “Aliens, Immigration, and Refugees”](/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf) (click that link for a PDF of the article):
 
 - Both the Old and New Testaments offer rich teachings on migration, emphasizing that refugees and immigrants are made in the image of God.
 - Many biblical figures, like Abraham, Moses, and Jesus himself, were displaced persons.
