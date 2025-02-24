@@ -23,7 +23,7 @@ params:
   showFullTextInRSS: true
   showFullTestInJSONFeed: true
   showAllPagesInArchive: true
-  comments: true
+  comments: false
   hideFooter: false
   assets:
     favicon: /favicon.ico
