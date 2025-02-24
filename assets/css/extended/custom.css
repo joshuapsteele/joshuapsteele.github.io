@@ -1,3 +1,22 @@
 body:not(.dark) #home-logo {
     filter: invert(1);
 }
+
+/* Reply via email button styles */
+.post-reply-email {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.post-reply-email a {
+    display: inline-block;
+    padding: 0.5em 1em;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.post-reply-email a:hover {
+    background: var(--border);
+    box-shadow: none;
+}
