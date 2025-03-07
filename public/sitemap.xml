@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/tags/authorization/</loc>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/authorization-continued/</loc>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-02-19T09:16:56-05:00</lastmod>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
-    <lastmod>2025-02-19T09:16:56-05:00</lastmod>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-02-19T09:16:56-05:00</lastmod>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/</loc>
+    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/politics/</loc>
     <lastmod>2025-02-19T09:16:56-05:00</lastmod>
@@ -17,22 +29,10 @@
     <loc>https://joshuapsteele.com/categories/politics/</loc>
     <lastmod>2025-02-19T09:16:56-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/</loc>
-    <lastmod>2025-02-19T09:16:56-05:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/this-shouldnt-be-controversial/</loc>
     <lastmod>2025-02-19T09:16:56-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/authorization/</loc>
-    <lastmod>2025-01-23T09:16:56-05:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/lets-talk-authorization/</loc>
-    <lastmod>2025-01-23T09:16:56-05:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/lets-talk-authorization/</loc>
-    <lastmod>2025-01-23T09:16:56-05:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
     <lastmod>2025-01-23T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/bible/</loc>

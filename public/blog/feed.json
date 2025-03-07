@@ -5,17 +5,17 @@
     "home_page_url": "https://joshuapsteele.com/blog/",
     "feed_url": "https://joshuapsteele.com/blog/feed.json",
     "items": [ {
+            "title": "Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify",
+            "id": "https://joshuapsteele.com/authorization-continued/",
+            "url": "https://joshuapsteele.com/authorization-continued/",
+            "content_text": "\u003cp\u003eAs I mentioned in my previous post, \u0026ldquo;Devs, Let\u0026rsquo;s Talk Authorization!\u0026rdquo;, I\u0026rsquo;m working on a new, exploratory work project related to authorization. Specifically, we\u0026rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.\u003c/p\u003e\n\u003ch2 id=\"clarify-current-requirements\"\u003eClarify Current Requirements\u003c/h2\u003e\n\u003cp\u003eThe first thing I did was gather and clarify my org\u0026rsquo;s current authorization model/requirements. We\u0026rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).\u003c/p\u003e",
+            "date_published": "2025-03-07T09:16:56-05:00"
+        }, {
             "title": "This Shouldn't Be Controversial",
             "id": "https://joshuapsteele.com/this-shouldnt-be-controversial/",
             "url": "https://joshuapsteele.com/this-shouldnt-be-controversial/",
             "content_text": "\u003cp\u003eThe following statements should not be controversial, but they sadly are. What would you add to this list?\u003c/p\u003e\n\u003cp\u003eDonald Trump lost the 2020 election.\u003c/p\u003e\n\u003cp\u003eJanuary 6th, 2021, was an insurrection.\u003c/p\u003e\n\u003cp\u003eCongress, not the President (and much less the President\u0026rsquo;s unelected adviser), holds the power of the purse.\u003c/p\u003e\n\u003cp\u003eThe Judicial branch, and not the Executive branch, interprets the law and the Constitution.\u003c/p\u003e\n\u003cp\u003eNo one, not even the President, is above the law.\u003c/p\u003e",
             "date_published": "2025-02-19T09:16:56-05:00"
-        }, {
-            "title": "Devs! Let's Talk Authorization",
-            "id": "https://joshuapsteele.com/lets-talk-authorization/",
-            "url": "https://joshuapsteele.com/lets-talk-authorization/",
-            "content_text": "\u003cp\u003eCalling all software developers! As I embark on a new, exploratory work project, I\u0026rsquo;d like to hear your thoughts on authorization.\u003c/p\u003e\n\u003cp\u003eHow have you designed and implemented authorization in your applications?\u003c/p\u003e\n\u003cp\u003eTo get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?\u003c/p\u003e\n\u003cp\u003eWhat tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?\u003c/p\u003e",
-            "date_published": "2025-01-23T09:16:56-05:00"
         }, {
             "title": "Devs! Let's Talk Authorization",
             "id": "https://joshuapsteele.com/lets-talk-authorization/",
