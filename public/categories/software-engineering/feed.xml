@@ -28,6 +28,25 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>Devs! Let&#39;s Talk Authorization</title>
+      <link>https://joshuapsteele.com/lets-talk-authorization/</link>
+      <pubDate>Thu, 23 Jan 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/lets-talk-authorization/</guid>
+      <description>&lt;p&gt;Calling all software developers! As I embark on a new, exploratory work project, I&amp;rsquo;d like to hear your thoughts on authorization.&lt;/p&gt;
+&lt;p&gt;How have you designed and implemented authorization in your applications?&lt;/p&gt;
+&lt;p&gt;To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?&lt;/p&gt;
+&lt;p&gt;What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.</p>
+<p>How have you designed and implemented authorization in your applications?</p>
+<p>To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?</p>
+<p>What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?</p>
+<p>What are the best practices you&rsquo;ve discovered? Any industry standards or patterns you follow?</p>
+<p>What are the pitfalls to avoid? What are the most common mistakes you&rsquo;ve seen?</p>
+<p>What are the most helpful resources you&rsquo;ve found on the topic of authorization in software development? I&rsquo;m looking for books, articles, videos, or anything else that has helped you.</p>
+<p>Thanks so much! I&rsquo;m looking forward to hearing your thoughts! Leave a comment below, send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Essential Reads for New Software Developers: The Effective Engineer and The Missing README</title>
       <link>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</link>
       <pubDate>Mon, 03 Jul 2023 21:08:09 +0000</pubDate>
