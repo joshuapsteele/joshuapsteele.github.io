@@ -55,8 +55,49 @@
 <blockquote>
 <p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p>
 </blockquote>
-<h2 id="what-now-experimenting-with-permify-and-spicedb-maybe">What Now? Experimenting with Permify (and SpiceDB, maybe)</h2>
-<p>To be clear, it is possible to model multi-level management relationships, as well as intra-organization relationships across a large company, in OpenFGA. It just ends up taking more relational tuples to represent the relationships than I initially expected.</p>
+<h3 id="update-openfga-does-handle-recursive-relationships">UPDATE: OpenFGA Does Handle Recursive Relationships!</h3>
+<p>Shout-out to <a href="https://social.rhamzeh.com/@raghd">Raghd Hamzeh</a>, who&rsquo;s a part of the <a href="https://mastodon.social/@openfga">OpenFGA</a> team, for helping me out with a solution to the management chain problem/example.</p>
+<p><a href="https://social.lol/@raghd@rhamzeh.com/114123110921262312">Raghd writes</a>:</p>
+<blockquote>
+<p>Hey @steele!<br>
+Good news! It does! :) Evaluating indirect relationships is one of @openfga &rsquo;s strong suites!<br>
+Let me know what issue you&rsquo;re facing or need clarification on and I can see if I can help<br>
+You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p>
+</blockquote>
+<p>Here&rsquo;s the workaround/solution: splitting a <code>manager</code> relation into a <code>manager</code> and a <code>can_manage</code> relation!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>model
+</span></span><span style="display:flex;"><span>  schema 1.1
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>type user
+</span></span><span style="display:flex;"><span>  relations
+</span></span><span style="display:flex;"><span>    define manager: [user]
+</span></span><span style="display:flex;"><span>    define can_manage: manager or can_manage from manager
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>type resource
+</span></span><span style="display:flex;"><span>  relations
+</span></span><span style="display:flex;"><span>    define owner: [user]
+</span></span><span style="display:flex;"><span>    define can_view: owner or can_manage from owner
+</span></span></code></pre></div><p>You can then assign a chain of management relationships via relational tuples:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">tuples</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:B</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">owner</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">resource:A</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:C</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">manager</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">user:B</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:D</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">manager</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">user:B</span>
+</span></span></code></pre></div><p>The following test will pass:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">tests</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Tests</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">check</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:D</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">object</span>: <span style="color:#ae81ff">resource:A</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">assertions</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">can_view</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><h2 id="what-now-experimenting-with-permify-and-spicedb-maybe">What Now? Experimenting with Permify (and SpiceDB, maybe)</h2>
+<p>To be clear, it is possible to model multi-level management relationships, as well as intra-organization relationships across a large company, in OpenFGA. It just ends up taking more relational tuples to represent the relationships than I initially expected. (UPDATE: See above! It seems to either take more tuples than anticipated, OR splitting up the recursive relationship to allow for evaluation.)</p>
 <p>So, I did some research on ReBAC and recursive relationships, and it sounds like other ReBAC solutions, like Permify and SpiceDB, can evaluate indirect relationships recursively. They avoid infinite loops and undue performance costs in various ways.</p>
 <p>I&rsquo;m currently trying to translate the OpenFGA authorization model I created into Permify&rsquo;s syntax. (Which, if anyone already has a tool or a script that does this, taking an <code>.fga</code> or an <code>.fga.yaml</code> file as input, please let me know!) I&rsquo;ll then put in some test data and run some checks to see if there are any noticeable differences between OpenFGA and Permify when it comes to performance, &ldquo;pain-in-the-ass&rdquo; of development, etc.</p>
 <p>If time allows, I&rsquo;ll also do some experimenting with SpiceDB. We&rsquo;ll see!</p>

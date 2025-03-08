@@ -67,9 +67,64 @@ Another warning of this limitation is found in [OpenFGA’s documentation on mod
 
 > When searching tuples that are related to the object (the word after `from`, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form `<object_type>:<object_id>`) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a `*`, a type bound public access (`<object_type>:*`), or a userset (`<object_type>:<object_id>#<relation>`).
 
+### UPDATE: OpenFGA Does Handle Recursive Relationships!
+
+Shout-out to [Raghd Hamzeh](https://social.rhamzeh.com/@raghd), who's a part of the [OpenFGA](https://mastodon.social/@openfga) team, for helping me out with a solution to the management chain problem/example.
+
+[Raghd writes](https://social.lol/@raghd@rhamzeh.com/114123110921262312):
+
+> Hey @steele!  
+> Good news! It does! :) Evaluating indirect relationships is one of @openfga 's strong suites!  
+> Let me know what issue you're facing or need clarification on and I can see if I can help  
+> You'll find several examples on this and other use-cases in the OpenFGA sample stores repo: https://github.com/openfga/sample-stores/tree/main/stores
+
+Here's the workaround/solution: splitting a `manager` relation into a `manager` and a `can_manage` relation!
+
+```fga
+model
+  schema 1.1
+
+type user
+  relations
+    define manager: [user]
+    define can_manage: manager or can_manage from manager
+
+type resource
+  relations
+    define owner: [user]
+    define can_view: owner or can_manage from owner
+```
+
+You can then assign a chain of management relationships via relational tuples:
+
+```yaml
+tuples:
+  - user: user:B
+    relation: owner
+    object: resource:A
+  - user: user:C
+    relation: manager
+    object: user:B
+  - user: user:D
+    relation: manager
+    object: user:B
+```
+
+The following test will pass:
+
+```yaml
+tests:
+  - name: Tests
+    check:
+      - user: user:D
+        object: resource:A
+        assertions:
+          can_view: true
+```
+
 ## What Now? Experimenting with Permify (and SpiceDB, maybe)
 
-To be clear, it is possible to model multi-level management relationships, as well as intra-organization relationships across a large company, in OpenFGA. It just ends up taking more relational tuples to represent the relationships than I initially expected.
+To be clear, it is possible to model multi-level management relationships, as well as intra-organization relationships across a large company, in OpenFGA. It just ends up taking more relational tuples to represent the relationships than I initially expected. (UPDATE: See above! It seems to either take more tuples than anticipated, OR splitting up the recursive relationship to allow for evaluation.)
 
 So, I did some research on ReBAC and recursive relationships, and it sounds like other ReBAC solutions, like Permify and SpiceDB, can evaluate indirect relationships recursively. They avoid infinite loops and undue performance costs in various ways.
 
