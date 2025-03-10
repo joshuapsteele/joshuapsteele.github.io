@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/blog/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/bonhoeffer/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/bonhoeffer-on-stupidity/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/ethics/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/theology/</loc>
+    <lastmod>2025-03-10T15:16:39-04:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/tags/authorization/</loc>
     <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/authorization-continued/</loc>
     <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
     <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
-    <lastmod>2025-03-07T09:16:56-05:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/</loc>
     <lastmod>2025-03-07T09:16:56-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/politics/</loc>
@@ -329,9 +341,6 @@
     <loc>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</loc>
     <lastmod>2022-12-22T13:46:21+00:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/theology/</loc>
-    <lastmod>2022-12-22T13:46:21+00:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</loc>
     <lastmod>2022-12-21T21:08:05+00:00</lastmod>
   </url><url>
@@ -516,9 +525,6 @@
     <lastmod>2020-04-16T14:06:29+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/barth/</loc>
-    <lastmod>2020-04-03T13:38:27+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/bonhoeffer/</loc>
     <lastmod>2020-04-03T13:38:27+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/religion/</loc>
