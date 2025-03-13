@@ -4,6 +4,8 @@ languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
 disqusShortname: joshuapsteele
+enableRobotsTXT: true
+enableGitInfo: true
 taxonomies:
   category: categories
   tag: tags
@@ -14,7 +16,7 @@ params:
   mainSections:
   - blog
   disableThemeToggle: false
-  showShareButtons: false
+  showShareButtons: true
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
@@ -23,7 +25,7 @@ params:
   showFullTextInRSS: true
   showFullTestInJSONFeed: true
   showAllPagesInArchive: true
-  comments: false
+  comments: true
   hideFooter: false
   assets:
     favicon: /favicon.ico
@@ -60,6 +62,8 @@ params:
         url: "/contact/"
       - name: CV 📄
         url: "/cv/"
+      - name: Lists 🗒️
+        url: "/lists/"
       - name: Now ⏳
         url: "/now/"
       - name: Questions 🤨
