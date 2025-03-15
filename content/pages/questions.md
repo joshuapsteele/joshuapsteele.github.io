@@ -13,6 +13,8 @@ Last Updated: 2025-03-15
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
+- Are "/questions" pages like this a thing? Can we make them a thing? If you have a /questions page, please [let me know](/contact)!
+
 - What are the most useful lengths and kinds of rope to have on hand?
 - What are the most useful dimensions/kinds of lumber to have on hand?
 - How do I get rid of woodpeckers that keep pecking my house?
