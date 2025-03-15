@@ -7,19 +7,15 @@ showtoc: false
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 
-Last Updated: 2025-01-13
+Last Updated: 2025-03-15
 
 ## Questions I'm Asking
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
-- How can I check my roof, attic, insulation, etc. for leaks, mold, etc.?
-- How do I fix a light switch that doesn't controll a ceiling light/fan like I want it to?
+- What are the most useful lengths and kinds of rope to have on hand?
+- What are the most useful dimensions/kinds of lumber to have on hand?
 - How do I get rid of woodpeckers that keep pecking my house?
-- What's the best "budget" bidet?
-- When should I replace my 2016 MacBook Pro, and what should I replace it with?
-- What reference works should I expand my personal library with?
-- Why does Toledo's NPR station play so much classical music? Is there a way to get more NPR programming on the station?
 
 On a deeper level: 
 - What was the point of 12 years of theological studies, getting ordained, etc., if I'm now working fulltime as a software engineer?
@@ -29,5 +25,21 @@ On a deeper level:
 ## Questions I've Answered
 
 - [What's the best "budget" smart TV?](/best-budget-smart-tv/)
+- How can I check my roof, attic, insulation, etc. for leaks, mold, etc.?
+    - I purchased [this moisture meter](https://www.amazon.com/dp/B07SZX8QXH?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=ed06380c82447c3233058a9ee9b89012&language=en_US&ref_=as_li_ss_tl) and this [thermal camera](https://www.amazon.com/dp/B0CWS4BVCX?&linkCode=ll1&tag=joshuapsteele-20&linkId=3b2824bcd71bcc987c21a9c7b85ea856&language=en_US&ref_=as_li_ss_tl) to help check for leaks around the house. Very helpful!
+- How do I fix a light switch that doesn't controll a ceiling light/fan like I want it to?
+    - Not really sure what's going on with the light switches in our upstairs bedrooms, but they don't seem to be meaningfully connected to the ceiling fans in the rooms, which is a bummer. I don't feel like fishing new wiring right now, so they're staying as-is (for now).
+- When should I replace my 2016 MacBook Pro, and what should I replace it with?
+    - I'm leaning toward installing Linux on my old MacBook Pro, but I haven't pulled the trigger yet.
+- Why does Toledo's NPR station play so much classical music? Is there a way to get more NPR programming on the station?
+    - Apparently this is due to preference and funding. I've started listening to Michigan Public Radio (91.7 FM) more often, because they have more NPR programming and less classical music.
+- What reference works should I expand my personal library with?
+    - After hunting Facebook Marketplace for awhile, I was able to snag a 1990 Encyclopaedia Britannica set for $50.
+    - Got a full Britannica Great Books of the Western World set for $250.
+    - I've also been collecting practical reference books on tools, home repair, homesteading, prepping, gardening, etc. You know, just in case society collapses and I no longer have access to Google and YouTube!
+- What's the best "budget" bidet?
+    - If/when my wife ever lets us get a bidet (she's worried about our toddler getting into things and causing a huge mess), I'll probably just go with [Wirecutter's Budget Pick](https://www.nytimes.com/wirecutter/reviews/best-bidet-toilet-seat-washlet/).
 
-*TBD! Will link to answers in the future.*
+---
+
+What questions *should* I be asking? [Let me know](/contact)!
