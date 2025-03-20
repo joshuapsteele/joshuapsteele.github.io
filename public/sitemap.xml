@@ -3,7 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-03-10T15:21:44-04:00</lastmod>
+    <lastmod>2025-03-20T15:16:39-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2025-03-20T15:16:39-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/bonhoeffer/</loc>
     <lastmod>2025-03-10T15:21:44-04:00</lastmod>
@@ -13,9 +16,6 @@
   </url><url>
     <loc>https://joshuapsteele.com/tags/ethics/</loc>
     <lastmod>2025-03-10T15:21:44-04:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-03-15T08:40:19-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/</loc>
     <lastmod>2025-03-10T15:21:44-04:00</lastmod>
@@ -35,10 +35,10 @@
     <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
     <lastmod>2025-03-08T08:16:50-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/politics/</loc>
+    <loc>https://joshuapsteele.com/categories/politics/</loc>
     <lastmod>2025-02-19T12:02:32-05:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/categories/politics/</loc>
+    <loc>https://joshuapsteele.com/tags/politics/</loc>
     <lastmod>2025-02-19T12:02:32-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/this-shouldnt-be-controversial/</loc>
@@ -371,10 +371,10 @@
     <loc>https://joshuapsteele.com/tags/churches/</loc>
     <lastmod>2024-09-30T16:45:32-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/ministry/</loc>
+    <loc>https://joshuapsteele.com/categories/ministry/</loc>
     <lastmod>2024-09-30T16:45:32-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/categories/ministry/</loc>
+    <loc>https://joshuapsteele.com/tags/ministry/</loc>
     <lastmod>2024-09-30T16:45:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/safety/</loc>
@@ -1200,13 +1200,13 @@
     <lastmod>2024-11-11T11:31:54-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/pages/</loc>
-    <lastmod>2025-03-15T08:40:19-04:00</lastmod>
+    <lastmod>2025-03-15T08:47:13-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/philosophy-of-ministry/</loc>
     <lastmod>2024-11-11T11:31:54-05:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/questions/</loc>
-    <lastmod>2025-03-15T08:34:06-04:00</lastmod>
+    <lastmod>2025-03-15T08:47:13-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/resources/</loc>
     <lastmod>2024-11-11T11:31:54-05:00</lastmod>

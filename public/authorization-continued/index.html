@@ -238,7 +238,7 @@ The first thing I did was gather and clarify my org&rsquo;s current authorizatio
                 <li>
                     <a href="#-what-openfga-can-handle" aria-label="✅ What OpenFGA Can Handle">✅ What OpenFGA Can Handle</a></li>
                 <li>
-                    <a href="#-what-openfga-_cannot_-handle" aria-label="❌ What OpenFGA Cannot Handle">❌ What OpenFGA Cannot Handle</a></li>
+                    <a href="#-what-openfga-cannot-handle" aria-label="❌ What OpenFGA Cannot Handle">❌ What OpenFGA Cannot Handle</a></li>
                 <li>
                     <a href="#update-openfga-does-handle-recursive-relationships" aria-label="UPDATE: OpenFGA Does Handle Recursive Relationships!">UPDATE: OpenFGA Does Handle Recursive Relationships!</a></li></ul>
                 </li>
@@ -262,8 +262,7 @@ The first thing I did was gather and clarify my org&rsquo;s current authorizatio
 <p>However, it seems like a significant limitation to OpenFGA is that it does not evaluate indirect relationships recursively beyond one level of separation/indirection.</p>
 <p>According to OpenFGA’s documentation on <a href="https://openfga.dev/docs/configuration-language#referencing-relations-on-related-objects">&ldquo;Referencing Relations on Related Objects&rdquo;</a>:</p>
 <blockquote>
-<p>OpenFGA does not allow the referenced relation (the word after <code>from</code>, also called the tupleset) to reference another relation and does not allow non-concrete types (type bound public access (<code>&lt;object_type&gt;:*</code>) or usersets (<code>&lt;object_type&gt;#&lt;relation&gt;</code>)) in its type restrictions; adding them throws a validation error when calling <code>WriteAuthorizationModel</code>.</p>
-</blockquote>
+<p>OpenFGA does not allow the referenced relation (the word after <code>from</code>, also called the tupleset) to reference another relation and does not allow non-concrete types (type bound public access (<code>&lt;object_type&gt;:*</code>) or usersets (<code>&lt;object_type&gt;#&lt;relation&gt;</code>)) in its type restrictions; adding them throws a validation error when calling <code>WriteAuthorizationModel</code>.</p></blockquote>
 <h3 id="example-management-chain-authorization">Example: Management Chain Authorization<a hidden class="anchor" aria-hidden="true" href="#example-management-chain-authorization">#</a></h3>
 <p>Consider a scenario where permissions should propagate up a management chain:</p>
 <ol>
@@ -277,18 +276,15 @@ The first thing I did was gather and clarify my org&rsquo;s current authorizatio
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>allow manager from owner
 </span></span></code></pre></div><p>Then <strong>User C</strong> can inherit access to <strong>Object A</strong> because:</p>
 <blockquote>
-<p>&ldquo;User C manages User B, who owns Object A.&rdquo;</p>
-</blockquote>
-<h3 id="-what-openfga-_cannot_-handle">❌ What OpenFGA <em>Cannot</em> Handle<a hidden class="anchor" aria-hidden="true" href="#-what-openfga-_cannot_-handle">#</a></h3>
+<p>&ldquo;User C manages User B, who owns Object A.&rdquo;</p></blockquote>
+<h3 id="-what-openfga-cannot-handle">❌ What OpenFGA <em>Cannot</em> Handle<a hidden class="anchor" aria-hidden="true" href="#-what-openfga-cannot-handle">#</a></h3>
 <p>However, OpenFGA <strong>does not</strong> support evaluating this deeper chain:</p>
 <blockquote>
-<p>&ldquo;User D should be able to view Object A, because User D manages User C, who manages User B, who owns Object A.&rdquo;</p>
-</blockquote>
+<p>&ldquo;User D should be able to view Object A, because User D manages User C, who manages User B, who owns Object A.&rdquo;</p></blockquote>
 <p>This is because OpenFGA <strong>does not allow chaining references beyond one level</strong>.</p>
 <p>Another warning of this limitation is found in <a href="https://openfga.dev/docs/modeling/parent-child#05-check-if-bob-is-an-editor-of-documentmeeting_notesdoc">OpenFGA’s documentation on modeling parent-child relationships</a>:</p>
 <blockquote>
-<p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p>
-</blockquote>
+<p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p></blockquote>
 <h3 id="update-openfga-does-handle-recursive-relationships">UPDATE: OpenFGA Does Handle Recursive Relationships!<a hidden class="anchor" aria-hidden="true" href="#update-openfga-does-handle-recursive-relationships">#</a></h3>
 <p>Shout-out to <a href="https://social.rhamzeh.com/@raghd">Raghd Hamzeh</a>, who&rsquo;s a part of the <a href="https://mastodon.social/@openfga">OpenFGA</a> team, for helping me out with a solution to the management chain problem/example.</p>
 <p><a href="https://social.lol/@raghd@rhamzeh.com/114123110921262312">Raghd writes</a>:</p>
@@ -296,8 +292,7 @@ The first thing I did was gather and clarify my org&rsquo;s current authorizatio
 <p>Hey @steele!<br>
 Good news! It does! :) Evaluating indirect relationships is one of @openfga &rsquo;s strong suites!<br>
 Let me know what issue you&rsquo;re facing or need clarification on and I can see if I can help<br>
-You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p>
-</blockquote>
+You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p></blockquote>
 <p>Here&rsquo;s the workaround/solution: splitting a <code>manager</code> relation into a <code>manager</code> and a <code>can_manage</code> relation!</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>model
 </span></span><span style="display:flex;"><span>  schema 1.1

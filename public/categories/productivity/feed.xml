@@ -4,7 +4,7 @@
     <title>Productivity on Joshua P. Steele</title>
     <link>https://joshuapsteele.com/categories/productivity/</link>
     <description>Recent content in Productivity on Joshua P. Steele</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 14 Jan 2025 17:33:38 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/categories/productivity/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
 <p>Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.</p>
 <p>Here&rsquo;s what I&rsquo;ve written at the start of my current notebook.</p>
 <hr>
-<h2 id="questions-to-improve-resultshttpsjoshkaufmannet49-questions-better-results"><a href="https://joshkaufman.net/49-questions-better-results/">Questions to Improve Results</a></h2>
+<h2 id="questions-to-improve-results"><a href="https://joshkaufman.net/49-questions-better-results/">Questions to Improve Results</a></h2>
 <h3 id="do-i-use-my-body-optimally">Do I use my body optimally?</h3>
 <ul>
 <li>What is the quality of my current diet?</li>
@@ -99,21 +99,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left"></th>
-          <th style="text-align: left"><strong>Low Effort</strong></th>
-          <th style="text-align: left"><strong>High Effort</strong></th>
+          <th></th>
+          <th><strong>Low Effort</strong></th>
+          <th><strong>High Effort</strong></th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>High Impact</strong></td>
-          <td style="text-align: left">Quick Wins</td>
-          <td style="text-align: left">Major Projects</td>
+          <td><strong>High Impact</strong></td>
+          <td>Quick Wins</td>
+          <td>Major Projects</td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>Low Impact</strong></td>
-          <td style="text-align: left">Low-Hanging Fruit</td>
-          <td style="text-align: left">Not worth doing!</td>
+          <td><strong>Low Impact</strong></td>
+          <td>Low-Hanging Fruit</td>
+          <td>Not worth doing!</td>
       </tr>
   </tbody>
 </table>
@@ -211,21 +211,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left"></th>
-          <th style="text-align: left"><strong>Urgent</strong></th>
-          <th style="text-align: left"><strong>Not Urgent</strong></th>
+          <th></th>
+          <th><strong>Urgent</strong></th>
+          <th><strong>Not Urgent</strong></th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>Important</strong></td>
-          <td style="text-align: left">Do</td>
-          <td style="text-align: left">Schedule</td>
+          <td><strong>Important</strong></td>
+          <td>Do</td>
+          <td>Schedule</td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>Not Important</strong></td>
-          <td style="text-align: left">Delegate</td>
-          <td style="text-align: left">Delete</td>
+          <td><strong>Not Important</strong></td>
+          <td>Delegate</td>
+          <td>Delete</td>
       </tr>
   </tbody>
 </table>

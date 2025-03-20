@@ -4,7 +4,7 @@
     <title>Software Engineering on Joshua P. Steele</title>
     <link>https://joshuapsteele.com/categories/software-engineering/</link>
     <description>Recent content in Software Engineering on Joshua P. Steele</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 08 Mar 2025 08:16:50 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/categories/software-engineering/feed.xml" rel="self" type="application/rss+xml" />
@@ -28,8 +28,7 @@
 <p>However, it seems like a significant limitation to OpenFGA is that it does not evaluate indirect relationships recursively beyond one level of separation/indirection.</p>
 <p>According to OpenFGA’s documentation on <a href="https://openfga.dev/docs/configuration-language#referencing-relations-on-related-objects">&ldquo;Referencing Relations on Related Objects&rdquo;</a>:</p>
 <blockquote>
-<p>OpenFGA does not allow the referenced relation (the word after <code>from</code>, also called the tupleset) to reference another relation and does not allow non-concrete types (type bound public access (<code>&lt;object_type&gt;:*</code>) or usersets (<code>&lt;object_type&gt;#&lt;relation&gt;</code>)) in its type restrictions; adding them throws a validation error when calling <code>WriteAuthorizationModel</code>.</p>
-</blockquote>
+<p>OpenFGA does not allow the referenced relation (the word after <code>from</code>, also called the tupleset) to reference another relation and does not allow non-concrete types (type bound public access (<code>&lt;object_type&gt;:*</code>) or usersets (<code>&lt;object_type&gt;#&lt;relation&gt;</code>)) in its type restrictions; adding them throws a validation error when calling <code>WriteAuthorizationModel</code>.</p></blockquote>
 <h3 id="example-management-chain-authorization">Example: Management Chain Authorization</h3>
 <p>Consider a scenario where permissions should propagate up a management chain:</p>
 <ol>
@@ -43,18 +42,15 @@
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>allow manager from owner
 </span></span></code></pre></div><p>Then <strong>User C</strong> can inherit access to <strong>Object A</strong> because:</p>
 <blockquote>
-<p>&ldquo;User C manages User B, who owns Object A.&rdquo;</p>
-</blockquote>
-<h3 id="-what-openfga-_cannot_-handle">❌ What OpenFGA <em>Cannot</em> Handle</h3>
+<p>&ldquo;User C manages User B, who owns Object A.&rdquo;</p></blockquote>
+<h3 id="-what-openfga-cannot-handle">❌ What OpenFGA <em>Cannot</em> Handle</h3>
 <p>However, OpenFGA <strong>does not</strong> support evaluating this deeper chain:</p>
 <blockquote>
-<p>&ldquo;User D should be able to view Object A, because User D manages User C, who manages User B, who owns Object A.&rdquo;</p>
-</blockquote>
+<p>&ldquo;User D should be able to view Object A, because User D manages User C, who manages User B, who owns Object A.&rdquo;</p></blockquote>
 <p>This is because OpenFGA <strong>does not allow chaining references beyond one level</strong>.</p>
 <p>Another warning of this limitation is found in <a href="https://openfga.dev/docs/modeling/parent-child#05-check-if-bob-is-an-editor-of-documentmeeting_notesdoc">OpenFGA’s documentation on modeling parent-child relationships</a>:</p>
 <blockquote>
-<p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p>
-</blockquote>
+<p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p></blockquote>
 <h3 id="update-openfga-does-handle-recursive-relationships">UPDATE: OpenFGA Does Handle Recursive Relationships!</h3>
 <p>Shout-out to <a href="https://social.rhamzeh.com/@raghd">Raghd Hamzeh</a>, who&rsquo;s a part of the <a href="https://mastodon.social/@openfga">OpenFGA</a> team, for helping me out with a solution to the management chain problem/example.</p>
 <p><a href="https://social.lol/@raghd@rhamzeh.com/114123110921262312">Raghd writes</a>:</p>
@@ -62,8 +58,7 @@
 <p>Hey @steele!<br>
 Good news! It does! :) Evaluating indirect relationships is one of @openfga &rsquo;s strong suites!<br>
 Let me know what issue you&rsquo;re facing or need clarification on and I can see if I can help<br>
-You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p>
-</blockquote>
+You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p></blockquote>
 <p>Here&rsquo;s the workaround/solution: splitting a <code>manager</code> relation into a <code>manager</code> and a <code>can_manage</code> relation!</p>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>model
 </span></span><span style="display:flex;"><span>  schema 1.1
@@ -147,10 +142,10 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>As these books illustrate, the field of software engineering is not limited to writing flawless code. It’s also about understanding your role within a team, a company, and the wider tech industry. With these two resources in your arsenal, you’ll be well-equipped to make a meaningful and lasting impact in your software engineering career.</p>
 <h2 id="recommended-follow-up-reading">Recommended Follow-Up Reading</h2>
 <p>Enjoyed the insights and professional strategies in <a href="https://amzn.to/3JK2gbg"><em>The Effective Engineer</em></a> and <em><a href="https://amzn.to/44qx0pO">The Missing README</a></em>? Then you’ll appreciate these two additional resources. Considered foundational texts within the software development community, they will further your understanding of software engineering, bridging the gap between technical skills and the mindset required for mastery.</p>
-<h3 id="the-pragmatic-programmer-your-journey-to-masteryhttpsamznto3pp1uuy-by-david-thomas-and-andrew-hunt"><a href="https://amzn.to/3PP1UUy"><em>The Pragmatic Programmer: Your Journey to Mastery</em></a> by David Thomas and Andrew Hunt</h3>
+<h3 id="the-pragmatic-programmer-your-journey-to-mastery-by-david-thomas-and-andrew-hunt"><a href="https://amzn.to/3PP1UUy"><em>The Pragmatic Programmer: Your Journey to Mastery</em></a> by David Thomas and Andrew Hunt</h3>
 <p>This classic text is often touted as a must-read for software developers. And for good reason! David Thomas and Andrew Hunt weave their decades of programming and consulting experience into a guide that is both practical and philosophical.</p>
 <p>The book is designed to instill the mindset of a ‘pragmatic’ programmer, one who combines technical skills with a problem-solving approach that’s adaptable, critical, and creative. Through its exploration of coding principles, software design strategies, and real-world examples, it teaches how to develop robust, high-quality software that is maintainable over the long term.</p>
-<h3 id="the-clean-coder-a-code-of-conduct-for-professional-programmershttpsamznto43etl8g-by-robert-c-martin"><a href="https://amzn.to/43eTl8G"><em>The Clean Coder: A Code of Conduct for Professional Programmers</em></a> by Robert C. Martin</h3>
+<h3 id="the-clean-coder-a-code-of-conduct-for-professional-programmers-by-robert-c-martin"><a href="https://amzn.to/43eTl8G"><em>The Clean Coder: A Code of Conduct for Professional Programmers</em></a> by Robert C. Martin</h3>
 <p>Authored by the renowned Robert C. Martin, often known as “Uncle Bob,” this book is less about the code and more about the coder. Martin presents a professional code of conduct for programmers, covering topics from work ethic and time management to collaboration and communication.</p>
 <p>“The Clean Coder” delivers an in-depth analysis of the various challenges programmers face daily, beyond writing code. It’s a guide to becoming a professional who’s not only technically proficient but also responsible, collaborative, and effective in their broader role.</p>
 <p>To summarise, both <a href="https://amzn.to/3PP1UUy"><em>The Pragmatic Programmer</em></a> and <a href="https://amzn.to/43eTl8G"><em>The Clean Coder</em></a> are excellent companions to <a href="https://amzn.to/3JK2gbg"><em>The Effective Engineer</em></a> and <em><a href="https://amzn.to/44qx0pO">The Missing README</a></em>. They’ll help you build on the foundational knowledge and strategies you’ve learned, transforming you from a proficient coder into a truly impactful and professional software engineer.</p>
@@ -417,7 +412,7 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <li>add some low-quality tests to get the coverage that I need and move my PR forward</li>
 </ul>
 <p>This is bad! Don’t be like me! Don’t sacrifice test quality for test quantity.</p>
-<h2 id="how-can-deljoshdel-we-test-better">How Can <del>Josh</del> We Test Better?</h2>
+<h2 id="how-can-josh-we-test-better">How Can <del>Josh</del> We Test Better?</h2>
 <p>What should we keep in mind when we prepare to write code, when tests break, when our code coverage tool gets mad, etc.?</p>
 <hr>
 <p><img loading="lazy" src="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&amp;ixlib=rb-1.2.1&amp;q=80&amp;w=1080" alt=""  />
@@ -428,7 +423,7 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>Simply put, <strong>software testing is the process of making sure that your software does what you want it to do</strong>.</p>
 <p>As we’ll see below, the “process” can be quite complicated and multifaceted. But, before we get there, note that <strong>the prerequisite of software testing is knowing (at least partially) what you want your software to do!</strong></p>
 <p>This is a crucial point to remember, which brings us to our next principle.</p>
-<h3 id="the-absence-of-errors-fallacyhttpswwwoodlestechnologiescomblogsunderstanding-absence-of-error-fallacy-in-software-testing-passing-tests-dont-guarantee-good-software">The <a href="https://www.oodlestechnologies.com/blogs/understanding-absence-of-error-fallacy-in-software-testing/">Absence of Errors Fallacy</a>: Passing Tests Don’t Guarantee Good Software</h3>
+<h3 id="the-absence-of-errors-fallacy-passing-tests-dont-guarantee-good-software">The <a href="https://www.oodlestechnologies.com/blogs/understanding-absence-of-error-fallacy-in-software-testing/">Absence of Errors Fallacy</a>: Passing Tests Don’t Guarantee Good Software</h3>
 <p>The absence of “errors” doesn’t mean that our software is useful, that it does the right things for our users!</p>
 <p>Mauricio Aniche shares the following two quotes/sayings:</p>
 <ul>
@@ -442,23 +437,19 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <ul>
 <li>
 <blockquote>
-<p>Protection against regressions</p>
-</blockquote>
+<p>Protection against regressions</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Resistance to refactoring</p>
-</blockquote>
+<p>Resistance to refactoring</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Fast feedback</p>
-</blockquote>
+<p>Fast feedback</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Maintainability</p>
-</blockquote>
+<p>Maintainability</p></blockquote>
 </li>
 </ul>
 <p>Here’s how I would re-phrase that. A good automated software test:</p>
@@ -489,12 +480,10 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>Black-box testing yields better resistance to refactoring. White-box testing might often uncover more bugs than black-box testing, but it often produces brittle tests that are too tightly coupled to implementation details.</p>
 <p>Nevertheless, as Khorikov reminds us,</p>
 <blockquote>
-<p>“even though black-box testing is preferable when <em>writing tests</em>, you can still use the white-box method when <em>analyzing</em> the tests. <em>Use code coverage tools to see which code branches are not exercised, but then turn around and test them as if you know nothing about the code’s internal structure.</em> Such a combination of the white-box and black-box methods works best” (Khorikov 2020).</p>
-</blockquote>
+<p>“even though black-box testing is preferable when <em>writing tests</em>, you can still use the white-box method when <em>analyzing</em> the tests. <em>Use code coverage tools to see which code branches are not exercised, but then turn around and test them as if you know nothing about the code’s internal structure.</em> Such a combination of the white-box and black-box methods works best” (Khorikov 2020).</p></blockquote>
 <p>Why is resistance to refactoring worth prioritizing? Because, as Khorikov notes, unlike protection against regressions and fast feedback, which tend to exist on a spectrum, resistance to refactoring is more of an “all or nothing” aspect of a test.</p>
 <blockquote>
-<p>“The reason resistance to refactoring is non-negotiable is that whether a test possesses this attribute is mostly a binary choice: the test either has resistance to refactoring or it doesn’t. There are almost no intermediate stages in between. Thus you can’t concede just a little resistance to refactoring: you’ll have to lose it all. On the other hand, the metrics of protection against regressions and fast feedback are more malleable” (Khorikov 2020).</p>
-</blockquote>
+<p>“The reason resistance to refactoring is non-negotiable is that whether a test possesses this attribute is mostly a binary choice: the test either has resistance to refactoring or it doesn’t. There are almost no intermediate stages in between. Thus you can’t concede just a little resistance to refactoring: you’ll have to lose it all. On the other hand, the metrics of protection against regressions and fast feedback are more malleable” (Khorikov 2020).</p></blockquote>
 <p>A test is either brittle or it isn’t. And, while the cost of brittle tests is relatively low at the beginning of a project (as long as those tests are catching bugs and running relatively quickly), over time, as a project grows in size and complexity, the costs of brittle tests and their false positives drastically increases.</p>
 <p>The main tradeoff we’re left with, then, is between “protection against regressions” and “fast feedback.” And this tradeoff plays itself out in the differences between the main kinds of software tests.</p>
 <h3 id="kinds-of-tests">Kinds of Tests</h3>
@@ -510,31 +499,26 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <h4 id="unit-tests">Unit Tests</h4>
 <p>Khorikov notes the disagreement on the precise definition of a unit test, but he helpfully isolates the following <strong>three attributes of a unit test</strong> that many definitions share:</p>
 <blockquote>
-<p>“A unit test is an automated test that</p>
-</blockquote>
+<p>“A unit test is an automated test that</p></blockquote>
 <ol>
 <li>
 <blockquote>
-<p>Verifies a small piece of code (also known as a <em>unit</em>),</p>
-</blockquote>
+<p>Verifies a small piece of code (also known as a <em>unit</em>),</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Does it quickly,</p>
-</blockquote>
+<p>Does it quickly,</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>And does it in an isolated manner.”</p>
-</blockquote>
+<p>And does it in an isolated manner.”</p></blockquote>
 </li>
 </ol>
 <p>Now, no one really disagrees that unit tests should run <strong>fast</strong> (#2). However, just what counts as a <strong>“unit”</strong> is a matter of some debate. Some people think that a “unit” is a single class or even a single method.</p>
 <p>However, as we’ll see below, there are advantages to broadening the definition of “unit” a little bit to mean <strong>“unit of work” or “unit of behavior.”</strong> Doing so helps us to write tests that are loosely coupled to the production code, tightly coupled to business/domain requirements, and therefore resistant to refactoring.</p>
 <p>I agree with Khorikov when he advises that</p>
 <blockquote>
-<p>“Tests shouldn’t verify <em>units of code</em>. Rather, they should verify <em>units of behavior</em>: something that is meaningful for the problem domain and, ideally, something that a business person can recognize as useful. The number of classes it takes to implement such a unit of behavior is irrelevant. The unit could span across multiple classes or only one class, or even take up just a tiny method.”</p>
-</blockquote>
+<p>“Tests shouldn’t verify <em>units of code</em>. Rather, they should verify <em>units of behavior</em>: something that is meaningful for the problem domain and, ideally, something that a business person can recognize as useful. The number of classes it takes to implement such a unit of behavior is irrelevant. The unit could span across multiple classes or only one class, or even take up just a tiny method.”</p></blockquote>
 <p>Before moving on, we should also note that people disagree on what it means for a unit test to be <strong>“isolated.”</strong></p>
 <p>What’s known as the <a href="https://medium.com/@adrianbooth/test-driven-development-wars-detroit-vs-london-classicist-vs-mockist-9956c78ae95f"><strong>“London School”</strong></a> holds that:</p>
 <ul>
@@ -584,13 +568,11 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <ul>
 <li>
 <blockquote>
-<p>You can’t guarantee that the test verifies all the possible outcomes of the system under test.</p>
-</blockquote>
+<p>You can’t guarantee that the test verifies all the possible outcomes of the system under test.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>No coverage metric can take into account code paths in external libraries.</p>
-</blockquote>
+<p>No coverage metric can take into account code paths in external libraries.</p></blockquote>
 </li>
 </ul>
 <p>Regarding the former problem, the combination of implicit and explicit outcomes of the system under test makes it extremely difficult, if not impossible, to test for them all. And, regarding the latter, code coverage metrics do not take the use of external libraries into consideration.</p>
@@ -601,8 +583,7 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>Before we move on from code coverage completely, however, I want to mention what’s known as “modified condition / decision coverage” or “MC/DC” as a way to maximize the value of code coverage while minimizing the number of test cases required.</p>
 <p>As Aniche (2022) summarizes it, MC/DC</p>
 <blockquote>
-<p>“looks at combinations of conditions, as path coverage does. However, instead of testing <em>all</em> possible combinations, we identify the <em>important</em> combinations that need to be tested. MC/DC exercises each of these conditions so that it can, independently of the other conditions, affect the outcome of the entire decision. Every possible condition of each parameter must influence the outcome at least once.”</p>
-</blockquote>
+<p>“looks at combinations of conditions, as path coverage does. However, instead of testing <em>all</em> possible combinations, we identify the <em>important</em> combinations that need to be tested. MC/DC exercises each of these conditions so that it can, independently of the other conditions, affect the outcome of the entire decision. Every possible condition of each parameter must influence the outcome at least once.”</p></blockquote>
 <p>To achieve MC/DC, you list all possible test cases (those required if you were going for path coverage), before searching for “independence pairs” of test cases where (1) a single condition change (2) independently changes the outcome of the code in question. After finding these independence pairs for all of the conditions, you can reduce the list of test cases down to at least one independence pair for each condition under test.</p>
 <p>If we’re just considering binary true/false conditions, then MC/DC requires N + 1 test cases vs path coverage’s 2<sup>N</sup> test cases (Aniche 2022, citing <a href="https://www.google.com/books/edition/An_Investigation_of_Three_Forms_of_the_M/8ibStgAACAAJ?hl=en">Chilenski 2001</a>).</p>
 <p>While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.</p>
@@ -616,8 +597,7 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>This is the main design principle that Aniche emphasizes in his chapter on “Designing for testability” in <em>Effective Software Testing</em> (2022):</p>
 <blockquote>
 <p>The <em>domain</em> is where the core of the system lies: that is, where all the business rules, logic, entities, services, and similar elements reside. … <em>Infrastructure</em> relates to all code that handles an external dependency: for example, pieces of code that handle database queries (in this case, the database is an external dependency) or web service calls or file reads and writes. In our previous examples, all of our data access objects (DAOs) are part of the <em>infrastructure</em> code.</p>
-<p>In practice, when domain code and infrastructure code are mixed, the system becomes harder to test. You should separate them as much as possible so the infrastructure does not get in the way of testing.”</p>
-</blockquote>
+<p>In practice, when domain code and infrastructure code are mixed, the system becomes harder to test. You should separate them as much as possible so the infrastructure does not get in the way of testing.”</p></blockquote>
 <p>Keeping domain code (AKA “business logic”) separate from infrastructure code (AKA “application services layer”) is a key emphasis of the “Hexagonal Architecture” or “Ports and Adapters” pattern.</p>
 <p>The business logic at the “center” of your application should only interact with external dependencies by interacting with ports (application services), that interact with adapters, that are themselves coupled to the external dependencies.</p>
 <p><img loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png" alt="EffectiveSoftwareTesting07-01.png"  />
@@ -636,23 +616,19 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>However, although a <em>well-designed API</em> has a public API that coincides with its observable behavior and a private API that coincides with its implementation details, it’s very easy and common for an application to <strong>“leak” its implementation details into its public API</strong> by making those implementation details inappropriately observable.</p>
 <p>Khorikov highlights the differences here as follows:</p>
 <blockquote>
-<p>“For a piece of code to be part of the system’s observable behavior, it has to do one of the following things:</p>
-</blockquote>
+<p>“For a piece of code to be part of the system’s observable behavior, it has to do one of the following things:</p></blockquote>
 <ul>
 <li>
 <blockquote>
-<p>Expose an operation that helps the client achieve one of its goals. An <em>operation</em> is a method that performs a calculation or incurs a side effect or both.</p>
-</blockquote>
+<p>Expose an operation that helps the client achieve one of its goals. An <em>operation</em> is a method that performs a calculation or incurs a side effect or both.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Expose a state that helps the client achieve on of its goals. <em>State</em> is the current condition of the system.</p>
-</blockquote>
+<p>Expose a state that helps the client achieve on of its goals. <em>State</em> is the current condition of the system.</p></blockquote>
 </li>
 </ul>
 <blockquote>
-<p>Any code that does neither of these two things is an implementation detail.”</p>
-</blockquote>
+<p>Any code that does neither of these two things is an implementation detail.”</p></blockquote>
 <p>Whenever an application “leaks” its implementation details into its public API, it makes it easy for developers to write brittle tests. As Khorikov observes, “by making all implementation details private, you leave your tests no choice other than to verify the code’s observable behavior, which automatically improves their resistance to refactoring.”</p>
 <h3 id="four-types-of-code-complexitysignificance-vs-number-of-dependencies">Four Types of Code: Complexity/Significance vs Number of Dependencies</h3>
 <p>In addition to the distinction between observable behavior and implementation details, there’s an important framework to keep in mind when determining how to test each part of our software system.</p>
@@ -663,23 +639,19 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <ul>
 <li>
 <blockquote>
-<p><em>Domain model and algorithms (top left)</em>—Complex code is often part of the domain model but not in 100% of all cases. You might have a complex algorithm that’s not directly related to the problem domain.</p>
-</blockquote>
+<p><em>Domain model and algorithms (top left)</em>—Complex code is often part of the domain model but not in 100% of all cases. You might have a complex algorithm that’s not directly related to the problem domain.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p><em>Trivial code (bottom left)</em>—Examples of such code in C# are parameter-less constructors and one-line properties: they have few (if any) collaborators and exhibit little complexity or domain significance.</p>
-</blockquote>
+<p><em>Trivial code (bottom left)</em>—Examples of such code in C# are parameter-less constructors and one-line properties: they have few (if any) collaborators and exhibit little complexity or domain significance.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p><em>Controllers (bottom right)</em>—This code doesn’t do complex or business-critical work by itself but coordinates the work of other components like domain classes and external applications.</p>
-</blockquote>
+<p><em>Controllers (bottom right)</em>—This code doesn’t do complex or business-critical work by itself but coordinates the work of other components like domain classes and external applications.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p><em>Overcomplicated code (top right)</em>—Such code scores highly on both metrics: it has a lot of collaborators, and it’s also complex or important. An example here are <em>fat controllers</em> (controllers that don’t delegate complex work anywhere and do everything themselves).</p>
-</blockquote>
+<p><em>Overcomplicated code (top right)</em>—Such code scores highly on both metrics: it has a lot of collaborators, and it’s also complex or important. An example here are <em>fat controllers</em> (controllers that don’t delegate complex work anywhere and do everything themselves).</p></blockquote>
 </li>
 </ul>
 <p>Although trivial code is difficult, if not impossible, to avoid, well-designed software systems avoid “overcomplicated code” by making sure that code is either complex/significant OR it works with a number of dependencies, but not both at the same time.</p>
@@ -709,13 +681,11 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <ul>
 <li>
 <blockquote>
-<p>Mocks help to emulate and examine <em>outcoming</em> interactions. These interactions are calls the SUT [System Under Test] makes to its dependencies to change their state.</p>
-</blockquote>
+<p>Mocks help to emulate and examine <em>outcoming</em> interactions. These interactions are calls the SUT [System Under Test] makes to its dependencies to change their state.</p></blockquote>
 </li>
 <li>
 <blockquote>
-<p>Stubs help to emulate <em>incoming</em> interactions. These interactions are calls the SUT makes to its dependencies to get input data</p>
-</blockquote>
+<p>Stubs help to emulate <em>incoming</em> interactions. These interactions are calls the SUT makes to its dependencies to get input data</p></blockquote>
 </li>
 </ul>
 <p>Notice two important things. First, mocks both <em>emulate</em> and <em>examine</em>, while stubs only <em>emulate</em>. Second, mocks mimic interactions that result in <em>side effects</em> or changed state, while stubs mimc interactions that <em>retrieve information</em>. This touches on another important principle: command query separation.</p>

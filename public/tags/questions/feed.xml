@@ -4,7 +4,7 @@
     <title>Questions on Joshua P. Steele</title>
     <link>https://joshuapsteele.com/tags/questions/</link>
     <description>Recent content in Questions on Joshua P. Steele</description>
-    <generator>Hugo -- 0.135.0</generator>
+    <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 14 Jan 2025 17:33:38 -0500</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/tags/questions/feed.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
 <p>Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.</p>
 <p>Here&rsquo;s what I&rsquo;ve written at the start of my current notebook.</p>
 <hr>
-<h2 id="questions-to-improve-resultshttpsjoshkaufmannet49-questions-better-results"><a href="https://joshkaufman.net/49-questions-better-results/">Questions to Improve Results</a></h2>
+<h2 id="questions-to-improve-results"><a href="https://joshkaufman.net/49-questions-better-results/">Questions to Improve Results</a></h2>
 <h3 id="do-i-use-my-body-optimally">Do I use my body optimally?</h3>
 <ul>
 <li>What is the quality of my current diet?</li>
@@ -99,21 +99,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left"></th>
-          <th style="text-align: left"><strong>Low Effort</strong></th>
-          <th style="text-align: left"><strong>High Effort</strong></th>
+          <th></th>
+          <th><strong>Low Effort</strong></th>
+          <th><strong>High Effort</strong></th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>High Impact</strong></td>
-          <td style="text-align: left">Quick Wins</td>
-          <td style="text-align: left">Major Projects</td>
+          <td><strong>High Impact</strong></td>
+          <td>Quick Wins</td>
+          <td>Major Projects</td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>Low Impact</strong></td>
-          <td style="text-align: left">Low-Hanging Fruit</td>
-          <td style="text-align: left">Not worth doing!</td>
+          <td><strong>Low Impact</strong></td>
+          <td>Low-Hanging Fruit</td>
+          <td>Not worth doing!</td>
       </tr>
   </tbody>
 </table>
@@ -211,21 +211,21 @@
 <table>
   <thead>
       <tr>
-          <th style="text-align: left"></th>
-          <th style="text-align: left"><strong>Urgent</strong></th>
-          <th style="text-align: left"><strong>Not Urgent</strong></th>
+          <th></th>
+          <th><strong>Urgent</strong></th>
+          <th><strong>Not Urgent</strong></th>
       </tr>
   </thead>
   <tbody>
       <tr>
-          <td style="text-align: left"><strong>Important</strong></td>
-          <td style="text-align: left">Do</td>
-          <td style="text-align: left">Schedule</td>
+          <td><strong>Important</strong></td>
+          <td>Do</td>
+          <td>Schedule</td>
       </tr>
       <tr>
-          <td style="text-align: left"><strong>Not Important</strong></td>
-          <td style="text-align: left">Delegate</td>
-          <td style="text-align: left">Delete</td>
+          <td><strong>Not Important</strong></td>
+          <td>Delegate</td>
+          <td>Delete</td>
       </tr>
   </tbody>
 </table>
@@ -329,7 +329,7 @@
 &lt;li&gt;What have I done well recently?&lt;/li&gt;
 &lt;li&gt;Source: &lt;a href=&#34;https://amzn.to/3FYbLCC&#34;&gt;&lt;em&gt;The Productivity Project&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;forty-nine-questions-to-improve-your-resultshttpsjoshkaufmannet49-questions-better-results-by-josh-kaufman&#34;&gt;&lt;a href=&#34;https://joshkaufman.net/49-questions-better-results/&#34;&gt;Forty-Nine Questions to Improve Your Results&lt;/a&gt;, by Josh Kaufman&lt;/h2&gt;
+&lt;h2 id=&#34;forty-nine-questions-to-improve-your-results-by-josh-kaufman&#34;&gt;&lt;a href=&#34;https://joshkaufman.net/49-questions-better-results/&#34;&gt;Forty-Nine Questions to Improve Your Results&lt;/a&gt;, by Josh Kaufman&lt;/h2&gt;
 &lt;h3 id=&#34;do-i-use-my-body-optimally&#34;&gt;Do I use my body optimally?&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;What is the quality of my current diet?&lt;/li&gt;
@@ -393,7 +393,7 @@
 &lt;li&gt;Am I capable of separating necessity and luxury?&lt;/li&gt;
 &lt;li&gt;What do I feel grateful for in my life and work?&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;testing-the-impossible-17-questions-that-changed-my-lifehttpstimblog20161207testing-the-impossible-17-questions-that-changed-my-life-by-tim-ferriss&#34;&gt;&lt;a href=&#34;https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/&#34;&gt;Testing the “Impossible”: 17 Questions That Changed My Life&lt;/a&gt;, by Tim Ferriss&lt;/h2&gt;
+&lt;h2 id=&#34;testing-the-impossible-17-questions-that-changed-my-life-by-tim-ferriss&#34;&gt;&lt;a href=&#34;https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/&#34;&gt;Testing the “Impossible”: 17 Questions That Changed My Life&lt;/a&gt;, by Tim Ferriss&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;What if I did the opposite for 48 hours?&lt;/li&gt;
 &lt;li&gt;What do I spend a silly amount of money on? How might I scratch my own itch?&lt;/li&gt;
@@ -413,7 +413,7 @@
 &lt;li&gt;How can I throw money at this problem? How can I “waste” money to improve the quality of my life?&lt;/li&gt;
 &lt;li&gt;No hurry, no pause.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;useful-questions-for-reframing-derek-sivers-useful-not-truehttpssiversu&#34;&gt;Useful questions for reframing (&lt;a href=&#34;https://sive.rs/u&#34;&gt;Derek Sivers, Useful Not True&lt;/a&gt;)&lt;/h2&gt;
+&lt;h2 id=&#34;useful-questions-for-reframing-derek-sivers-useful-not-true&#34;&gt;Useful questions for reframing (&lt;a href=&#34;https://sive.rs/u&#34;&gt;Derek Sivers, Useful Not True&lt;/a&gt;)&lt;/h2&gt;
 &lt;h3 id=&#34;when-something-goes-wrong&#34;&gt;When something goes wrong&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;What’s great about this?&lt;/li&gt;
@@ -513,7 +513,7 @@
 <li>What have I done well recently?</li>
 <li>Source: <a href="https://amzn.to/3FYbLCC"><em>The Productivity Project</em></a></li>
 </ul>
-<h2 id="forty-nine-questions-to-improve-your-resultshttpsjoshkaufmannet49-questions-better-results-by-josh-kaufman"><a href="https://joshkaufman.net/49-questions-better-results/">Forty-Nine Questions to Improve Your Results</a>, by Josh Kaufman</h2>
+<h2 id="forty-nine-questions-to-improve-your-results-by-josh-kaufman"><a href="https://joshkaufman.net/49-questions-better-results/">Forty-Nine Questions to Improve Your Results</a>, by Josh Kaufman</h2>
 <h3 id="do-i-use-my-body-optimally">Do I use my body optimally?</h3>
 <ul>
 <li>What is the quality of my current diet?</li>
@@ -577,7 +577,7 @@
 <li>Am I capable of separating necessity and luxury?</li>
 <li>What do I feel grateful for in my life and work?</li>
 </ul>
-<h2 id="testing-the-impossible-17-questions-that-changed-my-lifehttpstimblog20161207testing-the-impossible-17-questions-that-changed-my-life-by-tim-ferriss"><a href="https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/">Testing the “Impossible”: 17 Questions That Changed My Life</a>, by Tim Ferriss</h2>
+<h2 id="testing-the-impossible-17-questions-that-changed-my-life-by-tim-ferriss"><a href="https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/">Testing the “Impossible”: 17 Questions That Changed My Life</a>, by Tim Ferriss</h2>
 <ul>
 <li>What if I did the opposite for 48 hours?</li>
 <li>What do I spend a silly amount of money on? How might I scratch my own itch?</li>
@@ -597,7 +597,7 @@
 <li>How can I throw money at this problem? How can I “waste” money to improve the quality of my life?</li>
 <li>No hurry, no pause.</li>
 </ul>
-<h2 id="useful-questions-for-reframing-derek-sivers-useful-not-truehttpssiversu">Useful questions for reframing (<a href="https://sive.rs/u">Derek Sivers, Useful Not True</a>)</h2>
+<h2 id="useful-questions-for-reframing-derek-sivers-useful-not-true">Useful questions for reframing (<a href="https://sive.rs/u">Derek Sivers, Useful Not True</a>)</h2>
 <h3 id="when-something-goes-wrong">When something goes wrong</h3>
 <ul>
 <li>What’s great about this?</li>
@@ -679,8 +679,7 @@ d. What interpretive principles are at work?&lt;/li&gt;
 &lt;li&gt;Practice reading charitably. What is the best possible interpretation of how the piece reflects an attempt to be faithful to Jesus Christ?&lt;/li&gt;
 &lt;li&gt;How do these theological claims relate to the life of faith? Doe you bring other questions from your experience?&lt;/li&gt;
 &lt;li&gt;If this theological proposal were taken seriously, how would it shape Christian practice? Would it affect our participation in spiritual disciplines? Our understanding of faithful living? Our practice of evangelism? Our life as the church?&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
+&lt;/ol&gt;&lt;/blockquote&gt;
 &lt;p&gt;Add this to my &lt;a href=&#34;https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/&#34;&gt;1 simple trick to read faster&lt;/a&gt;, &lt;a href=&#34;https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/&#34;&gt;4 questions to ask while reading a book&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/questions-to-ask-when-you-study-bible/&#34;&gt;3 questions to ask while reading the Bible&lt;/a&gt;.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>While reading Beth Felker Jones’ <a href="https://amzn.to/2vLkeEo"><em>Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically</em></a>, I came across the following list of extremely helpful questions to ask while reading theology (on page 29).</p>
 <blockquote>
@@ -697,8 +696,7 @@ d. What interpretive principles are at work?</li>
 <li>Practice reading charitably. What is the best possible interpretation of how the piece reflects an attempt to be faithful to Jesus Christ?</li>
 <li>How do these theological claims relate to the life of faith? Doe you bring other questions from your experience?</li>
 <li>If this theological proposal were taken seriously, how would it shape Christian practice? Would it affect our participation in spiritual disciplines? Our understanding of faithful living? Our practice of evangelism? Our life as the church?</li>
-</ol>
-</blockquote>
+</ol></blockquote>
 <p>Add this to my <a href="https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/">1 simple trick to read faster</a>, <a href="https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/">4 questions to ask while reading a book</a>, and <a href="https://joshuapsteele.com/questions-to-ask-when-you-study-bible/">3 questions to ask while reading the Bible</a>.</p>
 <hr>
 <p><em>Note: some of the links in this post are <strong>affiliate links</strong>. This means that, if you click on the link and make a purchase, then, at no extra cost to you, I receive a small commission. I only ever recommend resources that I know will benefit my readers! If you’re interested in these resources, buying them through the affiliate links is a way that you can support my work!</em></p>
