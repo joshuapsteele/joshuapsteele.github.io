@@ -15,6 +15,7 @@ Last Updated: 2025-03-15
 
 - Are "/questions" pages like this a thing? Can we make them a thing? If you have a /questions page, please [let me know](/contact)!
 
+- What's a good "budget" version of a [Veto Pro Pac TP-LC tool bag](https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&keywords=veto+pro+pac+tp-lc+toolbag&qid=1671342063&sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=91591755d9deffe180a33ac4195d2fac&language=en_US&ref_=as_li_ss_tl)?
 - What are the most useful lengths and kinds of rope to have on hand?
 - What are the most useful dimensions/kinds of lumber to have on hand?
 - How do I get rid of woodpeckers that keep pecking my house?
