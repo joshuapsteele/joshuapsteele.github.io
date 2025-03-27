@@ -13,11 +13,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/about/</guid>
       <description>&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
-&lt;p&gt;As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;) with three Bible/theology degrees.&lt;/p&gt;
-&lt;p&gt;Currently living in Toledo, OH, I&amp;rsquo;ve got a wife, three young children, and an addiction to buying books and tools.&lt;/p&gt;</description>
+&lt;p&gt;As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;), trying to figure out what, if anything, to do with three degrees in theology.&lt;/p&gt;
+&lt;p&gt;After a long time away (for those theology degrees), I&amp;rsquo;m back in my hometown ofToledo, OH, where I live with my wife and three young children.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
-<p>As a software engineer, I work mainly on backend development in Java for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>) with three Bible/theology degrees.</p>
-<p>Currently living in Toledo, OH, I&rsquo;ve got a wife, three young children, and an addiction to buying books and tools.</p>
+<p>As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>), trying to figure out what, if anything, to do with three degrees in theology.</p>
+<p>After a long time away (for those theology degrees), I&rsquo;m back in my hometown ofToledo, OH, where I live with my wife and three young children.</p>
+<p>In my free time (what&rsquo;s that?), I buy books and tools&hellip;and then try to find even more time to use them. Recently, DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I&rsquo;m trying to become competent in as many different practical skills as possible. (You know, since I studied <em>theology</em> in school! Haha.)</p>
 <p>This is my main personal website, powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod</a>, and hosted on <a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages</a>.</p>
 <p>You can also follow my shorter posts on micro.blog over at <a href="https://social.joshuapsteeele.com">social.joshuapsteele.com</a>, which get cross-posted to <a href="https://social.lol/@steele">Mastodon</a> and <a href="https://bsky.app/profile/joshuapsteele.bsky.social">Bluesky</a>.</p>
 <p>If you&rsquo;d like to learn more about me, check out:</p>
@@ -28,7 +29,7 @@
 <li>What I&rsquo;m up to <a href="/now/"><strong>/now</strong></a></li>
 <li>The <a href="/questions/"><strong>/questions</strong></a> I&rsquo;m asking</li>
 </ul>
-<p>Want to contact me? Send an email to <a href="blog@joshuapsteele.com">blog@joshuapsteele.com</a>.</p>
+<p>Want to contact me? (No, I&rsquo;m not interested in guest posts on my blog at this time.) Send an email to <a href="blog@joshuapsteele.com">blog@joshuapsteele.com</a>.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -74,12 +75,12 @@ If you still think you really need to say something, write your own post, write 
       <link>https://joshuapsteele.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/contact/</guid>
-      <description>&lt;p&gt;The best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to read and reply as soon as possible!&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;the homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Cheers,
-Josh&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>The best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to read and reply as soon as possible!</p>
-<p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">the homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
+      <description>&lt;p&gt;If you&amp;rsquo;d like to ask if I&amp;rsquo;m interested in guest content on my blog, please don&amp;rsquo;t. I&amp;rsquo;m not interested.&lt;/p&gt;
+&lt;p&gt;For all other matters, the best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to read and reply as soon as possible!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;my homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>If you&rsquo;d like to ask if I&rsquo;m interested in guest content on my blog, please don&rsquo;t. I&rsquo;m not interested.</p>
+<p>For all other matters, the best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to read and reply as soon as possible!</p>
+<p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">my homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
 <p>Cheers,
 Josh</p>
 ]]></content:encoded>
@@ -441,10 +442,10 @@ Josh</p>
       <link>https://joshuapsteele.com/my-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://joshuapsteele.com/my-story/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Note: for a much briefer profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Note: I haven&amp;rsquo;t updated this &amp;ldquo;My Story&amp;rdquo; page in quite some time. Check &lt;a href=&#34;https://joshuapsteele.com/now/&#34;&gt;my &amp;ldquo;Now&amp;rdquo; page&lt;/a&gt; for more recent updates. But here&amp;rsquo;s the TL;DR: We&amp;rsquo;ve got three kids now. I quit my Ph.D. program, &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;, and now &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;work full-time as a software engineer&lt;/a&gt;. But I&amp;rsquo;m leaving this old &amp;ldquo;My Story&amp;rdquo; page up as a window into how I summarized my story back in 2021.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;from-childhood-to-college&#34;&gt;From Childhood to College&lt;/h2&gt;
 &lt;p&gt;God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><em>(Note: for a much briefer profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>.)</em></p>
+      <content:encoded><![CDATA[<p><em>Note: I haven&rsquo;t updated this &ldquo;My Story&rdquo; page in quite some time. Check <a href="/now/">my &ldquo;Now&rdquo; page</a> for more recent updates. But here&rsquo;s the TL;DR: We&rsquo;ve got three kids now. I quit my Ph.D. program, <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>, and now <a href="/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">work full-time as a software engineer</a>. But I&rsquo;m leaving this old &ldquo;My Story&rdquo; page up as a window into how I summarized my story back in 2021.</em></p>
 <h2 id="from-childhood-to-college">From Childhood to College</h2>
 <p>God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.</p>
 <p>At age five, I prayed the “sinner’s prayer” after my dad shared the gospel with me. But after I read the first <em>Left Behind</em> book at age ten, I was terrified about my eternal destiny. After all, I could not directly remember my mindset at age five. Was I really sincere, or did I merely pray the prayer to make my dad happy? Searching for certainty, I lost many hours of sleep worrying that my family members were being raptured without me that very moment.</p>
@@ -479,25 +480,27 @@ Josh</p>
       <description>&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Living in Toledo, OH (my hometown!)&lt;/li&gt;
-&lt;li&gt;Raising 3 young kids (6yo, 4yo, 1yo) with my wife&lt;/li&gt;
+&lt;li&gt;Raising 3 young kids (6yo, 4yo, 2yo) with my wife&lt;/li&gt;
 &lt;li&gt;Enjoying my work as a software engineer&lt;/li&gt;
-&lt;li&gt;Trying to lose weight (current weight: 235lbs; goal: 200lbs)&lt;/li&gt;
-&lt;li&gt;Working on home and auto repair&lt;/li&gt;
+&lt;li&gt;Trying to lose weight (current weight: 225lbs; goal: 200lbs)&lt;/li&gt;
+&lt;li&gt;Working on home repair projects&lt;/li&gt;
+&lt;li&gt;Rehabilitating a &lt;a href=&#34;https://joshuapsteele.com/vintage-craftsman-table-saw/&#34;&gt;vintage 1940s Craftsman table saw&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Buying too many books and tools&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;(This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, and if you have your own site, &lt;a href=&#34;https://nownownow.com/about&#34;&gt;you should make one&lt;/a&gt;, too.)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;Last updated: 2024-10-19&lt;/p&gt;</description>
+&lt;p&gt;Last updated: 2025-03-27&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
 <ul>
 <li>Living in Toledo, OH (my hometown!)</li>
-<li>Raising 3 young kids (6yo, 4yo, 1yo) with my wife</li>
+<li>Raising 3 young kids (6yo, 4yo, 2yo) with my wife</li>
 <li>Enjoying my work as a software engineer</li>
-<li>Trying to lose weight (current weight: 235lbs; goal: 200lbs)</li>
-<li>Working on home and auto repair</li>
+<li>Trying to lose weight (current weight: 225lbs; goal: 200lbs)</li>
+<li>Working on home repair projects</li>
+<li>Rehabilitating a <a href="/vintage-craftsman-table-saw/">vintage 1940s Craftsman table saw</a></li>
 <li>Buying too many books and tools</li>
 </ul>
 <p><em>(This is a <a href="https://nownownow.com/about">now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)</em></p>
-<p>Last updated: 2024-10-19</p>
+<p>Last updated: 2025-03-27</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -544,10 +547,10 @@ Josh</p>
 &lt;p&gt;Are &amp;ldquo;/questions&amp;rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please &lt;a href=&#34;https://joshuapsteele.com/contact&#34;&gt;let me know&lt;/a&gt;!&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What are the most useful lengths and kinds of rope to have on hand?&lt;/p&gt;
+&lt;p&gt;What&amp;rsquo;s a good &amp;ldquo;budget&amp;rdquo; version of a &lt;a href=&#34;https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;amp;qid=1671342063&amp;amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Veto Pro Pac TP-LC tool bag&lt;/a&gt;?&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What are the most useful dimensions/kinds of lumber to have on hand?&lt;/p&gt;</description>
+&lt;p&gt;What are the most useful lengths and kinds of rope to have on hand?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This is a <code>/questions</code> page, where I keep track of the questions I&rsquo;m asking!</p>
 <p>Last Updated: 2025-03-15</p>
 <h2 id="questions-im-asking">Questions I&rsquo;m Asking</h2>
@@ -555,6 +558,9 @@ Josh</p>
 <ul>
 <li>
 <p>Are &ldquo;/questions&rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please <a href="/contact">let me know</a>!</p>
+</li>
+<li>
+<p>What&rsquo;s a good &ldquo;budget&rdquo; version of a <a href="https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;qid=1671342063&amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;sr=8-1&amp;linkCode=ll1&amp;tag=joshuapsteele-20&amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;language=en_US&amp;ref_=as_li_ss_tl">Veto Pro Pac TP-LC tool bag</a>?</p>
 </li>
 <li>
 <p>What are the most useful lengths and kinds of rope to have on hand?</p>

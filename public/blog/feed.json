@@ -5,6 +5,12 @@
     "home_page_url": "https://joshuapsteele.com/blog/",
     "feed_url": "https://joshuapsteele.com/blog/feed.json",
     "items": [ {
+            "title": "My Vintage 1947 Craftsman 113 Table Saw",
+            "id": "https://joshuapsteele.com/vintage-craftsman-table-saw/",
+            "url": "https://joshuapsteele.com/vintage-craftsman-table-saw/",
+            "content_text": "\u003cp\u003eI finally got my first table saw! A 1947 Craftsman 113.22400 8-inch table saw, for $40 on Facebook Marketplace.\u003c/p\u003e\n\u003ch2 id=\"to-do-list\"\u003eTo Do List\u003c/h2\u003e\n\u003cp\u003eI\u0026rsquo;m excited to start using it, but first I want to do the following:\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e✅ Disassemble\u003c/li\u003e\n\u003cli\u003eClean (in progress)\u003c/li\u003e\n\u003cli\u003eRemove Rust (in progress)\u003c/li\u003e\n\u003cli\u003eLubricate (in progress)\u003c/li\u003e\n\u003cli\u003eReplace faulty power toggle switch (in progress)\u003c/li\u003e\n\u003cli\u003eReplace blade\u003c/li\u003e\n\u003cli\u003eReassemble\u003c/li\u003e\n\u003c/ul\u003e\n\u003ch2 id=\"manuals\"\u003eManuals\u003c/h2\u003e\n\u003cp\u003eThanks to the folks over at \u003ca href=\"http://vintagemachinery.org/\"\u003eVintage Machinery\u003c/a\u003e, it was easy enough to find the following manual PDFs for the saw and for the 1/2 HP motor:\u003c/p\u003e",
+            "date_published": "2025-03-20T06:16:39-04:00"
+        }, {
             "title": "Bonhoeffer on Stupidity",
             "id": "https://joshuapsteele.com/bonhoeffer-on-stupidity/",
             "url": "https://joshuapsteele.com/bonhoeffer-on-stupidity/",
