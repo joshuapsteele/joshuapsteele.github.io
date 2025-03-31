@@ -65,7 +65,7 @@ In the intensive care unit?
 
 In our own troubled homes?
 
-**Yes, we can. In fact, we <span style="text-decoration: underline;">must</span>.**
+**Yes, we can. In fact, we _must_.**
 
 ### We must sing Joy to the World – even through tears – in the deepest and darkest disappointments of this world.
 
@@ -113,7 +113,7 @@ Because at his birth, throughout his life, and at his death, he is surrounded by
 
 **Are you sure this is God? Are you sure this is how he saves the world?**
 
-<span style="text-decoration: underline;">**Yes**</span>. Although, I do understand that this is <span style="text-decoration: underline;">shocking</span>.
+_**Yes**_. Although, I do understand that this is _shocking_.
 
 ### Christmas is shocking.
 
@@ -121,7 +121,7 @@ It’s either a shocking disappointment or a shocking hope.
 
 As we read in Hebrews, ***in these last days, God has spoken to us through his Son, Jesus Christ.***
 
-But what he has spoken can, at least for now, be <span style="text-decoration: underline;">rejected</span> and ignored.
+But what he has spoken can, at least for now, be _rejected_ and ignored.
 
 Consider again the words of John 1:
 

@@ -101,7 +101,9 @@ So, at the very least, the Daily Office gives us the opportunity to obey God’s
 
 ## 3. Scripture and Prayer Are Your Daily Food
 
-Of course, Jesus said this best when he quoted Deuteronomy 8:3 in Matthew 4:4: <span class="text Matt-4-4" id="en-ESV-23214"><span class="woj">“It is written, </span></span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">‘Man shall not live by bread alone, </span><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">but by every word that comes from the mouth of God.’”</span>
+Of course, Jesus said this best when he quoted Deuteronomy 8:3 in Matthew 4:4: 
+
+> “It is written, Man shall not live by bread alone, but by every word that comes from the mouth of God.”
 
 I have found that doing the Daily Office, even when I don’t particularly feel like it, is a helpful reminder that Scripture and prayer are my daily food.
 

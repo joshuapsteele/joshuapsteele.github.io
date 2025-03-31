@@ -155,7 +155,7 @@ Wright, N.T. *Paul for Everyone: Romans: Part Two.* Louisville: Westminster John
 
 —. *[Paul: In Fresh Perspective](http://amzn.to/2vcD7RC).* Minneapolis: Fortress Press, 2005.
 
-## <span style="text-decoration: underline;">Notes</span>
+## Notes
 
 [\[1\]](#_ftnref1) A full analysis of the legitimacy of an anti-imperial Pauline hermeneutic far exceeds the scope of this study. Wright (2004: 82-88 and 2005: 69-79) emphasizes what he sees to be Paul’s anti-imperial themes throughout his writings, and I am indebted to him for the concept of Jesus’ vs. Caesar’s lordship. For an even-handed overview and analysis of this topic, consult Kim (2008), who makes the case that a strong anti-imperial Pauline hermeneutic is difficult to maintain. Despite Kim’s conclusions, however, it seems unwise to completely ignore the implications of Christ’s lordship on both Roman believers in the first century and on North American ones today. The fact that Romans 13:1-7 is such a stumbling block to those in the anti-imperial camp and such an “anomaly” when compared with the implications of Paul’s anti-imperial passages (such as 1 Thess 5, alluded to by Wright \[2005\]) seems to necessitate a nuanced approach that hears the arguments of those on both sides of this theological debate.
 
