@@ -3,6 +3,8 @@ title: "My Vintage 1947 Craftsman 113 Table Saw"
 author: joshuapsteele
 date: 2025-03-20T06:16:39-04:00
 draft: false
+categories:
+  - Tools
 tags:
   - home improvement
   - diy
