@@ -1,8 +1,8 @@
 ---
-title: "Example Blog Post"
+title: "Saw Updates"
 date: 2025-04-01T08:25:13-04:00
 draft: true
-author: "Joshua Steele"
+author: joshuapsteele
 description: "" # Add a brief description here
 tags: [] # Add relevant tags
 categories: [] # Add relevant categories

@@ -7,7 +7,7 @@ avada_post_views_count_today_date:
 avada_today_post_views_count:
 - "2"
 categories:
-- Miscellaneous
+- Uncategorized
 date: "2020-06-01T07:00:51Z"
 fusion_builder_status:
 - ""

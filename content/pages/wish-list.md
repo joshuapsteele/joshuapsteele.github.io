@@ -5,6 +5,7 @@ title: Wish List
 url: /wishlist/
 aliases:
 - /wish-list/
+- /what-i-want/
 
 ---
 Here's a wish list I regularly update. I also keep [my Amazon wish list updated here](https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share).
