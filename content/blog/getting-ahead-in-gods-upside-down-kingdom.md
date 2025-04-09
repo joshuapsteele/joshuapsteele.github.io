@@ -298,10 +298,6 @@ It’s not that Jesus doesn’t care about your fears. He does.
 
 **FEAR** is not a valid excuse for ignoring the Bible’s repeated commands for God’s people to show faithful concern for the kinds of people the world ignores and mistreats!
 
-<figure class="wp-caption aligncenter" style="width: 175px">[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1594486077&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=joshuapsteele-20)](https://www.amazon.com/Generous-Justice-Gods-Grace-Makes/dp/1594486077/ref=as_li_ss_il?ie=UTF8&qid=1485813438&sr=8-1&keywords=generous+justice&linkCode=li3&tag=joshuapsteele-20&linkId=d46852a4665538b80bcc0ff0b7424711)<figcaption class="wp-caption-text">Want to read more about what the Bible has to say about these kinds of issues? Read this book! (Affiliate Link)</figcaption></figure>
-
-![](https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&l=li3&o=1&a=1594486077)
-
 ---
 
 ## Application: Consistently Pro-Life, for the Unborn AND the Refugees

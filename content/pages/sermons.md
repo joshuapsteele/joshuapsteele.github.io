@@ -56,19 +56,19 @@ READ: [It is Finished! So, Get to Work! Sermon Manuscript](/2017/06/13/it-is-fin
 
 Exodus 12:1-14; Psalm 78:14-25; 1 Corinthians 11:23-34; Luke 22:14-30; (Maundy Thursday; 13 April, 2017). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
-READ: [Maundy Thursday Sermon: The Lasting Supper - Luke 22:14-30](/2017/04/13/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/)
+READ: [Maundy Thursday Sermon: The Lasting Supper - Luke 22:14-30](/maundy-thursday-sermon-the-lasting-supper-luke-2214-30/)
 
 ## Getting Ahead in God's Upside-Down Kingdom
 
 Micah 6:1-8; Psalm 37:1-11; 1 Corinthians 1:18-31; Matthew 5:1-12; (29 January, 2017). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
-READ: [Getting Ahead in God's Upside-Down Kingdom Manuscript](/2017/01/30/getting-ahead-in-gods-upside-down-kingdom/)
+READ: [Getting Ahead in God's Upside-Down Kingdom Manuscript](/getting-ahead-in-gods-upside-down-kingdom/)
 
 ## A (Disappointing) Christmas Homily
 
 Psalm 98; Isaiah 52:7-10; Hebrews 1:1-12; John 1:1-14; (25 December, 2016). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
-READ: [A Christmas Homily Manuscript](/2016/12/28/a-christmas-homily/)
+READ: [A Christmas Homily Manuscript](/a-christmas-homily/)
 
 ## Investment Advice from the Dishonest Manager
 
@@ -90,7 +90,7 @@ READ: [The Groom's Big Day Sermon Manuscript](/wp-content/uploads/2016/03/the-gr
 
 [Easter Vigil Readings](http://lectionary.library.vanderbilt.edu/texts.php?id=131); (26 March, 2016). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
-READ: [Easter Vigil Sermon Manuscript](/2016/03/29/son-of-man-can-your-bones-live/)
+READ: [Easter Vigil Sermon Manuscript](/son-of-man-can-your-bones-live/)
 
 * * *
 
