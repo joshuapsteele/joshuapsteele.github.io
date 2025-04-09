@@ -3,7 +3,6 @@ title: 'Devs: How Does Your Personal Laptop Compare to Your Work Laptop?'
 date: 2025-04-09T08:49:29-04:00
 draft: false
 author: joshuapsteele
-description: "How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?"
 tags: ["laptop", "computer"]
 categories: ["Technology"]
 showToc: false # Set to false to hide table of contents

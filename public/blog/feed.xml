@@ -6,14 +6,37 @@
     <description>Recent content in Blogs on Joshua P. Steele</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 09 Apr 2025 08:57:37 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 09:06:52 -0400</lastBuildDate>
     <atom:link href="https://joshuapsteele.com/blog/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devs: How Does Your Personal Laptop Compare to Your Work Laptop?</title>
       <link>https://joshuapsteele.com/blog/personal-vs-work-laptop/</link>
       <pubDate>Wed, 09 Apr 2025 08:49:29 -0400</pubDate>
       <guid>https://joshuapsteele.com/blog/personal-vs-work-laptop/</guid>
-      <description>How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?</description>
+      <description>&lt;p&gt;How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?&lt;/p&gt;
+&lt;p&gt;Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since &lt;a href=&#34;https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/&#34;&gt;costs might go up soon for electronics, due to tariffs&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For work, I&amp;rsquo;ve got a 2019 MacBook Pro. More details below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal machine: 2016 MacBook Pro 
+&lt;ul&gt;
+&lt;li&gt;13-inch &lt;/li&gt;
+&lt;li&gt;2 Thunderbolt ports&lt;/li&gt;
+&lt;li&gt;2 GHz Dual-Core Intel Core i5 processor&lt;/li&gt;
+&lt;li&gt;16 GB memory&lt;/li&gt;
+&lt;li&gt;250 GB storage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Work machine: 2019 MacBook Pro
+&lt;ul&gt;
+&lt;li&gt;16-inch&lt;/li&gt;
+&lt;li&gt;4 Thunderbolt ports&lt;/li&gt;
+&lt;li&gt;2.6 GHz 6-Core Intel Core i7 processor&lt;/li&gt;
+&lt;li&gt;32 GB memory&lt;/li&gt;
+&lt;li&gt;500 GB storage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Essentially, I&amp;rsquo;m thinking of a MacBook Air or MacBook Pro. Not quite sure which specs to go with. I don&amp;rsquo;t need crazy capabilities at this time for personal hacking/development, but I&amp;rsquo;d like to be able to build and run stuff locally using stuff like LangGraph to build AI tools.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?</p>
 <p>Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since <a href="https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/">costs might go up soon for electronics, due to tariffs</a>).</p>
 <p>For work, I&rsquo;ve got a 2019 MacBook Pro. More details below:</p>
