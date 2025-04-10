@@ -15,6 +15,7 @@ Last Updated: 2025-03-08
 - [City Guesser](https://virtualvacation.us/guess)
 - [Cool Tools](https://kk.org/cooltools/)
 - [Fold N' Fly](https://www.foldnfly.com/)
+- [InterNACHI Home Inspection Image Gallery](https://www.nachi.org/gallery/)
 - [McMaster-Carr Online Catalog](https://www.mcmaster.com/)
 - [Sketchplanations](https://sketchplanations.com/)
 
