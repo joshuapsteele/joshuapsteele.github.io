@@ -6,6 +6,7 @@ author: joshuapsteele
 tags: [home improvement, diy, tools] # Add relevant tags
 categories: [Tools] # Add relevant categories
 showToc: false # Set to false to hide table of contents
+url: /saw-updates/
 ---
 
 ## The Table Saw

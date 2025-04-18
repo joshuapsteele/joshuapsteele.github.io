@@ -7,6 +7,7 @@ tags: ["laptop", "computer"]
 categories: ["Technology"]
 showToc: false # Set to false to hide table of contents
 TocOpen: false # Set to true to automatically expand ToC
+url: /personal-vs-work-laptop/
 ---
 
 How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with? 
