@@ -14,14 +14,3 @@ showToc: true # Set to false to hide table of contents
 TocOpen: false # Set to true to automatically expand ToC
 ---
 
-## Introduction
-
-<!-- Your compelling introduction goes here -->
-
-## Main Content
-
-<!-- Your main content sections go here -->
-
-## Conclusion
-
-<!-- Your wrap-up goes here -->

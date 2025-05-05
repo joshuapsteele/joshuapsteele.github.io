@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://joshuapsteele.com/categories/architecture/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/authorization/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-04-18T09:20:01-04:00</lastmod>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
-    <lastmod>2025-04-18T09:20:01-04:00</lastmod>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/openfga/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/rebac/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/security/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/zanzibar/</loc>
+    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/civil-rights/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
@@ -23,9 +53,6 @@
     <loc>https://joshuapsteele.com/tags/immigration/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-04-18T09:20:01-04:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/categories/justice/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
   </url><url>
@@ -35,38 +62,35 @@
     <loc>https://joshuapsteele.com/categories/politics/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/</loc>
-    <lastmod>2025-04-18T09:20:01-04:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/government-kidnap-without-trial/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/computer/</loc>
-    <lastmod>2025-04-09T09:07:32-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/personal-vs-work-laptop/</loc>
-    <lastmod>2025-04-09T09:07:32-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/laptop/</loc>
-    <lastmod>2025-04-09T09:07:32-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/technology/</loc>
-    <lastmod>2025-04-09T09:07:32-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/diy/</loc>
-    <lastmod>2025-04-01T12:55:54-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/home-improvement/</loc>
-    <lastmod>2025-04-01T12:55:54-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/saw-updates/</loc>
-    <lastmod>2025-04-01T12:55:54-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/tools/</loc>
-    <lastmod>2025-04-01T12:55:54-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/tools/</loc>
-    <lastmod>2025-04-01T12:55:54-04:00</lastmod>
+    <lastmod>2025-04-18T09:26:24-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/vintage-craftsman-table-saw/</loc>
     <lastmod>2025-04-01T12:55:54-04:00</lastmod>
@@ -83,13 +107,7 @@
     <loc>https://joshuapsteele.com/tags/theology/</loc>
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/authorization/</loc>
-    <lastmod>2025-03-31T16:22:26-04:00</lastmod>
-  </url><url>
     <loc>https://joshuapsteele.com/authorization-continued/</loc>
-    <lastmod>2025-03-31T16:22:26-04:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/politics/</loc>
@@ -300,9 +318,6 @@
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/internet/</loc>
-    <lastmod>2025-03-31T16:22:26-04:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/security/</loc>
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/technology/</loc>
