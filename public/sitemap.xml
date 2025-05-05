@@ -2,41 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://joshuapsteele.com/categories/architecture/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/authorization/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <loc>https://joshuapsteele.com/tags/bible/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/blog/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/categories/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/tags/openfga/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <loc>https://joshuapsteele.com/categories/religious/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
-    <loc>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/rebac/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/security/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <loc>https://joshuapsteele.com/tags/social-justice/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/the-bible-is-clear/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/categories/theological/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/theology/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/categories/architecture/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/authorization/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/openfga/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/rebac/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/tags/security/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
+  </url><url>
+    <loc>https://joshuapsteele.com/categories/software-engineering/</loc>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/zanzibar/</loc>
-    <lastmod>2025-05-05T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-05T14:23:32-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/civil-rights/</loc>
     <lastmod>2025-04-18T09:20:01-04:00</lastmod>
@@ -102,9 +120,6 @@
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/tags/ethics/</loc>
-    <lastmod>2025-03-31T16:22:26-04:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/theology/</loc>
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/authorization-continued/</loc>
@@ -507,9 +522,6 @@
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/they-say-i-say-writing-templates/</loc>
-    <lastmod>2025-03-31T16:22:26-04:00</lastmod>
-  </url><url>
-    <loc>https://joshuapsteele.com/tags/bible/</loc>
     <lastmod>2025-03-31T16:22:26-04:00</lastmod>
   </url><url>
     <loc>https://joshuapsteele.com/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</loc>
