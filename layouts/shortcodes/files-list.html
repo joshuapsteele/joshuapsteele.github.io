@@ -1,0 +1,9 @@
+{{ $files := readDir "static/files" }}
+<ul>
+  {{ range $files }}
+    <li>
+      <a href="/files/{{ .Name }}" target="_blank">{{ .Name }}</a>
+      ({{ div .Size 1024 }} KB)
+    </li>
+  {{ end }}
+</ul>
