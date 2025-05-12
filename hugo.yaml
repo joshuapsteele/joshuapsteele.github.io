@@ -32,7 +32,7 @@ params:
     disableHLJS: true
   editPost:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
-    Text: "Suggest Changes" # edit text
+    Text: "View on GitHub" # edit text
     appendFilePath: true # to append file path to Edit link
   footer:
     text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
