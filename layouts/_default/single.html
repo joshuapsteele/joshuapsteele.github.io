@@ -25,7 +25,7 @@
       {{- partial "translation_list.html" . -}}
       {{- partial "edit_post.html" . -}}
       {{- partial "post_canonical.html" . -}}
-      | <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+      {{- partial "tinylytics_kudos.html" . -}}
     </div>
     {{- end }}
   </header>

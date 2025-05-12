@@ -20,3 +20,13 @@ body:not(.dark) #home-logo {
     background: var(--border);
     box-shadow: none;
 }
+
+/* Tinylytics kudos styles */
+.post-meta-separator {
+    margin: 0 0.5em;
+    color: var(--secondary);
+}
+
+.tinylytics_kudos {
+    vertical-align: middle;
+}

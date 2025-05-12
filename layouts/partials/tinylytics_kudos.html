@@ -1,0 +1,6 @@
+{{- if not .IsHome }}
+<span class="post-meta-item">
+    <span class="post-meta-separator">|</span>
+    <button class="tinylytics_kudos" data-path="{{ .RelPermalink }}"></button>
+</span>
+{{- end }}
