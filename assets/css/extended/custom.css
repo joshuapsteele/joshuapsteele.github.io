@@ -30,3 +30,12 @@ body:not(.dark) #home-logo {
 .tinylytics_kudos {
     vertical-align: middle;
 }
+
+/* Tinylytics countries styles */
+.tinylytics_countries {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 0.25em;
+    align-items: center;
+    max-width: 50%;
+}
