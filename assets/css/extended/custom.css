@@ -32,11 +32,14 @@ body:not(.dark) #home-logo {
 }
 
 /* Tinylytics countries styles */
-.tinylytics_countries {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.25em;
-    align-items: center;
-    max-width: 100%;
-    margin: 0.5em 0;
+.footer span:last-child {
+    white-space: normal !important;
+}
+
+.footer .tinylytics_countries {
+    display: inline-block;
+    width: 100%;
+    white-space: normal !important;
+    word-wrap: break-word;
+    line-height: 2;
 }
