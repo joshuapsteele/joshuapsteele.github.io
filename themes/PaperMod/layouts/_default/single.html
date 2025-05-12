@@ -57,12 +57,6 @@
     {{- end }}
   </footer>
 
-  <div class="post-reply-email">
-    <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}">
-      📧 Reply via email
-    </a>
-  </div>
-
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
