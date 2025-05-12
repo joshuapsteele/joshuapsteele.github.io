@@ -33,9 +33,10 @@ body:not(.dark) #home-logo {
 
 /* Tinylytics countries styles */
 .tinylytics_countries {
-    display: inline-flex;
+    display: flex;
     flex-wrap: wrap;
     gap: 0.25em;
     align-items: center;
-    max-width: 50%;
+    max-width: 100%;
+    margin: 0.5em 0;
 }
