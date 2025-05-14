@@ -7,7 +7,18 @@ showtoc: true
 
 This is a `/lists` page, where I keep track of the lists I'm working on!
 
-Last Updated: 2025-04-16
+Last Updated: 2025-05-14
+
+## Contents
+
+- [Information Sources](#information-sources)
+    - [News](#news)
+    - [Newsletters](#newsletters)
+- [Questions](#questions)
+- [Websites: Interesting and/or Useful](#websites-interesting-andor-useful)
+- [YouTube Channels](#youtube-channels)
+
+---
 
 ## Information Sources
 
@@ -24,7 +35,15 @@ Last Updated: 2025-04-16
 - [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
 - [Timothy Snyder's Newsletter](https://snyder.substack.com/)
 
-## Interesting and/or Useful Websites
+---
+
+## Questions
+
+- See my [Questions](/questions) page!
+
+---
+
+## Websites: Interesting and/or Useful
 
 - [12ft](https://12ft.io/)
 - [BlueSky Profile Cleanup](https://bsky.jazco.dev/cleanup)
@@ -38,6 +57,21 @@ Last Updated: 2025-04-16
 - [OpenTimes](https://opentimes.org/)
 - [Sketchplanations](https://sketchplanations.com/)
 
-## Questions
+---
 
-- See my [Questions](/questions) page!
+## YouTube Channels
+
+- [Budget Mechanic](https://www.youtube.com/@BudgetMechanicHawaii)
+- [ChrisFix](https://www.youtube.com/@ChrisFix)
+- [Essential Craftsman](https://www.youtube.com/@essentialcraftsman)
+- [First Class Amateur](https://www.youtube.com/@First_Class_Amateur)
+- [Grand Roofing](https://www.youtube.com/@GrandRoofingInc)
+- [Home RenoVision DIY](https://www.youtube.com/@HomeRenoVisionDIY)
+- [The Honest Carpenter](https://www.youtube.com/@TheHonestCarpenter)
+- [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
+- [Project Farm](https://www.youtube.com/@ProjectFarm)
+- [Silver Cymbal](https://www.youtube.com/@SilverCymbal)
+- [Smarter Every Day](https://www.youtube.com/@smartereveryday)
+- [Stumpy Nubs](https://www.youtube.com/@StumpyNubs)
+- [This Old House](https://www.youtube.com/@thisoldhouse)
+- [Veritasium](https://www.youtube.com/@veritasium)
