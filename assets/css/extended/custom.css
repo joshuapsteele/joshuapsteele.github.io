@@ -2,13 +2,17 @@ body:not(.dark) #home-logo {
     filter: invert(1);
 }
 
-/* Reply via email button styles */
-.post-reply-email {
+/* Reply buttons styles */
+.post-reply-buttons {
     text-align: center;
     margin: 2em 0;
+    display: flex;
+    gap: 1em;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
-.post-reply-email a {
+.reply-button {
     display: inline-block;
     padding: 0.5em 1em;
     border: 1px solid var(--border);
@@ -16,7 +20,7 @@ body:not(.dark) #home-logo {
     text-decoration: none;
 }
 
-.post-reply-email a:hover {
+.reply-button:hover {
     background: var(--border);
     box-shadow: none;
 }

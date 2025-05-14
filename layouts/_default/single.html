@@ -58,9 +58,15 @@
     {{- end }}
   </footer>
 
-  <div class="post-reply-email">
-    <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}">
+  <div class="post-reply-buttons">
+    <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
       📧 Reply via email
+    </a>
+    <a href="https://bsky.app/profile/joshuapsteele.bsky.social/post?text=Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+      🦋 Reply via Bluesky
+    </a>
+    <a href="https://social.joshuapsteele.com/new?text=Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+      🌐 Reply via Micro.blog
     </a>
   </div>
 
