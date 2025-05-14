@@ -9,15 +9,6 @@ This is a `/lists` page, where I keep track of the lists I'm working on!
 
 Last Updated: 2025-05-14
 
-## Contents
-
-- [Information Sources](#information-sources)
-    - [News](#news)
-    - [Newsletters](#newsletters)
-- [Questions](#questions)
-- [Websites: Interesting and/or Useful](#websites-interesting-andor-useful)
-- [YouTube Channels](#youtube-channels)
-
 ---
 
 ## Information Sources
