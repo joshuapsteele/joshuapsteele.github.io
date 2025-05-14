@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social Media on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/social-media/</link>
+    <link>http://localhost:1313/tags/social-media/</link>
     <description>Recent content in Social Media on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/social-media/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/social-media/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>It’s time for another social media fast!</title>
-      <link>https://joshuapsteele.com/its-time-for-another-social-media-fast/</link>
+      <link>http://localhost:1313/its-time-for-another-social-media-fast/</link>
       <pubDate>Wed, 19 Aug 2020 15:52:45 +0000</pubDate>
-      <guid>https://joshuapsteele.com/its-time-for-another-social-media-fast/</guid>
+      <guid>http://localhost:1313/its-time-for-another-social-media-fast/</guid>
       <description>&lt;p&gt;After listening to &lt;a href=&#34;https://www.blinkist.com/en/books/deep-work-en&#34;&gt;the Blinkist summary of Cal Newport’s &lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt; (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.&lt;/p&gt;
 &lt;p&gt;I think I’ll still keep &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;my micro.blog up and running&lt;/a&gt;, but between &lt;a href=&#34;https://anglicancompass.com&#34;&gt;running Anglican Compass&lt;/a&gt; and &lt;a href=&#34;https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof/&#34;&gt;sprinting for some last-ditch clarity on my increasingly frustrating dissertation&lt;/a&gt;, I need all the extra bandwidth I can get!&lt;/p&gt;
 &lt;p&gt;If you need to get in touch for some reason, please &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use the contact form on my website&lt;/a&gt;. You can also &lt;a href=&#34;https://buttondown.email/joshuapsteele&#34;&gt;sign up for my very occasional email newsletter here&lt;/a&gt;.&lt;/p&gt;</description>

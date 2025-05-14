@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Theology on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/theology/</link>
+    <link>http://localhost:1313/tags/theology/</link>
     <description>Recent content in Theology on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 05 May 2025 14:34:48 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/theology/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/theology/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Bible Is Clear about the Poor, Oppressed, and Marginalized</title>
-      <link>https://joshuapsteele.com/the-bible-is-clear/</link>
+      <link>http://localhost:1313/the-bible-is-clear/</link>
       <pubDate>Mon, 05 May 2025 14:26:00 -0400</pubDate>
-      <guid>https://joshuapsteele.com/the-bible-is-clear/</guid>
+      <guid>http://localhost:1313/the-bible-is-clear/</guid>
       <description>The Bible is clear about the poor, the oppressed, and the marginalized.</description>
       <content:encoded><![CDATA[<blockquote>
 <p><em>&ldquo;The Bible is clear&hellip;&rdquo;</em><br>
@@ -56,9 +61,9 @@
     </item>
     <item>
       <title>Bonhoeffer on Stupidity</title>
-      <link>https://joshuapsteele.com/bonhoeffer-on-stupidity/</link>
+      <link>http://localhost:1313/bonhoeffer-on-stupidity/</link>
       <pubDate>Mon, 10 Mar 2025 15:16:39 -0400</pubDate>
-      <guid>https://joshuapsteele.com/bonhoeffer-on-stupidity/</guid>
+      <guid>http://localhost:1313/bonhoeffer-on-stupidity/</guid>
       <description>&lt;p&gt;In his &amp;ldquo;Letters and Papers from Prison,&amp;rdquo; Dietrich Bonhoeffer made some remarkably insightful observations about the nature of stupidity and its dangers to society. These reflections, perhaps more relevant today than ever, deserve our careful attention. Here they are in full.&lt;/p&gt;
 &lt;h2 id=&#34;on-stupidity-dbwe-843-44&#34;&gt;On Stupidity (DBWE 8:43-44)&lt;/h2&gt;
 &lt;blockquote&gt;
@@ -75,9 +80,9 @@
     </item>
     <item>
       <title>Logos 10 Bible Software: The Ultimate Theological Learning Tool</title>
-      <link>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
+      <link>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
       <pubDate>Thu, 22 Dec 2022 13:46:21 +0000</pubDate>
-      <guid>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
+      <guid>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. &lt;a href=&#34;https://partners.faithlife.com/click.track?CID=431490&amp;amp;AFID=529204&#34;&gt;Do so via my exclusive partner offer for Logos 10 here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If I could go back in time and chat with Joshua Steele when he was a Bible &amp;amp; Spanish major in college, there are a few things I’d tell my younger self:&lt;/p&gt;
@@ -136,9 +141,9 @@
     </item>
     <item>
       <title>Help! I’m looking for the best Christian resources on the Bible, social justice, racism, Critical Race Theory, and Marxism</title>
-      <link>https://joshuapsteele.com/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</link>
+      <link>http://localhost:1313/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</link>
       <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</guid>
+      <guid>http://localhost:1313/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</guid>
       <description>&lt;p&gt;Help me out. I’m looking for the best, clearest, and most charitable explanations of the following three things:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;the biblical and theological reasons for caring about social justice and systemic racism,&lt;/li&gt;
@@ -168,9 +173,9 @@
     </item>
     <item>
       <title>There&#39;s more than one kind of &#34;priesthood&#34; in the New Testament</title>
-      <link>https://joshuapsteele.com/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</link>
+      <link>http://localhost:1313/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</link>
       <pubDate>Tue, 12 Feb 2019 20:47:11 +0000</pubDate>
-      <guid>https://joshuapsteele.com/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</guid>
+      <guid>http://localhost:1313/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</guid>
       <description>&lt;p&gt;Just came across &lt;a href=&#34;https://doi.org/10.1111/nbfr.12440&#34;&gt;this article in New Blackfriars&lt;/a&gt;, and it looks helpful, especially in the context of Anglican debates about women’s ordination.&lt;/p&gt;
 &lt;p&gt;Title: “The Four Types of Priesthood in the New Testament: On Avoiding Confusions about What ‘Priesthood’ Means”&lt;/p&gt;
 &lt;p&gt;Author: Geoffrey Turner&lt;/p&gt;
@@ -198,9 +203,9 @@
     </item>
     <item>
       <title>What&#39;s the relationship between biblical and systematic/dogmatic theology?</title>
-      <link>https://joshuapsteele.com/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</link>
+      <link>http://localhost:1313/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</link>
       <pubDate>Wed, 23 Jan 2019 15:18:31 +0000</pubDate>
-      <guid>https://joshuapsteele.com/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</guid>
+      <guid>http://localhost:1313/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</guid>
       <description>&lt;p&gt;This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(Note: we’ll have to save the difference(s) between systematic, historical, and dogmatic theology for another post!)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here are the articles we were assigned to read for this week:&lt;/p&gt;
@@ -241,9 +246,9 @@
     </item>
     <item>
       <title>Introduction to Christian Theology: A Draft Syllabus</title>
-      <link>https://joshuapsteele.com/introduction-to-christian-theology-a-draft-syllabus/</link>
+      <link>http://localhost:1313/introduction-to-christian-theology-a-draft-syllabus/</link>
       <pubDate>Thu, 20 Dec 2018 22:42:14 +0000</pubDate>
-      <guid>https://joshuapsteele.com/introduction-to-christian-theology-a-draft-syllabus/</guid>
+      <guid>http://localhost:1313/introduction-to-christian-theology-a-draft-syllabus/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a part of my “pedagogical experience” at Wheaton College this semester, I was required to draft a syllabus for an introduction to Christian theology. Feel free to let me know what you think in the comments.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Note: the length of this syllabus doesn’t necessarily correspond to the difficulty of this course&lt;/p&gt;
@@ -885,9 +890,9 @@
     </item>
     <item>
       <title>Mental Models: A Helpful Model for Theology?</title>
-      <link>https://joshuapsteele.com/mental-models-helpful-model-theology/</link>
+      <link>http://localhost:1313/mental-models-helpful-model-theology/</link>
       <pubDate>Sun, 25 Feb 2018 15:06:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/mental-models-helpful-model-theology/</guid>
+      <guid>http://localhost:1313/mental-models-helpful-model-theology/</guid>
       <description>&lt;p&gt;This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Here it is: “Mental Models” could be a helpful model for theology.&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;what-is-a-mental-model&#34;&gt;What is a “mental model”?&lt;/h1&gt;

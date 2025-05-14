@@ -16,10 +16,16 @@ params:
   mainSections:
   - blog
   disableThemeToggle: false
-  showShareButtons: false
+  showShareButtons: true # Enable share buttons
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
+  
+  # Social and Open Graph parameters
+  images: ["/images/default-social.png"] # Default social sharing image
+  defaultImage: "/images/default-social.png" # Fallback image for social sharing
+  title: "Joshua P. Steele" # Default title for social sharing
+  author: "Joshua P. Steele" # Author name for social sharing
   showPostNavLinks: true
   showCodeCopyButtons: true
   showFullTextInRSS: true

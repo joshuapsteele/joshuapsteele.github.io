@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Politics on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/politics/</link>
+    <link>http://localhost:1313/tags/politics/</link>
     <description>Recent content in Politics on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/politics/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/politics/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>This Shouldn&#39;t Be Controversial</title>
-      <link>https://joshuapsteele.com/this-shouldnt-be-controversial/</link>
+      <link>http://localhost:1313/this-shouldnt-be-controversial/</link>
       <pubDate>Wed, 19 Feb 2025 09:16:56 -0500</pubDate>
-      <guid>https://joshuapsteele.com/this-shouldnt-be-controversial/</guid>
+      <guid>http://localhost:1313/this-shouldnt-be-controversial/</guid>
       <description>&lt;p&gt;The following statements should not be controversial, but they sadly are. What would you add to this list?&lt;/p&gt;
 &lt;p&gt;Donald Trump lost the 2020 election.&lt;/p&gt;
 &lt;p&gt;January 6th, 2021, was an insurrection.&lt;/p&gt;
@@ -38,9 +43,9 @@
     </item>
     <item>
       <title>Stay Woke! Ephesians 5:11-14</title>
-      <link>https://joshuapsteele.com/stay-woke-ephesians-5/</link>
+      <link>http://localhost:1313/stay-woke-ephesians-5/</link>
       <pubDate>Wed, 22 Jan 2025 08:12:07 -0500</pubDate>
-      <guid>https://joshuapsteele.com/stay-woke-ephesians-5/</guid>
+      <guid>http://localhost:1313/stay-woke-ephesians-5/</guid>
       <description>&lt;p&gt;With fascism on the rise in the United States of America and around the world, and with many so-called &amp;ldquo;Christians&amp;rdquo; gladly supporting the rise of the far-right and attributing it to the will of God, I was struck by these words from Ephesians 5 (which were assigned as one of the readings for Morning Prayer today).&lt;/p&gt;
 &lt;p&gt;Ephesians 5:11-14 (New Living Translation, NLT)&lt;/p&gt;
 &lt;blockquote&gt;
@@ -73,9 +78,9 @@ For a greedy person is an idolater, worshiping the things of this world.</p></bl
     </item>
     <item>
       <title>Christianity and Politics: My 2024 Reading List</title>
-      <link>https://joshuapsteele.com/christianity-and-politics-my-2024-reading-list/</link>
+      <link>http://localhost:1313/christianity-and-politics-my-2024-reading-list/</link>
       <pubDate>Mon, 09 Sep 2024 14:03:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/christianity-and-politics-my-2024-reading-list/</guid>
+      <guid>http://localhost:1313/christianity-and-politics-my-2024-reading-list/</guid>
       <description>&lt;p&gt;The relationship between Church and State, particularly the intersection of Christianity and politics, has been on my mind since I first started paying attention during the lead-up to the 2008 USA presidential election. Back then, I was just a high school student, but these themes have stuck with me ever since.&lt;/p&gt;
 &lt;p&gt;(For those curious, here’s a quick timeline: In 2012, I was studying biblical studies in college. By 2016, I was a seminarian, and in 2020, I was working on my Ph.D. in theology. Now, in 2024, I’m a software engineer! Yet political theology continues to weigh on my mind.)&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>The relationship between Church and State, particularly the intersection of Christianity and politics, has been on my mind since I first started paying attention during the lead-up to the 2008 USA presidential election. Back then, I was just a high school student, but these themes have stuck with me ever since.</p>

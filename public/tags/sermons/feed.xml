@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Sermons on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/sermons/</link>
+    <link>http://localhost:1313/tags/sermons/</link>
     <description>Recent content in Sermons on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/sermons/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sermons/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who really cares about the Trinity in 2020?</title>
-      <link>https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/</link>
+      <link>http://localhost:1313/who-really-cares-about-the-trinity-in-2020/</link>
       <pubDate>Sun, 07 Jun 2020 13:02:06 +0000</pubDate>
-      <guid>https://joshuapsteele.com/who-really-cares-about-the-trinity-in-2020/</guid>
+      <guid>http://localhost:1313/who-really-cares-about-the-trinity-in-2020/</guid>
       <description>&lt;p&gt;&lt;em&gt;(&lt;a href=&#34;https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele/&#34;&gt;To listen to the audio of this sermon as it was preached on June 6, 2020, click here.&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Christians believe that there is one God in three persons—Father, Son, and Holy Spirit.&lt;/p&gt;
 &lt;p&gt;Or, as my daughter Eva put it recently after seeing a picture in her book, “Father, Son, and Bird.” We’re working on that…&lt;/p&gt;
@@ -161,9 +166,9 @@
     </item>
     <item>
       <title>Preparing the Way of the Lord in the Wilderness: Luke 3:1-6</title>
-      <link>https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/</link>
+      <link>http://localhost:1313/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/</link>
       <pubDate>Sun, 09 Dec 2018 15:42:08 +0000</pubDate>
-      <guid>https://joshuapsteele.com/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/</guid>
+      <guid>http://localhost:1313/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/</guid>
       <description>&lt;p&gt;&lt;em&gt;(Sermon preached at Church of the Savior in Wheaton, IL.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I’d like to pray this week’s collect again:&lt;/p&gt;
 &lt;blockquote&gt;

@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Social Justice on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/social-justice/</link>
+    <link>http://localhost:1313/tags/social-justice/</link>
     <description>Recent content in Social Justice on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 05 May 2025 14:34:48 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/social-justice/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/social-justice/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Bible Is Clear about the Poor, Oppressed, and Marginalized</title>
-      <link>https://joshuapsteele.com/the-bible-is-clear/</link>
+      <link>http://localhost:1313/the-bible-is-clear/</link>
       <pubDate>Mon, 05 May 2025 14:26:00 -0400</pubDate>
-      <guid>https://joshuapsteele.com/the-bible-is-clear/</guid>
+      <guid>http://localhost:1313/the-bible-is-clear/</guid>
       <description>The Bible is clear about the poor, the oppressed, and the marginalized.</description>
       <content:encoded><![CDATA[<blockquote>
 <p><em>&ldquo;The Bible is clear&hellip;&rdquo;</em><br>

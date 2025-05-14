@@ -2,21 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Home Improvement on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/home-improvement/</link>
+    <link>http://localhost:1313/tags/home-improvement/</link>
     <description>Recent content in Home Improvement on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:26:24 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/home-improvement/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/home-improvement/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saw Updates</title>
-      <link>https://joshuapsteele.com/saw-updates/</link>
+      <link>http://localhost:1313/saw-updates/</link>
       <pubDate>Tue, 01 Apr 2025 08:25:13 -0400</pubDate>
-      <guid>https://joshuapsteele.com/saw-updates/</guid>
+      <guid>http://localhost:1313/saw-updates/</guid>
       <description>&lt;h2 id=&#34;the-table-saw&#34;&gt;The Table Saw&lt;/h2&gt;
-&lt;p&gt;I know you&amp;rsquo;ve all been waiting for (lol) updates on my &lt;a href=&#34;https://joshuapsteele.com/vintage-craftsman-table-saw/&#34;&gt;vintage 1947 Craftsman 113 table saw&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I know you&amp;rsquo;ve all been waiting for (lol) updates on my &lt;a href=&#34;http://localhost:1313/vintage-craftsman-table-saw/&#34;&gt;vintage 1947 Craftsman 113 table saw&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m happy to report that, after disassembling and cleaning the saw, I was able to put it back together and get it running again!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Refurbished Craftsman Table Saw&#34; loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/refurbished-table-saw.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Refurbished Craftsman Table Saw&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/refurbished-table-saw.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the process, I installed:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A new &lt;a href=&#34;https://amzn.to/3QVf5mv&#34;&gt;power toggle switch&lt;/a&gt; on the motor housing&lt;/li&gt;
@@ -65,9 +70,9 @@
     </item>
     <item>
       <title>My Vintage 1947 Craftsman 113 Table Saw</title>
-      <link>https://joshuapsteele.com/vintage-craftsman-table-saw/</link>
+      <link>http://localhost:1313/vintage-craftsman-table-saw/</link>
       <pubDate>Thu, 20 Mar 2025 06:16:39 -0400</pubDate>
-      <guid>https://joshuapsteele.com/vintage-craftsman-table-saw/</guid>
+      <guid>http://localhost:1313/vintage-craftsman-table-saw/</guid>
       <description>&lt;p&gt;I finally got my first table saw! A 1947 Craftsman 113.22400 8-inch table saw, for $40 on Facebook Marketplace.&lt;/p&gt;
 &lt;h2 id=&#34;to-do-list&#34;&gt;To Do List&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m excited to start using it, but first I want to do the following:&lt;/p&gt;
@@ -120,9 +125,9 @@
     </item>
     <item>
       <title>Home Improvement Roadmap and Roadblocks</title>
-      <link>https://joshuapsteele.com/home-improvement-roadmap-and-roadblocks/</link>
+      <link>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</link>
       <pubDate>Sun, 14 Jul 2024 16:26:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/home-improvement-roadmap-and-roadblocks/</guid>
+      <guid>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</guid>
       <description>&lt;p&gt;We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.&lt;/p&gt;
 &lt;p&gt;Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:&lt;/p&gt;
 &lt;p&gt;– Replace roof and gutters&lt;br&gt;

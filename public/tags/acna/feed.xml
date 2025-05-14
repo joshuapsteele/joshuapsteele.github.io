@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Acna on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/acna/</link>
+    <link>http://localhost:1313/tags/acna/</link>
     <description>Recent content in Acna on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/acna/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/acna/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>I&#39;m Resigning from Ordained Ministry in the Anglican Church in North America</title>
-      <link>https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</link>
+      <link>http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</link>
       <pubDate>Wed, 08 Nov 2023 19:50:28 +0000</pubDate>
-      <guid>https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</guid>
+      <guid>http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/</guid>
       <description>&lt;p&gt;After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.&lt;/p&gt;
 &lt;p&gt;This also coincides with plans to move closer to family in NW Ohio (where there is not much of an ACNA presence to speak of) and to then pursue church involvement outside of the ACNA.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.</p>

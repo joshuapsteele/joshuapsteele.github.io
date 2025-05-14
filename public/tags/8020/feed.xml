@@ -2,17 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>8020 on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/8020/</link>
+    <link>http://localhost:1313/tags/8020/</link>
     <description>Recent content in 8020 on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
+    </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/8020/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/8020/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
-      <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
+      <link>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</guid>
+      <guid>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where in your life or your work are you currently pursuing comfort, when what&amp;rsquo;s called for is a little discomfort?&lt;/li&gt;
@@ -21,7 +26,7 @@
 &lt;li&gt;In which areas of life are you still holding back until you feel like you know what you&amp;rsquo;re doing?&lt;/li&gt;
 &lt;li&gt;How would you spend your days differently if you didn&amp;rsquo;t care so much about seeing your actions reach fruition?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Source: <a href="https://amzn.to/4fMUDyo"><em>Four Thousand Weeks: Time Management for Mortals</em></a> by Oliver Burkeman</p>
 <ol>
 <li>Where in your life or your work are you currently pursuing comfort, when what&rsquo;s called for is a little discomfort?</li>
@@ -35,9 +40,9 @@
     </item>
     <item>
       <title>Ten Tools for Embracing Finitude</title>
-      <link>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</link>
+      <link>http://localhost:1313/ten-tools-for-embracing-finitude/</link>
       <pubDate>Wed, 13 Nov 2024 16:40:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</guid>
+      <guid>http://localhost:1313/ten-tools-for-embracing-finitude/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Adopt a &amp;ldquo;fixed volume&amp;rdquo; approach to productivity
@@ -80,9 +85,9 @@
     </item>
     <item>
       <title>Damer’s “Code of Intellectual Conduct”</title>
-      <link>https://joshuapsteele.com/damers-code-of-intellectual-conduct/</link>
+      <link>http://localhost:1313/damers-code-of-intellectual-conduct/</link>
       <pubDate>Tue, 19 Nov 2019 15:26:29 +0000</pubDate>
-      <guid>https://joshuapsteele.com/damers-code-of-intellectual-conduct/</guid>
+      <guid>http://localhost:1313/damers-code-of-intellectual-conduct/</guid>
       <description>&lt;p&gt;This code of conduct very much relates to &lt;a href=&#34;https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/&#34;&gt;Rapoport’s Rules, Adler’s advice&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/&#34;&gt;Alan Jacobs’s “The Thinking Person’s Checklist.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SOURCE: T. Edward Damer, &lt;em&gt;Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments&lt;/em&gt;, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.&lt;/p&gt;
 &lt;h2 id=&#34;1-the-fallibility-principle&#34;&gt;1. The Fallibility Principle&lt;/h2&gt;
@@ -133,9 +138,9 @@
     </item>
     <item>
       <title>Alan Jacobs’s “The Thinking Person’s Checklist”</title>
-      <link>https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/</link>
+      <link>http://localhost:1313/alan-jacobss-the-thinking-persons-checklist/</link>
       <pubDate>Mon, 18 Nov 2019 15:03:16 +0000</pubDate>
-      <guid>https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/</guid>
+      <guid>http://localhost:1313/alan-jacobss-the-thinking-persons-checklist/</guid>
       <description>&lt;p&gt;The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, &lt;a href=&#34;https://amzn.to/33TtBRv&#34;&gt;&lt;em&gt;How to Think: A Survival Guide for a World at Odds&lt;/em&gt;&lt;/a&gt; (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, &lt;a href=&#34;https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/&#34;&gt;“Help me come up with ‘rules for conversation’!”&lt;/a&gt;).&lt;/p&gt;
 &lt;figure class=&#34;wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;550&#34; loading=&#34;lazy&#34; src=&#34;https://read.amazon.com/kp/card?preview=inline&amp;linkCode=ll1&amp;ref_=k4w_oembed_Eii2WAqN2ej4WE&amp;asin=0451499603&amp;tag=joshuapsteele-20&#34; style=&#34;max-width:100%&#34; title=&#34;How to Think: A Survival Guide for a World at Odds&#34; type=&#34;text/html&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;Emphasis added in **bold**.
 &lt;ol&gt;
@@ -172,9 +177,9 @@
     </item>
     <item>
       <title>Help me come up with “rules for conversation”!</title>
-      <link>https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/</link>
+      <link>http://localhost:1313/help-me-come-up-with-rules-for-conversation/</link>
       <pubDate>Sun, 17 Nov 2019 20:26:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/</guid>
+      <guid>http://localhost:1313/help-me-come-up-with-rules-for-conversation/</guid>
       <description>&lt;p&gt;In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”&lt;/p&gt;
 &lt;p&gt;We describe the tone that we’re after as “clarity and charity,” which is an excellent summary. However, to guide our blogposts and comments, I think we need something more detailed and concrete.&lt;/p&gt;
 &lt;p&gt;With that in mind, “Rapoport’s Rules” and “Adler’s Advice” seem like excellent starting points.&lt;/p&gt;
@@ -343,9 +348,9 @@
     </item>
     <item>
       <title>Use Rapoport&#39;s Rules for Better Conversations and Disagreements</title>
-      <link>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
+      <link>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
       <pubDate>Sat, 23 Feb 2019 17:06:02 +0000</pubDate>
-      <guid>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
+      <guid>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
       <description>&lt;p&gt;I’m reading Walter Sinnott-Armstrong’s excellent book, &lt;a href=&#34;https://amzn.to/2BNTlTq&#34;&gt;&lt;em&gt;Think Again: How to Reason and Argue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In it (on pages 25–26), I came across &lt;a href=&#34;https://rationalwiki.org/wiki/Rapoport%27s_Rules&#34;&gt;“Rapoport’s Rules.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (&lt;a href=&#34;https://amzn.to/2NmrH4m&#34;&gt;&lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/a&gt;, 31–35), here they are:&lt;/p&gt;
