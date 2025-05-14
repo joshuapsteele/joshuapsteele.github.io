@@ -16,7 +16,7 @@ params:
   mainSections:
   - blog
   disableThemeToggle: false
-  showShareButtons: true
+  showShareButtons: false
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
@@ -25,7 +25,7 @@ params:
   showFullTextInRSS: true
   showFullTestInJSONFeed: true
   showAllPagesInArchive: true
-  comments: true
+  comments: false
   hideFooter: false
   assets:
     favicon: /favicon.ico
@@ -137,6 +137,6 @@ menu:
     - name: Search
       url: /search?
       weight: 6
-services:
-  disqus:
-    shortname: joshuapsteele
+# services:
+#   disqus:
+#     shortname: joshuapsteele
