@@ -62,10 +62,10 @@
     <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
       📧 Reply via email
     </a>
-    <a href="https://bsky.app/profile/joshuapsteele.bsky.social/post?text=Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+    <a href="https://bsky.app/intent/compose?text={{ printf "@joshuapsteele.bsky.social Re: %s %s" .Title .Permalink | urlquery }}" class="reply-button">
       🦋 Reply via Bluesky
     </a>
-    <a href="https://social.joshuapsteele.com/new?text=Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+    <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
       🌐 Reply via Micro.blog
     </a>
   </div>
