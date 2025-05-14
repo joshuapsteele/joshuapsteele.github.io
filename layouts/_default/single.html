@@ -50,6 +50,8 @@
       <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
       {{- end }}
     </ul>
+
+    </div>
     {{- if (.Param "ShowPostNavLinks") }}
     {{- partial "post_nav_links.html" . }}
     {{- end }}
@@ -58,16 +60,21 @@
     {{- end }}
   </footer>
 
-  <div class="post-reply-buttons">
-    <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
-      📧 Reply via email
-    </a>
-    <a href="https://bsky.app/intent/compose?text={{ printf "@joshuapsteele.bsky.social Re: %s %s" .Title .Permalink | urlquery }}" class="reply-button">
-      🦋 Reply via Bluesky
-    </a>
-    <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
-      🌐 Reply via Micro.blog
-    </a>
+  <div class="lets-talk-section">
+    <hr>
+    <h2>Let's Talk</h2>
+    <div class="post-reply-buttons">
+      <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
+        📧 Reply via email
+      </a>
+      <a href="https://bsky.app/intent/compose?text={{ printf "@joshuapsteele.bsky.social Re: %s %s" .Title .Permalink | urlquery }}" class="reply-button">
+        🦋 Reply via Bluesky
+      </a>
+      <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+        🌐 Reply via Micro.blog
+      </a>
+    </div>
+    <hr>
   </div>
 
   {{- if (.Param "comments") }}

@@ -2,6 +2,22 @@ body:not(.dark) #home-logo {
     filter: invert(1);
 }
 
+/* Let's Talk section styles */
+.lets-talk-section {
+    margin: 4em 0;
+    text-align: center;
+}
+
+.lets-talk-section h2 {
+    margin: 1.5em 0;
+}
+
+.lets-talk-section hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 2em 0;
+}
+
 /* Reply buttons styles */
 .post-reply-buttons {
     text-align: center;
