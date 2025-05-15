@@ -11,6 +11,23 @@ Last Updated: 2025-05-14
 
 ---
 
+## Habits of Good Citizens
+
+(From *[The Bill of Obligations: Ten Habits of Good Citizens](https://amzn.to/43yK0Mo)* by Richard Haass)
+
+1. **Be Informed:** Citizens should actively seek accurate, diverse, and reliable information to make thoughtful decisions, especially in an era of disinformation. (See my [Information Sources](/lists#information-sources) list below.)
+2. **Get Involved:** Participation in civic life—voting, community service, and public discourse—is essential to a functioning democracy.
+3. **Stay Open to Compromise:** Democracy requires negotiation and finding common ground, even when it means not getting everything one wants.
+4. **Remain Civil:** Engaging respectfully with others, including those with differing views, helps maintain a healthy public sphere.
+5. **Reject Violence:** Violence undermines democratic processes and must be unequivocally condemned as a means of political expression.
+6. **Value Norms:** Beyond laws, unwritten norms—like respecting election outcomes and institutional integrity—are vital to democracy.
+7. **Promote the Common Good:** Citizens should prioritize the well-being of the community and nation over narrow self-interests.
+8. **Respect Government Service:** Recognizing and valuing the role of public servants fosters trust and encourages effective governance.
+9. **Support the Teaching of Civics:** Educating current and future generations about democratic principles and responsibilities is crucial.
+10. **Put Country First:** Loyalty to democratic ideals and the nation should take precedence over partisan or personal loyalties.
+
+---
+
 ## Information Sources
 
 ### News
