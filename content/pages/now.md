@@ -11,11 +11,10 @@ These days, I'm:
 - Living in Toledo, OH (my hometown!)
 - Raising 3 young kids (6yo, 4yo, 2yo) with my wife
 - Enjoying my work as a software engineer
-- Trying to lose weight (current weight: 225lbs; goal: 200lbs)
+- Trying to lose weight (current weight: 220lbs; goal: 200lbs)
 - Working on home repair projects
-- Rehabilitating a [vintage 1940s Craftsman table saw](/vintage-craftsman-table-saw/)
 - Buying too many books and tools
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
 
-Last updated: 2025-03-27
+Last updated: 2025-05-19
