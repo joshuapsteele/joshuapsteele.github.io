@@ -39,31 +39,32 @@ What I want:
 
 ## Home
 
+- New roof
+- New furnace
+- New central AC
 - To own a house with
   - ✅ central AC,
   - ✅ dry basement,
   - ✅ home office,
   - ✅ workshop (garage), and
   - ✅ home gym (also garage)
-- New roof
-- New furnace
-- New central AC
-- Tool shed
+- ✅ Tool shed
 
 ## Tools
 
+- Router
+- Planer
+- Jointer
+- Belt sander
+- Slip-on work boots (Skechers)
 - ✅ Extension ladder
 - ✅ Come-along winch
 - ✅ Chain (to use with come-along)
 - ✅ Hi-lift jack
 - ✅ Bottle jack
-- Table saw
-- Planer
-- Router
-- Jointer
-- Belt sander
+- ✅ Table saw
 - ✅ Wheelbarrow
-- Post hole digger
+- ✅ Post hole digger
 - ✅ Chalk line
 - ✅ Calipers
 - ✅ Workbench
@@ -80,8 +81,9 @@ What I want:
 ## Hobbies, Tech, etc.
 
 - New MacBook Pro (Current: 2016)
-- New iPhone (Current: iPhone XR)
+- 3D printer
 - Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
+- ✅ New iPhone (iPhone XR -> iPhone 16e)
 
 ## Books
 
@@ -89,4 +91,4 @@ What I want:
 
 * * *
 
-Last updated 2025-02-04
+Last updated 2025-06-02
