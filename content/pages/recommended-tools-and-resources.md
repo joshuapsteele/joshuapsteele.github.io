@@ -54,7 +54,7 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 ## Software Development
 
-- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
+- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [VS Code](https://code.visualstudio.com), and [Windsurf](https://windsurf.com/)
 - [_The Pragmatic Programmer: Your Journey to Mastery_](https://amzn.to/3FZSYXO), by David Thomas and Andrew Hunt
 - [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF), by Steve McConnell
 - Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
