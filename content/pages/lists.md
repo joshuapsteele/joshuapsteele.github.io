@@ -7,9 +7,31 @@ showtoc: true
 
 This is a `/lists` page, where I keep track of the lists I'm working on!
 
-Last Updated: 2025-05-14
+Last Updated: 2025-06-05
 
 ---
+
+## My Interests
+
+- Books
+- Tools
+- Home repair
+- Auto repair
+- DIY projects
+- Writing instruments (pens, pencils, etc.)
+- Stationery (notebooks, paper, etc.)
+- Language learning
+- Travel
+- Relaxing television shows (This Old House, Great British Bake Off, etc.)
+
+## Things I'm Not That Interested In
+
+- Crypto
+- Culture wars
+- Right-wing propaganda
+- USA Evangelicalism
+- Guest posts on my blog
+- Golf
 
 ## Habits of Good Citizens
 
