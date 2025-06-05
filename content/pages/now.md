@@ -8,7 +8,6 @@ url: /now/
 
 These days, I'm:
 
-- Living in Toledo, OH (my hometown!)
 - Raising 3 young kids (6yo, 4yo, 2yo) with my wife
 - Enjoying my work as a software engineer
 - Trying to lose weight (current weight: 220lbs; goal: 200lbs)
