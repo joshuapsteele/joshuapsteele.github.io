@@ -58,7 +58,7 @@ params:
     enabled: true
     title: "The Rev. Dev. Joshua P. Steele"
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
-    imageUrl: "/images/headshot.png" # optional
+    imageUrl: "/images/headshot.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
