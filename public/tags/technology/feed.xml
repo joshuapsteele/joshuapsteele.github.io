@@ -1,27 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Technology on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/technology/</link>
-    <description>Recent content in Technology on Joshua P. Steele</description>
-    <image>
-      <title>Joshua P. Steele</title>
-      <url>http://localhost:1313/images/default-social.png</url>
-      <link>http://localhost:1313/images/default-social.png</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/technology/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title>
-      <link>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
-      <pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate>
-      <guid>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p&gt;
-&lt;p&gt;This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Technology on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/technology/</link><description>Recent content in Technology on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/technology/feed.xml" rel="self" type="application/rss+xml"/><item><title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title><link>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link><pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate><guid>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p>
+&lt;p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p></description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.</p>
 <p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.</p>
 <p>In this guide, I’ll demystify the most common types of online scams and equip you with practical knowledge to stay safe. Regardless of whether you’re a digital native or just someone who occasionally checks emails or shops online, this guide will offer valuable insights to help protect you and your loved ones.</p>
@@ -81,18 +60,10 @@
 </ul>
 <p>Being scammed can feel violating and disheartening. It’s important to remember that if you are scammed, it’s not your fault. The individuals perpetrating these scams are the ones to blame. If you’ve been scammed, don’t hesitate to report it and take steps to protect yourself from further harm.</p>
 <p>By spreading awareness and sharing information about online scams, we can all contribute to making the internet a safer place. Feel free to share this post with anyone who might benefit from it. Stay safe out there!</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title>
-      <link>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
-      <pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate>
-      <guid>http://localhost:1313/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
-      <description>&lt;p&gt;I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p&gt;
-&lt;h2 id=&#34;how-did-you-become-interested-in-software-engineering&#34;&gt;How did you become interested in software engineering?&lt;/h2&gt;
-&lt;p&gt;I wrote a bit about &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;my coding bootcamp journey&lt;/a&gt; in a previous post.&lt;/p&gt;
-&lt;p&gt;Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)</p>
+]]></content:encoded></item><item><title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title><link>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link><pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate><guid>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid><description>&lt;p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p>
+&lt;h2 id="how-did-you-become-interested-in-software-engineering">How did you become interested in software engineering?&lt;/h2>
+&lt;p>I wrote a bit about &lt;a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">my coding bootcamp journey&lt;/a> in a previous post.&lt;/p>
+&lt;p>Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p></description><content:encoded><![CDATA[<p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)</p>
 <h2 id="how-did-you-become-interested-in-software-engineering">How did you become interested in software engineering?</h2>
 <p>I wrote a bit about <a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">my coding bootcamp journey</a> in a previous post.</p>
 <p>Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.</p>
@@ -162,7 +133,4 @@
 </ul>
 <hr>
 <p>I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the <a href="https://joshuapsteele.com/contact/">contact form on my website</a>.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

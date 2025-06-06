@@ -1,25 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Security on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/security/</link>
-    <description>Recent content in Security on Joshua P. Steele</description>
-    <image>
-      <title>Joshua P. Steele</title>
-      <url>http://localhost:1313/images/default-social.png</url>
-      <link>http://localhost:1313/images/default-social.png</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/security/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title>
-      <link>http://localhost:1313/real-world-openfga-authorization-lessons/</link>
-      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/real-world-openfga-authorization-lessons/</guid>
-      <description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description>
-      <content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Security on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/security/</link><description>Recent content in Security on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/security/feed.xml" rel="self" type="application/rss+xml"/><item><title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title><link>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</guid><description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description><content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
 <p>If so, I’d love to learn from your experience.</p>
 <h2 id="my-interest">My Interest</h2>
 <p>I’m currently working on a centralized authorization system prototype based on OpenFGA. The design is aiming to support fine-grained, relationship-based access control (ReBAC) for multiple business units—each with its own data domain, developer team, and authorization needs.</p>
@@ -50,17 +29,9 @@
 <p>Feel free to drop a comment below, or <a href="/contact/">contact me</a>.</p>
 <p>Thanks in advance!</p>
 <p>– Josh</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title>
-      <link>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
-      <pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate>
-      <guid>http://localhost:1313/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p&gt;
-&lt;p&gt;This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+]]></content:encoded></item><item><title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title><link>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link><pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate><guid>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
+&lt;p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p>
+&lt;p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p></description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.</p>
 <p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.</p>
 <p>In this guide, I’ll demystify the most common types of online scams and equip you with practical knowledge to stay safe. Regardless of whether you’re a digital native or just someone who occasionally checks emails or shops online, this guide will offer valuable insights to help protect you and your loved ones.</p>
@@ -120,7 +91,4 @@
 </ul>
 <p>Being scammed can feel violating and disheartening. It’s important to remember that if you are scammed, it’s not your fault. The individuals perpetrating these scams are the ones to blame. If you’ve been scammed, don’t hesitate to report it and take steps to protect yourself from further harm.</p>
 <p>By spreading awareness and sharing information about online scams, we can all contribute to making the internet a safer place. Feel free to share this post with anyone who might benefit from it. Stay safe out there!</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

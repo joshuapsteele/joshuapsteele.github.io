@@ -1,27 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Mental Health on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/mental-health/</link>
-    <description>Recent content in Mental Health on Joshua P. Steele</description>
-    <image>
-      <title>Joshua P. Steele</title>
-      <url>http://localhost:1313/images/default-social.png</url>
-      <link>http://localhost:1313/images/default-social.png</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mental-health/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>It&#39;s Time to Get Some Help</title>
-      <link>http://localhost:1313/its-time-to-get-some-help/</link>
-      <pubDate>Wed, 02 Sep 2020 17:19:39 +0000</pubDate>
-      <guid>http://localhost:1313/its-time-to-get-some-help/</guid>
-      <description>&lt;p&gt;Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.&lt;/p&gt;
-&lt;p&gt;Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and &lt;em&gt;trapped&lt;/em&gt; often enough that I decided it was time to seek out help.&lt;/p&gt;
-&lt;p&gt;I know, I know. That’s pretty personal for a blog post for the whole internet to read!&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mental Health on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/mental-health/</link><description>Recent content in Mental Health on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/mental-health/feed.xml" rel="self" type="application/rss+xml"/><item><title>It's Time to Get Some Help</title><link>https://joshuapsteele.com/its-time-to-get-some-help/</link><pubDate>Wed, 02 Sep 2020 17:19:39 +0000</pubDate><guid>https://joshuapsteele.com/its-time-to-get-some-help/</guid><description>&lt;p>Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.&lt;/p>
+&lt;p>Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and &lt;em>trapped&lt;/em> often enough that I decided it was time to seek out help.&lt;/p>
+&lt;p>I know, I know. That’s pretty personal for a blog post for the whole internet to read!&lt;/p></description><content:encoded><![CDATA[<p>Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.</p>
 <p>Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and <em>trapped</em> often enough that I decided it was time to seek out help.</p>
 <p>I know, I know. That’s pretty personal for a blog post for the whole internet to read!</p>
 <p>However, as I see it, I’m writing it out here for two reasons:</p>
@@ -30,7 +9,4 @@
 <li><strong>In case anyone else out there</strong>, currently experiencing symptoms of depression, anxiety, etc., <strong>needs a nudge to seek out help sooner rather than later</strong>.</li>
 </ol>
 <p>If #2 above refers to you, please know that you’re not alone! Please don’t let pride or anything else get in the way of receiving the help that you need.</p>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>

@@ -1,4 +1,4 @@
-{{- /* Extend head for custom social sharing metadata */ -}}
+{{- /* Extend head for custom social sharing metadata and performance */ -}}
 {{- $defaultImage := "/images/default-social.png" -}}
 {{- $siteTitle := site.Title -}}
 {{- $title := printf "%s | %s" .Title $siteTitle -}}
@@ -6,6 +6,20 @@
 {{- $desc := .Description | default .Summary | default site.Params.description -}}
 {{- $ogImage := .Params.cover.image | default .Params.image | default $defaultImage -}}
 {{- $ogImageAlt := .Params.cover.alt | default .Params.image_alt | default $siteTitle -}}
+
+{{- /* Performance: Asset bundling and fingerprinting */ -}}
+{{- $customCSS := resources.Get "css/extended/custom.css" -}}
+{{- if $customCSS -}}
+  {{- $customCSS = $customCSS | resources.Minify | resources.Fingerprint -}}
+  <link rel="stylesheet" href="{{ $customCSS.Permalink }}" integrity="{{ $customCSS.Data.Integrity }}">
+{{- end -}}
+
+{{- /* Performance: Preload critical resources */ -}}
+<link rel="preload" href="{{ $defaultImage | absURL }}" as="image">
+
+{{- /* Performance: DNS prefetch for external resources */ -}}
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//cdn.jsdelivr.net">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">

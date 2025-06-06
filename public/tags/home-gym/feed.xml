@@ -1,27 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Home Gym on Joshua P. Steele</title>
-    <link>http://localhost:1313/tags/home-gym/</link>
-    <description>Recent content in Home Gym on Joshua P. Steele</description>
-    <image>
-      <title>Joshua P. Steele</title>
-      <url>http://localhost:1313/images/default-social.png</url>
-      <link>http://localhost:1313/images/default-social.png</link>
-    </image>
-    <generator>Hugo -- 0.147.3</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/home-gym/feed.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Home Gym Upgrades</title>
-      <link>http://localhost:1313/home-gym-upgrades/</link>
-      <pubDate>Mon, 11 Mar 2024 21:15:17 +0000</pubDate>
-      <guid>http://localhost:1313/home-gym-upgrades/</guid>
-      <description>&lt;p&gt;I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.&lt;/p&gt;
-&lt;p&gt;When we lived in a basement apartment, space was very limited, but I was able to fit a &lt;a href=&#34;https://valorfitness.com/products/bd-9-independent-power-squat-stands&#34;&gt;Valor Fitness BD-9 squat rack/stands&lt;/a&gt; and an &lt;a href=&#34;https://amzn.to/3Tawich&#34;&gt;Amazon Basics flat bench&lt;/a&gt; in, along with a &lt;a href=&#34;https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb&#34;&gt;300-lb Olympic barbell and weight set&lt;/a&gt; from Dicks Sporting Goods.&lt;/p&gt;
-&lt;p&gt;(If you’re similarly pressed for space, I highly recommend those items above!)&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Home Gym on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/home-gym/</link><description>Recent content in Home Gym on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/home-gym/feed.xml" rel="self" type="application/rss+xml"/><item><title>Home Gym Upgrades</title><link>https://joshuapsteele.com/home-gym-upgrades/</link><pubDate>Mon, 11 Mar 2024 21:15:17 +0000</pubDate><guid>https://joshuapsteele.com/home-gym-upgrades/</guid><description>&lt;p>I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.&lt;/p>
+&lt;p>When we lived in a basement apartment, space was very limited, but I was able to fit a &lt;a href="https://valorfitness.com/products/bd-9-independent-power-squat-stands">Valor Fitness BD-9 squat rack/stands&lt;/a> and an &lt;a href="https://amzn.to/3Tawich">Amazon Basics flat bench&lt;/a> in, along with a &lt;a href="https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb">300-lb Olympic barbell and weight set&lt;/a> from Dicks Sporting Goods.&lt;/p>
+&lt;p>(If you’re similarly pressed for space, I highly recommend those items above!)&lt;/p></description><content:encoded><![CDATA[<p>I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.</p>
 <p>When we lived in a basement apartment, space was very limited, but I was able to fit a <a href="https://valorfitness.com/products/bd-9-independent-power-squat-stands">Valor Fitness BD-9 squat rack/stands</a> and an <a href="https://amzn.to/3Tawich">Amazon Basics flat bench</a> in, along with a <a href="https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb">300-lb Olympic barbell and weight set</a> from Dicks Sporting Goods.</p>
 <p>(If you’re similarly pressed for space, I highly recommend those items above!)</p>
 <p>We took all this stuff with us when we moved to renting a 100-year old house in Pittsburgh. There was enough space in the basement, but we referred to it as the “murder basement” because it way so creepy, damp, moldy, and dark down there.</p>
@@ -37,7 +16,4 @@
 <li>Putting together a deadlifting platform/surface (probably with these <a href="https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat">horse stall mats from Tractor Supply Co.</a>)</li>
 <li>Getting a nicer barbell (I’ve got my eyes on <a href="https://repfitness.com/products/colorado-bar-20kg">Rep Fitness’s Colorado bar</a>)</li>
 </ul>
-]]></content:encoded>
-    </item>
-  </channel>
-</rss>
+]]></content:encoded></item></channel></rss>
