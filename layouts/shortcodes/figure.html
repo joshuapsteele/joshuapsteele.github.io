@@ -1,4 +1,41 @@
-<figure>
-    <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" />
+{{- $src := .Get "src" -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+{{- $loading := .Get "loading" | default "lazy" -}}
+{{- $width := .Get "width" | default "" -}}
+{{- $height := .Get "height" | default "" -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+    {{- if strings.HasPrefix $src "/" -}}
+        {{- $image := resources.Get (strings.TrimPrefix "/" $src) -}}
+        {{- if $image -}}
+            {{- $webp := $image.Resize "600x webp" -}}
+            {{- $fallback := $image.Resize "600x jpg" -}}
+            <picture>
+                <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+                <img src="{{ $fallback.RelPermalink }}" 
+                     alt="{{ $alt }}"
+                     loading="{{ $loading }}"
+                     {{- with $width }} width="{{ . }}"{{ end }}
+                     {{- with $height }} height="{{ . }}"{{ end }}>
+            </picture>
+        {{- else -}}
+            <img src="{{ $src }}" 
+                 alt="{{ $alt }}"
+                 loading="{{ $loading }}"
+                 {{- with $width }} width="{{ . }}"{{ end }}
+                 {{- with $height }} height="{{ . }}"{{ end }}>
+        {{- end -}}
+    {{- else -}}
+        <img src="{{ $src }}" 
+             alt="{{ $alt }}"
+             loading="{{ $loading }}"
+             {{- with $width }} width="{{ . }}"{{ end }}
+             {{- with $height }} height="{{ . }}"{{ end }}>
+    {{- end -}}
+    {{- with $caption -}}
+        <figcaption>{{ . | markdownify }}</figcaption>
+    {{- end -}}
 </figure>
   

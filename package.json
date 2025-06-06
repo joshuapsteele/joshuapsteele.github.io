@@ -4,7 +4,17 @@
   "private": true,
   "description": "Joshua P. Steele's personal website",
   "scripts": {
+    "dev": "hugo server --buildDrafts --buildFuture",
+    "build": "hugo --gc --minify --cleanDestinationDir",
+    "build:fast": "hugo --gc",
+    "build:stats": "hugo --gc --minify --templateMetrics --templateMetricsHints",
+    "deploy": "./deploy.sh",
+    "clean": "rm -rf public resources",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "dependencies": {}
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
 }

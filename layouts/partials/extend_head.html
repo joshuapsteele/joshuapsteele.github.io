@@ -17,9 +17,11 @@
 {{- /* Performance: Preload critical resources */ -}}
 <link rel="preload" href="{{ $defaultImage | absURL }}" as="image">
 
-{{- /* Performance: DNS prefetch for external resources */ -}}
-<link rel="dns-prefetch" href="//fonts.googleapis.com">
+{{- /* Performance: Preconnect and DNS prefetch for external resources */ -}}
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
+<link rel="dns-prefetch" href="//github.com">
 
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">

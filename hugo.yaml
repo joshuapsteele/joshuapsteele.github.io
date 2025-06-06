@@ -58,7 +58,7 @@ params:
     enabled: true
     title: "The Rev. Dev. Joshua P. Steele"
     subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
-    imageUrl: "/images/default-social.png" # optional
+    imageUrl: "/images/headshot.png" # optional
     imageTitle: "Joshua P. Steele" # optional
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
@@ -167,7 +167,9 @@ minify:
 # Build performance
 build:
   writeStats: true
+  buildStats: true
   noJSConfigInAssets: false
+  useResourceCacheWhen: "fallback"
 
 # Caching configuration
 caches:
@@ -185,8 +187,13 @@ caches:
 # Asset processing
 imaging:
   resampleFilter: "CatmullRom"
-  quality: 85
+  quality: 75
   anchor: "smart"
+  formats: [webp, jpg]
+  processing:
+    fill: "600x400"
+    fit: "600x400"
+    resize: "600x"
 
 # services:
 #   disqus:
