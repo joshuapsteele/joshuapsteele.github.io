@@ -77,6 +77,8 @@ params:
         url: "/now/"
       - name: Questions 🤨
         url: "/questions/"
+      - name: Resist ✊
+        url: "/resist/"
       - name: Resources 🧰
         url: "/resources/"
       - name: Search 🔎
