@@ -12,6 +12,8 @@ url: /198-ways-to-fight-tyranny/
 
 The following 198 methods of nonviolent action are taken from Gene Sharp's [*The Politics of Nonviolent Action*](https://amzn.to/4kXevBx).
 
+(For more information and resources along these lines, make sure to visit [my /resist page](/resist).)
+
 ---
 
 ## The Methods of Nonviolent Protest and Persuasion

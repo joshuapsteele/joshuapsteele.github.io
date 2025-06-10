@@ -14,6 +14,8 @@ The following 20 "lessons" are taken from Timothy Snyder's [*On Tyranny: Twenty 
 
 Here's a video of John Lithgow reading the 20 lessons: https://www.youtube.com/watch?v=cXR5HLodsT8.
 
+(For more information and resources along these lines, make sure to visit [my /resist page](/resist).)
+
 ---
 
 ## 1. Do not obey in advance
