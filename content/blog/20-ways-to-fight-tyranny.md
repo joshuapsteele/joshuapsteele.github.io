@@ -6,7 +6,7 @@ author: joshuapsteele
 tags: [tyranny, authoritarianism]
 categories: [Politics]
 showToc: true
-TocOpen: false
+TocOpen: true
 url: /20-ways-to-fight-tyranny/
 ---
 
