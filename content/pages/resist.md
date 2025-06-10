@@ -415,10 +415,7 @@ The following 198 methods of nonviolent action are taken from Gene Sharp's [*The
 #### Psychological Intervention
 
 158. Self-exposure to the elements
-159. The fast
-a) Fast of moral pressure
-b) Hunger strike
-c) Satyagrahic fast
+159. The fast: a) Fast of moral pressure, b) Hunger strike, c) Satyagrahic fast
 160. Reverse trial
 161. Nonviolent harassment
 
