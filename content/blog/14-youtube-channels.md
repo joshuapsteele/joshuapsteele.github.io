@@ -4,7 +4,8 @@ date: 2025-05-15T17:11:46-04:00
 draft: false
 author: joshuapsteele
 tags: [youtube]
-categories: [lists]
+categories: [Lists]
+url: /14-youtube-channels/
 ---
 
 Here are 14 YouTube channels that I really enjoy. Do you have any other YouTube channels you think I might enjoy?

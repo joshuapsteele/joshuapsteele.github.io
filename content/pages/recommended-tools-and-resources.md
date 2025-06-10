@@ -57,13 +57,13 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [VS Code](https://code.visualstudio.com), and [Windsurf](https://windsurf.com/)
 - [_The Pragmatic Programmer: Your Journey to Mastery_](https://amzn.to/3FZSYXO), by David Thomas and Andrew Hunt
 - [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF), by Steve McConnell
-- Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
-- O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
-- roadmap.sh: [https://roadmap.sh/](https://roadmap.sh/)
-- cheat.sh: [https://cheat.sh/](https://cheat.sh/)
-- DevHints.io: [https://devhints.io/](https://devhints.io/)
-- Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
-- Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
+- Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
+- O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
+- roadmap.sh: [https://roadmap.sh/](https://roadmap.sh/)
+- cheat.sh: [https://cheat.sh/](https://cheat.sh/)
+- DevHints.io: [https://devhints.io/](https://devhints.io/)
+- Learn X in Y minutes: [https://learnxinyminutes.com/](https://learnxinyminutes.com/)
+- Baeldung (for Java/Spring): [https://www.baeldung.com/](https://www.baeldung.com/)
 
 ## Home
 
