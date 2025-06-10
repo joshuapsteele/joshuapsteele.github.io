@@ -6,6 +6,13 @@ showtoc: true
 TocOpen: true
 ---
 
+## Online Resources
+
+- [5Calls](https://5calls.org/): Contact your elected officials
+- [Beautiful Trouble Toolbox](https://beautifultrouble.org/)
+- [International Center on Nonviolent Conflict Resource Library](https://www.nonviolent-conflict.org/resource-library/), specifically [these handouts and planning tools](https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&fwp_format=handouts-and-planning-tools)
+- [Protest Resilience Toolkit](https://prt.civicus.org/)
+
 ## 20 Ways to Fight Tyranny
 
 The following 20 "lessons" are taken from Timothy Snyder's [*On Tyranny: Twenty Lessons from the Twentieth Century*](https://amzn.to/3SFZkke).
