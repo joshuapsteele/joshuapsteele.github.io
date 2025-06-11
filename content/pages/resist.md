@@ -12,6 +12,7 @@ TocOpen: true
 - [Beautiful Trouble Toolbox](https://beautifultrouble.org/)
 - [International Center on Nonviolent Conflict Resource Library](https://www.nonviolent-conflict.org/resource-library/), specifically [these handouts and planning tools](https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&fwp_format=handouts-and-planning-tools)
 - [Protest Resilience Toolkit](https://prt.civicus.org/)
+- ["How to Protest Safely: What to Bring, What to Do, and What to Avoid" (Wired)](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
 
 ## 20 Ways to Fight Tyranny
 
