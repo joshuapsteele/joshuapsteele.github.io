@@ -1,27 +1,48 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Technology on Joshua P. Steele</title><link>https://joshuapsteele.com/categories/technology/</link><description>Recent content in Technology on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Fri, 18 Apr 2025 09:26:24 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/categories/technology/feed.xml" rel="self" type="application/rss+xml"/><item><title>Devs: How Does Your Personal Laptop Compare to Your Work Laptop?</title><link>https://joshuapsteele.com/personal-vs-work-laptop/</link><pubDate>Wed, 09 Apr 2025 08:49:29 -0400</pubDate><guid>https://joshuapsteele.com/personal-vs-work-laptop/</guid><description>&lt;p>How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?&lt;/p>
-&lt;p>Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since &lt;a href="https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/">costs might go up soon for electronics, due to tariffs&lt;/a>).&lt;/p>
-&lt;p>For work, I&amp;rsquo;ve got a 2019 MacBook Pro. More details below:&lt;/p>
-&lt;ul>
-&lt;li>Personal machine: 2016 MacBook Pro 
-&lt;ul>
-&lt;li>13-inch &lt;/li>
-&lt;li>2 Thunderbolt ports&lt;/li>
-&lt;li>2 GHz Dual-Core Intel Core i5 processor&lt;/li>
-&lt;li>16 GB memory&lt;/li>
-&lt;li>250 GB storage&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Work machine: 2019 MacBook Pro
-&lt;ul>
-&lt;li>16-inch&lt;/li>
-&lt;li>4 Thunderbolt ports&lt;/li>
-&lt;li>2.6 GHz 6-Core Intel Core i7 processor&lt;/li>
-&lt;li>32 GB memory&lt;/li>
-&lt;li>500 GB storage&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>Essentially, I&amp;rsquo;m thinking of a MacBook Air or MacBook Pro. Not quite sure which specs to go with. I don&amp;rsquo;t need crazy capabilities at this time for personal hacking/development, but I&amp;rsquo;d like to be able to build and run stuff locally using stuff like LangGraph to build AI tools.&lt;/p></description><content:encoded><![CDATA[<p>How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Technology on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/categories/technology/</link>
+    <description>Recent content in Technology on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2025 09:26:24 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/categories/technology/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devs: How Does Your Personal Laptop Compare to Your Work Laptop?</title>
+      <link>https://joshuapsteele.com/personal-vs-work-laptop/</link>
+      <pubDate>Wed, 09 Apr 2025 08:49:29 -0400</pubDate>
+      <guid>https://joshuapsteele.com/personal-vs-work-laptop/</guid>
+      <description>&lt;p&gt;How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?&lt;/p&gt;
+&lt;p&gt;Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since &lt;a href=&#34;https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/&#34;&gt;costs might go up soon for electronics, due to tariffs&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;For work, I&amp;rsquo;ve got a 2019 MacBook Pro. More details below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal machine: 2016 MacBook Pro 
+&lt;ul&gt;
+&lt;li&gt;13-inch &lt;/li&gt;
+&lt;li&gt;2 Thunderbolt ports&lt;/li&gt;
+&lt;li&gt;2 GHz Dual-Core Intel Core i5 processor&lt;/li&gt;
+&lt;li&gt;16 GB memory&lt;/li&gt;
+&lt;li&gt;250 GB storage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Work machine: 2019 MacBook Pro
+&lt;ul&gt;
+&lt;li&gt;16-inch&lt;/li&gt;
+&lt;li&gt;4 Thunderbolt ports&lt;/li&gt;
+&lt;li&gt;2.6 GHz 6-Core Intel Core i7 processor&lt;/li&gt;
+&lt;li&gt;32 GB memory&lt;/li&gt;
+&lt;li&gt;500 GB storage&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Essentially, I&amp;rsquo;m thinking of a MacBook Air or MacBook Pro. Not quite sure which specs to go with. I don&amp;rsquo;t need crazy capabilities at this time for personal hacking/development, but I&amp;rsquo;d like to be able to build and run stuff locally using stuff like LangGraph to build AI tools.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?</p>
 <p>Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since <a href="https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/">costs might go up soon for electronics, due to tariffs</a>).</p>
 <p>For work, I&rsquo;ve got a 2019 MacBook Pro. More details below:</p>
 <ul>
@@ -45,8 +66,16 @@
 </li>
 </ul>
 <p>Essentially, I&rsquo;m thinking of a MacBook Air or MacBook Pro. Not quite sure which specs to go with. I don&rsquo;t need crazy capabilities at this time for personal hacking/development, but I&rsquo;d like to be able to build and run stuff locally using stuff like LangGraph to build AI tools.</p>
-]]></content:encoded></item><item><title>Anyone Can Use AI Tools: Here's How</title><link>https://joshuapsteele.com/anyone-can-use-ai-tools-heres-how/</link><pubDate>Thu, 24 Aug 2023 19:39:18 +0000</pubDate><guid>https://joshuapsteele.com/anyone-can-use-ai-tools-heres-how/</guid><description>&lt;p>Are you drowning in tasks, yearning for more hours in a day, or simply itching to supercharge your creativity? What if I told you that a digital sidekick exists—one that’s awake 24/7, tailored to boost your efficiency and spark ingenuity? No, this isn’t science fiction; it’s the transformative power of AI tools at your fingertips.&lt;/p>
-&lt;p>Think AI is only for tech gurus and coding aficionados? Think again. AI is breaking down the ivory tower, becoming an invaluable asset for everyone from marketers and writers to busy parents. If you’re intrigued by the idea of harnessing AI to make your life more productive, more balanced, and yes, even more fun, then you’re in for a treat.&lt;/p></description><content:encoded><![CDATA[<p>Are you drowning in tasks, yearning for more hours in a day, or simply itching to supercharge your creativity? What if I told you that a digital sidekick exists—one that’s awake 24/7, tailored to boost your efficiency and spark ingenuity? No, this isn’t science fiction; it’s the transformative power of AI tools at your fingertips.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Anyone Can Use AI Tools: Here&#39;s How</title>
+      <link>https://joshuapsteele.com/anyone-can-use-ai-tools-heres-how/</link>
+      <pubDate>Thu, 24 Aug 2023 19:39:18 +0000</pubDate>
+      <guid>https://joshuapsteele.com/anyone-can-use-ai-tools-heres-how/</guid>
+      <description>&lt;p&gt;Are you drowning in tasks, yearning for more hours in a day, or simply itching to supercharge your creativity? What if I told you that a digital sidekick exists—one that’s awake 24/7, tailored to boost your efficiency and spark ingenuity? No, this isn’t science fiction; it’s the transformative power of AI tools at your fingertips.&lt;/p&gt;
+&lt;p&gt;Think AI is only for tech gurus and coding aficionados? Think again. AI is breaking down the ivory tower, becoming an invaluable asset for everyone from marketers and writers to busy parents. If you’re intrigued by the idea of harnessing AI to make your life more productive, more balanced, and yes, even more fun, then you’re in for a treat.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you drowning in tasks, yearning for more hours in a day, or simply itching to supercharge your creativity? What if I told you that a digital sidekick exists—one that’s awake 24/7, tailored to boost your efficiency and spark ingenuity? No, this isn’t science fiction; it’s the transformative power of AI tools at your fingertips.</p>
 <p>Think AI is only for tech gurus and coding aficionados? Think again. AI is breaking down the ivory tower, becoming an invaluable asset for everyone from marketers and writers to busy parents. If you’re intrigued by the idea of harnessing AI to make your life more productive, more balanced, and yes, even more fun, then you’re in for a treat.</p>
 <h2 id="ai-tool-recommendations-chatgpt-notion-and-dall-e-2">AI Tool Recommendations: ChatGPT, Notion, and DALL-E 2</h2>
 <p>Let’s start with the AI elephant in the room: ChatGPT! It’s the AI tool I use most often and it’s probably the best place to start for AI beginners.</p>
@@ -87,9 +116,17 @@
 <p>In <a href="https://www.oneusefulthing.org/p/how-to-use-ai-to-do-stuff-an-opinionated">“How to Use AI to Do Stuff: An Opinionate Guide,”</a> Ethan gives an updated (summer 2023) overview of recommendations for AI tools in various task categories. It’s a quickly-evolving landscape, but hopefully reading through these pieces will help you come up with a shortlist of new tools to experiment with!</p>
 <hr>
 <p>Do you already use AI tools in some capacity? Are certain questions or obstacles holding you back? Please let me know in the comments below!</p>
-]]></content:encoded></item><item><title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title><link>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link><pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate><guid>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid><description>&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p>
-&lt;p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p></description><content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users</title>
+      <link>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</link>
+      <pubDate>Tue, 25 Jul 2023 21:24:41 +0000</pubDate>
+      <guid>https://joshuapsteele.com/avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.&lt;/p&gt;
+&lt;p&gt;This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="introduction">Introduction</h2>
 <p>Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.</p>
 <p>This is why it’s crucial for every one of us to understand online scams—how they operate, how to identify them, and most importantly, how to avoid becoming a victim.</p>
 <p>In this guide, I’ll demystify the most common types of online scams and equip you with practical knowledge to stay safe. Regardless of whether you’re a digital native or just someone who occasionally checks emails or shops online, this guide will offer valuable insights to help protect you and your loved ones.</p>
@@ -149,4 +186,7 @@
 </ul>
 <p>Being scammed can feel violating and disheartening. It’s important to remember that if you are scammed, it’s not your fault. The individuals perpetrating these scams are the ones to blame. If you’ve been scammed, don’t hesitate to report it and take steps to protect yourself from further harm.</p>
 <p>By spreading awareness and sharing information about online scams, we can all contribute to making the internet a safer place. Feel free to share this post with anyone who might benefit from it. Stay safe out there!</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

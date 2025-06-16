@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Software Engineering on Joshua P. Steele</title><link>https://joshuapsteele.com/categories/software-engineering/</link><description>Recent content in Software Engineering on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/categories/software-engineering/feed.xml" rel="self" type="application/rss+xml"/><item><title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title><link>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</link><pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</guid><description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description><content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software Engineering on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/categories/software-engineering/</link>
+    <description>Recent content in Software Engineering on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/categories/software-engineering/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title>
+      <link>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</guid>
+      <description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description>
+      <content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
 <p>If so, I’d love to learn from your experience.</p>
 <h2 id="my-interest">My Interest</h2>
 <p>I’m currently working on a centralized authorization system prototype based on OpenFGA. The design is aiming to support fine-grained, relationship-based access control (ReBAC) for multiple business units—each with its own data domain, developer team, and authorization needs.</p>
@@ -29,9 +50,17 @@
 <p>Feel free to drop a comment below, or <a href="/contact/">contact me</a>.</p>
 <p>Thanks in advance!</p>
 <p>– Josh</p>
-]]></content:encoded></item><item><title>Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify</title><link>https://joshuapsteele.com/authorization-continued/</link><pubDate>Fri, 07 Mar 2025 09:16:56 -0500</pubDate><guid>https://joshuapsteele.com/authorization-continued/</guid><description>&lt;p>As I mentioned in my previous post, &amp;ldquo;Devs, Let&amp;rsquo;s Talk Authorization!&amp;rdquo;, I&amp;rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&amp;rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.&lt;/p>
-&lt;h2 id="clarify-current-requirements">Clarify Current Requirements&lt;/h2>
-&lt;p>The first thing I did was gather and clarify my org&amp;rsquo;s current authorization model/requirements. We&amp;rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).&lt;/p></description><content:encoded><![CDATA[<p>As I mentioned in my previous post, &ldquo;Devs, Let&rsquo;s Talk Authorization!&rdquo;, I&rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify</title>
+      <link>https://joshuapsteele.com/authorization-continued/</link>
+      <pubDate>Fri, 07 Mar 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/authorization-continued/</guid>
+      <description>&lt;p&gt;As I mentioned in my previous post, &amp;ldquo;Devs, Let&amp;rsquo;s Talk Authorization!&amp;rdquo;, I&amp;rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&amp;rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.&lt;/p&gt;
+&lt;h2 id=&#34;clarify-current-requirements&#34;&gt;Clarify Current Requirements&lt;/h2&gt;
+&lt;p&gt;The first thing I did was gather and clarify my org&amp;rsquo;s current authorization model/requirements. We&amp;rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As I mentioned in my previous post, &ldquo;Devs, Let&rsquo;s Talk Authorization!&rdquo;, I&rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.</p>
 <h2 id="clarify-current-requirements">Clarify Current Requirements</h2>
 <p>The first thing I did was gather and clarify my org&rsquo;s current authorization model/requirements. We&rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).</p>
 <h2 id="which-authorization-paradigms-make-the-most-sense">Which Authorization Paradigm(s) Make the Most Sense?</h2>
@@ -114,10 +143,18 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <hr>
 <p>Are you a software engineer who&rsquo;s worked with tools like OpenFGA, Permify, and/or SpiceDB? If so, I&rsquo;d love to make your acquaintance and hear your thoughts about these tools, authorization in general, etc.</p>
 <p>Please send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>. Cheers!</p>
-]]></content:encoded></item><item><title>Devs! Let's Talk Authorization</title><link>https://joshuapsteele.com/lets-talk-authorization/</link><pubDate>Thu, 23 Jan 2025 09:16:56 -0500</pubDate><guid>https://joshuapsteele.com/lets-talk-authorization/</guid><description>&lt;p>Calling all software developers! As I embark on a new, exploratory work project, I&amp;rsquo;d like to hear your thoughts on authorization.&lt;/p>
-&lt;p>How have you designed and implemented authorization in your applications?&lt;/p>
-&lt;p>To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?&lt;/p>
-&lt;p>What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?&lt;/p></description><content:encoded><![CDATA[<p>Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Devs! Let&#39;s Talk Authorization</title>
+      <link>https://joshuapsteele.com/lets-talk-authorization/</link>
+      <pubDate>Thu, 23 Jan 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/lets-talk-authorization/</guid>
+      <description>&lt;p&gt;Calling all software developers! As I embark on a new, exploratory work project, I&amp;rsquo;d like to hear your thoughts on authorization.&lt;/p&gt;
+&lt;p&gt;How have you designed and implemented authorization in your applications?&lt;/p&gt;
+&lt;p&gt;To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?&lt;/p&gt;
+&lt;p&gt;What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.</p>
 <p>How have you designed and implemented authorization in your applications?</p>
 <p>To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?</p>
 <p>What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?</p>
@@ -125,8 +162,16 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>What are the pitfalls to avoid? What are the most common mistakes you&rsquo;ve seen?</p>
 <p>What are the most helpful resources you&rsquo;ve found on the topic of authorization in software development? I&rsquo;m looking for books, articles, videos, or anything else that has helped you.</p>
 <p>Thanks so much! I&rsquo;m looking forward to hearing your thoughts! Leave a comment below, send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>.</p>
-]]></content:encoded></item><item><title>Essential Reads for New Software Developers: The Effective Engineer and The Missing README</title><link>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</link><pubDate>Mon, 03 Jul 2023 21:08:09 +0000</pubDate><guid>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</guid><description>&lt;p>Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.&lt;/p>
-&lt;p>However, it’s essential to understand that coding and programming skills, while crucial, are just one part of a broader equation. Equally important is the bigger picture of how software development fits into the wider professional and business environment.&lt;/p></description><content:encoded><![CDATA[<p>Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Essential Reads for New Software Developers: The Effective Engineer and The Missing README</title>
+      <link>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</link>
+      <pubDate>Mon, 03 Jul 2023 21:08:09 +0000</pubDate>
+      <guid>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</guid>
+      <description>&lt;p&gt;Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.&lt;/p&gt;
+&lt;p&gt;However, it’s essential to understand that coding and programming skills, while crucial, are just one part of a broader equation. Equally important is the bigger picture of how software development fits into the wider professional and business environment.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.</p>
 <p>However, it’s essential to understand that coding and programming skills, while crucial, are just one part of a broader equation. Equally important is the bigger picture of how software development fits into the wider professional and business environment.</p>
 <p>This is where two vital reads, Edmond Lau’s <a href="https://amzn.to/3JK2gbg"><em>The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful Impact</em></a> and <a href="https://amzn.to/44qx0pO"><em>The Missing README: A Guide for the New Software Engineer</em></a> by Chris Riccomini and Dmitriy Ryaboy, become indispensable.</p>
 <h2 id="the-effective-engineer-more-than-coding-leverage">The Effective Engineer: More than Coding, LEVERAGE!</h2>
@@ -148,9 +193,17 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>Authored by the renowned Robert C. Martin, often known as “Uncle Bob,” this book is less about the code and more about the coder. Martin presents a professional code of conduct for programmers, covering topics from work ethic and time management to collaboration and communication.</p>
 <p>“The Clean Coder” delivers an in-depth analysis of the various challenges programmers face daily, beyond writing code. It’s a guide to becoming a professional who’s not only technically proficient but also responsible, collaborative, and effective in their broader role.</p>
 <p>To summarise, both <a href="https://amzn.to/3PP1UUy"><em>The Pragmatic Programmer</em></a> and <a href="https://amzn.to/43eTl8G"><em>The Clean Coder</em></a> are excellent companions to <a href="https://amzn.to/3JK2gbg"><em>The Effective Engineer</em></a> and <em><a href="https://amzn.to/44qx0pO">The Missing README</a></em>. They’ll help you build on the foundational knowledge and strategies you’ve learned, transforming you from a proficient coder into a truly impactful and professional software engineer.</p>
-]]></content:encoded></item><item><title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title><link>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link><pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate><guid>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid><description>&lt;p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href="https://learnxinyminutes.com/">learnxinyminutes.com&lt;/a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p>
-&lt;h2 id="quick-and-efficient-learning">Quick and Efficient Learning&lt;/h2>
-&lt;p>Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p></description><content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title>
+      <link>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link>
+      <pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate>
+      <guid>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid>
+      <description>&lt;p&gt;As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;learnxinyminutes.com&lt;/a&gt;, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p&gt;
+&lt;h2 id=&#34;quick-and-efficient-learning&#34;&gt;Quick and Efficient Learning&lt;/h2&gt;
+&lt;p&gt;Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
 <h2 id="quick-and-efficient-learning">Quick and Efficient Learning</h2>
 <p>Learn X in Y Minutes understands that time is precious, which is why it provides:</p>
 <ul>
@@ -190,9 +243,17 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <h2 id="start-learning-now">Start Learning Now!</h2>
 <p>Head over to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a> and start learning now! Whether you’re a seasoned developer or just starting your programming journey, this site has something for everyone.</p>
 <p>Remember to share your experiences and thoughts about Learn X in Y Minutes in the comments section below. Let’s spread the word about this fantastic resource and help others in the programming community to learn and grow!</p>
-]]></content:encoded></item><item><title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title><link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link><pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate><guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid><description>&lt;p>Are you new to the world of computer programming? If so, learning &lt;a href="https://en.wikipedia.org/wiki/Linux">Linux&lt;/a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p>
-&lt;p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p>
-&lt;p>(Want to learn even more about Linux? Check out &lt;em>&lt;a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands&lt;/a>&lt;/em> and &lt;em>&lt;a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction&lt;/a>&lt;/em>.)&lt;/p></description><content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title>
+      <link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link>
+      <pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate>
+      <guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid>
+      <description>&lt;p&gt;Are you new to the world of computer programming? If so, learning &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p&gt;
+&lt;p&gt;In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p&gt;
+&lt;p&gt;(Want to learn even more about Linux? Check out &lt;em&gt;&lt;a href=&#34;https://amzn.to/3mRKdY5&#34;&gt;Linux Pocket Guide: Essential Commands&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href=&#34;https://amzn.to/3ZSntpL&#34;&gt;The Linux Command Line: A Complete Introduction&lt;/a&gt;&lt;/em&gt;.)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
 <p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.</p>
 <p>(Want to learn even more about Linux? Check out <em><a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands</a></em> and <em><a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction</a></em>.)</p>
 <h2 id="pwd-print-working-directory"><code>pwd</code> (Print Working Directory)</h2>
@@ -221,10 +282,18 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>The ‘man’ command provides access to the manual page for any Linux command. This is a valuable resource for learning more about each command’s functionality, options, and usage examples.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>By mastering these Linux commands, you’ll be well on your way to becoming a proficient computer programmer. As you continue to practice and refine your skills, you’ll unlock new opportunities for success in the world of coding. Remember that practice makes perfect, so don’t be afraid to dive in and start exploring the power of Linux. Happy coding!</p>
-]]></content:encoded></item><item><title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title><link>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link><pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate><guid>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid><description>&lt;p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p>
-&lt;h2 id="how-did-you-become-interested-in-software-engineering">How did you become interested in software engineering?&lt;/h2>
-&lt;p>I wrote a bit about &lt;a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">my coding bootcamp journey&lt;/a> in a previous post.&lt;/p>
-&lt;p>Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p></description><content:encoded><![CDATA[<p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title>
+      <link>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
+      <pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate>
+      <guid>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
+      <description>&lt;p&gt;I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p&gt;
+&lt;h2 id=&#34;how-did-you-become-interested-in-software-engineering&#34;&gt;How did you become interested in software engineering?&lt;/h2&gt;
+&lt;p&gt;I wrote a bit about &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;my coding bootcamp journey&lt;/a&gt; in a previous post.&lt;/p&gt;
+&lt;p&gt;Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)</p>
 <h2 id="how-did-you-become-interested-in-software-engineering">How did you become interested in software engineering?</h2>
 <p>I wrote a bit about <a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">my coding bootcamp journey</a> in a previous post.</p>
 <p>Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.</p>
@@ -294,9 +363,17 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 </ul>
 <hr>
 <p>I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the <a href="https://joshuapsteele.com/contact/">contact form on my website</a>.</p>
-]]></content:encoded></item><item><title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title><link>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link><pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate><guid>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid><description>&lt;p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p>
-&lt;p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p>
-&lt;p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href="https://teamtreehouse.com/">Treehouse&lt;/a> and on &lt;a href="https://www.freecodecamp.org/">freeCodeCamp&lt;/a> and I got to work!)&lt;/p></description><content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
+      <link>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
+      <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
+      <guid>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;
+&lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;
+&lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
 <p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.</p>
 <p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on <a href="https://teamtreehouse.com/">Treehouse</a> and on <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and I got to work!)</p>
 <p>However, once I got accepted into a Ph.D. program (and realized that I needed to learn how to read in German ASAP in order to pass a translation exam), my programming learning fell by the wayside.</p>
@@ -316,12 +393,20 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <p>That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use <a href="https://joshuapsteele.com/contact/">the contact form</a> to email me.)</p>
 <hr>
 <p>UPDATE: On 2023-02-16, I was promoted to Software Engineer II! If you’d like to connect professionally, <a href="https://www.linkedin.com/in/joshuapsteele/">come find me @joshuapsteele on LinkedIn</a>.</p>
-]]></content:encoded></item><item><title>Software Testing: Possibilities, Problems, and Principles</title><link>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</link><pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate><guid>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</guid><description>&lt;p>Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns&lt;/a> by &lt;a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov&lt;/a> (Manning Publications, 2020) and &lt;a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide&lt;/a> by &lt;a href="https://twitter.com/mauricioaniche">Mauricio Aniche&lt;/a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p>
-&lt;p>&lt;img alt="Khorikov-UT-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png">&lt;/p>
-&lt;p>&lt;img alt="Aniche-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png">&lt;/p>
-&lt;hr>
-&lt;h2 id="software-testing-our-fields-least-sexy-superpower">Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2>
-&lt;p>Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p></description><content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Software Testing: Possibilities, Problems, and Principles</title>
+      <link>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</link>
+      <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
+      <guid>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</guid>
+      <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Khorikov-UT-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Aniche-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;
+&lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
 <p><img alt="Khorikov-UT-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png"></p>
 <p><img alt="Aniche-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png"></p>
 <hr>
@@ -671,12 +756,23 @@ You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sa
 <li>“<a href="https://martinfowler.com/articles/microservice-testing/">Testing Strategies in a Microservice Architecture</a>” by Toby Clemson (Slide Deck)</li>
 <li>“<a href="https://profinit.eu/wp-content/uploads/2016/03/HardSwTesting.pdf">What Is Software Testing? And Why Is It So Hard?</a>” by James A. Whittaker (IEEE Software, January 2000:70–79)</li>
 </ul>
-]]></content:encoded></item><item><title>ChatGPT: Write a Viral Blogpost about Why to Become a Software Engineer</title><link>https://joshuapsteele.com/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</link><pubDate>Mon, 19 Dec 2022 14:17:13 +0000</pubDate><guid>https://joshuapsteele.com/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</guid><description>&lt;p>Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:&lt;/p>
-&lt;p>High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.&lt;/p></description><content:encoded><![CDATA[<p>Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>ChatGPT: Write a Viral Blogpost about Why to Become a Software Engineer</title>
+      <link>https://joshuapsteele.com/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</link>
+      <pubDate>Mon, 19 Dec 2022 14:17:13 +0000</pubDate>
+      <guid>https://joshuapsteele.com/chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/</guid>
+      <description>&lt;p&gt;Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:&lt;/p&gt;
+&lt;p&gt;High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:</p>
 <p>High demand and good pay: Software engineering is a rapidly growing field, with many companies actively seeking qualified candidates. According to the Bureau of Labor Statistics, the median annual wage for software developers was $107,510 in 2020, and employment of software developers is projected to grow 21% from 2020 to 2029, much faster than the average for all occupations.</p>
 <p>Opportunities for career advancement: As a software engineer, you’ll have the opportunity to learn new technologies and techniques, which can lead to promotions and advancement within your company or organization. You can also choose to specialize in a particular area, such as machine learning or data science, which can open up even more career opportunities.</p>
 <p>Ability to work on interesting and meaningful projects: As a software engineer, you’ll have the chance to work on a wide variety of projects, from building websites and mobile apps to developing software for scientific research or medical devices. You’ll have the opportunity to use your skills and knowledge to solve real-world problems and make a positive impact on people’s lives.</p>
 <p>Flexibility to work remotely: Many software engineering jobs allow for remote work, which means you have the flexibility to work from anywhere in the world. This can be especially appealing if you enjoy traveling or want to live in a location that may not have as many job opportunities in other fields.</p>
 <p>Continuous learning: The field of software engineering is constantly evolving, with new technologies and techniques being developed all the time. As a software engineer, you’ll have the opportunity to learn and stay up-to-date on these advancements, which can keep your job interesting and rewarding.</p>
 <p>Overall, becoming a software engineer is a great career choice for anyone who enjoys problem-solving, has an interest in technology, and wants to work on meaningful and impactful projects. If you’re considering a career in software engineering, don’t hesitate – now is a great time to start learning and building your skills in this exciting field.</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

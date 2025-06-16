@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Law on Joshua P. Steele</title><link>https://joshuapsteele.com/categories/law/</link><description>Recent content in Law on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Fri, 18 Apr 2025 09:20:01 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/categories/law/feed.xml" rel="self" type="application/rss+xml"/><item><title>When the Government Can Kidnap Without Trial, None of Us Are Safe</title><link>https://joshuapsteele.com/government-kidnap-without-trial/</link><pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/government-kidnap-without-trial/</guid><description>If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us.</description><content:encoded><![CDATA[<p>Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Law on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/categories/law/</link>
+    <description>Recent content in Law on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 18 Apr 2025 09:20:01 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/categories/law/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>When the Government Can Kidnap Without Trial, None of Us Are Safe</title>
+      <link>https://joshuapsteele.com/government-kidnap-without-trial/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/government-kidnap-without-trial/</guid>
+      <description>If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us.</description>
+      <content:encoded><![CDATA[<p>Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.</p>
 <p>Then imagine the government claims they’re a danger—but refuses to show any real evidence. And instead of bringing them to a courtroom, they ship them off to a prison in another country.</p>
 <p>That’s not a dystopian movie plot. It’s happening <em>right now</em>. And it should terrify every single one of us.</p>
 <p>Because when the government can <strong>kidnap without trial</strong>, and lock people up without letting them <strong>have their day in court</strong>, then <em>none</em> of our rights are safe.</p>
@@ -68,4 +89,7 @@
 <hr>
 <p><strong>Speak up. Stay loud. Stay human.</strong></p>
 <p>Because if we lose due process and habeas corpus, we lose the entire rule of law.</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

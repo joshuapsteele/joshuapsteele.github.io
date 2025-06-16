@@ -1,9 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Testing on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/testing/</link><description>Recent content in Testing on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/testing/feed.xml" rel="self" type="application/rss+xml"/><item><title>Software Testing: Possibilities, Problems, and Principles</title><link>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</link><pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate><guid>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</guid><description>&lt;p>Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns&lt;/a> by &lt;a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov&lt;/a> (Manning Publications, 2020) and &lt;a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide&lt;/a> by &lt;a href="https://twitter.com/mauricioaniche">Mauricio Aniche&lt;/a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p>
-&lt;p>&lt;img alt="Khorikov-UT-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png">&lt;/p>
-&lt;p>&lt;img alt="Aniche-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png">&lt;/p>
-&lt;hr>
-&lt;h2 id="software-testing-our-fields-least-sexy-superpower">Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2>
-&lt;p>Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p></description><content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Testing on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/tags/testing/</link>
+    <description>Recent content in Testing on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/tags/testing/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software Testing: Possibilities, Problems, and Principles</title>
+      <link>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</link>
+      <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
+      <guid>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</guid>
+      <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Khorikov-UT-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Aniche-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;
+&lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
 <p><img alt="Khorikov-UT-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png"></p>
 <p><img alt="Aniche-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png"></p>
 <hr>
@@ -353,4 +374,7 @@
 <li>“<a href="https://martinfowler.com/articles/microservice-testing/">Testing Strategies in a Microservice Architecture</a>” by Toby Clemson (Slide Deck)</li>
 <li>“<a href="https://profinit.eu/wp-content/uploads/2016/03/HardSwTesting.pdf">What Is Software Testing? And Why Is It So Hard?</a>” by James A. Whittaker (IEEE Software, January 2000:70–79)</li>
 </ul>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

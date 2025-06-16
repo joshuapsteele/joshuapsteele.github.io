@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Programming on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/programming/</link><description>Recent content in Programming on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/programming/feed.xml" rel="self" type="application/rss+xml"/><item><title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title><link>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link><pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate><guid>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid><description>&lt;p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href="https://learnxinyminutes.com/">learnxinyminutes.com&lt;/a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p>
-&lt;h2 id="quick-and-efficient-learning">Quick and Efficient Learning&lt;/h2>
-&lt;p>Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p></description><content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Programming on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/tags/programming/</link>
+    <description>Recent content in Programming on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/tags/programming/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title>
+      <link>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link>
+      <pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate>
+      <guid>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid>
+      <description>&lt;p&gt;As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;learnxinyminutes.com&lt;/a&gt;, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p&gt;
+&lt;h2 id=&#34;quick-and-efficient-learning&#34;&gt;Quick and Efficient Learning&lt;/h2&gt;
+&lt;p&gt;Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
 <h2 id="quick-and-efficient-learning">Quick and Efficient Learning</h2>
 <p>Learn X in Y Minutes understands that time is precious, which is why it provides:</p>
 <ul>
@@ -40,9 +61,17 @@
 <h2 id="start-learning-now">Start Learning Now!</h2>
 <p>Head over to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a> and start learning now! Whether you’re a seasoned developer or just starting your programming journey, this site has something for everyone.</p>
 <p>Remember to share your experiences and thoughts about Learn X in Y Minutes in the comments section below. Let’s spread the word about this fantastic resource and help others in the programming community to learn and grow!</p>
-]]></content:encoded></item><item><title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title><link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link><pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate><guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid><description>&lt;p>Are you new to the world of computer programming? If so, learning &lt;a href="https://en.wikipedia.org/wiki/Linux">Linux&lt;/a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p>
-&lt;p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p>
-&lt;p>(Want to learn even more about Linux? Check out &lt;em>&lt;a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands&lt;/a>&lt;/em> and &lt;em>&lt;a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction&lt;/a>&lt;/em>.)&lt;/p></description><content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title>
+      <link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link>
+      <pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate>
+      <guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid>
+      <description>&lt;p&gt;Are you new to the world of computer programming? If so, learning &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p&gt;
+&lt;p&gt;In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p&gt;
+&lt;p&gt;(Want to learn even more about Linux? Check out &lt;em&gt;&lt;a href=&#34;https://amzn.to/3mRKdY5&#34;&gt;Linux Pocket Guide: Essential Commands&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href=&#34;https://amzn.to/3ZSntpL&#34;&gt;The Linux Command Line: A Complete Introduction&lt;/a&gt;&lt;/em&gt;.)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
 <p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.</p>
 <p>(Want to learn even more about Linux? Check out <em><a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands</a></em> and <em><a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction</a></em>.)</p>
 <h2 id="pwd-print-working-directory"><code>pwd</code> (Print Working Directory)</h2>
@@ -71,9 +100,17 @@
 <p>The ‘man’ command provides access to the manual page for any Linux command. This is a valuable resource for learning more about each command’s functionality, options, and usage examples.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>By mastering these Linux commands, you’ll be well on your way to becoming a proficient computer programmer. As you continue to practice and refine your skills, you’ll unlock new opportunities for success in the world of coding. Remember that practice makes perfect, so don’t be afraid to dive in and start exploring the power of Linux. Happy coding!</p>
-]]></content:encoded></item><item><title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title><link>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link><pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate><guid>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid><description>&lt;p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p>
-&lt;p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p>
-&lt;p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href="https://teamtreehouse.com/">Treehouse&lt;/a> and on &lt;a href="https://www.freecodecamp.org/">freeCodeCamp&lt;/a> and I got to work!)&lt;/p></description><content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
+      <link>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
+      <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
+      <guid>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;
+&lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;
+&lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
 <p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.</p>
 <p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on <a href="https://teamtreehouse.com/">Treehouse</a> and on <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and I got to work!)</p>
 <p>However, once I got accepted into a Ph.D. program (and realized that I needed to learn how to read in German ASAP in order to pass a translation exam), my programming learning fell by the wayside.</p>
@@ -93,4 +130,7 @@
 <p>That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use <a href="https://joshuapsteele.com/contact/">the contact form</a> to email me.)</p>
 <hr>
 <p>UPDATE: On 2023-02-16, I was promoted to Software Engineer II! If you’d like to connect professionally, <a href="https://www.linkedin.com/in/joshuapsteele/">come find me @joshuapsteele on LinkedIn</a>.</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

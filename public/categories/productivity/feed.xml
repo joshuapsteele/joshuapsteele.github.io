@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Productivity on Joshua P. Steele</title><link>https://joshuapsteele.com/categories/productivity/</link><description>Recent content in Productivity on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/categories/productivity/feed.xml" rel="self" type="application/rss+xml"/><item><title>Questions at the Start of My Notebook</title><link>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</link><pubDate>Tue, 14 Jan 2025 17:04:30 -0500</pubDate><guid>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</guid><description>&lt;p>For the past few years, I&amp;rsquo;ve loosely followed &lt;a href="https://bulletjournal.com/">the &amp;ldquo;Bullet Journal&amp;rdquo; method of note-taking&lt;/a>. Usually in a &lt;a href="https://amzn.to/4aiTbCs">Leuchtturm1917 Hardcover A5 notebook with dotted pages&lt;/a> (the best!).&lt;/p>
-&lt;p>Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.&lt;/p>
-&lt;p>Here&amp;rsquo;s what I&amp;rsquo;ve written at the start of my current notebook.&lt;/p></description><content:encoded><![CDATA[<p>For the past few years, I&rsquo;ve loosely followed <a href="https://bulletjournal.com/">the &ldquo;Bullet Journal&rdquo; method of note-taking</a>. Usually in a <a href="https://amzn.to/4aiTbCs">Leuchtturm1917 Hardcover A5 notebook with dotted pages</a> (the best!).</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Productivity on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/categories/productivity/</link>
+    <description>Recent content in Productivity on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/categories/productivity/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questions at the Start of My Notebook</title>
+      <link>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</link>
+      <pubDate>Tue, 14 Jan 2025 17:04:30 -0500</pubDate>
+      <guid>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</guid>
+      <description>&lt;p&gt;For the past few years, I&amp;rsquo;ve loosely followed &lt;a href=&#34;https://bulletjournal.com/&#34;&gt;the &amp;ldquo;Bullet Journal&amp;rdquo; method of note-taking&lt;/a&gt;. Usually in a &lt;a href=&#34;https://amzn.to/4aiTbCs&#34;&gt;Leuchtturm1917 Hardcover A5 notebook with dotted pages&lt;/a&gt; (the best!).&lt;/p&gt;
+&lt;p&gt;Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve written at the start of my current notebook.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>For the past few years, I&rsquo;ve loosely followed <a href="https://bulletjournal.com/">the &ldquo;Bullet Journal&rdquo; method of note-taking</a>. Usually in a <a href="https://amzn.to/4aiTbCs">Leuchtturm1917 Hardcover A5 notebook with dotted pages</a> (the best!).</p>
 <p>Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.</p>
 <p>Here&rsquo;s what I&rsquo;ve written at the start of my current notebook.</p>
 <hr>
@@ -213,4 +234,7 @@
       </tr>
   </tbody>
 </table>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

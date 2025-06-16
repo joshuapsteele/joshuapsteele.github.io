@@ -1,6 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Pages on Joshua P. Steele</title><link>https://joshuapsteele.com/pages/</link><description>Recent content in Pages on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><atom:link href="https://joshuapsteele.com/pages/feed.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://joshuapsteele.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/about/</guid><description>&lt;p>&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p>
-&lt;p>As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href="https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry&lt;/a>), trying to figure out what, if anything, to do with three degrees in theology.&lt;/p>
-&lt;p>After a long time away (for those theology degrees), I&amp;rsquo;m back in Ohio, where I live with my wife and three young children.&lt;/p></description><content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/pages/</link>
+    <description>Recent content in Pages on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <atom:link href="https://joshuapsteele.com/pages/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://joshuapsteele.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/about/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
+&lt;p&gt;As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;), trying to figure out what, if anything, to do with three degrees in theology.&lt;/p&gt;
+&lt;p&gt;After a long time away (for those theology degrees), I&amp;rsquo;m back in Ohio, where I live with my wife and three young children.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
 <p>As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>), trying to figure out what, if anything, to do with three degrees in theology.</p>
 <p>After a long time away (for those theology degrees), I&rsquo;m back in Ohio, where I live with my wife and three young children.</p>
 <p>In my free time (what&rsquo;s that?), I buy books and tools&hellip;and then try to find even more time to use them. Recently, DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I&rsquo;m trying to become competent in as many different practical skills as possible. (You know, since I studied <em>theology</em> in school! Haha.)</p>
@@ -15,16 +35,24 @@
 <li>The <a href="/questions/"><strong>/questions</strong></a> I&rsquo;m asking</li>
 </ul>
 <p>Want to contact me? (No, I&rsquo;m not interested in guest posts on my blog at this time.) Send an email to <a href="blog@joshuapsteele.com">blog@joshuapsteele.com</a>.</p>
-]]></content:encoded></item><item><title>Caveats</title><link>https://joshuapsteele.com/caveats/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/caveats/</guid><description>&lt;p>You can add the following caveats to everything I write online.&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>If it doesn&amp;rsquo;t directly apply to you, feel free to move along&lt;/strong>&lt;br>
-I&amp;rsquo;m usually writing for a broad audience and just trying to get people thinking. If I&amp;rsquo;m interested in starting a debate or argument with a specific individual, I will say so directly.&lt;/li>
-&lt;li>&lt;strong>If you think reality is more complicated than what I wrote, you&amp;rsquo;re right&lt;/strong>&lt;br>
-All communication is an oversimplification of reality. The shorter my post, the more I&amp;rsquo;ve purposefully left out.&lt;/li>
-&lt;li>&lt;strong>I will (almost) never get into extended arguments online&lt;/strong>&lt;br>
-If you still think you really need to say something, write your own post, write me an &lt;a href="https://joshuapsteele.com/contact/">email&lt;/a>, send me a letter, etc. (Just don&amp;rsquo;t call me, I&amp;rsquo;m a Millennial!)&lt;/li>
-&lt;/ul>
-&lt;p>Finally, I&amp;rsquo;m just as susceptible to &lt;a href="https://yourbias.is/">cognitive biases&lt;/a> and &lt;a href="https://yourlogicalfallacyis.com/">logical fallacies&lt;/a> as anyone else. Nevertheless, I&amp;rsquo;d like to do my best to stick to &lt;a href="https://therulesofcivilconversation.org/">the following Rules of Civil Conversation&lt;/a>. And I ask that you consider doing the same.&lt;/p></description><content:encoded><![CDATA[<p>You can add the following caveats to everything I write online.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Caveats</title>
+      <link>https://joshuapsteele.com/caveats/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/caveats/</guid>
+      <description>&lt;p&gt;You can add the following caveats to everything I write online.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;If it doesn&amp;rsquo;t directly apply to you, feel free to move along&lt;/strong&gt;&lt;br&gt;
+I&amp;rsquo;m usually writing for a broad audience and just trying to get people thinking. If I&amp;rsquo;m interested in starting a debate or argument with a specific individual, I will say so directly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;If you think reality is more complicated than what I wrote, you&amp;rsquo;re right&lt;/strong&gt;&lt;br&gt;
+All communication is an oversimplification of reality. The shorter my post, the more I&amp;rsquo;ve purposefully left out.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;I will (almost) never get into extended arguments online&lt;/strong&gt;&lt;br&gt;
+If you still think you really need to say something, write your own post, write me an &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;email&lt;/a&gt;, send me a letter, etc. (Just don&amp;rsquo;t call me, I&amp;rsquo;m a Millennial!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Finally, I&amp;rsquo;m just as susceptible to &lt;a href=&#34;https://yourbias.is/&#34;&gt;cognitive biases&lt;/a&gt; and &lt;a href=&#34;https://yourlogicalfallacyis.com/&#34;&gt;logical fallacies&lt;/a&gt; as anyone else. Nevertheless, I&amp;rsquo;d like to do my best to stick to &lt;a href=&#34;https://therulesofcivilconversation.org/&#34;&gt;the following Rules of Civil Conversation&lt;/a&gt;. And I ask that you consider doing the same.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>You can add the following caveats to everything I write online.</p>
 <ul>
 <li><strong>If it doesn&rsquo;t directly apply to you, feel free to move along</strong><br>
 I&rsquo;m usually writing for a broad audience and just trying to get people thinking. If I&rsquo;m interested in starting a debate or argument with a specific individual, I will say so directly.</li>
@@ -45,71 +73,87 @@ If you still think you really need to say something, write your own post, write 
 <li>Use the ‘<a href="https://ethics.org.au/ethics-explainer-the-principle-of-charity/">Principle of Charity</a>’ to see the merits of others’ points of view in the best light.</li>
 <li>Remain genuinely receptive to changing my mind if presented with compelling arguments or evidence</li>
 </ol>
-]]></content:encoded></item><item><title>Contact</title><link>https://joshuapsteele.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/contact/</guid><description>&lt;p>If you&amp;rsquo;d like to ask if I&amp;rsquo;m interested in guest content on my blog, please don&amp;rsquo;t. I&amp;rsquo;m not interested.&lt;/p>
-&lt;p>For all other matters, the best way to contact me is to send an email to &lt;a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com&lt;/a>. I&amp;rsquo;ll do my best to read and reply as soon as possible!&lt;/p>
-&lt;p>If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href="https://joshuapsteele.com/">my homepage here&lt;/a> and also over at &lt;a href="https://steele.omg.lol">steele.omg.lol&lt;/a>.&lt;/p></description><content:encoded><![CDATA[<p>If you&rsquo;d like to ask if I&rsquo;m interested in guest content on my blog, please don&rsquo;t. I&rsquo;m not interested.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://joshuapsteele.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/contact/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;d like to ask if I&amp;rsquo;m interested in guest content on my blog, please don&amp;rsquo;t. I&amp;rsquo;m not interested.&lt;/p&gt;
+&lt;p&gt;For all other matters, the best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to read and reply as soon as possible!&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;my homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>If you&rsquo;d like to ask if I&rsquo;m interested in guest content on my blog, please don&rsquo;t. I&rsquo;m not interested.</p>
 <p>For all other matters, the best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to read and reply as soon as possible!</p>
 <p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">my homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
 <p>Cheers,
 Josh</p>
-]]></content:encoded></item><item><title>CV</title><link>https://joshuapsteele.com/cv/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/cv/</guid><description>&lt;p>&lt;em>(For a brief profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href="https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment&lt;/a>. You can also view my resume on &lt;a href="https://www.linkedin.com/in/joshuapsteele/">LinkedIn&lt;/a>.)&lt;/em>&lt;/p>
-&lt;hr>
-&lt;h2 id="experience">EXPERIENCE&lt;/h2>
-&lt;h3 id="software-engineer-ii---proofpoint">&lt;strong>Software Engineer II - Proofpoint&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>February 2023 - Present&lt;/li>
-&lt;li>Led the design and development of a major user provisioning integration project, demonstrating leadership and technical skills.&lt;/li>
-&lt;li>Authored scripts for system testing and delivered a technical presentation on the system.&lt;/li>
-&lt;li>Mentored and trained new developers, showcasing leadership and interpersonal skills.&lt;/li>
-&lt;li>Expanded technical skills by learning a new programming language to merge PRs in other areas of the codebase.&lt;/li>
-&lt;li>Advocated for AI-assisted coding tools, assisting the VP of Engineering in research and presentation of findings.&lt;/li>
-&lt;li>Delivered a technical presentation on &amp;ldquo;How to Use GitHub Copilot&amp;rdquo; to over 200 colleagues, demonstrating communication and teaching skills.&lt;/li>
-&lt;li>Achieved personal learning goal of gaining familiarity with cloud computing, evidenced by certification and building a cloud-based prototype.&lt;/li>
-&lt;li>Actively shared knowledge with colleagues, providing reading recommendations and stimulating discussions.&lt;/li>
-&lt;li>Established a mentoring relationship with a Senior Engineer, demonstrating initiative and independence.&lt;/li>
-&lt;li>Assumed extra responsibilities as an interim Technical Project Manager, showing problem-solving drive, good judgement, and ability to handle disagreements constructively.&lt;/li>
-&lt;li>Recognized with a substantial raise after 6 months on the job due to exceptional performance and contributions.&lt;/li>
-&lt;li>Resolved customer issues during the user provisioning project&amp;rsquo;s early access phase and took the lead in addressing a production bug.&lt;/li>
-&lt;li>Coordinated upgrade efforts, assisting other teams based on previous experience.&lt;/li>
-&lt;li>Improved system logging for better development, debugging, and customer support.&lt;/li>
-&lt;li>Participated in research, revision, and planning of a new effort, demonstrating project management skills.&lt;/li>
-&lt;/ul>
-&lt;h3 id="software-engineer-i---proofpoint">&lt;strong>Software Engineer I - Proofpoint&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>January 2022 - February 2023&lt;/li>
-&lt;li>Prepared End User Sync Simplified for EA and GA Release (Q1-Q2 2022)&lt;/li>
-&lt;li>Constructed Okta Integration (Q2-Q3 2022)&lt;/li>
-&lt;li>Responsibilities included: software development (Java, MySQL, JavaScript, Python); bug fixes; research; planning.&lt;/li>
-&lt;/ul>
-&lt;h3 id="managing-editor--">&lt;strong>Managing Editor - &lt;a href="https://anglicancompass.com/">Anglican Compass&lt;/a>&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>August 2018 - July 2021&lt;/li>
-&lt;li>Grew monthly users from 10K to over 30K (300% growth)&lt;/li>
-&lt;li>Grew email list from 2K to 10K subscribers (500% growth)&lt;/li>
-&lt;li>Edited guest posts for over 100 authors&lt;/li>
-&lt;li>Managed the publication and/or promotion of 6 books&lt;/li>
-&lt;li>Responsibilities included: project management; research; writing; editing; copyediting; proofreading; content marketing; email marketing; social media marketing; web design (WordPress, HTML, CSS, Squarespace); book publication; book marketing.&lt;/li>
-&lt;/ul>
-&lt;h3 id="pastorclergy-anglican-priest">&lt;strong>Pastor/Clergy (Anglican Priest)&lt;/strong>&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="https://friendsofthesavior.org/">Church of the Savior&lt;/a> (Wheaton, IL); November 2019 - Present&lt;/li>
-&lt;li>Diocese: &lt;a href="https://www.c4so.org/">Churches for the Sake of Others (C4SO)&lt;/a>&lt;/li>
-&lt;li>Areas of ministry as a Deacon (see below) and now a Priest have included:
-&lt;ul>
-&lt;li>preaching (public speaking, teaching),&lt;/li>
-&lt;li>teaching,&lt;/li>
-&lt;li>presiding at Holy Communion,&lt;/li>
-&lt;li>providing pastoral care,&lt;/li>
-&lt;li>leading musical worship,&lt;/li>
-&lt;li>volunteering in student ministry,&lt;/li>
-&lt;li>facilitating small group ministry,&lt;/li>
-&lt;li>facilitating men&amp;rsquo;s ministry,&lt;/li>
-&lt;li>designing and managing church website,&lt;/li>
-&lt;li>and managing the rollout and use of our church management software.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;em>(Note: &lt;a href="https://joshuapsteele.com/portfolio/sermons/">to read/listen to my sermons, go here&lt;/a>.)&lt;/em>&lt;/p></description><content:encoded><![CDATA[<p><em>(For a brief profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>. You can also view my resume on <a href="https://www.linkedin.com/in/joshuapsteele/">LinkedIn</a>.)</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>https://joshuapsteele.com/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/cv/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(For a brief profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;. You can also view my resume on &lt;a href=&#34;https://www.linkedin.com/in/joshuapsteele/&#34;&gt;LinkedIn&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h2&gt;
+&lt;h3 id=&#34;software-engineer-ii---proofpoint&#34;&gt;&lt;strong&gt;Software Engineer II - Proofpoint&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;February 2023 - Present&lt;/li&gt;
+&lt;li&gt;Led the design and development of a major user provisioning integration project, demonstrating leadership and technical skills.&lt;/li&gt;
+&lt;li&gt;Authored scripts for system testing and delivered a technical presentation on the system.&lt;/li&gt;
+&lt;li&gt;Mentored and trained new developers, showcasing leadership and interpersonal skills.&lt;/li&gt;
+&lt;li&gt;Expanded technical skills by learning a new programming language to merge PRs in other areas of the codebase.&lt;/li&gt;
+&lt;li&gt;Advocated for AI-assisted coding tools, assisting the VP of Engineering in research and presentation of findings.&lt;/li&gt;
+&lt;li&gt;Delivered a technical presentation on &amp;ldquo;How to Use GitHub Copilot&amp;rdquo; to over 200 colleagues, demonstrating communication and teaching skills.&lt;/li&gt;
+&lt;li&gt;Achieved personal learning goal of gaining familiarity with cloud computing, evidenced by certification and building a cloud-based prototype.&lt;/li&gt;
+&lt;li&gt;Actively shared knowledge with colleagues, providing reading recommendations and stimulating discussions.&lt;/li&gt;
+&lt;li&gt;Established a mentoring relationship with a Senior Engineer, demonstrating initiative and independence.&lt;/li&gt;
+&lt;li&gt;Assumed extra responsibilities as an interim Technical Project Manager, showing problem-solving drive, good judgement, and ability to handle disagreements constructively.&lt;/li&gt;
+&lt;li&gt;Recognized with a substantial raise after 6 months on the job due to exceptional performance and contributions.&lt;/li&gt;
+&lt;li&gt;Resolved customer issues during the user provisioning project&amp;rsquo;s early access phase and took the lead in addressing a production bug.&lt;/li&gt;
+&lt;li&gt;Coordinated upgrade efforts, assisting other teams based on previous experience.&lt;/li&gt;
+&lt;li&gt;Improved system logging for better development, debugging, and customer support.&lt;/li&gt;
+&lt;li&gt;Participated in research, revision, and planning of a new effort, demonstrating project management skills.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;software-engineer-i---proofpoint&#34;&gt;&lt;strong&gt;Software Engineer I - Proofpoint&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;January 2022 - February 2023&lt;/li&gt;
+&lt;li&gt;Prepared End User Sync Simplified for EA and GA Release (Q1-Q2 2022)&lt;/li&gt;
+&lt;li&gt;Constructed Okta Integration (Q2-Q3 2022)&lt;/li&gt;
+&lt;li&gt;Responsibilities included: software development (Java, MySQL, JavaScript, Python); bug fixes; research; planning.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;managing-editor--&#34;&gt;&lt;strong&gt;Managing Editor - &lt;a href=&#34;https://anglicancompass.com/&#34;&gt;Anglican Compass&lt;/a&gt;&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;August 2018 - July 2021&lt;/li&gt;
+&lt;li&gt;Grew monthly users from 10K to over 30K (300% growth)&lt;/li&gt;
+&lt;li&gt;Grew email list from 2K to 10K subscribers (500% growth)&lt;/li&gt;
+&lt;li&gt;Edited guest posts for over 100 authors&lt;/li&gt;
+&lt;li&gt;Managed the publication and/or promotion of 6 books&lt;/li&gt;
+&lt;li&gt;Responsibilities included: project management; research; writing; editing; copyediting; proofreading; content marketing; email marketing; social media marketing; web design (WordPress, HTML, CSS, Squarespace); book publication; book marketing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pastorclergy-anglican-priest&#34;&gt;&lt;strong&gt;Pastor/Clergy (Anglican Priest)&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://friendsofthesavior.org/&#34;&gt;Church of the Savior&lt;/a&gt; (Wheaton, IL); November 2019 - Present&lt;/li&gt;
+&lt;li&gt;Diocese: &lt;a href=&#34;https://www.c4so.org/&#34;&gt;Churches for the Sake of Others (C4SO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Areas of ministry as a Deacon (see below) and now a Priest have included:
+&lt;ul&gt;
+&lt;li&gt;preaching (public speaking, teaching),&lt;/li&gt;
+&lt;li&gt;teaching,&lt;/li&gt;
+&lt;li&gt;presiding at Holy Communion,&lt;/li&gt;
+&lt;li&gt;providing pastoral care,&lt;/li&gt;
+&lt;li&gt;leading musical worship,&lt;/li&gt;
+&lt;li&gt;volunteering in student ministry,&lt;/li&gt;
+&lt;li&gt;facilitating small group ministry,&lt;/li&gt;
+&lt;li&gt;facilitating men&amp;rsquo;s ministry,&lt;/li&gt;
+&lt;li&gt;designing and managing church website,&lt;/li&gt;
+&lt;li&gt;and managing the rollout and use of our church management software.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(Note: &lt;a href=&#34;https://joshuapsteele.com/portfolio/sermons/&#34;&gt;to read/listen to my sermons, go here&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><em>(For a brief profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>. You can also view my resume on <a href="https://www.linkedin.com/in/joshuapsteele/">LinkedIn</a>.)</em></p>
 <hr>
 <h2 id="experience">EXPERIENCE</h2>
 <h3 id="software-engineer-ii---proofpoint"><strong>Software Engineer II - Proofpoint</strong></h3>
@@ -298,34 +342,42 @@ Josh</p>
 <li>Regional ETS Southeast</li>
 <li>Birmingham, AL: 2014</li>
 </ul>
-]]></content:encoded></item><item><title>Essays</title><link>https://joshuapsteele.com/essays/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/essays/</guid><description>&lt;p>&lt;em>(Note: Since writing the essays below, I&amp;rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&amp;rsquo;m keeping these around for posterity.)&lt;/em>&lt;/p>
-&lt;h2 id="wheaton-college-graduate-school-2017---">Wheaton College Graduate School (2017 - )&lt;/h2>
-&lt;p>&lt;em>(Here&amp;rsquo;s the &lt;a href="https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">elevator pitch for my dissertation proposal&lt;/a>: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em>&lt;/p>
-&lt;ul>
-&lt;li>&lt;a href="https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/">The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em>Römerbrief&lt;/em> Reading of Romans 9:30–10:21&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/">The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/">When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf">Theological Hermeneutics Essay&lt;/a>: &lt;a href="https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/">The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="beeson-divinity-school-2013-2016">Beeson Divinity School (2013-2016)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf">To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf">A Crucicentric Credo&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf">What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf">Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/On_Scripture.pdf">Dogmatic Essay on Scripture&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="cedarville-university-2009-2013">Cedarville University (2009-2013)&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf">Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf">Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf">Exposition Paper: Deuteronomy 6:1-15&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf">Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf">Exposition Paper: Micah 6:1-16&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf">Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf">The Argument/Story of Romans&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://joshuapsteele.com/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf">Exegetical Paper: Hebrews 10:19-25&lt;/a>&lt;/li>
-&lt;/ul></description><content:encoded><![CDATA[<p><em>(Note: Since writing the essays below, I&rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&rsquo;m keeping these around for posterity.)</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Essays</title>
+      <link>https://joshuapsteele.com/essays/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/essays/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing the essays below, I&amp;rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&amp;rsquo;m keeping these around for posterity.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;wheaton-college-graduate-school-2017---&#34;&gt;Wheaton College Graduate School (2017 - )&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;(Here&amp;rsquo;s the &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;elevator pitch for my dissertation proposal&lt;/a&gt;: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/&#34;&gt;The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em&gt;Römerbrief&lt;/em&gt; Reading of Romans 9:30–10:21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/&#34;&gt;The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/&#34;&gt;When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf&#34;&gt;Theological Hermeneutics Essay&lt;/a&gt;: &lt;a href=&#34;https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/&#34;&gt;The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;beeson-divinity-school-2013-2016&#34;&gt;Beeson Divinity School (2013-2016)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf&#34;&gt;To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf&#34;&gt;A Crucicentric Credo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf&#34;&gt;What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf&#34;&gt;Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/On_Scripture.pdf&#34;&gt;Dogmatic Essay on Scripture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cedarville-university-2009-2013&#34;&gt;Cedarville University (2009-2013)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf&#34;&gt;Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf&#34;&gt;Exposition Paper: Deuteronomy 6:1-15&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf&#34;&gt;Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf&#34;&gt;Exposition Paper: Micah 6:1-16&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf&#34;&gt;Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf&#34;&gt;The Argument/Story of Romans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf&#34;&gt;Exegetical Paper: Hebrews 10:19-25&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p><em>(Note: Since writing the essays below, I&rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&rsquo;m keeping these around for posterity.)</em></p>
 <h2 id="wheaton-college-graduate-school-2017---">Wheaton College Graduate School (2017 - )</h2>
 <p><em>(Here&rsquo;s the <a href="/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">elevator pitch for my dissertation proposal</a>: &ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&rdquo;)</em></p>
 <ul>
@@ -353,34 +405,493 @@ Josh</p>
 <li><a href="/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf">The Argument/Story of Romans</a></li>
 <li><a href="/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf">Exegetical Paper: Hebrews 10:19-25</a></li>
 </ul>
-]]></content:encoded></item><item><title>Lists</title><link>https://joshuapsteele.com/lists/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/lists/</guid><description>&lt;p>This is a &lt;code>/lists&lt;/code> page, where I keep track of the lists I&amp;rsquo;m working on!&lt;/p>
-&lt;p>Last Updated: 2025-06-05&lt;/p>
-&lt;hr>
-&lt;h2 id="my-interests">My Interests&lt;/h2>
-&lt;ul>
-&lt;li>Books&lt;/li>
-&lt;li>Tools&lt;/li>
-&lt;li>Home repair&lt;/li>
-&lt;li>Auto repair&lt;/li>
-&lt;li>DIY projects&lt;/li>
-&lt;li>Writing instruments (pens, pencils, etc.)&lt;/li>
-&lt;li>Stationery (notebooks, paper, etc.)&lt;/li>
-&lt;li>Language learning&lt;/li>
-&lt;li>Travel&lt;/li>
-&lt;li>Relaxing television shows (This Old House, Great British Bake Off, etc.)&lt;/li>
-&lt;/ul>
-&lt;h2 id="things-im-not-that-interested-in">Things I&amp;rsquo;m Not That Interested In&lt;/h2>
-&lt;ul>
-&lt;li>Crypto&lt;/li>
-&lt;li>Culture wars&lt;/li>
-&lt;li>Right-wing propaganda&lt;/li>
-&lt;li>USA Evangelicalism&lt;/li>
-&lt;li>Guest posts on my blog&lt;/li>
-&lt;li>Golf&lt;/li>
-&lt;/ul>
-&lt;h2 id="habits-of-good-citizens">Habits of Good Citizens&lt;/h2>
-&lt;p>(From &lt;em>&lt;a href="https://amzn.to/43yK0Mo">The Bill of Obligations: Ten Habits of Good Citizens&lt;/a>&lt;/em> by Richard Haass)&lt;/p></description><content:encoded><![CDATA[<p>This is a <code>/lists</code> page, where I keep track of the lists I&rsquo;m working on!</p>
-<p>Last Updated: 2025-06-05</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>How to Resist Tyranny</title>
+      <link>https://joshuapsteele.com/resist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/resist/</guid>
+      <description>&lt;h2 id=&#34;online-resources&#34;&gt;Online Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://5calls.org/&#34;&gt;5Calls&lt;/a&gt;: Contact your elected officials&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://beautifultrouble.org/&#34;&gt;Beautiful Trouble Toolbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nonviolent-conflict.org/resource-library/&#34;&gt;International Center on Nonviolent Conflict Resource Library&lt;/a&gt;, specifically &lt;a href=&#34;https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&amp;amp;fwp_format=handouts-and-planning-tools&#34;&gt;these handouts and planning tools&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prt.civicus.org/&#34;&gt;Protest Resilience Toolkit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wired.com/story/how-to-protest-safely-gear-tips/&#34;&gt;&amp;ldquo;How to Protest Safely: What to Bring, What to Do, and What to Avoid&amp;rdquo; (Wired)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;20-ways-to-fight-tyranny&#34;&gt;20 Ways to Fight Tyranny&lt;/h2&gt;
+&lt;p&gt;The following 20 &amp;ldquo;lessons&amp;rdquo; are taken from Timothy Snyder&amp;rsquo;s &lt;a href=&#34;https://amzn.to/3SFZkke&#34;&gt;&lt;em&gt;On Tyranny: Twenty Lessons from the Twentieth Century&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a video of John Lithgow reading the 20 lessons: &lt;a href=&#34;https://www.youtube.com/watch?v=cXR5HLodsT8&#34;&gt;https://www.youtube.com/watch?v=cXR5HLodsT8&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<h2 id="online-resources">Online Resources</h2>
+<ul>
+<li><a href="https://5calls.org/">5Calls</a>: Contact your elected officials</li>
+<li><a href="https://beautifultrouble.org/">Beautiful Trouble Toolbox</a></li>
+<li><a href="https://www.nonviolent-conflict.org/resource-library/">International Center on Nonviolent Conflict Resource Library</a>, specifically <a href="https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&amp;fwp_format=handouts-and-planning-tools">these handouts and planning tools</a></li>
+<li><a href="https://prt.civicus.org/">Protest Resilience Toolkit</a></li>
+<li><a href="https://www.wired.com/story/how-to-protest-safely-gear-tips/">&ldquo;How to Protest Safely: What to Bring, What to Do, and What to Avoid&rdquo; (Wired)</a></li>
+</ul>
+<h2 id="20-ways-to-fight-tyranny">20 Ways to Fight Tyranny</h2>
+<p>The following 20 &ldquo;lessons&rdquo; are taken from Timothy Snyder&rsquo;s <a href="https://amzn.to/3SFZkke"><em>On Tyranny: Twenty Lessons from the Twentieth Century</em></a>.</p>
+<p>Here&rsquo;s a video of John Lithgow reading the 20 lessons: <a href="https://www.youtube.com/watch?v=cXR5HLodsT8">https://www.youtube.com/watch?v=cXR5HLodsT8</a>.</p>
+<hr>
+<h3 id="1-do-not-obey-in-advance">1. Do not obey in advance</h3>
+<p>Most of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then offer themselves without being asked. A citizen who adapts in this way is teaching power what it can do.</p>
+<h3 id="2-defend-institutions">2. Defend institutions</h3>
+<p>It is institutions that help us preserve decency. They need our help as well. Do not speak of &ldquo;our institutions&rdquo; unless you make them yours by acting on their behalf. Institutions do not protect themselves. They fall one after the other, unless each is defended from the beginning. So choose an institution you care about—a court, a newspaper, a law, a labor union—and take its side.</p>
+<h3 id="3-beware-the-one-party-state">3. Beware the one-party state</h3>
+<p>The parties that remade states and suppressed rivals were not omnipotent from the start. They exploited a historic moment to make political life impossible for their opponents. So support the multi-party sysgtem and defend the rules of democratic elections. Vote in local and state elections while you can. Consider running for office.</p>
+<h3 id="4-take-responsibility-for-the-face-of-the-world">4. Take responsibility for the face of the world</h3>
+<p>The symbols of today enable the reality of tomorrow. Notice the swastikas and the other signs of hate. Do not look away, and do not get used to them. Remove them yourself and set an example for others to do so.</p>
+<h3 id="5-remember-professional-ethics">5. Remember professional ethics</h3>
+<p>When political leaders set a negative example, professional commitments to just practice become more important. It is hard to subvert a rule-of-law state without lawyers, or to hold show trials without judges. Authoritarians need obedient civil servants, and concentration camp directors seek businessmen interested in cheap labor.</p>
+<h3 id="6-be-wary-of-paramilitaries">6. Be wary of paramilitaries</h3>
+<p>When the men with guns who have always claimed to be against the system start wearing uniforms and marching with torches and pictures of a leader, the end is nigh. When the pro-leader paramilitary and the official police and military intermingle, the end has come.</p>
+<h3 id="7-be-reflective-if-you-must-be-armed">7. Be reflective if you must be armed</h3>
+<p>If you carry a weapon in public service, may God bless you and keep you. But know that evils of the past involved policemen and soldiers finding themselves, one day, doing irregular things. Be ready to say no.</p>
+<h3 id="8-stand-out">8. Stand out</h3>
+<p>Someone has to. It is easy to follow along. It can feel strange to do or say something different. But without that unease, there is no freedom. Remember Rosa Parks. The moment you set an example, the spell of the status quo is broken, and others will follow.</p>
+<h3 id="9-be-kind-to-our-language">9. Be kind to our language</h3>
+<p>Avoid pronouncing the phrases everyone else does. Think up your own way of speaking, even if only to convey that thing you think everyone is saying. Make an effort to separate yourself from the internet. Read books.</p>
+<h3 id="10-believe-in-truth">10. Believe in truth</h3>
+<p>To abandon facts is to abandon freedom. If nothing is true, then no one can criticize power, because there is no basis upon which to do so. If nothing is true, then all is spectacle. The biggest wallet pays for the most blinding lights.</p>
+<h3 id="11-investigate">11. Investigate</h3>
+<p>Figure things out for yourself. Spend more time with long articles. Subsidize investigative journalism by subscribing to print media. Realize that some of what is on the internet is there to harm you. Learn about sites that investigate propaganda campaigns (some of which come from abroad). Take responsibility for what you communicate with others.</p>
+<h3 id="12-make-eye-contact-and-small-talk">12. Make eye contact and small talk</h3>
+<p>This is not just polite. It is part of being a citizen and a responsible member of society. It is also a way to stay in touch with your surroundings, break down social barriers, and understand whom you should and should not trust. If we enter a culture of denunciation, you will want to know the psychological landscape of your daily life.</p>
+<h3 id="13-practice-corporeal-politics">13. Practice corporeal politics</h3>
+<p>Power wants your body softening in your chair and your emotions dissipating on the screen. Get outside. Put your body in unfamiliar places with unfamiliar people. Make new friends and march with them.</p>
+<h3 id="14-establish-a-private-life">14. Establish a private life</h3>
+<p>Nastier rulers will use what they know about you to push you around. Scrub your computer of malware on a regular basis. Remember that email is skywriting. Consider using alternative forms of the internet, or simply using it less. Have personal exchanges in person. For the same reason, resolve any legal trouble. Tyrants seek the hook on which to hang you. Try not to have hooks.</p>
+<h3 id="15-contribute-to-good-causes">15. Contribute to good causes</h3>
+<p>Be active in organizations, political or not, that express your own view of life. Pick a charity or two and set up autopay. Then you will have made a free choice that supports civil society and helps others to do good.</p>
+<h3 id="16-learn-from-peers-in-other-countries">16. Learn from peers in other countries</h3>
+<p>Keep up your friendships abroad, or make new friends abroad. The present difficulties in the United States are an element of a larger trend. And no country is going to find a solution by itself. Make sure you and your family have passports.</p>
+<h3 id="17-listen-for-dangerous-words">17. Listen for dangerous words</h3>
+<p>Be alert to the use of the words extremism and terrorism. Be alive to the fatal notions of emergency and exception. Be angry about the treacherous use of patriotic vocabulary.</p>
+<h3 id="18-be-calm-when-the-unthinkable-arrives">18. Be calm when the unthinkable arrives</h3>
+<p>Modern tyranny is terror management. When the terrorist attack comes, remember that authoritarians exploit such events in order to consolidate power. Do not fall for it.</p>
+<h3 id="19-be-a-patriot">19. Be a patriot</h3>
+<p>Set a good example of what America means for the generations to come.</p>
+<h3 id="20-be-as-courageous-as-you-can">20. Be as courageous as you can</h3>
+<p>If none of us is prepared to die for freedom, then all of us will die under tyranny.</p>
+<hr>
+<h2 id="10-habits-of-good-citizens">10 Habits of Good Citizens</h2>
+<p>(From <a href="https://amzn.to/43yK0Mo"><em>The Bill of Obligations: Ten Habits of Good Citizens</em></a> by Richard Haass)</p>
+<h3 id="1-be-informed">1. Be Informed</h3>
+<p>Citizens should actively seek accurate, diverse, and reliable information to make thoughtful decisions, especially in an era of disinformation.</p>
+<h3 id="2-get-involved">2. Get Involved</h3>
+<p>Participation in civic life—voting, community service, and public discourse—is essential to a functioning democracy.</p>
+<h3 id="3-stay-open-to-compromise">3. Stay Open to Compromise</h3>
+<p>Democracy requires negotiation and finding common ground, even when it means not getting everything one wants.</p>
+<h3 id="4-remain-civil">4. Remain Civil</h3>
+<p>Engaging respectfully with others, including those with differing views, helps maintain a healthy public sphere.</p>
+<h3 id="5-reject-violence">5. Reject Violence</h3>
+<p>Violence undermines democratic processes and must be unequivocally condemned as a means of political expression.</p>
+<h3 id="6-value-norms">6. Value Norms</h3>
+<p>Beyond laws, unwritten norms—like respecting election outcomes and institutional integrity—are vital to democracy.</p>
+<h3 id="7-promote-the-common-good">7. Promote the Common Good</h3>
+<p>Citizens should prioritize the well-being of the community and nation over narrow self-interests.</p>
+<h3 id="8-respect-government-service">8. Respect Government Service</h3>
+<p>Recognizing and valuing the role of public servants fosters trust and encourages effective governance.</p>
+<h3 id="9-support-the-teaching-of-civics">9. Support the Teaching of Civics</h3>
+<p>Educating current and future generations about democratic principles and responsibilities is crucial.</p>
+<h3 id="10-put-country-first">10. Put Country First</h3>
+<p>Loyalty to democratic ideals and the nation should take precedence over partisan or personal loyalties.</p>
+<hr>
+<h2 id="198-methods-of-nonviolent-action">198 Methods of Nonviolent Action</h2>
+<p>The following 198 methods of nonviolent action are taken from Gene Sharp&rsquo;s <a href="https://amzn.to/4kXevBx"><em>The Politics of Nonviolent Action</em></a>.</p>
+<h3 id="the-methods-of-nonviolent-protest-and-persuasion">The Methods of Nonviolent Protest and Persuasion</h3>
+<h4 id="formal-statements">Formal Statements</h4>
+<ol>
+<li>Public Speeches</li>
+<li>Letters of opposition or support</li>
+<li>Declarations by organizations and institutions</li>
+<li>Signed public statements</li>
+<li>Declarations of indictment and intention</li>
+<li>Group or mass petitions</li>
+</ol>
+<h4 id="communications-with-a-wider-audience">Communications with a Wider Audience</h4>
+<ol start="7">
+<li>Slogans, caricatures, and symbols</li>
+<li>Banners, posters, and displayed communications</li>
+<li>Leaflets, pamphlets, and books</li>
+<li>Newspapers and journals</li>
+<li>Records, radio, and television</li>
+<li>Skywriting and earthwriting</li>
+</ol>
+<h4 id="group-representations">Group Representations</h4>
+<ol start="13">
+<li>Deputations</li>
+<li>Mock awards</li>
+<li>Group lobbying</li>
+<li>Picketing</li>
+<li>Mock elections</li>
+</ol>
+<h4 id="symbolic-public-acts">Symbolic Public Acts</h4>
+<ol start="18">
+<li>Displays of flags and symbolic colors</li>
+<li>Wearing of symbols</li>
+<li>Prayer and worship</li>
+<li>Delivering symbolic objects</li>
+<li>Protest disrobings</li>
+<li>Destruction of own property</li>
+<li>Symbolic lights</li>
+<li>Displays of portraits</li>
+<li>Paint as protest</li>
+<li>New signs and names</li>
+<li>Symbolic sounds</li>
+<li>Symbolic reclamations</li>
+<li>Rude gestures</li>
+</ol>
+<h4 id="pressure-on-individuals">Pressure on Individuals</h4>
+<ol start="31">
+<li>“Haunting” officials</li>
+<li>Taunting officials</li>
+<li>Fraternization</li>
+<li>Vigils</li>
+</ol>
+<h4 id="drama--music">Drama &amp; Music</h4>
+<ol start="35">
+<li>Humorous skits and pranks</li>
+<li>Performances of plays and music</li>
+<li>Singing</li>
+</ol>
+<h4 id="processions">Processions</h4>
+<ol start="38">
+<li>Marches</li>
+<li>Parades</li>
+<li>Religious processions</li>
+<li>Pilgrimages</li>
+<li>Motorcades</li>
+</ol>
+<h4 id="honoring-the-dead">Honoring the Dead</h4>
+<ol start="43">
+<li>Political mourning</li>
+<li>Mock funerals</li>
+<li>Demonstrative funerals</li>
+<li>Homage at burial places</li>
+</ol>
+<h4 id="public-assemblies">Public Assemblies</h4>
+<ol start="47">
+<li>Assemblies of protest or support</li>
+<li>Protest meetings</li>
+<li>Camouflaged meetings of protest</li>
+<li>Teach-ins</li>
+</ol>
+<h4 id="withdrawal-and-renunciation">Withdrawal and Renunciation</h4>
+<ol start="51">
+<li>Walk-outs</li>
+<li>Silence</li>
+<li>Renouncing honor</li>
+<li>Turning one’s back</li>
+</ol>
+<h3 id="the-methods-of-social-noncooperation">The Methods of Social Noncooperation</h3>
+<h4 id="ostracism-of-persons">Ostracism of Persons</h4>
+<ol start="55">
+<li>Social boycott</li>
+<li>Selective social boycott</li>
+<li>Lysistratic nonaction</li>
+<li>Excommunication</li>
+<li>Interdict</li>
+</ol>
+<h4 id="noncooperation-with-social-events-customs--institutions">Noncooperation with Social Events, Customs &amp; Institutions</h4>
+<ol start="60">
+<li>Suspension of social and sports activities</li>
+<li>Boycott of social affairs</li>
+<li>Student strike</li>
+<li>Social disobedience</li>
+<li>Withdrawal from social institutions</li>
+</ol>
+<h4 id="withdrawal-from-the-social-system">Withdrawal from the Social System</h4>
+<ol start="65">
+<li>Stay-at-home</li>
+<li>Total personal noncooperation</li>
+<li>“Flight” of workers</li>
+<li>Sanctuary</li>
+<li>Collective disappearance</li>
+<li>Protest emigration (hijrat)</li>
+</ol>
+<h3 id="the-methods-of-economic-noncooperation-economic-boycotts">The Methods of Economic Noncooperation: Economic Boycotts</h3>
+<h4 id="action-by-consumers">Action by Consumers</h4>
+<ol start="71">
+<li>Consumers’ boycott</li>
+<li>Nonconsumption of boycotted goods</li>
+<li>Policy of austerity</li>
+<li>Rent withholding</li>
+<li>Refusal to rent</li>
+<li>National consumers’ boycott</li>
+<li>International consumers’ boycott</li>
+</ol>
+<h4 id="action-by-workers--producers">Action by Workers &amp; Producers</h4>
+<ol start="78">
+<li>Workmen’s boycott</li>
+<li>Producers’ boycott</li>
+</ol>
+<h4 id="action-by-middlemen">Action by Middlemen</h4>
+<ol start="80">
+<li>Suppliers’ and handlers’ boycott</li>
+</ol>
+<h4 id="action-by-owners--management">Action by Owners &amp; Management</h4>
+<ol start="81">
+<li>Traders’ boycott</li>
+<li>Refusal to let or sell property</li>
+<li>Lockout</li>
+<li>Refusal of industrial assistance</li>
+<li>Merchants’ “general strike”</li>
+</ol>
+<h4 id="action-by-holders-of-financial-resources">Action by Holders of Financial Resources</h4>
+<ol start="86">
+<li>Withdrawal of bank deposits</li>
+<li>Refusal to pay fees, dues, and assessments</li>
+<li>Refusal to pay debts or interest</li>
+<li>Severance of funds and credit</li>
+<li>Revenue refusal</li>
+<li>Refusal of a government’s money</li>
+</ol>
+<h4 id="action-by-governments">Action by Governments</h4>
+<ol start="92">
+<li>Domestic embargo</li>
+<li>Blacklisting of traders</li>
+<li>International sellers’ embargo</li>
+<li>International buyers’ embargo</li>
+<li>International trade embargo</li>
+</ol>
+<h3 id="the-methods-of-economic-noncooperation-the-strike">The Methods of Economic Noncooperation: The Strike</h3>
+<h4 id="symbolic-strikes">Symbolic Strikes</h4>
+<ol start="97">
+<li>Protest strike</li>
+<li>Quickie walkout (lightning strike)</li>
+</ol>
+<h4 id="agricultural-strikes">Agricultural Strikes</h4>
+<ol start="99">
+<li>Peasant strike</li>
+<li>Farm Workers’ strike</li>
+</ol>
+<h4 id="strikes-by-special-groups">Strikes by Special Groups</h4>
+<ol start="101">
+<li>Refusal of impressed labor</li>
+<li>Prisoners’ strike</li>
+<li>Craft strike</li>
+<li>Professional strike</li>
+</ol>
+<h4 id="ordinary-industrial-strikes">Ordinary Industrial Strikes</h4>
+<ol start="105">
+<li>Establishment strike</li>
+<li>Industry strike</li>
+<li>Sympathetic strike</li>
+</ol>
+<h4 id="restricted-strikes">Restricted Strikes</h4>
+<ol start="108">
+<li>Detailed strike</li>
+<li>Bumper strike</li>
+<li>Slowdown strike</li>
+<li>Working-to-rule strike</li>
+<li>Reporting “sick” (sick-in)</li>
+<li>Strike by resignation</li>
+<li>Limited strike</li>
+<li>Selective strike</li>
+</ol>
+<h4 id="multi-industry-strikes">Multi-industry Strikes</h4>
+<ol start="116">
+<li>Generalized strike</li>
+<li>General strike</li>
+</ol>
+<h4 id="combination-of-strikes--economic-closures">Combination of Strikes &amp; Economic Closures</h4>
+<ol start="118">
+<li>Hartal</li>
+<li>Economic shutdown</li>
+</ol>
+<h3 id="the-methods-of-political-noncooperation">The Methods of Political Noncooperation</h3>
+<h4 id="rejection-of-authority">Rejection of Authority</h4>
+<ol start="120">
+<li>Withholding or withdrawal of allegiance</li>
+<li>Refusal of public support</li>
+<li>Literature and speeches advocating resistance</li>
+</ol>
+<h4 id="citizens-noncooperation-with-government">Citizens’ Noncooperation with Government</h4>
+<ol start="123">
+<li>Boycott of legislative bodies</li>
+<li>Boycott of elections</li>
+<li>Boycott of government employment and positions</li>
+<li>Boycott of government depts., agencies, and other bodies</li>
+<li>Withdrawal from government educational institutions</li>
+<li>Boycott of government-supported organizations</li>
+<li>Refusal of assistance to enforcement agents</li>
+</ol>
+<h4 id="citizens-alternatives-to-obedience">Citizens’ Alternatives to Obedience</h4>
+<ol start="130">
+<li>
+<p>Removal of own signs and placemarks</p>
+</li>
+<li>
+<p>Refusal to accept appointed officials</p>
+</li>
+<li>
+<p>Refusal to dissolve existing institutions</p>
+</li>
+<li>
+<p>Reluctant and slow compliance</p>
+</li>
+<li>
+<p>Nonobedience in absence of direct supervision</p>
+</li>
+<li>
+<p>Popular nonobedience</p>
+</li>
+<li>
+<p>Disguised disobedience</p>
+</li>
+<li>
+<p>Refusal of an assemblage or meeting to disperse</p>
+</li>
+<li>
+<p>Sitdown</p>
+</li>
+<li>
+<p>Noncooperation with conscription and deportation</p>
+</li>
+<li>
+<p>Hiding, escape, and false identities</p>
+</li>
+<li>
+<p>Civil disobedience of “illegitimate” laws</p>
+</li>
+</ol>
+<h4 id="action-by-government-personnel">Action by Government Personnel</h4>
+<ol start="142">
+<li>Selective refusal of assistance by government aides</li>
+<li>Blocking of lines of command and information</li>
+<li>Stalling and obstruction</li>
+<li>General administrative noncooperation</li>
+<li>Judicial noncooperation</li>
+<li>Deliberate inefficiency and selective noncooperation by enforcement agents</li>
+<li>Mutiny</li>
+</ol>
+<h4 id="domestic-governmental-action">Domestic governmental action</h4>
+<ol start="149">
+<li>Quasi-legal evasions and delays</li>
+<li>Noncooperation by constituent governmental units</li>
+</ol>
+<h4 id="international-governmental-action">International governmental action</h4>
+<ol start="151">
+<li>Changes in diplomatic and other representations</li>
+<li>Delay and cancellation of diplomatic events</li>
+<li>Withholding of diplomatic recognition</li>
+<li>Severance of diplomatic relations</li>
+<li>Withdrawal from international organizations</li>
+<li>Refusal of membership in international bodies</li>
+<li>Expulsion from international organizations</li>
+</ol>
+<h3 id="the-methods-of-nonviolent-intervention">The Methods of Nonviolent Intervention</h3>
+<h4 id="psychological-intervention">Psychological Intervention</h4>
+<ol start="158">
+<li>Self-exposure to the elements</li>
+<li>The fast: a) Fast of moral pressure, b) Hunger strike, c) Satyagrahic fast</li>
+<li>Reverse trial</li>
+<li>Nonviolent harassment</li>
+</ol>
+<h4 id="physical-intervention">Physical Intervention</h4>
+<ol start="162">
+<li>Sit-in</li>
+<li>Stand-in</li>
+<li>Ride-in</li>
+<li>Wade-in</li>
+<li>Mill-in</li>
+<li>Pray-in</li>
+<li>Nonviolent raids</li>
+<li>Nonviolent air raids</li>
+<li>Nonviolent invasion</li>
+<li>Nonviolent interjection</li>
+<li>Nonviolent obstruction</li>
+<li>Nonviolent occupation</li>
+</ol>
+<h4 id="social-intervention">Social Intervention</h4>
+<ol start="174">
+<li>Establishing new social patterns</li>
+<li>Overloading of facilities</li>
+<li>Stall-in</li>
+<li>Speak-in</li>
+<li>Guerrilla theater</li>
+<li>Alternative social institutions</li>
+<li>Alternative communication system</li>
+</ol>
+<h4 id="economic-intervention">Economic Intervention</h4>
+<ol start="181">
+<li>Reverse strike</li>
+<li>Stay-in strike</li>
+<li>Nonviolent land seizure</li>
+<li>Defiance of blockades</li>
+<li>Politically motivated counterfeiting</li>
+<li>Preclusive purchasing</li>
+<li>Seizure of assets</li>
+<li>Dumping</li>
+<li>Selective patronage</li>
+<li>Alternative markets</li>
+<li>Alternative transportation systems</li>
+<li>Alternative economic institutions</li>
+</ol>
+<h4 id="political-intervention">Political Intervention</h4>
+<ol start="193">
+<li>Overloading of administrative systems</li>
+<li>Disclosing identities of secret agents</li>
+<li>Seeking imprisonment</li>
+<li>Civil disobedience of “neutral” laws</li>
+<li>Work-on without collaboration</li>
+<li>Dual sovereignty and parallel government</li>
+</ol>
+<hr>
+<h2 id="generally-reliable-information-sources">Generally Reliable Information Sources</h2>
+<h3 id="news">News</h3>
+<ul>
+<li><a href="https://apnews.com/">Associated Press</a></li>
+<li><a href="https://www.economist.com/">The Economist</a></li>
+<li><a href="https://ground.news/">Ground News</a></li>
+<li><a href="https://www.reuters.com/">Reuters</a></li>
+</ul>
+<h3 id="newsletters">Newsletters</h3>
+<ul>
+<li><a href="https://adamkinzinger.substack.com/">Adam Kinzinger&rsquo;s Newsletter</a></li>
+<li><a href="https://heathercoxrichardson.substack.com/">Heather Cox Richardson&rsquo;s Newsletter</a></li>
+<li><a href="https://snyder.substack.com/">Timothy Snyder&rsquo;s Newsletter</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Lists</title>
+      <link>https://joshuapsteele.com/lists/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/lists/</guid>
+      <description>&lt;p&gt;This is a &lt;code&gt;/lists&lt;/code&gt; page, where I keep track of the lists I&amp;rsquo;m working on!&lt;/p&gt;
+&lt;p&gt;Last Updated: 2025-06-10&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;my-interests&#34;&gt;My Interests&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Books&lt;/li&gt;
+&lt;li&gt;Tools&lt;/li&gt;
+&lt;li&gt;Home repair&lt;/li&gt;
+&lt;li&gt;Auto repair&lt;/li&gt;
+&lt;li&gt;DIY projects&lt;/li&gt;
+&lt;li&gt;Writing instruments (pens, pencils, etc.)&lt;/li&gt;
+&lt;li&gt;Stationery (notebooks, paper, etc.)&lt;/li&gt;
+&lt;li&gt;Language learning&lt;/li&gt;
+&lt;li&gt;Travel&lt;/li&gt;
+&lt;li&gt;Relaxing television shows (This Old House, Great British Bake Off, etc.)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;things-im-not-that-interested-in&#34;&gt;Things I&amp;rsquo;m Not That Interested In&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Crypto&lt;/li&gt;
+&lt;li&gt;Culture wars&lt;/li&gt;
+&lt;li&gt;Right-wing propaganda&lt;/li&gt;
+&lt;li&gt;USA Evangelicalism&lt;/li&gt;
+&lt;li&gt;Guest posts on my blog&lt;/li&gt;
+&lt;li&gt;Golf&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;20-ways-to-fight-tyranny&#34;&gt;20 Ways to Fight Tyranny&lt;/h2&gt;
+&lt;p&gt;The following 20 &amp;ldquo;lessons&amp;rdquo; are taken from Timothy Snyder&amp;rsquo;s &lt;a href=&#34;https://amzn.to/3SFZkke&#34;&gt;&lt;em&gt;On Tyranny: Twenty Lessons from the Twentieth Century&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is a <code>/lists</code> page, where I keep track of the lists I&rsquo;m working on!</p>
+<p>Last Updated: 2025-06-10</p>
 <hr>
 <h2 id="my-interests">My Interests</h2>
 <ul>
@@ -404,6 +915,52 @@ Josh</p>
 <li>Guest posts on my blog</li>
 <li>Golf</li>
 </ul>
+<hr>
+<h2 id="20-ways-to-fight-tyranny">20 Ways to Fight Tyranny</h2>
+<p>The following 20 &ldquo;lessons&rdquo; are taken from Timothy Snyder&rsquo;s <a href="https://amzn.to/3SFZkke"><em>On Tyranny: Twenty Lessons from the Twentieth Century</em></a>.</p>
+<p>Here&rsquo;s a video of John Lithgow reading the 20 lessons: <a href="https://www.youtube.com/watch?v=cXR5HLodsT8">https://www.youtube.com/watch?v=cXR5HLodsT8</a>.</p>
+<hr>
+<h3 id="1-do-not-obey-in-advance">1. Do not obey in advance</h3>
+<p>Most of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then offer themselves without being asked. A citizen who adapts in this way is teaching power what it can do.</p>
+<h3 id="2-defend-institutions">2. Defend institutions</h3>
+<p>It is institutions that help us preserve decency. They need our help as well. Do not speak of &ldquo;our institutions&rdquo; unless you make them yours by acting on their behalf. Institutions do not protect themselves. They fall one after the other, unless each is defended from the beginning. So choose an institution you care about—a court, a newspaper, a law, a labor union—and take its side.</p>
+<h3 id="3-beware-the-one-party-state">3. Beware the one-party state</h3>
+<p>The parties that remade states and suppressed rivals were not omnipotent from the start. They exploited a historic moment to make political life impossible for their opponents. So support the multi-party sysgtem and defend the rules of democratic elections. Vote in local and state elections while you can. Consider running for office.</p>
+<h3 id="4-take-responsibility-for-the-face-of-the-world">4. Take responsibility for the face of the world</h3>
+<p>The symbols of today enable the reality of tomorrow. Notice the swastikas and the other signs of hate. Do not look away, and do not get used to them. Remove them yourself and set an example for others to do so.</p>
+<h3 id="5-remember-professional-ethics">5. Remember professional ethics</h3>
+<p>When political leaders set a negative example, professional commitments to just practice become more important. It is hard to subvert a rule-of-law state without lawyers, or to hold show trials without judges. Authoritarians need obedient civil servants, and concentration camp directors seek businessmen interested in cheap labor.</p>
+<h3 id="6-be-wary-of-paramilitaries">6. Be wary of paramilitaries</h3>
+<p>When the men with guns who have always claimed to be against the system start wearing uniforms and marching with torches and pictures of a leader, the end is nigh. When the pro-leader paramilitary and the official police and military intermingle, the end has come.</p>
+<h3 id="7-be-reflective-if-you-must-be-armed">7. Be reflective if you must be armed</h3>
+<p>If you carry a weapon in public service, may God bless you and keep you. But know that evils of the past involved policemen and soldiers finding themselves, one day, doing irregular things. Be ready to say no.</p>
+<h3 id="8-stand-out">8. Stand out</h3>
+<p>Someone has to. It is easy to follow along. It can feel strange to do or say something different. But without that unease, there is no freedom. Remember Rosa Parks. The moment you set an example, the spell of the status quo is broken, and others will follow.</p>
+<h3 id="9-be-kind-to-our-language">9. Be kind to our language</h3>
+<p>Avoid pronouncing the phrases everyone else does. Think up your own way of speaking, even if only to convey that thing you think everyone is saying. Make an effort to separate yourself from the internet. Read books.</p>
+<h3 id="10-believe-in-truth">10. Believe in truth</h3>
+<p>To abandon facts is to abandon freedom. If nothing is true, then no one can criticize power, because there is no basis upon which to do so. If nothing is true, then all is spectacle. The biggest wallet pays for the most blinding lights.</p>
+<h3 id="11-investigate">11. Investigate</h3>
+<p>Figure things out for yourself. Spend more time with long articles. Subsidize investigative journalism by subscribing to print media. Realize that some of what is on the internet is there to harm you. Learn about sites that investigate propaganda campaigns (some of which come from abroad). Take responsibility for what you communicate with others.</p>
+<h3 id="12-make-eye-contact-and-small-talk">12. Make eye contact and small talk</h3>
+<p>This is not just polite. It is part of being a citizen and a responsible member of society. It is also a way to stay in touch with your surroundings, break down social barriers, and understand whom you should and should not trust. If we enter a culture of denunciation, you will want to know the psychological landscape of your daily life.</p>
+<h3 id="13-practice-corporeal-politics">13. Practice corporeal politics</h3>
+<p>Power wants your body softening in your chair and your emotions dissipating on the screen. Get outside. Put your body in unfamiliar places with unfamiliar people. Make new friends and march with them.</p>
+<h3 id="14-establish-a-private-life">14. Establish a private life</h3>
+<p>Nastier rulers will use what they know about you to push you around. Scrub your computer of malware on a regular basis. Remember that email is skywriting. Consider using alternative forms of the internet, or simply using it less. Have personal exchanges in person. For the same reason, resolve any legal trouble. Tyrants seek the hook on which to hang you. Try not to have hooks.</p>
+<h3 id="15-contribute-to-good-causes">15. Contribute to good causes</h3>
+<p>Be active in organizations, political or not, that express your own view of life. Pick a charity or two and set up autopay. Then you will have made a free choice that supports civil society and helps others to do good.</p>
+<h3 id="16-learn-from-peers-in-other-countries">16. Learn from peers in other countries</h3>
+<p>Keep up your friendships abroad, or make new friends abroad. The present difficulties in the United States are an element of a larger trend. And no country is going to find a solution by itself. Make sure you and your family have passports.</p>
+<h3 id="17-listen-for-dangerous-words">17. Listen for dangerous words</h3>
+<p>Be alert to the use of the words extremism and terrorism. Be alive to the fatal notions of emergency and exception. Be angry about the treacherous use of patriotic vocabulary.</p>
+<h3 id="18-be-calm-when-the-unthinkable-arrives">18. Be calm when the unthinkable arrives</h3>
+<p>Modern tyranny is terror management. When the terrorist attack comes, remember that authoritarians exploit such events in order to consolidate power. Do not fall for it.</p>
+<h3 id="19-be-a-patriot">19. Be a patriot</h3>
+<p>Set a good example of what America means for the generations to come.</p>
+<h3 id="20-be-as-courageous-as-you-can">20. Be as courageous as you can</h3>
+<p>If none of us is prepared to die for freedom, then all of us will die under tyranny.</p>
+<hr>
 <h2 id="habits-of-good-citizens">Habits of Good Citizens</h2>
 <p>(From <em><a href="https://amzn.to/43yK0Mo">The Bill of Obligations: Ten Habits of Good Citizens</a></em> by Richard Haass)</p>
 <ol>
@@ -471,9 +1028,17 @@ Josh</p>
 <li><a href="https://www.youtube.com/@thisoldhouse">This Old House</a></li>
 <li><a href="https://www.youtube.com/@veritasium">Veritasium</a></li>
 </ul>
-]]></content:encoded></item><item><title>My Story</title><link>https://joshuapsteele.com/my-story/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/my-story/</guid><description>&lt;p>&lt;em>Note: I haven&amp;rsquo;t updated this &amp;ldquo;My Story&amp;rdquo; page in quite some time. Check &lt;a href="https://joshuapsteele.com/now/">my &amp;ldquo;Now&amp;rdquo; page&lt;/a> for more recent updates. But here&amp;rsquo;s the TL;DR: We&amp;rsquo;ve got three kids now. I quit my Ph.D. program, &lt;a href="https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry&lt;/a>, and now &lt;a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">work full-time as a software engineer&lt;/a>. But I&amp;rsquo;m leaving this old &amp;ldquo;My Story&amp;rdquo; page up as a window into how I summarized my story back in 2021.&lt;/em>&lt;/p>
-&lt;h2 id="from-childhood-to-college">From Childhood to College&lt;/h2>
-&lt;p>God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p></description><content:encoded><![CDATA[<p><em>Note: I haven&rsquo;t updated this &ldquo;My Story&rdquo; page in quite some time. Check <a href="/now/">my &ldquo;Now&rdquo; page</a> for more recent updates. But here&rsquo;s the TL;DR: We&rsquo;ve got three kids now. I quit my Ph.D. program, <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>, and now <a href="/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">work full-time as a software engineer</a>. But I&rsquo;m leaving this old &ldquo;My Story&rdquo; page up as a window into how I summarized my story back in 2021.</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My Story</title>
+      <link>https://joshuapsteele.com/my-story/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/my-story/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Note: I haven&amp;rsquo;t updated this &amp;ldquo;My Story&amp;rdquo; page in quite some time. Check &lt;a href=&#34;https://joshuapsteele.com/now/&#34;&gt;my &amp;ldquo;Now&amp;rdquo; page&lt;/a&gt; for more recent updates. But here&amp;rsquo;s the TL;DR: We&amp;rsquo;ve got three kids now. I quit my Ph.D. program, &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;, and now &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;work full-time as a software engineer&lt;/a&gt;. But I&amp;rsquo;m leaving this old &amp;ldquo;My Story&amp;rdquo; page up as a window into how I summarized my story back in 2021.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;from-childhood-to-college&#34;&gt;From Childhood to College&lt;/h2&gt;
+&lt;p&gt;God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><em>Note: I haven&rsquo;t updated this &ldquo;My Story&rdquo; page in quite some time. Check <a href="/now/">my &ldquo;Now&rdquo; page</a> for more recent updates. But here&rsquo;s the TL;DR: We&rsquo;ve got three kids now. I quit my Ph.D. program, <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>, and now <a href="/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">work full-time as a software engineer</a>. But I&rsquo;m leaving this old &ldquo;My Story&rdquo; page up as a window into how I summarized my story back in 2021.</em></p>
 <h2 id="from-childhood-to-college">From Childhood to College</h2>
 <p>God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.</p>
 <p>At age five, I prayed the “sinner’s prayer” after my dad shared the gospel with me. But after I read the first <em>Left Behind</em> book at age ten, I was terrified about my eternal destiny. After all, I could not directly remember my mindset at age five. Was I really sincere, or did I merely pray the prayer to make my dad happy? Searching for certainty, I lost many hours of sleep worrying that my family members were being raptured without me that very moment.</p>
@@ -498,16 +1063,24 @@ Josh</p>
 <blockquote>
 <p>“Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.”</p></blockquote>
 <p>May it be so. Amen.</p>
-]]></content:encoded></item><item><title>Now</title><link>https://joshuapsteele.com/now/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/now/</guid><description>&lt;p>These days, I&amp;rsquo;m:&lt;/p>
-&lt;ul>
-&lt;li>Raising 3 young kids (6yo, 4yo, 2yo) with my wife&lt;/li>
-&lt;li>Enjoying my work as a software engineer&lt;/li>
-&lt;li>Trying to lose weight (current weight: 220lbs; goal: 200lbs)&lt;/li>
-&lt;li>Working on home repair projects&lt;/li>
-&lt;li>Buying too many books and tools&lt;/li>
-&lt;/ul>
-&lt;p>&lt;em>(This is a &lt;a href="https://nownownow.com/about">now page&lt;/a>, and if you have your own site, &lt;a href="https://nownownow.com/about">you should make one&lt;/a>, too.)&lt;/em>&lt;/p>
-&lt;p>Last updated: 2025-05-19&lt;/p></description><content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Now</title>
+      <link>https://joshuapsteele.com/now/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/now/</guid>
+      <description>&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Raising 3 young kids (6yo, 4yo, 2yo) with my wife&lt;/li&gt;
+&lt;li&gt;Enjoying my work as a software engineer&lt;/li&gt;
+&lt;li&gt;Trying to lose weight (current weight: 220lbs; goal: 200lbs)&lt;/li&gt;
+&lt;li&gt;Working on home repair projects&lt;/li&gt;
+&lt;li&gt;Buying too many books and tools&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, and if you have your own site, &lt;a href=&#34;https://nownownow.com/about&#34;&gt;you should make one&lt;/a&gt;, too.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Last updated: 2025-05-19&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
 <ul>
 <li>Raising 3 young kids (6yo, 4yo, 2yo) with my wife</li>
 <li>Enjoying my work as a software engineer</li>
@@ -517,10 +1090,18 @@ Josh</p>
 </ul>
 <p><em>(This is a <a href="https://nownownow.com/about">now page</a>, and if you have your own site, <a href="https://nownownow.com/about">you should make one</a>, too.)</em></p>
 <p>Last updated: 2025-05-19</p>
-]]></content:encoded></item><item><title>Philosophy of Ministry</title><link>https://joshuapsteele.com/philosophy-of-ministry/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/philosophy-of-ministry/</guid><description>&lt;p>&lt;em>(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href="https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry&lt;/a>. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em>&lt;/p>
-&lt;hr>
-&lt;p>Every Christian is a theologian.&lt;/p>
-&lt;p>I consider it my life&amp;rsquo;s work to help &amp;ldquo;everyday Christians&amp;rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&amp;rsquo;s redemptive work in the world. In biblical terms, I&amp;rsquo;m called to &amp;ldquo;equip the saints for the work of ministry&amp;rdquo; and to &amp;ldquo;build up the body of Christ&amp;rdquo; (Eph. 4:12).&lt;/p></description><content:encoded><![CDATA[<p><em>(Note: Since writing this &ldquo;philosophy of ministry&rdquo;, I have since <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>. I now work full-time as a software engineer, and am trying to discern what my Christian &ldquo;vocation&rdquo; looks like, going forward. Nevertheless, I will leave what I&rsquo;ve written below for posterity.)</em></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Philosophy of Ministry</title>
+      <link>https://joshuapsteele.com/philosophy-of-ministry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/philosophy-of-ministry/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Every Christian is a theologian.&lt;/p&gt;
+&lt;p&gt;I consider it my life&amp;rsquo;s work to help &amp;ldquo;everyday Christians&amp;rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&amp;rsquo;s redemptive work in the world. In biblical terms, I&amp;rsquo;m called to &amp;ldquo;equip the saints for the work of ministry&amp;rdquo; and to &amp;ldquo;build up the body of Christ&amp;rdquo; (Eph. 4:12).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><em>(Note: Since writing this &ldquo;philosophy of ministry&rdquo;, I have since <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>. I now work full-time as a software engineer, and am trying to discern what my Christian &ldquo;vocation&rdquo; looks like, going forward. Nevertheless, I will leave what I&rsquo;ve written below for posterity.)</em></p>
 <hr>
 <p>Every Christian is a theologian.</p>
 <p>I consider it my life&rsquo;s work to help &ldquo;everyday Christians&rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&rsquo;s redemptive work in the world. In biblical terms, I&rsquo;m called to &ldquo;equip the saints for the work of ministry&rdquo; and to &ldquo;build up the body of Christ&rdquo; (Eph. 4:12).</p>
@@ -539,19 +1120,27 @@ Josh</p>
 </ul>
 <p>Such is the ministry of Word and Sacrament to which I have been called and ordained within Christ’s Church.</p>
 <p>At the end of the day, as a pastor, I am not a CEO, guru, or celebrity speaker. Instead, I am an under-shepherd, with delegated authority from the Good Shepherd to feed and equip his flock to do the work he has called us all to do.</p>
-]]></content:encoded></item><item><title>Questions</title><link>https://joshuapsteele.com/questions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/questions/</guid><description>&lt;p>This is a &lt;code>/questions&lt;/code> page, where I keep track of the questions I&amp;rsquo;m asking!&lt;/p>
-&lt;p>Last Updated: 2025-03-15&lt;/p>
-&lt;h2 id="questions-im-asking">Questions I&amp;rsquo;m Asking&lt;/h2>
-&lt;p>(These are in addition to &lt;a href="https://joshuapsteele.com/questions-worth-asking/">these &amp;ldquo;self-elicitation&amp;rdquo; questions, which are always worth asking yourself&lt;/a>!)&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>Are &amp;ldquo;/questions&amp;rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please &lt;a href="https://joshuapsteele.com/contact">let me know&lt;/a>!&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>What&amp;rsquo;s a good &amp;ldquo;budget&amp;rdquo; version of a &lt;a href="https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;amp;qid=1671342063&amp;amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Veto Pro Pac TP-LC tool bag&lt;/a>?&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>What are the most useful lengths and kinds of rope to have on hand?&lt;/p></description><content:encoded><![CDATA[<p>This is a <code>/questions</code> page, where I keep track of the questions I&rsquo;m asking!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Questions</title>
+      <link>https://joshuapsteele.com/questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/questions/</guid>
+      <description>&lt;p&gt;This is a &lt;code&gt;/questions&lt;/code&gt; page, where I keep track of the questions I&amp;rsquo;m asking!&lt;/p&gt;
+&lt;p&gt;Last Updated: 2025-03-15&lt;/p&gt;
+&lt;h2 id=&#34;questions-im-asking&#34;&gt;Questions I&amp;rsquo;m Asking&lt;/h2&gt;
+&lt;p&gt;(These are in addition to &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;these &amp;ldquo;self-elicitation&amp;rdquo; questions, which are always worth asking yourself&lt;/a&gt;!)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Are &amp;ldquo;/questions&amp;rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please &lt;a href=&#34;https://joshuapsteele.com/contact&#34;&gt;let me know&lt;/a&gt;!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What&amp;rsquo;s a good &amp;ldquo;budget&amp;rdquo; version of a &lt;a href=&#34;https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;amp;qid=1671342063&amp;amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Veto Pro Pac TP-LC tool bag&lt;/a&gt;?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What are the most useful lengths and kinds of rope to have on hand?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>This is a <code>/questions</code> page, where I keep track of the questions I&rsquo;m asking!</p>
 <p>Last Updated: 2025-03-15</p>
 <h2 id="questions-im-asking">Questions I&rsquo;m Asking</h2>
 <p>(These are in addition to <a href="/questions-worth-asking/">these &ldquo;self-elicitation&rdquo; questions, which are always worth asking yourself</a>!)</p>
@@ -616,122 +1205,130 @@ Josh</p>
 </ul>
 <hr>
 <p>What questions <em>should</em> I be asking? <a href="/contact">Let me know</a>!</p>
-]]></content:encoded></item><item><title>Recommended Tools and Resources</title><link>https://joshuapsteele.com/resources/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/resources/</guid><description>&lt;p>A &amp;ldquo;tool&amp;rdquo; is &amp;ldquo;anything that can make your life better.&amp;rdquo; I love tools, whether physical or digital. And I love books, because they&amp;rsquo;re some of the best tools out there!&lt;/p>
-&lt;p>(For my personal &amp;ldquo;tech stack&amp;rdquo; recommendations, including what I use for email, social media, etc., see &lt;a href="https://joshuapsteele.com/tech-stack/">my &lt;code>/tech-stack&lt;/code> page&lt;/a>.)&lt;/p>
-&lt;h2 id="how-to-think">How to Think&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="https://amzn.to/3tf34fD">&lt;em>How to Read a Book: The Classic Guide to Intelligent Reading&lt;/em>&lt;/a>, by Mortimer J. Adler&lt;/li>
-&lt;li>&lt;a href="https://personalmba.com/">&lt;em>The Personal MBA&lt;/em>&lt;/a>, by Josh Kaufman&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3UnCCwi">&lt;em>The Practicing Stoic: A Philosophical User’s Manual&lt;/em>&lt;/a>, by Ward Farnsworth&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3Tq7ACK">&lt;em>Super Thinking: The Big Book of Mental Models&lt;/em>&lt;/a>, by Gabriel Weinberg and Lauren McCann&lt;/li>
-&lt;li>Untools: &lt;a href="https://untools.co/">https://untools.co/&lt;/a>&lt;/li>
-&lt;li>James Clear: &lt;a href="https://jamesclear.com/">https://jamesclear.com/&lt;/a>&lt;/li>
-&lt;li>Farnam Street: &lt;a href="https://fs.blog/">https://fs.blog/&lt;/a>&lt;/li>
-&lt;li>Your Logical Fallacy Is: &lt;a href="https://yourlogicalfallacyis.com/">https://yourlogicalfallacyis.com/&lt;/a>&lt;/li>
-&lt;li>Your Bias Is: &lt;a href="https://yourbias.is/">https://yourbias.is/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="productivity-and-time-management">Productivity and Time Management&lt;/h2>
-&lt;ul>
-&lt;li>&lt;a href="http://amzn.to/2FXQM1n">&lt;em>The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change&lt;/em>&lt;/a>, by Stephen Covey&lt;/li>
-&lt;li>&lt;a href="http://amzn.to/2DzEFco">&lt;em>Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time&lt;/em>&lt;/a>, by Brian Tracy&lt;/li>
-&lt;li>&lt;a href="http://amzn.to/2DotWhU">&lt;em>Deep Work: Rules for Focused Success in a Distracted World&lt;/em>&lt;/a>, by Cal Newport&lt;/li>
-&lt;li>&lt;a href="http://amzn.to/2DxVkhi">&lt;em>Getting Things Done: The Art of Stress-Free Productivity&lt;/em>&lt;/a>, by David Allen&lt;/li>
-&lt;/ul>
-&lt;h2 id="healthfitness">Health/Fitness&lt;/h2>
-&lt;ul>
-&lt;li>Squat Rack: &lt;a href="https://repfitness.com/products/pr-1100-power-rack?variant=41268793835678&amp;amp;currency=USD&amp;amp;utm_medium=product_sync&amp;amp;utm_source=google&amp;amp;utm_content=sag_organic&amp;amp;utm_campaign=sag_organic&amp;amp;gad_source=1&amp;amp;gbraid=0AAAAADGahfSVB3Fm46rsTlYrlFDFoYvQW&amp;amp;gclid=CjwKCAjwyo60BhBiEiwAHmVLJeL6t8gJJ4FwALzzSBjuRmv7mkM5U42NnxtUn2mHjYaA7pHiw55FpRoCy_sQAvD_BwE">REP Fitness PR-1100 Power Rack&lt;/a>
-&lt;ul>
-&lt;li>Previous: &lt;a href="https://amzn.to/3UCxeVS">Valor Fitness BD–9 Squat Stands&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Bench: &lt;a href="https://amzn.to/3EiGRE1">Amazon Basics Flat Weight Bench&lt;/a>&lt;/li>
-&lt;li>Barbell and Weights: &lt;a href="https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb">Fitness Gear 300lb. Olympic Weight Set&lt;/a>&lt;/li>
-&lt;li>Kettlebell(s): &lt;a href="https://amzn.to/3EfZhFb">CAP Barbell Cast Iron Kettlebells&lt;/a>&lt;/li>
-&lt;li>Steel Mace(s): &lt;a href="https://amzn.to/3JcIXXN">Retrospec Steel Macebells&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3fLhgdt">&lt;em>Starting Strength: Basic Barbell Training&lt;/em>&lt;/a>, by Mark Rippetoe&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3fSoU5O">&lt;em>Kettlebell Simple &amp;amp; Sinister: Revised and Updated Edition&lt;/em>&lt;/a>, by Pavel Tsatsouline&lt;/li>
-&lt;li>Darebee: &lt;a href="https://darebee.com/">https://darebee.com/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="office">Office&lt;/h2>
-&lt;ul>
-&lt;li>Computer: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)&lt;/li>
-&lt;li>Notebook: &lt;a href="http://amzn.to/2tvaejo">Leuchtturm1917 Medium Size Hardcover A5 Notebook - Dotted Pages&lt;/a>
-&lt;ul>
-&lt;li>Pocket Notebook: &lt;a href="https://www.amazon.com/dp/B071Y41YY3?th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=abb7ce32fcb4b3209937dd5e358b191b&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Field Notes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Pen: &lt;a href="https://amzn.to/3DROD6d">Uni-ball Power Tank 0.7mm, Blue or Black&lt;/a>&lt;/li>
-&lt;li>Password Manager: &lt;a href="https://1password.com/">1Password&lt;/a>&lt;/li>
-&lt;li>Notes / Personal Knowledge Management: &lt;a href="https://obsidian.md/">Obsidian&lt;/a>&lt;/li>
-&lt;li>Task Management: Apple Reminders (used to use &lt;a href="https://todoist.com/">Todoist&lt;/a>) and Jira&lt;/li>
-&lt;/ul>
-&lt;h2 id="software-development">Software Development&lt;/h2>
-&lt;ul>
-&lt;li>IDEs: &lt;a href="https://www.jetbrains.com/idea/">IntelliJ IDEA&lt;/a>, &lt;a href="https://code.visualstudio.com">VS Code&lt;/a>, and &lt;a href="https://windsurf.com/">Windsurf&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3FZSYXO">&lt;em>The Pragmatic Programmer: Your Journey to Mastery&lt;/em>&lt;/a>, by David Thomas and Andrew Hunt&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3hkLzYF">&lt;em>Code Complete: A Practical Handbook of Software Construction, Second Edition&lt;/em>&lt;/a>, by Steve McConnell&lt;/li>
-&lt;li>Stack Overflow: &lt;a href="https://stackoverflow.com/">https://stackoverflow.com/&lt;/a>&lt;/li>
-&lt;li>O’Reilly: &lt;a href="https://learning.oreilly.com/">https://learning.oreilly.com/&lt;/a>&lt;/li>
-&lt;li>roadmap.sh: &lt;a href="https://roadmap.sh/">https://roadmap.sh/&lt;/a>&lt;/li>
-&lt;li>cheat.sh: &lt;a href="https://cheat.sh/">https://cheat.sh/&lt;/a>&lt;/li>
-&lt;li>DevHints.io: &lt;a href="https://devhints.io/">https://devhints.io/&lt;/a>&lt;/li>
-&lt;li>Learn X in Y minutes: &lt;a href="https://learnxinyminutes.com/">https://learnxinyminutes.com/&lt;/a>&lt;/li>
-&lt;li>Baeldung (for Java/Spring): &lt;a href="https://www.baeldung.com/">https://www.baeldung.com/&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="home">Home&lt;/h2>
-&lt;ul>
-&lt;li>Coffee Maker: &lt;a href="https://www.oxo.com/barista-brain-9-cup-coffee-maker.html">OXO 9-Cup Coffee Maker&lt;/a>&lt;/li>
-&lt;li>Coffee Grinder: &lt;a href="https://amzn.to/3EfZnN3">Capresso Infinity Conical Burr Grinder&lt;/a>&lt;/li>
-&lt;li>Water Bottle: &lt;a href="https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&amp;amp;dib_tag=se&amp;amp;hvadid=570597068294&amp;amp;hvdev=c&amp;amp;hvlocphy=9015124&amp;amp;hvnetw=g&amp;amp;hvqmt=e&amp;amp;hvrand=2727167960365447975&amp;amp;hvtargid=kwd-1094615620699&amp;amp;hydadcr=19109_13375463&amp;amp;keywords=owala+24+oz&amp;amp;qid=1719953416&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Owala FreeSip, 24oz&lt;/a>
-&lt;ul>
-&lt;li>Previous: &lt;a href="https://amzn.to/3tkbBOl">Iron Flask, 64oz&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Nail Clippers: &lt;a href="https://www.amazon.com/dp/B00ECPRRIC?&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=78c66778226bc3838f43d50a3d0d6ac9&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Muji Nail Clipper&lt;/a>&lt;/li>
-&lt;li>Cleaning Wipes: &lt;a href="https://www.amazon.com/dp/B00022W4ZU?&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=45617e28ba4dd2c7dea9084447edab7c&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Tub O&amp;rsquo; Towels Heavy Duty Cleaning Wipes&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="diyhome-repair-tools">DIY/Home Repair Tools&lt;/h2>
-&lt;ul>
-&lt;li>Toolbox: &lt;a href="https://www.walmart.com/ip/Hyper-Tough-16-inch-Open-Top-Tool-Tote/3183302817">Hyper Tough 16-inch Open Top Tool Tote&lt;/a>&lt;/li>
-&lt;li>Drill and Driver Set: &lt;a href="https://amzn.to/3ZMf6wm">BOSCH CLPK22–120 12V Max Cordless 2-Tool 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit&lt;/a>&lt;/li>
-&lt;li>Utility Knives:
-&lt;ul>
-&lt;li>&lt;a href="https://www.homedepot.com/p/Milwaukee-FASTBACK-6-in-1-Folding-Utility-Knives-with-General-Purpose-Blade-48-22-1505/313736993">Milwaukee Fastback 6-in-1 48-22-1505&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/4fm9CQ0">OLFA 25mm Utility Knife&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/4fhzrRp">OLFA 18mm Utility Knife&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Hammers:
-&lt;ul>
-&lt;li>&lt;a href="https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0002YWCHS?crid=PVFGWEWC3P8&amp;amp;dib=eyJ2IjoiMSJ9.0kPIudBwQ69077p5NsA2PAXB-xFYzF_TfsneR0K0VOAEzA3E5xihbHEPkwaRbn_eYZllzTSW05VaRnAY9QlNlSFoRy2vOk5KA69nxL_M4VeGTQcWiY47BSUYusbIqvoq76QAsKnt6lIHTG9dXy7CdyGLAfp5O7LZK3ukCLTiyBojDisWSHODsXbugdLZUyTc2rsOFS7eQiMvaMWoh6avrL-q2pF35bx_w8LBRZYH3jJwsK4H8D8atGU1R5PhNxLyzC649B7h9Iie9yzUAePOXWtTLzs6Lqaab_BOj8LwRX8.UFwnQQC07Coun2uSYJlJfNw0dA-M3toVRIGIweI_Jc0&amp;amp;dib_tag=se&amp;amp;keywords=estwing%2B12oz%2Bhammer&amp;amp;qid=1719953947&amp;amp;sprefix=estwing%2B12oz%2Bhammer%2Caps%2C123&amp;amp;sr=8-1&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=555159c3ae98d06c7a0083fed71d5e52&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">ESTWING 12 oz Straight Rip Claw - E3-12S&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3X8RLDQ">ESTWING 16 oz Straight Rip Claw - E3-16S&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Screwdrivers:
-&lt;ul>
-&lt;li>&lt;a href="https://www.amazon.com/dp/B0761K3H82?amp=&amp;amp;crid=1F4VBUZP08GZB&amp;amp;amp=&amp;amp;sprefix=workpro+rat&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=bd6578ba4dc79cabbd7cb430f74d74dc&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3UKb1Yo">Wera 838 RA-R M Ratcheting Screwdriver&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/4enkfAW">HOTO 24-in-1 Precision Screwdriver&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Pliers / Wrenches:
-&lt;ul>
-&lt;li>&lt;a href="https://amzn.to/3Jissd3">KNIPEX Tools - Pliers Wrench, Chrome (8603250), 10-Inch&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://www.amazon.com/Knipex-8701250-10-Inch-Cobra-Pliers/dp/B000X4J2H0?crid=2O0CSXVIHLPKZ&amp;amp;dib=eyJ2IjoiMSJ9.e1jTg0yp5P4nUnL39gQs8mSVe4G_tQBchMOV5R_pewBTMni2_YNFivR72FaXKFy4_i3xd6r6sv9tRKq3YZbp-VceAlmRW1CS6F_ag1Uy2ChyNsIaXlAzTAgYNzVZSiqYWUqOp0U0FK8Hu26t-ZSGUmi4QSzuhb0M80hwHxhWKoKxg7DJpapV8yhksIaD-eMPE3SnaEd6ItuiOs50LoRKkL-wuPRPxNDI97Fi8meh8lwRf55Vj3v7Pc75nprZUelo96k2ekLflhfDXivpzq7QdlLIgBEGAgkmRNbTbwLRNIk.9lmuOedLB4UlaLpp3Zo6GQDEPyNm2FqSZxHMAK1BczM&amp;amp;dib_tag=se&amp;amp;keywords=Knipex%2Bcobras%2B250&amp;amp;qid=1719954307&amp;amp;sprefix=knipex%2Bcobra%2B250%2Caps%2C115&amp;amp;sr=8-1&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=8c772411a4e1a69f6d60edae571906a2&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">KNIPEX Tools - Cobra Water Pump Pliers (8701250),10-Inch&lt;/a>&lt;/li>
-&lt;li>In addition to the &amp;ldquo;250mm&amp;rdquo; size above, I also own the Pliers Wrench in 100mm and 180mm sizes, and the Cobra Pliers in 100mm and 180mm sizes.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Measuring Tapes:
-&lt;ul>
-&lt;li>&lt;a href="https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66?crid=2UVH1TQU7TXGU&amp;amp;dib=eyJ2IjoiMSJ9.iOUNvqkiZp0p7TlI_EJ9r0XBYr968uSdy6qX-cTUt3be9snjaF8ewFu-AFDrdphcSq4XU4U2WOCl4I1DJTwP321n1-NHc5HutIJMCzQ5NhvMCjBTdmgUT1wdkWS9Dl29Y5K0zbB-Yfx4LGMovayFJbesB0M828lGc_D6OR0gZu9p95dgfZu0Y5_5C5P4pjrwC5pl6auYhMlADDju4ZYElGI4i10H95WLDM7upfWXGwhmiYXDSdceJUs7G0dLypaejfhkaxqbRzxMWuJlVFQsd82XzXezP0-uqcGCuq-TDFc.CvkQ24qgzcDBkkZiVQcRjMs_5rDAWGLygiw9bq-gITY&amp;amp;dib_tag=se&amp;amp;keywords=stanley%2Bfatmax%2B25&amp;amp;qid=1719954257&amp;amp;sprefix=stanley%2Bfatmax%2B25%2Caps%2C168&amp;amp;sr=8-3&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=cb2dd68ea98a50801235fbdd3a7e3855&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">Stanley FatMax 25-foot Measuring Tape&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3Xhk03y">Stanley Powerlock 25-foot Measuring Tape&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>Stud Finder: &lt;a href="https://amzn.to/3NxMqD2">C.H. Hanson Magnetic Stud Finder&lt;/a>&lt;/li>
-&lt;li>Pry Bar / Nail Puller: &lt;a href="https://amzn.to/3Nx5jWH">Stanley 8-Inch Nail Puller&lt;/a>&lt;/li>
-&lt;li>Hex / Allen Wrenches: &lt;a href="https://amzn.to/3Nx5jWH">TEKTON Ball End Hex Key Wrench Set, 26-Piece&lt;/a>&lt;/li>
-&lt;li>Tire Pressure Gauge: &lt;a href="https://www.amazon.com/dp/B0CKYZB8KL?th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=9abd90ed86a0d15efb6944d8e57df839&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl">ETENWOLF Digital Tire Pressure Gauge, 2 Pack&lt;/a>&lt;/li>
-&lt;/ul></description><content:encoded><![CDATA[<p>A &ldquo;tool&rdquo; is &ldquo;anything that can make your life better.&rdquo; I love tools, whether physical or digital. And I love books, because they&rsquo;re some of the best tools out there!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Recommended Tools and Resources</title>
+      <link>https://joshuapsteele.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/resources/</guid>
+      <description>&lt;p&gt;A &amp;ldquo;tool&amp;rdquo; is &amp;ldquo;anything that can make your life better.&amp;rdquo; I love tools, whether physical or digital. And I love books, because they&amp;rsquo;re some of the best tools out there!&lt;/p&gt;
+&lt;p&gt;(For my personal &amp;ldquo;tech stack&amp;rdquo; recommendations, including what I use for email, social media, etc., see &lt;a href=&#34;https://joshuapsteele.com/tech-stack/&#34;&gt;my &lt;code&gt;/tech-stack&lt;/code&gt; page&lt;/a&gt;.)&lt;/p&gt;
+&lt;h2 id=&#34;how-to-think&#34;&gt;How to Think&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3tf34fD&#34;&gt;&lt;em&gt;How to Read a Book: The Classic Guide to Intelligent Reading&lt;/em&gt;&lt;/a&gt;, by Mortimer J. Adler&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://personalmba.com/&#34;&gt;&lt;em&gt;The Personal MBA&lt;/em&gt;&lt;/a&gt;, by Josh Kaufman&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3UnCCwi&#34;&gt;&lt;em&gt;The Practicing Stoic: A Philosophical User’s Manual&lt;/em&gt;&lt;/a&gt;, by Ward Farnsworth&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3Tq7ACK&#34;&gt;&lt;em&gt;Super Thinking: The Big Book of Mental Models&lt;/em&gt;&lt;/a&gt;, by Gabriel Weinberg and Lauren McCann&lt;/li&gt;
+&lt;li&gt;Untools: &lt;a href=&#34;https://untools.co/&#34;&gt;https://untools.co/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;James Clear: &lt;a href=&#34;https://jamesclear.com/&#34;&gt;https://jamesclear.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Farnam Street: &lt;a href=&#34;https://fs.blog/&#34;&gt;https://fs.blog/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Your Logical Fallacy Is: &lt;a href=&#34;https://yourlogicalfallacyis.com/&#34;&gt;https://yourlogicalfallacyis.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Your Bias Is: &lt;a href=&#34;https://yourbias.is/&#34;&gt;https://yourbias.is/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;productivity-and-time-management&#34;&gt;Productivity and Time Management&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.to/2FXQM1n&#34;&gt;&lt;em&gt;The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change&lt;/em&gt;&lt;/a&gt;, by Stephen Covey&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.to/2DzEFco&#34;&gt;&lt;em&gt;Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time&lt;/em&gt;&lt;/a&gt;, by Brian Tracy&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.to/2DotWhU&#34;&gt;&lt;em&gt;Deep Work: Rules for Focused Success in a Distracted World&lt;/em&gt;&lt;/a&gt;, by Cal Newport&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://amzn.to/2DxVkhi&#34;&gt;&lt;em&gt;Getting Things Done: The Art of Stress-Free Productivity&lt;/em&gt;&lt;/a&gt;, by David Allen&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;healthfitness&#34;&gt;Health/Fitness&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Squat Rack: &lt;a href=&#34;https://repfitness.com/products/pr-1100-power-rack?variant=41268793835678&amp;amp;currency=USD&amp;amp;utm_medium=product_sync&amp;amp;utm_source=google&amp;amp;utm_content=sag_organic&amp;amp;utm_campaign=sag_organic&amp;amp;gad_source=1&amp;amp;gbraid=0AAAAADGahfSVB3Fm46rsTlYrlFDFoYvQW&amp;amp;gclid=CjwKCAjwyo60BhBiEiwAHmVLJeL6t8gJJ4FwALzzSBjuRmv7mkM5U42NnxtUn2mHjYaA7pHiw55FpRoCy_sQAvD_BwE&#34;&gt;REP Fitness PR-1100 Power Rack&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Previous: &lt;a href=&#34;https://amzn.to/3UCxeVS&#34;&gt;Valor Fitness BD–9 Squat Stands&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Bench: &lt;a href=&#34;https://amzn.to/3EiGRE1&#34;&gt;Amazon Basics Flat Weight Bench&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Barbell and Weights: &lt;a href=&#34;https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb&#34;&gt;Fitness Gear 300lb. Olympic Weight Set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Kettlebell(s): &lt;a href=&#34;https://amzn.to/3EfZhFb&#34;&gt;CAP Barbell Cast Iron Kettlebells&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Steel Mace(s): &lt;a href=&#34;https://amzn.to/3JcIXXN&#34;&gt;Retrospec Steel Macebells&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3fLhgdt&#34;&gt;&lt;em&gt;Starting Strength: Basic Barbell Training&lt;/em&gt;&lt;/a&gt;, by Mark Rippetoe&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3fSoU5O&#34;&gt;&lt;em&gt;Kettlebell Simple &amp;amp; Sinister: Revised and Updated Edition&lt;/em&gt;&lt;/a&gt;, by Pavel Tsatsouline&lt;/li&gt;
+&lt;li&gt;Darebee: &lt;a href=&#34;https://darebee.com/&#34;&gt;https://darebee.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;office&#34;&gt;Office&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)&lt;/li&gt;
+&lt;li&gt;Notebook: &lt;a href=&#34;http://amzn.to/2tvaejo&#34;&gt;Leuchtturm1917 Medium Size Hardcover A5 Notebook - Dotted Pages&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Pocket Notebook: &lt;a href=&#34;https://www.amazon.com/dp/B071Y41YY3?th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=abb7ce32fcb4b3209937dd5e358b191b&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Field Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pen: &lt;a href=&#34;https://amzn.to/3DROD6d&#34;&gt;Uni-ball Power Tank 0.7mm, Blue or Black&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Password Manager: &lt;a href=&#34;https://1password.com/&#34;&gt;1Password&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Notes / Personal Knowledge Management: &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Task Management: Apple Reminders (used to use &lt;a href=&#34;https://todoist.com/&#34;&gt;Todoist&lt;/a&gt;) and Jira&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;software-development&#34;&gt;Software Development&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;IDEs: &lt;a href=&#34;https://www.jetbrains.com/idea/&#34;&gt;IntelliJ IDEA&lt;/a&gt;, &lt;a href=&#34;https://code.visualstudio.com&#34;&gt;VS Code&lt;/a&gt;, and &lt;a href=&#34;https://windsurf.com/&#34;&gt;Windsurf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3FZSYXO&#34;&gt;&lt;em&gt;The Pragmatic Programmer: Your Journey to Mastery&lt;/em&gt;&lt;/a&gt;, by David Thomas and Andrew Hunt&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3hkLzYF&#34;&gt;&lt;em&gt;Code Complete: A Practical Handbook of Software Construction, Second Edition&lt;/em&gt;&lt;/a&gt;, by Steve McConnell&lt;/li&gt;
+&lt;li&gt;Stack Overflow: &lt;a href=&#34;https://stackoverflow.com/&#34;&gt;https://stackoverflow.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;O’Reilly: &lt;a href=&#34;https://learning.oreilly.com/&#34;&gt;https://learning.oreilly.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;roadmap.sh: &lt;a href=&#34;https://roadmap.sh/&#34;&gt;https://roadmap.sh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;cheat.sh: &lt;a href=&#34;https://cheat.sh/&#34;&gt;https://cheat.sh/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DevHints.io: &lt;a href=&#34;https://devhints.io/&#34;&gt;https://devhints.io/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Learn X in Y minutes: &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;https://learnxinyminutes.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Baeldung (for Java/Spring): &lt;a href=&#34;https://www.baeldung.com/&#34;&gt;https://www.baeldung.com/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;home&#34;&gt;Home&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Coffee Maker: &lt;a href=&#34;https://www.oxo.com/barista-brain-9-cup-coffee-maker.html&#34;&gt;OXO 9-Cup Coffee Maker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Coffee Grinder: &lt;a href=&#34;https://amzn.to/3EfZnN3&#34;&gt;Capresso Infinity Conical Burr Grinder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Water Bottle: &lt;a href=&#34;https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&amp;amp;dib_tag=se&amp;amp;hvadid=570597068294&amp;amp;hvdev=c&amp;amp;hvlocphy=9015124&amp;amp;hvnetw=g&amp;amp;hvqmt=e&amp;amp;hvrand=2727167960365447975&amp;amp;hvtargid=kwd-1094615620699&amp;amp;hydadcr=19109_13375463&amp;amp;keywords=owala+24+oz&amp;amp;qid=1719953416&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Owala FreeSip, 24oz&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Previous: &lt;a href=&#34;https://amzn.to/3tkbBOl&#34;&gt;Iron Flask, 64oz&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Nail Clippers: &lt;a href=&#34;https://www.amazon.com/dp/B00ECPRRIC?&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=78c66778226bc3838f43d50a3d0d6ac9&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Muji Nail Clipper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Cleaning Wipes: &lt;a href=&#34;https://www.amazon.com/dp/B00022W4ZU?&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=45617e28ba4dd2c7dea9084447edab7c&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Tub O&amp;rsquo; Towels Heavy Duty Cleaning Wipes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;diyhome-repair-tools&#34;&gt;DIY/Home Repair Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Toolbox: &lt;a href=&#34;https://www.walmart.com/ip/Hyper-Tough-16-inch-Open-Top-Tool-Tote/3183302817&#34;&gt;Hyper Tough 16-inch Open Top Tool Tote&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Drill and Driver Set: &lt;a href=&#34;https://amzn.to/3ZMf6wm&#34;&gt;BOSCH CLPK22–120 12V Max Cordless 2-Tool 3/8 in. Drill/Driver and 1/4 in. Impact Driver Combo Kit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Utility Knives:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.homedepot.com/p/Milwaukee-FASTBACK-6-in-1-Folding-Utility-Knives-with-General-Purpose-Blade-48-22-1505/313736993&#34;&gt;Milwaukee Fastback 6-in-1 48-22-1505&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/4fm9CQ0&#34;&gt;OLFA 25mm Utility Knife&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/4fhzrRp&#34;&gt;OLFA 18mm Utility Knife&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Hammers:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0002YWCHS?crid=PVFGWEWC3P8&amp;amp;dib=eyJ2IjoiMSJ9.0kPIudBwQ69077p5NsA2PAXB-xFYzF_TfsneR0K0VOAEzA3E5xihbHEPkwaRbn_eYZllzTSW05VaRnAY9QlNlSFoRy2vOk5KA69nxL_M4VeGTQcWiY47BSUYusbIqvoq76QAsKnt6lIHTG9dXy7CdyGLAfp5O7LZK3ukCLTiyBojDisWSHODsXbugdLZUyTc2rsOFS7eQiMvaMWoh6avrL-q2pF35bx_w8LBRZYH3jJwsK4H8D8atGU1R5PhNxLyzC649B7h9Iie9yzUAePOXWtTLzs6Lqaab_BOj8LwRX8.UFwnQQC07Coun2uSYJlJfNw0dA-M3toVRIGIweI_Jc0&amp;amp;dib_tag=se&amp;amp;keywords=estwing%2B12oz%2Bhammer&amp;amp;qid=1719953947&amp;amp;sprefix=estwing%2B12oz%2Bhammer%2Caps%2C123&amp;amp;sr=8-1&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=555159c3ae98d06c7a0083fed71d5e52&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;ESTWING 12 oz Straight Rip Claw - E3-12S&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3X8RLDQ&#34;&gt;ESTWING 16 oz Straight Rip Claw - E3-16S&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Screwdrivers:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/dp/B0761K3H82?amp=&amp;amp;crid=1F4VBUZP08GZB&amp;amp;amp=&amp;amp;sprefix=workpro+rat&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=bd6578ba4dc79cabbd7cb430f74d74dc&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3UKb1Yo&#34;&gt;Wera 838 RA-R M Ratcheting Screwdriver&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/4enkfAW&#34;&gt;HOTO 24-in-1 Precision Screwdriver&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pliers / Wrenches:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3Jissd3&#34;&gt;KNIPEX Tools - Pliers Wrench, Chrome (8603250), 10-Inch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Knipex-8701250-10-Inch-Cobra-Pliers/dp/B000X4J2H0?crid=2O0CSXVIHLPKZ&amp;amp;dib=eyJ2IjoiMSJ9.e1jTg0yp5P4nUnL39gQs8mSVe4G_tQBchMOV5R_pewBTMni2_YNFivR72FaXKFy4_i3xd6r6sv9tRKq3YZbp-VceAlmRW1CS6F_ag1Uy2ChyNsIaXlAzTAgYNzVZSiqYWUqOp0U0FK8Hu26t-ZSGUmi4QSzuhb0M80hwHxhWKoKxg7DJpapV8yhksIaD-eMPE3SnaEd6ItuiOs50LoRKkL-wuPRPxNDI97Fi8meh8lwRf55Vj3v7Pc75nprZUelo96k2ekLflhfDXivpzq7QdlLIgBEGAgkmRNbTbwLRNIk.9lmuOedLB4UlaLpp3Zo6GQDEPyNm2FqSZxHMAK1BczM&amp;amp;dib_tag=se&amp;amp;keywords=Knipex%2Bcobras%2B250&amp;amp;qid=1719954307&amp;amp;sprefix=knipex%2Bcobra%2B250%2Caps%2C115&amp;amp;sr=8-1&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=8c772411a4e1a69f6d60edae571906a2&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;KNIPEX Tools - Cobra Water Pump Pliers (8701250),10-Inch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;In addition to the &amp;ldquo;250mm&amp;rdquo; size above, I also own the Pliers Wrench in 100mm and 180mm sizes, and the Cobra Pliers in 100mm and 180mm sizes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Measuring Tapes:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66?crid=2UVH1TQU7TXGU&amp;amp;dib=eyJ2IjoiMSJ9.iOUNvqkiZp0p7TlI_EJ9r0XBYr968uSdy6qX-cTUt3be9snjaF8ewFu-AFDrdphcSq4XU4U2WOCl4I1DJTwP321n1-NHc5HutIJMCzQ5NhvMCjBTdmgUT1wdkWS9Dl29Y5K0zbB-Yfx4LGMovayFJbesB0M828lGc_D6OR0gZu9p95dgfZu0Y5_5C5P4pjrwC5pl6auYhMlADDju4ZYElGI4i10H95WLDM7upfWXGwhmiYXDSdceJUs7G0dLypaejfhkaxqbRzxMWuJlVFQsd82XzXezP0-uqcGCuq-TDFc.CvkQ24qgzcDBkkZiVQcRjMs_5rDAWGLygiw9bq-gITY&amp;amp;dib_tag=se&amp;amp;keywords=stanley%2Bfatmax%2B25&amp;amp;qid=1719954257&amp;amp;sprefix=stanley%2Bfatmax%2B25%2Caps%2C168&amp;amp;sr=8-3&amp;amp;th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=cb2dd68ea98a50801235fbdd3a7e3855&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Stanley FatMax 25-foot Measuring Tape&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3Xhk03y&#34;&gt;Stanley Powerlock 25-foot Measuring Tape&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Stud Finder: &lt;a href=&#34;https://amzn.to/3NxMqD2&#34;&gt;C.H. Hanson Magnetic Stud Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pry Bar / Nail Puller: &lt;a href=&#34;https://amzn.to/3Nx5jWH&#34;&gt;Stanley 8-Inch Nail Puller&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hex / Allen Wrenches: &lt;a href=&#34;https://amzn.to/3Nx5jWH&#34;&gt;TEKTON Ball End Hex Key Wrench Set, 26-Piece&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Tire Pressure Gauge: &lt;a href=&#34;https://www.amazon.com/dp/B0CKYZB8KL?th=1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=9abd90ed86a0d15efb6944d8e57df839&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;ETENWOLF Digital Tire Pressure Gauge, 2 Pack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>A &ldquo;tool&rdquo; is &ldquo;anything that can make your life better.&rdquo; I love tools, whether physical or digital. And I love books, because they&rsquo;re some of the best tools out there!</p>
 <p>(For my personal &ldquo;tech stack&rdquo; recommendations, including what I use for email, social media, etc., see <a href="/tech-stack/">my <code>/tech-stack</code> page</a>.)</p>
 <h2 id="how-to-think">How to Think</h2>
 <ul>
@@ -785,13 +1382,13 @@ Josh</p>
 <li>IDEs: <a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a>, <a href="https://code.visualstudio.com">VS Code</a>, and <a href="https://windsurf.com/">Windsurf</a></li>
 <li><a href="https://amzn.to/3FZSYXO"><em>The Pragmatic Programmer: Your Journey to Mastery</em></a>, by David Thomas and Andrew Hunt</li>
 <li><a href="https://amzn.to/3hkLzYF"><em>Code Complete: A Practical Handbook of Software Construction, Second Edition</em></a>, by Steve McConnell</li>
-<li>Stack Overflow: <a href="https://stackoverflow.com/">https://stackoverflow.com/</a></li>
-<li>O’Reilly: <a href="https://learning.oreilly.com/">https://learning.oreilly.com/</a></li>
-<li>roadmap.sh: <a href="https://roadmap.sh/">https://roadmap.sh/</a></li>
-<li>cheat.sh: <a href="https://cheat.sh/">https://cheat.sh/</a></li>
-<li>DevHints.io: <a href="https://devhints.io/">https://devhints.io/</a></li>
-<li>Learn X in Y minutes: <a href="https://learnxinyminutes.com/">https://learnxinyminutes.com/</a></li>
-<li>Baeldung (for Java/Spring): <a href="https://www.baeldung.com/">https://www.baeldung.com/</a></li>
+<li>Stack Overflow: <a href="https://stackoverflow.com/">https://stackoverflow.com/</a></li>
+<li>O’Reilly: <a href="https://learning.oreilly.com/">https://learning.oreilly.com/</a></li>
+<li>roadmap.sh: <a href="https://roadmap.sh/">https://roadmap.sh/</a></li>
+<li>cheat.sh: <a href="https://cheat.sh/">https://cheat.sh/</a></li>
+<li>DevHints.io: <a href="https://devhints.io/">https://devhints.io/</a></li>
+<li>Learn X in Y minutes: <a href="https://learnxinyminutes.com/">https://learnxinyminutes.com/</a></li>
+<li>Baeldung (for Java/Spring): <a href="https://www.baeldung.com/">https://www.baeldung.com/</a></li>
 </ul>
 <h2 id="home">Home</h2>
 <ul>
@@ -847,15 +1444,24 @@ Josh</p>
 <li>Hex / Allen Wrenches: <a href="https://amzn.to/3Nx5jWH">TEKTON Ball End Hex Key Wrench Set, 26-Piece</a></li>
 <li>Tire Pressure Gauge: <a href="https://www.amazon.com/dp/B0CKYZB8KL?th=1&amp;linkCode=ll1&amp;tag=joshuapsteele-20&amp;linkId=9abd90ed86a0d15efb6944d8e57df839&amp;language=en_US&amp;ref_=as_li_ss_tl">ETENWOLF Digital Tire Pressure Gauge, 2 Pack</a></li>
 </ul>
-]]></content:encoded></item><item><title>Sermons</title><link>https://joshuapsteele.com/sermons/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/sermons/</guid><description>&lt;p>( &lt;em>Click &lt;a href="https://joshuapsteele.com/category/sermons/">here&lt;/a> to view all posts that have been categorized as sermons on my blog.&lt;/em>)&lt;/p>
-&lt;h2 id="why-haven">&lt;a href="https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/">Why Haven&amp;rsquo;t You Torn the Sky Open Yet?&lt;/a>&lt;/h2>
-&lt;audio controls>
-&lt;source src="https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-&lt;/audio>
-&lt;p>Isaiah 64. November 28, 2020 (First Sunday of Advent). Preached at Church of the Savior in Wheaton, IL (via Zoom).&lt;/p>
-&lt;h2 id="who-really-cares-about-the-trinity">&lt;a href="https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele">Who Really Cares about the Trinity?&lt;/a>&lt;/h2>
-&lt;p>Matthew 28:16-20. June 6, 2020. Preached at Church of the Savior in Wheaton, IL (via Zoom).&lt;/p></description><content:encoded><![CDATA[<p>( <em>Click <a href="/category/sermons/">here</a> to view all posts that have been categorized as sermons on my blog.</em>)</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Sermons</title>
+      <link>https://joshuapsteele.com/sermons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/sermons/</guid>
+      <description>&lt;p&gt;( &lt;em&gt;Click &lt;a href=&#34;https://joshuapsteele.com/category/sermons/&#34;&gt;here&lt;/a&gt; to view all posts that have been categorized as sermons on my blog.&lt;/em&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;why-haven&#34;&gt;&lt;a href=&#34;https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/&#34;&gt;Why Haven&amp;rsquo;t You Torn the Sky Open Yet?&lt;/a&gt;&lt;/h2&gt;
+&lt;audio controls&gt;
+    &lt;source src=&#34;https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    Your browser does not support the audio element.
+&lt;/audio&gt;
+
+&lt;p&gt;Isaiah 64. November 28, 2020 (First Sunday of Advent). Preached at Church of the Savior in Wheaton, IL (via Zoom).&lt;/p&gt;
+&lt;h2 id=&#34;who-really-cares-about-the-trinity&#34;&gt;&lt;a href=&#34;https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele&#34;&gt;Who Really Cares about the Trinity?&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Matthew 28:16-20. June 6, 2020. Preached at Church of the Savior in Wheaton, IL (via Zoom).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>( <em>Click <a href="/category/sermons/">here</a> to view all posts that have been categorized as sermons on my blog.</em>)</p>
 <h2 id="why-haven"><a href="/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/">Why Haven&rsquo;t You Torn the Sky Open Yet?</a></h2>
 <audio controls>
     <source src="/wp-content/uploads/2020/12/Sermon112820.mp3" type="audio/mpeg">
@@ -963,22 +1569,30 @@ Your browser does not support the audio element.
 <h2 id="god-our-help">&ldquo;God, Our Help&rdquo;</h2>
 <p>Ps. 121; Gen. 12:1-4; Rom. 4; John 3:1-17 (16 March, 2014). Preached at <a href="http://stpetersbhm.org/">St. Peter&rsquo;s Anglican Church</a> in Mountain Brook, AL.</p>
 <p>READ: <a href="/wp-content/uploads/2015/12/god-our-help1.pdf" title="God, Our Help Sermon Manuscript">God, Our Help Sermon Manuscript</a></p>
-]]></content:encoded></item><item><title>Subscriptions</title><link>https://joshuapsteele.com/subscriptions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/subscriptions/</guid><description>&lt;p>I currently (2025-02-06) subscribe to the following:&lt;/p>
-&lt;h2 id="media">Media:&lt;/h2>
-&lt;ul>
-&lt;li>The Atlantic&lt;/li>
-&lt;li>The Economist&lt;/li>
-&lt;li>Wired&lt;/li>
-&lt;/ul>
-&lt;h2 id="tech">Tech:&lt;/h2>
-&lt;ul>
-&lt;li>Drafts&lt;/li>
-&lt;li>Fastmail&lt;/li>
-&lt;li>Kagi&lt;/li>
-&lt;li>Obsidian&lt;/li>
-&lt;li>omg.lol&lt;/li>
-&lt;li>Micro.blog&lt;/li>
-&lt;/ul></description><content:encoded><![CDATA[<p>I currently (2025-02-06) subscribe to the following:</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Subscriptions</title>
+      <link>https://joshuapsteele.com/subscriptions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/subscriptions/</guid>
+      <description>&lt;p&gt;I currently (2025-02-06) subscribe to the following:&lt;/p&gt;
+&lt;h2 id=&#34;media&#34;&gt;Media:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The Atlantic&lt;/li&gt;
+&lt;li&gt;The Economist&lt;/li&gt;
+&lt;li&gt;Wired&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tech&#34;&gt;Tech:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Drafts&lt;/li&gt;
+&lt;li&gt;Fastmail&lt;/li&gt;
+&lt;li&gt;Kagi&lt;/li&gt;
+&lt;li&gt;Obsidian&lt;/li&gt;
+&lt;li&gt;omg.lol&lt;/li&gt;
+&lt;li&gt;Micro.blog&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>I currently (2025-02-06) subscribe to the following:</p>
 <h2 id="media">Media:</h2>
 <ul>
 <li>The Atlantic</li>
@@ -994,48 +1608,56 @@ Your browser does not support the audio element.
 <li>omg.lol</li>
 <li>Micro.blog</li>
 </ul>
-]]></content:encoded></item><item><title>Tech Stack</title><link>https://joshuapsteele.com/tech-stack/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/tech-stack/</guid><description>&lt;p>Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href="https://joshuapsteele.com/resources">/resources&lt;/a> page!&lt;/p>
-&lt;h2 id="personal-website-joshuapsteelecom">Personal Website: &lt;a href="https://joshuapsteele.com/">joshuapsteele.com&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>Domain registrar: &lt;a href="https://porkbun.com/">Porkbun&lt;/a>&lt;/li>
-&lt;li>Hosting: &lt;a href="https://github.com/joshuapsteele/joshuapsteele.github.io">GitHub Pages&lt;/a>&lt;/li>
-&lt;li>Static website generator: &lt;a href="https://gohugo.io/">Hugo&lt;/a>&lt;/li>
-&lt;li>Hugo theme: &lt;a href="https://github.com/adityatelange/hugo-PaperMod">PaperMod&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="email-fastmail">Email: &lt;a href="https://fastmail.com">Fastmail&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>Email provider: &lt;a href="https://fastmail.com">Fastmail&lt;/a>&lt;/li>
-&lt;li>Custom DNS settings for joshuapsteele.com over at &lt;a href="https://porkbun.com/">Porkbun&lt;/a>, my domain registrar&lt;/li>
-&lt;/ul>
-&lt;h2 id="social-media-microblog-omglol-and-bluesky">Social Media: &lt;a href="https://micro.blog/">micro.blog&lt;/a>, &lt;a href="https://omg.lol">omg.lol&lt;/a>, and &lt;a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky&lt;/a>&lt;/h2>
-&lt;ul>
-&lt;li>My main social media hub is through Micro.Blog Premium ($100/year) for &lt;a href="https://social.joshuapsteele.com">social.joshuapsteele.com&lt;/a>, which is an alias of &lt;a href="https://micro.blog/joshuapsteele">micro.blog/joshuapsteele&lt;/a>
-&lt;ul>
-&lt;li>Short posts and long posts&lt;/li>
-&lt;li>Photo hosting&lt;/li>
-&lt;li>Podcast hosting&lt;/li>
-&lt;li>Cross-posting to Mastodon and BlueSky&lt;/li>
-&lt;li>Custom themes&lt;/li>
-&lt;li>Publish from the web or native apps&lt;/li>
-&lt;li>Up to 5 blogs&lt;/li>
-&lt;li>Email newsletters&lt;/li>
-&lt;li>Private and shared notes&lt;/li>
-&lt;li>Strata mobile app for notes&lt;/li>
-&lt;li>Bookmark archiving and highlighting&lt;/li>
-&lt;li>Short video hosting&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>I bought 10 years of &lt;a href="https://omg.lol">omg.lol&lt;/a>, which gives me a homepage at &lt;a href="https://steele.omg.lol">steele.omg.lol&lt;/a> as well as my Mastodon profile at &lt;a href="https://social.lol/@steele">social.lol/@steele&lt;/a>
-&lt;ul>
-&lt;li>Email forwarding for an &amp;ldquo;@omg.lol&amp;rdquo; email address&lt;/li>
-&lt;li>Now Page at &lt;a href="https://steele.omg.lol/now">steele.omg.lol/now&lt;/a>&lt;/li>
-&lt;li>Statuslog at &lt;a href="https://steele.status.lol/">steele.status.lol&lt;/a>&lt;/li>
-&lt;li>Weblog at &lt;a href="https://steele.weblog.lol/">steele.weblog.lol&lt;/a>&lt;/li>
-&lt;li>Pastebin&lt;/li>
-&lt;li>PURLs&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul></description><content:encoded><![CDATA[<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Tech Stack</title>
+      <link>https://joshuapsteele.com/tech-stack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/tech-stack/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href=&#34;https://joshuapsteele.com/resources&#34;&gt;/resources&lt;/a&gt; page!&lt;/p&gt;
+&lt;h2 id=&#34;personal-website-joshuapsteelecom&#34;&gt;Personal Website: &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;joshuapsteele.com&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Domain registrar: &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hosting: &lt;a href=&#34;https://github.com/joshuapsteele/joshuapsteele.github.io&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Static website generator: &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hugo theme: &lt;a href=&#34;https://github.com/adityatelange/hugo-PaperMod&#34;&gt;PaperMod&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;email-fastmail&#34;&gt;Email: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Email provider: &lt;a href=&#34;https://fastmail.com&#34;&gt;Fastmail&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Custom DNS settings for joshuapsteele.com over at &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;, my domain registrar&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;social-media-microblog-omglol-and-bluesky&#34;&gt;Social Media: &lt;a href=&#34;https://micro.blog/&#34;&gt;micro.blog&lt;/a&gt;, &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;, and &lt;a href=&#34;https://bsky.app/profile/joshuapsteele.bsky.social&#34;&gt;BlueSky&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;My main social media hub is through Micro.Blog Premium ($100/year) for &lt;a href=&#34;https://social.joshuapsteele.com&#34;&gt;social.joshuapsteele.com&lt;/a&gt;, which is an alias of &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;micro.blog/joshuapsteele&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Short posts and long posts&lt;/li&gt;
+&lt;li&gt;Photo hosting&lt;/li&gt;
+&lt;li&gt;Podcast hosting&lt;/li&gt;
+&lt;li&gt;Cross-posting to Mastodon and BlueSky&lt;/li&gt;
+&lt;li&gt;Custom themes&lt;/li&gt;
+&lt;li&gt;Publish from the web or native apps&lt;/li&gt;
+&lt;li&gt;Up to 5 blogs&lt;/li&gt;
+&lt;li&gt;Email newsletters&lt;/li&gt;
+&lt;li&gt;Private and shared notes&lt;/li&gt;
+&lt;li&gt;Strata mobile app for notes&lt;/li&gt;
+&lt;li&gt;Bookmark archiving and highlighting&lt;/li&gt;
+&lt;li&gt;Short video hosting&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I bought 10 years of &lt;a href=&#34;https://omg.lol&#34;&gt;omg.lol&lt;/a&gt;, which gives me a homepage at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt; as well as my Mastodon profile at &lt;a href=&#34;https://social.lol/@steele&#34;&gt;social.lol/@steele&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Email forwarding for an &amp;ldquo;@omg.lol&amp;rdquo; email address&lt;/li&gt;
+&lt;li&gt;Now Page at &lt;a href=&#34;https://steele.omg.lol/now&#34;&gt;steele.omg.lol/now&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Statuslog at &lt;a href=&#34;https://steele.status.lol/&#34;&gt;steele.status.lol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Weblog at &lt;a href=&#34;https://steele.weblog.lol/&#34;&gt;steele.weblog.lol&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pastebin&lt;/li&gt;
+&lt;li&gt;PURLs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <content:encoded><![CDATA[<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
 <h2 id="personal-website-joshuapsteelecom">Personal Website: <a href="/">joshuapsteele.com</a></h2>
 <ul>
 <li>Domain registrar: <a href="https://porkbun.com/">Porkbun</a></li>
@@ -1077,93 +1699,101 @@ Your browser does not support the audio element.
 </ul>
 </li>
 </ul>
-]]></content:encoded></item><item><title>Wish List</title><link>https://joshuapsteele.com/wishlist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://joshuapsteele.com/wishlist/</guid><description>&lt;p>Here&amp;rsquo;s a wish list I regularly update. I also keep &lt;a href="https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share">my Amazon wish list updated here&lt;/a>.&lt;/p>
-&lt;p>What I want:&lt;/p>
-&lt;h2 id="life">Life&lt;/h2>
-&lt;ul>
-&lt;li>To be a good husband&lt;/li>
-&lt;li>To be a good father&lt;/li>
-&lt;li>To be a good friend&lt;/li>
-&lt;li>To solve people’s problems&lt;/li>
-&lt;li>To build what people use&lt;/li>
-&lt;li>To write what people read&lt;/li>
-&lt;li>To never stop learning&lt;/li>
-&lt;/ul>
-&lt;h2 id="health--fitness">Health &amp;amp; Fitness&lt;/h2>
-&lt;ul>
-&lt;li>To weigh 200 pounds or less&lt;/li>
-&lt;li>To be able to run a half marathon at any time&lt;/li>
-&lt;li>To look good naked&lt;/li>
-&lt;li>✅ Power rack with a pull-up bar (like the &lt;a href="https://repfitness.com/collections/power-racks/products/pr-1100-power-rack">REP Fitness PR–1100&lt;/a> or &lt;a href="https://www.roguefitness.com/rogue-r-3-power-rack">Rogue R–3&lt;/a>; Went with the REP Fitness PR-1100!)&lt;/li>
-&lt;li>✅ Deadlift platform (build my own with &lt;a href="https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat">horse stall mats from Tractor Supply Co.&lt;/a>)&lt;/li>
-&lt;/ul>
-&lt;h2 id="finances">Finances&lt;/h2>
-&lt;ul>
-&lt;li>To have control over my time
-&lt;ul>
-&lt;li>“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, &lt;em>The Psychology of Money&lt;/em>, 83).&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>To make at least $200K/year&lt;/li>
-&lt;li>To have at least $100K saved in the bank&lt;/li>
-&lt;/ul>
-&lt;h2 id="home">Home&lt;/h2>
-&lt;ul>
-&lt;li>New roof&lt;/li>
-&lt;li>New furnace&lt;/li>
-&lt;li>New central AC&lt;/li>
-&lt;li>To own a house with
-&lt;ul>
-&lt;li>✅ central AC,&lt;/li>
-&lt;li>✅ dry basement,&lt;/li>
-&lt;li>✅ home office,&lt;/li>
-&lt;li>✅ workshop (garage), and&lt;/li>
-&lt;li>✅ home gym (also garage)&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>✅ Tool shed&lt;/li>
-&lt;/ul>
-&lt;h2 id="tools">Tools&lt;/h2>
-&lt;ul>
-&lt;li>Router&lt;/li>
-&lt;li>Planer&lt;/li>
-&lt;li>Jointer&lt;/li>
-&lt;li>Belt sander&lt;/li>
-&lt;li>Slip-on work boots (Skechers)&lt;/li>
-&lt;li>✅ Extension ladder&lt;/li>
-&lt;li>✅ Come-along winch&lt;/li>
-&lt;li>✅ Chain (to use with come-along)&lt;/li>
-&lt;li>✅ Hi-lift jack&lt;/li>
-&lt;li>✅ Bottle jack&lt;/li>
-&lt;li>✅ Table saw&lt;/li>
-&lt;li>✅ Wheelbarrow&lt;/li>
-&lt;li>✅ Post hole digger&lt;/li>
-&lt;li>✅ Chalk line&lt;/li>
-&lt;li>✅ Calipers&lt;/li>
-&lt;li>✅ Workbench&lt;/li>
-&lt;li>&lt;a href="https://amzn.to/3w6X1LM">Table saw&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://amzn.to/3XzmOrA">Miter saw&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://amzn.to/3CWkjYp">Reciprocating saw, AKA “Sawzall”&lt;/a>)&lt;/li>
-&lt;li>✅ &lt;a href="https://amzn.to/3iLeFBI">Pocket hole jig&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html">Hand truck&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html">Floor jack&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html">Jack stands&lt;/a>&lt;/li>
-&lt;li>✅ &lt;a href="https://amzn.to/3ZJ0BZT">Stanley FuBar III&lt;/a> pry bar&lt;/li>
-&lt;li>✅ &lt;a href="https://marshalltown.com/pro-2152-monster-pry-bar">“Burke bar” pry bar&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h2 id="hobbies-tech-etc">Hobbies, Tech, etc.&lt;/h2>
-&lt;ul>
-&lt;li>New MacBook Pro (Current: 2016)&lt;/li>
-&lt;li>3D printer&lt;/li>
-&lt;li>Electric guitar, amp, and pedals: &lt;a href="https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black">Yamaha GigMaker set&lt;/a>&lt;/li>
-&lt;li>✅ New iPhone (iPhone XR -&amp;gt; iPhone 16e)&lt;/li>
-&lt;/ul>
-&lt;h2 id="books">Books&lt;/h2>
-&lt;ul>
-&lt;li>TBD, working on reading the books I already own!&lt;/li>
-&lt;/ul>
-&lt;hr>
-&lt;p>Last updated 2025-06-02&lt;/p></description><content:encoded><![CDATA[<p>Here&rsquo;s a wish list I regularly update. I also keep <a href="https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share">my Amazon wish list updated here</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Wish List</title>
+      <link>https://joshuapsteele.com/wishlist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/wishlist/</guid>
+      <description>&lt;p&gt;Here&amp;rsquo;s a wish list I regularly update. I also keep &lt;a href=&#34;https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share&#34;&gt;my Amazon wish list updated here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What I want:&lt;/p&gt;
+&lt;h2 id=&#34;life&#34;&gt;Life&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To be a good husband&lt;/li&gt;
+&lt;li&gt;To be a good father&lt;/li&gt;
+&lt;li&gt;To be a good friend&lt;/li&gt;
+&lt;li&gt;To solve people’s problems&lt;/li&gt;
+&lt;li&gt;To build what people use&lt;/li&gt;
+&lt;li&gt;To write what people read&lt;/li&gt;
+&lt;li&gt;To never stop learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;health--fitness&#34;&gt;Health &amp;amp; Fitness&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To weigh 200 pounds or less&lt;/li&gt;
+&lt;li&gt;To be able to run a half marathon at any time&lt;/li&gt;
+&lt;li&gt;To look good naked&lt;/li&gt;
+&lt;li&gt;✅ Power rack with a pull-up bar (like the &lt;a href=&#34;https://repfitness.com/collections/power-racks/products/pr-1100-power-rack&#34;&gt;REP Fitness PR–1100&lt;/a&gt; or &lt;a href=&#34;https://www.roguefitness.com/rogue-r-3-power-rack&#34;&gt;Rogue R–3&lt;/a&gt;; Went with the REP Fitness PR-1100!)&lt;/li&gt;
+&lt;li&gt;✅ Deadlift platform (build my own with &lt;a href=&#34;https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat&#34;&gt;horse stall mats from Tractor Supply Co.&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;finances&#34;&gt;Finances&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;To have control over my time
+&lt;ul&gt;
+&lt;li&gt;“The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, &lt;em&gt;The Psychology of Money&lt;/em&gt;, 83).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;To make at least $200K/year&lt;/li&gt;
+&lt;li&gt;To have at least $100K saved in the bank&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;home&#34;&gt;Home&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;New roof&lt;/li&gt;
+&lt;li&gt;New furnace&lt;/li&gt;
+&lt;li&gt;New central AC&lt;/li&gt;
+&lt;li&gt;To own a house with
+&lt;ul&gt;
+&lt;li&gt;✅ central AC,&lt;/li&gt;
+&lt;li&gt;✅ dry basement,&lt;/li&gt;
+&lt;li&gt;✅ home office,&lt;/li&gt;
+&lt;li&gt;✅ workshop (garage), and&lt;/li&gt;
+&lt;li&gt;✅ home gym (also garage)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;✅ Tool shed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;tools&#34;&gt;Tools&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Router&lt;/li&gt;
+&lt;li&gt;Planer&lt;/li&gt;
+&lt;li&gt;Jointer&lt;/li&gt;
+&lt;li&gt;Belt sander&lt;/li&gt;
+&lt;li&gt;Slip-on work boots (Skechers)&lt;/li&gt;
+&lt;li&gt;✅ Extension ladder&lt;/li&gt;
+&lt;li&gt;✅ Come-along winch&lt;/li&gt;
+&lt;li&gt;✅ Chain (to use with come-along)&lt;/li&gt;
+&lt;li&gt;✅ Hi-lift jack&lt;/li&gt;
+&lt;li&gt;✅ Bottle jack&lt;/li&gt;
+&lt;li&gt;✅ Table saw&lt;/li&gt;
+&lt;li&gt;✅ Wheelbarrow&lt;/li&gt;
+&lt;li&gt;✅ Post hole digger&lt;/li&gt;
+&lt;li&gt;✅ Chalk line&lt;/li&gt;
+&lt;li&gt;✅ Calipers&lt;/li&gt;
+&lt;li&gt;✅ Workbench&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://amzn.to/3w6X1LM&#34;&gt;Table saw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3XzmOrA&#34;&gt;Miter saw&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3CWkjYp&#34;&gt;Reciprocating saw, AKA “Sawzall”&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3iLeFBI&#34;&gt;Pocket hole jig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html&#34;&gt;Hand truck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html&#34;&gt;Floor jack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html&#34;&gt;Jack stands&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://amzn.to/3ZJ0BZT&#34;&gt;Stanley FuBar III&lt;/a&gt; pry bar&lt;/li&gt;
+&lt;li&gt;✅ &lt;a href=&#34;https://marshalltown.com/pro-2152-monster-pry-bar&#34;&gt;“Burke bar” pry bar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hobbies-tech-etc&#34;&gt;Hobbies, Tech, etc.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;New MacBook Pro (Current: 2016)&lt;/li&gt;
+&lt;li&gt;3D printer&lt;/li&gt;
+&lt;li&gt;Electric guitar, amp, and pedals: &lt;a href=&#34;https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black&#34;&gt;Yamaha GigMaker set&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;✅ New iPhone (iPhone XR -&amp;gt; iPhone 16e)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TBD, working on reading the books I already own!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Last updated 2025-06-02&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Here&rsquo;s a wish list I regularly update. I also keep <a href="https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share">my Amazon wish list updated here</a>.</p>
 <p>What I want:</p>
 <h2 id="life">Life</h2>
 <ul>
@@ -1250,4 +1880,7 @@ Your browser does not support the audio element.
 </ul>
 <hr>
 <p>Last updated 2025-06-02</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

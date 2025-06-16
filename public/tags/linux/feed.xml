@@ -1,6 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Linux on Joshua P. Steele</title><link>https://joshuapsteele.com/tags/linux/</link><description>Recent content in Linux on Joshua P. Steele</description><image><title>Joshua P. Steele</title><url>https://joshuapsteele.com/images/default-social.png</url><link>https://joshuapsteele.com/images/default-social.png</link></image><generator>Hugo -- 0.147.3</generator><language>en-US</language><lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate><atom:link href="https://joshuapsteele.com/tags/linux/feed.xml" rel="self" type="application/rss+xml"/><item><title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title><link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link><pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate><guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid><description>&lt;p>Are you new to the world of computer programming? If so, learning &lt;a href="https://en.wikipedia.org/wiki/Linux">Linux&lt;/a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p>
-&lt;p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p>
-&lt;p>(Want to learn even more about Linux? Check out &lt;em>&lt;a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands&lt;/a>&lt;/em> and &lt;em>&lt;a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction&lt;/a>&lt;/em>.)&lt;/p></description><content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/tags/linux/</link>
+    <description>Recent content in Linux on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/tags/linux/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mastering Linux: Top Commands Every New Computer Programmer Should Learn</title>
+      <link>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</link>
+      <pubDate>Thu, 16 Mar 2023 17:37:01 +0000</pubDate>
+      <guid>https://joshuapsteele.com/mastering-linux-top-commands-every-new-computer-programmer-should-learn/</guid>
+      <description>&lt;p&gt;Are you new to the world of computer programming? If so, learning &lt;a href=&#34;https://en.wikipedia.org/wiki/Linux&#34;&gt;Linux&lt;/a&gt; commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.&lt;/p&gt;
+&lt;p&gt;In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.&lt;/p&gt;
+&lt;p&gt;(Want to learn even more about Linux? Check out &lt;em&gt;&lt;a href=&#34;https://amzn.to/3mRKdY5&#34;&gt;Linux Pocket Guide: Essential Commands&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href=&#34;https://amzn.to/3ZSntpL&#34;&gt;The Linux Command Line: A Complete Introduction&lt;/a&gt;&lt;/em&gt;.)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Are you new to the world of computer programming? If so, learning <a href="https://en.wikipedia.org/wiki/Linux">Linux</a> commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.</p>
 <p>In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.</p>
 <p>(Want to learn even more about Linux? Check out <em><a href="https://amzn.to/3mRKdY5">Linux Pocket Guide: Essential Commands</a></em> and <em><a href="https://amzn.to/3ZSntpL">The Linux Command Line: A Complete Introduction</a></em>.)</p>
 <h2 id="pwd-print-working-directory"><code>pwd</code> (Print Working Directory)</h2>
@@ -29,4 +50,7 @@
 <p>The ‘man’ command provides access to the manual page for any Linux command. This is a valuable resource for learning more about each command’s functionality, options, and usage examples.</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>By mastering these Linux commands, you’ll be well on your way to becoming a proficient computer programmer. As you continue to practice and refine your skills, you’ll unlock new opportunities for success in the world of coding. Remember that practice makes perfect, so don’t be afraid to dive in and start exploring the power of Linux. Happy coding!</p>
-]]></content:encoded></item></channel></rss>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
