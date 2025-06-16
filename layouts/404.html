@@ -1,0 +1,29 @@
+{{- define "main" }}
+<div class="not-found">404</div>
+
+<header class="page-header">
+    <h1>Page not found</h1>
+    <div class="post-description">
+        The page you're looking for doesn't exist. Try searching below:
+    </div>
+</header>
+
+<div id="searchbox">
+    <input id="searchInput" autofocus placeholder="Search for content..."
+        aria-label="search" type="search" autocomplete="off" maxlength="64">
+    <ul id="searchResults" aria-label="search results"></ul>
+</div>
+
+{{/* Include search functionality */}}
+<link crossorigin="anonymous" rel="preload" as="fetch" href="../index.json">
+{{- $fastsearch := resources.Get "js/fastsearch.js" | js.Build (dict "params" (dict "fuseOpts" site.Params.fuseOpts)) | resources.Minify }}
+{{- $fusejs := resources.Get "js/fuse.basic.min.js" }}
+{{- $license_js := resources.Get "js/license.js" }}
+{{- if not site.Params.assets.disableFingerprinting }}
+{{- $search := (slice $fusejs $license_js $fastsearch ) | resources.Concat "assets/js/search.js" | fingerprint }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}" integrity="{{ $search.Data.Integrity }}"></script>
+{{- else }}
+{{- $search := (slice $fusejs $fastsearch ) | resources.Concat "assets/js/search.js" }}
+<script defer crossorigin="anonymous" src="{{ $search.RelPermalink }}"></script>
+{{- end }}
+{{- end }}{{/* end main */ -}}
