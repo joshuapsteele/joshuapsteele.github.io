@@ -7,6 +7,9 @@ tags: [democracy, constitutionalism, civic virtue, civic engagement]
 categories: [politics]
 showToc: true
 TocOpen: true
+url: /citizens-manifesto/
+aliases:
+    - /blog/citizens-manifesto/
 ---
 
 Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue. 
