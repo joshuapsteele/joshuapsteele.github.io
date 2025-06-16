@@ -99,7 +99,7 @@ The inside cover of the book claims that it “provides the best synthesis of th
 
 [I strongly recommend you buy and read Oden](http://amzn.to/2BF1GWu), obviously. However, if, for some reason, Oden seems too long or expensive, check out Alister McGrath’s [Theology: The Basics](http://amzn.to/2EpfFmn) or Daniel Migliore’s [Faith Seeking Understanding: An Introduction to Christian Theology (Third Edition)](http://amzn.to/2FvyuUm).
 
-### 5. Matthew Perman, [**What’s Best Next:** <span class="a-size-large" id="productTitle">**How the Gospel Transforms the Way You Get Things Done**</span>](http://amzn.to/2DNCzma)
+### 5. Matthew Perman, **[What’s Best Next: How the Gospel Transforms the Way You Get Things Done](http://amzn.to/2DNCzma)**
 
 OK, last book of my top 5! And it’s a good one. In fact, this is the single best book on productivity and time management for Christians that I know of. It got me started on my kick of reading productivity books for the past few years, and I trust that it will help you create more margin in your life to pursue purpose and meaning.
 

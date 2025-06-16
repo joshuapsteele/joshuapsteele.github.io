@@ -7,28 +7,6 @@ custom_permalink:
 date: "2015-12-08T11:45:35Z"
 guid: https://joshuapsteele.com/?p=3504
 id: 3504
-cover:
-    image: /wp-content/uploads/2015/12/pablo-5-1.png
-publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_description:
-- My theology, in outline. An attempt to summarize the main contents of the Christian
-  faith, albeit in a cross-centered and creative way.
-rank_math_focus_keyword:
-- theology
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_pillar_content:
-- "on"
-rank_math_primary_category:
-- "775"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "80"
 title: 'Theology in Outline: What Do I Believe?'
 url: /theology-outline/
 ---
@@ -37,7 +15,7 @@ url: /theology-outline/
 
 ---
 
-> *“At the centre of Christian faith is the history of Christ. At the centre of the history of Christ is his passion and his death on the cross.” ~ Jürgen Moltmann*[<sup><sup>\[1\]</sup></sup>](#_ftn1)
+> *“At the centre of Christian faith is the history of Christ. At the centre of the history of Christ is his passion and his death on the cross.” ~ Jürgen Moltmann*[\[1\]](#_ftn1)
 
 # Theology in Outline: A\[n Attempted\] Summary of the Christian Faith
 
@@ -54,21 +32,21 @@ At this point, we face a crucial choice between:
 1. the posited “God” of metaphysical theism and
 2. the revealed God of the Christian faith.[\[3\]](#_ftn3)
 
-Should we choose the *former*, our Christ, canon, and confession are irreducibly <span style="text-decoration: underline;">***docetic***</span> – the true “God” is aloof, and merely play-acting, at best.
+Should we choose the *former*, our Christ, canon, and confession are irreducibly *docetic* – the true “God” is aloof, and merely play-acting, at best.
 
 Yet, should we choose the *latter*, God is irreducibly, ineluctably Triune – Father, Son, and Holy Spirit. We believe, we **trust** that the Triune God is who God has revealed Godself to be.
 
 ## THE HOLY TRINITY: The Main Character(s) of Theology
 
-The narrative of **Scripture portrays the Trinity “by telling a history of God with us that displays three enactors of that history, each of which is indeed other than the other two and yet is at the same time the same God as the other two.”**[<sup><sup>\[4\]</sup></sup>](#_ftn4)
+The narrative of **Scripture portrays the Trinity “by telling a history of God with us that displays three enactors of that history, each of which is indeed other than the other two and yet is at the same time the same God as the other two.”**[\[4\]](#_ftn4)
 
 ![Icon of the Holy Trinity, the main character(s) in Christian theology](https://upload.wikimedia.org/wikipedia/commons/1/17/Andrej_Rubl%C3%ABv_001.jpg)
 
-These three *dramatis personae Dei*, or “persons of the divine drama,” appear throughout Scripture as God – “as a *persona* in Israel’s story – of which he is simultaneously the author.”[<sup><sup>\[5\]</sup></sup>](#_ftn5)
+These three *dramatis personae Dei*, or “persons of the divine drama,” appear throughout Scripture as God – “as a *persona* in Israel’s story – of which he is simultaneously the author.”[\[5\]](#_ftn5)
 
-1. YHWH – the God of Israel who created the world and delivered through the Exodus – is the **Father** by virtue of Jesus’ address of him as such.[<sup><sup>\[6\]</sup></sup>](#_ftn6)
-2. The **Son** is Jesus of Nazareth by virtue of this same address.[<sup><sup>\[7\]</sup></sup>](#_ftn7)
-3. Finally, the **Spirit** appears as a *persona* of the story, first in the OT as the Spirit of YHWH which gives life and “keeps the creation moving toward its fulfillment,” and then in the NT as the one in relationship between the Father and the Son, who is poured out upon the Church.[<sup><sup>\[8\]</sup></sup>](#_ftn8)
+1. YHWH – the God of Israel who created the world and delivered through the Exodus – is the **Father** by virtue of Jesus’ address of him as such.[\[6\]](#_ftn6)
+2. The **Son** is Jesus of Nazareth by virtue of this same address.[\[7\]](#_ftn7)
+3. Finally, the **Spirit** appears as a *persona* of the story, first in the OT as the Spirit of YHWH which gives life and “keeps the creation moving toward its fulfillment,” and then in the NT as the one in relationship between the Father and the Son, who is poured out upon the Church.[\[8\]](#_ftn8)
 
 Yes, Jesus of Nazareth prayed to God, calling him Father. Yet this Son of God, confessed by Christians as “very God of very God” (Niceno-Constantinopolitan \[Nicene\] Creed), also cried out to the Father: “**My God, my God, why have you forsaken me?**” (Mark 15:34).
 
@@ -86,17 +64,17 @@ As it turns out, the Spirit preserves God’s unity at the most frayed moment �
 
 The Trinity is one God, not three, because it is concerned with “a relationship between persons in which these persons constitute themselves in their relationship with each other.”[\[12\]](#_ftn12) The doctrine of the Trinity holds together Father, Son, and Holy Spirit – as well as Crucifixion and Resurrection.
 
-And yet, we are still faced with the difficulty of the Incarnation: **how can the eternal God be so <span style="text-decoration: underline;">temporal</span>, the transcendent One so <span style="text-decoration: underline;">immanent</span>?**
+And yet, we are still faced with the difficulty of the Incarnation: **how can the eternal God be so temporal, the transcendent One so immanent?**
 
 (For more on the Trinity, see my essay: [“The Holy Trinity: What Is It? (Why) Is It Important?”](https://joshuapsteele.com/holy-trinity/))
 
-## ELECTION &amp; CREATION
+## ELECTION & CREATION
 
 There is no escape from time, not even for God. The Trinity holds together not just Crucifixion and Resurrection, but time itself.[\[13\]](#_ftn13)
 
 “**Eternal**” most properly means “without beginning, without end,” and not “**timeless**,” which means “without past, present, or future.”
 
-**If we remove “timeless” from our definition of God’s eternality, the Trinity’s identification of itself with its temporal *opera ad extra* poses less of a theological threat (to divine transcendence), beginning with its first external work: <span style="text-decoration: underline;">election</span>.**
+**If we remove “timeless” from our definition of God’s eternality, the Trinity’s identification of itself with its temporal *opera ad extra* poses less of a theological threat (to divine transcendence), beginning with its first external work: election.**
 
 Or is it **creation**?
 
@@ -106,9 +84,9 @@ Barth is right to expose the dialectical relationship between the two:
 
 The creaturely form and covenant content of the Triune God’s external works find their basis in the election of Jesus as the nexus of God and humanity – **Christ is the electing God and the elected human, before the act of creation.**
 
-That Jesus exists as the elect(ing) God-human before humanity itself exists – that **he can precede himself, as it were** – is but an illustration of **the Triune God’s temporal transcendence, which is not threatened by (but rather displayed <span style="text-decoration: underline;">through</span>) immanence.**
+That Jesus exists as the elect(ing) God-human before humanity itself exists – that **he can precede himself, as it were** – is but an illustration of **the Triune God’s temporal transcendence, which is not threatened by (but rather displayed through) immanence.**
 
-By, for, and to Jesus Christ “the universe is created as a theatre for God’s dealings with man and man’s dealings with God” (CD II/2, 94). Without a fully-orbed view of the Trinity, this extension outward from Godself to that which is not God, from Creator to creature, seems **arbitrary**. And yet, while God’s freedom can never be reduced to mere <span style="text-decoration: underline;">necessity</span>, the eternal love which characterizes the life of the Trinity makes God’s free decision to elect and create most <span style="text-decoration: underline;">***fitting***</span>.
+By, for, and to Jesus Christ “the universe is created as a theatre for God’s dealings with man and man’s dealings with God” (CD II/2, 94). Without a fully-orbed view of the Trinity, this extension outward from Godself to that which is not God, from Creator to creature, seems **arbitrary**. And yet, while God’s freedom can never be reduced to mere necessity, the eternal love which characterizes the life of the Trinity makes God’s free decision to elect and create most ***fitting***.
 
 **Through Christ, there is a correspondence between the existence and love of God *ad intra* – between Father, Son, and Holy Spirit – and the existence and love of God *ad extra* to humanity.**
 
@@ -124,7 +102,7 @@ Given the Christological and theological basis of human existence, **it makes no
 
 Just as there is no God behind God, there is no humanity beyond the divine summons, beyond existence in the same sphere inhabited by Christ. It is therefore unthinkable that humanity should try to be the source of its own existence, and yet this is precisely that which occurs.
 
-**Therefore, sin is not merely <span style="text-decoration: underline;">moral</span> – it is both <span style="text-decoration: underline;">ontological</span> and <span style="text-decoration: underline;">incomprehensible</span>**: the inherent contradiction of a nothingness which opposes God as the very ground of all existence and reality.
+Therefore, sin is not merely *moral* – it is both *ontological* and *incomprehensible*: the inherent contradiction of a nothingness which opposes God as the very ground of all existence and reality.
 
 ## Back to the Cross and the Empty Tomb
 
@@ -136,9 +114,9 @@ Pardon the cyclical nature of this discussion, but it is time to return to the C
 
 **Why did the Spirit need to overcome the divine distancing?**
 
-The answer to these questions begins with the eternal (before creation, but not timeless) election of Jesus Christ – for **he is not just the <span style="text-decoration: underline;">electing</span> God and elected human, but also the <span style="text-decoration: underline;">damned</span> human and the damned God.**
+The answer to these questions begins with the eternal (before creation, but not timeless) election of Jesus Christ – for **he is not just the electing God and elected human, but also the damned human and the damned God.**
 
-Election is therefore <span style="text-decoration: underline;">**double**</span>, in that (1) God elects unto ***Godself***, through Jesus Christ, the incomprehensible nothingness – the terrible “<span style="text-decoration: underline;">No</span>” – that is the inevitable outworking of human sin. However, (2) God elects unto ***humanity***, through Jesus Christ, the unmerited invitation – the wonderful “<span style="text-decoration: underline;">Yes</span>” – into the love and life of the Triune God.
+Election is therefore **double**, in that (1) God elects unto ***Godself***, through Jesus Christ, the incomprehensible nothingness – the terrible “No” – that is the inevitable outworking of human sin. However, (2) God elects unto ***humanity***, through Jesus Christ, the unmerited invitation – the wonderful “Yes” – into the love and life of the Triune God.
 
 **An eternal exchange. A “Yes” and a “No.”**
 
@@ -154,15 +132,15 @@ Despite the invasion of **SIN** (Gen. 3) – which ruptured the perfect relation
 
 God calls Abraham and the nation of Israel back to unity with himself through **COVENANT**. He endeavors to pull them – and through them as a priestly nation, the world – back from the ruptured relationships into covenantal fellowship and oneness.[\[17\]](#_ftn17)
 
-However, the faithless Israelites repeatedly eschew the loving faithfulness of their God, leading to the **EXILE** of the nation.[<sup><sup>\[18\]</sup></sup>](#_ftn18)
+However, the faithless Israelites repeatedly eschew the loving faithfulness of their God, leading to the **EXILE** of the nation.[\[18\]](#_ftn18)
 
 In fulfillment of God’s eternal election, at the **INCARNATION**, the Trinity stretches through the Son to meet all humanity – as a Jewish man in the midst of Israel – in its state of partial exile, to fulfill the global mission of Israel.[\[19\]](#_ftn19)
 
-As God enters our midst as Jesus Christ, he pushes us to the side in our perverted attempts to secure our own existence.[<sup><sup>\[20\]</sup></sup>](#_ftn20) Without succumbing to sin’s siren call, he is fully affected by it, bringing sinful human nature into the life of God and thereby intensifying the divine reaction against it into an ultimate tension.[<sup><sup>\[21\]</sup></sup>](#_ftn21)
+As God enters our midst as Jesus Christ, he pushes us to the side in our perverted attempts to secure our own existence.[\[20\]](#_ftn20) Without succumbing to sin’s siren call, he is fully affected by it, bringing sinful human nature into the life of God and thereby intensifying the divine reaction against it into an ultimate tension.[\[21\]](#_ftn21)
 
 **The one ultimately worthy *<u>to</u>* exile is now also the one ultimately worthy *<u>of</u>* exile.**
 
-Once more, to the **CROSS**. There, the Trinity stretches to the utmost, as the Son of God, worthy to mete out the sentence of exile, instead *goes into exile* – into the far country of the grave – bearing the consequences of sin for the sake of humanity’s salvation.[<sup><sup>\[22\]</sup></sup>](#_ftn22)
+Once more, to the **CROSS**. There, the Trinity stretches to the utmost, as the Son of God, worthy to mete out the sentence of exile, instead *goes into exile* – into the far country of the grave – bearing the consequences of sin for the sake of humanity’s salvation.[\[22\]](#_ftn22)
 
 ![depiction of the crucifixion, the crisis point of Christian theology](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Matthias_Gr%C3%BCnewald_-_The_Crucifixion_-_WGA10723.jpg/696px-Matthias_Gr%C3%BCnewald_-_The_Crucifixion_-_WGA10723.jpg)
 
@@ -172,17 +150,17 @@ However, through the power of the Holy Spirit, the exiled Son of God is vindicat
 
 (For more on the Resurrection, see my sermon: [“Son Of Man, Can Your Bones Live?”](https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/))
 
-Through this movement of the Son into the utmost exile and back again, **sin itself is offered up to destruction**.[<sup><sup>\[23\]</sup></sup>](#_ftn23)
+Through this movement of the Son into the utmost exile and back again, **sin itself is offered up to destruction**.[23](#_ftn23)
 
-And crucially, **all humanity who is united to him by grace through faith – everyone who is therefore *in Christ* – gets caught up with the Son in his return to the life and love of the Triune God.**[<sup><sup>\[24\]</sup></sup>](#_ftn24)
+And crucially, **all humanity who is united to him by grace through faith – everyone who is therefore *in Christ* – gets caught up with the Son in his return to the life and love of the Triune God.**[24](#_ftn24)
 
 ## THE CHURCH
 
-And yet, getting caught up with Christ in this return to Triune fellowship does <span style="text-decoration: underline;">***not***</span> take place **timelessly** or **instantaneously**.
+And yet, getting caught up with Christ in this return to Triune fellowship does not take place **timelessly** or **instantaneously**.
 
 It is, rather, an ***already, not-yet*** phenomenon. Between the Resurrection and the present moment lies the ongoing (for about two millennia, now) story of the Church.
 
-And while all Christians confess some sort of belief in the future return of Jesus to set things right, to “judge the living and the dead” ([Apostles’ Creed](https://en.wikipedia.org/wiki/Apostles%27_Creed)), it is a particular (though not unique) strength of **Anglicanism** that it **endeavors to take seriously both the timeliness and diversity of the Trinity’s external work throughout the Church’s history**.
+And while all Christians confess some sort of belief in the future return of Jesus to set things right, to “judge the living and the dead” ([Apostles’ Creed](https://en.wikipedia.org/wiki/Apostles%27_Creed)), it is a particular (though not unique) strength of **Anglicanism** that it endeavors to take seriously both the timeliness and diversity of the Trinity’s external work throughout the Church’s history.
 
 Specifically, since the Holy Spirit has been faithful to sustain the Church and supply it with leaders and teachers throughout its existence as a community “in which the pure Word of God is preached, and the Sacraments,” timely works of the Trinity, if you will, “be duly ministered” ([Articles of Religion](https://www.churchofengland.org/prayer-worship/worship/book-of-common-prayer/articles-of-religion.aspx), 19), Anglicans feel free to draw upon the **diverse breadth of thought throughout the history of Christ’s Body**.
 
@@ -206,7 +184,7 @@ Because it is a part of the history of the temporally-eternal, transcendently-im
 
 ---
 
-# NOTES
+## NOTES
 
 [\[1\]](#_ftnref1) Jürgen Moltmann, *The Way of Jesus Christ: Christology in Messianic Dimensions* (Minneapolis, MN: Fortress, 1990), 151.
 
