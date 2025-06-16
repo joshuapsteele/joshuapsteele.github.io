@@ -5,27 +5,13 @@ categories:
 date: "2013-04-24T06:00:34Z"
 guid: https://joshuapsteele.com/?p=2601
 id: 2601
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-tagazine-media:
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-04-24
-  02:47:38";}
-- a:7:{s:7:"primary";s:0:"";s:6:"images";a:0:{}s:6:"videos";a:0:{}s:11:"image_count";i:0;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-04-24
-  02:47:38";}
 title: A Farewell to Cedarville
 url: /a-farewell-to-cedarville/
 ---
 
 ***(Originally posted in [The Ventriloquist](http://www.theventriloquist.us/). Go check out the rest of [Issue 10](http://www.theventriloquist.us/)!)***
 
-<span style="text-decoration:underline;">**“A Farewell to Cedarville” – Joshua Steele**</span>
+**“A Farewell to Cedarville” – Joshua Steele**
 
 **As what was once a vision for the future has become an agenda for returning to the past, the list of people who no longer fit the Cedarville mold is growing.** I contacted former vice president of Student Life, Dr. [Carl Ruby](http://www.carlruby.com/); former professor Dr. [Michael Pahl](https://sites.google.com/site/michaelpahl/); current professors Dr. TC Ham, Dr. Shawn Graves, and Dr. David Mills; and former trustees Dr. William Rudd and Rev. Chris Williamson to see where things stand as this academic year comes to a close.
 
@@ -61,4 +47,4 @@ I have been fed by Carl Ruby’s Cedarville, not the new Cedarville of twenty ye
 
 **Cedarville, fulfill your call and be true to our God – not by claiming institutional prerogatives to drive away our Christlike best – but by doing justice, promoting honesty, and walking humbly with Him whose name we claim.**
 
-<span style="text-decoration:underline;">***Update*:**</span> *Dr. Carl B. Smith, Professor of Church History, has willfully decided to turn in an unsigned contract. Although he does not have further employment lined up at this time, he will not be returning to Cedarville for the 2013-14 academic year.*
+**Update**: Dr. Carl B. Smith, Professor of Church History, has willfully decided to turn in an unsigned contract. Although he does not have further employment lined up at this time, he will not be returning to Cedarville for the 2013-14 academic year.

@@ -1,37 +1,8 @@
 ---
 author: Anglican Compass
-avada_post_views_count:
-- "960"
-avada_post_views_count_today_date:
-- 09-06-2022
-avada_today_post_views_count:
-- "2"
-categories:
-- Uncategorized
 date: "2020-06-01T07:00:51Z"
-fusion_builder_status:
-- ""
 guid: https://anglicancompass.com/?p=22426
 id: 22426
-mf2_syndication:
-- a:0:{}
-rank_math_description:
-- We offer this open letter to our fellow ACNA clergy on the need for anti-racism,
-  diversity, and justice within Anglicanism.
-rank_math_focus_keyword:
-- Anglican racism diversity
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "71"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "21"
-rank_math_title:
-- 'A Letter to Fellow ACNA Clergy: On Anti-Racism, Diversity, and Justice'
 tags:
 - Anglican Compass
 - Race
@@ -137,28 +108,26 @@ Rev. Canon Taylor Bodoh
 *Canon for Church Planting,* [*Gulf Atlantic Diocese*](http://www.gulfatlanticdiocese.org/)  
 *Leader in the* [*Anglican Multiethnic Network (AMEN)*](https://anglicanmultiethnic.org/)
 
-<span style="color: #333333;">Rev. Seth Cain  
+Rev. Seth Cain  
 *Rector, [The Village Anglican, Greenville](https://villageanglican.church/)*  
-</span>
 
-<span style="color: #333333;">Rev. Dan Claire  
-*Rector, [The Church of the Resurrection, Washington, D.C.](https://rezchurch.org/)*</span>
+Rev. Dan Claire  
+*Rector, [The Church of the Resurrection, Washington, D.C.](https://rezchurch.org/)*
 
 Rev. Canon Greg Goebel  
 *Editor-in-chief,* [*Anglican Compass*](https://anglicancompass.com/)
 
-<span style="color: #333333;">Rev. David Martin Hanke  
+Rev. David Martin Hanke  
 *Rector, [Restoration Anglican, Arlington](https://restorationarlington.org/)*  
-</span>
 
 Rev. Canon Alan Hawkins  
 *Chief Operating Officer,* [*Anglican Church in North America*](http://www.anglicanchurch.net/index.php/main/Staff_Directory/)
 
-<span style="color: #333333;">Rev. Thomas Hinson  
-*Rector, [Advent Anglican, Washington, D.C.](https://adventdc.org/)*</span>
+Rev. Thomas Hinson  
+*Rector, [Advent Anglican, Washington, D.C.](https://adventdc.org/)*
 
-<span style="color: #333333;">Rev. Hannah King  
-*Associate Rector, [The Village Anglican, Greenville](https://villageanglican.church/)*</span>
+Rev. Hannah King  
+*Associate Rector, [The Village Anglican, Greenville](https://villageanglican.church/)*
 
 Rev. Michael King  
 *Associate Rector, [The Village Anglican, Greenville](https://villageanglican.church/)*
