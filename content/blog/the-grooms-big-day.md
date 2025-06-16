@@ -6,32 +6,20 @@ categories:
 date: "2016-03-31T16:42:16Z"
 guid: https://joshuapsteele.com/?p=3750
 id: 3750
-cover:
-    image: /wp-content/uploads/2016/03/pablo-3.png
-publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: The Groom's Big Day
 url: /the-grooms-big-day/
+aliases:
+- /wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf
 ---
 
-\[soundcloud url=”https://api.soundcloud.com/tracks/256270902″ params=”color=ff5500&amp;auto\_play=false&amp;hide\_related=false&amp;show\_comments=true&amp;show\_user=true&amp;show\_reposts=false” width=”100%” height=”166″ iframe=”true” /\]
-
-
-### [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)
+## [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)
 
 1. **Ephesians 5:21-33** – Wives and Husbands
 2. **Psalm 67** – May God Be Gracious to Us and Bless Us
 3. **Revelation 19:6-10** – The Marriage Supper of the Lamb
 4. **Matthew 25:1-13** – The Parable of the Ten Virgins
 
-### HOMILY
+## HOMILY
 
 What makes a great wedding?
 
@@ -45,7 +33,7 @@ I hope it’s not the quality of the sermon!
 
 But, really, **what makes a wedding great?**
 
-Surely (gestures toward bride and groom) <span style="text-decoration: underline;">these two</span> have something to do with it.
+Surely (gestures toward bride and groom) these two have something to do with it.
 
 Is it, perhaps, their physical appearance? His rugged handsomeness? Her stunning beauty?
 
@@ -53,15 +41,15 @@ What about their relationship? Is the wedding great because of the intensity of 
 
 ***What is it that makes a wedding great?***
 
-I guess, if most of us had to pick, we’d say that a wedding is great <span style="text-decoration: underline;">if the bride is happy</span>. Right? I mean, even if the weather stinks, the singers are off-key, and the sermon is just absolutely awful – if the bride is happy, everything is OK. Right?
+I guess, if most of us had to pick, we’d say that a wedding is great if the bride is happy. Right? I mean, even if the weather stinks, the singers are off-key, and the sermon is just absolutely awful – if the bride is happy, everything is OK. Right?
 
-Which is a great reminder that **weddings are about <span style="text-decoration: underline;">people</span>, not <span style="text-decoration: underline;">performances</span>.**
+Which is a great reminder that **weddings are about people, not performances**.
 
 However, I’m here today to tell you all that, sure, you can have a ***good*** wedding if the ***bride*** is happy.
 
 But, **if you want a really great wedding – if you want a really great marriage – then it’s really all about the <u>groom</u>**.
 
-#### <u>Great</u> weddings, might I even say *heavenly* weddings, are all about the <span style="text-decoration: underline;">**groom**</span>.
+<u>Great</u> weddings, might I even say *heavenly* weddings, are all about the **groom**.
 
 Now, either you’re not listening or I’ve probably upset you!
 
@@ -73,13 +61,13 @@ Are we really going to take this moment away from her and say that it’s all ab
 
 Well, **no.**
 
-Heavenly weddings ***are*** all about the groom, but you (gestures to the groom) better <span style="text-decoration: underline;">***not***</span> use this sermon as an excuse for anything resembling male chauvinism!
+Heavenly weddings ***are*** all about the groom, but you (gestures to the groom) better not use this sermon as an excuse for anything resembling male chauvinism!
 
 Because, for one thing, I’m an egalitarian!
 
-And, for another, I’m not talking about **you** (gestures to groom), ***her*** (to bride) bridegroom, but rather to **<u>Christ</u>**, ***our*** (gestures to everyone) bridegroom.
+And, for another, I’m not talking about **you** (gestures to groom), ***her*** (to bride) bridegroom, but rather to **Christ**, ***our*** (gestures to everyone) bridegroom.
 
-#### **Great weddings, and great marriages, are all about Christ, our Bridegroom.**
+**Great weddings, and great marriages, are all about Christ, our Bridegroom.**
 
 Take a glance at the Bible readings on your order of service everyone.
 
@@ -109,7 +97,7 @@ Now, why in the world am I telling you all this? I mean, first I steal the bride
 
 Here’s why (looks directly at bride and groom): **your wedding, and your marriage to each other, finds its true meaning and glory as a part of Christ’s Bride – the Church – preparing herself for the Bridegroom’s return.**
 
-#### ***Great weddings and marriages are all about the Bridegroom.***
+**Great weddings and marriages are all about the Bridegroom.**
 
 What does that mean for you? Well, as we read in Ephesians 5, it means **you are to love each other sacrificially and humbly**.
 
