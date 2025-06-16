@@ -6,123 +6,97 @@ categories:
 date: "2013-11-04T21:14:47Z"
 guid: https://joshuapsteele.com/?p=2986
 id: 2986
-cover:
-    image: /wp-content/uploads/2013/11/trinity-icon-1200x1494.jpg
-publicize_facebook_url:
-- https://facebook.com/10153385230440316
-- https://facebook.com/10153385230440316
-publicize_twitter_url:
-- http://t.co/yaTwU4m7gt
-- http://t.co/yaTwU4m7gt
-publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- 'This is my attempt to explain the logic of the Christian doctrine of the Holy Trinity:
-  belief in one God as three Persons: Father, Son, and Spirit.'
-rank_math_focus_keyword:
-- trinity
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "73"
 title: 'The Holy Trinity: What Is It? (Why) Is It Important?'
 url: /holy-trinity/
 ---
 
-# Introduction: The Holy Trinity
+## Introduction: The Holy Trinity
 
-<span style="color: #000000;">One God. Three persons. The Holy Trinity.</span>
+One God. Three persons. The Holy Trinity.
 
-<span style="color: #000000;">The orthodox paradox of this Christian confession confounds many, due to its apparent contradictions, abstractions, and absence from Scripture. </span>
+The orthodox paradox of this Christian confession confounds many, due to its apparent contradictions, abstractions, and absence from Scripture. 
 
-<span style="color: #000000;">From Arius to Augustine and beyond, trinitarian debates have raged even among those who agree that God exists, that the Bible is true, and that it is therefore worthwhile to consider what the Bible says because it reveals the existent God. </span>
+From Arius to Augustine and beyond, trinitarian debates have raged even among those who agree that God exists, that the Bible is true, and that it is therefore worthwhile to consider what the Bible says because it reveals the existent God.
 
-<span style="color: #000000;">Although the best discussions of the Trinity begin with an acknowledgment of its inscrutable mystery which eludes the grasp of human reason’s highest reach, a sober analysis of the doctrine’s canonical presence and historical outworking may help to answer the charges that the Trinity is a nonsensical, unbiblical abstraction worthy of abandonment. </span>
+Although the best discussions of the Trinity begin with an acknowledgment of its inscrutable mystery which eludes the grasp of human reason’s highest reach, a sober analysis of the doctrine’s canonical presence and historical outworking may help to answer the charges that the Trinity is a nonsensical, unbiblical abstraction worthy of abandonment. 
 
-<span style="color: #000000;">Although it is precisely the Trinity’s classical formulation that receives the criticisms just noted, it is important to begin at the end, so to speak, by introducing the operative terms before analyzing the scriptural context *out of which* and the historical context *in which* these trinitarian terms grew. </span>
+Although it is precisely the Trinity’s classical formulation that receives the criticisms just noted, it is important to begin at the end, so to speak, by introducing the operative terms before analyzing the scriptural context *out of which* and the historical context *in which* these trinitarian terms grew. 
 
-<span style="color: #000000;">The definitive statement of trinitarian belief is the Niceno-Constantinopolitan Creed of 381 CE, discussed below.[<span style="color: #000000;"><sup>1</sup></span>](#sdfootnote1sym) In brief, however, Christians confess belief in one God who eternally and only exists in one divine substance, essence, or *ousia*, and in three divine subsistences, Persons, or *hypostases*.[<span style="color: #000000;"><sup>2</sup></span>](#sdfootnote2sym) </span>
+The definitive statement of trinitarian belief is the Niceno-Constantinopolitan Creed of 381 CE, discussed below.[1](#sdfootnote1sym) In brief, however, Christians confess belief in one God who eternally and only exists in one divine substance, essence, or *ousia*, and in three divine subsistences, Persons, or *hypostases*.[2](#sdfootnote2sym) 
 
-<span style="color: #000000;">One in three, three in one: Father, Son, and Spirit – each Person equally and essentially God, and yet each distinct from the other two.</span>
+One in three, three in one: Father, Son, and Spirit – each Person equally and essentially God, and yet each distinct from the other two.
 
 (For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
 
-# <span style="color: #000000;">Is the Trinity in the Bible? – Canonical Presence</span>
+## Is the Trinity in the Bible? – Canonical Presence
 
-<span style="color: #000000;">A common objection to the doctrine of the Trinity as just stated is that it nowhere appears within the pages of Scripture. </span>
+A common objection to the doctrine of the Trinity as just stated is that it nowhere appears within the pages of Scripture. 
 
-<span style="color: #000000;">And indeed, despite the favorite trinitarian proof-texts in which Father, Son, and Spirit appear together, “no doctrine of the Trinity in the Nicene sense is present in \[even\] the New Testament.”[<span style="color: #000000;"><sup>3</sup></span>](#sdfootnote3sym) </span>
+And indeed, despite the favorite trinitarian proof-texts in which Father, Son, and Spirit appear together, “no doctrine of the Trinity in the Nicene sense is present in \[even\] the New Testament.”[3](#sdfootnote3sym) 
 
-<span style="color: #000000;">However, as Jenson persuasively argues, “the doctrine of the Trinity is indeed in Scripture, *if* one abandons modernity’s notion that statement in so many words as formulated is the only way that a doctrine can appear there.”[<span style="color: #000000;"><sup>4</sup></span>](#sdfootnote4sym) Instead, the *narrative* of Scripture portrays the Trinity “by telling a history of God with us that displays three enactors of that history, each of which is indeed other than the other two and yet is at the same time the same God as the other two.”[<span style="color: #000000;"><sup>5</sup></span>](#sdfootnote5sym)</span>
+However, as Jenson persuasively argues, “the doctrine of the Trinity is indeed in Scripture, *if* one abandons modernity’s notion that statement in so many words as formulated is the only way that a doctrine can appear there.”[4](#sdfootnote4sym) Instead, the *narrative* of Scripture portrays the Trinity “by telling a history of God with us that displays three enactors of that history, each of which is indeed other than the other two and yet is at the same time the same God as the other two.”[5](#sdfootnote5sym)
 
-<span style="color: #000000;">These three *dramatis personae Dei*, or “persons of the divine drama,” appear throughout Scripture as God – “as a *persona* in Israel’s story – of which he is simultaneously the author.”[<span style="color: #000000;"><sup>6</sup></span>](#sdfootnote6sym) </span>
+These three *dramatis personae Dei*, or “persons of the divine drama,” appear throughout Scripture as God – “as a *persona* in Israel’s story – of which he is simultaneously the author.”[6](#sdfootnote6sym) 
 
-<span style="color: #000000;">YHWH – the God of Israel who created the world and delivered through the Exodus – is the Father by virtue of Jesus’ address of him as such.[<span style="color: #000000;"><sup>7</sup></span>](#sdfootnote7sym) </span>
+YHWH – the God of Israel who created the world and delivered through the Exodus – is the Father by virtue of Jesus’ address of him as such.[7](#sdfootnote7sym) 
 
-<span style="color: #000000;">The Son is Jesus of Nazareth by virtue of this same address, but also in light of passages such as Psalm 2, appropriated in Hebrews 1 to identify Jesus as the divine Son.[<span style="color: #000000;"><sup>8</sup></span>](#sdfootnote8sym) </span>
+The Son is Jesus of Nazareth by virtue of this same address, but also in light of passages such as Psalm 2, appropriated in Hebrews 1 to identify Jesus as the divine Son.[8](#sdfootnote8sym) 
 
-<span style="color: #000000;">Finally, the Spirit appears as a *persona* of the story, first in the OT as the Spirit of YHWH which gives life and “keeps the creation moving toward its fulfillment,” and then in the NT as the one in relationship between the Father and the Son, who is poured out upon the Church.[<span style="color: #000000;"><sup>9</sup></span>](#sdfootnote9sym)</span>
+Finally, the Spirit appears as a *persona* of the story, first in the OT as the Spirit of YHWH which gives life and “keeps the creation moving toward its fulfillment,” and then in the NT as the one in relationship between the Father and the Son, who is poured out upon the Church.[9](#sdfootnote9sym)
 
-<span style="color: #000000;">The significance of trinitarian “proof-texts” mentioned above is that they portray the three persons of the divine drama in close proximity. </span>
+The significance of trinitarian “proof-texts” mentioned above is that they portray the three persons of the divine drama in close proximity. 
 
-<span style="color: #000000;">Most significant of these is the baptismal formula of Matthew 28:19, spoken by the Son himself: “…baptizing them in the name of the Father and of the Son and of the Holy Spirit.” Although the earliest Christians used poignant trinitarian phrases before the full implications of such had been thoroughly considered, these biblical patterns provided “the raw data from which the more developed descriptions of the Christian doctrine of God \[would\] come.”[<span style="color: #000000;"><sup>10</sup></span>](#sdfootnote10sym) </span>
+Most significant of these is the baptismal formula of Matthew 28:19, spoken by the Son himself: “…baptizing them in the name of the Father and of the Son and of the Holy Spirit.” Although the earliest Christians used poignant trinitarian phrases before the full implications of such had been thoroughly considered, these biblical patterns provided “the raw data from which the more developed descriptions of the Christian doctrine of God \[would\] come.”[10](#sdfootnote10sym) 
 
-<span style="color: #000000;">The classical formulation of the Trinity did not arise from a scriptural vacuum.</span>
+The classical formulation of the Trinity did not arise from a scriptural vacuum.
 
-# <span style="color: #000000;">How did we get the “doctrine” of the Trinity? – Historical Outworking</span>
+## How did we get the “doctrine” of the Trinity? – Historical Outworking
 
-<span style="color: #000000;">Neither was the doctrine formed in a historical vacuum. </span>
+Neither was the doctrine formed in a historical vacuum. 
 
-<span style="color: #000000;">Instead, as Wainwright notes: “the classic creeds were being formulated at the same time as the canon of the Scriptures was being recognized and determined; there was interaction between the two processes, and the Scriptures and the creeds continue to function reciprocally.”[<span style="color: #000000;"><sup>11</sup></span>](#sdfootnote11sym) </span>
+Instead, as Wainwright notes: “the classic creeds were being formulated at the same time as the canon of the Scriptures was being recognized and determined; there was interaction between the two processes, and the Scriptures and the creeds continue to function reciprocally.”[11](#sdfootnote11sym) 
 
-<span style="color: #000000;">The ecumenical creeds – such as the Apostles’, Niceno-Constantinopolitan (381), and the Chalcedonian *Definitio Fidei* (451) – serve as an interpretive key to the complex Scriptures, and yet also distill the divine drama of the Bible into a concise summary.[<span style="color: #000000;"><sup>12</sup></span>](#sdfootnote12sym)</span>
+The ecumenical creeds – such as the Apostles’, Niceno-Constantinopolitan (381), and the Chalcedonian *Definitio Fidei* (451) – serve as an interpretive key to the complex Scriptures, and yet also distill the divine drama of the Bible into a concise summary.[12](#sdfootnote12sym)
 
-<span style="color: #000000;">A crucial facet of trinitarian doctrine in which this dialectic took place was the distinction between the *immanent* and the *economic* Trinity – the former referring to the Trinity within itself, and the latter referring to the Trinity’s external relationship to the universe. </span>
+A crucial facet of trinitarian doctrine in which this dialectic took place was the distinction between the *immanent* and the *economic* Trinity – the former referring to the Trinity within itself, and the latter referring to the Trinity’s external relationship to the universe. 
 
-<span style="color: #000000;">While the majority of Scripture provides portrayals of the economic Trinity interacting with creation, it also offers enticing glimpses into the immanent relationships between the persons of the divine drama.[<span style="color: #000000;"><sup>13</sup></span>](#sdfootnote13sym) The doctrine that developed from such glimpses offered a way of distinguishing between how God relates to himself and to everything else, but also concluded that “the immanent Trinity lives no other plot than that displayed in the economic Trinity, that when you are taken into the story told in Scripture, you are taken into God himself.”[<span style="color: #000000;"><sup>14</sup></span>](#sdfootnote14sym) </span>
+While the majority of Scripture provides portrayals of the economic Trinity interacting with creation, it also offers enticing glimpses into the immanent relationships between the persons of the divine drama.[13](#sdfootnote13sym) The doctrine that developed from such glimpses offered a way of distinguishing between how God relates to himself and to everything else, but also concluded that “the immanent Trinity lives no other plot than that displayed in the economic Trinity, that when you are taken into the story told in Scripture, you are taken into God himself.”[14](#sdfootnote14sym) 
 
-<span style="color: #000000;">In other words, “there is no deeper reality of God lurking in the background” behind the three Persons of the Godhead.[<span style="color: #000000;"><sup>15</sup></span>](#sdfootnote15sym) </span>
+In other words, “there is no deeper reality of God lurking in the background” behind the three Persons of the Godhead.[15](#sdfootnote15sym) 
 
-<span style="color: #000000;">Although many of the disagreements took place before the distinction between the economic and immanent Trinity was formalized, the contours of the historical trinitarian debates revolve around where the conceptual boundary lies between the two.[<span style="color: #000000;"><sup>16</sup></span>](#sdfootnote16sym)</span>
+Although many of the disagreements took place before the distinction between the economic and immanent Trinity was formalized, the contours of the historical trinitarian debates revolve around where the conceptual boundary lies between the two.[16](#sdfootnote16sym)
 
-<span style="color: #000000;">A concern for the preservation of God’s *unity* motivated many of the early controversies. For example, Paul of Samosata collapsed the immanent Trinity to the Father alone, pushing the Son and Spirit into the economy, in their respective relations to the human being Jesus and the apostles – the view known as adoptionism.[<span style="color: #000000;"><sup>17</sup></span>](#sdfootnote17sym) Similarly, Sabellius pushed all three divine Persons into the economy, positing that the immanent Godhead was one God who exists in three modes or roles of being to the external creation – the view known as modalism.[<span style="color: #000000;"><sup>18</sup></span>](#sdfootnote18sym) </span><span style="color: #000000;">Finally, it was Arius’s commitment to monotheism that led him to shrink the immanent Trinity down to the Father alone – concluding that, because God is the indivisible cause of all that exists, he must have existed prior to the Son, who is “not everlasting or co-everlasting or unbegotten with the Father.”[<span style="color: #000000;"><sup>19</sup></span>](#sdfootnote19sym)</span>
+A concern for the preservation of God’s *unity* motivated many of the early controversies. For example, Paul of Samosata collapsed the immanent Trinity to the Father alone, pushing the Son and Spirit into the economy, in their respective relations to the human being Jesus and the apostles – the view known as adoptionism.[17](#sdfootnote17sym) Similarly, Sabellius pushed all three divine Persons into the economy, positing that the immanent Godhead was one God who exists in three modes or roles of being to the external creation – the view known as modalism.[18](#sdfootnote18sym) Finally, it was Arius’s commitment to monotheism that led him to shrink the immanent Trinity down to the Father alone – concluding that, because God is the indivisible cause of all that exists, he must have existed prior to the Son, who is “not everlasting or co-everlasting or unbegotten with the Father.”[19](#sdfootnote19sym)
 
-<span style="color: #000000;">Although each of these views would ultimately find condemnation in the creeds of the Church, it was Arius’s conception of a created Son that ignited the controversy that led to the Council of Nicaea (325), which refuted Arianism by declaring that the Son is “begotten, not made, being of one substance \[*homoousios*\] with the Father.”[<span style="color: #000000;"><sup>20</sup></span>](#sdfootnote20sym) </span>
+Although each of these views would ultimately find condemnation in the creeds of the Church, it was Arius’s conception of a created Son that ignited the controversy that led to the Council of Nicaea (325), which refuted Arianism by declaring that the Son is “begotten, not made, being of one substance \[*homoousios*\] with the Father.”[20](#sdfootnote20sym) 
 
-<span style="color: #000000;">However, the trinitarian debates continued, in part because of the relative ambiguity of the term homoousios and the ability of different factions to interpret it as they wished.[<span style="color: #000000;"><sup>21</sup></span>](#sdfootnote21sym) The years between the Council of Nicaea and the Council of Constantinople (381) were theologically chaotic as Athanasius of Alexandria and the Cappadocian fathers (Basil of Caesarea, Gregory of Nazianzus, and Gregory of Nyssa) fought for the Nicene view of the Trinity against its detractors, Arian and otherwise.[<span style="color: #000000;"><sup>22</sup></span>](#sdfootnote22sym)</span>
+However, the trinitarian debates continued, in part because of the relative ambiguity of the term homoousios and the ability of different factions to interpret it as they wished.[21](#sdfootnote21sym) The years between the Council of Nicaea and the Council of Constantinople (381) were theologically chaotic as Athanasius of Alexandria and the Cappadocian fathers (Basil of Caesarea, Gregory of Nazianzus, and Gregory of Nyssa) fought for the Nicene view of the Trinity against its detractors, Arian and otherwise.[22](#sdfootnote22sym)
 
-<span style="color: #000000;">However, along the lines of Arius’s original concerns, if the Son and the Spirit are granted full divinity along with the Father (as they are in the Niceno-Constantinopolitan Creed), why do Christians confess one God and not three? </span>
+However, along the lines of Arius’s original concerns, if the Son and the Spirit are granted full divinity along with the Father (as they are in the Niceno-Constantinopolitan Creed), why do Christians confess one God and not three? 
 
-<span style="color: #000000;">Gregory of Nyssa addressed these concerns first by appealing to the differences between the trinitarian terms *ousia* (common essence) and *hypostasis* (distinct personal subsistence). </span>
+Gregory of Nyssa addressed these concerns first by appealing to the differences between the trinitarian terms *ousia* (common essence) and *hypostasis* (distinct personal subsistence). 
 
-<span style="color: #000000;">Belonging to the category of collective or common nouns – which unite by referring to the common nature shared by diverse members of the same category – *ousia* refers to the divine essence or substance, shared equally by the three *hypostases* of the Godhead so that they are properly *homoousioi*, or of the same substance, with one another.[<span style="color: #000000;"><sup>23</sup></span>](#sdfootnote23sym) </span>
+Belonging to the category of collective or common nouns – which unite by referring to the common nature shared by diverse members of the same category – *ousia* refers to the divine essence or substance, shared equally by the three *hypostases* of the Godhead so that they are properly *homoousioi*, or of the same substance, with one another.[23](#sdfootnote23sym) 
 
-<span style="color: #000000;">However, belonging to the category of individual or proper nouns – which distinguish by referring to only one member of a particular category – *hypostasis* refers to the individual identity or subsistence of each divine Person which demarcates it from the other two.[<span style="color: #000000;"><sup>24</sup></span>](#sdfootnote24sym) </span><span style="color: #000000;">The divine *hypostases* are distinguishable in that “the Father and the Son and the Holy Ghost are one in all things save in the being unbegotten \[Father\], the being begotten \[Son\], and the procession \[Spirit\].”[<span style="color: #000000;"><sup>25</sup></span>](#sdfootnote25sym)</span>
+However, belonging to the category of individual or proper nouns – which distinguish by referring to only one member of a particular category – *hypostasis* refers to the individual identity or subsistence of each divine Person which demarcates it from the other two.[24](#sdfootnote24sym) The divine *hypostases* are distinguishable in that “the Father and the Son and the Holy Ghost are one in all things save in the being unbegotten \[Father\], the being begotten \[Son\], and the procession \[Spirit\].”[25](#sdfootnote25sym)
 
-<span style="color: #000000;">The distinction between a common *ousia* and distinct *hypostases*, therefore, prevents the collapse of the Trinity, yet through a crucial difference between the distinction-in-unity with regard to humanity and with regard to the divine. </span>
+The distinction between a common *ousia* and distinct *hypostases*, therefore, prevents the collapse of the Trinity, yet through a crucial difference between the distinction-in-unity with regard to humanity and with regard to the divine. 
 
-<span style="color: #000000;">After all, it is difficult to ascertain the unifying *ousia* of humanity because the distinct *hypostases* both appear and behave in such discordant ways. Due to their myriad differences and a merely conceptual unity, humans are not properly referred to as one human but many. </span>
+After all, it is difficult to ascertain the unifying *ousia* of humanity because the distinct *hypostases* both appear and behave in such discordant ways. Due to their myriad differences and a merely conceptual unity, humans are not properly referred to as one human but many. 
 
-<span style="color: #000000;">In contrast, the unity of the three divine *hypostases* is actual, by virtue of the trinitarian rule *opera trinitatis ad extra indivisa sunt*.[<span style="color: #000000;"><sup>26</sup></span>](#sdfootnote26sym) As Gregory of Nyssa notes, “every activity which pervades from God to creation and is named according to our manifold design starts off from the Father, proceeds through the Son, and is completed by the Holy Spirit.”[<span style="color: #000000;"><sup>27</sup></span>](#sdfootnote27sym) </span>
+In contrast, the unity of the three divine *hypostases* is actual, by virtue of the trinitarian rule *opera trinitatis ad extra indivisa sunt*.[26](#sdfootnote26sym) As Gregory of Nyssa notes, “every activity which pervades from God to creation and is named according to our manifold design starts off from the Father, proceeds through the Son, and is completed by the Holy Spirit.”[27](#sdfootnote27sym) 
 
-<span style="color: #000000;">Christians worship one God, because although each divine Person is God, “by the same proclamation God is one, because neither in regard to nature \[or ousia\] nor activity is any difference viewed.”[<span style="color: #000000;"><sup>28</sup></span>](#sdfootnote28sym) Unlike the diverse and discordant human *hypostases*, the divine persons are completely unified in their will and operations. Therefore, in the words of Gregory of Nazianzus: “the Godhead exists undivided in beings divided.”[<span style="color: #000000;"><sup>29</sup></span>](#sdfootnote29sym)</span>
+Christians worship one God, because although each divine Person is God, “by the same proclamation God is one, because neither in regard to nature \[or ousia\] nor activity is any difference viewed.”[28](#sdfootnote28sym) Unlike the diverse and discordant human *hypostases*, the divine persons are completely unified in their will and operations. Therefore, in the words of Gregory of Nazianzus: “the Godhead exists undivided in beings divided.”[29](#sdfootnote29sym)
 
-# <span style="color: #000000;">Conclusion</span>
+## Conclusion
 
-<span style="color: #000000;">To return to what was mentioned at the outset, the best discussions of the Trinity also *end* with an acknowledgment of its inherent mystery which eludes the grasp of human reason’s highest reach. </span><span style="color: #000000;">Theological modesty is always in order, in part because of the unavoidable limitations of finite human speech about *anything*, much less about the infinite God. </span>
+To return to what was mentioned at the outset, the best discussions of the Trinity also *end* with an acknowledgment of its inherent mystery which eludes the grasp of human reason’s highest reach. Theological modesty is always in order, in part because of the unavoidable limitations of finite human speech about *anything*, much less about the infinite God.
 
-<span style="color: #000000;">Granted, certain ways of framing how God can be one and yet three are better than others, not only based upon their coherence with the traditions of orthodoxy, but also with regard to their impact on other areas of theological concern – such as the atonement and interpersonal relationships.[<span style="color: #000000;"><sup>30</sup></span>](#sdfootnote30sym) </span>
+Granted, certain ways of framing how God can be one and yet three are better than others, not only based upon their coherence with the traditions of orthodoxy, but also with regard to their impact on other areas of theological concern – such as the atonement and interpersonal relationships.[30](#sdfootnote30sym) 
 
-<span style="color: #000000;">And yet, because true theology is not learning how to speak about God in order to master him intellectually, but in order to worship him faithfully, a persistent lacuna in trinitarian understanding is surely acceptable. For, although the gracious condescension of the triune God enables our faith to seek understanding successfully, the inscrutable mysteries of the same triune God ensure that some understandings will ever transcend our faith’s reach.</span>
+And yet, because true theology is not learning how to speak about God in order to master him intellectually, but in order to worship him faithfully, a persistent lacuna in trinitarian understanding is surely acceptable. For, although the gracious condescension of the triune God enables our faith to seek understanding successfully, the inscrutable mysteries of the same triune God ensure that some understandings will ever transcend our faith’s reach.
 
-# ======== NOTES =========
+## NOTES
 
 [1](#sdfootnote1anc) All dates CE, unless otherwise noted. Wainwright notes that the Niceno-Constantinopolitan creed “has remained the most widely affirmed statement of trinitarian faith in both East and West.” Geoffrey Wainwright, “Trinity” in *Dictionary for Theological Interpretation of the Bible* (ed. Kevin J. Vanhoozer et al.; Grand Rapids: Baker Academic, 2005), 815.
 
