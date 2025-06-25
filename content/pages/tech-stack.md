@@ -1,9 +1,8 @@
 ---
 author: joshuapsteele
 title: Tech Stack
-url: /tech-stack/
 aliases:
-- /techstack/
+- /techstack
 ---
 
 Here's my current personal tech stack. For other recommended tools and resources, visit my [/resources](/resources) page!

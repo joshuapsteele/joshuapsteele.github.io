@@ -1,7 +1,6 @@
 ---
 author: joshuapsteele
 title: How to Resist Tyranny
-url: /resist/
 showtoc: true
 TocOpen: true
 ---

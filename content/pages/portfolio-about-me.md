@@ -2,7 +2,6 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=4204
 title: Portfolio (About Me)
-url: /portfolio-about-me/
 draft: true
 
 ---

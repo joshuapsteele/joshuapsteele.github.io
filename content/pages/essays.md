@@ -2,9 +2,8 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=4016
 title: Essays
-url: /essays/
 aliases:
-- /portfolio/essays/
+- /portfolio/essays
 
 ---
 _(Note: Since writing the essays below, I've left the academy and now work as a software engineer. Nevertheless, I'm keeping these around for posterity.)_

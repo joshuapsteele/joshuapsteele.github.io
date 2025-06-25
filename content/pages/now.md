@@ -2,8 +2,6 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=41441
 title: Now
-url: /now/
-
 ---
 
 These days, I'm:

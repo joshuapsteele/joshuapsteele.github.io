@@ -1,7 +1,6 @@
 ---
 author: joshuapsteele
 title: Caveats
-url: /caveats/
 showtoc: false
 ---
 You can add the following caveats to everything I write online.

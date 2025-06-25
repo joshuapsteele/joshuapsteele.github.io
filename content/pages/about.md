@@ -2,9 +2,8 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=40142
 title: About
-url: /about/
 aliases:
-- /portfolio/
+- /portfolio
 showtoc: false
 ---
 "The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.

@@ -2,9 +2,8 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=42475
 title: My Story
-url: /my-story/
 aliases:
-- /portfolio/my-story/
+- /portfolio/my-story
 
 ---
 _Note: I haven't updated this "My Story" page in quite some time. Check [my "Now" page](/now/) for more recent updates. But here's the TL;DR: We've got three kids now. I quit my Ph.D. program, [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/), and now [work full-time as a software engineer](/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/). But I'm leaving this old "My Story" page up as a window into how I summarized my story back in 2021._

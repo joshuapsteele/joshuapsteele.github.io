@@ -1,8 +1,7 @@
 ---
 author: joshuapsteele
 title: Questions
-url: /questions/
-showtoc: false
+showtoc: true
 ---
 
 This is a `/questions` page, where I keep track of the questions I'm asking!

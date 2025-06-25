@@ -4,6 +4,7 @@ guid: https://joshuapsteele.com/?page_id=41418
 title: Wish List
 url: /wishlist/
 aliases:
+- /wish/
 - /wish-list/
 - /what-i-want/
 

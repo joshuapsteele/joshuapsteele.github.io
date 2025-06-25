@@ -2,7 +2,6 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=2619
 title: Contact
-url: /contact/
 ---
 If you'd like to ask if I'm interested in guest content on my blog, please don't. I'm not interested.
 
