@@ -3,8 +3,9 @@ date: '2025-06-25T14:55:43-04:00'
 draft: true
 title: 'Follow'
 ---
-> [!NOTE]
-> This `/follow` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/follow` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 # Follow and Subscribe
 

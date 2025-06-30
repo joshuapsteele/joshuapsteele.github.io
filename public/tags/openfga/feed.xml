@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>OpenFGA on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/openfga/</link>
+    <link>http://localhost:1313/tags/openfga/</link>
     <description>Recent content in OpenFGA on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/openfga/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/openfga/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title>
-      <link>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</link>
+      <link>http://localhost:1313/real-world-openfga-authorization-lessons/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</guid>
+      <guid>http://localhost:1313/real-world-openfga-authorization-lessons/</guid>
       <description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description>
       <content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
 <p>If so, I’d love to learn from your experience.</p>

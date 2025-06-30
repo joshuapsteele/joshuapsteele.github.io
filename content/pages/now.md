@@ -3,8 +3,9 @@ author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=41441
 title: Now
 ---
-> [!NOTE]
-> This `/now` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/now` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 These days, I'm:
 

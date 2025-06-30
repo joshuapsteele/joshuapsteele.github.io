@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tyranny on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/tyranny/</link>
+    <link>http://localhost:1313/tags/tyranny/</link>
     <description>Recent content in Tyranny on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 10 Jun 2025 14:25:40 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/tyranny/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/tyranny/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp</title>
-      <link>https://joshuapsteele.com/198-ways-to-fight-tyranny/</link>
+      <link>http://localhost:1313/198-ways-to-fight-tyranny/</link>
       <pubDate>Mon, 09 Jun 2025 09:49:40 -0400</pubDate>
-      <guid>https://joshuapsteele.com/198-ways-to-fight-tyranny/</guid>
+      <guid>http://localhost:1313/198-ways-to-fight-tyranny/</guid>
       <description>&lt;p&gt;The following 198 methods of nonviolent action are taken from Gene Sharp&amp;rsquo;s &lt;a href=&#34;https://amzn.to/4kXevBx&#34;&gt;&lt;em&gt;The Politics of Nonviolent Action&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;https://joshuapsteele.com/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;http://localhost:1313/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;the-methods-of-nonviolent-protest-and-persuasion&#34;&gt;The Methods of Nonviolent Protest and Persuasion&lt;/h2&gt;
 &lt;h3 id=&#34;formal-statements&#34;&gt;Formal Statements&lt;/h3&gt;
@@ -589,12 +589,12 @@
     </item>
     <item>
       <title>20 Ways to Fight Tyranny: Lessons from Timothy Snyder</title>
-      <link>https://joshuapsteele.com/20-ways-to-fight-tyranny/</link>
+      <link>http://localhost:1313/20-ways-to-fight-tyranny/</link>
       <pubDate>Mon, 09 Jun 2025 09:49:40 -0400</pubDate>
-      <guid>https://joshuapsteele.com/20-ways-to-fight-tyranny/</guid>
+      <guid>http://localhost:1313/20-ways-to-fight-tyranny/</guid>
       <description>&lt;p&gt;The following 20 &amp;ldquo;lessons&amp;rdquo; are taken from Timothy Snyder&amp;rsquo;s &lt;a href=&#34;https://amzn.to/3SFZkke&#34;&gt;&lt;em&gt;On Tyranny: Twenty Lessons from the Twentieth Century&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a video of John Lithgow reading the 20 lessons: &lt;a href=&#34;https://www.youtube.com/watch?v=cXR5HLodsT8&#34;&gt;https://www.youtube.com/watch?v=cXR5HLodsT8&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;https://joshuapsteele.com/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;http://localhost:1313/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;1-do-not-obey-in-advance&#34;&gt;1. Do not obey in advance&lt;/h2&gt;
 &lt;p&gt;Most of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then offer themselves without being asked. A citizen who adapts in this way is teaching power what it can do.&lt;/p&gt;</description>

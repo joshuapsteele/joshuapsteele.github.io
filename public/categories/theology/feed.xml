@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Theology on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/theology/</link>
+    <link>http://localhost:1313/categories/theology/</link>
     <description>Recent content in Theology on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Jun 2025 10:12:23 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/theology/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/theology/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Kings</title>
-      <link>https://joshuapsteele.com/no-kings/</link>
+      <link>http://localhost:1313/no-kings/</link>
       <pubDate>Sat, 14 Jun 2025 10:00:12 -0400</pubDate>
-      <guid>https://joshuapsteele.com/no-kings/</guid>
+      <guid>http://localhost:1313/no-kings/</guid>
       <description>&lt;p&gt;No kings, save One, the King of Kings,&lt;br&gt;
 whose kingdom peace and justice brings.&lt;/p&gt;
 &lt;p&gt;No kings, but He who blessed the poor,&lt;br&gt;
@@ -58,9 +58,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>Taking Scripture and Women’s Ordination Seriously: A Response to Blake Johnson and Lee Nelson</title>
-      <link>https://joshuapsteele.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</link>
+      <link>http://localhost:1313/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</link>
       <pubDate>Mon, 18 Nov 2019 15:31:52 +0000</pubDate>
-      <guid>https://joshuapsteele.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</guid>
+      <guid>http://localhost:1313/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/</guid>
       <description>&lt;p&gt;&lt;em&gt;Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to &lt;a href=&#34;http://theopolisinstitute.com/sacramental-representation-and-the-created-order/&#34;&gt;Fr. Blake Johnson’s&lt;/a&gt; and &lt;a href=&#34;http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/&#34;&gt;Fr. Lee Nelson’s&lt;/a&gt; responses to &lt;a href=&#34;http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/&#34;&gt;her original blog post&lt;/a&gt; about the&lt;/em&gt; in persona Christi &lt;em&gt;argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.&lt;/em&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><em>Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to <a href="http://theopolisinstitute.com/sacramental-representation-and-the-created-order/">Fr. Blake Johnson’s</a> and <a href="http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/">Fr. Lee Nelson’s</a> responses to <a href="http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/">her original blog post</a> about the</em> in persona Christi <em>argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.</em></p>
 <hr>
@@ -166,9 +166,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>If Women Can Be Saved, Then Women Can Be Priests: A Critique of the &#39;in persona Christi&#39; Argument Against Women&#39;s Ordination</title>
-      <link>https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/</link>
+      <link>http://localhost:1313/if-women-can-be-saved-then-women-can-be-priests/</link>
       <pubDate>Thu, 26 Sep 2019 05:00:18 +0000</pubDate>
-      <guid>https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/</guid>
+      <guid>http://localhost:1313/if-women-can-be-saved-then-women-can-be-priests/</guid>
       <description>&lt;p&gt;&lt;em&gt;Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;After reading this piece, please see &lt;a href=&#34;http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/&#34;&gt;Lee Nelson’s response&lt;/a&gt; and &lt;a href=&#34;http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/&#34;&gt;Emily McGowin’s rejoinder&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -189,9 +189,7 @@ No kings, save One, the King of Kings.</p>
 <li>a real human soul.</li>
 </ul>
 <p>In the words of St. Gregory of Nazianzus:</p>
-<blockquote>
-<p>“For that which he has not assumed he has not healed; but that which is united to his Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of him that was begotten, and so be saved as a whole” (Epistle 101, 32).</p></blockquote>
-<p>In this way, christology and soteriology (the doctrine of salvation) are intimately connected. To rescue us from the dominion of Sin, Evil, and Death, the Word, the Second Person of the Trinity, had to become like us.</p>
+<blockquote><p>“For that which he has not assumed he has not healed; but that which is united to his Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of him that was begotten, and so be saved as a whole” (Epistle 101, 32).</p></blockquote><p>In this way, christology and soteriology (the doctrine of salvation) are intimately connected. To rescue us from the dominion of Sin, Evil, and Death, the Word, the Second Person of the Trinity, had to become like us.</p>
 <p>As the divine Word, he could descend into the darkest depths of human sin and suffering without being overcome by them. And, as the Word-made-flesh, he could ascend to the heights of heaven following his resurrection—and bring us, now reconciled and united with God, along with him.</p>
 <h2 id="implications">Implications</h2>
 <p>If “what is not assumed is not healed” is a crucial, non-negotiable aspect of orthodox Christianity, then we do well to consider carefully its implications.</p>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>8020 on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/8020/</link>
+    <link>http://localhost:1313/tags/8020/</link>
     <description>Recent content in 8020 on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/8020/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/8020/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
-      <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
+      <link>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</guid>
+      <guid>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where in your life or your work are you currently pursuing comfort, when what&amp;rsquo;s called for is a little discomfort?&lt;/li&gt;
@@ -26,7 +26,7 @@
 &lt;li&gt;In which areas of life are you still holding back until you feel like you know what you&amp;rsquo;re doing?&lt;/li&gt;
 &lt;li&gt;How would you spend your days differently if you didn&amp;rsquo;t care so much about seeing your actions reach fruition?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Source: <a href="https://amzn.to/4fMUDyo"><em>Four Thousand Weeks: Time Management for Mortals</em></a> by Oliver Burkeman</p>
 <ol>
 <li>Where in your life or your work are you currently pursuing comfort, when what&rsquo;s called for is a little discomfort?</li>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Ten Tools for Embracing Finitude</title>
-      <link>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</link>
+      <link>http://localhost:1313/ten-tools-for-embracing-finitude/</link>
       <pubDate>Wed, 13 Nov 2024 16:40:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</guid>
+      <guid>http://localhost:1313/ten-tools-for-embracing-finitude/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Adopt a &amp;ldquo;fixed volume&amp;rdquo; approach to productivity
@@ -85,62 +85,35 @@
     </item>
     <item>
       <title>Damer’s “Code of Intellectual Conduct”</title>
-      <link>https://joshuapsteele.com/damers-code-of-intellectual-conduct/</link>
+      <link>http://localhost:1313/damers-code-of-intellectual-conduct/</link>
       <pubDate>Tue, 19 Nov 2019 15:26:29 +0000</pubDate>
-      <guid>https://joshuapsteele.com/damers-code-of-intellectual-conduct/</guid>
+      <guid>http://localhost:1313/damers-code-of-intellectual-conduct/</guid>
       <description>&lt;p&gt;This code of conduct very much relates to &lt;a href=&#34;https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/&#34;&gt;Rapoport’s Rules, Adler’s advice&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/&#34;&gt;Alan Jacobs’s “The Thinking Person’s Checklist.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;SOURCE: T. Edward Damer, &lt;em&gt;Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments&lt;/em&gt;, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.&lt;/p&gt;
 &lt;h2 id=&#34;1-the-fallibility-principle&#34;&gt;1. The Fallibility Principle&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is &lt;strong&gt;fallible&lt;/strong&gt;, which means that &lt;strong&gt;one must acknowledge that one’s own initial view may not be the most defensible position on the question&lt;/strong&gt;.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is &lt;strong&gt;fallible&lt;/strong&gt;, which means that &lt;strong&gt;one must acknowledge that one’s own initial view may not be the most defensible position on the question&lt;/strong&gt;.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>This code of conduct very much relates to <a href="https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/">Rapoport’s Rules, Adler’s advice</a>, and <a href="https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/">Alan Jacobs’s “The Thinking Person’s Checklist.”</a></p>
 <p>SOURCE: T. Edward Damer, <em>Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments</em>, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.</p>
 <h2 id="1-the-fallibility-principle">1. The Fallibility Principle</h2>
-<blockquote>
-<p>Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is <strong>fallible</strong>, which means that <strong>one must acknowledge that one’s own initial view may not be the most defensible position on the question</strong>.</p></blockquote>
-<h2 id="2-the-truth-seeking-principle">2. The Truth-Seeking Principle</h2>
-<blockquote>
-<p>Each participant should be committed to the task of <strong>earnestly searching for the truth or at least the most defensible position on the issue at stake</strong>. Therefore, one should be willing to examine alternative positions seriously, look for insights in the positions of others, and allow other participants to present arguments for or raise objections to any position held on an issue.</p></blockquote>
-<h2 id="3-the-clarity-principle">3. The Clarity Principle</h2>
-<blockquote>
-<p>The formulations of all positions, defenses, and attacks should be <strong>free of any kind of linguistic confusion and clearly separated from other positions and issues</strong>.</p></blockquote>
-<p>In the seventh edition, the following is added:</p>
-<blockquote>
-<p>It is particularly important to <strong>define carefully any key words</strong> used in an argument or criticism that may be unclear or misunderstood.</p></blockquote>
-<h2 id="4-the-burden-of-proof-principle">4. The Burden-of-Proof Principle</h2>
-<blockquote>
-<p>The <strong>burden of proof for any position usually rests on the participant who sets forth the position</strong>. If and when an opponent asks, the proponent should provide an argument for that position.</p></blockquote>
-<h2 id="5-the-principle-of-charity">5. The Principle of Charity</h2>
-<blockquote>
-<p>If a participant’s argument is reformulated by an opponent, it should be <strong>carefully expressed in its strongest possible version that is consistent with what is believed to be the original intention of the arguer</strong>. If there is any question about that intention or about any implicit part of the argument, <strong>the arguer should be given the benefit of any doubt in the reformulation and/or, when possible, given the opportunity to amend it</strong>.</p></blockquote>
-<h2 id="6-the-structural-principle">6. The Structural Principle</h2>
-<blockquote>
-<p>One who argues for or against a position should <strong>use an argument that meets the fundamental structural requirements of a well-formed argument</strong>. Such an argument does not use reasons that contradict each other, that contradict the conclusion, or that explicitly or implicitly assume the truth of the conclusion. Neither does it draw any invalid deductive inferences.</p></blockquote>
-<h2 id="7-the-relevance-principle">7. The Relevance Principle</h2>
-<blockquote>
-<p>One who presents an argument for or against a position should <strong>set forth only reasons whose truth provides some evidence for the truth of the conclusion</strong>.</p></blockquote>
-<h2 id="8-the-acceptability-principle">8. The Acceptability Principle</h2>
-<blockquote>
-<p>One who presents an argument for or against a position should <strong>provide reasons that are likely to be accepted by a mature, rational person and that meet standard criteria of acceptability</strong>.</p></blockquote>
-<h2 id="9-the-sufficiency-principle">9. The Sufficiency Principle</h2>
-<blockquote>
-<p>One who presents an argument for or against a position should <strong>attempt to provide relevant and acceptable reasons of the right kind, that together are sufficient in number and weight to justify the acceptance of the conclusion</strong>.</p></blockquote>
-<h2 id="10-the-rebuttal-principle">10. The Rebuttal Principle</h2>
-<blockquote>
-<p>One who presents an argument for or against a position should <strong>include in the argument an effective rebuttal to all anticipated serious criticisms of the argument that may be brought against it or against the position it supports</strong>.</p></blockquote>
-<h2 id="11-the-suspension-of-judgment-principle">11. The Suspension-of-Judgment Principle</h2>
-<blockquote>
-<p><strong>If no position is defended by a good argument, or if two or more positions seem to be defended with equal strength, one should, in most cases, suspend judgment about the issue</strong>. If practical considerations seem to require a more immediate decision, one should weigh the relative benefits or harm connected with the consequences of suspending judgment and decide the issue on those grounds.</p></blockquote>
-<h2 id="12-the-resolution-principle">12. The Resolution Principle</h2>
-<blockquote>
-<p>An issue should be considered <strong>resolved if the argument for one of the alternative positions is a structurally sound one that uses relevant and acceptable reasons that together provide sufficient grounds to justify the conclusion and that also includes an effective rebuttal to all serious criticisms of the argument and/or the position it supports</strong>. Unless one can demonstrate that the argument has not met these conditions more successfully than any argument presented for alternative positions, one is obligated to accept its conclusion and consider the issue to be settled. If the argument is subsequently found by any participant to be flawed in a way that raises new doubts about the merit of the position it supports, one is obligated to reopen the issue for further consideration and resolution.</p></blockquote>
-]]></content:encoded>
+<blockquote><p>Each participant in a discussion of a disputed issue should be willing to accept the fact that he or she is <strong>fallible</strong>, which means that <strong>one must acknowledge that one’s own initial view may not be the most defensible position on the question</strong>.</p></blockquote><h2 id="2-the-truth-seeking-principle">2. The Truth-Seeking Principle</h2>
+<blockquote><p>Each participant should be committed to the task of <strong>earnestly searching for the truth or at least the most defensible position on the issue at stake</strong>. Therefore, one should be willing to examine alternative positions seriously, look for insights in the positions of others, and allow other participants to present arguments for or raise objections to any position held on an issue.</p></blockquote><h2 id="3-the-clarity-principle">3. The Clarity Principle</h2>
+<blockquote><p>The formulations of all positions, defenses, and attacks should be <strong>free of any kind of linguistic confusion and clearly separated from other positions and issues</strong>.</p></blockquote><p>In the seventh edition, the following is added:</p>
+<blockquote><p>It is particularly important to <strong>define carefully any key words</strong> used in an argument or criticism that may be unclear or misunderstood.</p></blockquote><h2 id="4-the-burden-of-proof-principle">4. The Burden-of-Proof Principle</h2>
+<blockquote><p>The <strong>burden of proof for any position usually rests on the participant who sets forth the position</strong>. If and when an opponent asks, the proponent should provide an argument for that position.</p></blockquote><h2 id="5-the-principle-of-charity">5. The Principle of Charity</h2>
+<blockquote><p>If a participant’s argument is reformulated by an opponent, it should be <strong>carefully expressed in its strongest possible version that is consistent with what is believed to be the original intention of the arguer</strong>. If there is any question about that intention or about any implicit part of the argument, <strong>the arguer should be given the benefit of any doubt in the reformulation and/or, when possible, given the opportunity to amend it</strong>.</p></blockquote><h2 id="6-the-structural-principle">6. The Structural Principle</h2>
+<blockquote><p>One who argues for or against a position should <strong>use an argument that meets the fundamental structural requirements of a well-formed argument</strong>. Such an argument does not use reasons that contradict each other, that contradict the conclusion, or that explicitly or implicitly assume the truth of the conclusion. Neither does it draw any invalid deductive inferences.</p></blockquote><h2 id="7-the-relevance-principle">7. The Relevance Principle</h2>
+<blockquote><p>One who presents an argument for or against a position should <strong>set forth only reasons whose truth provides some evidence for the truth of the conclusion</strong>.</p></blockquote><h2 id="8-the-acceptability-principle">8. The Acceptability Principle</h2>
+<blockquote><p>One who presents an argument for or against a position should <strong>provide reasons that are likely to be accepted by a mature, rational person and that meet standard criteria of acceptability</strong>.</p></blockquote><h2 id="9-the-sufficiency-principle">9. The Sufficiency Principle</h2>
+<blockquote><p>One who presents an argument for or against a position should <strong>attempt to provide relevant and acceptable reasons of the right kind, that together are sufficient in number and weight to justify the acceptance of the conclusion</strong>.</p></blockquote><h2 id="10-the-rebuttal-principle">10. The Rebuttal Principle</h2>
+<blockquote><p>One who presents an argument for or against a position should <strong>include in the argument an effective rebuttal to all anticipated serious criticisms of the argument that may be brought against it or against the position it supports</strong>.</p></blockquote><h2 id="11-the-suspension-of-judgment-principle">11. The Suspension-of-Judgment Principle</h2>
+<blockquote><p><strong>If no position is defended by a good argument, or if two or more positions seem to be defended with equal strength, one should, in most cases, suspend judgment about the issue</strong>. If practical considerations seem to require a more immediate decision, one should weigh the relative benefits or harm connected with the consequences of suspending judgment and decide the issue on those grounds.</p></blockquote><h2 id="12-the-resolution-principle">12. The Resolution Principle</h2>
+<blockquote><p>An issue should be considered <strong>resolved if the argument for one of the alternative positions is a structurally sound one that uses relevant and acceptable reasons that together provide sufficient grounds to justify the conclusion and that also includes an effective rebuttal to all serious criticisms of the argument and/or the position it supports</strong>. Unless one can demonstrate that the argument has not met these conditions more successfully than any argument presented for alternative positions, one is obligated to accept its conclusion and consider the issue to be settled. If the argument is subsequently found by any participant to be flawed in a way that raises new doubts about the merit of the position it supports, one is obligated to reopen the issue for further consideration and resolution.</p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>Alan Jacobs’s “The Thinking Person’s Checklist”</title>
-      <link>https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/</link>
+      <link>http://localhost:1313/alan-jacobss-the-thinking-persons-checklist/</link>
       <pubDate>Mon, 18 Nov 2019 15:03:16 +0000</pubDate>
-      <guid>https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/</guid>
+      <guid>http://localhost:1313/alan-jacobss-the-thinking-persons-checklist/</guid>
       <description>&lt;p&gt;The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, &lt;a href=&#34;https://amzn.to/33TtBRv&#34;&gt;&lt;em&gt;How to Think: A Survival Guide for a World at Odds&lt;/em&gt;&lt;/a&gt; (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, &lt;a href=&#34;https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/&#34;&gt;“Help me come up with ‘rules for conversation’!”&lt;/a&gt;).&lt;/p&gt;
 &lt;figure class=&#34;wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;550&#34; loading=&#34;lazy&#34; src=&#34;https://read.amazon.com/kp/card?preview=inline&amp;linkCode=ll1&amp;ref_=k4w_oembed_Eii2WAqN2ej4WE&amp;asin=0451499603&amp;tag=joshuapsteele-20&#34; style=&#34;max-width:100%&#34; title=&#34;How to Think: A Survival Guide for a World at Odds&#34; type=&#34;text/html&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;Emphasis added in **bold**.
 &lt;ol&gt;
@@ -177,9 +150,9 @@
     </item>
     <item>
       <title>Help me come up with “rules for conversation”!</title>
-      <link>https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/</link>
+      <link>http://localhost:1313/help-me-come-up-with-rules-for-conversation/</link>
       <pubDate>Sun, 17 Nov 2019 20:26:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/</guid>
+      <guid>http://localhost:1313/help-me-come-up-with-rules-for-conversation/</guid>
       <description>&lt;p&gt;In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”&lt;/p&gt;
 &lt;p&gt;We describe the tone that we’re after as “clarity and charity,” which is an excellent summary. However, to guide our blogposts and comments, I think we need something more detailed and concrete.&lt;/p&gt;
 &lt;p&gt;With that in mind, “Rapoport’s Rules” and “Adler’s Advice” seem like excellent starting points.&lt;/p&gt;
@@ -329,42 +302,33 @@
 </ol>
 <h3 id="the-meeting-of-minds-chapter-12-highlights">“The Meeting of Minds” (Chapter 12, Highlights)</h3>
 <h4 id="you-must-understand-before-you-can-agree-or-disagree">You must understand before you can agree or disagree.</h4>
-<blockquote>
-<p>The first rule to be followed is this. <strong>Do not disagree—or, for that matter, do not agree—with anyone else unless you are sure you understand the position the other person is taking.</strong> To disagree before you understand is impertinent. To agree is inane.</p>
-<p>To make sure that you understand, before you disagree or agree, <strong>exercise the courtesy of asking the other person the following question: “Do I understand you to say that . . . ?”</strong> Fill in the blank by phrasing in your own words what you think you hear the other person saying. <strong>He may respond to this by saying to you, “No, that is not what I said or not what I meant. My position is as follows.”</strong> Then, after the other person has restated his position for you, you should once again try to state in your own words what you have understood the other to say. If the other still dissents from your interpretation, <strong>you must continue with this question and answer procedure until the other tells you that you have at last caught the point, that you understand him precisely as he wishes to be understood. Only then do you have the grounds indispensable for intelligent and reasonable disagreement or agreement.</strong>” (159–60).</p></blockquote>
-<h4 id="fully-understood-disagreement-and-fully-understood-agreement">Fully understood disagreement and fully understood agreement.</h4>
-<blockquote>
-<p>“Understanding with disagreement—fully understood disagreement—constitutes a minimal meeting of minds. A more complete meeting of minds consists in understanding with agreement—fully understood agreement.” (161).</p></blockquote>
-<h4 id="there-are-4-kinds-of-genuine-disagreement">There are 4 kinds of genuine disagreement.</h4>
-<blockquote>
-<p>“If you find yourself in genuine disagreement with the position taken by another, you should be able to explain the grounds of your disagreement, by saying one or more of the following things.</p>
+<blockquote><p>The first rule to be followed is this. <strong>Do not disagree—or, for that matter, do not agree—with anyone else unless you are sure you understand the position the other person is taking.</strong> To disagree before you understand is impertinent. To agree is inane.</p>
+<p>To make sure that you understand, before you disagree or agree, <strong>exercise the courtesy of asking the other person the following question: “Do I understand you to say that . . . ?”</strong> Fill in the blank by phrasing in your own words what you think you hear the other person saying. <strong>He may respond to this by saying to you, “No, that is not what I said or not what I meant. My position is as follows.”</strong> Then, after the other person has restated his position for you, you should once again try to state in your own words what you have understood the other to say. If the other still dissents from your interpretation, <strong>you must continue with this question and answer procedure until the other tells you that you have at last caught the point, that you understand him precisely as he wishes to be understood. Only then do you have the grounds indispensable for intelligent and reasonable disagreement or agreement.</strong>” (159–60).</p></blockquote><h4 id="fully-understood-disagreement-and-fully-understood-agreement">Fully understood disagreement and fully understood agreement.</h4>
+<blockquote><p>“Understanding with disagreement—fully understood disagreement—constitutes a minimal meeting of minds. A more complete meeting of minds consists in understanding with agreement—fully understood agreement.” (161).</p></blockquote><h4 id="there-are-4-kinds-of-genuine-disagreement">There are 4 kinds of genuine disagreement.</h4>
+<blockquote><p>“If you find yourself in genuine disagreement with the position taken by another, you should be able to explain the grounds of your disagreement, by saying one or more of the following things.</p>
 <ol>
 <li>“I think you hold that position because <strong>you are uninformed</strong> about certain facts or reasons that have a critical bearing on it.” Then be prepared to point out the information you think the other lacks and which, if possessed, would result in a change of mind.</li>
 <li>“I think you hold that position because <strong>you are misinformed</strong> about matters that are critically relevant.” Then be prepared to indicate the mistakes the other has made, which, if corrected, would lead the other to abandon the position taken.</li>
 <li>“I think you are sufficiently well informed and have a firm grasp of the evidence and reasons that support your position, but <strong>you have drawn the wrong conclusions from your premises because you have made mistakes in reasoning</strong>. You have made fallacious inferences.” Then be ready to point out those logical errors which, if corrected, would bring the other person to a different conclusion.</li>
 <li>“I think you have made none of the foregoing errors and that you have proceeded by sound reasoning from adequate grounds for the conclusion you have reached, <strong>but I also think that your thinking about the subject is incomplete</strong>. You should have gone further than you did and reached other conclusions that somewhat alter or qualify the one you did reach.” Then be able to point out what these other conclusions are and how they alter or qualify the position taken by the person with whom you disagree.” (162–63).</li>
-</ol></blockquote>
-]]></content:encoded>
+</ol></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>Use Rapoport&#39;s Rules for Better Conversations and Disagreements</title>
-      <link>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
+      <link>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
       <pubDate>Sat, 23 Feb 2019 17:06:02 +0000</pubDate>
-      <guid>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
+      <guid>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
       <description>&lt;p&gt;I’m reading Walter Sinnott-Armstrong’s excellent book, &lt;a href=&#34;https://amzn.to/2BNTlTq&#34;&gt;&lt;em&gt;Think Again: How to Reason and Argue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In it (on pages 25–26), I came across &lt;a href=&#34;https://rationalwiki.org/wiki/Rapoport%27s_Rules&#34;&gt;“Rapoport’s Rules.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (&lt;a href=&#34;https://amzn.to/2NmrH4m&#34;&gt;&lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/a&gt;, 31–35), here they are:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I’m reading Walter Sinnott-Armstrong’s excellent book, <a href="https://amzn.to/2BNTlTq"><em>Think Again: How to Reason and Argue</em></a>.</p>
 <p>In it (on pages 25–26), I came across <a href="https://rationalwiki.org/wiki/Rapoport%27s_Rules">“Rapoport’s Rules.”</a></p>
 <p>First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (<a href="https://amzn.to/2NmrH4m"><em>Intuition Pumps and Other Tools for Thinking</em></a>, 31–35), here they are:</p>
-<blockquote>
-<p>1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”</p>
+<blockquote><p>1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”</p>
 <p>2: You should list any points of agreement (especially if they are not matters of general or widespread agreement).</p>
 <p>3: You should mention anything you have learned from your target.</p>
-<p>4: Only then are you permitted to say so much as a word of rebuttal or criticism.</p></blockquote>
-<p>How would our conversations—everything from family dinner to classroom discussions to church business meetings—look different if we put these rules into practice?</p>
+<p>4: Only then are you permitted to say so much as a word of rebuttal or criticism.</p></blockquote><p>How would our conversations—everything from family dinner to classroom discussions to church business meetings—look different if we put these rules into practice?</p>
 ]]></content:encoded>
     </item>
   </channel>

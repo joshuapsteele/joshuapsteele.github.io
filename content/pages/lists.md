@@ -4,8 +4,9 @@ title: Lists
 showtoc: true
 TocOpen: true
 ---
-> [!NOTE]
-> This `/lists` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/lists` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 This is a `/lists` page, where I keep track of the lists I'm working on!
 

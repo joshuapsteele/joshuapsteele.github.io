@@ -4,8 +4,9 @@ draft: true
 title: 'Today I Learned'
 url: /til
 ---
-> [!NOTE]
-> This `/til` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/til` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 # Today I Learned (TIL)
 

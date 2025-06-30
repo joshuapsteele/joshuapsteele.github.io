@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Theology on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/theology/</link>
+    <link>http://localhost:1313/tags/theology/</link>
     <description>Recent content in Theology on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Jun 2025 10:12:23 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/theology/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/theology/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Kings</title>
-      <link>https://joshuapsteele.com/no-kings/</link>
+      <link>http://localhost:1313/no-kings/</link>
       <pubDate>Sat, 14 Jun 2025 10:00:12 -0400</pubDate>
-      <guid>https://joshuapsteele.com/no-kings/</guid>
+      <guid>http://localhost:1313/no-kings/</guid>
       <description>&lt;p&gt;No kings, save One, the King of Kings,&lt;br&gt;
 whose kingdom peace and justice brings.&lt;/p&gt;
 &lt;p&gt;No kings, but He who blessed the poor,&lt;br&gt;
@@ -58,39 +58,25 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>The Bible Is Clear about the Poor, Oppressed, and Marginalized</title>
-      <link>https://joshuapsteele.com/the-bible-is-clear/</link>
+      <link>http://localhost:1313/the-bible-is-clear/</link>
       <pubDate>Mon, 05 May 2025 14:26:00 -0400</pubDate>
-      <guid>https://joshuapsteele.com/the-bible-is-clear/</guid>
+      <guid>http://localhost:1313/the-bible-is-clear/</guid>
       <description>The Bible is clear about the poor, the oppressed, and the marginalized.</description>
-      <content:encoded><![CDATA[<blockquote>
-<p><em>&ldquo;The Bible is clear&hellip;&rdquo;</em><br>
+      <content:encoded><![CDATA[<blockquote><p><em>&ldquo;The Bible is clear&hellip;&rdquo;</em><br>
 <em>&ldquo;The Bible says&hellip;&rdquo;</em><br>
-<em>&ldquo;The Bible is for/against&hellip;&rdquo;</em></p></blockquote>
-<p>How often—especially within American evangelicalism—do these phrases become rhetorical battering rams for partisan talking points?</p>
+<em>&ldquo;The Bible is for/against&hellip;&rdquo;</em></p></blockquote><p>How often—especially within American evangelicalism—do these phrases become rhetorical battering rams for partisan talking points?</p>
 <p>Let’s be honest: <em>the Bible is not a monolith.</em> It is a library of ancient, inspired texts written across centuries, cultures, and genres. &ldquo;What the Bible says&rdquo; on any given topic often depends heavily on who’s reading, how they&rsquo;re reading, and what they bring to the text.</p>
 <p>And yet—amidst the diversity of voices and genres—there is a steady and unmistakable chorus that rises from Scripture, if you&rsquo;re willing to hear it: <strong>God sides with the poor, the oppressed, and the marginalized.</strong></p>
 <p>This is not peripheral. It’s not a minor subplot. It’s a core theme, echoed by the Torah, the prophets, Jesus, and the early church.</p>
 <p>If we read the Bible &ldquo;from below&rdquo;—from the perspective of the least, the last, and the lost—we encounter a God who delivers slaves from Egypt, warns kings against injustice, and identifies himself with the hungry, the sick, and the imprisoned.</p>
 <p>Consider just a small sampling:</p>
-<blockquote>
-<p><strong>“You must not mistreat or oppress foreigners in any way. Remember, you yourselves were once foreigners in the land of Egypt. You must not exploit a widow or an orphan&hellip;”</strong><br>
-<em>Exodus 22:21–24</em></p></blockquote>
-<blockquote>
-<p><strong>“Don’t rob the poor just because you can, or exploit the needy in court. For the Lord is their defender. He will ruin anyone who ruins them.”</strong><br>
-<em>Proverbs 22:22–23</em></p></blockquote>
-<blockquote>
-<p><strong>“He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.”</strong><br>
-<em>Micah 6:8</em></p></blockquote>
-<blockquote>
-<p><strong>“He has brought down the powerful from their thrones and lifted up the lowly; he has filled the hungry with good things, and sent the rich away empty.”</strong><br>
-<em>Luke 1:52–53 (Mary&rsquo;s Magnificat)</em></p></blockquote>
-<blockquote>
-<p><strong>“The Spirit of the Lord is upon me&hellip; He has sent me to proclaim release to the captives&hellip; to let the oppressed go free.”</strong><br>
-<em>Luke 4:18–19 (Jesus quoting Isaiah)</em></p></blockquote>
-<blockquote>
-<p><strong>“Blessed are you who are poor, for yours is the kingdom of God.”</strong><br>
-<em>Luke 6:20–21</em></p></blockquote>
-<p>This isn’t &ldquo;liberal theology.&rdquo; It’s just <em>Bible.</em></p>
+<blockquote><p><strong>“You must not mistreat or oppress foreigners in any way. Remember, you yourselves were once foreigners in the land of Egypt. You must not exploit a widow or an orphan&hellip;”</strong><br>
+<em>Exodus 22:21–24</em></p></blockquote><blockquote><p><strong>“Don’t rob the poor just because you can, or exploit the needy in court. For the Lord is their defender. He will ruin anyone who ruins them.”</strong><br>
+<em>Proverbs 22:22–23</em></p></blockquote><blockquote><p><strong>“He has shown you, O mortal, what is good. And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God.”</strong><br>
+<em>Micah 6:8</em></p></blockquote><blockquote><p><strong>“He has brought down the powerful from their thrones and lifted up the lowly; he has filled the hungry with good things, and sent the rich away empty.”</strong><br>
+<em>Luke 1:52–53 (Mary&rsquo;s Magnificat)</em></p></blockquote><blockquote><p><strong>“The Spirit of the Lord is upon me&hellip; He has sent me to proclaim release to the captives&hellip; to let the oppressed go free.”</strong><br>
+<em>Luke 4:18–19 (Jesus quoting Isaiah)</em></p></blockquote><blockquote><p><strong>“Blessed are you who are poor, for yours is the kingdom of God.”</strong><br>
+<em>Luke 6:20–21</em></p></blockquote><p>This isn’t &ldquo;liberal theology.&rdquo; It’s just <em>Bible.</em></p>
 <p>So the next time someone claims “the Bible is clear,” it’s worth asking: <em>Clear about what?</em> Because when it comes to God&rsquo;s concern for the vulnerable, the Bible speaks with thunderous clarity.</p>
 <p>And if your version of Christianity conveniently forgets the poor—or worse, vilifies them—then it&rsquo;s not Jesus you&rsquo;re following. It&rsquo;s an idol dressed in Scripture’s clothing.</p>
 <hr>
@@ -104,28 +90,25 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>Bonhoeffer on Stupidity</title>
-      <link>https://joshuapsteele.com/bonhoeffer-on-stupidity/</link>
+      <link>http://localhost:1313/bonhoeffer-on-stupidity/</link>
       <pubDate>Mon, 10 Mar 2025 15:16:39 -0400</pubDate>
-      <guid>https://joshuapsteele.com/bonhoeffer-on-stupidity/</guid>
+      <guid>http://localhost:1313/bonhoeffer-on-stupidity/</guid>
       <description>&lt;p&gt;In his &amp;ldquo;Letters and Papers from Prison,&amp;rdquo; Dietrich Bonhoeffer made some remarkably insightful observations about the nature of stupidity and its dangers to society. These reflections, perhaps more relevant today than ever, deserve our careful attention. Here they are in full.&lt;/p&gt;
 &lt;h2 id=&#34;on-stupidity-dbwe-843-44&#34;&gt;On Stupidity (DBWE 8:43-44)&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Stupidity is a more dangerous enemy of the good than malice. One may protest against evil; it can be exposed and, if need be, prevented by use of force. Evil always carries within itself the germ of its own subversion in that it leaves behind in human beings at least a sense of unease. Against stupidity we are defenseless. Neither protests nor the use of force accomplish anything here; reasons fall on deaf ears; facts that contradict one’s prejudgment simply need not be believed—in such moments the stupid person even becomes critical—and when facts are irrefutable they are just pushed aside as inconsequential, as incidental. In all this the stupid person, in contrast to the malicious one, is utterly self-satisfied and, being easily irritated, becomes dangerous by going on the attack. For that reason, greater caution is called for when dealing with a stupid person than with a malicious one. Never again will we try to persuade the stupid person with reasons, for it is senseless and dangerous.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Stupidity is a more dangerous enemy of the good than malice. One may protest against evil; it can be exposed and, if need be, prevented by use of force. Evil always carries within itself the germ of its own subversion in that it leaves behind in human beings at least a sense of unease. Against stupidity we are defenseless. Neither protests nor the use of force accomplish anything here; reasons fall on deaf ears; facts that contradict one’s prejudgment simply need not be believed—in such moments the stupid person even becomes critical—and when facts are irrefutable they are just pushed aside as inconsequential, as incidental. In all this the stupid person, in contrast to the malicious one, is utterly self-satisfied and, being easily irritated, becomes dangerous by going on the attack. For that reason, greater caution is called for when dealing with a stupid person than with a malicious one. Never again will we try to persuade the stupid person with reasons, for it is senseless and dangerous.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>In his &ldquo;Letters and Papers from Prison,&rdquo; Dietrich Bonhoeffer made some remarkably insightful observations about the nature of stupidity and its dangers to society. These reflections, perhaps more relevant today than ever, deserve our careful attention. Here they are in full.</p>
 <h2 id="on-stupidity-dbwe-843-44">On Stupidity (DBWE 8:43-44)</h2>
-<blockquote>
-<p>Stupidity is a more dangerous enemy of the good than malice. One may protest against evil; it can be exposed and, if need be, prevented by use of force. Evil always carries within itself the germ of its own subversion in that it leaves behind in human beings at least a sense of unease. Against stupidity we are defenseless. Neither protests nor the use of force accomplish anything here; reasons fall on deaf ears; facts that contradict one’s prejudgment simply need not be believed—in such moments the stupid person even becomes critical—and when facts are irrefutable they are just pushed aside as inconsequential, as incidental. In all this the stupid person, in contrast to the malicious one, is utterly self-satisfied and, being easily irritated, becomes dangerous by going on the attack. For that reason, greater caution is called for when dealing with a stupid person than with a malicious one. Never again will we try to persuade the stupid person with reasons, for it is senseless and dangerous.</p>
+<blockquote><p>Stupidity is a more dangerous enemy of the good than malice. One may protest against evil; it can be exposed and, if need be, prevented by use of force. Evil always carries within itself the germ of its own subversion in that it leaves behind in human beings at least a sense of unease. Against stupidity we are defenseless. Neither protests nor the use of force accomplish anything here; reasons fall on deaf ears; facts that contradict one’s prejudgment simply need not be believed—in such moments the stupid person even becomes critical—and when facts are irrefutable they are just pushed aside as inconsequential, as incidental. In all this the stupid person, in contrast to the malicious one, is utterly self-satisfied and, being easily irritated, becomes dangerous by going on the attack. For that reason, greater caution is called for when dealing with a stupid person than with a malicious one. Never again will we try to persuade the stupid person with reasons, for it is senseless and dangerous.</p>
 <p>If we want to know how to get the better of stupidity, we must seek to understand its nature. This much is certain, that it is in essence not an intellectual defect but a human one. There are human beings who are of remarkably agile intellect yet stupid, and others who are intellectually quite dull yet anything but stupid. We discover this to our surprise in particular situations. The impression one gains is not so much that stupidity is a congenital defect but that, under certain circumstances, people are made stupid or that they allow this to happen to them. We note further that people who have isolated themselves from others or who live in solitude manifest this defect less frequently than individuals or groups of people inclined or condemned to sociability. And so it would seem that stupidity is perhaps less a psychological than a sociological problem. It is a particular form of the impact of historical circumstances on human beings, a psychological concomitant of certain external conditions. Upon closer observation, it becomes apparent that every strong upsurge of power in the public sphere, be it of a political or a religious nature, infects a large part of humankind with stupidity. It would even seem that this is virtually a sociological-psychological law. The power of the one needs the stupidity of (page 44 begins) the other. The process at work here is not that particular human capacities, for instance, the intellect, suddenly atrophy or fail. Instead, it seems that under the overwhelming impact of rising power, humans are deprived of their inner independence and, more or less consciously, give up establishing an autonomous position toward the emerging circumstances. The fact that the stupid person is often stubborn must not blind us to the fact that he is not independent. In conversation with him, one virtually feels that one is dealing not at all with him as a person, but with slogans, catchwords, and the like that have taken possession of him. He is under a spell, blinded, misused, and abused in his very being. Having thus become a mindless tool, the stupid person will also be capable of any evil and at the same time incapable of seeing that it is evil. This is where the danger of diabolical misuse lurks, for it is this that can once and for all destroy human beings.</p>
 <p>Yet at this very point it becomes quite clear that only an act of liberation, not instruction, can overcome stupidity. Here we must come to terms with the fact that in most cases a genuine internal liberation becomes possible only when external liberation has preceded it. Until then we must abandon all attempts to convince the stupid person. This state of affairs explains why in such circumstances our attempts to know what “the people” really think are in vain and why, under these circumstances, this question is so irrelevant for the person who is thinking and acting responsibly. The word of the Bible that the fear of God is the beginning of wisdom declares that the internal liberation of human beings to live the responsible life before God is the only genuine way to overcome stupidity.</p>
-<p>But these thoughts about stupidity also offer consolation in that they utterly forbid us to consider the majority of people to be stupid in every circumstance. It really will depend on whether those in power expect more from peoples’ stupidity than from their inner independence and wisdom.</p></blockquote>
-<p>Full citation: Dietrich Bonhoeffer, Letters and Papers from Prison, ed. Christian Gremmels et al., trans. Isabel Best et al., vol. 8 of Dietrich Bonhoeffer Works (Minneapolis, MN: Fortress Press, 2010), 43–44.</p>
+<p>But these thoughts about stupidity also offer consolation in that they utterly forbid us to consider the majority of people to be stupid in every circumstance. It really will depend on whether those in power expect more from peoples’ stupidity than from their inner independence and wisdom.</p></blockquote><p>Full citation: Dietrich Bonhoeffer, Letters and Papers from Prison, ed. Christian Gremmels et al., trans. Isabel Best et al., vol. 8 of Dietrich Bonhoeffer Works (Minneapolis, MN: Fortress Press, 2010), 43–44.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Logos 10 Bible Software: The Ultimate Theological Learning Tool</title>
-      <link>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
+      <link>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
       <pubDate>Thu, 22 Dec 2022 13:46:21 +0000</pubDate>
-      <guid>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
+      <guid>http://localhost:1313/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
       <description>&lt;p&gt;&lt;strong&gt;TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. &lt;a href=&#34;https://partners.faithlife.com/click.track?CID=431490&amp;amp;AFID=529204&#34;&gt;Do so via my exclusive partner offer for Logos 10 here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If I could go back in time and chat with Joshua Steele when he was a Bible &amp;amp; Spanish major in college, there are a few things I’d tell my younger self:&lt;/p&gt;
@@ -184,9 +167,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>Help! I’m looking for the best Christian resources on the Bible, social justice, racism, Critical Race Theory, and Marxism</title>
-      <link>https://joshuapsteele.com/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</link>
+      <link>http://localhost:1313/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</link>
       <pubDate>Sat, 20 Jun 2020 17:01:31 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</guid>
+      <guid>http://localhost:1313/help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/</guid>
       <description>&lt;p&gt;Help me out. I’m looking for the best, clearest, and most charitable explanations of the following three things:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;the biblical and theological reasons for caring about social justice and systemic racism,&lt;/li&gt;
@@ -216,22 +199,19 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>There&#39;s more than one kind of &#34;priesthood&#34; in the New Testament</title>
-      <link>https://joshuapsteele.com/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</link>
+      <link>http://localhost:1313/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</link>
       <pubDate>Tue, 12 Feb 2019 20:47:11 +0000</pubDate>
-      <guid>https://joshuapsteele.com/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</guid>
+      <guid>http://localhost:1313/theres-more-than-one-kind-of-priesthood-in-the-new-testament/</guid>
       <description>&lt;p&gt;Just came across &lt;a href=&#34;https://doi.org/10.1111/nbfr.12440&#34;&gt;this article in New Blackfriars&lt;/a&gt;, and it looks helpful, especially in the context of Anglican debates about women’s ordination.&lt;/p&gt;
 &lt;p&gt;Title: “The Four Types of Priesthood in the New Testament: On Avoiding Confusions about What ‘Priesthood’ Means”&lt;/p&gt;
 &lt;p&gt;Author: Geoffrey Turner&lt;/p&gt;
 &lt;p&gt;Abstract:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Christian discourse tends to treat the concept of ‘priesthood’ univocally, so that ordained priests are seen to share the priesthood of Christ. But a careful reading of Hebrews shows clearly that the priesthood of Christ is unique to him. There are four (even five) types of priest in the New Testament and each of them is distinct and not to be confused.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Christian discourse tends to treat the concept of ‘priesthood’ univocally, so that ordained priests are seen to share the priesthood of Christ. But a careful reading of Hebrews shows clearly that the priesthood of Christ is unique to him. There are four (even five) types of priest in the New Testament and each of them is distinct and not to be confused.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Just came across <a href="https://doi.org/10.1111/nbfr.12440">this article in New Blackfriars</a>, and it looks helpful, especially in the context of Anglican debates about women’s ordination.</p>
 <p>Title: “The Four Types of Priesthood in the New Testament: On Avoiding Confusions about What ‘Priesthood’ Means”</p>
 <p>Author: Geoffrey Turner</p>
 <p>Abstract:</p>
-<blockquote>
-<p>Christian discourse tends to treat the concept of ‘priesthood’ univocally, so that ordained priests are seen to share the priesthood of Christ. But a careful reading of Hebrews shows clearly that the priesthood of Christ is unique to him. There are four (even five) types of priest in the New Testament and each of them is distinct and not to be confused.</p></blockquote>
-<h2 id="types-of-priesthood-in-the-new-testament">Types of Priesthood in the New Testament</h2>
+<blockquote><p>Christian discourse tends to treat the concept of ‘priesthood’ univocally, so that ordained priests are seen to share the priesthood of Christ. But a careful reading of Hebrews shows clearly that the priesthood of Christ is unique to him. There are four (even five) types of priest in the New Testament and each of them is distinct and not to be confused.</p></blockquote><h2 id="types-of-priesthood-in-the-new-testament">Types of Priesthood in the New Testament</h2>
 <ol>
 <li>Aaronic, sacrificing priest (like Zechariah, Luke 1:5)</li>
 <li>The risen Christ</li>
@@ -240,15 +220,13 @@ No kings, save One, the King of Kings.</p>
 <li>Passing mention of pagan priests (Acts 14:13)</li>
 </ol>
 <p>Concluding paragraph:</p>
-<blockquote>
-<p>The point of this paper, however, is not to try to change our naming of the ordained; our practice has centuries of tradition behind it. The purpose is to ensure that we do not muddle these distinctive types of priesthood. And the recent practice of calling our ordained priests ‘ministerial priests’ is a recognition that their priesthood is distinct from that of Jesus Christ and distinct from that of the baptised. There is no basis in the NT for supposing that that presbyters share the high priesthood of Christ as it is described in Hebrews. On the contrary, that high priesthood has only two members: Melchizedek and Jesus, and only one of those is a historical person. Deciding who may become a presbyter/ministerial priest and on what basis must be decided on its own terms and not by merging it with some other form of priesthood. Muddling these is particularly unhelpful when discussing whether women can be ordained as presbyters/ministerial priests.</p></blockquote>
-]]></content:encoded>
+<blockquote><p>The point of this paper, however, is not to try to change our naming of the ordained; our practice has centuries of tradition behind it. The purpose is to ensure that we do not muddle these distinctive types of priesthood. And the recent practice of calling our ordained priests ‘ministerial priests’ is a recognition that their priesthood is distinct from that of Jesus Christ and distinct from that of the baptised. There is no basis in the NT for supposing that that presbyters share the high priesthood of Christ as it is described in Hebrews. On the contrary, that high priesthood has only two members: Melchizedek and Jesus, and only one of those is a historical person. Deciding who may become a presbyter/ministerial priest and on what basis must be decided on its own terms and not by merging it with some other form of priesthood. Muddling these is particularly unhelpful when discussing whether women can be ordained as presbyters/ministerial priests.</p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>What&#39;s the relationship between biblical and systematic/dogmatic theology?</title>
-      <link>https://joshuapsteele.com/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</link>
+      <link>http://localhost:1313/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</link>
       <pubDate>Wed, 23 Jan 2019 15:18:31 +0000</pubDate>
-      <guid>https://joshuapsteele.com/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</guid>
+      <guid>http://localhost:1313/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/</guid>
       <description>&lt;p&gt;This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;(Note: we’ll have to save the difference(s) between systematic, historical, and dogmatic theology for another post!)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Here are the articles we were assigned to read for this week:&lt;/p&gt;
@@ -289,9 +267,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>Introduction to Christian Theology: A Draft Syllabus</title>
-      <link>https://joshuapsteele.com/introduction-to-christian-theology-a-draft-syllabus/</link>
+      <link>http://localhost:1313/introduction-to-christian-theology-a-draft-syllabus/</link>
       <pubDate>Thu, 20 Dec 2018 22:42:14 +0000</pubDate>
-      <guid>https://joshuapsteele.com/introduction-to-christian-theology-a-draft-syllabus/</guid>
+      <guid>http://localhost:1313/introduction-to-christian-theology-a-draft-syllabus/</guid>
       <description>&lt;p&gt;&lt;em&gt;As a part of my “pedagogical experience” at Wheaton College this semester, I was required to draft a syllabus for an introduction to Christian theology. Feel free to let me know what you think in the comments.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Note: the length of this syllabus doesn’t necessarily correspond to the difficulty of this course&lt;/p&gt;
@@ -933,9 +911,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>Mental Models: A Helpful Model for Theology?</title>
-      <link>https://joshuapsteele.com/mental-models-helpful-model-theology/</link>
+      <link>http://localhost:1313/mental-models-helpful-model-theology/</link>
       <pubDate>Sun, 25 Feb 2018 15:06:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/mental-models-helpful-model-theology/</guid>
+      <guid>http://localhost:1313/mental-models-helpful-model-theology/</guid>
       <description>&lt;p&gt;This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Here it is: “Mental Models” could be a helpful model for theology.&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;what-is-a-mental-model&#34;&gt;What is a “mental model”?&lt;/h1&gt;
@@ -947,9 +925,7 @@ No kings, save One, the King of Kings.</p>
 <h2 id="definition-of-mental-models">Definition of mental models</h2>
 <p>Put simply, a “mental model” is a concept used to help explain how the world works.</p>
 <p>According to Wikipedia:</p>
-<blockquote>
-<p>A <a href="https://en.wikipedia.org/wiki/Mental_model"><strong>mental model</strong></a> is an explanation of someone’s <a href="https://en.wikipedia.org/wiki/Thought" title="Thought">thought</a> process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person’s intuitive perception about his or her own acts and their consequences. Mental models can help shape <a href="https://en.wikipedia.org/wiki/Behaviour" title="Behaviour">behaviour</a> and set an approach to solving problems (similar to a personal <a href="https://en.wikipedia.org/wiki/Algorithm" title="Algorithm">algorithm</a>) and doing tasks.</p></blockquote>
-<p>Here’s a helpful video from <a href="https://www.fs.blog/mental-models/">Farnam Street</a> explaining mental models (and giving an idea of how they’re usually appropriated these days for decision making and personal development):</p>
+<blockquote><p>A <a href="https://en.wikipedia.org/wiki/Mental_model"><strong>mental model</strong></a> is an explanation of someone’s <a href="https://en.wikipedia.org/wiki/Thought" title="Thought">thought</a> process about how something works in the real world. It is a representation of the surrounding world, the relationships between its various parts and a person’s intuitive perception about his or her own acts and their consequences. Mental models can help shape <a href="https://en.wikipedia.org/wiki/Behaviour" title="Behaviour">behaviour</a> and set an approach to solving problems (similar to a personal <a href="https://en.wikipedia.org/wiki/Algorithm" title="Algorithm">algorithm</a>) and doing tasks.</p></blockquote><p>Here’s a helpful video from <a href="https://www.fs.blog/mental-models/">Farnam Street</a> explaining mental models (and giving an idea of how they’re usually appropriated these days for decision making and personal development):</p>
 <iframe allow="autoplay; fullscreen" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://player.vimeo.com/video/177585900?dnt=1&app_id=122963" title="Farnam Street: Mental Models" width="750"></iframe>
 <h2 id="examples-of-mental-models">Examples of mental models</h2>
 <p>For example, <a href="https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/">the 80/20 Principle</a> (20% of causes lead to 80% of effects) and the <a href="https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix/">Eisenhower Decision Matrix</a> (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.</p>

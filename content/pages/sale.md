@@ -2,5 +2,6 @@
 title: Sale
 draft: true
 ---
-> [!NOTE]
-> This `/sale` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/sale` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

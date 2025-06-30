@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/hugo/</link>
+    <link>http://localhost:1313/tags/hugo/</link>
     <description>Recent content in Hugo on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 19 Nov 2024 17:27:16 -0500</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/hugo/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Troubleshooting Hugo to Micro.blog Crossposting</title>
-      <link>https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/</link>
+      <link>http://localhost:1313/troubleshooting-hugo-to-microblog-crossposting/</link>
       <pubDate>Tue, 19 Nov 2024 17:25:36 -0500</pubDate>
-      <guid>https://joshuapsteele.com/troubleshooting-hugo-to-microblog-crossposting/</guid>
+      <guid>http://localhost:1313/troubleshooting-hugo-to-microblog-crossposting/</guid>
       <description>&lt;p&gt;&lt;em&gt;UPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m trying to troubleshoot what&amp;rsquo;s going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads.&lt;/p&gt;
 &lt;p&gt;What&amp;rsquo;s supposed to happen is that this blog post, after I merge it to my &lt;a href=&#34;https://github.com/joshuapsteele/joshuapsteele.github.io&#34;&gt;GitHub repository&lt;/a&gt;, will end up on the JSONfeed at &lt;code&gt;https://joshuapsteele.com/blog/feed.json&lt;/code&gt;.&lt;/p&gt;</description>

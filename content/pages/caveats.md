@@ -3,8 +3,9 @@ author: joshuapsteele
 title: Caveats
 showtoc: false
 ---
-> [!NOTE]
-> This `/caveats` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/caveats` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 You can add the following caveats to everything I write online.
 

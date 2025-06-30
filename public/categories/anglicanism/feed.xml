@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Anglicanism on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/anglicanism/</link>
+    <link>http://localhost:1313/categories/anglicanism/</link>
     <description>Recent content in Anglicanism on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/anglicanism/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/anglicanism/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If Women Can Be Saved, Then Women Can Be Priests: A Critique of the &#39;in persona Christi&#39; Argument Against Women&#39;s Ordination</title>
-      <link>https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/</link>
+      <link>http://localhost:1313/if-women-can-be-saved-then-women-can-be-priests/</link>
       <pubDate>Thu, 26 Sep 2019 05:00:18 +0000</pubDate>
-      <guid>https://joshuapsteele.com/if-women-can-be-saved-then-women-can-be-priests/</guid>
+      <guid>http://localhost:1313/if-women-can-be-saved-then-women-can-be-priests/</guid>
       <description>&lt;p&gt;&lt;em&gt;Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;After reading this piece, please see &lt;a href=&#34;http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/&#34;&gt;Lee Nelson’s response&lt;/a&gt; and &lt;a href=&#34;http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/&#34;&gt;Emily McGowin’s rejoinder&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -38,9 +38,7 @@
 <li>a real human soul.</li>
 </ul>
 <p>In the words of St. Gregory of Nazianzus:</p>
-<blockquote>
-<p>“For that which he has not assumed he has not healed; but that which is united to his Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of him that was begotten, and so be saved as a whole” (Epistle 101, 32).</p></blockquote>
-<p>In this way, christology and soteriology (the doctrine of salvation) are intimately connected. To rescue us from the dominion of Sin, Evil, and Death, the Word, the Second Person of the Trinity, had to become like us.</p>
+<blockquote><p>“For that which he has not assumed he has not healed; but that which is united to his Godhead is also saved. If only half Adam fell, then that which Christ assumes and saves may be half also; but if the whole of his nature fell, it must be united to the whole nature of him that was begotten, and so be saved as a whole” (Epistle 101, 32).</p></blockquote><p>In this way, christology and soteriology (the doctrine of salvation) are intimately connected. To rescue us from the dominion of Sin, Evil, and Death, the Word, the Second Person of the Trinity, had to become like us.</p>
 <p>As the divine Word, he could descend into the darkest depths of human sin and suffering without being overcome by them. And, as the Word-made-flesh, he could ascend to the heights of heaven following his resurrection—and bring us, now reconciled and united with God, along with him.</p>
 <h2 id="implications">Implications</h2>
 <p>If “what is not assumed is not healed” is a crucial, non-negotiable aspect of orthodox Christianity, then we do well to consider carefully its implications.</p>
@@ -106,9 +104,9 @@
     </item>
     <item>
       <title>Want to Learn More about Women’s Ordination Debates within Anglicanism? Start With These Resources</title>
-      <link>https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/</link>
+      <link>http://localhost:1313/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/</link>
       <pubDate>Wed, 30 Jan 2019 14:31:31 +0000</pubDate>
-      <guid>https://joshuapsteele.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/</guid>
+      <guid>http://localhost:1313/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/</guid>
       <description>&lt;p&gt;Maybe you, like me, are coming to Anglicanism from a different tradition.&lt;/p&gt;
 &lt;p&gt;If that’s the case, then one thing you should know is that Anglican debates about women’s ordination can often be quite different from debates about the same topic in other church contexts.&lt;/p&gt;
 &lt;p&gt;This is due to Anglicans having different views on, among other things:&lt;/p&gt;
@@ -132,9 +130,7 @@
 <hr>
 <h2 id="the-acna-holy-orders-task-force-report-2017">The ACNA Holy Orders Task Force Report (2017)</h2>
 <p><em>Here’s an excerpt from <a href="http://anglicanchurch.net/?/main/page/1448">the official ACNA announcement of the report</a>, quoted from the ACNA website.</em></p>
-<blockquote>
-<p>In 2012 the College of Bishops appointed a Task Force on Holy Orders to provide the College with a scholarly and informed study on Holy Orders and, specifically, women in Holy Orders (the enabling resolution is reprinted in what follows). The Task Force, led by Bishop David Hicks, consisted of people representing differing perspectives and practices. They have met for the past 5 years and during that time have periodically released progress reports. This past January Bishop Hicks presented a report on the last phase of the process to the College, and we are now releasing the whole report to the Province.</p></blockquote>
-<p>You can download a PDF of the entire report by <a href="http://anglicancompass.com/wp-content/uploads/2019/01/HolyOrdersTaskForce.pdf" title="HolyOrdersTaskForce.pdf">clicking here</a>.</p>
+<blockquote><p>In 2012 the College of Bishops appointed a Task Force on Holy Orders to provide the College with a scholarly and informed study on Holy Orders and, specifically, women in Holy Orders (the enabling resolution is reprinted in what follows). The Task Force, led by Bishop David Hicks, consisted of people representing differing perspectives and practices. They have met for the past 5 years and during that time have periodically released progress reports. This past January Bishop Hicks presented a report on the last phase of the process to the College, and we are now releasing the whole report to the Province.</p></blockquote><p>You can download a PDF of the entire report by <a href="http://anglicancompass.com/wp-content/uploads/2019/01/HolyOrdersTaskForce.pdf" title="HolyOrdersTaskForce.pdf">clicking here</a>.</p>
 <p>The report is quite long (318 pages). So, I’ve broken it up into shorter PDFS.</p>
 <ul>
 <li><a href="http://anglicancompass.com/wp-content/uploads/2019/01/HolyOrdersTaskForce_Section-1_The-Task-Force-and-its-Process.pdf" title="HolyOrdersTaskForce_Section 1_The Task Force and its Process.pdf">Section I: The Task Force and its Process</a> (pp. 1–11)</li>
@@ -150,25 +146,17 @@
 <h2 id="a-statement-from-the-acna-college-of-bishops-on-the-ordination-of-women">A Statement from the ACNA College of Bishops on the Ordination of Women</h2>
 <p><em>Click <a href="http://www.anglicanchurch.net/?/main/page/1519">here</a> to see the original version of this on the ACNA website, which includes an introduction from Archbishop Foley Beach.</em></p>
 <p>In the preamble to the statement, the Bishops say the following:</p>
-<blockquote>
-<p>In an act of mutual submission at the foundation of the Anglican Church in North America, it was agreed that each Diocese and Jurisdiction has the freedom, responsibility, and authority to study Holy Scripture and the Apostolic Tradition of the Church, and to seek the mind of Christ in determining its own convictions and practices concerning the ordination of women to the diaconate and the priesthood. It was also unanimously agreed that women will not be consecrated as bishops in the Anglican Church in North America. These positions are established within our Constitution and Canons and, because we are a conciliar Church, would require the action of both Provincial Council and Provincial Assembly to be changed.</p></blockquote>
-<p>Then, they proceed to the statement itself:</p>
-<blockquote>
-<p>Having gratefully received and thoroughly considered the five-year study by the Theological Task Force on Holy Orders, we acknowledge that there are differing principles of ecclesiology and hermeneutics that are acceptable within Anglicanism that may lead to divergent conclusions regarding women’s ordination to the priesthood. However, we also acknowledge that this practice is a recent innovation to Apostolic Tradition and Catholic Order. We agree that there is insufficient scriptural warrant to accept women’s ordination to the priesthood as standard practice throughout the Province. However, we continue to acknowledge that individual dioceses have constitutional authority to ordain women to the priesthood.</p></blockquote>
-<p>Finally, the Bishops state their commitments moving forward:</p>
-<blockquote>
-<p>As a College of Bishops, we confess that our Province has failed to affirm adequately the ministry of all Christians as the basic agents of the work of the Gospel. We have not effectively discipled and equipped all Christians, male and especially female, lay and ordained, to fulfill their callings and ministries in the work of God’s kingdom. We repent of this and commit to work earnestly toward a far greater release of the whole Church to her God-given mission.</p>
-<p>Having met in Conclave to pray, worship, study, talk, and listen well to one another, we commit to move forward in unity to carry on the good witness and work that God has given us to do in North America (Ephesians 4:1-6; John 17). We invite and urge all members of the Province to engage with us in this endeavor to grow in understanding the mission and ministry of all God’s people.</p></blockquote>
-<p>This statement was adopted unanimously by the ACNA College of Bishops in September 2017. It describes the current state of the issue in the ACNA.</p>
+<blockquote><p>In an act of mutual submission at the foundation of the Anglican Church in North America, it was agreed that each Diocese and Jurisdiction has the freedom, responsibility, and authority to study Holy Scripture and the Apostolic Tradition of the Church, and to seek the mind of Christ in determining its own convictions and practices concerning the ordination of women to the diaconate and the priesthood. It was also unanimously agreed that women will not be consecrated as bishops in the Anglican Church in North America. These positions are established within our Constitution and Canons and, because we are a conciliar Church, would require the action of both Provincial Council and Provincial Assembly to be changed.</p></blockquote><p>Then, they proceed to the statement itself:</p>
+<blockquote><p>Having gratefully received and thoroughly considered the five-year study by the Theological Task Force on Holy Orders, we acknowledge that there are differing principles of ecclesiology and hermeneutics that are acceptable within Anglicanism that may lead to divergent conclusions regarding women’s ordination to the priesthood. However, we also acknowledge that this practice is a recent innovation to Apostolic Tradition and Catholic Order. We agree that there is insufficient scriptural warrant to accept women’s ordination to the priesthood as standard practice throughout the Province. However, we continue to acknowledge that individual dioceses have constitutional authority to ordain women to the priesthood.</p></blockquote><p>Finally, the Bishops state their commitments moving forward:</p>
+<blockquote><p>As a College of Bishops, we confess that our Province has failed to affirm adequately the ministry of all Christians as the basic agents of the work of the Gospel. We have not effectively discipled and equipped all Christians, male and especially female, lay and ordained, to fulfill their callings and ministries in the work of God’s kingdom. We repent of this and commit to work earnestly toward a far greater release of the whole Church to her God-given mission.</p>
+<p>Having met in Conclave to pray, worship, study, talk, and listen well to one another, we commit to move forward in unity to carry on the good witness and work that God has given us to do in North America (Ephesians 4:1-6; John 17). We invite and urge all members of the Province to engage with us in this endeavor to grow in understanding the mission and ministry of all God’s people.</p></blockquote><p>This statement was adopted unanimously by the ACNA College of Bishops in September 2017. It describes the current state of the issue in the ACNA.</p>
 <h2 id="whats-the-acnas-position-on-womens-ordination">What’s The ACNA’s Position on Women’s Ordination?</h2>
 <p>This question is included on the <a href="http://www.anglicanchurch.net/index.php/main/faq/">ACNA’s FAQ page</a>. Here’s the answer:</p>
-<blockquote>
-<p>At the inception of the Anglican Church in North America, the lead Bishops unanimously agreed to work together for the good of the Kingdom. As part of this consensus, it was understood that there were differing understandings regarding the ordination of women to Holy Orders, but there existed a mutual love and respect for one another and a desire to move forward for the good of the Church. This commitment was deeply embedded in the Constitution and Canons overwhelmingly adopted by the Inaugural Assembly (2009).</p>
+<blockquote><p>At the inception of the Anglican Church in North America, the lead Bishops unanimously agreed to work together for the good of the Kingdom. As part of this consensus, it was understood that there were differing understandings regarding the ordination of women to Holy Orders, but there existed a mutual love and respect for one another and a desire to move forward for the good of the Church. This commitment was deeply embedded in the Constitution and Canons overwhelmingly adopted by the Inaugural Assembly (2009).</p>
 <p>In respect of the two integrities concerning Holy Orders, three matters were specifically agreed in Constitution and Canons:</p>
 <p>(1) The Province shall make no canon abridging the authority of any member dioceses, clusters or networks (whether regional or affinity-based) and those dioceses banded together as jurisdictions with respect to its practice regarding the ordination of women to the diaconate or presbyterate (Constitution, Article VIII)<br>
 (2) Except as hereinafter provided, the norms for ordination shall be determined by the Bishops having jurisdiction. (Title III Canon 1.4)<br>
-(3) To be a suitable candidate for the episcopate (bishop), a person must: Be a male Presbyter at least 35 years old. (Title III Canon 8.3.7)</p></blockquote>
-<h2 id="which-acna-dioceses-dodont-ordain-women">Which ACNA Dioceses Do/Don’t Ordain Women?</h2>
+(3) To be a suitable candidate for the episcopate (bishop), a person must: Be a male Presbyter at least 35 years old. (Title III Canon 8.3.7)</p></blockquote><h2 id="which-acna-dioceses-dodont-ordain-women">Which ACNA Dioceses Do/Don’t Ordain Women?</h2>
 <p>To put some numbers to this debate, <a href="http://docs.google.com/spreadsheets/d/1QG0EDrpgGnfPf668T5qsnUcczUA_g6b3HjgbPC-aiTg/edit?usp=sharing">I’ve produced the following chart</a>. <a href="http://s3.amazonaws.com/acna/Congregational_Report_to_Provincial_Council_2018.pdf">The congregation/membership/attendance data comes from this 2018 report.</a> Please let me know if you spot any errors!</p>
 <p>Click the image below to view the most recent version of the spreadsheet on Google Sheets.</p>
 <p><a href="http://docs.google.com/spreadsheets/d/1QG0EDrpgGnfPf668T5qsnUcczUA_g6b3HjgbPC-aiTg/edit?usp=sharing"><img loading="lazy" src="http://anglicancompass.com/wp-content/uploads/2019/01/Screen-Shot-2020-01-14-at-11.33.22-AM.png"></a></p>

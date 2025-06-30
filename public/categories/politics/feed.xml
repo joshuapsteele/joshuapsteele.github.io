@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Politics on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/politics/</link>
+    <link>http://localhost:1313/categories/politics/</link>
     <description>Recent content in Politics on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Jun 2025 09:43:52 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/politics/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 10:35:12 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/politics/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Citizen&#39;s Manifesto: Working Principles for Democratic Renewal</title>
-      <link>https://joshuapsteele.com/blog/citizens-manifesto/</link>
+      <link>http://localhost:1313/citizens-manifesto/</link>
       <pubDate>Mon, 16 Jun 2025 09:19:37 -0400</pubDate>
-      <guid>https://joshuapsteele.com/blog/citizens-manifesto/</guid>
+      <guid>http://localhost:1313/citizens-manifesto/</guid>
       <description>&lt;p&gt;Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue.&lt;/p&gt;
 &lt;p&gt;Our &lt;a href=&#34;https://constitution.congress.gov/constitution/&#34;&gt;constitutional framework in the United States of America&lt;/a&gt; was designed to be amended, our institutions to be improved, and our understanding of justice to deepen with experience and wisdom. The greatest threat to democracy is not disagreement about these principles, but the abandonment of our shared commitment to wrestling with them together in good faith.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue.</p>
@@ -80,17 +80,13 @@
     </item>
     <item>
       <title>14 Characteristics of Fascism: Umberto Eco on Ur-Fascism</title>
-      <link>https://joshuapsteele.com/14-characteristics-of-fascism/</link>
+      <link>http://localhost:1313/14-characteristics-of-fascism/</link>
       <pubDate>Tue, 10 Jun 2025 11:49:55 -0400</pubDate>
-      <guid>https://joshuapsteele.com/14-characteristics-of-fascism/</guid>
+      <guid>http://localhost:1313/14-characteristics-of-fascism/</guid>
       <description>&lt;p&gt;Let&amp;rsquo;s try to define (or at least describe) fascism, shall we?&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Fascism: &amp;ldquo;a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition&amp;rdquo; (Merriam-Webster)&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Notoriously difficult to define, &lt;a href=&#34;https://www.nybooks.com/articles/1995/06/22/ur-fascism/&#34;&gt;Umberto Eco nevertheless highlighted 14 aspects of what he called &amp;ldquo;Ur-Fascism&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Fascism: &amp;ldquo;a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition&amp;rdquo; (Merriam-Webster)&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Notoriously difficult to define, &lt;a href=&#34;https://www.nybooks.com/articles/1995/06/22/ur-fascism/&#34;&gt;Umberto Eco nevertheless highlighted 14 aspects of what he called &amp;ldquo;Ur-Fascism&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Let&rsquo;s try to define (or at least describe) fascism, shall we?</p>
-<blockquote>
-<p>Fascism: &ldquo;a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition&rdquo; (Merriam-Webster)</p></blockquote>
-<p>Notoriously difficult to define, <a href="https://www.nybooks.com/articles/1995/06/22/ur-fascism/">Umberto Eco nevertheless highlighted 14 aspects of what he called &ldquo;Ur-Fascism&rdquo;</a>:</p>
+<blockquote><p>Fascism: &ldquo;a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition&rdquo; (Merriam-Webster)</p></blockquote><p>Notoriously difficult to define, <a href="https://www.nybooks.com/articles/1995/06/22/ur-fascism/">Umberto Eco nevertheless highlighted 14 aspects of what he called &ldquo;Ur-Fascism&rdquo;</a>:</p>
 <ol>
 <li><strong>Cult of Tradition</strong> – A syncretic belief in ancient truths, rejecting modern interpretations.</li>
 <li><strong>Rejection of Modernism</strong> – Viewing the Enlightenment and rationalism as the root of moral decline.</li>
@@ -111,11 +107,11 @@
     </item>
     <item>
       <title>198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp</title>
-      <link>https://joshuapsteele.com/198-ways-to-fight-tyranny/</link>
+      <link>http://localhost:1313/198-ways-to-fight-tyranny/</link>
       <pubDate>Mon, 09 Jun 2025 09:49:40 -0400</pubDate>
-      <guid>https://joshuapsteele.com/198-ways-to-fight-tyranny/</guid>
+      <guid>http://localhost:1313/198-ways-to-fight-tyranny/</guid>
       <description>&lt;p&gt;The following 198 methods of nonviolent action are taken from Gene Sharp&amp;rsquo;s &lt;a href=&#34;https://amzn.to/4kXevBx&#34;&gt;&lt;em&gt;The Politics of Nonviolent Action&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;https://joshuapsteele.com/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;http://localhost:1313/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;the-methods-of-nonviolent-protest-and-persuasion&#34;&gt;The Methods of Nonviolent Protest and Persuasion&lt;/h2&gt;
 &lt;h3 id=&#34;formal-statements&#34;&gt;Formal Statements&lt;/h3&gt;
@@ -685,12 +681,12 @@
     </item>
     <item>
       <title>20 Ways to Fight Tyranny: Lessons from Timothy Snyder</title>
-      <link>https://joshuapsteele.com/20-ways-to-fight-tyranny/</link>
+      <link>http://localhost:1313/20-ways-to-fight-tyranny/</link>
       <pubDate>Mon, 09 Jun 2025 09:49:40 -0400</pubDate>
-      <guid>https://joshuapsteele.com/20-ways-to-fight-tyranny/</guid>
+      <guid>http://localhost:1313/20-ways-to-fight-tyranny/</guid>
       <description>&lt;p&gt;The following 20 &amp;ldquo;lessons&amp;rdquo; are taken from Timothy Snyder&amp;rsquo;s &lt;a href=&#34;https://amzn.to/3SFZkke&#34;&gt;&lt;em&gt;On Tyranny: Twenty Lessons from the Twentieth Century&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a video of John Lithgow reading the 20 lessons: &lt;a href=&#34;https://www.youtube.com/watch?v=cXR5HLodsT8&#34;&gt;https://www.youtube.com/watch?v=cXR5HLodsT8&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;https://joshuapsteele.com/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;(For more information and resources along these lines, make sure to visit &lt;a href=&#34;http://localhost:1313/resist&#34;&gt;my /resist page&lt;/a&gt;.)&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;1-do-not-obey-in-advance&#34;&gt;1. Do not obey in advance&lt;/h2&gt;
 &lt;p&gt;Most of the power of authoritarianism is freely given. In times like these, individuals think ahead about what a more repressive government will want, and then offer themselves without being asked. A citizen who adapts in this way is teaching power what it can do.&lt;/p&gt;</description>
@@ -742,9 +738,9 @@
     </item>
     <item>
       <title>When the Government Can Kidnap Without Trial, None of Us Are Safe</title>
-      <link>https://joshuapsteele.com/government-kidnap-without-trial/</link>
+      <link>http://localhost:1313/government-kidnap-without-trial/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/government-kidnap-without-trial/</guid>
+      <guid>http://localhost:1313/government-kidnap-without-trial/</guid>
       <description>If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us.</description>
       <content:encoded><![CDATA[<p>Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.</p>
 <p>Then imagine the government claims they’re a danger—but refuses to show any real evidence. And instead of bringing them to a courtroom, they ship them off to a prison in another country.</p>
@@ -762,19 +758,13 @@
 </ul>
 <p>It’s your <strong>right to a fair trial</strong>. Without it, everything else collapses.</p>
 <p>The Fifth and Fourteenth Amendments to the U.S. Constitution guarantee due process:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote>
-<p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote><blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote><p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
 <hr>
 <h2 id="what-is-habeas-corpus">What Is Habeas Corpus?</h2>
 <p><strong><a href="https://en.wikipedia.org/wiki/Habeas_corpus">Habeas corpus</a></strong> is the right that lets you <strong>demand your day in court</strong> when the government locks you up. It forces the government to explain why you’re being held—and gives you a chance to challenge it.</p>
 <p>It’s your protection against being “disappeared” into a jail cell with no explanation, no trial, no accountability.</p>
 <p>The Constitution is clear about it:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote>
-<p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote><p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
 <hr>
 <h2 id="about-that-invasion-excuse">About That “Invasion” Excuse</h2>
 <p>Lately, politicians and government officials have started calling immigration an <strong>“invasion”</strong> to justify rounding people up without trials. But this isn’t about armies or enemy combatants—it’s about families, workers, and asylum seekers.</p>
@@ -820,9 +810,9 @@
     </item>
     <item>
       <title>This Shouldn&#39;t Be Controversial</title>
-      <link>https://joshuapsteele.com/this-shouldnt-be-controversial/</link>
+      <link>http://localhost:1313/this-shouldnt-be-controversial/</link>
       <pubDate>Wed, 19 Feb 2025 09:16:56 -0500</pubDate>
-      <guid>https://joshuapsteele.com/this-shouldnt-be-controversial/</guid>
+      <guid>http://localhost:1313/this-shouldnt-be-controversial/</guid>
       <description>&lt;p&gt;The following statements should not be controversial, but they sadly are. What would you add to this list?&lt;/p&gt;
 &lt;p&gt;Donald Trump lost the 2020 election.&lt;/p&gt;
 &lt;p&gt;January 6th, 2021, was an insurrection.&lt;/p&gt;

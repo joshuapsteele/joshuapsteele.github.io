@@ -2,5 +2,6 @@
 title: Save
 draft: true
 ---
-> [!NOTE]
-> This `/save` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/save` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

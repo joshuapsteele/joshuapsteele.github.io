@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Drafts on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/drafts/</link>
+    <link>http://localhost:1313/tags/drafts/</link>
     <description>Recent content in Drafts on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/drafts/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/drafts/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Home Improvement Roadmap and Roadblocks</title>
-      <link>https://joshuapsteele.com/home-improvement-roadmap-and-roadblocks/</link>
+      <link>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</link>
       <pubDate>Sun, 14 Jul 2024 16:26:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/home-improvement-roadmap-and-roadblocks/</guid>
+      <guid>http://localhost:1313/home-improvement-roadmap-and-roadblocks/</guid>
       <description>&lt;p&gt;We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.&lt;/p&gt;
 &lt;p&gt;Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:&lt;/p&gt;
 &lt;p&gt;– Replace roof and gutters&lt;br&gt;
@@ -56,9 +56,9 @@
     </item>
     <item>
       <title>The Problem of Ecclesiastical Evil</title>
-      <link>https://joshuapsteele.com/the-problem-of-ecclesiastical-evil/</link>
+      <link>http://localhost:1313/the-problem-of-ecclesiastical-evil/</link>
       <pubDate>Fri, 08 Mar 2024 12:26:14 +0000</pubDate>
-      <guid>https://joshuapsteele.com/the-problem-of-ecclesiastical-evil/</guid>
+      <guid>http://localhost:1313/the-problem-of-ecclesiastical-evil/</guid>
       <description>&lt;p&gt;You’ve probably heard of “the problem of evil” (if not, &lt;a href=&#34;https://en.wikipedia.org/wiki/Problem_of_evil&#34;&gt;here’s an overview&lt;/a&gt;). But there’s a specific version/aspect of it that I find even more devastating.&lt;/p&gt;
 &lt;p&gt;If God is omnipotent (all-powerful), ommniscient (all-knowing(, and omnibenevolent (completely good)…&lt;/p&gt;
 &lt;p&gt;If the Church is God’s main plan for the redemption of humanity and the cosmos (consider the “body of Christ” paradigm in the New Testament)…&lt;/p&gt;
@@ -74,37 +74,27 @@
 <p>(Also, sidebar: Notice how the “field” is the “world” in Matthew 13:38. Not the “kingdom” or the “church.” So, is the Church a mixed body? Or is the world a mixed body?)</p>
 <p>Every time I read <a href="https://www.newadvent.org/fathers/2802.htm"><em>On the Incarnation</em> by Athanasius</a>, I’m struck by how much he is willing to stake the truth of the gospel on the actual observed behavior of Christians.</p>
 <p>Here are some examples below, but go and read the entire “Answer to the Greeks” / “Refutation of the Gentiles” section (paragraphs 41–55). Note how often Athanasius argues for the truth of Christ by appealing to the changed behaviors of human beings:</p>
-<blockquote>
-<p>When did human beings begin to abandon the worship of idols, except since the true God Word of God came among human beings?</p>
+<blockquote><p>When did human beings begin to abandon the worship of idols, except since the true God Word of God came among human beings?</p>
 <p>Or when have the oracles amongst the Greeks and everywhere ceased and become empty, except since the Savior revealed himself upon earth?</p>
 <p>Or when did those who are called gods and heroes by the poets begin to be condemned as merely mortal humans, except since the Lord erected the trophy over death and preserved incorruptible the body which he took, raising it from the dead?</p>
 <p>Or when were the deceit and madness of the demons despised, except when the Power of God, the Word, the Master of all, even of these, condescended, because of the weakness of humans, to appear on earth? When did the craft and teachings of magic begin to be trampled underfoot, except when the divine manifestation of the Word took place among human beings?</p>
 <p>And when, in short, did the wisdom of the Greeks become foolish (cf. 1 Cor 1:18–24) except when the true Wisdom of God revealed itself upon earth?</p>
 <p>For formerly the whole inhabited world and every place were led astray by the worship of idols, and human beings regarded nothing else but idols as gods.</p>
 <p>Now, however, throughout the whole inhabited world, human beings are deserting the superstition of idols, taking refuge in Christ, and worshipping him as God, and through him they know the Father, of whom they had been ignorant.</p>
-<p><cite>Athanasius, On the Incarnation, §46</cite></p></blockquote>
-<blockquote>
-<p>Now these things said by us are not merely words, but have the witness of their truth from experience itself. Let him who wishes come up and behold the proof of virtue in the virgins of Christ and in the youth who live a pure life in chastity, and the belief in immortality in so great a company of martyrs.</p>
-<p><cite>Athanasius, On the Incarnation, §48</cite></p></blockquote>
-<blockquote>
-<p>And who thus delivered human beings from the natural passions, so that adulterers are chaste, murderers no longer take up the sword, and those overcome by cowardice are courageous? Or, in short, what persuaded human beings from the barbarians and the Gentile regions to lay aside their madness, and to mind peace, except the faith of Christ and that sign of the cross?</p>
-<p><cite>Athanasius, On the Incarnation, §50</cite></p></blockquote>
-<blockquote>
-<p>Who then among human beings, after death or even while alive, taught about virginity and did not think that this virtue was impossible among human beings? But our Savior and king of all, Christ, so prevailed in the teaching of this that even children not yet arrived at the lawful age profess the virginity that is above the law.</p>
-<p><cite>Athanasius, On the Incarnation, §51</cite></p></blockquote>
-<blockquote>
-<p>To speak concisely, behold how the teaching of the Savior increases everywhere, while all idolatry and everything opposed to the faith of Christ daily diminish and weaken and fall.</p>
-<p><cite>Athanasius, On the Incarnation, §55</cite></p></blockquote>
-<p>I couldn’t make a similar argument in good faith today.</p>
+<p><cite>Athanasius, On the Incarnation, §46</cite></p></blockquote><blockquote><p>Now these things said by us are not merely words, but have the witness of their truth from experience itself. Let him who wishes come up and behold the proof of virtue in the virgins of Christ and in the youth who live a pure life in chastity, and the belief in immortality in so great a company of martyrs.</p>
+<p><cite>Athanasius, On the Incarnation, §48</cite></p></blockquote><blockquote><p>And who thus delivered human beings from the natural passions, so that adulterers are chaste, murderers no longer take up the sword, and those overcome by cowardice are courageous? Or, in short, what persuaded human beings from the barbarians and the Gentile regions to lay aside their madness, and to mind peace, except the faith of Christ and that sign of the cross?</p>
+<p><cite>Athanasius, On the Incarnation, §50</cite></p></blockquote><blockquote><p>Who then among human beings, after death or even while alive, taught about virginity and did not think that this virtue was impossible among human beings? But our Savior and king of all, Christ, so prevailed in the teaching of this that even children not yet arrived at the lawful age profess the virginity that is above the law.</p>
+<p><cite>Athanasius, On the Incarnation, §51</cite></p></blockquote><blockquote><p>To speak concisely, behold how the teaching of the Savior increases everywhere, while all idolatry and everything opposed to the faith of Christ daily diminish and weaken and fall.</p>
+<p><cite>Athanasius, On the Incarnation, §55</cite></p></blockquote><p>I couldn’t make a similar argument in good faith today.</p>
 <p>Instead, I believe the good news about Jesus <strong>in spite of</strong> how his Church has, on the whole, behaved.</p>
 <p>Which, even though I know all of the theological pressure-release valves one can use here, bugs me quite a bit.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Back in the Saddle</title>
-      <link>https://joshuapsteele.com/back-in-the-saddle/</link>
+      <link>http://localhost:1313/back-in-the-saddle/</link>
       <pubDate>Thu, 07 Mar 2024 21:24:37 +0000</pubDate>
-      <guid>https://joshuapsteele.com/back-in-the-saddle/</guid>
+      <guid>http://localhost:1313/back-in-the-saddle/</guid>
       <description>&lt;p&gt;I know I’m not alone in this, but the past few years have been pretty rough for me.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;I’ve gained at least 50 pounds.&lt;/li&gt;
@@ -135,9 +125,9 @@
     </item>
     <item>
       <title>Truth to Power</title>
-      <link>https://joshuapsteele.com/truth-to-power/</link>
+      <link>http://localhost:1313/truth-to-power/</link>
       <pubDate>Wed, 06 Mar 2024 12:06:43 +0000</pubDate>
-      <guid>https://joshuapsteele.com/truth-to-power/</guid>
+      <guid>http://localhost:1313/truth-to-power/</guid>
       <description>&lt;p&gt;Mark 6:13-29. John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power? To tell the truth about power and the power of truth? Or will we abandon the truth to obtain and maintain power?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Mark 6:13-29. John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power? To tell the truth about power and the power of truth? Or will we abandon the truth to obtain and maintain power?</p>
 ]]></content:encoded>

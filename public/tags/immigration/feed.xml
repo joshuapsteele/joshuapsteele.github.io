@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Immigration on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/immigration/</link>
+    <link>http://localhost:1313/tags/immigration/</link>
     <description>Recent content in Immigration on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:20:01 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/immigration/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/immigration/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When the Government Can Kidnap Without Trial, None of Us Are Safe</title>
-      <link>https://joshuapsteele.com/government-kidnap-without-trial/</link>
+      <link>http://localhost:1313/government-kidnap-without-trial/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/government-kidnap-without-trial/</guid>
+      <guid>http://localhost:1313/government-kidnap-without-trial/</guid>
       <description>If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us.</description>
       <content:encoded><![CDATA[<p>Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.</p>
 <p>Then imagine the government claims they’re a danger—but refuses to show any real evidence. And instead of bringing them to a courtroom, they ship them off to a prison in another country.</p>
@@ -35,19 +35,13 @@
 </ul>
 <p>It’s your <strong>right to a fair trial</strong>. Without it, everything else collapses.</p>
 <p>The Fifth and Fourteenth Amendments to the U.S. Constitution guarantee due process:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote>
-<p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote><blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote><p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
 <hr>
 <h2 id="what-is-habeas-corpus">What Is Habeas Corpus?</h2>
 <p><strong><a href="https://en.wikipedia.org/wiki/Habeas_corpus">Habeas corpus</a></strong> is the right that lets you <strong>demand your day in court</strong> when the government locks you up. It forces the government to explain why you’re being held—and gives you a chance to challenge it.</p>
 <p>It’s your protection against being “disappeared” into a jail cell with no explanation, no trial, no accountability.</p>
 <p>The Constitution is clear about it:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote>
-<p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote><p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
 <hr>
 <h2 id="about-that-invasion-excuse">About That “Invasion” Excuse</h2>
 <p>Lately, politicians and government officials have started calling immigration an <strong>“invasion”</strong> to justify rounding people up without trials. But this isn’t about armies or enemy combatants—it’s about families, workers, and asylum seekers.</p>
@@ -93,9 +87,9 @@
     </item>
     <item>
       <title>You Can&#39;t Follow Jesus and Hate Immigrants</title>
-      <link>https://joshuapsteele.com/you-cant-follow-jesus-and-hate-immigrants/</link>
+      <link>http://localhost:1313/you-cant-follow-jesus-and-hate-immigrants/</link>
       <pubDate>Fri, 13 Sep 2024 16:19:56 +0000</pubDate>
-      <guid>https://joshuapsteele.com/you-cant-follow-jesus-and-hate-immigrants/</guid>
+      <guid>http://localhost:1313/you-cant-follow-jesus-and-hate-immigrants/</guid>
       <description>&lt;p&gt;You can’t follow Jesus and hate immigrants.&lt;/p&gt;
 &lt;p&gt;Of course, this does NOT settle every question of immigration policy!&lt;/p&gt;
 &lt;p&gt;But, if you’re a follower of Jesus, consider your overall posture toward immigrants. If you call yourself a Christian, I want you to think about this seriously.&lt;/p&gt;
@@ -112,22 +106,12 @@
 <p>Others may argue that showing hospitality to immigrants and refugees could lead to an unsustainable burden on our resources or change our cultural identity. While practical concerns about resources are valid, Scripture repeatedly calls us to care for the vulnerable, trusting that God will provide.</p>
 <p>Moreover, the kingdom of God is not confined by national or cultural boundaries! As citizens of this kingdom, our identity should first and foremost be shaped by our faith, not by our nationality.</p>
 <p>The Bible actually has quite a bit to say about immigrants, sojourners, and refugees. In fact, you can even read the entire storyline of Scripture through these lenses. Here’s the tiniest of tastes:</p>
-<blockquote>
-<p>When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.<br>
-(Leviticus 19:33–34, NIV)</p></blockquote>
-<blockquote>
-<p>Cursed is anyone who withholds justice from the foreigner, the fatherless or the widow.<br>
-(Deuteronomy 27:19, NIV)</p></blockquote>
-<blockquote>
-<p>I was a stranger and you invited me in…<br>
-(Matthew 25:35, NIV)</p></blockquote>
-<blockquote>
-<p>For here we do not have an enduring city, but we are looking for the city that is to come.<br>
-(Hebrews 13:14, NIV)</p></blockquote>
-<blockquote>
-<p>Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it.<br>
-(Hebrews 13:2, NIV)</p></blockquote>
-<p>As M. Daniel Carroll Rodas explains in <a href="/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf">a helpful article on “Aliens, Immigration, and Refugees”</a> (click that link for a PDF of the article):</p>
+<blockquote><p>When a foreigner resides among you in your land, do not mistreat them. The foreigner residing among you must be treated as your native-born. Love them as yourself, for you were foreigners in Egypt. I am the LORD your God.<br>
+(Leviticus 19:33–34, NIV)</p></blockquote><blockquote><p>Cursed is anyone who withholds justice from the foreigner, the fatherless or the widow.<br>
+(Deuteronomy 27:19, NIV)</p></blockquote><blockquote><p>I was a stranger and you invited me in…<br>
+(Matthew 25:35, NIV)</p></blockquote><blockquote><p>For here we do not have an enduring city, but we are looking for the city that is to come.<br>
+(Hebrews 13:14, NIV)</p></blockquote><blockquote><p>Do not forget to show hospitality to strangers, for by so doing some people have shown hospitality to angels without knowing it.<br>
+(Hebrews 13:2, NIV)</p></blockquote><p>As M. Daniel Carroll Rodas explains in <a href="/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf">a helpful article on “Aliens, Immigration, and Refugees”</a> (click that link for a PDF of the article):</p>
 <ul>
 <li>Both the Old and New Testaments offer rich teachings on migration, emphasizing that refugees and immigrants are made in the image of God.</li>
 <li>Many biblical figures, like Abraham, Moses, and Jesus himself, were displaced persons.</li>

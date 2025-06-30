@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Civil Rights on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/civil-rights/</link>
+    <link>http://localhost:1313/tags/civil-rights/</link>
     <description>Recent content in Civil Rights on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:20:01 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/civil-rights/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/civil-rights/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>When the Government Can Kidnap Without Trial, None of Us Are Safe</title>
-      <link>https://joshuapsteele.com/government-kidnap-without-trial/</link>
+      <link>http://localhost:1313/government-kidnap-without-trial/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/government-kidnap-without-trial/</guid>
+      <guid>http://localhost:1313/government-kidnap-without-trial/</guid>
       <description>If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us.</description>
       <content:encoded><![CDATA[<p>Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.</p>
 <p>Then imagine the government claims they’re a danger—but refuses to show any real evidence. And instead of bringing them to a courtroom, they ship them off to a prison in another country.</p>
@@ -35,19 +35,13 @@
 </ul>
 <p>It’s your <strong>right to a fair trial</strong>. Without it, everything else collapses.</p>
 <p>The Fifth and Fourteenth Amendments to the U.S. Constitution guarantee due process:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote>
-<p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-5/">Fifth Amendment</a></strong>: “No person shall… be deprived of life, liberty, or property, without due process of law.”</p></blockquote><blockquote><p><strong><a href="https://constitution.congress.gov/constitution/amendment-14/">Fourteenth Amendment</a></strong>: “nor shall any State deprive any person of life, liberty, or property, without due process of law; nor deny to any person within its jurisdiction the equal protection of the laws.”</p></blockquote><p>Notice the language: <em>“No person.”</em> Not “no citizen.” Not “no American.” Just <strong>person</strong>. That includes immigrants—documented or undocumented. It includes you. It includes me.</p>
 <hr>
 <h2 id="what-is-habeas-corpus">What Is Habeas Corpus?</h2>
 <p><strong><a href="https://en.wikipedia.org/wiki/Habeas_corpus">Habeas corpus</a></strong> is the right that lets you <strong>demand your day in court</strong> when the government locks you up. It forces the government to explain why you’re being held—and gives you a chance to challenge it.</p>
 <p>It’s your protection against being “disappeared” into a jail cell with no explanation, no trial, no accountability.</p>
 <p>The Constitution is clear about it:</p>
-<blockquote>
-<p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote>
-<p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
+<blockquote><p><strong><a href="https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2">Article I, Section 9, Clause 2</a></strong>: “The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it.”</p></blockquote><p>There’s no rebellion. And no actual invasion. So why is the government throwing people in foreign prisons without giving them access to a courtroom?</p>
 <hr>
 <h2 id="about-that-invasion-excuse">About That “Invasion” Excuse</h2>
 <p>Lately, politicians and government officials have started calling immigration an <strong>“invasion”</strong> to justify rounding people up without trials. But this isn’t about armies or enemy combatants—it’s about families, workers, and asylum seekers.</p>

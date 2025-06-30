@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Uncategorized on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/uncategorized/</link>
+    <link>http://localhost:1313/categories/uncategorized/</link>
     <description>Recent content in Uncategorized on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Apr 2025 08:40:31 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/uncategorized/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/uncategorized/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>6 Things I&#39;m Excited About (2024-08-04)</title>
-      <link>https://joshuapsteele.com/6-things-im-excited-about-2024-08-04/</link>
+      <link>http://localhost:1313/6-things-im-excited-about-2024-08-04/</link>
       <pubDate>Wed, 04 Sep 2024 10:51:34 +0000</pubDate>
-      <guid>https://joshuapsteele.com/6-things-im-excited-about-2024-08-04/</guid>
+      <guid>http://localhost:1313/6-things-im-excited-about-2024-08-04/</guid>
       <description>&lt;ol&gt;
 &lt;li&gt;Sweater weather&lt;/li&gt;
 &lt;li&gt;Losing weight with some help from Zepbound&lt;/li&gt;
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>The Problem of Ecclesiastical Evil</title>
-      <link>https://joshuapsteele.com/the-problem-of-ecclesiastical-evil/</link>
+      <link>http://localhost:1313/the-problem-of-ecclesiastical-evil/</link>
       <pubDate>Fri, 08 Mar 2024 12:26:14 +0000</pubDate>
-      <guid>https://joshuapsteele.com/the-problem-of-ecclesiastical-evil/</guid>
+      <guid>http://localhost:1313/the-problem-of-ecclesiastical-evil/</guid>
       <description>&lt;p&gt;You’ve probably heard of “the problem of evil” (if not, &lt;a href=&#34;https://en.wikipedia.org/wiki/Problem_of_evil&#34;&gt;here’s an overview&lt;/a&gt;). But there’s a specific version/aspect of it that I find even more devastating.&lt;/p&gt;
 &lt;p&gt;If God is omnipotent (all-powerful), ommniscient (all-knowing(, and omnibenevolent (completely good)…&lt;/p&gt;
 &lt;p&gt;If the Church is God’s main plan for the redemption of humanity and the cosmos (consider the “body of Christ” paradigm in the New Testament)…&lt;/p&gt;
@@ -58,47 +58,37 @@
 <p>(Also, sidebar: Notice how the “field” is the “world” in Matthew 13:38. Not the “kingdom” or the “church.” So, is the Church a mixed body? Or is the world a mixed body?)</p>
 <p>Every time I read <a href="https://www.newadvent.org/fathers/2802.htm"><em>On the Incarnation</em> by Athanasius</a>, I’m struck by how much he is willing to stake the truth of the gospel on the actual observed behavior of Christians.</p>
 <p>Here are some examples below, but go and read the entire “Answer to the Greeks” / “Refutation of the Gentiles” section (paragraphs 41–55). Note how often Athanasius argues for the truth of Christ by appealing to the changed behaviors of human beings:</p>
-<blockquote>
-<p>When did human beings begin to abandon the worship of idols, except since the true God Word of God came among human beings?</p>
+<blockquote><p>When did human beings begin to abandon the worship of idols, except since the true God Word of God came among human beings?</p>
 <p>Or when have the oracles amongst the Greeks and everywhere ceased and become empty, except since the Savior revealed himself upon earth?</p>
 <p>Or when did those who are called gods and heroes by the poets begin to be condemned as merely mortal humans, except since the Lord erected the trophy over death and preserved incorruptible the body which he took, raising it from the dead?</p>
 <p>Or when were the deceit and madness of the demons despised, except when the Power of God, the Word, the Master of all, even of these, condescended, because of the weakness of humans, to appear on earth? When did the craft and teachings of magic begin to be trampled underfoot, except when the divine manifestation of the Word took place among human beings?</p>
 <p>And when, in short, did the wisdom of the Greeks become foolish (cf. 1 Cor 1:18–24) except when the true Wisdom of God revealed itself upon earth?</p>
 <p>For formerly the whole inhabited world and every place were led astray by the worship of idols, and human beings regarded nothing else but idols as gods.</p>
 <p>Now, however, throughout the whole inhabited world, human beings are deserting the superstition of idols, taking refuge in Christ, and worshipping him as God, and through him they know the Father, of whom they had been ignorant.</p>
-<p><cite>Athanasius, On the Incarnation, §46</cite></p></blockquote>
-<blockquote>
-<p>Now these things said by us are not merely words, but have the witness of their truth from experience itself. Let him who wishes come up and behold the proof of virtue in the virgins of Christ and in the youth who live a pure life in chastity, and the belief in immortality in so great a company of martyrs.</p>
-<p><cite>Athanasius, On the Incarnation, §48</cite></p></blockquote>
-<blockquote>
-<p>And who thus delivered human beings from the natural passions, so that adulterers are chaste, murderers no longer take up the sword, and those overcome by cowardice are courageous? Or, in short, what persuaded human beings from the barbarians and the Gentile regions to lay aside their madness, and to mind peace, except the faith of Christ and that sign of the cross?</p>
-<p><cite>Athanasius, On the Incarnation, §50</cite></p></blockquote>
-<blockquote>
-<p>Who then among human beings, after death or even while alive, taught about virginity and did not think that this virtue was impossible among human beings? But our Savior and king of all, Christ, so prevailed in the teaching of this that even children not yet arrived at the lawful age profess the virginity that is above the law.</p>
-<p><cite>Athanasius, On the Incarnation, §51</cite></p></blockquote>
-<blockquote>
-<p>To speak concisely, behold how the teaching of the Savior increases everywhere, while all idolatry and everything opposed to the faith of Christ daily diminish and weaken and fall.</p>
-<p><cite>Athanasius, On the Incarnation, §55</cite></p></blockquote>
-<p>I couldn’t make a similar argument in good faith today.</p>
+<p><cite>Athanasius, On the Incarnation, §46</cite></p></blockquote><blockquote><p>Now these things said by us are not merely words, but have the witness of their truth from experience itself. Let him who wishes come up and behold the proof of virtue in the virgins of Christ and in the youth who live a pure life in chastity, and the belief in immortality in so great a company of martyrs.</p>
+<p><cite>Athanasius, On the Incarnation, §48</cite></p></blockquote><blockquote><p>And who thus delivered human beings from the natural passions, so that adulterers are chaste, murderers no longer take up the sword, and those overcome by cowardice are courageous? Or, in short, what persuaded human beings from the barbarians and the Gentile regions to lay aside their madness, and to mind peace, except the faith of Christ and that sign of the cross?</p>
+<p><cite>Athanasius, On the Incarnation, §50</cite></p></blockquote><blockquote><p>Who then among human beings, after death or even while alive, taught about virginity and did not think that this virtue was impossible among human beings? But our Savior and king of all, Christ, so prevailed in the teaching of this that even children not yet arrived at the lawful age profess the virginity that is above the law.</p>
+<p><cite>Athanasius, On the Incarnation, §51</cite></p></blockquote><blockquote><p>To speak concisely, behold how the teaching of the Savior increases everywhere, while all idolatry and everything opposed to the faith of Christ daily diminish and weaken and fall.</p>
+<p><cite>Athanasius, On the Incarnation, §55</cite></p></blockquote><p>I couldn’t make a similar argument in good faith today.</p>
 <p>Instead, I believe the good news about Jesus <strong>in spite of</strong> how his Church has, on the whole, behaved.</p>
 <p>Which, even though I know all of the theological pressure-release valves one can use here, bugs me quite a bit.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Truth to Power</title>
-      <link>https://joshuapsteele.com/truth-to-power/</link>
+      <link>http://localhost:1313/truth-to-power/</link>
       <pubDate>Wed, 06 Mar 2024 12:06:43 +0000</pubDate>
-      <guid>https://joshuapsteele.com/truth-to-power/</guid>
+      <guid>http://localhost:1313/truth-to-power/</guid>
       <description>&lt;p&gt;Mark 6:13-29. John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power? To tell the truth about power and the power of truth? Or will we abandon the truth to obtain and maintain power?&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Mark 6:13-29. John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power? To tell the truth about power and the power of truth? Or will we abandon the truth to obtain and maintain power?</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Questions Worth Asking (Self-Elicitation Questions)</title>
-      <link>https://joshuapsteele.com/questions-worth-asking/</link>
+      <link>http://localhost:1313/questions-worth-asking/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/questions-worth-asking/</guid>
-      <description>&lt;p&gt;These are questions that are always worth asking yourself. For a list of questions I&amp;rsquo;m currently asking and investigating, see &lt;a href=&#34;https://joshuapsteele.com/questions&#34;&gt;my &lt;code&gt;/questions&lt;/code&gt; page&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/questions-worth-asking/</guid>
+      <description>&lt;p&gt;These are questions that are always worth asking yourself. For a list of questions I&amp;rsquo;m currently asking and investigating, see &lt;a href=&#34;http://localhost:1313/questions&#34;&gt;my &lt;code&gt;/questions&lt;/code&gt; page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;five-minute-journal-questions&#34;&gt;Five-Minute Journal Questions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Morning
@@ -470,9 +460,9 @@
     </item>
     <item>
       <title>Mentor Me! 11 Questions I&#39;d Like You to Answer</title>
-      <link>https://joshuapsteele.com/mentor-me/</link>
+      <link>http://localhost:1313/mentor-me/</link>
       <pubDate>Fri, 15 Apr 2022 20:24:45 +0000</pubDate>
-      <guid>https://joshuapsteele.com/mentor-me/</guid>
+      <guid>http://localhost:1313/mentor-me/</guid>
       <description>&lt;p&gt;Say what you will about Tim Ferriss, I’ve always really enjoyed the &lt;a href=&#34;https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf&#34;&gt;questions that he asks himself&lt;/a&gt; and &lt;a href=&#34;https://tim.blog/2017/10/03/tribe-of-mentors/&#34;&gt;others&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I also really enjoy LEARNING as much as I can from other people. And so, with that in mind, I’d like to “open source” my search for mentors and &lt;strong&gt;invite you, dear reader, to answer at least one of the questions below.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Please comment your answers below&lt;/strong&gt; this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email (&lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use my contact form here&lt;/a&gt;). Then, go ask these questions to others! Cheers!&lt;/p&gt;</description>
@@ -498,9 +488,9 @@
     </item>
     <item>
       <title>Why Haven’t You Torn The Sky Open Yet?</title>
-      <link>https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</link>
+      <link>http://localhost:1313/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</link>
       <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
-      <guid>https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</guid>
+      <guid>http://localhost:1313/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/</guid>
       <description>&lt;p&gt;&lt;em&gt;Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.&lt;/em&gt;&lt;/p&gt;
 &lt;figure class=&#34;wp-block-audio&#34;&gt;&lt;audio controls=&#34;&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3&#34;&gt;&lt;/audio&gt;&lt;/figure&gt;---
 &lt;h2 id=&#34;if-there-are-two-things-i-hate-they-are-waiting-and-staying-awake&#34;&gt;If there are two things I hate, they are waiting and staying awake.&lt;/h2&gt;
@@ -539,12 +529,8 @@
 <p>And it’s very tempting to begin the new liturgical year today by skipping straight to Christmas and leaving all that unhappy junk behind us!</p>
 <h2 id="but-advent-gets-in-our-way">But Advent gets in our way.</h2>
 <p>As Fleming Rutledge puts it in her collection of Advent sermons,</p>
-<blockquote>
-<p>“the season [of Advent] is not for the faint of heart.”</p></blockquote>
-<p>Why? Well, to borrow another phrase from her,</p>
-<blockquote>
-<p>“Advent begins in the dark.”</p></blockquote>
-<h2 id="you-see-advent-reminds-us-that-if-were-going-to-follow-jesus-we-need-to-stay-awake-and-wait-for-him-to-returnin-the-dark">You see, Advent reminds us that, if we’re going to follow Jesus, we need to stay awake and wait for him to return—in the dark.</h2>
+<blockquote><p>“the season [of Advent] is not for the faint of heart.”</p></blockquote><p>Why? Well, to borrow another phrase from her,</p>
+<blockquote><p>“Advent begins in the dark.”</p></blockquote><h2 id="you-see-advent-reminds-us-that-if-were-going-to-follow-jesus-we-need-to-stay-awake-and-wait-for-him-to-returnin-the-dark">You see, Advent reminds us that, if we’re going to follow Jesus, we need to stay awake and wait for him to return—in the dark.</h2>
 <p>And yes, I’ll admit that “Stay woke, people, it’s dark outside!” is a hard word for the weary. But I think it’s a good word.</p>
 <p>It’s certainly a much better word than “Everything’s fine, folks! Here, have some eggnog and, you know, try not to breathe on anybody!”</p>
 <p>Because, here’s the thing: when Jesus tells us to watch and wait for his return to judge the living and the dead, he’s not telling us to sit down, shut up, and keep a stiff upper lip.</p>
@@ -580,9 +566,7 @@
 <p>Did you catch that? <strong>Waiting for God means “gladly doing right” and “remembering God’s ways” by living according to his will! We don’t “wait for God” by sitting around and twiddling our thumbs!</strong></p>
 <p>But, I suppose, even thumb-twiddling would be better than what actually takes place! As Isaiah 64 goes on to describe, God’s people keep sinning despite God’s obvious anger. How, then, can we be saved?</p>
 <p>Verses 6 and 7 read:</p>
-<blockquote>
-<p>“All of us have become like one who is unclean, and all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind our sins sweep us away. No one calls on your name or strives to lay hold of you; for you have hidden your face from us and have given us over to our sins.”</p></blockquote>
-<p>Yes, biblical lament gives us the space to air our grievances to God. But we shouldn’t stop there. We should continually confess our sins to God—both individually <em>and</em> communally.</p>
+<blockquote><p>“All of us have become like one who is unclean, and all our righteous acts are like filthy rags; we all shrivel up like a leaf, and like the wind our sins sweep us away. No one calls on your name or strives to lay hold of you; for you have hidden your face from us and have given us over to our sins.”</p></blockquote><p>Yes, biblical lament gives us the space to air our grievances to God. But we shouldn’t stop there. We should continually confess our sins to God—both individually <em>and</em> communally.</p>
 <p>Do you hear how Isaiah is speaking for the people here? There’s a solidarity between the prophet and the people that I think should also characterize the Church.</p>
 <p>It’s not enough as Christians to say “not my problem” or “at least I’m not as bad as so-and-so!”</p>
 <p>No, instead, as we wait for the Lord, we need to ask ourselves:</p>
@@ -599,9 +583,7 @@
 <p><strong>Friends, our problem isn’t that we’re starved for information and data. No, we’re starved for insight and discernment.</strong></p>
 <p>So, if we’re going to read the news, we should first read our Bibles. And if we’re going to read our Bibles, we need to let the Bible read us.</p>
 <p>Dietrich Bonhoeffer correctly diagnosed a persistent problem when he said that:</p>
-<blockquote>
-<p>“We no longer read the Bible seriously. We read it no longer against ourselves but only for ourselves” (DBWE 11:377-78).</p></blockquote>
-<p>This particular facet of our sinfulness is called “confirmation bias.” Whether we’re reading the Bible or Facebook, we’re looking for things that confirm what we already think, feel, and do.</p>
+<blockquote><p>“We no longer read the Bible seriously. We read it no longer against ourselves but only for ourselves” (DBWE 11:377-78).</p></blockquote><p>This particular facet of our sinfulness is called “confirmation bias.” Whether we’re reading the Bible or Facebook, we’re looking for things that confirm what we already think, feel, and do.</p>
 <p>(And, in Facebook’s case, <em>it’s</em> showing us things that we tend to agree with!)</p>
 <p>As we watch and wait for the Lord, we need to push back against this. We need to let judgment begin with the household of God (1 Pet. 4:17) and lead the way for the world in terms of confession and repentance.</p>
 <p>Unfortunately, without the help of the Holy Spirit, we’re going to, at best, lead the way for the world in terms of self-righteousness and self-justification! Filthy rags, indeed.</p>
@@ -609,46 +591,36 @@
 <p>That’s why Isaiah is so indignant in his lament. Sure, it’s not God’s fault that we sin. But we sure can’t save ourselves!</p>
 <p>As Psalm 80 reminds us, we need our Shepherd, the LORD God of Hosts, to “restore us” and “make your face to shine on us, that we may be saved.”</p>
 <p>We can do our very best to keep watch, but, as Psalm 127:1 reminds us:</p>
-<blockquote>
-<p>“Unless the Lord watches over the city, the guards stand watch in vain.”</p></blockquote>
-<p>But, of course, for Isaiah, that’s the problem! God has “hidden [his] face from us” and has “given us over to our sins” (64:7)?</p>
+<blockquote><p>“Unless the Lord watches over the city, the guards stand watch in vain.”</p></blockquote><p>But, of course, for Isaiah, that’s the problem! God has “hidden [his] face from us” and has “given us over to our sins” (64:7)?</p>
 <p>“How then can we be saved?” (64:5)</p>
 <h2 id="in-almost-every-biblical-lament-there-is-a-turn-in-isaiah-64-its-in-verses-8-9">In almost every biblical lament, there is a “turn.” In Isaiah 64, it’s in verses 8-9:</h2>
-<blockquote>
-<p>“YET you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand.</p>
-<p>“Do not be angry beyond measure, Lord; do not remember our sins forever. Oh, look on us, we pray, for we are all your people.”</p></blockquote>
-<p>God is our Father. We are his children.</p>
+<blockquote><p>“YET you, Lord, are our Father. We are the clay, you are the potter; we are all the work of your hand.</p>
+<p>“Do not be angry beyond measure, Lord; do not remember our sins forever. Oh, look on us, we pray, for we are all your people.”</p></blockquote><p>God is our Father. We are his children.</p>
 <p>He may tarry, he may judge, he may allow us to experience consequences for our rebellion, but he will NOT “hold himself back” forever.</p>
 <p>He will NOT “keep silent” forever and “punish us beyond measure.”</p>
 <p>Why not?</p>
 <h2 id="because-although-were-still-awaiting-his-final-return-and-judgment-god-has-in-fact-torn-open-the-heavens-and-come-down-since-isaiahs-lament">Because, although we’re still awaiting his final return and judgment, God has, in fact, torn open the heavens and come down since Isaiah’s lament.</h2>
 <p>God has not kept silent.</p>
 <p>In fact, as the book of Hebrews reminds us:</p>
-<blockquote>
-<p>“In the past God spoke to our ancestors through the prophets [like Isaiah!] at many times and in various ways, but in these last days he has spoken to us by his Son” (1:1-2),</p></blockquote>
-<p>…at whose baptism the heavens were torn open and the Spirit descended upon him like a dove (Mark 1:10).</p>
+<blockquote><p>“In the past God spoke to our ancestors through the prophets [like Isaiah!] at many times and in various ways, but in these last days he has spoken to us by his Son” (1:1-2),</p></blockquote><p>…at whose baptism the heavens were torn open and the Spirit descended upon him like a dove (Mark 1:10).</p>
 <p>And God has not punished us beyond measure.</p>
 <p>In fact, as Isaiah 53:5 reminds us, in Christ, God himself</p>
-<blockquote>
-<p>“was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.”</p></blockquote>
-<p>You see, when Jesus’s body was torn upon the cross, the curtain in the Temple was torn in two, allowing us to enter the Holy of Holies with confidence by the blood of Christ!</p>
+<blockquote><p>“was pierced for our transgressions, he was crushed for our iniquities; the punishment that brought us peace was on him, and by his wounds we are healed.”</p></blockquote><p>You see, when Jesus’s body was torn upon the cross, the curtain in the Temple was torn in two, allowing us to enter the Holy of Holies with confidence by the blood of Christ!</p>
 <p>Friends, this is what gives us confidence to stay awake and wait for the Lord’s return, even when it’s dark outside.</p>
 <p>So, we can be brutally honest with God and we can confess our sins with confidence, even when the sun goes dark, the moon goes dim, and the stars fall from the sky.</p>
 <p>We can gladly do right and remember God’s ways, even when the earth gives way and the mountains fall into the heart of the sea.</p>
 <p>Why?</p>
 <p>Because we are God’s children and God is our Father.</p>
 <p>And so, we pray to Our Father:</p>
-<blockquote>
-<p>“Do not be angry beyond measure, Lord; do not remember our sins forever. Oh, look on us, we pray, for we are all your people” (Isa. 64:9).</p>
-<p>“Restore us, Lord God Almighty; make your face shine on us [in the face of your Son], that we may be saved.” (Ps. 80:19)</p></blockquote>
-<p>Amen.</p>
+<blockquote><p>“Do not be angry beyond measure, Lord; do not remember our sins forever. Oh, look on us, we pray, for we are all your people” (Isa. 64:9).</p>
+<p>“Restore us, Lord God Almighty; make your face shine on us [in the face of your Son], that we may be saved.” (Ps. 80:19)</p></blockquote><p>Amen.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>We switched Anglican Compass over from HostGator Shared to Bluehost VPS Hosting</title>
-      <link>https://joshuapsteele.com/we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/</link>
+      <link>http://localhost:1313/we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/</link>
       <pubDate>Sat, 16 May 2020 15:28:17 +0000</pubDate>
-      <guid>https://joshuapsteele.com/we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/</guid>
+      <guid>http://localhost:1313/we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/</guid>
       <description>&lt;p&gt;As of this morning, it looks like everything for &lt;a href=&#34;https://anglicancompass.com/&#34;&gt;Anglican Compass&lt;/a&gt; has been successfully moved over from our HostGator shared hosting to Bluehost VPS hosting.&lt;/p&gt;
 &lt;p&gt;I’m hoping that this new arrangement works well for us! Although, to be honest, it’s still an open question in my mind whether or not managed WordPress hosting with WPEngine would be a better fit. I just can’t quite tell whether or not it would be worth the extra cost, given our current traffic and budget.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>As of this morning, it looks like everything for <a href="https://anglicancompass.com/">Anglican Compass</a> has been successfully moved over from our HostGator shared hosting to Bluehost VPS hosting.</p>
@@ -664,9 +636,9 @@
     </item>
     <item>
       <title>&#34;They laughed when I became an Anglican, but when I started to pray!&#34; 27 Anglican Headline Ideas</title>
-      <link>https://joshuapsteele.com/they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/</link>
+      <link>http://localhost:1313/they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/</link>
       <pubDate>Thu, 16 Apr 2020 14:06:29 +0000</pubDate>
-      <guid>https://joshuapsteele.com/they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/</guid>
+      <guid>http://localhost:1313/they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/</guid>
       <description>&lt;p&gt;I’m reading my way through &lt;a href=&#34;https://amzn.to/2KdNASw&#34;&gt;the new (4th) edition of Robert Bly’s classic &lt;em&gt;The Copywriter’s Handbook&lt;/em&gt;&lt;/a&gt;. On pages 33–36, Bly offers “38 Model Headlines for Your ‘Swipe File.&amp;rsquo;” Here are some headlines ideas that came to mind, all geared to an Anglican context (&lt;a href=&#34;https://anglicanpastor.com/&#34;&gt;due to my work at AnglicanCompass.com&lt;/a&gt;).&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Why are Anglicans so angry?&lt;/li&gt;
@@ -731,9 +703,9 @@
     </item>
     <item>
       <title>Barth, Bonhoeffer, and the Sermon on the Mount (Dissertation Dispatch 2020-02-04)</title>
-      <link>https://joshuapsteele.com/barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/</link>
+      <link>http://localhost:1313/barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/</link>
       <pubDate>Tue, 04 Feb 2020 18:53:48 +0000</pubDate>
-      <guid>https://joshuapsteele.com/barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/</guid>
+      <guid>http://localhost:1313/barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/</guid>
       <description>&lt;p&gt;I’m still very much in the weeds, taking a closer look at how Bonhoeffer and Barth read the Sermon on the Mount.&lt;/p&gt;
 &lt;p&gt;Given the importance of the Sermon on Mount for Bonhoeffer’s life and work, I’m persuaded that there’s something important to be found here—something that will hopefully shed some light on the Barth-Bonhoeffer relationship re:their theological critiques of religion.&lt;/p&gt;
 &lt;p&gt;Additionally, there are at least two other tidbits that have me interested in how Barth and Bonhoeffer read the Sermon on the Mount.&lt;/p&gt;</description>
@@ -741,21 +713,17 @@
 <p>Given the importance of the Sermon on Mount for Bonhoeffer’s life and work, I’m persuaded that there’s something important to be found here—something that will hopefully shed some light on the Barth-Bonhoeffer relationship re:their theological critiques of religion.</p>
 <p>Additionally, there are at least two other tidbits that have me interested in how Barth and Bonhoeffer read the Sermon on the Mount.</p>
 <p><a href="https://relevantmagazine.com/culture/read-the-letter-dietrich-bonhoeffer-wrote-to-gandhi/">On October 17, 1934, Bonhoeffer wrote to Gandhi,</a> inquiring about the possibility of going to India in order to learn how to develop “a truly spiritual living Christian peace movement.” In that letter, Bonhoeffer writes:</p>
-<blockquote>
-<p>We are having great theologians in Germany—the greatest of them being in my opinion Karl Barth, whose disciple and friend I am happy to be—they are teaching us the great theological thoughts of the Reformation anew, but there is no-one to show us the way towards a new Christian life in uncompromising accordance with the Sermon on the Mount. It is in this respect that I am looking up to you for help.</p>
-<p><cite>Bonhoeffer to Gandhi, October 17, 1934</cite></p></blockquote>
-<p>On September 19, 1936, Bonhoeffer wrote the following to Karl Barth. He is commenting on their lack of communication since the fall of 1933.</p>
-<blockquote>
-<p>There are all sorts of reasons that I have not written since then. I always thought that if I were to write you, I would have to have something reasonable to say, but something reasonable in that sense was precisely what I never had, at least not such that I thought I might take up your time. And I still do not have that today. Besides, <strong>I also wanted to arrive at a certain point on my own with regard to the particular questions that emerged for me from Scripture and which constantly occupied me at the time; in the process I quite frankly repeatedly discovered that in several points I was probably moving away from what you yourself think about these questions. Basically the entire period was an ongoing, silent dispute with you, which is why I had to remain silent for a while. Primarily it involved questions concerning the interpretation of the Sermon on the Mount and the Pauline doctrine of justification and sanctification.</strong> I am currently working on this material and would very much have liked to ask you and hear your views on so many things.</p>
-<p><cite>Bonhoeffer to Barth, September 19, 1936 (DBWE 14:252-253), <strong>emphasis added</strong>.</cite></p></blockquote>
-<p>Now, what’s really intriguing to me is *why* Bonhoeffer would think, in 1934–36, that Barth’s interpretation of the Sermon on the Mount was insufficient. Was this just a general sense, based upon familiarity with Barth’s theology? Or did Bonhoeffer have some particular Barthian exegesis in mind?</p>
+<blockquote><p>We are having great theologians in Germany—the greatest of them being in my opinion Karl Barth, whose disciple and friend I am happy to be—they are teaching us the great theological thoughts of the Reformation anew, but there is no-one to show us the way towards a new Christian life in uncompromising accordance with the Sermon on the Mount. It is in this respect that I am looking up to you for help.</p>
+<p><cite>Bonhoeffer to Gandhi, October 17, 1934</cite></p></blockquote><p>On September 19, 1936, Bonhoeffer wrote the following to Karl Barth. He is commenting on their lack of communication since the fall of 1933.</p>
+<blockquote><p>There are all sorts of reasons that I have not written since then. I always thought that if I were to write you, I would have to have something reasonable to say, but something reasonable in that sense was precisely what I never had, at least not such that I thought I might take up your time. And I still do not have that today. Besides, <strong>I also wanted to arrive at a certain point on my own with regard to the particular questions that emerged for me from Scripture and which constantly occupied me at the time; in the process I quite frankly repeatedly discovered that in several points I was probably moving away from what you yourself think about these questions. Basically the entire period was an ongoing, silent dispute with you, which is why I had to remain silent for a while. Primarily it involved questions concerning the interpretation of the Sermon on the Mount and the Pauline doctrine of justification and sanctification.</strong> I am currently working on this material and would very much have liked to ask you and hear your views on so many things.</p>
+<p><cite>Bonhoeffer to Barth, September 19, 1936 (DBWE 14:252-253), <strong>emphasis added</strong>.</cite></p></blockquote><p>Now, what’s really intriguing to me is *why* Bonhoeffer would think, in 1934–36, that Barth’s interpretation of the Sermon on the Mount was insufficient. Was this just a general sense, based upon familiarity with Barth’s theology? Or did Bonhoeffer have some particular Barthian exegesis in mind?</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Quit claiming that we mutualists (egalitarians) don&#39;t take the Bible or tradition seriously.</title>
-      <link>https://joshuapsteele.com/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/</link>
+      <link>http://localhost:1313/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/</link>
       <pubDate>Sat, 16 Nov 2019 16:54:14 +0000</pubDate>
-      <guid>https://joshuapsteele.com/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/</guid>
+      <guid>http://localhost:1313/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/</guid>
       <description>&lt;p&gt;In the ongoing debate about women’s ordination (in the Anglican realm and beyond), I keep hearing oversimplified claims from hierarchicalists (or “complementarians,” but that’s not the most helpful term in this debate) that they have the &lt;em&gt;entirety&lt;/em&gt; of the Bible and Church tradition on their side.&lt;/p&gt;
 &lt;p&gt;Therefore, we mutualists (or “egalitarians,” but that’s not the most helpful term in this debate), it is argued, have arrived at our positions for various reasons—perhaps capitulation to liberal cultural trends and hermeneutical methods—but not because we’ve read Scripture or studied the history of the Church very carefully.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>In the ongoing debate about women’s ordination (in the Anglican realm and beyond), I keep hearing oversimplified claims from hierarchicalists (or “complementarians,” but that’s not the most helpful term in this debate) that they have the <em>entirety</em> of the Bible and Church tradition on their side.</p>
@@ -871,15 +839,12 @@
     </item>
     <item>
       <title>A Deacon&#39;s Last Day</title>
-      <link>https://joshuapsteele.com/a-deacons-last-day/</link>
+      <link>http://localhost:1313/a-deacons-last-day/</link>
       <pubDate>Sat, 02 Nov 2019 02:35:27 +0000</pubDate>
-      <guid>https://joshuapsteele.com/a-deacons-last-day/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;Lord Jesus, you are the Good Shepherd who cares for his flock: We ask you to bestow upon your Church the gifts of the Holy Spirit in abundance, and to raise up from among us faithful and able persons called to the ministries of Deacon, Priest, and Bishop. Inspire them to spend and be spent for the sake of the Gospel, and make them holy and loving servants and shepherds of the flock for whom you shed your most precious blood. Grant this for the sake of your love. Amen**.**&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<blockquote>
-<p>Lord Jesus, you are the Good Shepherd who cares for his flock: We ask you to bestow upon your Church the gifts of the Holy Spirit in abundance, and to raise up from among us faithful and able persons called to the ministries of Deacon, Priest, and Bishop. Inspire them to spend and be spent for the sake of the Gospel, and make them holy and loving servants and shepherds of the flock for whom you shed your most precious blood. Grant this for the sake of your love. Amen**.**</p>
-<p><cite>BCP 2019, 650.</cite></p></blockquote>
-<p>I’m getting ordained to the priesthood tomorrow, and I’m both humbled and honored to serve Christ’s Church in this way.</p>
+      <guid>http://localhost:1313/a-deacons-last-day/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;Lord Jesus, you are the Good Shepherd who cares for his flock: We ask you to bestow upon your Church the gifts of the Holy Spirit in abundance, and to raise up from among us faithful and able persons called to the ministries of Deacon, Priest, and Bishop. Inspire them to spend and be spent for the sake of the Gospel, and make them holy and loving servants and shepherds of the flock for whom you shed your most precious blood. Grant this for the sake of your love. Amen**.**&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<blockquote><p>Lord Jesus, you are the Good Shepherd who cares for his flock: We ask you to bestow upon your Church the gifts of the Holy Spirit in abundance, and to raise up from among us faithful and able persons called to the ministries of Deacon, Priest, and Bishop. Inspire them to spend and be spent for the sake of the Gospel, and make them holy and loving servants and shepherds of the flock for whom you shed your most precious blood. Grant this for the sake of your love. Amen**.**</p>
+<p><cite>BCP 2019, 650.</cite></p></blockquote><p>I’m getting ordained to the priesthood tomorrow, and I’m both humbled and honored to serve Christ’s Church in this way.</p>
 <p>Do I feel inherently worthy to be a <em>presbyter</em>? No.</p>
 <p>Me, a 28-year-old, an <em>elder</em>?</p>
 <p>But I do feel called.</p>
@@ -888,16 +853,14 @@
 <p>I feel called to equip the saints for the work of ministry, to help make “every Christian a theologian” a tangible reality in local churches.</p>
 <p>Would you join with me in praying that I would be a “holy and loving servant and shepherd of the flock for whom [Christ] shed [his] most precious blood”?</p>
 <p>Would you borrow the following words from the Prayer Book and pray them for me, Joshua Steele, a sinner?</p>
-<blockquote>
-<p>…Give your grace, we humbly pray, to all who are called to any office and ministry for your people; and so fill them with the truth of your doctrine and clothe them with holiness of life, that they may faithfully serve before you, to the glory of your great Name and for the benefit of your holy Church; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.</p>
-<p><cite>BCP 2019, 634.</cite></p></blockquote>
-]]></content:encoded>
+<blockquote><p>…Give your grace, we humbly pray, to all who are called to any office and ministry for your people; and so fill them with the truth of your doctrine and clothe them with holiness of life, that they may faithfully serve before you, to the glory of your great Name and for the benefit of your holy Church; through Jesus Christ our Lord, who lives and reigns with you, in the unity of the Holy Spirit, one God, now and for ever. Amen.</p>
+<p><cite>BCP 2019, 634.</cite></p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>Here&#39;s what I&#39;m committing myself to as a priest.</title>
-      <link>https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/</link>
+      <link>http://localhost:1313/heres-what-im-committing-myself-to-as-a-priest/</link>
       <pubDate>Mon, 28 Oct 2019 19:57:33 +0000</pubDate>
-      <guid>https://joshuapsteele.com/heres-what-im-committing-myself-to-as-a-priest/</guid>
+      <guid>http://localhost:1313/heres-what-im-committing-myself-to-as-a-priest/</guid>
       <description>&lt;p&gt;&lt;em&gt;I’m getting ordained to the priesthood&lt;/em&gt; &lt;a href=&#34;https://joshuapsteele.com/ordination/&#34;&gt;&lt;em&gt;this Saturday, November 02&lt;/em&gt;&lt;/a&gt;&lt;em&gt;. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-presentation&#34;&gt;The Presentation&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;The Bishop and People sit. The Presenters, standing before the Bishop, present the Ordinand, saying&lt;/em&gt;&lt;/p&gt;
@@ -910,20 +873,12 @@
 <p><em>Bishop:</em> Has <em>he</em> been selected in accordance with the Canons of this Church? And do you believe <em>his</em> manner of life to be suitable to the exercise of this ministry?</p>
 <p><em>Presenters:</em> We certify to you that <em>he</em> has satisfied the requirements of the Canons, and we believe <em>him</em> to be qualified for this Order.</p>
 <p><em>The Bishop shall then require the Ordinand to take the Oath of Conformity and the Oath of Canonical Obedience saying</em></p>
-<blockquote>
-<p>The Canons require that no Deacon may be ordained a Priest in the Church before subscribing without reservation to the Oath of Conformity. It is also required that each Ordinand subscribe without reservation to the Oath of Canonical Obedience. In the presence of this Congregation, I now charge you to make your solemn declaration of these oaths.</p></blockquote>
-<p><em>The Ordinand then declares</em></p>
+<blockquote><p>The Canons require that no Deacon may be ordained a Priest in the Church before subscribing without reservation to the Oath of Conformity. It is also required that each Ordinand subscribe without reservation to the Oath of Canonical Obedience. In the presence of this Congregation, I now charge you to make your solemn declaration of these oaths.</p></blockquote><p><em>The Ordinand then declares</em></p>
 <h3 id="the-oath-of-conformity">(The Oath of Conformity)</h3>
-<blockquote>
-<p>I, <em>N.N</em>., do believe the Holy Scriptures of the Old and New Testaments to be the Word of God and to contain all things necessary to salvation, and I consequently hold myself bound to conform my life and ministry thereto, and therefore I do solemnly engage to conform to the Doctrine, Discipline, and Worship of Christ as this Church has received them.</p></blockquote>
-<h3 id="the-oath-of-canonical-obedience">(The Oath of Canonical Obedience)</h3>
-<blockquote>
-<p>And I do promise, here in the presence of Almighty God and of the Church, that I will pay true and canonical obedience in all things lawful and honest to the Bishop of _______, and his successors, so help me God.</p></blockquote>
-<p><em>The Ordinand then signs the Oath of Conformity and the Oath of Canonical Obedience in the sight of all present.</em></p>
+<blockquote><p>I, <em>N.N</em>., do believe the Holy Scriptures of the Old and New Testaments to be the Word of God and to contain all things necessary to salvation, and I consequently hold myself bound to conform my life and ministry thereto, and therefore I do solemnly engage to conform to the Doctrine, Discipline, and Worship of Christ as this Church has received them.</p></blockquote><h3 id="the-oath-of-canonical-obedience">(The Oath of Canonical Obedience)</h3>
+<blockquote><p>And I do promise, here in the presence of Almighty God and of the Church, that I will pay true and canonical obedience in all things lawful and honest to the Bishop of _______, and his successors, so help me God.</p></blockquote><p><em>The Ordinand then signs the Oath of Conformity and the Oath of Canonical Obedience in the sight of all present.</em></p>
 <p><em>All stand. The Bishop says to the People</em></p>
-<blockquote>
-<p>Dear Brothers and Sisters in Christ, you know the importance of this ministry, and the weight of your responsibility in presenting <em>N.N.</em> for ordination to the sacred Priesthood. Therefore if any of you know of any impediment or crime because of which we should not proceed, come forward now and make it known.</p></blockquote>
-<p><em>If no objection is made, the Bishop continues</em></p>
+<blockquote><p>Dear Brothers and Sisters in Christ, you know the importance of this ministry, and the weight of your responsibility in presenting <em>N.N.</em> for ordination to the sacred Priesthood. Therefore if any of you know of any impediment or crime because of which we should not proceed, come forward now and make it known.</p></blockquote><p><em>If no objection is made, the Bishop continues</em></p>
 <p>Is it your will that <em>N</em>. be ordained a Priest?</p>
 <p><em>People:</em> <strong>It is.</strong></p>
 <p><em>Bishop:</em> Will you uphold <em>him</em> in this ministry?</p>
@@ -931,54 +886,33 @@
 <h2 id="the-exhortation">The Exhortation</h2>
 <p><em>All are seated except the Ordinand, who stands before the Bishop.</em></p>
 <p><em>The Bishop addresses the Ordinand as follows</em></p>
-<blockquote>
-<p>You have heard, during the Church’s discernment of your vocation and in the Holy Scriptures themselves, how weighty is this Office to which you are called. I now exhort you, in the Name of our Lord Jesus Christ, to be a messenger, watchman, and steward of the Lord. You are to teach, to warn, to feed, and to provide for the Lord’s family, and to seek for Christ’s sheep who are in the midst of this fallen world, that they may be saved through Christ for ever.</p>
+<blockquote><p>You have heard, during the Church’s discernment of your vocation and in the Holy Scriptures themselves, how weighty is this Office to which you are called. I now exhort you, in the Name of our Lord Jesus Christ, to be a messenger, watchman, and steward of the Lord. You are to teach, to warn, to feed, and to provide for the Lord’s family, and to seek for Christ’s sheep who are in the midst of this fallen world, that they may be saved through Christ for ever.</p>
 <p>Remember how great is this treasure committed to your charge. They are the sheep of Christ for whom he shed his blood. The Church and Congregation whom you will serve is his bride, his body. If the Church, or any of her members, is hurt or hindered by your negligence, you must know both the gravity of your fault, and the grievous judgment that will result.</p>
 <p>Therefore, consider the purpose of your ministry to the children of God. Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.</p>
-<p>And seeing that the demands of this holy Office are so great, lay aside all worldly distractions and take care to direct all that you do to this purpose: read, mark, learn, and inwardly digest the Scriptures, that you may show yourself both dutiful and thankful to the Lord; and frame your conduct, and that of your household and those committed to your care, according to the doctrine and discipline of Christ. Know, however, that you cannot accomplish this of yourself; for the will and the ability needed are given by God alone. Therefore, pray earnestly for his Holy Spirit to enlighten your mind and strengthen your resolve.</p></blockquote>
-<h2 id="the-examination">The Examination</h2>
+<p>And seeing that the demands of this holy Office are so great, lay aside all worldly distractions and take care to direct all that you do to this purpose: read, mark, learn, and inwardly digest the Scriptures, that you may show yourself both dutiful and thankful to the Lord; and frame your conduct, and that of your household and those committed to your care, according to the doctrine and discipline of Christ. Know, however, that you cannot accomplish this of yourself; for the will and the ability needed are given by God alone. Therefore, pray earnestly for his Holy Spirit to enlighten your mind and strengthen your resolve.</p></blockquote><h2 id="the-examination">The Examination</h2>
 <p><em>The Bishop then examines the Ordinand, saying</em></p>
-<blockquote>
-<p>So that this Congregation of Christ’s Church may know your intent in these things, I charge you to answer plainly these questions, which I, in the Name of God and his Church, now ask:</p>
-<p>Do you believe in your heart that you are truly called, according to the will of our Lord Jesus Christ, and according to the Canons of this Church, to the Order and ministry of the Priesthood?</p></blockquote>
-<p><em>Answer:</em> I do so believe.</p>
+<blockquote><p>So that this Congregation of Christ’s Church may know your intent in these things, I charge you to answer plainly these questions, which I, in the Name of God and his Church, now ask:</p>
+<p>Do you believe in your heart that you are truly called, according to the will of our Lord Jesus Christ, and according to the Canons of this Church, to the Order and ministry of the Priesthood?</p></blockquote><p><em>Answer:</em> I do so believe.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Do you believe that the Holy Scriptures contain all things necessary for salvation through faith in Jesus Christ? And are you determined out of the Holy Scriptures to instruct the people committed to your charge, and to teach or maintain nothing as necessary to eternal salvation but that which may be concluded and proved by the Scriptures?</p></blockquote>
-<p><em>Answer:</em> I do so believe, and I am so determined, the Lord being my helper.</p>
+<blockquote><p>Do you believe that the Holy Scriptures contain all things necessary for salvation through faith in Jesus Christ? And are you determined out of the Holy Scriptures to instruct the people committed to your charge, and to teach or maintain nothing as necessary to eternal salvation but that which may be concluded and proved by the Scriptures?</p></blockquote><p><em>Answer:</em> I do so believe, and I am so determined, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you then give your faithful diligence always so to minister the doctrine, sacraments, and discipline of Christ, as the Lord has commanded and as this Church has received them, according to the Commandments of God, so that you may teach the people committed to your charge with all diligence to keep and observe them?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you then give your faithful diligence always so to minister the doctrine, sacraments, and discipline of Christ, as the Lord has commanded and as this Church has received them, according to the Commandments of God, so that you may teach the people committed to your charge with all diligence to keep and observe them?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you be ready, with all faithful diligence, to banish and drive away from the Body of Christ all erroneous and strange doctrines contrary to God’s Word; and to use both public and private admonitions and exhortations, to the weak as well as the strong within your charge, as need shall require and occasion shall be given?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you be ready, with all faithful diligence, to banish and drive away from the Body of Christ all erroneous and strange doctrines contrary to God’s Word; and to use both public and private admonitions and exhortations, to the weak as well as the strong within your charge, as need shall require and occasion shall be given?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you be diligent in prayer, and in the reading of Holy Scripture, and in such study as may further the knowledge of the same, laying aside all distractions of the world and the flesh?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you be diligent in prayer, and in the reading of Holy Scripture, and in such study as may further the knowledge of the same, laying aside all distractions of the world and the flesh?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you be diligent to frame and fashion your own <em>life</em> [and the <em>life</em> of your <em>family</em>], according to the doctrine of Christ, and to make <em>yourself</em> [and them, as much as you are able], a wholesome example and pattern to the flock of Christ?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you be diligent to frame and fashion your own <em>life</em> [and the <em>life</em> of your <em>family</em>], according to the doctrine of Christ, and to make <em>yourself</em> [and them, as much as you are able], a wholesome example and pattern to the flock of Christ?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you maintain and set forward, as much as you are able, quietness, peace, and love among all Christian people, and especially among those who are or shall be committed to your charge?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you maintain and set forward, as much as you are able, quietness, peace, and love among all Christian people, and especially among those who are or shall be committed to your charge?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>Bishop:</em></p>
-<blockquote>
-<p>Will you reverently obey your Bishop and other chief Ministers who, according to the Canons of the Church, may have charge and authority over you, following with a glad mind and a good will their godly admonitions, and submitting yourself to their godly judgments?</p></blockquote>
-<p><em>Answer:</em> I will, the Lord being my helper.</p>
+<blockquote><p>Will you reverently obey your Bishop and other chief Ministers who, according to the Canons of the Church, may have charge and authority over you, following with a glad mind and a good will their godly admonitions, and submitting yourself to their godly judgments?</p></blockquote><p><em>Answer:</em> I will, the Lord being my helper.</p>
 <p><em>The Congregation may kneel, and prays silently for the fulfillment of these purposes.</em></p>
 <p><em>The Bishop prays</em></p>
-<blockquote>
-<p>Almighty God, our heavenly Father, who has given you a good will to do all these things, grant you also the strength and power to perform them, accomplishing in you the good work which he has begun, that you may be found perfect and without reproach on the last day; through Jesus Christ our Lord. Amen**.**</p></blockquote>
-<p><em>The Ordinand kneels or lies prostrate, facing the Bishop, with the priests present surrounding the Ordinand.</em></p>
+<blockquote><p>Almighty God, our heavenly Father, who has given you a good will to do all these things, grant you also the strength and power to perform them, accomplishing in you the good work which he has begun, that you may be found perfect and without reproach on the last day; through Jesus Christ our Lord. Amen**.**</p></blockquote><p><em>The Ordinand kneels or lies prostrate, facing the Bishop, with the priests present surrounding the Ordinand.</em></p>
 <p><em>The Veni, Creator Spiritus is sung or said as a prayer for the renewal of the Church.</em></p>
 <h2 id="veni-creator-spiritus">Veni, Creator Spiritus</h2>
-<blockquote>
-<p>Come, Holy Ghost, our souls inspire,<br>
+<blockquote><p>Come, Holy Ghost, our souls inspire,<br>
 And lighten with celestial fire.<br>
 Thou the anointing Spirit art,<br>
 Who dost thy sevenfold gifts impart.</p>
@@ -995,76 +929,55 @@ And thee, of both, to be but One;<br>
 That, through the ages all along,<br>
 This may be our endless song</p>
 <p>Praise to thy eternal merit,<br>
-Father, Son, and Holy Spirit.</p></blockquote>
-<h2 id="the-consecration-of-the-priest">The Consecration of the Priest</h2>
+Father, Son, and Holy Spirit.</p></blockquote><h2 id="the-consecration-of-the-priest">The Consecration of the Priest</h2>
 <p><em>All now stand as witnesses, except the Ordinand, who kneels facing the Bishop. The Bishop prays the following prayer, first saying</em></p>
 <p>Let us pray.</p>
-<blockquote>
-<p>Almighty God and most merciful Father, of your infinite love and goodness you have given your only Son Jesus Christ to be our redeemer and the author of everlasting life. After he had made perfect our redemption by his death and resurrection, and ascended into heaven, he sent into the whole world his apostles, prophets, evangelists, pastors, and teachers; by the Holy Spirit, through their labor and ministry, he gathered together a great flock to set forth the eternal praise of your holy Name. For these great benefits, and because you have called <em>this</em> your <em>servant</em> to the same office and ministry, we offer you our most hearty thanks; and we humbly ask that we may daily increase in the knowledge and faith of you and of your Son, and that by <em>this minister</em>, as well as by those entrusted to <em>his</em> care, your holy Name may for ever be glorified, and your blessed kingdom enlarged; through Jesus Christ our Lord. Amen**.**</p></blockquote>
-<p><em>The Bishop with the Priests present lay their hands upon the head of each one to receive the Order of Priesthood. The Bishop says</em></p>
-<blockquote>
-<p>Receive the Holy Spirit for the office and work of a Priest in the Church of God, now committed to you by the imposition of our hands. If you forgive the sins of anyone, they are forgiven. If you withhold forgiveness from anyone, it is withheld. Be a faithful minister of God’s holy Word and Sacraments; in the Name of the Father, and of the Son, and of the Holy Spirit.</p></blockquote>
-<p><em>The Bishop then prays the following over the Ordinand.</em></p>
-<blockquote>
-<p>Send your heavenly blessing upon <em>this</em> your <em>servant</em>, that <em>he</em> may be clothed with righteousness, and that your Word, spoken by <em>his</em> mouth, may have such success that it may never be spoken in vain. Grant also that we may have grace to hear and receive what <em>he</em> shall deliver out of your most holy Word as the means of our salvation; that in all our words and deeds we may seek your glory and the increase of your kingdom; through Jesus Christ our Lord, who lives and reigns with you in the unity of the Holy Spirit, world without end.</p></blockquote>
-<p><em>The People in a loud voice respond</em></p>
+<blockquote><p>Almighty God and most merciful Father, of your infinite love and goodness you have given your only Son Jesus Christ to be our redeemer and the author of everlasting life. After he had made perfect our redemption by his death and resurrection, and ascended into heaven, he sent into the whole world his apostles, prophets, evangelists, pastors, and teachers; by the Holy Spirit, through their labor and ministry, he gathered together a great flock to set forth the eternal praise of your holy Name. For these great benefits, and because you have called <em>this</em> your <em>servant</em> to the same office and ministry, we offer you our most hearty thanks; and we humbly ask that we may daily increase in the knowledge and faith of you and of your Son, and that by <em>this minister</em>, as well as by those entrusted to <em>his</em> care, your holy Name may for ever be glorified, and your blessed kingdom enlarged; through Jesus Christ our Lord. Amen**.**</p></blockquote><p><em>The Bishop with the Priests present lay their hands upon the head of each one to receive the Order of Priesthood. The Bishop says</em></p>
+<blockquote><p>Receive the Holy Spirit for the office and work of a Priest in the Church of God, now committed to you by the imposition of our hands. If you forgive the sins of anyone, they are forgiven. If you withhold forgiveness from anyone, it is withheld. Be a faithful minister of God’s holy Word and Sacraments; in the Name of the Father, and of the Son, and of the Holy Spirit.</p></blockquote><p><em>The Bishop then prays the following over the Ordinand.</em></p>
+<blockquote><p>Send your heavenly blessing upon <em>this</em> your <em>servant</em>, that <em>he</em> may be clothed with righteousness, and that your Word, spoken by <em>his</em> mouth, may have such success that it may never be spoken in vain. Grant also that we may have grace to hear and receive what <em>he</em> shall deliver out of your most holy Word as the means of our salvation; that in all our words and deeds we may seek your glory and the increase of your kingdom; through Jesus Christ our Lord, who lives and reigns with you in the unity of the Holy Spirit, world without end.</p></blockquote><p><em>The People in a loud voice respond</em></p>
 <p><strong>Amen.</strong></p>
 <p><em>The new Priest may now be vested according to the Order of Priests.</em></p>
 <p><em>As the Priest is vested with a stole, the Bishop says</em></p>
-<blockquote>
-<p>Take the yoke of the Lord, for his yoke is easy and his burden is light.</p></blockquote>
-<p><em>As the Priest is vested with a chasuble, the Bishop says</em></p>
-<blockquote>
-<p>Receive this priestly garment which symbolizes charity; for God is well able to give you an increase of charity and a perfect work.</p></blockquote>
-<p><em>The Bishop then anoints the hands of the new Priest with the Oil of Chrism, saying</em></p>
-<blockquote>
-<p>Grant, O Lord, to consecrate and sanctify these hands by this unction and by our blessing, that whatsoever they bless may be blessed, and whatsoever they consecrate may be consecrated and sanctified, in the Name of our Lord Jesus Christ. <strong>Amen.</strong></p></blockquote>
-<p><em>The Bishop then gives the new Priest a Bible in one hand and a chalice in the other hand saying</em></p>
-<blockquote>
-<p>Take authority to preach the Word of God and to administer the Holy Sacraments. Do not forget the trust committed to you as a Priest in the Church of God.</p></blockquote>
-]]></content:encoded>
+<blockquote><p>Take the yoke of the Lord, for his yoke is easy and his burden is light.</p></blockquote><p><em>As the Priest is vested with a chasuble, the Bishop says</em></p>
+<blockquote><p>Receive this priestly garment which symbolizes charity; for God is well able to give you an increase of charity and a perfect work.</p></blockquote><p><em>The Bishop then anoints the hands of the new Priest with the Oil of Chrism, saying</em></p>
+<blockquote><p>Grant, O Lord, to consecrate and sanctify these hands by this unction and by our blessing, that whatsoever they bless may be blessed, and whatsoever they consecrate may be consecrated and sanctified, in the Name of our Lord Jesus Christ. <strong>Amen.</strong></p></blockquote><p><em>The Bishop then gives the new Priest a Bible in one hand and a chalice in the other hand saying</em></p>
+<blockquote><p>Take authority to preach the Word of God and to administer the Holy Sacraments. Do not forget the trust committed to you as a Priest in the Church of God.</p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>A Prayer for Relatives and Friends</title>
-      <link>https://joshuapsteele.com/a-prayer-for-relatives-and-friends/</link>
+      <link>http://localhost:1313/a-prayer-for-relatives-and-friends/</link>
       <pubDate>Mon, 28 Oct 2019 19:36:59 +0000</pubDate>
-      <guid>https://joshuapsteele.com/a-prayer-for-relatives-and-friends/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;O Loving Father, we commend to your gracious keeping all who are near and dear to us.&lt;/p&gt;
+      <guid>http://localhost:1313/a-prayer-for-relatives-and-friends/</guid>
+      <description>&lt;blockquote&gt;&lt;p&gt;O Loving Father, we commend to your gracious keeping all who are near and dear to us.&lt;/p&gt;
 &lt;p&gt;Have mercy upon any who are sick, and comfort those who are in pain, anxiety, or sorrow.&lt;/p&gt;
 &lt;p&gt;Awaken all who are careless about eternal things.&lt;/p&gt;
 &lt;p&gt;Bless those who are young and in health, that they may give the days of their strength to you.&lt;/p&gt;
 &lt;p&gt;Comfort the aged and infirm, that your peace may rest upon them.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<blockquote>
-<p>O Loving Father, we commend to your gracious keeping all who are near and dear to us.</p>
+      <content:encoded><![CDATA[<blockquote><p>O Loving Father, we commend to your gracious keeping all who are near and dear to us.</p>
 <p>Have mercy upon any who are sick, and comfort those who are in pain, anxiety, or sorrow.</p>
 <p>Awaken all who are careless about eternal things.</p>
 <p>Bless those who are young and in health, that they may give the days of their strength to you.</p>
 <p>Comfort the aged and infirm, that your peace may rest upon them.</p>
 <p>Hallow the ties of kindred, that we may help and not hinder one another in all the good works that you have prepared for us to walk in; through Jesus Christ our Lord. Amen.</p>
-<p><cite>The ACNA Book of Common Prayer 2019, pp. 76–77.</cite></p></blockquote>
-]]></content:encoded>
+<p><cite>The ACNA Book of Common Prayer 2019, pp. 76–77.</cite></p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>&#34;Why You Never See Your Friends Anymore&#34; (The Atlantic)</title>
-      <link>https://joshuapsteele.com/why-you-never-see-your-friends-anymore-the-atlantic/</link>
+      <link>http://localhost:1313/why-you-never-see-your-friends-anymore-the-atlantic/</link>
       <pubDate>Wed, 16 Oct 2019 16:38:20 +0000</pubDate>
-      <guid>https://joshuapsteele.com/why-you-never-see-your-friends-anymore-the-atlantic/</guid>
+      <guid>http://localhost:1313/why-you-never-see-your-friends-anymore-the-atlantic/</guid>
       <description>&lt;p&gt;Judith Shulevitz offers up &lt;a href=&#34;https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/&#34;&gt;a (depressing) eye-opening analysis of our overbusy lives&lt;/a&gt;. There is another way! But community and Sabbath both require sacrifice.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Whereas we once shared the same temporal rhythms—five days on, two days off, federal holidays, thank-God-it’s-Fridays—our weeks are now shaped by the unpredictable dictates of our employers. Nearly a fifth of Americans hold jobs with nonstandard or variable hours. They may work seasonally, on rotating shifts, or in the gig economy driving for Uber or delivering for Postmates. Meanwhile, more people on the upper end of the pay scale are working long hours. Combine the people who have unpredictable workweeks with those who have prolonged ones, and you get a good third of the American labor force.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Whereas we once shared the same temporal rhythms—five days on, two days off, federal holidays, thank-God-it’s-Fridays—our weeks are now shaped by the unpredictable dictates of our employers. Nearly a fifth of Americans hold jobs with nonstandard or variable hours. They may work seasonally, on rotating shifts, or in the gig economy driving for Uber or delivering for Postmates. Meanwhile, more people on the upper end of the pay scale are working long hours. Combine the people who have unpredictable workweeks with those who have prolonged ones, and you get a good third of the American labor force.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Judith Shulevitz offers up <a href="https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/">a (depressing) eye-opening analysis of our overbusy lives</a>. There is another way! But community and Sabbath both require sacrifice.</p>
-<blockquote>
-<p>Whereas we once shared the same temporal rhythms—five days on, two days off, federal holidays, thank-God-it’s-Fridays—our weeks are now shaped by the unpredictable dictates of our employers. Nearly a fifth of Americans hold jobs with nonstandard or variable hours. They may work seasonally, on rotating shifts, or in the gig economy driving for Uber or delivering for Postmates. Meanwhile, more people on the upper end of the pay scale are working long hours. Combine the people who have unpredictable workweeks with those who have prolonged ones, and you get a good third of the American labor force.</p>
+<blockquote><p>Whereas we once shared the same temporal rhythms—five days on, two days off, federal holidays, thank-God-it’s-Fridays—our weeks are now shaped by the unpredictable dictates of our employers. Nearly a fifth of Americans hold jobs with nonstandard or variable hours. They may work seasonally, on rotating shifts, or in the gig economy driving for Uber or delivering for Postmates. Meanwhile, more people on the upper end of the pay scale are working long hours. Combine the people who have unpredictable workweeks with those who have prolonged ones, and you get a good third of the American labor force.</p>
 <p>The personalization of time may seem like a petty concern, and indeed some people consider it liberating to set their own hours or spend their “free” time reaching for the brass ring. But the consequences could be debilitating for the U.S. in the same way they once were for the U.S.S.R. A calendar is more than the organization of days and months. It’s the blueprint for a shared life.</p>
-<p><cite><a href="https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/">“Why You Never See Your Friends Anymore” (The Atlantic)</a></cite></p></blockquote>
-]]></content:encoded>
+<p><cite><a href="https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/">“Why You Never See Your Friends Anymore” (The Atlantic)</a></cite></p></blockquote>]]></content:encoded>
     </item>
     <item>
       <title>What are the most important theological terms that every Christian should know?</title>
-      <link>https://joshuapsteele.com/what-are-the-most-important-theological-terms-that-every-christian-should-know/</link>
+      <link>http://localhost:1313/what-are-the-most-important-theological-terms-that-every-christian-should-know/</link>
       <pubDate>Wed, 16 Oct 2019 14:14:20 +0000</pubDate>
-      <guid>https://joshuapsteele.com/what-are-the-most-important-theological-terms-that-every-christian-should-know/</guid>
+      <guid>http://localhost:1313/what-are-the-most-important-theological-terms-that-every-christian-should-know/</guid>
       <description>&lt;p&gt;Which theological terms would make your shortlist?&lt;/p&gt;
 &lt;p&gt;Here’s the list of terms found in “Jargon-Busting: A Glossary of Theological Terms,” at the back of &lt;a href=&#34;https://amzn.to/2MjFFF7&#34;&gt;Alister E. McGrath’s excellent &lt;/a&gt;&lt;em&gt;&lt;a href=&#34;https://amzn.to/2MjFFF7&#34;&gt;Christian Theology: An Introduction &lt;/a&gt;&lt;/em&gt;&lt;a href=&#34;https://amzn.to/2MjFFF7&#34;&gt;(25th Anniversary Edition)&lt;/a&gt;.&lt;/p&gt;
 &lt;ul&gt;
@@ -1303,9 +1216,9 @@ Father, Son, and Holy Spirit.</p></blockquote>
     </item>
     <item>
       <title>Here are all of William Witt&#39;s essays on Women&#39;s ordination, in a single PDF (with bookmarks!)</title>
-      <link>https://joshuapsteele.com/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/</link>
+      <link>http://localhost:1313/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/</link>
       <pubDate>Thu, 26 Sep 2019 15:28:25 +0000</pubDate>
-      <guid>https://joshuapsteele.com/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/</guid>
+      <guid>http://localhost:1313/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/</guid>
       <description>&lt;p&gt;Over on his blog, “Non Sermoni Res,” Dr. &lt;a href=&#34;http://willgwitt.org/category/theology/womens-ordination/&#34;&gt;William Witt has written several excellent essays on the topic of women’s ordination&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Here’s &lt;a href=&#34;http://willgwitt.org/a-guide-to-my-essays-about-womens-ordination/&#34;&gt;the guide that Witt put together in order to orient readers to his essays&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;What I’ve done is to combine the blog posts into a single PDF, with bookmarks. Here it is:&lt;/p&gt;
@@ -1317,9 +1230,9 @@ Father, Son, and Holy Spirit.</p></blockquote>
     </item>
     <item>
       <title>An Outline of Karl Barth&#39;s Church Dogmatics</title>
-      <link>https://joshuapsteele.com/an-outline-of-karl-barths-church-dogmatics/</link>
+      <link>http://localhost:1313/an-outline-of-karl-barths-church-dogmatics/</link>
       <pubDate>Tue, 03 Sep 2019 15:06:21 +0000</pubDate>
-      <guid>https://joshuapsteele.com/an-outline-of-karl-barths-church-dogmatics/</guid>
+      <guid>http://localhost:1313/an-outline-of-karl-barths-church-dogmatics/</guid>
       <description>&lt;figure class=&#34;wp-block-image&#34;&gt;![](https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png)&lt;figcaption class=&#34;wp-element-caption&#34;&gt;[Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/).&lt;/figcaption&gt;&lt;/figure&gt;If you’re trying to grasp the contours and contents of Karl Barth’s massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here’s a helpful PDF version, with subheadings included, from Princeton’s [Center for Barth Studies](http://barth.ptsem.edu).
 &lt;div class=&#34;wp-block-file aligncenter&#34;&gt;[Barth\_Outline of Church Dogmatics](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)[Download](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)&lt;/div&gt;Below is a version that I’ve created from my Logos edition of *Church Dogmatics*. It’s the version found in the Index (CD V/1, 1–13).
 &lt;p&gt;(Want to learn more about Karl Barth, but not quite ready to dive into the &lt;em&gt;Church Dogmatics&lt;/em&gt;? Check out Keith Johnson’s extremely helpful &lt;em&gt;&lt;a href=&#34;https://amzn.to/45IDpg5&#34;&gt;The Essential Karl Barth: A Reader and Commentary&lt;/a&gt;&lt;/em&gt; [affiliate link].)&lt;/p&gt;</description>
@@ -1535,35 +1448,24 @@ Father, Son, and Holy Spirit.</p></blockquote>
     </item>
     <item>
       <title>Barth, Bonhoeffer, and the Bible</title>
-      <link>https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/</link>
+      <link>http://localhost:1313/barth-bonhoeffer-and-the-bible/</link>
       <pubDate>Mon, 08 Jul 2019 16:57:05 +0000</pubDate>
-      <guid>https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/</guid>
+      <guid>http://localhost:1313/barth-bonhoeffer-and-the-bible/</guid>
       <description>&lt;h2 id=&#34;john-websters-idea&#34;&gt;John Webster’s Idea&lt;/h2&gt;
 &lt;p&gt;Like so many others, I desperately wish that John Webster were still alive.&lt;/p&gt;
 &lt;p&gt;After all, my dissertation topic owes much to his essay: “Reading the Bible: The Example of Barth and Bonhoeffer.”&lt;/p&gt;
 &lt;p&gt;The essay (previously published as &lt;a href=&#34;https://www.utpjournals.press/doi/abs/10.3138/tjt.17.1.75&#34;&gt;‘“In the Shadow of Biblical Work:” Barth and Bonhoeffer on Reading the Bible,’&lt;/a&gt;and then published in &lt;a href=&#34;https://amzn.to/2Jlh1Ti&#34;&gt;&lt;em&gt;Word and Church: Essays in Christian Dogmatics&lt;/em&gt;&lt;/a&gt;) begins:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Two things at least are clear about the relationship of Barth and Bonhoeffer: that disentangling the history of their relation is of considerable importance for making sense of Bonhoeffer, if not of Barth; and that the disentangling is a rather delicate operation which involves some discriminating interpretation of the writings of two complex theologians. Much, for example, hangs on what we are to make of Bonhoeffer’s scattered remarks on Barth, revelation and non-religious interpretation in the prison writings, and of Barth’s puzzled response to them (87).&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Two things at least are clear about the relationship of Barth and Bonhoeffer: that disentangling the history of their relation is of considerable importance for making sense of Bonhoeffer, if not of Barth; and that the disentangling is a rather delicate operation which involves some discriminating interpretation of the writings of two complex theologians. Much, for example, hangs on what we are to make of Bonhoeffer’s scattered remarks on Barth, revelation and non-religious interpretation in the prison writings, and of Barth’s puzzled response to them (87).&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="john-websters-idea">John Webster’s Idea</h2>
 <p>Like so many others, I desperately wish that John Webster were still alive.</p>
 <p>After all, my dissertation topic owes much to his essay: “Reading the Bible: The Example of Barth and Bonhoeffer.”</p>
 <p>The essay (previously published as <a href="https://www.utpjournals.press/doi/abs/10.3138/tjt.17.1.75">‘“In the Shadow of Biblical Work:” Barth and Bonhoeffer on Reading the Bible,’</a>and then published in <a href="https://amzn.to/2Jlh1Ti"><em>Word and Church: Essays in Christian Dogmatics</em></a>) begins:</p>
-<blockquote>
-<p>Two things at least are clear about the relationship of Barth and Bonhoeffer: that disentangling the history of their relation is of considerable importance for making sense of Bonhoeffer, if not of Barth; and that the disentangling is a rather delicate operation which involves some discriminating interpretation of the writings of two complex theologians. Much, for example, hangs on what we are to make of Bonhoeffer’s scattered remarks on Barth, revelation and non-religious interpretation in the prison writings, and of Barth’s puzzled response to them (87).</p></blockquote>
-<p>Here’s Webster’s suggestion for making sense of the Barth-Bonhoeffer relationship:</p>
-<blockquote>
-<p>rather than pursuing questions about positivism of revelation or about the worldly and ethical, light can be shed on the relation of Bonhoeffer and Barth by looking at the place of the interpretation of Scripture in their respective theologies. Both give a thoroughly theological depiction of reading Scripture, that is, a depiction in which language about God is direct and operative; both, therefore, define the human act of interpretation as radical attentiveness and self-relinquishment to God’s saving self-communication through the instrumentality of Holy Scripture. This, I suggest, is one of the points at which these two church theologians come very close to each other, and offer much food for thought to church and theology now (88–89).</p></blockquote>
-<p>He continues:</p>
-<blockquote>
-<p>My suggestion . . . is that an account of both Barth and Bonhoeffer, and equally an account of their relation, needs to give a good deal of attention to their writings on Scripture (90.)</p></blockquote>
-<p>Oddly enough, despite the mountains of secondary literature on Barth, Bonhoeffer, and their relationship, “Barth, Bonhoeffer, and the Bible” is still a gap! As Webster notes:</p>
-<blockquote>
-<p>Curiously, the significance of Scripture and its interpretation for understanding both Barth and Bonhoeffer has often been passed over rather quickly, and both have frequently been subjected to heavily conceptual interpretation (89).</p></blockquote>
-<p>Nevertheless, it appears to me that Webster’s essay—despite its many strengths—falls prey to his own accusation.</p>
+<blockquote><p>Two things at least are clear about the relationship of Barth and Bonhoeffer: that disentangling the history of their relation is of considerable importance for making sense of Bonhoeffer, if not of Barth; and that the disentangling is a rather delicate operation which involves some discriminating interpretation of the writings of two complex theologians. Much, for example, hangs on what we are to make of Bonhoeffer’s scattered remarks on Barth, revelation and non-religious interpretation in the prison writings, and of Barth’s puzzled response to them (87).</p></blockquote><p>Here’s Webster’s suggestion for making sense of the Barth-Bonhoeffer relationship:</p>
+<blockquote><p>rather than pursuing questions about positivism of revelation or about the worldly and ethical, light can be shed on the relation of Bonhoeffer and Barth by looking at the place of the interpretation of Scripture in their respective theologies. Both give a thoroughly theological depiction of reading Scripture, that is, a depiction in which language about God is direct and operative; both, therefore, define the human act of interpretation as radical attentiveness and self-relinquishment to God’s saving self-communication through the instrumentality of Holy Scripture. This, I suggest, is one of the points at which these two church theologians come very close to each other, and offer much food for thought to church and theology now (88–89).</p></blockquote><p>He continues:</p>
+<blockquote><p>My suggestion . . . is that an account of both Barth and Bonhoeffer, and equally an account of their relation, needs to give a good deal of attention to their writings on Scripture (90.)</p></blockquote><p>Oddly enough, despite the mountains of secondary literature on Barth, Bonhoeffer, and their relationship, “Barth, Bonhoeffer, and the Bible” is still a gap! As Webster notes:</p>
+<blockquote><p>Curiously, the significance of Scripture and its interpretation for understanding both Barth and Bonhoeffer has often been passed over rather quickly, and both have frequently been subjected to heavily conceptual interpretation (89).</p></blockquote><p>Nevertheless, it appears to me that Webster’s essay—despite its many strengths—falls prey to his own accusation.</p>
 <p>Don’t get me wrong. Webster successfully (in my opinion) demonstrates that</p>
-<blockquote>
-<p>“Neither Bonhoeffer nor Barth were <em>wissenschaftlich</em> theologians; both were practical or pastoral theologians of the church of Jesus Christ. . . . Both, in short, were members of the guild, so despised by Kant and most of his heirs, of biblical theologians” (108–9).</p></blockquote>
-<p>However, he does not address their expositions of specific biblical passages!</p>
+<blockquote><p>“Neither Bonhoeffer nor Barth were <em>wissenschaftlich</em> theologians; both were practical or pastoral theologians of the church of Jesus Christ. . . . Both, in short, were members of the guild, so despised by Kant and most of his heirs, of biblical theologians” (108–9).</p></blockquote><p>However, he does not address their expositions of specific biblical passages!</p>
 <h2 id="my-idea">My Idea</h2>
 <p>This, then, is what I would like to do.</p>
 <p>I want to follow John Webster’s suggestion that, in order to understand Barth and Bonhoeffer, we need to take a closer look at how they read the Bible.</p>
@@ -2407,18 +2309,18 @@ Father, Son, and Holy Spirit.</p></blockquote>
     </item>
     <item>
       <title>Only the Suffering God Can Help</title>
-      <link>https://joshuapsteele.com/only-the-suffering-god-can-help/</link>
+      <link>http://localhost:1313/only-the-suffering-god-can-help/</link>
       <pubDate>Sat, 20 Apr 2019 00:17:56 +0000</pubDate>
-      <guid>https://joshuapsteele.com/only-the-suffering-god-can-help/</guid>
+      <guid>http://localhost:1313/only-the-suffering-god-can-help/</guid>
       <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg&#34;&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><img loading="lazy" src="https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg"></p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Learn more about Rublev&#39;s Trinity icon [video]</title>
-      <link>https://joshuapsteele.com/learn-more-about-rublevs-trinity-icon-video/</link>
+      <link>http://localhost:1313/learn-more-about-rublevs-trinity-icon-video/</link>
       <pubDate>Fri, 08 Mar 2019 17:00:25 +0000</pubDate>
-      <guid>https://joshuapsteele.com/learn-more-about-rublevs-trinity-icon-video/</guid>
+      <guid>http://localhost:1313/learn-more-about-rublevs-trinity-icon-video/</guid>
       <description>&lt;p&gt;I’ve always wanted to learn more about &lt;a href=&#34;https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)&#34;&gt;Andrei Rublev’s famous icon of the Trinity&lt;/a&gt;. If you’re also curious, check out this video.&lt;/p&gt;
 &lt;figure class=&#34;wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio&#34;&gt;&lt;div class=&#34;wp-block-embed__wrapper&#34;&gt;&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;563&#34; loading=&#34;lazy&#34; src=&#34;https://www.youtube.com/embed/1hEBSu4Xh1w?feature=oembed&#34; title=&#34;The icon of Trinity-Andrei Roublev Episode 1&#34; width=&#34;750&#34;&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;/figure&gt;</description>
       <content:encoded><![CDATA[<p>I’ve always wanted to learn more about <a href="https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev)">Andrei Rublev’s famous icon of the Trinity</a>. If you’re also curious, check out this video.</p>

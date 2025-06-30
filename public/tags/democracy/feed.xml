@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Democracy on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/democracy/</link>
+    <link>http://localhost:1313/tags/democracy/</link>
     <description>Recent content in Democracy on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Jun 2025 09:43:52 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/democracy/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jun 2025 10:35:12 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/democracy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A Citizen&#39;s Manifesto: Working Principles for Democratic Renewal</title>
-      <link>https://joshuapsteele.com/blog/citizens-manifesto/</link>
+      <link>http://localhost:1313/citizens-manifesto/</link>
       <pubDate>Mon, 16 Jun 2025 09:19:37 -0400</pubDate>
-      <guid>https://joshuapsteele.com/blog/citizens-manifesto/</guid>
+      <guid>http://localhost:1313/citizens-manifesto/</guid>
       <description>&lt;p&gt;Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue.&lt;/p&gt;
 &lt;p&gt;Our &lt;a href=&#34;https://constitution.congress.gov/constitution/&#34;&gt;constitutional framework in the United States of America&lt;/a&gt; was designed to be amended, our institutions to be improved, and our understanding of justice to deepen with experience and wisdom. The greatest threat to democracy is not disagreement about these principles, but the abandonment of our shared commitment to wrestling with them together in good faith.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue.</p>

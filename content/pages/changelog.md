@@ -3,8 +3,9 @@ date: '2025-06-25T14:55:43-04:00'
 draft: true
 title: 'Changelog'
 ---
-> [!NOTE]
-> This `/changelog` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/changelog` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 # Website Changelog
 

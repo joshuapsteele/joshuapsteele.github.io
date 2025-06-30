@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Burkeman on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/burkeman/</link>
+    <link>http://localhost:1313/tags/burkeman/</link>
     <description>Recent content in Burkeman on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/burkeman/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/burkeman/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
-      <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
+      <link>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</guid>
+      <guid>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where in your life or your work are you currently pursuing comfort, when what&amp;rsquo;s called for is a little discomfort?&lt;/li&gt;
@@ -26,7 +26,7 @@
 &lt;li&gt;In which areas of life are you still holding back until you feel like you know what you&amp;rsquo;re doing?&lt;/li&gt;
 &lt;li&gt;How would you spend your days differently if you didn&amp;rsquo;t care so much about seeing your actions reach fruition?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Source: <a href="https://amzn.to/4fMUDyo"><em>Four Thousand Weeks: Time Management for Mortals</em></a> by Oliver Burkeman</p>
 <ol>
 <li>Where in your life or your work are you currently pursuing comfort, when what&rsquo;s called for is a little discomfort?</li>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Ten Tools for Embracing Finitude</title>
-      <link>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</link>
+      <link>http://localhost:1313/ten-tools-for-embracing-finitude/</link>
       <pubDate>Wed, 13 Nov 2024 16:40:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</guid>
+      <guid>http://localhost:1313/ten-tools-for-embracing-finitude/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Adopt a &amp;ldquo;fixed volume&amp;rdquo; approach to productivity

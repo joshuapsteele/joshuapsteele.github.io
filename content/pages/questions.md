@@ -3,8 +3,9 @@ author: joshuapsteele
 title: Questions
 showtoc: true
 ---
-> [!NOTE]
-> This `/questions` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/questions` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 

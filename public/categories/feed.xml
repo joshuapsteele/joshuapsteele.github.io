@@ -2,204 +2,204 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 16 Jun 2025 09:53:11 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Jun 2025 17:04:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal</title>
+      <link>http://localhost:1313/categories/personal/</link>
+      <pubDate>Tue, 24 Jun 2025 17:01:34 -0400</pubDate>
+      <guid>http://localhost:1313/categories/personal/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Politics</title>
-      <link>https://joshuapsteele.com/categories/politics/</link>
+      <link>http://localhost:1313/categories/politics/</link>
       <pubDate>Mon, 16 Jun 2025 09:19:37 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/politics/</guid>
+      <guid>http://localhost:1313/categories/politics/</guid>
       <description></description>
     </item>
     <item>
       <title>Theology</title>
-      <link>https://joshuapsteele.com/categories/theology/</link>
+      <link>http://localhost:1313/categories/theology/</link>
       <pubDate>Sat, 14 Jun 2025 10:00:12 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/theology/</guid>
+      <guid>http://localhost:1313/categories/theology/</guid>
       <description></description>
     </item>
     <item>
       <title>Lists</title>
-      <link>https://joshuapsteele.com/categories/lists/</link>
+      <link>http://localhost:1313/categories/lists/</link>
       <pubDate>Thu, 15 May 2025 17:11:46 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/lists/</guid>
+      <guid>http://localhost:1313/categories/lists/</guid>
       <description></description>
     </item>
     <item>
       <title>Religious</title>
-      <link>https://joshuapsteele.com/categories/religious/</link>
+      <link>http://localhost:1313/categories/religious/</link>
       <pubDate>Mon, 05 May 2025 14:26:00 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/religious/</guid>
+      <guid>http://localhost:1313/categories/religious/</guid>
       <description></description>
     </item>
     <item>
       <title>Theological</title>
-      <link>https://joshuapsteele.com/categories/theological/</link>
+      <link>http://localhost:1313/categories/theological/</link>
       <pubDate>Mon, 05 May 2025 14:26:00 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/theological/</guid>
+      <guid>http://localhost:1313/categories/theological/</guid>
       <description></description>
     </item>
     <item>
       <title>Architecture</title>
-      <link>https://joshuapsteele.com/categories/architecture/</link>
+      <link>http://localhost:1313/categories/architecture/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/architecture/</guid>
+      <guid>http://localhost:1313/categories/architecture/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Engineering</title>
-      <link>https://joshuapsteele.com/categories/software-engineering/</link>
+      <link>http://localhost:1313/categories/software-engineering/</link>
       <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/software-engineering/</guid>
+      <guid>http://localhost:1313/categories/software-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Justice</title>
-      <link>https://joshuapsteele.com/categories/justice/</link>
+      <link>http://localhost:1313/categories/justice/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/justice/</guid>
+      <guid>http://localhost:1313/categories/justice/</guid>
       <description></description>
     </item>
     <item>
       <title>Law</title>
-      <link>https://joshuapsteele.com/categories/law/</link>
+      <link>http://localhost:1313/categories/law/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/law/</guid>
+      <guid>http://localhost:1313/categories/law/</guid>
       <description></description>
     </item>
     <item>
       <title>Technology</title>
-      <link>https://joshuapsteele.com/categories/technology/</link>
+      <link>http://localhost:1313/categories/technology/</link>
       <pubDate>Wed, 09 Apr 2025 08:49:29 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/technology/</guid>
+      <guid>http://localhost:1313/categories/technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Tools</title>
-      <link>https://joshuapsteele.com/categories/tools/</link>
+      <link>http://localhost:1313/categories/tools/</link>
       <pubDate>Tue, 01 Apr 2025 08:25:13 -0400</pubDate>
-      <guid>https://joshuapsteele.com/categories/tools/</guid>
+      <guid>http://localhost:1313/categories/tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Bible</title>
-      <link>https://joshuapsteele.com/categories/bible/</link>
+      <link>http://localhost:1313/categories/bible/</link>
       <pubDate>Wed, 22 Jan 2025 08:12:07 -0500</pubDate>
-      <guid>https://joshuapsteele.com/categories/bible/</guid>
+      <guid>http://localhost:1313/categories/bible/</guid>
       <description></description>
     </item>
     <item>
       <title>DIY</title>
-      <link>https://joshuapsteele.com/categories/diy/</link>
+      <link>http://localhost:1313/categories/diy/</link>
       <pubDate>Fri, 17 Jan 2025 06:50:09 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/diy/</guid>
+      <guid>http://localhost:1313/categories/diy/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>https://joshuapsteele.com/categories/productivity/</link>
+      <link>http://localhost:1313/categories/productivity/</link>
       <pubDate>Tue, 14 Jan 2025 17:04:30 -0500</pubDate>
-      <guid>https://joshuapsteele.com/categories/productivity/</guid>
+      <guid>http://localhost:1313/categories/productivity/</guid>
       <description></description>
     </item>
     <item>
       <title>Reviews</title>
-      <link>https://joshuapsteele.com/categories/reviews/</link>
+      <link>http://localhost:1313/categories/reviews/</link>
       <pubDate>Mon, 13 Jan 2025 14:36:09 -0500</pubDate>
-      <guid>https://joshuapsteele.com/categories/reviews/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Personal</title>
-      <link>https://joshuapsteele.com/categories/personal/</link>
-      <pubDate>Fri, 10 Jan 2025 09:23:13 -0500</pubDate>
-      <guid>https://joshuapsteele.com/categories/personal/</guid>
+      <guid>http://localhost:1313/categories/reviews/</guid>
       <description></description>
     </item>
     <item>
       <title>Church and Society</title>
-      <link>https://joshuapsteele.com/categories/church-and-society/</link>
+      <link>http://localhost:1313/categories/church-and-society/</link>
       <pubDate>Sat, 07 Dec 2024 13:55:08 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/church-and-society/</guid>
+      <guid>http://localhost:1313/categories/church-and-society/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity and Time Management</title>
-      <link>https://joshuapsteele.com/categories/productivity-and-time-management/</link>
+      <link>http://localhost:1313/categories/productivity-and-time-management/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/categories/productivity-and-time-management/</guid>
+      <guid>http://localhost:1313/categories/productivity-and-time-management/</guid>
       <description></description>
     </item>
     <item>
       <title>Church and Theology</title>
-      <link>https://joshuapsteele.com/categories/church-and-theology/</link>
+      <link>http://localhost:1313/categories/church-and-theology/</link>
       <pubDate>Mon, 09 Sep 2024 14:03:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/church-and-theology/</guid>
+      <guid>http://localhost:1313/categories/church-and-theology/</guid>
       <description></description>
     </item>
     <item>
       <title>The Christian Life</title>
-      <link>https://joshuapsteele.com/categories/the-christian-life/</link>
+      <link>http://localhost:1313/categories/the-christian-life/</link>
       <pubDate>Mon, 09 Sep 2024 14:03:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/the-christian-life/</guid>
+      <guid>http://localhost:1313/categories/the-christian-life/</guid>
       <description></description>
     </item>
     <item>
       <title>Uncategorized</title>
-      <link>https://joshuapsteele.com/categories/uncategorized/</link>
+      <link>http://localhost:1313/categories/uncategorized/</link>
       <pubDate>Wed, 04 Sep 2024 10:51:34 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/uncategorized/</guid>
+      <guid>http://localhost:1313/categories/uncategorized/</guid>
       <description></description>
     </item>
     <item>
       <title>Pastoral Ministry</title>
-      <link>https://joshuapsteele.com/categories/pastoral-ministry/</link>
+      <link>http://localhost:1313/categories/pastoral-ministry/</link>
       <pubDate>Wed, 08 Nov 2023 19:50:28 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/pastoral-ministry/</guid>
+      <guid>http://localhost:1313/categories/pastoral-ministry/</guid>
       <description></description>
     </item>
     <item>
       <title>Ministry</title>
-      <link>https://joshuapsteele.com/categories/ministry/</link>
+      <link>http://localhost:1313/categories/ministry/</link>
       <pubDate>Thu, 07 Oct 2021 06:52:40 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/ministry/</guid>
+      <guid>http://localhost:1313/categories/ministry/</guid>
       <description></description>
     </item>
     <item>
       <title>Sermons</title>
-      <link>https://joshuapsteele.com/categories/sermons/</link>
+      <link>http://localhost:1313/categories/sermons/</link>
       <pubDate>Sat, 28 Nov 2020 00:22:13 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/sermons/</guid>
+      <guid>http://localhost:1313/categories/sermons/</guid>
       <description></description>
     </item>
     <item>
       <title>Dissertation</title>
-      <link>https://joshuapsteele.com/categories/dissertation/</link>
+      <link>http://localhost:1313/categories/dissertation/</link>
       <pubDate>Wed, 25 Nov 2020 18:09:02 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/dissertation/</guid>
+      <guid>http://localhost:1313/categories/dissertation/</guid>
       <description></description>
     </item>
     <item>
       <title>Opinion</title>
-      <link>https://joshuapsteele.com/categories/opinion/</link>
+      <link>http://localhost:1313/categories/opinion/</link>
       <pubDate>Thu, 02 Jul 2020 06:00:53 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/opinion/</guid>
+      <guid>http://localhost:1313/categories/opinion/</guid>
       <description></description>
     </item>
     <item>
       <title>Anglicanism</title>
-      <link>https://joshuapsteele.com/categories/anglicanism/</link>
+      <link>http://localhost:1313/categories/anglicanism/</link>
       <pubDate>Thu, 26 Sep 2019 05:00:18 +0000</pubDate>
-      <guid>https://joshuapsteele.com/categories/anglicanism/</guid>
+      <guid>http://localhost:1313/categories/anglicanism/</guid>
       <description></description>
     </item>
   </channel>

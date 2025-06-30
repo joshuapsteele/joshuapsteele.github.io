@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Computer on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/computer/</link>
+    <link>http://localhost:1313/tags/computer/</link>
     <description>Recent content in Computer on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:26:24 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/computer/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/computer/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devs: How Does Your Personal Laptop Compare to Your Work Laptop?</title>
-      <link>https://joshuapsteele.com/personal-vs-work-laptop/</link>
+      <link>http://localhost:1313/personal-vs-work-laptop/</link>
       <pubDate>Wed, 09 Apr 2025 08:49:29 -0400</pubDate>
-      <guid>https://joshuapsteele.com/personal-vs-work-laptop/</guid>
+      <guid>http://localhost:1313/personal-vs-work-laptop/</guid>
       <description>&lt;p&gt;How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with?&lt;/p&gt;
 &lt;p&gt;Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since &lt;a href=&#34;https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/&#34;&gt;costs might go up soon for electronics, due to tariffs&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;For work, I&amp;rsquo;ve got a 2019 MacBook Pro. More details below:&lt;/p&gt;

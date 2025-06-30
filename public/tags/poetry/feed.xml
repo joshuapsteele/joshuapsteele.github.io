@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Poetry on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/poetry/</link>
+    <link>http://localhost:1313/tags/poetry/</link>
     <description>Recent content in Poetry on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 14 Jun 2025 10:12:23 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/poetry/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/poetry/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>No Kings</title>
-      <link>https://joshuapsteele.com/no-kings/</link>
+      <link>http://localhost:1313/no-kings/</link>
       <pubDate>Sat, 14 Jun 2025 10:00:12 -0400</pubDate>
-      <guid>https://joshuapsteele.com/no-kings/</guid>
+      <guid>http://localhost:1313/no-kings/</guid>
       <description>&lt;p&gt;No kings, save One, the King of Kings,&lt;br&gt;
 whose kingdom peace and justice brings.&lt;/p&gt;
 &lt;p&gt;No kings, but He who blessed the poor,&lt;br&gt;
@@ -58,9 +58,9 @@ No kings, save One, the King of Kings.</p>
     </item>
     <item>
       <title>O Come, O Come, Emmanuel: Extra Verses</title>
-      <link>https://joshuapsteele.com/o-come-o-come-emmanuel-extra-verses/</link>
+      <link>http://localhost:1313/o-come-o-come-emmanuel-extra-verses/</link>
       <pubDate>Sat, 07 Dec 2024 13:55:08 +0000</pubDate>
-      <guid>https://joshuapsteele.com/o-come-o-come-emmanuel-extra-verses/</guid>
+      <guid>http://localhost:1313/o-come-o-come-emmanuel-extra-verses/</guid>
       <description>&lt;p&gt;&amp;ldquo;O Come, O Come, Emmanuel&amp;rdquo; has long been one of my favorite hymns. This Advent, I&amp;rsquo;ve decided to write some additional verses. They emphasize God&amp;rsquo;s heart for the poor and the powerless.&lt;/p&gt;
 &lt;p&gt;If you read the Bible looking for these themes, they show up almost everywhere. However, in particular, I&amp;rsquo;ve drawn from Leviticus 25, Psalm 113, Isaiah 58, Amos 5, Luke 1, and Luke 14.&lt;/p&gt;
 &lt;p&gt;O come, Defender of the weak,&lt;br&gt;
@@ -89,23 +89,20 @@ And righteousness for all abound!</p>
     </item>
     <item>
       <title>Wedding Vows: My Personal Take on the Traditional Version</title>
-      <link>https://joshuapsteele.com/wedding-vows/</link>
+      <link>http://localhost:1313/wedding-vows/</link>
       <pubDate>Tue, 14 Aug 2012 20:20:39 +0000</pubDate>
-      <guid>https://joshuapsteele.com/wedding-vows/</guid>
+      <guid>http://localhost:1313/wedding-vows/</guid>
       <description>&lt;h1 id=&#34;the-traditional-wedding-vows&#34;&gt;The Traditional Wedding Vows&lt;/h1&gt;
 &lt;p&gt;In case you didn’t know, the “traditional” wedding vows – in English, at least – are found in the &lt;a href=&#34;http://www.bcponline.org/&#34;&gt;Book of Common Prayer&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In the &lt;a href=&#34;http://justus.anglican.org/resources/bcp/1662/baskerville.htm&#34;&gt;1662 Book of Common Prayer&lt;/a&gt;, the marriage vows read as follows:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;I M. take thee N. to my wedded wife, to have and to hold,&lt;/strong&gt;&lt;br&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;strong&gt;I M. take thee N. to my wedded wife, to have and to hold,&lt;/strong&gt;&lt;br&gt;
 &lt;strong&gt;from this day forward, for better for worſe, for richer for poorer, in ſickneſs and in health, to love and to cheriſh, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.&lt;/strong&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h1 id="the-traditional-wedding-vows">The Traditional Wedding Vows</h1>
 <p>In case you didn’t know, the “traditional” wedding vows – in English, at least – are found in the <a href="http://www.bcponline.org/">Book of Common Prayer</a>.</p>
 <p>In the <a href="http://justus.anglican.org/resources/bcp/1662/baskerville.htm">1662 Book of Common Prayer</a>, the marriage vows read as follows:</p>
-<blockquote>
-<p><strong>I M. take thee N. to my wedded wife, to have and to hold,</strong><br>
+<blockquote><p><strong>I M. take thee N. to my wedded wife, to have and to hold,</strong><br>
 <strong>from this day forward, for better for worſe, for richer for poorer, in ſickneſs and in health, to love and to cheriſh, till death us do part, according to God’s holy ordinance; and thereto I plight thee my troth.</strong></p>
-<p><strong>I N. take thee M. to my wedded huſband, to have and to hold from this day forward, for better for worſe, for richer for poorer, in ſickneſs and in health, to love, cheriſh, and to obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.</strong></p></blockquote>
-<p>When we got married in August 2012, my wife, Rachel, and I decided to write our own vows, at least loosely based upon the traditional vows. (Give us a break, we weren’t yet Anglicans!)</p>
+<p><strong>I N. take thee M. to my wedded huſband, to have and to hold from this day forward, for better for worſe, for richer for poorer, in ſickneſs and in health, to love, cheriſh, and to obey, till death us do part, according to God’s holy ordinance; and thereto I give thee my troth.</strong></p></blockquote><p>When we got married in August 2012, my wife, Rachel, and I decided to write our own vows, at least loosely based upon the traditional vows. (Give us a break, we weren’t yet Anglicans!)</p>
 <p>So, here are the vows I wrote, and still endeavor to keep as Rachel’s husband!</p>
 <h1 id="my-wedding-vows">My Wedding Vows</h1>
 <p>I, Joshua Patrick Steele, pledge myself to you, Rachel Elizabeth, as your husband.</p>
@@ -131,9 +128,9 @@ And righteousness for all abound!</p>
     </item>
     <item>
       <title>From a Grateful Son: A Mother&#39;s Day Poem</title>
-      <link>https://joshuapsteele.com/mothers-day-poem/</link>
+      <link>http://localhost:1313/mothers-day-poem/</link>
       <pubDate>Sun, 10 May 2009 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/mothers-day-poem/</guid>
+      <guid>http://localhost:1313/mothers-day-poem/</guid>
       <description>&lt;p&gt;The following is an original Mother’s Day poem of mine, that I wrote for my mom (the best mom ever, of course) back in 2009. It’s called “From a Grateful Son,” and I hope that you enjoy it.&lt;/p&gt;
 &lt;h2 id=&#34;from-a-grateful-son--a-poem-for-my-mother&#34;&gt;From a Grateful Son – A Poem for My Mother&lt;/h2&gt;
 &lt;p&gt;Thank you, Mom, for having me&lt;br&gt;

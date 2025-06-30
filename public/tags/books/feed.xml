@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Books on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/books/</link>
+    <link>http://localhost:1313/tags/books/</link>
     <description>Recent content in Books on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/books/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/books/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Essential Reads for New Software Developers: The Effective Engineer and The Missing README</title>
-      <link>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</link>
+      <link>http://localhost:1313/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</link>
       <pubDate>Mon, 03 Jul 2023 21:08:09 +0000</pubDate>
-      <guid>https://joshuapsteele.com/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</guid>
+      <guid>http://localhost:1313/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/</guid>
       <description>&lt;p&gt;Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.&lt;/p&gt;
 &lt;p&gt;However, it’s essential to understand that coding and programming skills, while crucial, are just one part of a broader equation. Equally important is the bigger picture of how software development fits into the wider professional and business environment.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.</p>

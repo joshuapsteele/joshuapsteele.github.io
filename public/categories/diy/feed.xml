@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>DIY on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/diy/</link>
+    <link>http://localhost:1313/categories/diy/</link>
     <description>Recent content in DIY on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/diy/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/diy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Diagnostic Toos for Homeowners</title>
-      <link>https://joshuapsteele.com/diagnostic-tools-for-homeowners/</link>
+      <link>http://localhost:1313/diagnostic-tools-for-homeowners/</link>
       <pubDate>Fri, 17 Jan 2025 06:50:09 +0000</pubDate>
-      <guid>https://joshuapsteele.com/diagnostic-tools-for-homeowners/</guid>
+      <guid>http://localhost:1313/diagnostic-tools-for-homeowners/</guid>
       <description>&lt;p&gt;Since buying our first house about a year ago, I&amp;rsquo;ve gotten really into DIY home repair, home improvement, etc. As a software engineer, I find that working with physical tools on physical problems is a refreshing change of pace after staring at a screen all day!&lt;/p&gt;
 &lt;p&gt;Plus, it&amp;rsquo;s an excuse to buy a bunch of tools!&lt;/p&gt;
 &lt;p&gt;Speaking of tools, I&amp;rsquo;ve been thinking about diagnostic tools that would be helpful for a homeowner to own. Here&amp;rsquo;s a list of the ones I own, organized roughly in order of importance.&lt;/p&gt;</description>

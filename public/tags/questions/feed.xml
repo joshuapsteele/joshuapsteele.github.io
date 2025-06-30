@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Questions on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/questions/</link>
+    <link>http://localhost:1313/tags/questions/</link>
     <description>Recent content in Questions on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/questions/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/questions/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Questions at the Start of My Notebook</title>
-      <link>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</link>
+      <link>http://localhost:1313/questions-at-the-start-of-my-notebook/</link>
       <pubDate>Tue, 14 Jan 2025 17:04:30 -0500</pubDate>
-      <guid>https://joshuapsteele.com/questions-at-the-start-of-my-notebook/</guid>
+      <guid>http://localhost:1313/questions-at-the-start-of-my-notebook/</guid>
       <description>&lt;p&gt;For the past few years, I&amp;rsquo;ve loosely followed &lt;a href=&#34;https://bulletjournal.com/&#34;&gt;the &amp;ldquo;Bullet Journal&amp;rdquo; method of note-taking&lt;/a&gt;. Usually in a &lt;a href=&#34;https://amzn.to/4aiTbCs&#34;&gt;Leuchtturm1917 Hardcover A5 notebook with dotted pages&lt;/a&gt; (the best!).&lt;/p&gt;
 &lt;p&gt;Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s what I&amp;rsquo;ve written at the start of my current notebook.&lt;/p&gt;</description>
@@ -238,9 +238,9 @@
     </item>
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
-      <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
+      <link>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</guid>
+      <guid>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where in your life or your work are you currently pursuing comfort, when what&amp;rsquo;s called for is a little discomfort?&lt;/li&gt;
@@ -249,7 +249,7 @@
 &lt;li&gt;In which areas of life are you still holding back until you feel like you know what you&amp;rsquo;re doing?&lt;/li&gt;
 &lt;li&gt;How would you spend your days differently if you didn&amp;rsquo;t care so much about seeing your actions reach fruition?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Source: <a href="https://amzn.to/4fMUDyo"><em>Four Thousand Weeks: Time Management for Mortals</em></a> by Oliver Burkeman</p>
 <ol>
 <li>Where in your life or your work are you currently pursuing comfort, when what&rsquo;s called for is a little discomfort?</li>
@@ -263,10 +263,10 @@
     </item>
     <item>
       <title>Questions Worth Asking (Self-Elicitation Questions)</title>
-      <link>https://joshuapsteele.com/questions-worth-asking/</link>
+      <link>http://localhost:1313/questions-worth-asking/</link>
       <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/questions-worth-asking/</guid>
-      <description>&lt;p&gt;These are questions that are always worth asking yourself. For a list of questions I&amp;rsquo;m currently asking and investigating, see &lt;a href=&#34;https://joshuapsteele.com/questions&#34;&gt;my &lt;code&gt;/questions&lt;/code&gt; page&lt;/a&gt;.&lt;/p&gt;
+      <guid>http://localhost:1313/questions-worth-asking/</guid>
+      <description>&lt;p&gt;These are questions that are always worth asking yourself. For a list of questions I&amp;rsquo;m currently asking and investigating, see &lt;a href=&#34;http://localhost:1313/questions&#34;&gt;my &lt;code&gt;/questions&lt;/code&gt; page&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;five-minute-journal-questions&#34;&gt;Five-Minute Journal Questions&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Morning
@@ -638,9 +638,9 @@
     </item>
     <item>
       <title>Mentor Me! 11 Questions I&#39;d Like You to Answer</title>
-      <link>https://joshuapsteele.com/mentor-me/</link>
+      <link>http://localhost:1313/mentor-me/</link>
       <pubDate>Fri, 15 Apr 2022 20:24:45 +0000</pubDate>
-      <guid>https://joshuapsteele.com/mentor-me/</guid>
+      <guid>http://localhost:1313/mentor-me/</guid>
       <description>&lt;p&gt;Say what you will about Tim Ferriss, I’ve always really enjoyed the &lt;a href=&#34;https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf&#34;&gt;questions that he asks himself&lt;/a&gt; and &lt;a href=&#34;https://tim.blog/2017/10/03/tribe-of-mentors/&#34;&gt;others&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I also really enjoy LEARNING as much as I can from other people. And so, with that in mind, I’d like to “open source” my search for mentors and &lt;strong&gt;invite you, dear reader, to answer at least one of the questions below.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Please comment your answers below&lt;/strong&gt; this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email (&lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use my contact form here&lt;/a&gt;). Then, go ask these questions to others! Cheers!&lt;/p&gt;</description>
@@ -666,12 +666,11 @@
     </item>
     <item>
       <title>8 Questions to Ask While Reading Theology</title>
-      <link>https://joshuapsteele.com/8-questions-to-ask-while-reading-theology/</link>
+      <link>http://localhost:1313/8-questions-to-ask-while-reading-theology/</link>
       <pubDate>Thu, 16 Aug 2018 15:11:12 +0000</pubDate>
-      <guid>https://joshuapsteele.com/8-questions-to-ask-while-reading-theology/</guid>
+      <guid>http://localhost:1313/8-questions-to-ask-while-reading-theology/</guid>
       <description>&lt;p&gt;While reading Beth Felker Jones’ &lt;a href=&#34;https://amzn.to/2vLkeEo&#34;&gt;&lt;em&gt;Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically&lt;/em&gt;&lt;/a&gt;, I came across the following list of extremely helpful questions to ask while reading theology (on page 29).&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
+&lt;blockquote&gt;&lt;ol&gt;
 &lt;li&gt;What are the key Christian teachings being articulated? What is the author’s driving concern or main theme?&lt;/li&gt;
 &lt;li&gt;What counts for the author as authoritative (Scripture, tradition, reason, experience…)? Is the author’s theological method implicit or explicit?&lt;/li&gt;
 &lt;li&gt;How does the author deal with the witness of Scripture?&lt;br&gt;
@@ -684,11 +683,9 @@ d. What interpretive principles are at work?&lt;/li&gt;
 &lt;li&gt;Practice reading charitably. What is the best possible interpretation of how the piece reflects an attempt to be faithful to Jesus Christ?&lt;/li&gt;
 &lt;li&gt;How do these theological claims relate to the life of faith? Doe you bring other questions from your experience?&lt;/li&gt;
 &lt;li&gt;If this theological proposal were taken seriously, how would it shape Christian practice? Would it affect our participation in spiritual disciplines? Our understanding of faithful living? Our practice of evangelism? Our life as the church?&lt;/li&gt;
-&lt;/ol&gt;&lt;/blockquote&gt;
-&lt;p&gt;Add this to my &lt;a href=&#34;https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/&#34;&gt;1 simple trick to read faster&lt;/a&gt;, &lt;a href=&#34;https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/&#34;&gt;4 questions to ask while reading a book&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/questions-to-ask-when-you-study-bible/&#34;&gt;3 questions to ask while reading the Bible&lt;/a&gt;.&lt;/p&gt;</description>
+&lt;/ol&gt;&lt;/blockquote&gt;&lt;p&gt;Add this to my &lt;a href=&#34;https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/&#34;&gt;1 simple trick to read faster&lt;/a&gt;, &lt;a href=&#34;https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/&#34;&gt;4 questions to ask while reading a book&lt;/a&gt;, and &lt;a href=&#34;https://joshuapsteele.com/questions-to-ask-when-you-study-bible/&#34;&gt;3 questions to ask while reading the Bible&lt;/a&gt;.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>While reading Beth Felker Jones’ <a href="https://amzn.to/2vLkeEo"><em>Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically</em></a>, I came across the following list of extremely helpful questions to ask while reading theology (on page 29).</p>
-<blockquote>
-<ol>
+<blockquote><ol>
 <li>What are the key Christian teachings being articulated? What is the author’s driving concern or main theme?</li>
 <li>What counts for the author as authoritative (Scripture, tradition, reason, experience…)? Is the author’s theological method implicit or explicit?</li>
 <li>How does the author deal with the witness of Scripture?<br>
@@ -701,17 +698,16 @@ d. What interpretive principles are at work?</li>
 <li>Practice reading charitably. What is the best possible interpretation of how the piece reflects an attempt to be faithful to Jesus Christ?</li>
 <li>How do these theological claims relate to the life of faith? Doe you bring other questions from your experience?</li>
 <li>If this theological proposal were taken seriously, how would it shape Christian practice? Would it affect our participation in spiritual disciplines? Our understanding of faithful living? Our practice of evangelism? Our life as the church?</li>
-</ol></blockquote>
-<p>Add this to my <a href="https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/">1 simple trick to read faster</a>, <a href="https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/">4 questions to ask while reading a book</a>, and <a href="https://joshuapsteele.com/questions-to-ask-when-you-study-bible/">3 questions to ask while reading the Bible</a>.</p>
+</ol></blockquote><p>Add this to my <a href="https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/">1 simple trick to read faster</a>, <a href="https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/">4 questions to ask while reading a book</a>, and <a href="https://joshuapsteele.com/questions-to-ask-when-you-study-bible/">3 questions to ask while reading the Bible</a>.</p>
 <hr>
 <p><em>Note: some of the links in this post are <strong>affiliate links</strong>. This means that, if you click on the link and make a purchase, then, at no extra cost to you, I receive a small commission. I only ever recommend resources that I know will benefit my readers! If you’re interested in these resources, buying them through the affiliate links is a way that you can support my work!</em></p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Cut the &#34;Positivity&#34; Crap: What Frustrates You?</title>
-      <link>https://joshuapsteele.com/cut-positivity-crap-frustrates/</link>
+      <link>http://localhost:1313/cut-positivity-crap-frustrates/</link>
       <pubDate>Wed, 28 Feb 2018 17:06:33 +0000</pubDate>
-      <guid>https://joshuapsteele.com/cut-positivity-crap-frustrates/</guid>
+      <guid>http://localhost:1313/cut-positivity-crap-frustrates/</guid>
       <description>&lt;p&gt;I’ll keep this short, sweet, and to the point: &lt;strong&gt;I’m looking for problems that I can help solve, so I need you to rant at me in the comments.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;That’s right, I basically want you to complain to me in the comments section of this post.&lt;/p&gt;
 &lt;ul&gt;
@@ -739,9 +735,9 @@ d. What interpretive principles are at work?</li>
     </item>
     <item>
       <title>3 Questions to Ask When You Study the Bible (Plus a Worksheet!)</title>
-      <link>https://joshuapsteele.com/questions-to-ask-when-you-study-bible/</link>
+      <link>http://localhost:1313/questions-to-ask-when-you-study-bible/</link>
       <pubDate>Wed, 31 Jan 2018 15:09:33 +0000</pubDate>
-      <guid>https://joshuapsteele.com/questions-to-ask-when-you-study-bible/</guid>
+      <guid>http://localhost:1313/questions-to-ask-when-you-study-bible/</guid>
       <description>&lt;h2 id=&#34;the-problem-studying-the-bible-can-quickly-feel-overwhelming&#34;&gt;The Problem: Studying the Bible can Quickly Feel Overwhelming&lt;/h2&gt;
 &lt;p&gt;Right? Even with helpful books out there like &lt;em&gt;&lt;a href=&#34;http://amzn.to/2DQ55nt&#34;&gt;How to Read the Bible for All Its Worth&lt;/a&gt;&lt;/em&gt; (that’s an affiliate link, by the way, meaning that I get a small commission at no cost to you if you end up buying the book), there are still so many potential questions to ask of any biblical text when we study it.&lt;/p&gt;
 &lt;p&gt;How are we supposed to keep questions of authorship, genre, meaning, application, etc. etc. straight when we study the Bible?&lt;/p&gt;</description>

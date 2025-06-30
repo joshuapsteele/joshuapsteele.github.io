@@ -2,25 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/pages/</link>
+    <link>http://localhost:1313/pages/</link>
     <description>Recent content in Pages on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
-    <atom:link href="https://joshuapsteele.com/pages/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jun 2025 10:39:49 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/pages/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/verify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/verify/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/why/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/why/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/pages/yep/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pages/yep/</guid>
+      <description></description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://joshuapsteele.com/about/</link>
+      <link>http://localhost:1313/pages/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/about/</guid>
-      <description>&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
-&lt;p&gt;As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;), trying to figure out what, if anything, to do with three degrees in theology.&lt;/p&gt;
-&lt;p&gt;After a long time away (for those theology degrees), I&amp;rsquo;m back in Ohio, where I live with my wife and three young children.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
+      <guid>http://localhost:1313/pages/about/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/about&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&amp;ldquo;The Rev. Dev.&amp;rdquo; I&amp;rsquo;m Josh Steele, a pastor-turned-programmer (&amp;ldquo;Rev[erend]&amp;quot;-to-&amp;ldquo;Dev[eloper]&amp;rdquo;) who solves problems with a programmer&amp;rsquo;s eye for detail and a pastor&amp;rsquo;s heart for people.&lt;/p&gt;
+&lt;p&gt;As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&amp;rsquo;m also an ordained Anglican priest (currently &lt;a href=&#34;http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;), trying to figure out what, if anything, to do with three degrees in theology.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/about</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>&ldquo;The Rev. Dev.&rdquo; I&rsquo;m Josh Steele, a pastor-turned-programmer (&ldquo;Rev[erend]&quot;-to-&ldquo;Dev[eloper]&rdquo;) who solves problems with a programmer&rsquo;s eye for detail and a pastor&rsquo;s heart for people.</p>
 <p>As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I&rsquo;m also an ordained Anglican priest (currently <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>), trying to figure out what, if anything, to do with three degrees in theology.</p>
 <p>After a long time away (for those theology degrees), I&rsquo;m back in Ohio, where I live with my wife and three young children.</p>
 <p>In my free time (what&rsquo;s that?), I buy books and tools&hellip;and then try to find even more time to use them. Recently, DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I&rsquo;m trying to become competent in as many different practical skills as possible. (You know, since I studied <em>theology</em> in school! Haha.)</p>
@@ -39,20 +74,34 @@
     </item>
     <item>
       <title>Caveats</title>
-      <link>https://joshuapsteele.com/caveats/</link>
+      <link>http://localhost:1313/pages/caveats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/caveats/</guid>
-      <description>&lt;p&gt;You can add the following caveats to everything I write online.&lt;/p&gt;
+      <guid>http://localhost:1313/pages/caveats/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/caveats&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;You can add the following caveats to everything I write online.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;If it doesn&amp;rsquo;t directly apply to you, feel free to move along&lt;/strong&gt;&lt;br&gt;
 I&amp;rsquo;m usually writing for a broad audience and just trying to get people thinking. If I&amp;rsquo;m interested in starting a debate or argument with a specific individual, I will say so directly.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;If you think reality is more complicated than what I wrote, you&amp;rsquo;re right&lt;/strong&gt;&lt;br&gt;
 All communication is an oversimplification of reality. The shorter my post, the more I&amp;rsquo;ve purposefully left out.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;I will (almost) never get into extended arguments online&lt;/strong&gt;&lt;br&gt;
-If you still think you really need to say something, write your own post, write me an &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;email&lt;/a&gt;, send me a letter, etc. (Just don&amp;rsquo;t call me, I&amp;rsquo;m a Millennial!)&lt;/li&gt;
+If you still think you really need to say something, write your own post, write me an &lt;a href=&#34;http://localhost:1313/contact/&#34;&gt;email&lt;/a&gt;, send me a letter, etc. (Just don&amp;rsquo;t call me, I&amp;rsquo;m a Millennial!)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Finally, I&amp;rsquo;m just as susceptible to &lt;a href=&#34;https://yourbias.is/&#34;&gt;cognitive biases&lt;/a&gt; and &lt;a href=&#34;https://yourlogicalfallacyis.com/&#34;&gt;logical fallacies&lt;/a&gt; as anyone else. Nevertheless, I&amp;rsquo;d like to do my best to stick to &lt;a href=&#34;https://therulesofcivilconversation.org/&#34;&gt;the following Rules of Civil Conversation&lt;/a&gt;. And I ask that you consider doing the same.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>You can add the following caveats to everything I write online.</p>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/caveats</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>You can add the following caveats to everything I write online.</p>
 <ul>
 <li><strong>If it doesn&rsquo;t directly apply to you, feel free to move along</strong><br>
 I&rsquo;m usually writing for a broad audience and just trying to get people thinking. If I&rsquo;m interested in starting a debate or argument with a specific individual, I will say so directly.</li>
@@ -77,13 +126,27 @@ If you still think you really need to say something, write your own post, write 
     </item>
     <item>
       <title>Contact</title>
-      <link>https://joshuapsteele.com/contact/</link>
+      <link>http://localhost:1313/pages/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/contact/</guid>
-      <description>&lt;p&gt;If you&amp;rsquo;d like to ask if I&amp;rsquo;m interested in guest content on my blog, please don&amp;rsquo;t. I&amp;rsquo;m not interested.&lt;/p&gt;
+      <guid>http://localhost:1313/pages/contact/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/contact&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;If you&amp;rsquo;d like to ask if I&amp;rsquo;m interested in guest content on my blog, please don&amp;rsquo;t. I&amp;rsquo;m not interested.&lt;/p&gt;
 &lt;p&gt;For all other matters, the best way to contact me is to send an email to &lt;a href=&#34;mailto:blog@joshuapsteele.com&#34;&gt;blog@joshuapsteele.com&lt;/a&gt;. I&amp;rsquo;ll do my best to read and reply as soon as possible!&lt;/p&gt;
-&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;my homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>If you&rsquo;d like to ask if I&rsquo;m interested in guest content on my blog, please don&rsquo;t. I&rsquo;m not interested.</p>
+&lt;p&gt;If you&amp;rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on &lt;a href=&#34;http://localhost:1313/&#34;&gt;my homepage here&lt;/a&gt; and also over at &lt;a href=&#34;https://steele.omg.lol&#34;&gt;steele.omg.lol&lt;/a&gt;.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/contact</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>If you&rsquo;d like to ask if I&rsquo;m interested in guest content on my blog, please don&rsquo;t. I&rsquo;m not interested.</p>
 <p>For all other matters, the best way to contact me is to send an email to <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>. I&rsquo;ll do my best to read and reply as soon as possible!</p>
 <p>If you&rsquo;d like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on <a href="/">my homepage here</a> and also over at <a href="https://steele.omg.lol">steele.omg.lol</a>.</p>
 <p>Cheers,
@@ -92,10 +155,17 @@ Josh</p>
     </item>
     <item>
       <title>CV</title>
-      <link>https://joshuapsteele.com/cv/</link>
+      <link>http://localhost:1313/pages/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/cv/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(For a brief profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;https://joshuapsteele.com/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;. You can also view my resume on &lt;a href=&#34;https://www.linkedin.com/in/joshuapsteele/&#34;&gt;LinkedIn&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/pages/cv/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/cv&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;(For a brief profile of what I&amp;rsquo;m like and what makes me tick as a worker, &lt;a href=&#34;http://localhost:1313/what-color-is-my-parachute-the-flower-petal-exercise/&#34;&gt;read this self-assessment&lt;/a&gt;. You can also view my resume on &lt;a href=&#34;https://www.linkedin.com/in/joshuapsteele/&#34;&gt;LinkedIn&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;experience&#34;&gt;EXPERIENCE&lt;/h2&gt;
 &lt;h3 id=&#34;software-engineer-ii---proofpoint&#34;&gt;&lt;strong&gt;Software Engineer II - Proofpoint&lt;/strong&gt;&lt;/h3&gt;
@@ -152,8 +222,15 @@ Josh</p>
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;(Note: &lt;a href=&#34;https://joshuapsteele.com/portfolio/sermons/&#34;&gt;to read/listen to my sermons, go here&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p><em>(For a brief profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>. You can also view my resume on <a href="https://www.linkedin.com/in/joshuapsteele/">LinkedIn</a>.)</em></p>
+&lt;p&gt;&lt;em&gt;(Note: &lt;a href=&#34;http://localhost:1313/portfolio/sermons/&#34;&gt;to read/listen to my sermons, go here&lt;/a&gt;.)&lt;/em&gt;&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/cv</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p><em>(For a brief profile of what I&rsquo;m like and what makes me tick as a worker, <a href="/what-color-is-my-parachute-the-flower-petal-exercise/">read this self-assessment</a>. You can also view my resume on <a href="https://www.linkedin.com/in/joshuapsteele/">LinkedIn</a>.)</em></p>
 <hr>
 <h2 id="experience">EXPERIENCE</h2>
 <h3 id="software-engineer-ii---proofpoint"><strong>Software Engineer II - Proofpoint</strong></h3>
@@ -346,36 +423,36 @@ Josh</p>
     </item>
     <item>
       <title>Essays</title>
-      <link>https://joshuapsteele.com/essays/</link>
+      <link>http://localhost:1313/pages/essays/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/essays/</guid>
+      <guid>http://localhost:1313/pages/essays/</guid>
       <description>&lt;p&gt;&lt;em&gt;(Note: Since writing the essays below, I&amp;rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&amp;rsquo;m keeping these around for posterity.)&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;wheaton-college-graduate-school-2017---&#34;&gt;Wheaton College Graduate School (2017 - )&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;(Here&amp;rsquo;s the &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;elevator pitch for my dissertation proposal&lt;/a&gt;: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Here&amp;rsquo;s the &lt;a href=&#34;http://localhost:1313/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;elevator pitch for my dissertation proposal&lt;/a&gt;: &amp;ldquo;Scriptural, But Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.&amp;rdquo;)&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/&#34;&gt;The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em&gt;Römerbrief&lt;/em&gt; Reading of Romans 9:30–10:21&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/&#34;&gt;The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/&#34;&gt;When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf&#34;&gt;Theological Hermeneutics Essay&lt;/a&gt;: &lt;a href=&#34;https://joshuapsteele.com/hermeneutical-implications-scriptures-theological-location/&#34;&gt;The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/&#34;&gt;The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s &lt;em&gt;Römerbrief&lt;/em&gt; Reading of Romans 9:30–10:21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/&#34;&gt;The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/&#34;&gt;When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf&#34;&gt;Theological Hermeneutics Essay&lt;/a&gt;: &lt;a href=&#34;http://localhost:1313/hermeneutical-implications-scriptures-theological-location/&#34;&gt;The Hermeneutical Implications of Scripture&amp;rsquo;s Theological Location&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;beeson-divinity-school-2013-2016&#34;&gt;Beeson Divinity School (2013-2016)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf&#34;&gt;To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf&#34;&gt;A Crucicentric Credo&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf&#34;&gt;What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf&#34;&gt;Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/On_Scripture.pdf&#34;&gt;Dogmatic Essay on Scripture&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf&#34;&gt;To Be or Not To Be Religious: A Clarification of Karl Barth&amp;rsquo;s and Dietrich Bonhoeffer&amp;rsquo;s Divergence and Convergence Regarding Religion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf&#34;&gt;A Crucicentric Credo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf&#34;&gt;What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf&#34;&gt;Disunity as Ecclesiological Impossibility: A Barthian Analogy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/On_Scripture.pdf&#34;&gt;Dogmatic Essay on Scripture&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;cedarville-university-2009-2013&#34;&gt;Cedarville University (2009-2013)&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf&#34;&gt;Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf&#34;&gt;Exposition Paper: Deuteronomy 6:1-15&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf&#34;&gt;Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf&#34;&gt;Exposition Paper: Micah 6:1-16&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf&#34;&gt;Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf&#34;&gt;The Argument/Story of Romans&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf&#34;&gt;Exegetical Paper: Hebrews 10:19-25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf&#34;&gt;Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf&#34;&gt;Creation and Doxology: A Portrait of Biblical Creation Theology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf&#34;&gt;Exposition Paper: Deuteronomy 6:1-15&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf&#34;&gt;Yahweh&amp;rsquo;s Rîb Against Israel: Gerichtsrede and the Message of Micah&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf&#34;&gt;Exposition Paper: Micah 6:1-16&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf&#34;&gt;Romans 13:1-7 - A Contextually-Appropriate Reading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf&#34;&gt;The Argument/Story of Romans&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf&#34;&gt;Exegetical Paper: Hebrews 10:19-25&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
       <content:encoded><![CDATA[<p><em>(Note: Since writing the essays below, I&rsquo;ve left the academy and now work as a software engineer. Nevertheless, I&rsquo;m keeping these around for posterity.)</em></p>
 <h2 id="wheaton-college-graduate-school-2017---">Wheaton College Graduate School (2017 - )</h2>
@@ -409,9 +486,9 @@ Josh</p>
     </item>
     <item>
       <title>How to Resist Tyranny</title>
-      <link>https://joshuapsteele.com/resist/</link>
+      <link>http://localhost:1313/pages/resist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/resist/</guid>
+      <guid>http://localhost:1313/pages/resist/</guid>
       <description>&lt;h2 id=&#34;online-resources&#34;&gt;Online Resources&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://5calls.org/&#34;&gt;5Calls&lt;/a&gt;: Contact your elected officials&lt;/li&gt;
@@ -859,10 +936,17 @@ Josh</p>
     </item>
     <item>
       <title>Lists</title>
-      <link>https://joshuapsteele.com/lists/</link>
+      <link>http://localhost:1313/pages/lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/lists/</guid>
-      <description>&lt;p&gt;This is a &lt;code&gt;/lists&lt;/code&gt; page, where I keep track of the lists I&amp;rsquo;m working on!&lt;/p&gt;
+      <guid>http://localhost:1313/pages/lists/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/lists&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;This is a &lt;code&gt;/lists&lt;/code&gt; page, where I keep track of the lists I&amp;rsquo;m working on!&lt;/p&gt;
 &lt;p&gt;Last Updated: 2025-06-10&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;my-interests&#34;&gt;My Interests&lt;/h2&gt;
@@ -890,7 +974,14 @@ Josh</p>
 &lt;hr&gt;
 &lt;h2 id=&#34;20-ways-to-fight-tyranny&#34;&gt;20 Ways to Fight Tyranny&lt;/h2&gt;
 &lt;p&gt;The following 20 &amp;ldquo;lessons&amp;rdquo; are taken from Timothy Snyder&amp;rsquo;s &lt;a href=&#34;https://amzn.to/3SFZkke&#34;&gt;&lt;em&gt;On Tyranny: Twenty Lessons from the Twentieth Century&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This is a <code>/lists</code> page, where I keep track of the lists I&rsquo;m working on!</p>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/lists</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>This is a <code>/lists</code> page, where I keep track of the lists I&rsquo;m working on!</p>
 <p>Last Updated: 2025-06-10</p>
 <hr>
 <h2 id="my-interests">My Interests</h2>
@@ -1032,10 +1123,10 @@ Josh</p>
     </item>
     <item>
       <title>My Story</title>
-      <link>https://joshuapsteele.com/my-story/</link>
+      <link>http://localhost:1313/pages/my-story/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/my-story/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Note: I haven&amp;rsquo;t updated this &amp;ldquo;My Story&amp;rdquo; page in quite some time. Check &lt;a href=&#34;https://joshuapsteele.com/now/&#34;&gt;my &amp;ldquo;Now&amp;rdquo; page&lt;/a&gt; for more recent updates. But here&amp;rsquo;s the TL;DR: We&amp;rsquo;ve got three kids now. I quit my Ph.D. program, &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;, and now &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;work full-time as a software engineer&lt;/a&gt;. But I&amp;rsquo;m leaving this old &amp;ldquo;My Story&amp;rdquo; page up as a window into how I summarized my story back in 2021.&lt;/em&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/pages/my-story/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Note: I haven&amp;rsquo;t updated this &amp;ldquo;My Story&amp;rdquo; page in quite some time. Check &lt;a href=&#34;http://localhost:1313/now/&#34;&gt;my &amp;ldquo;Now&amp;rdquo; page&lt;/a&gt; for more recent updates. But here&amp;rsquo;s the TL;DR: We&amp;rsquo;ve got three kids now. I quit my Ph.D. program, &lt;a href=&#34;http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;, and now &lt;a href=&#34;http://localhost:1313/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;work full-time as a software engineer&lt;/a&gt;. But I&amp;rsquo;m leaving this old &amp;ldquo;My Story&amp;rdquo; page up as a window into how I summarized my story back in 2021.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;from-childhood-to-college&#34;&gt;From Childhood to College&lt;/h2&gt;
 &lt;p&gt;God’s faithfulness to me is linked with his faithfulness to my parents. They both grew up in nominally Roman Catholic homes, and came to relationship with Christ shortly before my birth. When I came along, their church environment was a mixture between conservative Baptist and non-denominational. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p><em>Note: I haven&rsquo;t updated this &ldquo;My Story&rdquo; page in quite some time. Check <a href="/now/">my &ldquo;Now&rdquo; page</a> for more recent updates. But here&rsquo;s the TL;DR: We&rsquo;ve got three kids now. I quit my Ph.D. program, <a href="/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/">resigned from active ministry</a>, and now <a href="/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">work full-time as a software engineer</a>. But I&rsquo;m leaving this old &ldquo;My Story&rdquo; page up as a window into how I summarized my story back in 2021.</em></p>
@@ -1060,17 +1151,22 @@ Josh</p>
 <p>I made the decision to start medication and therapy for depression and anxiety in fall 2020. In early winter, after a lot of prayer, deliberation, and seeking godly counsel, I made the difficult decision to hit pause (“excused program leave”) on my Ph.D. program for a year for the sake of my mental health. Since making that decision, I’ve grown more and more confident that stepping away from the Ph.D. for at least a year is the right thing to do.</p>
 <p>Where does that leave me? My rocky road as a Ph.D. student has convinced me even more that my heart lies with the Church, not with the Academy. I thank God for the blessings of formal theological education, and I’d like to do everything I can to help bridge the gap between the Church and the Academy by making gospel-centered theological education accessible to each and every Christian, and not just for specialists!</p>
 <p>So, I’m still a student and a teacher at heart. And I’m still trying to discern whether finishing my Ph.D. is the right decision at this point in my life. But, at the end of the day, I’m a pastor at heart. And, whether or not I finish my Ph.D., the following words from my ordination to the priesthood are my North Star in ministry:</p>
-<blockquote>
-<p>“Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.”</p></blockquote>
-<p>May it be so. Amen.</p>
+<blockquote><p>“Work diligently, with your whole heart, to bring those in your care into the unity of the faith and of the knowledge of God, and to maturity in Christ, that there may be among you neither error in religion nor immorality in life. Finally, equip and lead your Congregation to proclaim tirelessly the Gospel of Jesus Christ.”</p></blockquote><p>May it be so. Amen.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>Now</title>
-      <link>https://joshuapsteele.com/now/</link>
+      <link>http://localhost:1313/pages/now/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/now/</guid>
-      <description>&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
+      <guid>http://localhost:1313/pages/now/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/now&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;These days, I&amp;rsquo;m:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Raising 3 young kids (6yo, 4yo, 2yo) with my wife&lt;/li&gt;
 &lt;li&gt;Enjoying my work as a software engineer&lt;/li&gt;
@@ -1080,7 +1176,14 @@ Josh</p>
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;(This is a &lt;a href=&#34;https://nownownow.com/about&#34;&gt;now page&lt;/a&gt;, and if you have your own site, &lt;a href=&#34;https://nownownow.com/about&#34;&gt;you should make one&lt;/a&gt;, too.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Last updated: 2025-05-19&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>These days, I&rsquo;m:</p>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/now</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>These days, I&rsquo;m:</p>
 <ul>
 <li>Raising 3 young kids (6yo, 4yo, 2yo) with my wife</li>
 <li>Enjoying my work as a software engineer</li>
@@ -1094,10 +1197,10 @@ Josh</p>
     </item>
     <item>
       <title>Philosophy of Ministry</title>
-      <link>https://joshuapsteele.com/philosophy-of-ministry/</link>
+      <link>http://localhost:1313/pages/philosophy-of-ministry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/philosophy-of-ministry/</guid>
-      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href=&#34;https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em&gt;&lt;/p&gt;
+      <guid>http://localhost:1313/pages/philosophy-of-ministry/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Note: Since writing this &amp;ldquo;philosophy of ministry&amp;rdquo;, I have since &lt;a href=&#34;http://localhost:1313/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/&#34;&gt;resigned from active ministry&lt;/a&gt;. I now work full-time as a software engineer, and am trying to discern what my Christian &amp;ldquo;vocation&amp;rdquo; looks like, going forward. Nevertheless, I will leave what I&amp;rsquo;ve written below for posterity.)&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Every Christian is a theologian.&lt;/p&gt;
 &lt;p&gt;I consider it my life&amp;rsquo;s work to help &amp;ldquo;everyday Christians&amp;rdquo; grow in their knowledge and love of God so that we all can put our gifts to good use by joining with God&amp;rsquo;s redemptive work in the world. In biblical terms, I&amp;rsquo;m called to &amp;ldquo;equip the saints for the work of ministry&amp;rdquo; and to &amp;ldquo;build up the body of Christ&amp;rdquo; (Eph. 4:12).&lt;/p&gt;</description>
@@ -1124,23 +1227,34 @@ Josh</p>
     </item>
     <item>
       <title>Questions</title>
-      <link>https://joshuapsteele.com/questions/</link>
+      <link>http://localhost:1313/pages/questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/questions/</guid>
-      <description>&lt;p&gt;This is a &lt;code&gt;/questions&lt;/code&gt; page, where I keep track of the questions I&amp;rsquo;m asking!&lt;/p&gt;
+      <guid>http://localhost:1313/pages/questions/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/questions&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;This is a &lt;code&gt;/questions&lt;/code&gt; page, where I keep track of the questions I&amp;rsquo;m asking!&lt;/p&gt;
 &lt;p&gt;Last Updated: 2025-03-15&lt;/p&gt;
 &lt;h2 id=&#34;questions-im-asking&#34;&gt;Questions I&amp;rsquo;m Asking&lt;/h2&gt;
-&lt;p&gt;(These are in addition to &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;these &amp;ldquo;self-elicitation&amp;rdquo; questions, which are always worth asking yourself&lt;/a&gt;!)&lt;/p&gt;
+&lt;p&gt;(These are in addition to &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;these &amp;ldquo;self-elicitation&amp;rdquo; questions, which are always worth asking yourself&lt;/a&gt;!)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Are &amp;ldquo;/questions&amp;rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please &lt;a href=&#34;https://joshuapsteele.com/contact&#34;&gt;let me know&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Are &amp;ldquo;/questions&amp;rdquo; pages like this a thing? Can we make them a thing? If you have a /questions page, please &lt;a href=&#34;http://localhost:1313/contact&#34;&gt;let me know&lt;/a&gt;!&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;What&amp;rsquo;s a good &amp;ldquo;budget&amp;rdquo; version of a &lt;a href=&#34;https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;amp;qid=1671342063&amp;amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Veto Pro Pac TP-LC tool bag&lt;/a&gt;?&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;What are the most useful lengths and kinds of rope to have on hand?&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>This is a <code>/questions</code> page, where I keep track of the questions I&rsquo;m asking!</p>
+&lt;p&gt;What&amp;rsquo;s a good &amp;ldquo;budget&amp;rdquo; version of a &lt;a href=&#34;https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&amp;amp;keywords=veto+pro+pac+tp-lc+toolbag&amp;amp;qid=1671342063&amp;amp;sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&amp;amp;sr=8-1&amp;amp;linkCode=ll1&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=91591755d9deffe180a33ac4195d2fac&amp;amp;language=en_US&amp;amp;ref_=as_li_ss_tl&#34;&gt;Veto Pro Pac TP-LC tool bag&lt;/a&gt;?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/questions</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>This is a <code>/questions</code> page, where I keep track of the questions I&rsquo;m asking!</p>
 <p>Last Updated: 2025-03-15</p>
 <h2 id="questions-im-asking">Questions I&rsquo;m Asking</h2>
 <p>(These are in addition to <a href="/questions-worth-asking/">these &ldquo;self-elicitation&rdquo; questions, which are always worth asking yourself</a>!)</p>
@@ -1209,11 +1323,11 @@ Josh</p>
     </item>
     <item>
       <title>Recommended Tools and Resources</title>
-      <link>https://joshuapsteele.com/resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/resources/</guid>
+      <guid>http://localhost:1313/resources/</guid>
       <description>&lt;p&gt;A &amp;ldquo;tool&amp;rdquo; is &amp;ldquo;anything that can make your life better.&amp;rdquo; I love tools, whether physical or digital. And I love books, because they&amp;rsquo;re some of the best tools out there!&lt;/p&gt;
-&lt;p&gt;(For my personal &amp;ldquo;tech stack&amp;rdquo; recommendations, including what I use for email, social media, etc., see &lt;a href=&#34;https://joshuapsteele.com/tech-stack/&#34;&gt;my &lt;code&gt;/tech-stack&lt;/code&gt; page&lt;/a&gt;.)&lt;/p&gt;
+&lt;p&gt;(For my personal &amp;ldquo;tech stack&amp;rdquo; recommendations, including what I use for email, social media, etc., see &lt;a href=&#34;http://localhost:1313/tech-stack/&#34;&gt;my &lt;code&gt;/tech-stack&lt;/code&gt; page&lt;/a&gt;.)&lt;/p&gt;
 &lt;h2 id=&#34;how-to-think&#34;&gt;How to Think&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://amzn.to/3tf34fD&#34;&gt;&lt;em&gt;How to Read a Book: The Classic Guide to Intelligent Reading&lt;/em&gt;&lt;/a&gt;, by Mortimer J. Adler&lt;/li&gt;
@@ -1448,13 +1562,13 @@ Josh</p>
     </item>
     <item>
       <title>Sermons</title>
-      <link>https://joshuapsteele.com/sermons/</link>
+      <link>http://localhost:1313/pages/sermons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/sermons/</guid>
-      <description>&lt;p&gt;( &lt;em&gt;Click &lt;a href=&#34;https://joshuapsteele.com/category/sermons/&#34;&gt;here&lt;/a&gt; to view all posts that have been categorized as sermons on my blog.&lt;/em&gt;)&lt;/p&gt;
-&lt;h2 id=&#34;why-haven&#34;&gt;&lt;a href=&#34;https://joshuapsteele.com/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/&#34;&gt;Why Haven&amp;rsquo;t You Torn the Sky Open Yet?&lt;/a&gt;&lt;/h2&gt;
+      <guid>http://localhost:1313/pages/sermons/</guid>
+      <description>&lt;p&gt;( &lt;em&gt;Click &lt;a href=&#34;http://localhost:1313/category/sermons/&#34;&gt;here&lt;/a&gt; to view all posts that have been categorized as sermons on my blog.&lt;/em&gt;)&lt;/p&gt;
+&lt;h2 id=&#34;why-haven&#34;&gt;&lt;a href=&#34;http://localhost:1313/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/&#34;&gt;Why Haven&amp;rsquo;t You Torn the Sky Open Yet?&lt;/a&gt;&lt;/h2&gt;
 &lt;audio controls&gt;
-    &lt;source src=&#34;https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+    &lt;source src=&#34;http://localhost:1313/wp-content/uploads/2020/12/Sermon112820.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
     Your browser does not support the audio element.
 &lt;/audio&gt;
 
@@ -1573,10 +1687,17 @@ Josh</p>
     </item>
     <item>
       <title>Subscriptions</title>
-      <link>https://joshuapsteele.com/subscriptions/</link>
+      <link>http://localhost:1313/pages/subscriptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/subscriptions/</guid>
-      <description>&lt;p&gt;I currently (2025-02-06) subscribe to the following:&lt;/p&gt;
+      <guid>http://localhost:1313/pages/subscriptions/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/subscriptions&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;I currently (2025-02-06) subscribe to the following:&lt;/p&gt;
 &lt;h2 id=&#34;media&#34;&gt;Media:&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;The Atlantic&lt;/li&gt;
@@ -1592,7 +1713,14 @@ Josh</p>
 &lt;li&gt;omg.lol&lt;/li&gt;
 &lt;li&gt;Micro.blog&lt;/li&gt;
 &lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>I currently (2025-02-06) subscribe to the following:</p>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/subscriptions</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>I currently (2025-02-06) subscribe to the following:</p>
 <h2 id="media">Media:</h2>
 <ul>
 <li>The Atlantic</li>
@@ -1612,11 +1740,18 @@ Josh</p>
     </item>
     <item>
       <title>Tech Stack</title>
-      <link>https://joshuapsteele.com/tech-stack/</link>
+      <link>http://localhost:1313/pages/tech-stack/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/tech-stack/</guid>
-      <description>&lt;p&gt;Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href=&#34;https://joshuapsteele.com/resources&#34;&gt;/resources&lt;/a&gt; page!&lt;/p&gt;
-&lt;h2 id=&#34;personal-website-joshuapsteelecom&#34;&gt;Personal Website: &lt;a href=&#34;https://joshuapsteele.com/&#34;&gt;joshuapsteele.com&lt;/a&gt;&lt;/h2&gt;
+      <guid>http://localhost:1313/pages/tech-stack/</guid>
+      <description>&lt;div class=&#34;callout callout-note&#34;&gt;
+  &lt;div class=&#34;callout-title&#34;&gt;
+    &lt;span class=&#34;callout-icon&#34;&gt;ℹ️&lt;/span&gt;
+    &lt;span class=&#34;callout-type&#34;&gt;Note&lt;/span&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;callout-content&#34;&gt;This &lt;code&gt;/tech-stack&lt;/code&gt; page is just one of &lt;a href=&#34;http://localhost:1313/slashes&#34;&gt;my many &amp;ldquo;slash pages.&amp;rdquo;&lt;/a&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Here&amp;rsquo;s my current personal tech stack. For other recommended tools and resources, visit my &lt;a href=&#34;http://localhost:1313/resources&#34;&gt;/resources&lt;/a&gt; page!&lt;/p&gt;
+&lt;h2 id=&#34;personal-website-joshuapsteelecom&#34;&gt;Personal Website: &lt;a href=&#34;http://localhost:1313/&#34;&gt;joshuapsteele.com&lt;/a&gt;&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Domain registrar: &lt;a href=&#34;https://porkbun.com/&#34;&gt;Porkbun&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Hosting: &lt;a href=&#34;https://github.com/joshuapsteele/joshuapsteele.github.io&#34;&gt;GitHub Pages&lt;/a&gt;&lt;/li&gt;
@@ -1657,7 +1792,14 @@ Josh</p>
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;</description>
-      <content:encoded><![CDATA[<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
+      <content:encoded><![CDATA[<div class="callout callout-note">
+  <div class="callout-title">
+    <span class="callout-icon">ℹ️</span>
+    <span class="callout-type">Note</span>
+  </div>
+  <div class="callout-content">This <code>/tech-stack</code> page is just one of <a href="/slashes">my many &ldquo;slash pages.&rdquo;</a></div>
+</div>
+<p>Here&rsquo;s my current personal tech stack. For other recommended tools and resources, visit my <a href="/resources">/resources</a> page!</p>
 <h2 id="personal-website-joshuapsteelecom">Personal Website: <a href="/">joshuapsteele.com</a></h2>
 <ul>
 <li>Domain registrar: <a href="https://porkbun.com/">Porkbun</a></li>
@@ -1703,9 +1845,9 @@ Josh</p>
     </item>
     <item>
       <title>Wish List</title>
-      <link>https://joshuapsteele.com/wishlist/</link>
+      <link>http://localhost:1313/wishlist/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/wishlist/</guid>
+      <guid>http://localhost:1313/wishlist/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a wish list I regularly update. I also keep &lt;a href=&#34;https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share&#34;&gt;my Amazon wish list updated here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;What I want:&lt;/p&gt;
 &lt;h2 id=&#34;life&#34;&gt;Life&lt;/h2&gt;

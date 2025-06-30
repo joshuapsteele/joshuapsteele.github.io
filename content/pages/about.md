@@ -6,8 +6,9 @@ aliases:
 - /portfolio
 showtoc: false
 ---
-> [!NOTE]
-> This `/about` page is just one of [my many "slash pages."](/slashes)
+{{< callout "note" >}}
+This `/about` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 "The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
 

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Productivity and Time Management on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/categories/productivity-and-time-management/</link>
+    <link>http://localhost:1313/categories/productivity-and-time-management/</link>
     <description>Recent content in Productivity and Time Management on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 16 Jun 2025 09:10:26 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/categories/productivity-and-time-management/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/productivity-and-time-management/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Five Questions for Coming to Grips with Your Life</title>
-      <link>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</link>
+      <link>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</link>
       <pubDate>Wed, 13 Nov 2024 16:50:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/five-questions-for-coming-to-grips-with-your-life/</guid>
+      <guid>http://localhost:1313/five-questions-for-coming-to-grips-with-your-life/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Where in your life or your work are you currently pursuing comfort, when what&amp;rsquo;s called for is a little discomfort?&lt;/li&gt;
@@ -26,7 +26,7 @@
 &lt;li&gt;In which areas of life are you still holding back until you feel like you know what you&amp;rsquo;re doing?&lt;/li&gt;
 &lt;li&gt;How would you spend your days differently if you didn&amp;rsquo;t care so much about seeing your actions reach fruition?&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;https://joshuapsteele.com/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
+&lt;p&gt;Want more self-elicitation questions like these? Check out &lt;a href=&#34;http://localhost:1313/questions-worth-asking/&#34;&gt;&amp;ldquo;Questions Worth Asking.&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Source: <a href="https://amzn.to/4fMUDyo"><em>Four Thousand Weeks: Time Management for Mortals</em></a> by Oliver Burkeman</p>
 <ol>
 <li>Where in your life or your work are you currently pursuing comfort, when what&rsquo;s called for is a little discomfort?</li>
@@ -40,9 +40,9 @@
     </item>
     <item>
       <title>Ten Tools for Embracing Finitude</title>
-      <link>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</link>
+      <link>http://localhost:1313/ten-tools-for-embracing-finitude/</link>
       <pubDate>Wed, 13 Nov 2024 16:40:14 -0500</pubDate>
-      <guid>https://joshuapsteele.com/ten-tools-for-embracing-finitude/</guid>
+      <guid>http://localhost:1313/ten-tools-for-embracing-finitude/</guid>
       <description>&lt;p&gt;Source: &lt;a href=&#34;https://amzn.to/4fMUDyo&#34;&gt;&lt;em&gt;Four Thousand Weeks: Time Management for Mortals&lt;/em&gt;&lt;/a&gt; by Oliver Burkeman&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Adopt a &amp;ldquo;fixed volume&amp;rdquo; approach to productivity
@@ -85,9 +85,9 @@
     </item>
     <item>
       <title>Know Thyself: Unveiling Your Unique Strengths and Personality Traits</title>
-      <link>https://joshuapsteele.com/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
+      <link>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</link>
       <pubDate>Wed, 03 Jul 2024 12:41:36 +0000</pubDate>
-      <guid>https://joshuapsteele.com/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
+      <guid>http://localhost:1313/know-thyself-unveiling-your-unique-strengths-and-personality-traits/</guid>
       <description>&lt;p&gt;In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening. Today, I want to share my insights from various personality paradigms and how they shape my approach to work and life.&lt;/p&gt;
 &lt;h2 id=&#34;cliftonstrengths-harnessing-core-talents&#34;&gt;CliftonStrengths: Harnessing Core Talents&lt;/h2&gt;
 &lt;p&gt;The CliftonStrengths assessment has been instrumental in identifying my core talents. Here are my top five strengths:&lt;/p&gt;
@@ -153,9 +153,9 @@
     </item>
     <item>
       <title>Life Lessons: 32 Things I&#39;ve Learned So Far</title>
-      <link>https://joshuapsteele.com/life-lessons/</link>
+      <link>http://localhost:1313/life-lessons/</link>
       <pubDate>Tue, 17 Oct 2023 12:45:42 +0000</pubDate>
-      <guid>https://joshuapsteele.com/life-lessons/</guid>
+      <guid>http://localhost:1313/life-lessons/</guid>
       <description>&lt;p&gt;Here are 32 things I’ve learned from life, so far.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;You are not your thoughts. There is a “you” behind and above your inner voice/monologue/dialogue. Pay attention to what you pay attention to. Think about what you think about.&lt;/li&gt;
@@ -230,9 +230,9 @@
     </item>
     <item>
       <title>Master the Art of Interpersonal Relationships with &#34;How to Win Friends and Influence People&#34;</title>
-      <link>https://joshuapsteele.com/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
+      <link>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</link>
       <pubDate>Thu, 23 Mar 2023 12:29:48 +0000</pubDate>
-      <guid>https://joshuapsteele.com/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
+      <guid>http://localhost:1313/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/</guid>
       <description>&lt;p&gt;Dale Carnegie’s timeless classic, &lt;em&gt;&lt;a href=&#34;https://amzn.to/3K0VcaM&#34;&gt;How to Win Friends and Influence People&lt;/a&gt;&lt;/em&gt;, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.&lt;/p&gt;
 &lt;p&gt;In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Dale Carnegie’s timeless classic, <em><a href="https://amzn.to/3K0VcaM">How to Win Friends and Influence People</a></em>, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.</p>
@@ -274,9 +274,9 @@
     </item>
     <item>
       <title>Most Useful Websites: My Favorite Online Resources</title>
-      <link>https://joshuapsteele.com/most-useful-websites-my-favorite-online-resources/</link>
+      <link>http://localhost:1313/most-useful-websites-my-favorite-online-resources/</link>
       <pubDate>Tue, 08 Nov 2022 19:40:28 +0000</pubDate>
-      <guid>https://joshuapsteele.com/most-useful-websites-my-favorite-online-resources/</guid>
+      <guid>http://localhost:1313/most-useful-websites-my-favorite-online-resources/</guid>
       <description>&lt;h2 id=&#34;general--thinking&#34;&gt;General / Thinking&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Untools: &lt;a href=&#34;https://untools.co/&#34;&gt;https://untools.co/&lt;/a&gt;&lt;/li&gt;
@@ -353,9 +353,9 @@
     </item>
     <item>
       <title>It’s time for another social media fast!</title>
-      <link>https://joshuapsteele.com/its-time-for-another-social-media-fast/</link>
+      <link>http://localhost:1313/its-time-for-another-social-media-fast/</link>
       <pubDate>Wed, 19 Aug 2020 15:52:45 +0000</pubDate>
-      <guid>https://joshuapsteele.com/its-time-for-another-social-media-fast/</guid>
+      <guid>http://localhost:1313/its-time-for-another-social-media-fast/</guid>
       <description>&lt;p&gt;After listening to &lt;a href=&#34;https://www.blinkist.com/en/books/deep-work-en&#34;&gt;the Blinkist summary of Cal Newport’s &lt;em&gt;Deep Work&lt;/em&gt;&lt;/a&gt; (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.&lt;/p&gt;
 &lt;p&gt;I think I’ll still keep &lt;a href=&#34;https://micro.blog/joshuapsteele&#34;&gt;my micro.blog up and running&lt;/a&gt;, but between &lt;a href=&#34;https://anglicancompass.com&#34;&gt;running Anglican Compass&lt;/a&gt; and &lt;a href=&#34;https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof/&#34;&gt;sprinting for some last-ditch clarity on my increasingly frustrating dissertation&lt;/a&gt;, I need all the extra bandwidth I can get!&lt;/p&gt;
 &lt;p&gt;If you need to get in touch for some reason, please &lt;a href=&#34;https://joshuapsteele.com/contact/&#34;&gt;use the contact form on my website&lt;/a&gt;. You can also &lt;a href=&#34;https://buttondown.email/joshuapsteele&#34;&gt;sign up for my very occasional email newsletter here&lt;/a&gt;.&lt;/p&gt;</description>
@@ -367,9 +367,9 @@
     </item>
     <item>
       <title>They Say, I Say Writing Templates</title>
-      <link>https://joshuapsteele.com/they-say-i-say-writing-templates/</link>
+      <link>http://localhost:1313/they-say-i-say-writing-templates/</link>
       <pubDate>Tue, 30 Jun 2020 17:40:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/they-say-i-say-writing-templates/</guid>
+      <guid>http://localhost:1313/they-say-i-say-writing-templates/</guid>
       <description>&lt;p&gt;SOURCE: &lt;a href=&#34;https://amzn.to/3eOMlXF&#34;&gt;&lt;em&gt;They Say / I Say: The Moves that Matter in Academic Writing&lt;/em&gt;&lt;/a&gt;, 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!&lt;/p&gt;
 &lt;h2 id=&#34;disagreeing-without-being-disagreeable&#34;&gt;Disagreeing Without Being Disagreeable&lt;/h2&gt;
 &lt;ul&gt;
@@ -717,9 +717,9 @@
     </item>
     <item>
       <title>Balderdash! 12 Suggestions for Overcoming Writer’s Block (From Andrew T. Le Peau’s “Write Better”)</title>
-      <link>https://joshuapsteele.com/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</link>
+      <link>http://localhost:1313/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</link>
       <pubDate>Tue, 19 May 2020 13:29:06 +0000</pubDate>
-      <guid>https://joshuapsteele.com/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</guid>
+      <guid>http://localhost:1313/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/</guid>
       <description>&lt;p&gt;Writer’s block sucks. I’m currently facing it with regard to &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;my dissertation&lt;/a&gt; and I’ve decided to hit pause on research and writing until I regain access to my library carrell at Wheaton.&lt;/p&gt;
 &lt;p&gt;Thankfully, I’ve come across some helpful advice on overcoming writer’s block in Andrew T. Le Peau’s &lt;a href=&#34;https://amzn.to/2ZuTZC3&#34;&gt;&lt;em&gt;Writer Better: A Lifelong Editor on Craft, Art, and Spirituality&lt;/em&gt;&lt;/a&gt; (affiliate link).&lt;/p&gt;
 &lt;p&gt;The book is &lt;em&gt;filled&lt;/em&gt; with helpful and practical advice on writing, rewriting, publishing, etc. To whet your appetite, I’d like to share some of Le Peau’s tips for conquering writer’s block. These all come from chapter 7, pages. 72–80.&lt;/p&gt;</description>
@@ -745,9 +745,9 @@
     </item>
     <item>
       <title>Helpful Writing Templates</title>
-      <link>https://joshuapsteele.com/helpful-writing-templates/</link>
+      <link>http://localhost:1313/helpful-writing-templates/</link>
       <pubDate>Fri, 23 Aug 2019 14:43:59 +0000</pubDate>
-      <guid>https://joshuapsteele.com/helpful-writing-templates/</guid>
+      <guid>http://localhost:1313/helpful-writing-templates/</guid>
       <description>&lt;p&gt;The following templates come from &lt;em&gt;&lt;a href=&#34;https://amzn.to/33TJdor&#34;&gt;They Say / I Say: The Moves That Matter in Academic Writing&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;introducing-what-they-say&#34;&gt;&lt;strong&gt;Introducing What They Say&lt;/strong&gt;&lt;/h2&gt;
 &lt;ul&gt;
@@ -1077,9 +1077,9 @@
     </item>
     <item>
       <title>Help me achieve my home gym dream</title>
-      <link>https://joshuapsteele.com/help-me-achieve-my-home-gym-dream/</link>
+      <link>http://localhost:1313/help-me-achieve-my-home-gym-dream/</link>
       <pubDate>Tue, 02 Apr 2019 18:46:35 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-me-achieve-my-home-gym-dream/</guid>
+      <guid>http://localhost:1313/help-me-achieve-my-home-gym-dream/</guid>
       <description>&lt;p&gt;I’m trying to put together a basic home gym in our basement apartment. Mainly, I’m interested in doing squats for now. Then, I’ll expand to deadlifts and benchpress. Our ceilings are too low for overhead presses, however.&lt;/p&gt;
 &lt;p&gt;Anyways, I just ordered the Valor Fitness BD-9 squat rack from Amazon.&lt;/p&gt;
 &lt;p&gt;I still need a decent Olympic bar and Olympic plates.&lt;/p&gt;</description>
@@ -1090,30 +1090,27 @@
     </item>
     <item>
       <title>Use Rapoport&#39;s Rules for Better Conversations and Disagreements</title>
-      <link>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
+      <link>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</link>
       <pubDate>Sat, 23 Feb 2019 17:06:02 +0000</pubDate>
-      <guid>https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
+      <guid>http://localhost:1313/use-rapoports-rules-for-better-conversations-and-disagreements/</guid>
       <description>&lt;p&gt;I’m reading Walter Sinnott-Armstrong’s excellent book, &lt;a href=&#34;https://amzn.to/2BNTlTq&#34;&gt;&lt;em&gt;Think Again: How to Reason and Argue&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In it (on pages 25–26), I came across &lt;a href=&#34;https://rationalwiki.org/wiki/Rapoport%27s_Rules&#34;&gt;“Rapoport’s Rules.”&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (&lt;a href=&#34;https://amzn.to/2NmrH4m&#34;&gt;&lt;em&gt;Intuition Pumps and Other Tools for Thinking&lt;/em&gt;&lt;/a&gt;, 31–35), here they are:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I’m reading Walter Sinnott-Armstrong’s excellent book, <a href="https://amzn.to/2BNTlTq"><em>Think Again: How to Reason and Argue</em></a>.</p>
 <p>In it (on pages 25–26), I came across <a href="https://rationalwiki.org/wiki/Rapoport%27s_Rules">“Rapoport’s Rules.”</a></p>
 <p>First formulated by mathematical psychologist Anatol Rapoport and discussed by Daniel Dennett (<a href="https://amzn.to/2NmrH4m"><em>Intuition Pumps and Other Tools for Thinking</em></a>, 31–35), here they are:</p>
-<blockquote>
-<p>1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”</p>
+<blockquote><p>1: You should attempt to re-express your target’s position so clearly, vividly, and fairly that your target says, “Thanks, I wish I’d thought of putting it that way.”</p>
 <p>2: You should list any points of agreement (especially if they are not matters of general or widespread agreement).</p>
 <p>3: You should mention anything you have learned from your target.</p>
-<p>4: Only then are you permitted to say so much as a word of rebuttal or criticism.</p></blockquote>
-<p>How would our conversations—everything from family dinner to classroom discussions to church business meetings—look different if we put these rules into practice?</p>
+<p>4: Only then are you permitted to say so much as a word of rebuttal or criticism.</p></blockquote><p>How would our conversations—everything from family dinner to classroom discussions to church business meetings—look different if we put these rules into practice?</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>What blogs are you reading?</title>
-      <link>https://joshuapsteele.com/what-blogs-are-you-reading/</link>
+      <link>http://localhost:1313/what-blogs-are-you-reading/</link>
       <pubDate>Sun, 13 Jan 2019 20:53:15 +0000</pubDate>
-      <guid>https://joshuapsteele.com/what-blogs-are-you-reading/</guid>
+      <guid>http://localhost:1313/what-blogs-are-you-reading/</guid>
       <description>&lt;p&gt;Right now, I’m using the RSS readers &lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt; and &lt;a href=&#34;http://reederapp.com/&#34;&gt;Reeder&lt;/a&gt; to subscribe to the following blogs:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://blog.ayjay.org&#34;&gt;Snakes and Ladders – by Alan Jacobs&lt;/a&gt;&lt;/li&gt;
@@ -1145,9 +1142,9 @@
     </item>
     <item>
       <title>Help me StickK to my writing habit</title>
-      <link>https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/</link>
+      <link>http://localhost:1313/help-me-stickk-to-my-writing-habit/</link>
       <pubDate>Tue, 08 Jan 2019 14:44:09 +0000</pubDate>
-      <guid>https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/</guid>
+      <guid>http://localhost:1313/help-me-stickk-to-my-writing-habit/</guid>
       <description>&lt;p&gt;I need to finish &lt;a href=&#34;https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/&#34;&gt;this dissertation&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;To do so, I need to write regularly. For me, that means writing every day—a minimum of 500 words every day.&lt;/p&gt;
 &lt;p&gt;Last spring, I did a pretty good job of writing regularly. However, I’ve fallen off the wagon for various reasons, and it’s been a bear to get back on!&lt;/p&gt;
@@ -1165,9 +1162,9 @@
     </item>
     <item>
       <title>This is a fantastic wooden pencil (Mitsubishi 9850)</title>
-      <link>https://joshuapsteele.com/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</link>
+      <link>http://localhost:1313/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</link>
       <pubDate>Thu, 22 Nov 2018 17:00:05 +0000</pubDate>
-      <guid>https://joshuapsteele.com/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</guid>
+      <guid>http://localhost:1313/this-is-a-fantastic-wooden-pencil-mitsubishi-9850/</guid>
       <description>&lt;p&gt;Just wanted to give a quick shout-out to this fantastic pencil: &lt;a href=&#34;https://amzn.to/2QcXI2B&#34;&gt;the Mitsubishi 9850&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.amazon.com/Mitsubishi-Pencil-pencil-hardness-K9850HB/dp/B001BKZVWU/ref=as_li_ss_il?ie=UTF8&amp;amp;linkCode=li3&amp;amp;tag=joshuapsteele-20&amp;amp;linkId=e6e38efe0138c6a5bb4092270163728e&amp;amp;language=en_US&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B001BKZVWU&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=joshuapsteele-20&amp;language=en_US&#34;&gt;&lt;/a&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B001BKZVWU&#34;&gt;&lt;/p&gt;
 &lt;p&gt;It’s cheap, writes well, erases well, and looks great!&lt;/p&gt;
@@ -1180,9 +1177,9 @@
     </item>
     <item>
       <title>Here&#39;s the Template I Use to Take Notes on Books I Read</title>
-      <link>https://joshuapsteele.com/heres-the-template-i-use-to-take-notes-on-books-i-read/</link>
+      <link>http://localhost:1313/heres-the-template-i-use-to-take-notes-on-books-i-read/</link>
       <pubDate>Thu, 06 Sep 2018 19:41:44 +0000</pubDate>
-      <guid>https://joshuapsteele.com/heres-the-template-i-use-to-take-notes-on-books-i-read/</guid>
+      <guid>http://localhost:1313/heres-the-template-i-use-to-take-notes-on-books-i-read/</guid>
       <description>&lt;p&gt;Developed from &lt;a href=&#34;https://amzn.to/2M5AHsy&#34;&gt;&lt;em&gt;How to Read a Book&lt;/em&gt;, by Mortimer J. Adler&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;bibliographic-data&#34;&gt;BIBLIOGRAPHIC DATA:&lt;/h1&gt;
 &lt;p&gt;Author(s):&lt;/p&gt;
@@ -1242,57 +1239,48 @@
     </item>
     <item>
       <title>Two More Pieces about Jordan Peterson</title>
-      <link>https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/</link>
+      <link>http://localhost:1313/two-more-pieces-about-jordan-peterson/</link>
       <pubDate>Fri, 08 Jun 2018 19:08:55 +0000</pubDate>
-      <guid>https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/</guid>
+      <guid>http://localhost:1313/two-more-pieces-about-jordan-peterson/</guid>
       <description>&lt;p&gt;Previously, &lt;a href=&#34;https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/&#34;&gt;I catalogued a bunch of different takes on Jordan Peterson, before giving my own take&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.&lt;/p&gt;
 &lt;h1 id=&#34;jordan-peterson-custodian-of-the-patriarchy-by-nellie-bowles-new-york-times&#34;&gt;“Jordan Peterson, Custodian of the Patriarchy,” by Nellie Bowles (New York Times)&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.nytimes.com/2018/05/18/style/jordan-peterson-12-rules-for-life.html&#34;&gt;Nellie Bowles writes&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Mr. Peterson, 55, a University of Toronto psychology professor turned YouTube philosopher turned mystical father figure, has emerged as an influential thought leader. The messages he delivers range from hoary self-help empowerment talk (clean your room, stand up straight) to the more retrograde and political (a society run as a patriarchy makes sense and stems mostly from men’s competence; the notion of white privilege is a farce). He is the stately looking, pedigreed voice for a group of culture warriors who are working diligently to undermine mainstream and liberal efforts to promote equality.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Mr. Peterson, 55, a University of Toronto psychology professor turned YouTube philosopher turned mystical father figure, has emerged as an influential thought leader. The messages he delivers range from hoary self-help empowerment talk (clean your room, stand up straight) to the more retrograde and political (a society run as a patriarchy makes sense and stems mostly from men’s competence; the notion of white privilege is a farce). He is the stately looking, pedigreed voice for a group of culture warriors who are working diligently to undermine mainstream and liberal efforts to promote equality.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Previously, <a href="https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/">I catalogued a bunch of different takes on Jordan Peterson, before giving my own take</a>.</p>
 <p>Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.</p>
 <h1 id="jordan-peterson-custodian-of-the-patriarchy-by-nellie-bowles-new-york-times">“Jordan Peterson, Custodian of the Patriarchy,” by Nellie Bowles (New York Times)</h1>
 <p><a href="https://www.nytimes.com/2018/05/18/style/jordan-peterson-12-rules-for-life.html">Nellie Bowles writes</a></p>
-<blockquote>
-<p>Mr. Peterson, 55, a University of Toronto psychology professor turned YouTube philosopher turned mystical father figure, has emerged as an influential thought leader. The messages he delivers range from hoary self-help empowerment talk (clean your room, stand up straight) to the more retrograde and political (a society run as a patriarchy makes sense and stems mostly from men’s competence; the notion of white privilege is a farce). He is the stately looking, pedigreed voice for a group of culture warriors who are working diligently to undermine mainstream and liberal efforts to promote equality.</p></blockquote>
-<p>Later in the piece, she continues:</p>
-<blockquote>
-<p>“He was angry at God because women were rejecting him,” Mr. Peterson says of the Toronto killer. “The cure for that is enforced monogamy. That’s actually why monogamy emerges.”</p>
+<blockquote><p>Mr. Peterson, 55, a University of Toronto psychology professor turned YouTube philosopher turned mystical father figure, has emerged as an influential thought leader. The messages he delivers range from hoary self-help empowerment talk (clean your room, stand up straight) to the more retrograde and political (a society run as a patriarchy makes sense and stems mostly from men’s competence; the notion of white privilege is a farce). He is the stately looking, pedigreed voice for a group of culture warriors who are working diligently to undermine mainstream and liberal efforts to promote equality.</p></blockquote><p>Later in the piece, she continues:</p>
+<blockquote><p>“He was angry at God because women were rejecting him,” Mr. Peterson says of the Toronto killer. “The cure for that is enforced monogamy. That’s actually why monogamy emerges.”</p>
 <p>Mr. Peterson does not pause when he says this. Enforced monogamy is, to him, simply a rational solution. Otherwise women will all only go for the most high-status men, he explains, and that couldn’t make either gender happy in the end.</p>
 <p>“Half the men fail,” he says, meaning that they don’t procreate. “And no one cares about the men who fail.”</p>
 <p>I laugh, because it is absurd.</p>
 <p>“You’re laughing about them,” he says, giving me a disappointed look. “That’s because you’re female.”</p>
 <p>But aside from interventions that would redistribute sex, Mr. Peterson is staunchly against what he calls “equality of outcomes,” or efforts to equalize society. He usually calls them pathological or evil.</p>
-<p>He agrees that this is inconsistent. But preventing hordes of single men from violence, he believes, is necessary for the stability of society. Enforced monogamy helps neutralize that.</p></blockquote>
-<p>OK, here is a perfect example of how easy it is to misunderstand Peterson. When he says “enforced monogamy,” he’s using a technical anthropological term, one that has to do with social norms, and not enforcing monogamy by assigning sexual partners through the use of state (or other) power/violence.</p>
+<p>He agrees that this is inconsistent. But preventing hordes of single men from violence, he believes, is necessary for the stability of society. Enforced monogamy helps neutralize that.</p></blockquote><p>OK, here is a perfect example of how easy it is to misunderstand Peterson. When he says “enforced monogamy,” he’s using a technical anthropological term, one that has to do with social norms, and not enforcing monogamy by assigning sexual partners through the use of state (or other) power/violence.</p>
 <p><a href="https://jordanbpeterson.com/media/on-the-new-york-times-and-enforced-monogamy/">Peterson himself has attempted to clarify this since the NYT piece</a>, writing:</p>
-<blockquote>
-<p>So, let’s summarize. Men get frustrated when they are not competitive in the sexual marketplace (note: the fact that they DO get frustrated does not mean that they SHOULD get frustrated. Pointing out the existence of something is not the same as justifying its existence). Frustrated men tend to become dangerous, particularly if they are young. The dangerousness of frustrated young men (even if that frustration stems from their own incompetence) has to be regulated socially. The manifold social conventions tilting most societies toward monogamy constitute such regulation.</p>
+<blockquote><p>So, let’s summarize. Men get frustrated when they are not competitive in the sexual marketplace (note: the fact that they DO get frustrated does not mean that they SHOULD get frustrated. Pointing out the existence of something is not the same as justifying its existence). Frustrated men tend to become dangerous, particularly if they are young. The dangerousness of frustrated young men (even if that frustration stems from their own incompetence) has to be regulated socially. The manifold social conventions tilting most societies toward monogamy constitute such regulation.</p>
 <p>That’s all.</p>
 <p>No recommendation of police-state assignation of woman to man (or, for that matter, man to woman).</p>
 <p>No arbitrary dealing out of damsels to incels.</p>
 <p>Nothing scandalous (all innuendo and suggestive editing to the contrary)</p>
-<p>Just the plain, bare, common-sense facts: socially-enforced monogamous conventions decrease male violence. In addition (and not trivially) they also help provide mothers with comparatively reliable male partners, and increase the probability that stable, father-intact homes will exist for children.</p></blockquote>
-<p>Now, of course, you can still disagree with Peterson’s take here. However, it seems unfair to make it sound like he thinks women should be assigned to men against their wishes.</p>
+<p>Just the plain, bare, common-sense facts: socially-enforced monogamous conventions decrease male violence. In addition (and not trivially) they also help provide mothers with comparatively reliable male partners, and increase the probability that stable, father-intact homes will exist for children.</p></blockquote><p>Now, of course, you can still disagree with Peterson’s take here. However, it seems unfair to make it sound like he thinks women should be assigned to men against their wishes.</p>
 <h1 id="the-shocking-truth-about-jordan-peterson-by-wesley-yang-tablet">“The Shocking Truth About Jordan Peterson,” by Wesley Yang (Tablet)</h1>
 <p>This piece by Wesley Yang is currently my favorite take on Jordan Peterson, because it offers such a nuanced critique.</p>
 <p><a href="http://www.tabletmag.com/jewish-news-and-politics/262280/jordan-peterson">Wesley Yang writes</a></p>
-<blockquote>
-<p>There is something uneasily poised at the border of grandiosity and grandeur, heroism and quixotism, about Peterson that makes him appealing to undergraduates at the same time as it makes him a target-rich environment for haughty intellectuals and snarky journalists. There are literally tens of thousands of graduate students and ex-graduate students who know more about the intricacies of postmodern thought than Jordan Peterson does. Peterson’s tweeted and blogged responses to the Times piece are indicative of a person with virtually no sense of how he will be regarded by those who do not share his private system of reference. Why don’t you recognize that I’m not speaking of actual men and women but the symbolic Masculine and Feminine in Jungian archetypal thinking? Why don’t you know that “Enforced Monogamy” is an anthropological term? You won’t understand anything about Jordan Peterson until you realize that his confusion on these questions is entirely sincere.</p>
+<blockquote><p>There is something uneasily poised at the border of grandiosity and grandeur, heroism and quixotism, about Peterson that makes him appealing to undergraduates at the same time as it makes him a target-rich environment for haughty intellectuals and snarky journalists. There are literally tens of thousands of graduate students and ex-graduate students who know more about the intricacies of postmodern thought than Jordan Peterson does. Peterson’s tweeted and blogged responses to the Times piece are indicative of a person with virtually no sense of how he will be regarded by those who do not share his private system of reference. Why don’t you recognize that I’m not speaking of actual men and women but the symbolic Masculine and Feminine in Jungian archetypal thinking? Why don’t you know that “Enforced Monogamy” is an anthropological term? You won’t understand anything about Jordan Peterson until you realize that his confusion on these questions is entirely sincere.</p>
 <p>So what does Peterson actually believe? He has consistently defended the moral position that the “individual is sovereign over the group,” a unique feature of Anglo-American political theory and practice that holds that citizens hold their rights against the state rather than through it, which is inscribed into our founding documents, and helps to account for the remarkable capacity of societies built around its doctrines to accommodate high levels of diversity while remaining democratic. The underlying sovereignty of individuals forces state power to operate against a hard constraint that limits coercion, and gives individuals the means by which to push back.</p>
-<p>This position is not a “centrist” position between the poles of alt-right and the identity politics of the left, but a distinct position orthogonal to both. It rejects group identity as the foundation of politics in favor of strengthening the individual as a bulwark against what Peterson calls “ideological possession”—the temptation to subordinate the various ends of life into a contest for group dominance. Peterson sees the emergence of identity politics on both the right and left as a single phenomenon, with each pole feeding the growth of the other, as individuals lost amidst the chaos of contemporary life turn to ideologies providing simple solutions to complex questions, a corresponding set of friends—and a corresponding set of enemies. How anyone who has spent a single afternoon on Twitter can doubt that these polarizing group psychological dynamics exist—and explain the growth of political extremism at a time of relative prosperity—is frankly perplexing to me.</p></blockquote>
-<p>So, on the one hand, Peterson should be held responsible for some of his rhetoric, and he should take a bit more care to ensure that he’s being correctly understood by his various audiences. On the other hand, Peterson’s views are quite MODERATE. He is not the radical right-wing ideologue that many people make him out to be.</p>
+<p>This position is not a “centrist” position between the poles of alt-right and the identity politics of the left, but a distinct position orthogonal to both. It rejects group identity as the foundation of politics in favor of strengthening the individual as a bulwark against what Peterson calls “ideological possession”—the temptation to subordinate the various ends of life into a contest for group dominance. Peterson sees the emergence of identity politics on both the right and left as a single phenomenon, with each pole feeding the growth of the other, as individuals lost amidst the chaos of contemporary life turn to ideologies providing simple solutions to complex questions, a corresponding set of friends—and a corresponding set of enemies. How anyone who has spent a single afternoon on Twitter can doubt that these polarizing group psychological dynamics exist—and explain the growth of political extremism at a time of relative prosperity—is frankly perplexing to me.</p></blockquote><p>So, on the one hand, Peterson should be held responsible for some of his rhetoric, and he should take a bit more care to ensure that he’s being correctly understood by his various audiences. On the other hand, Peterson’s views are quite MODERATE. He is not the radical right-wing ideologue that many people make him out to be.</p>
 <h1 id="whats-your-take-on-jordan-peterson">What’s YOUR take on Jordan Peterson?</h1>
 <p>Let me know in the comments.</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths</title>
-      <link>https://joshuapsteele.com/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</link>
+      <link>http://localhost:1313/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</link>
       <pubDate>Fri, 08 Jun 2018 18:39:38 +0000</pubDate>
-      <guid>https://joshuapsteele.com/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</guid>
+      <guid>http://localhost:1313/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/</guid>
       <description>&lt;p&gt;In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.&lt;/p&gt;
 &lt;p&gt;So, I thought I would take a few minutes to share it with you.&lt;/p&gt;
 &lt;h1 id=&#34;gretchen-rubin-explains-the-four-tendencies&#34;&gt;Gretchen Rubin Explains the Four Tendencies&lt;/h1&gt;
@@ -1337,9 +1325,9 @@
     </item>
     <item>
       <title>Hate Running? Try Rucking Instead</title>
-      <link>https://joshuapsteele.com/hate-running-try-rucking-instead/</link>
+      <link>http://localhost:1313/hate-running-try-rucking-instead/</link>
       <pubDate>Fri, 08 Jun 2018 16:09:30 +0000</pubDate>
-      <guid>https://joshuapsteele.com/hate-running-try-rucking-instead/</guid>
+      <guid>http://localhost:1313/hate-running-try-rucking-instead/</guid>
       <description>&lt;p&gt;&lt;em&gt;(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;rucking--running&#34;&gt;Rucking &amp;gt; Running&lt;/h1&gt;
 &lt;p&gt;It took me a &lt;em&gt;long&lt;/em&gt; time to “fall in love” with running. It did not take me nearly as long to fall &lt;em&gt;out&lt;/em&gt; of love with running!&lt;/p&gt;
@@ -1350,14 +1338,12 @@
 <p>And yet, even though I’ve long enjoyed <a href="https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian/">doing kettlebell swings</a> and doing <a href="https://stronglifts.com/5x5/">the 5×5 weight-lifing workout</a>, I did begin to miss the benefits of cardio training.</p>
 <p>Enter <em>rucking</em>.</p>
 <p>I first heard about <em>rucking</em>—carrying a weighted pack on your back—as a form of personal fitness over at <a href="https://www.artofmanliness.com/articles/the-benefits-of-rucking/">The Art of Manliness</a>:</p>
-<blockquote>
-<p>Rucking is simple. So simple, it’s stupid.<br>
+<blockquote><p>Rucking is simple. So simple, it’s stupid.<br>
 Get a backpack.<br>
 Put some weight in said backpack.<br>
 Put on the backpack.<br>
 Start walking.<br>
-That’s it.</p></blockquote>
-<h1 id="want-to-get-started-heres-how-to-ruck-on-a-budget">Want to Get Started? Here’s How to Ruck on a Budget</h1>
+That’s it.</p></blockquote><h1 id="want-to-get-started-heres-how-to-ruck-on-a-budget">Want to Get Started? Here’s How to Ruck on a Budget</h1>
 <p>To get started with rucking, I first used my old backpack and a couple dumbbells. This worked fine, but I didn’t like how the dumbbells dug into my lower back.</p>
 <p>So, I did some research about rucking on a budget, and I found <a href="http://www.mettleforger.com/how-to-ruck-on-a-budget/">this very helpful blogpost: “How to: Ruck on a Budget.”</a> There’s also <a href="https://www.thesimpledollar.com/a-guide-to-rucking-my-favorite-low-cost-frugal-exercise-activity/">this piece at The Simple Dollar: A Guide to Rucking, My Favorite Low-Cost Exercise Activity.</a></p>
 <p>Nevertheless, I picked different gear. Here’s my current rucking setup:</p>
@@ -1398,9 +1384,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>What to make of Jordan Peterson? Some takes, then my own.</title>
-      <link>https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/</link>
+      <link>http://localhost:1313/what-to-make-of-jordan-peterson-some-takes-then-my-own/</link>
       <pubDate>Wed, 28 Mar 2018 14:44:59 +0000</pubDate>
-      <guid>https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/</guid>
+      <guid>http://localhost:1313/what-to-make-of-jordan-peterson-some-takes-then-my-own/</guid>
       <description>&lt;p&gt;&lt;em&gt;UPDATE: Read my post, &lt;a href=&#34;https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/&#34;&gt;“Two More Pieces about Jordan Peterson.”&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;If I remember correctly, I first heard of and listened to Jordan Peterson on &lt;a href=&#34;https://www.artofmanliness.com/2017/08/31/podcast-335-using-power-myths-live-flourishing-life/&#34;&gt;an episode of The Art of Manliness podcast&lt;/a&gt;. (Or perhaps it was &lt;a href=&#34;https://www.artofmanliness.com/2018/02/06/12-rules-for-life-jordan-peterson-interview/&#34;&gt;this episode&lt;/a&gt;.)&lt;/p&gt;
 &lt;h1 id=&#34;however-i-could-be-mistaken-because-petersons-been-popping-up-in-conversation-all-over-the-place-in-my-circles&#34;&gt;However, I could be mistaken, because Peterson’s been popping up in conversation all over the place in my circles.&lt;/h1&gt;
@@ -1411,17 +1397,13 @@ That’s it.</p></blockquote>
 <p>Blog posts, podcast episodes, conversations with friends – Peterson has been popping up everywhere, so it seems.</p>
 <h2 id="gerald-mcdermotts-take">Gerald McDermott’s Take</h2>
 <p>My <a href="http://www.patheos.com/blogs/northamptonseminar/2018/02/03/biblical-wisdom-secular-psychologist/">old seminary professor, Gerald McDermott</a>, has blogged about Peterson’s new book, “<a href="https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=as_li_ss_tl?ie=UTF8&amp;qid=1522244418&amp;sr=8-1&amp;keywords=12+rules+for+life&amp;linkCode=ll1&amp;tag=joshuapsteele-20&amp;linkId=3dbfc723801c4d44e8f654a5e7da752c">12 Rules for Life: an Antidote to Chaos</a>,” saying:</p>
-<blockquote>
-<p>It is a good book, blunt and inspiring.</p>
-<p>We live in a time when so many young (and not so young) people feel lost, unsure of how they should approach their lives, or life in general. Mr. Peterson talks about the attitudes that will help find the path. It is not a politically correct or officially approved path, but it is an intensely practical and yet heightened one: This life you’re living has meaning.</p></blockquote>
-<iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=joshuapsteele-20&marketplace=amazon&region=US&placement=0345816021&asins=0345816021&linkId=798f148b4266de5cd4854d35961356ee&show_border=true&link_opens_in_new_window=true" style="width: 120px; height: 240px;"></iframe>
+<blockquote><p>It is a good book, blunt and inspiring.</p>
+<p>We live in a time when so many young (and not so young) people feel lost, unsure of how they should approach their lives, or life in general. Mr. Peterson talks about the attitudes that will help find the path. It is not a politically correct or officially approved path, but it is an intensely practical and yet heightened one: This life you’re living has meaning.</p></blockquote><iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=joshuapsteele-20&marketplace=amazon&region=US&placement=0345816021&asins=0345816021&linkId=798f148b4266de5cd4854d35961356ee&show_border=true&link_opens_in_new_window=true" style="width: 120px; height: 240px;"></iframe>
 <h2 id="scot-mcknights-blogs-patrick-mitchells-take">Scot McKnight’s Blog’s (Patrick Mitchell’s) Take</h2>
 <p>Furthermore, <a href="http://www.patheos.com/blogs/jesuscreed/2018/01/29/jordan-petersons-12-rules/">Scot McKnight blogged (or rather, published a guest post by Patrick Mitchell) about Peterson’s 12 Rules</a>:</p>
-<blockquote>
-<p>What is he saying?</p>
+<blockquote><p>What is he saying?</p>
 <p>This is a big question because, as he says himself, he talks a lot, often too much and often at speed. He also covers a lot of ground from psychology, to philosophy, to men and women, to the Bible, to politics, to the world of work and freedom of speech. What follows is a snap-shot, drawn from listening to Peterson over the last year.</p>
-<p>And the fact that what he is saying is now seen as ‘provocative’ or ‘radical’ or ‘patriarchal’ or ‘extreme’ says more about a contemporary culture of relativism and victimhood than it does about Peterson. Finding out more about his ‘reputation’, I have had to keep asking myself, ‘am I missing something?’. ‘Is this guy a member of some secret right-wing network?’ For I can’t see the evidence in his academic lectures, written material or YouTube videos.</p></blockquote>
-<p>The rest of the post is <a href="http://www.patheos.com/blogs/jesuscreed/2018/01/29/jordan-petersons-12-rules/">a pretty detailed look at various aspects of Peterson’s thought</a>.</p>
+<p>And the fact that what he is saying is now seen as ‘provocative’ or ‘radical’ or ‘patriarchal’ or ‘extreme’ says more about a contemporary culture of relativism and victimhood than it does about Peterson. Finding out more about his ‘reputation’, I have had to keep asking myself, ‘am I missing something?’. ‘Is this guy a member of some secret right-wing network?’ For I can’t see the evidence in his academic lectures, written material or YouTube videos.</p></blockquote><p>The rest of the post is <a href="http://www.patheos.com/blogs/jesuscreed/2018/01/29/jordan-petersons-12-rules/">a pretty detailed look at various aspects of Peterson’s thought</a>.</p>
 <hr>
 <h2 id="the-infamous-channel-4-interview">The Infamous Channel 4 Interview</h2>
 <p>Both of those blogs mention Peterson’s now infamous Channel 4 interview where Cathy Newman adopts some pretty aggressive and apparently unfair interviewing tactics (listen for “so you’re saying…,” followed by caricatures of Peterson’s claims):</p>
@@ -1432,45 +1414,31 @@ That’s it.</p></blockquote>
 <p>First, here are a couple explicitly “theological” takes:</p>
 <h2 id="first-things-jordan-peterson-unlikely-guru-matthew-schmitz">First Things: “Jordan Peterson, Unlikely Guru” (Matthew Schmitz)</h2>
 <p><a href="https://www.firstthings.com/article/2018/04/jordan-peterson-unlikely-guru">Schmitz’s entire piece</a> is worth reading, but here was the kicker, in my opinion:</p>
-<blockquote>
-<p>What critics and fans alike miss is just how unlikely a guru Peterson is. Though he brims with sympathy for the confused, he is uncertain about where they should go. He advocates for rules but is vague on who should set them. He believes in the importance of religion, but he doesn’t quite have one.</p></blockquote>
-<p>Schmitz concludes the piece with:</p>
-<blockquote>
-<p>Young men look to Peterson for answers, but he is still turning the kaleidoscope, searching for pattern and form. Earlier this year, an interviewer for VICE asked him, “Who is your target audience, who are you trying to reach?” With eyes downcast he said, “Partly me.”</p></blockquote>
-<hr>
+<blockquote><p>What critics and fans alike miss is just how unlikely a guru Peterson is. Though he brims with sympathy for the confused, he is uncertain about where they should go. He advocates for rules but is vague on who should set them. He believes in the importance of religion, but he doesn’t quite have one.</p></blockquote><p>Schmitz concludes the piece with:</p>
+<blockquote><p>Young men look to Peterson for answers, but he is still turning the kaleidoscope, searching for pattern and form. Earlier this year, an interviewer for VICE asked him, “Who is your target audience, who are you trying to reach?” With eyes downcast he said, “Partly me.”</p></blockquote><hr>
 <h2 id="think-theology-peterson-driscoll-and-the-millenial-man-matthew-hosier">Think Theology: “Peterson, Driscoll, and the Millenial Man” (Matthew Hosier)</h2>
 <p><a href="http://thinktheology.co.uk/blog/article/peterson_driscoll_the_millennial_man">Mathew Hosier, at Think Theology, confesses that some of Peterson’s talk of personal responsibility reminds him of Mark Driscoll</a>. Nevertheless, he admits that he thinks Peterson is different than Driscoll:</p>
-<blockquote>
-<p>Whatever the rights and wrongs of what happened at Mars Hill, it is undeniable that Driscoll’s genius was connecting with and motivating young men. They responded in their droves to his yelling at them to take responsibility for themselves and others. He painted a picture of the possible that was more compelling for many Millennials than the needs-based, rights-oriented culture in which they had been raised.</p>
-<p>Peterson has observed how his lectures attract a surprisingly large number of young men too. Peterson is a very different character from Driscoll, but his challenge to young men to ‘pick up the heaviest rock you can and carry it’ is strikingly similar. Many Millennial young men seem confused about what it is to be a man and something leaps in them when another man tells them what they can do about it: shoulder a load, take some responsibility, clean your room and make life better for you and for those around you.</p></blockquote>
-<hr>
+<blockquote><p>Whatever the rights and wrongs of what happened at Mars Hill, it is undeniable that Driscoll’s genius was connecting with and motivating young men. They responded in their droves to his yelling at them to take responsibility for themselves and others. He painted a picture of the possible that was more compelling for many Millennials than the needs-based, rights-oriented culture in which they had been raised.</p>
+<p>Peterson has observed how his lectures attract a surprisingly large number of young men too. Peterson is a very different character from Driscoll, but his challenge to young men to ‘pick up the heaviest rock you can and carry it’ is strikingly similar. Many Millennial young men seem confused about what it is to be a man and something leaps in them when another man tells them what they can do about it: shoulder a load, take some responsibility, clean your room and make life better for you and for those around you.</p></blockquote><hr>
 <p>Other, less (explicitly) theological takes on Peterson abound:</p>
 <h2 id="the-atlantic-why-cant-people-hear-what-jordan-peterson-is-saying-connor-friesdorf">The Atlantic: “Why Can’t People Hear What Jordan Peterson is saying?” (Connor Friesdorf)</h2>
 <p>Focusing on the Channel 4 interview, Friesdorf concludes:</p>
-<blockquote>
-<p>…this is neither an endorsement nor a condemnation of Peterson’s views. It is an argument that the effects of the approach used in this interview are pernicious.</p>
-<p>For one, those who credulously accept the interviewer’s characterizations will emerge with the impression that a prominent academic holds troubling views that, in fact, he does not actually believe or advocate. Some will feel needlessly troubled. And distorted impressions of what figures like Peterson mean by the words that they speak can only exacerbate overall polarization between their followers and others, and sap their critics of credibility to push back where they are wrong.</p></blockquote>
-<hr>
+<blockquote><p>…this is neither an endorsement nor a condemnation of Peterson’s views. It is an argument that the effects of the approach used in this interview are pernicious.</p>
+<p>For one, those who credulously accept the interviewer’s characterizations will emerge with the impression that a prominent academic holds troubling views that, in fact, he does not actually believe or advocate. Some will feel needlessly troubled. And distorted impressions of what figures like Peterson mean by the words that they speak can only exacerbate overall polarization between their followers and others, and sap their critics of credibility to push back where they are wrong.</p></blockquote><hr>
 <h2 id="vox-jordan-peterson-explained-zack-beauchamp">Vox: “Jordan Peterson, Explained” (Zack Beauchamp)</h2>
 <p><a href="https://www.vox.com/world/2018/3/26/17144166/jordan-peterson-12-rules-for-life">Zack Beauchamp has a long write-up on Jordan Peterson in Vox magazine</a>, which concludes:</p>
-<blockquote>
-<p>But Peterson has inextricably intertwined his self-help approach with a kind of reactionary politics that validates white, straight, and cisgender men at the expense of everyone else. He gives them a sense of purpose by, in part, tearing other people down — by insisting that the world can and should revolve around them and their problems.</p>
+<blockquote><p>But Peterson has inextricably intertwined his self-help approach with a kind of reactionary politics that validates white, straight, and cisgender men at the expense of everyone else. He gives them a sense of purpose by, in part, tearing other people down — by insisting that the world can and should revolve around them and their problems.</p>
 <p>This painful contrast is on display later in that very interview, in which he explicitly argues that concern for sexism is to blame for the plight of the West’s young men.</p>
 <p>“We’re so stupid. We’re alienating young men. We’re telling them that they’re patriarchal oppressors and denizens of rape culture,” he says. “It’s awful. It’s so destructive. It’s so unnecessary. And it’s so sad.”</p>
-<p>The empathy that he displays for men and boys in his BBC interview and 12 Rules for Life is touching. The problem is that he can’t seem to extend it to anyone else.</p></blockquote>
-<p>NOTE: From what I know of Peterson, Beauchamp’s take strikes me as unfair. Peterson himself isn’t trying to validate “white, straight, and cisgender men at the expense of everyone else</p>
+<p>The empathy that he displays for men and boys in his BBC interview and 12 Rules for Life is touching. The problem is that he can’t seem to extend it to anyone else.</p></blockquote><p>NOTE: From what I know of Peterson, Beauchamp’s take strikes me as unfair. Peterson himself isn’t trying to validate “white, straight, and cisgender men at the expense of everyone else</p>
 <hr>
 <h2 id="the-new-york-times-the-jordan-peterson-moment-david-brooks">The New York Times: “The Jordan Peterson Moment” (David Brooks)</h2>
 <p>In my opinion, <a href="https://www.nytimes.com/2018/01/25/opinion/jordan-peterson-moment.html">David Brooks hits the nail on the head here</a>:</p>
-<blockquote>
-<p>Much of Peterson’s advice sounds to me like vague exhortatory banality. Like Hobbes and Nietzsche before him, he seems to imagine an overly brutalistic universe, nearly without benevolence, beauty, attachment and love. His recipe for self-improvement is solitary, nonrelational, unemotional. I’d say the lives of young men can be improved more through loving attachment than through Peterson’s joyless and graceless calls to self-sacrifice.</p></blockquote>
-<p>However, I wouldn’t exactly call Peterson’s calls to self-sacrifice “joyless and graceless.”</p>
+<blockquote><p>Much of Peterson’s advice sounds to me like vague exhortatory banality. Like Hobbes and Nietzsche before him, he seems to imagine an overly brutalistic universe, nearly without benevolence, beauty, attachment and love. His recipe for self-improvement is solitary, nonrelational, unemotional. I’d say the lives of young men can be improved more through loving attachment than through Peterson’s joyless and graceless calls to self-sacrifice.</p></blockquote><p>However, I wouldn’t exactly call Peterson’s calls to self-sacrifice “joyless and graceless.”</p>
 <hr>
 <h2 id="the-new-yorker-jordan-petersons-gospel-of-masculinity-kelefa-sanneh">The New Yorker: “Jordan Peterson’s Gospel of Masculinity” (Kelefa Sanneh)</h2>
 <p>Similarly, I think that <a href="https://www.newyorker.com/magazine/2018/03/05/jordan-petersons-gospel-of-masculinity">Kelefa Sanneh hits the nail on the head here</a>:</p>
-<blockquote>
-<p>Peterson sometimes asks audiences to view him as an alternative to political excesses on both sides. During an interview on BBC Radio 5, he said, “I’ve had thousands of letters from people who were tempted by the blandishments of the radical right, who’ve moved towards the reasonable center as a consequence of watching my videos.” But he typically sees liberals, or leftists, or “postmodernists,” as aggressors—which leads him, rather ironically, to frame some of those on the “radical right” as victims. Many of his political stances are built on this type of inversion. Postmodernists, he says, are obsessed with the idea of oppression, and, by waging war on oppressors real and imagined, they become oppressors themselves. Liberals, he says, are always talking about the importance of compassion—and yet “there’s nothing more horrible for children, and developing people, than an excess of compassion.” (This horror, he says, is embodied in the figure of the “Freudian devouring mother”; as an example, he cites Ursula, the sea witch from “The Little Mermaid.”) The danger, it seems, is that those who want to improve Western society may end up destroying it.</p></blockquote>
-<p>Alright, time for some thoughts of my own.</p>
+<blockquote><p>Peterson sometimes asks audiences to view him as an alternative to political excesses on both sides. During an interview on BBC Radio 5, he said, “I’ve had thousands of letters from people who were tempted by the blandishments of the radical right, who’ve moved towards the reasonable center as a consequence of watching my videos.” But he typically sees liberals, or leftists, or “postmodernists,” as aggressors—which leads him, rather ironically, to frame some of those on the “radical right” as victims. Many of his political stances are built on this type of inversion. Postmodernists, he says, are obsessed with the idea of oppression, and, by waging war on oppressors real and imagined, they become oppressors themselves. Liberals, he says, are always talking about the importance of compassion—and yet “there’s nothing more horrible for children, and developing people, than an excess of compassion.” (This horror, he says, is embodied in the figure of the “Freudian devouring mother”; as an example, he cites Ursula, the sea witch from “The Little Mermaid.”) The danger, it seems, is that those who want to improve Western society may end up destroying it.</p></blockquote><p>Alright, time for some thoughts of my own.</p>
 <hr>
 <h1 id="my-current-take-on-jordan-peterson">My Current Take on Jordan Peterson</h1>
 <h2 id="first-hes-definitely-on-to-something">First, he’s definitely on to something.</h2>
@@ -1506,9 +1474,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Do More Better: Tim Challies&#39; Excellent Little Book on Personal Productivity Could Change Your Life</title>
-      <link>https://joshuapsteele.com/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</link>
+      <link>http://localhost:1313/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</link>
       <pubDate>Fri, 23 Mar 2018 13:38:00 +0000</pubDate>
-      <guid>https://joshuapsteele.com/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</guid>
+      <guid>http://localhost:1313/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/</guid>
       <description>&lt;p&gt;Tim Challies begins his book, &lt;a href=&#34;http://amzn.to/2ufosG4&#34;&gt;&lt;em&gt;Do More Better: A Practical Guide to Productivity&lt;/em&gt;&lt;/a&gt; with a bold claim: “I believe this book can improve your life.”&lt;/p&gt;
 &lt;p&gt;However, after reading the book, which is just 120 pages long including endnotes!, I believe that Challies makes good on his claim.&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34; scrolling=&#34;no&#34; src=&#34;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;OneJS=1&amp;Operation=GetAdHtml&amp;MarketPlace=US&amp;source=ss&amp;ref=as_ss_li_til&amp;ad_type=product_link&amp;tracking_id=joshuapsteele-20&amp;marketplace=amazon&amp;region=US&amp;placement=1941114172&amp;asins=1941114172&amp;linkId=61476ee8a72a820b76e43d746b704020&amp;show_border=true&amp;link_opens_in_new_window=true&#34; style=&#34;width:120px;height:240px;&#34;&gt;&lt;/iframe&gt;
@@ -1524,9 +1492,7 @@ That’s it.</p></blockquote>
 <p><strong>Chapter one, Know Your Purpose</strong>, is devoted to the maxim that, <strong>as a Christian, your purpose is to glorify God by doing good to others.</strong></p>
 <h2 id="answer-the-call">Answer the Call</h2>
 <p>In <strong>chapter two, Answer the Call</strong>, Challies discusses the “Producitivity Thieves” of Laziness, Busyness, “BusyLazy,” and Thorns &amp; Thistles. He also places personal productivity in its proper context in the Christian life, rightly stating that:</p>
-<blockquote>
-<p>“God calls you to productivity, but he calls you to the right kind of productivity. He calls you to be productive for his sake, not your own. While this book will emphasize tools and systems and other important elements of productivity, nothing is more important than your own holiness and your own godliness. No amount of organization and time management will compensate for a lack of Christian character, not when it comes to this great calling of glory through good — bringing glory to God by doing good to others” (25).</p></blockquote>
-<h2 id="define-your-responsibilities">Define Your Responsibilities</h2>
+<blockquote><p>“God calls you to productivity, but he calls you to the right kind of productivity. He calls you to be productive for his sake, not your own. While this book will emphasize tools and systems and other important elements of productivity, nothing is more important than your own holiness and your own godliness. No amount of organization and time management will compensate for a lack of Christian character, not when it comes to this great calling of glory through good — bringing glory to God by doing good to others” (25).</p></blockquote><h2 id="define-your-responsibilities">Define Your Responsibilities</h2>
 <p>In <strong>chapter three, Define Your Responsibilities</strong>, Challies walks us through the process of defining and listing the various <strong>areas of responsibility</strong> in our lives (Personal, Family, Church, School, Work, Social, etc.), as well as our <strong>roles</strong> within those various areas of responsibility. Defining and listing both of these things provides the map/framework for what follows.</p>
 <h2 id="state-your-mission">State Your Mission</h2>
 <p>In <strong>chapter four, State Your Mission</strong>, Challies covers the process of developing mission/purpose statements for each of the Areas of Responsibility from chapter three. This completes the “audit” of one’s life, before moving on to the <strong>tools of productivity in chapter five</strong>.</p>
@@ -1548,9 +1514,7 @@ That’s it.</p></blockquote>
 <p><strong>Chapter ten, Maintain It Consistently</strong>, expands the horizon of focus to the weekly level. Challies walks us through the important process of the Weekly Review, focusing on the power of checklists and how we can “serve and surprise” in each of our areas of responsibilities and roles.</p>
 <h2 id="bonus-material">Bonus Material</h2>
 <p>As a <strong>bonus</strong>, <em>Do More Better</em> ends with <strong>6 Tips for Doing More Better with Email</strong> and <strong>20 Tips to Increase Your Productivity</strong>. My favorite tip from this section of the book is “6. Create a Not-To-Do-List”!</p>
-<blockquote>
-<p>“Create a note within Evernote that will contain a not-to-do-list. Make this a list of bad productivity habits you are trying to break, and go over this list each week during your weekly review. My not-to-do-list includes ‘Do not dring coffee after 2 p.m.,’ ‘Do not leave email open all day,’ and ‘Do not agree to meethings that have no agenda or no end-time’ (116-17).”</p></blockquote>
-<hr>
+<blockquote><p>“Create a note within Evernote that will contain a not-to-do-list. Make this a list of bad productivity habits you are trying to break, and go over this list each week during your weekly review. My not-to-do-list includes ‘Do not dring coffee after 2 p.m.,’ ‘Do not leave email open all day,’ and ‘Do not agree to meethings that have no agenda or no end-time’ (116-17).”</p></blockquote><hr>
 <h2 id="again-i-know-of-no-better-briefer-christian-approach-to-personal-productivity-than-do-more-better">Again, I know of no better, briefer Christian approach to personal productivity than <em>Do More Better</em></h2>
 <p>If you’re looking for a personal productivity system of your own, in order to do more for the glory of God and the good of others, pick up Challies’ book today!</p>
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=joshuapsteele-20&marketplace=amazon&region=US&placement=1941114172&asins=1941114172&linkId=61476ee8a72a820b76e43d746b704020&show_border=true&link_opens_in_new_window=true" style="width:120px;height:240px;"></iframe>
@@ -1566,9 +1530,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>I Need to Develop a Writing Habit. Do You?</title>
-      <link>https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/</link>
+      <link>http://localhost:1313/i-need-to-develop-a-writing-habit-do-you/</link>
       <pubDate>Mon, 19 Mar 2018 14:33:39 +0000</pubDate>
-      <guid>https://joshuapsteele.com/i-need-to-develop-a-writing-habit-do-you/</guid>
+      <guid>http://localhost:1313/i-need-to-develop-a-writing-habit-do-you/</guid>
       <description>&lt;p&gt;Because good writing = good thinking, I believe that &lt;em&gt;everyone&lt;/em&gt; could benefit from developing the habit of regular writing.&lt;/p&gt;
 &lt;p&gt;However, because I&lt;/p&gt;
 &lt;ul&gt;
@@ -1678,9 +1642,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Getting Back on the &#34;Getting Things Done&#34; Productivity Bandwagon</title>
-      <link>https://joshuapsteele.com/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
+      <link>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</link>
       <pubDate>Tue, 13 Mar 2018 22:06:09 +0000</pubDate>
-      <guid>https://joshuapsteele.com/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
+      <guid>http://localhost:1313/getting-back-on-the-getting-things-done-productivity-bandwagon/</guid>
       <description>&lt;p&gt;Getting Things Done (&amp;ldquo;GTD&amp;rdquo; for short) is a widely popular personal productivity system invented and popularized by David Allen. However, as &lt;a href=&#34;https://lifehacker.com/getting-things-done-ten-years-in-1795707084&#34;&gt;Nicole Dieker at Lifehacker pointed out in 2017&lt;/a&gt;, &amp;ldquo;You don’t hear a lot of people talk about the &lt;a href=&#34;http://gettingthingsdone.com/&#34;&gt;&lt;em&gt;Getting Things Done&lt;/em&gt;&lt;/a&gt; productivity system anymore.&amp;rdquo;&lt;/p&gt;
 &lt;p&gt;I think that’s a shame because it’s a very effective system.&lt;/p&gt;
 &lt;p&gt;I first tried Getting Things Done after reading &amp;ldquo;&lt;a href=&#34;http://amzn.to/2tMiX1w&#34;&gt;What’s Best Next&lt;/a&gt;&amp;rdquo; by Matt Perman and then reading &amp;ldquo;&lt;a href=&#34;http://amzn.to/2HvNJxv&#34;&gt;Getting Things Done&lt;/a&gt;&amp;rdquo; by David Allen (in its newly revised 2015 edition) shortly thereafter.&lt;/p&gt;</description>
@@ -1688,9 +1652,7 @@ That’s it.</p></blockquote>
 <p>I think that’s a shame because it’s a very effective system.</p>
 <p>I first tried Getting Things Done after reading &ldquo;<a href="http://amzn.to/2tMiX1w">What’s Best Next</a>&rdquo; by Matt Perman and then reading &ldquo;<a href="http://amzn.to/2HvNJxv">Getting Things Done</a>&rdquo; by David Allen (in its newly revised 2015 edition) shortly thereafter.</p>
 <p>At its core, GTD revolves around the following idea from David Allen:</p>
-<blockquote>
-<p>“Your mind is for having ideas, not holding them.”</p></blockquote>
-<p>What does that mean? Well, your brain does a much better job of coming up with random things than keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to remember everything instead of acting on them.</p>
+<blockquote><p>“Your mind is for having ideas, not holding them.”</p></blockquote><p>What does that mean? Well, your brain does a much better job of coming up with random things than keeping track of them. Therefore, if you don’t have a system in place for reliably and comprehensively keeping track of all the random “open loops” your brain comes up with throughout the day, you will use up a lot of your mental bandwidth trying to remember everything instead of acting on them.</p>
 <p>Enter the GTD system. It’s designed to solve the problem of tracking the “open loops” your brain creates—whether &ldquo;I need to buy milk&rdquo; or &ldquo;I need to revamp my blog.&rdquo;</p>
 <h2 id="the-pillars-of-gtd">The &ldquo;Pillars&rdquo; of GTD</h2>
 <ol>
@@ -1739,9 +1701,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>This One Simple Trick Helps Me Read Faster as a Ph.D. Student</title>
-      <link>https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/</link>
+      <link>http://localhost:1313/one-simple-trick-helps-read-faster-ph-d-student/</link>
       <pubDate>Mon, 05 Mar 2018 06:00:28 +0000</pubDate>
-      <guid>https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/</guid>
+      <guid>http://localhost:1313/one-simple-trick-helps-read-faster-ph-d-student/</guid>
       <description>&lt;p&gt;Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.&lt;/p&gt;
 &lt;p&gt;But, I mean, come on. Who has enough time to read? I don’t know about you, but I’ve got a stack of books a mile high that I’d like to work my way through.&lt;/p&gt;
 &lt;p&gt;Now, there’s a bunch of good advice out there about &lt;strong&gt;finding more time to read&lt;/strong&gt; (see &lt;a href=&#34;https://www.fs.blog/2013/09/finding-time-to-read/&#34;&gt;this post from Farnam Street&lt;/a&gt; and &lt;a href=&#34;https://www.artofmanliness.com/2018/02/26/how-to-read-more-books/&#34;&gt;this post from The Art of Manliness&lt;/a&gt;). In fact, finding more time to read is one of the main reasons why you should learn the basics of personal productivity and time management (see &lt;a href=&#34;https://joshuapsteele.com/category/productivity-and-time-management/&#34;&gt;my posts about productivity and time management&lt;/a&gt;).&lt;/p&gt;</description>
@@ -1762,54 +1724,46 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity</title>
-      <link>https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/</link>
+      <link>http://localhost:1313/go-sleep-kids-bible-psalm-127-says-productivity/</link>
       <pubDate>Wed, 28 Feb 2018 12:51:21 +0000</pubDate>
-      <guid>https://joshuapsteele.com/go-sleep-kids-bible-psalm-127-says-productivity/</guid>
+      <guid>http://localhost:1313/go-sleep-kids-bible-psalm-127-says-productivity/</guid>
       <description>&lt;h2 id=&#34;personal-productivity-in-psalm-127&#34;&gt;Personal Productivity in Psalm 127&lt;/h2&gt;
 &lt;p&gt;I love Psalm 127. Not because it makes me feel great, necessarily, but because it hits me like a ton of bricks whenever I read it (like I did last night, during evening prayer).&lt;/p&gt;
 &lt;p&gt;Here’s how the Psalm opens:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;text Ps-127-1&#34;&gt;Unless the &lt;span class=&#34;small-caps&#34;&gt;Lord&lt;/span&gt; builds the house,&lt;/span&gt;&lt;br&gt;
+&lt;blockquote&gt;&lt;p&gt;&lt;span class=&#34;text Ps-127-1&#34;&gt;Unless the &lt;span class=&#34;small-caps&#34;&gt;Lord&lt;/span&gt; builds the house,&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;indent-1&#34;&gt;&lt;span class=&#34;indent-1-breaks&#34;&gt; &lt;/span&gt;&lt;span class=&#34;text Ps-127-1&#34;&gt;the builders labor in vain.&lt;/span&gt;&lt;/span&gt;&lt;br&gt;
 &lt;span class=&#34;text Ps-127-1&#34;&gt;Unless the &lt;span class=&#34;small-caps&#34;&gt;Lord&lt;/span&gt; watches over the city,&lt;/span&gt;&lt;br&gt;
-&lt;span class=&#34;indent-1&#34;&gt;&lt;span class=&#34;indent-1-breaks&#34;&gt; &lt;/span&gt;&lt;span class=&#34;text Ps-127-1&#34;&gt;the guards stand watch in vain.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I don’t know about you, but it’s easy for me to think that my success or lack thereof completely depends on me and the intensity of my efforts.&lt;/p&gt;</description>
+&lt;span class=&#34;indent-1&#34;&gt;&lt;span class=&#34;indent-1-breaks&#34;&gt; &lt;/span&gt;&lt;span class=&#34;text Ps-127-1&#34;&gt;the guards stand watch in vain.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;I don’t know about you, but it’s easy for me to think that my success or lack thereof completely depends on me and the intensity of my efforts.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<h2 id="personal-productivity-in-psalm-127">Personal Productivity in Psalm 127</h2>
 <p>I love Psalm 127. Not because it makes me feel great, necessarily, but because it hits me like a ton of bricks whenever I read it (like I did last night, during evening prayer).</p>
 <p>Here’s how the Psalm opens:</p>
-<blockquote>
-<p><span class="text Ps-127-1">Unless the <span class="small-caps">Lord</span> builds the house,</span><br>
+<blockquote><p><span class="text Ps-127-1">Unless the <span class="small-caps">Lord</span> builds the house,</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-1">the builders labor in vain.</span></span><br>
 <span class="text Ps-127-1">Unless the <span class="small-caps">Lord</span> watches over the city,</span><br>
-<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-1">the guards stand watch in vain.</span></span></p></blockquote>
-<p>I don’t know about you, but it’s easy for me to think that my success or lack thereof completely depends on me and the intensity of my efforts.</p>
+<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-1">the guards stand watch in vain.</span></span></p></blockquote><p>I don’t know about you, but it’s easy for me to think that my success or lack thereof completely depends on me and the intensity of my efforts.</p>
 <p>Not true! It doesn’t matter how hard you work. If the Lord is not behind it and in favor of it, you’ll be laboring in vain.</p>
 <p>Now, of course, this Psalm doesn’t undo the Bible other admonitions to work diligently, lest you fall into poverty (see my post about <a href="https://joshuapsteele.com/20110210proverbs-topical-study-poverty/">Poverty in the book of Proverbs</a>).</p>
 <p>However, it does have implications for when we go to bed!</p>
 <h2 id="go-to-sleep">Go to Sleep</h2>
 <p>Verse 2 reads:</p>
-<blockquote>
-<p><span class="text Ps-127-2" id="en-NIV-16124">In vain you rise early</span><br>
+<blockquote><p><span class="text Ps-127-2" id="en-NIV-16124">In vain you rise early</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-2">and stay up late,</span></span><br>
 <span class="text Ps-127-2">toiling for food to eat—</span><br>
-<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-2">for he grants sleep to those he loves.</span></span></p></blockquote>
-<p>Thankfully, personal productivity advice these days has come around to recognizing the vital importance of sleep for your health.</p>
+<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-2">for he grants sleep to those he loves.</span></span></p></blockquote><p>Thankfully, personal productivity advice these days has come around to recognizing the vital importance of sleep for your health.</p>
 <p>However, I don’t know about you, but I often feel the nagging temptation that, if only I could squeeze a few extra hours out of the day, I could turn things around. To be perfectly honest, this is one of the reasons why I try to get up early (~5:00am) most mornings.</p>
 <p>There’s nothing inherently wrong with getting up early in the morning. After all, Jesus himself did so, in order to pray (see Mark 1:35).</p>
 <p>However, if you’re staying up late and getting up early in order to toil away because you think your work and success depends only on your efforts, then this Psalm encourages you to go to bed. Get some sleep. Learn to receive each day, along with exactly as much time as it contains, as a gift from God.</p>
 <h2 id="have-some-kids">Have Some Kids</h2>
 <p>The second part of the Psalm hits close to home as well! (See my previous post: <a href="https://joshuapsteele.com/3-confessions-expectant-father/">3 Confessions of an Expectant Father</a>.)</p>
 <p>Verses 3-5 read:</p>
-<blockquote>
-<p><span class="text Ps-127-3" id="en-NIV-16125">Children are a heritage from the <span class="small-caps">Lord</span>,</span><br>
+<blockquote><p><span class="text Ps-127-3" id="en-NIV-16125">Children are a heritage from the <span class="small-caps">Lord</span>,</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-3">offspring a reward from him.</span></span><br>
 <span class="text Ps-127-4" id="en-NIV-16126">Like arrows in the hands of a warrior</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-4">are children born in one’s youth.</span></span><br>
 <span class="text Ps-127-5" id="en-NIV-16127">Blessed is the man</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-5">whose quiver is full of them.</span></span><br>
 <span class="text Ps-127-5">They will not be put to shame</span><br>
-<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-5">when they contend with their opponents in court.</span></span></p></blockquote>
-<p>DISCLAIMER: I don’t have space here to address the complicated issue of infertility or other things that get in the way of having children. Just know that these verses don’t negate the fact that God loves and draws near to people going through such things in their times of pain.</p>
+<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-5">when they contend with their opponents in court.</span></span></p></blockquote><p>DISCLAIMER: I don’t have space here to address the complicated issue of infertility or other things that get in the way of having children. Just know that these verses don’t negate the fact that God loves and draws near to people going through such things in their times of pain.</p>
 <p>Nevertheless, these verses also teach an important truth: children are a blessing from God.</p>
 <p>Don’t get me wrong, I love kids. And, <a href="https://joshuapsteele.com/3-confessions-expectant-father/">as I’ve said in my previous post, I’m excited to be a dad</a>!</p>
 <p>And yet, I think that I’m going to need this Psalm as a frequent reminder in the days and years ahead! Personal productivity advice has come around to the idea of sleep being important, but I don’t know if there’s broad consensus on children always being considered a blessing! If you ask many people, <a href="https://www.psychologytoday.com/blog/the-happiness-doctor/201709/does-having-children-make-us-happy">the jury is still out on whether or not having children makes you happier</a> – much less more productive!!</p>
@@ -1824,9 +1778,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>How to Pray Before You Read and Write: A Prayer of St. Thomas Aquinas Before Study</title>
-      <link>https://joshuapsteele.com/prayer-of-st-thomas-aquinas-before-study/</link>
+      <link>http://localhost:1313/prayer-of-st-thomas-aquinas-before-study/</link>
       <pubDate>Fri, 02 Feb 2018 09:15:24 +0000</pubDate>
-      <guid>https://joshuapsteele.com/prayer-of-st-thomas-aquinas-before-study/</guid>
+      <guid>http://localhost:1313/prayer-of-st-thomas-aquinas-before-study/</guid>
       <description>&lt;p&gt;I want to share with you the following prayer of St. Thomas Aquinas Before Study, based on &lt;u&gt;&lt;em&gt;&lt;strong&gt;&lt;a href=&#34;http://www.preces-latinae.org/thesaurus/Varia/CreatorIneff.html&#34;&gt;Oratio S. Thomae Aquinatis ante studium&lt;/a&gt;&lt;/strong&gt;&lt;/em&gt;&lt;/u&gt;, which Thomas Aquinas would pray before studying, writing, or preaching.&lt;/p&gt;
 &lt;p&gt;We prayed it responsively before class (Patristic and Medieval History and Doctrine) with Dr. Piotr Malysz at Beeson Divinity School, and I’ve since turned back to this prayer often!&lt;/p&gt;
 &lt;hr&gt;
@@ -1848,9 +1802,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>5 Books Every Christian Should Read</title>
-      <link>https://joshuapsteele.com/5-books-every-christian-read/</link>
+      <link>http://localhost:1313/5-books-every-christian-read/</link>
       <pubDate>Wed, 31 Jan 2018 03:59:33 +0000</pubDate>
-      <guid>https://joshuapsteele.com/5-books-every-christian-read/</guid>
+      <guid>http://localhost:1313/5-books-every-christian-read/</guid>
       <description>&lt;p&gt;OK, OK. I get it. Claiming that every Christian should read these 5 books is a bold claim.&lt;/p&gt;
 &lt;p&gt;But, honestly, I think that these reading recommendations stand up to the scrutiny.&lt;/p&gt;
 &lt;p&gt;I’ve been wracking my brain trying to come up with just the top 5 books that a busy Christian should read if she wants to learn the essentials about:&lt;/p&gt;
@@ -1942,9 +1896,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>An 80/20 Approach to the Christian Life: 2 Reasons Why Christians Should Care About the Pareto Principle</title>
-      <link>https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</link>
+      <link>http://localhost:1313/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</link>
       <pubDate>Tue, 30 Jan 2018 12:48:49 +0000</pubDate>
-      <guid>https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</guid>
+      <guid>http://localhost:1313/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/</guid>
       <description>&lt;p&gt;Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?&lt;/p&gt;
 &lt;p&gt;I’m right there with you! That’s why I’ve made “&lt;a href=&#34;https://joshuapsteele.com/category/productivity-and-time-management/&#34;&gt;Get Your Act Together (Productivity and Time Management)&lt;/a&gt;” the first of my &lt;a href=&#34;https://joshuapsteele.com/start-here/&#34;&gt;Steps to Find Purpose and Meaning in Life&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thankfully, I think I’ve found something that can help. I’d like to introduce you to the “&lt;strong&gt;Pareto Principle&lt;/strong&gt;,” also known as “&lt;strong&gt;the 80/20 Rule&lt;/strong&gt;,” the “law of the vital few,” or the “principle of factor sparsity,” if you want to get all technical about it.&lt;/p&gt;</description>
@@ -2005,22 +1959,19 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Principles: 10 Imperatives for the Good Life</title>
-      <link>https://joshuapsteele.com/principles-10-imperatives-good-life/</link>
+      <link>http://localhost:1313/principles-10-imperatives-good-life/</link>
       <pubDate>Tue, 17 Oct 2017 16:18:56 +0000</pubDate>
-      <guid>https://joshuapsteele.com/principles-10-imperatives-good-life/</guid>
+      <guid>http://localhost:1313/principles-10-imperatives-good-life/</guid>
       <description>&lt;p&gt;Why write out a list of principles?&lt;/p&gt;
 &lt;p&gt;For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.&lt;/p&gt;
 &lt;p&gt;For another, I’ve just been given a copy of &lt;em&gt;&lt;a href=&#34;http://amzn.to/2yQpytf&#34;&gt;Principles: Life and Work&lt;/a&gt;&lt;/em&gt;&lt;a href=&#34;http://amzn.to/2yQpytf&#34;&gt; by Ray Dalio&lt;/a&gt; (affiliate link).&lt;/p&gt;
 &lt;p&gt;According to Dalio (ix),&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be aplied again and again in similar situations to help you achieve your goals.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be aplied again and again in similar situations to help you achieve your goals.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>Why write out a list of principles?</p>
 <p>For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.</p>
 <p>For another, I’ve just been given a copy of <em><a href="http://amzn.to/2yQpytf">Principles: Life and Work</a></em><a href="http://amzn.to/2yQpytf"> by Ray Dalio</a> (affiliate link).</p>
 <p>According to Dalio (ix),</p>
-<blockquote>
-<p>Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be aplied again and again in similar situations to help you achieve your goals.</p></blockquote>
-<p>With that in mind, here are 10 principles I’ve developed so far. I’ve followed Dalio’s lead in casting my principles as imperatives. No, I don’t always do an excellent job at these. But they’re worth striving for.</p>
+<blockquote><p>Principles are fundamental truths that serve as the foundations for behavior that gets you what you want out of life. They can be aplied again and again in similar situations to help you achieve your goals.</p></blockquote><p>With that in mind, here are 10 principles I’ve developed so far. I’ve followed Dalio’s lead in casting my principles as imperatives. No, I don’t always do an excellent job at these. But they’re worth striving for.</p>
 <p>No, this is not an exhaustive list. And no, I don’t always do an excellent job at these. But they’re worth striving for.</p>
 <hr>
 <h1 id="1-go-to-church-word--sacraments">1. Go to Church: Word &amp; Sacraments</h1>
@@ -2102,9 +2053,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Podcasts You Should Listen To</title>
-      <link>https://joshuapsteele.com/my-favorite-podcasts/</link>
+      <link>http://localhost:1313/my-favorite-podcasts/</link>
       <pubDate>Tue, 25 Jul 2017 15:46:34 +0000</pubDate>
-      <guid>https://joshuapsteele.com/my-favorite-podcasts/</guid>
+      <guid>http://localhost:1313/my-favorite-podcasts/</guid>
       <description>&lt;h1 id=&#34;podcasts-an-introduction&#34;&gt;Podcasts: An Introduction&lt;/h1&gt;
 &lt;p&gt;Although podcasts (think “iPod” + “broadcast”) have been around for over a decade, we’re living in a bit of a golden age – or a least a Rennaissance – of the medium. For the uninitiated, here’s a nice video about what podcasts are:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=oerm5Q&#34;&gt;https://www.youtube.com/watch?v=oerm5Q&lt;/a&gt;_9u2A&lt;/p&gt;
@@ -2122,11 +2073,9 @@ That’s it.</p></blockquote>
 <p>Sure, the egalitarian in me wishes there were a show out there called “The Art of Humanity” – about how to be a <em>Mensch.</em> However, in the meantime, Brett McKay has a solid podcast going about “reviving the lost art of manliness.” I enjoy the podcast (and t<a href="http://www.artofmanliness.com/">he Art of Manliness website</a>) because it includes so many helpful how-to guides – for everything from weightlifting to men’s fashion.</p>
 <h2 id="word--table"><a href="https://wordandtable.simplecast.fm/">Word &amp; Table</a></h2>
 <p>I created <a href="http://anglicanpastor.com/rookieanglican/">Rookie Anglican</a> as a way of making Anglicanism more accessible. This podcast, Word &amp; Table, has much the same mission, although it’s focus is not just on Anglicanism, but rather on the rich Christian tradition of liturgical worship. As I wrote about the podcast <a href="http://anglicanpastor.com/listen-to-the-word-table-podcast-to-learn-more-about-liturgical-and-sacramental-christian-worship/">over at Rookie Anglican</a>:</p>
-<blockquote>
-<p>According to their <a href="https://wordandtable.simplecast.fm/">website</a>, Word &amp; Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”</p>
+<blockquote><p>According to their <a href="https://wordandtable.simplecast.fm/">website</a>, Word &amp; Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”</p>
 <p>The podcast was started back in October 2016, and it’s hosted by <a href="http://www.greenhousemovement.com/team/alex-wilgus/">Alex Wilgus</a> and Fr. <a href="http://www.churchrez.org/staff/profile/stephengauthier">Stephen Gauthier</a>, the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.</p>
-<p>You can subscribe to the podcast via <a href="https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2">iTunes</a>, listen to episodes via the <a href="https://wordandtable.simplecast.fm/">Word &amp; Table website</a>, or simply search for “Word and Table” in your podcast player/manager of choice.</p></blockquote>
-<p>If you’ve got questions about anything related to the Christian tradition, check out the Word &amp; Table podcast to see if they have an episode on the topic!</p>
+<p>You can subscribe to the podcast via <a href="https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2">iTunes</a>, listen to episodes via the <a href="https://wordandtable.simplecast.fm/">Word &amp; Table website</a>, or simply search for “Word and Table” in your podcast player/manager of choice.</p></blockquote><p>If you’ve got questions about anything related to the Christian tradition, check out the Word &amp; Table podcast to see if they have an episode on the topic!</p>
 <h2 id="the-tim-ferriss-show"><a href="https://tim.blog/podcast/">The Tim Ferriss Show</a></h2>
 <p>I’ve become somewhat of a Tim Ferriss junkie in the past two years. In addition to this podcast – which features long-form interviews with “top performers,” in which Tim distils tips, tricks, habits, and practices for the common person – Ferriss’ books are well worth checking out (Affiliate LInks: <a href="http://amzn.to/2uTWui7">The 4-Hour Workweek</a>; The <a href="http://amzn.to/2uxKdxq">4-Hour Body</a>; The <a href="http://amzn.to/2h0dtJT">4-Hour Chef</a>; <a href="http://amzn.to/2h0dwp3">Tools of Titans</a>) . He’s great at teaching <em><a href="https://en.wikipedia.org/wiki/Meta_learning">metalearning</a></em> – how to learn how to learn!</p>
 <p>(Note: Tim Ferriss is how I found out about <a href="https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/">kettlebells</a> – one of my <a href="https://joshuapsteele.com/tools">favorite tools</a> for personal fitness.)</p>
@@ -2147,9 +2096,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Is The Well-Equipped Christian Worth It?</title>
-      <link>https://joshuapsteele.com/is-the-well-equipped-christian-worth-it/</link>
+      <link>http://localhost:1313/is-the-well-equipped-christian-worth-it/</link>
       <pubDate>Tue, 31 Jan 2017 23:13:18 +0000</pubDate>
-      <guid>https://joshuapsteele.com/is-the-well-equipped-christian-worth-it/</guid>
+      <guid>http://localhost:1313/is-the-well-equipped-christian-worth-it/</guid>
       <description>&lt;p&gt;Have you ever had a problem finding a reliable resource for recommendations?&lt;/p&gt;
 &lt;p&gt;I have.&lt;/p&gt;
 &lt;p&gt;Certain Google searches are a piece of cake, but the “best resources for ______” ones can be hit-or-miss.&lt;/p&gt;
@@ -2183,18 +2132,15 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>A Ridiculously Helpful Markdown Tutorial</title>
-      <link>https://joshuapsteele.com/a-ridiculously-helpful-markdown-tutorial/</link>
+      <link>http://localhost:1313/a-ridiculously-helpful-markdown-tutorial/</link>
       <pubDate>Fri, 26 Aug 2016 14:09:01 +0000</pubDate>
-      <guid>https://joshuapsteele.com/a-ridiculously-helpful-markdown-tutorial/</guid>
+      <guid>http://localhost:1313/a-ridiculously-helpful-markdown-tutorial/</guid>
       <description>&lt;p&gt;I’ve been dragging my heels on learning Markdown for awhile now.&lt;/p&gt;
 &lt;p&gt;If you don’t know, Markdown is:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightweight_markup_language&#34; title=&#34;Lightweight markup language&#34;&gt;lightweight markup language&lt;/a&gt; with plain text formatting syntax designed so that it can be converted to &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34; title=&#34;HTML&#34;&gt;HTML&lt;/a&gt; and many other formats using a tool by the same name.&lt;sup class=&#34;reference&#34; id=&#34;cite_ref-8&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown#cite_note-8&#34;&gt;[8]&lt;/a&gt;&lt;/sup&gt; Markdown is often used to format &lt;a href=&#34;https://en.wikipedia.org/wiki/README&#34; title=&#34;README&#34;&gt;readme files&lt;/a&gt;, for writing messages in online discussion forums, and to create &lt;a href=&#34;https://en.wikipedia.org/wiki/Formatted_text&#34; title=&#34;Formatted text&#34;&gt;rich text&lt;/a&gt; using a &lt;a href=&#34;https://en.wikipedia.org/wiki/Plain_text&#34; title=&#34;Plain text&#34;&gt;plain text&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Text_editor&#34; title=&#34;Text editor&#34;&gt;editor&lt;/a&gt;. [Source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Wikipedia&lt;/a&gt;]&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lightweight_markup_language&#34; title=&#34;Lightweight markup language&#34;&gt;lightweight markup language&lt;/a&gt; with plain text formatting syntax designed so that it can be converted to &lt;a href=&#34;https://en.wikipedia.org/wiki/HTML&#34; title=&#34;HTML&#34;&gt;HTML&lt;/a&gt; and many other formats using a tool by the same name.&lt;sup class=&#34;reference&#34; id=&#34;cite_ref-8&#34;&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown#cite_note-8&#34;&gt;[8]&lt;/a&gt;&lt;/sup&gt; Markdown is often used to format &lt;a href=&#34;https://en.wikipedia.org/wiki/README&#34; title=&#34;README&#34;&gt;readme files&lt;/a&gt;, for writing messages in online discussion forums, and to create &lt;a href=&#34;https://en.wikipedia.org/wiki/Formatted_text&#34; title=&#34;Formatted text&#34;&gt;rich text&lt;/a&gt; using a &lt;a href=&#34;https://en.wikipedia.org/wiki/Plain_text&#34; title=&#34;Plain text&#34;&gt;plain text&lt;/a&gt; &lt;a href=&#34;https://en.wikipedia.org/wiki/Text_editor&#34; title=&#34;Text editor&#34;&gt;editor&lt;/a&gt;. [Source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Wikipedia&lt;/a&gt;]&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I’ve been dragging my heels on learning Markdown for awhile now.</p>
 <p>If you don’t know, Markdown is:</p>
-<blockquote>
-<p><a href="https://en.wikipedia.org/wiki/Lightweight_markup_language" title="Lightweight markup language">lightweight markup language</a> with plain text formatting syntax designed so that it can be converted to <a href="https://en.wikipedia.org/wiki/HTML" title="HTML">HTML</a> and many other formats using a tool by the same name.<sup class="reference" id="cite_ref-8"><a href="https://en.wikipedia.org/wiki/Markdown#cite_note-8">[8]</a></sup> Markdown is often used to format <a href="https://en.wikipedia.org/wiki/README" title="README">readme files</a>, for writing messages in online discussion forums, and to create <a href="https://en.wikipedia.org/wiki/Formatted_text" title="Formatted text">rich text</a> using a <a href="https://en.wikipedia.org/wiki/Plain_text" title="Plain text">plain text</a> <a href="https://en.wikipedia.org/wiki/Text_editor" title="Text editor">editor</a>. [Source: <a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia</a>]</p></blockquote>
-<p>That is, get the benefits of HTML and/or rich text, without [as steep of] a learning curve!</p>
+<blockquote><p><a href="https://en.wikipedia.org/wiki/Lightweight_markup_language" title="Lightweight markup language">lightweight markup language</a> with plain text formatting syntax designed so that it can be converted to <a href="https://en.wikipedia.org/wiki/HTML" title="HTML">HTML</a> and many other formats using a tool by the same name.<sup class="reference" id="cite_ref-8"><a href="https://en.wikipedia.org/wiki/Markdown#cite_note-8">[8]</a></sup> Markdown is often used to format <a href="https://en.wikipedia.org/wiki/README" title="README">readme files</a>, for writing messages in online discussion forums, and to create <a href="https://en.wikipedia.org/wiki/Formatted_text" title="Formatted text">rich text</a> using a <a href="https://en.wikipedia.org/wiki/Plain_text" title="Plain text">plain text</a> <a href="https://en.wikipedia.org/wiki/Text_editor" title="Text editor">editor</a>. [Source: <a href="https://en.wikipedia.org/wiki/Markdown">Wikipedia</a>]</p></blockquote><p>That is, get the benefits of HTML and/or rich text, without [as steep of] a learning curve!</p>
 <p>To make things even easier, I suggest starting with this <a href="http://www.markdowntutorial.com/">Markdown</a><a href="http://www.markdowntutorial.com/"> Tutorial</a>. Should this tutorial prove too basic, it even links to other, more in-depth guides at the end!</p>
 <p>I plan to start implementing Markdown in my workflow for this blog, and also for <a href="http://www.rookieanglican.com/">Rookie Anglican</a>.</p>
 <p>Cheers!</p>
@@ -2202,9 +2148,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>How Do You Want To Be Remembered?</title>
-      <link>https://joshuapsteele.com/how-do-you-want-to-be-remembered/</link>
+      <link>http://localhost:1313/how-do-you-want-to-be-remembered/</link>
       <pubDate>Mon, 30 May 2016 20:49:33 +0000</pubDate>
-      <guid>https://joshuapsteele.com/how-do-you-want-to-be-remembered/</guid>
+      <guid>http://localhost:1313/how-do-you-want-to-be-remembered/</guid>
       <description>&lt;p&gt;Do you know what the worst thing about &lt;em&gt;&lt;strong&gt;death&lt;/strong&gt;&lt;/em&gt; is?&lt;/p&gt;
 &lt;p&gt;It’s not the &lt;span style=&#34;text-decoration: underline;&#34;&gt;dying&lt;/span&gt; itself – its the &lt;strong&gt;separation&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;That is, we don’t suffer the most from our own deaths (a one-time occurrence), but from suffering the deaths of others (repeatedly). Instead of living relationships, we are left with distant memories.&lt;/p&gt;
@@ -2217,12 +2163,10 @@ That’s it.</p></blockquote>
 <p>A sad reality, to be sure.</p>
 <h3 id="what-if-however-we-could-use-death-to-our-own-advantage">What if, however, we could use death to our own advantage?</h3>
 <p>I’m convinced this is the truth behind Ecclesiastes 7:2 –</p>
-<blockquote>
-<p><span class="text Eccl-7-2" id="en-NIV-17432">It is better to go to a house of mourning</span><br>
+<blockquote><p><span class="text Eccl-7-2" id="en-NIV-17432">It is better to go to a house of mourning</span><br>
 <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Eccl-7-2">than to go to a house of feasting,</span></span><br>
 <span class="text Eccl-7-2">for death is the destiny of everyone;</span><br>
-<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Eccl-7-2">the living should take this to heart.</span></span></p></blockquote>
-<p>Now, obviously, simply taking death to heart isn’t enough to defeat our most ancient enemy. For that, we need (and have been given) a <em><strong>resurrection</strong></em>.</p>
+<span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Eccl-7-2">the living should take this to heart.</span></span></p></blockquote><p>Now, obviously, simply taking death to heart isn’t enough to defeat our most ancient enemy. For that, we need (and have been given) a <em><strong>resurrection</strong></em>.</p>
 <p>But, have you taken your own death to heart? I believe there’s something to be gained by considering how you’d like to be remembered by others after you die.</p>
 <h2 id="how-do-you-want-to-be-remembered">How do you want to be remembered:</h2>
 <ul>
@@ -2262,9 +2206,9 @@ That’s it.</p></blockquote>
     </item>
     <item>
       <title>Let&#39;s Take Seth Godin to Church</title>
-      <link>https://joshuapsteele.com/lets-take-seth-godin-to-church/</link>
+      <link>http://localhost:1313/lets-take-seth-godin-to-church/</link>
       <pubDate>Sat, 28 May 2016 16:44:59 +0000</pubDate>
-      <guid>https://joshuapsteele.com/lets-take-seth-godin-to-church/</guid>
+      <guid>http://localhost:1313/lets-take-seth-godin-to-church/</guid>
       <description>&lt;p&gt;I’m not going to lie. My first reaction when I saw the cover of this book? &lt;a href=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h5 id=&#34;no-of-course-youre-not-indispensable-what-use-could-this-crap-possibly-be-to-the-church-or-to-me--simultaneously-a-pastor-and-a-pastor-in-training&#34;&gt;No! Of course you’re not indispensable. What use could this crap possibly be to the Church, or to me – simultaneously a pastor and a pastor-in-training.&lt;/h5&gt;
 &lt;p&gt;Then, however, &lt;strong&gt;I read the book&lt;/strong&gt;. And I suggest you do, too!&lt;/p&gt;
@@ -2279,9 +2223,7 @@ That’s it.</p></blockquote>
 </iframe>
 <p><em>(Note: affiliate link. I get paid if you make a purchase.)</em></p>
 <p><a href="http://www.sethgodin.com/sg/">Seth Godin</a>, bald marketing extraordinaire, is convinced that a paradigm shift has taken place. I’ll quote from his annotated table of contents (which, by the way, I wish all books had):</p>
-<blockquote>
-<p>We have gone from two teams (management and labor) to a third team, <strong>the linchpins. These are people who own their own means of production, who can make a difference, lead us, and connect us. The death of the factory means that the entire system we have built our lives around is now upside down. This is either a huge opportunity or a giant threat.</strong> Revolutions are frightening because the new benefits sometimes lag behind the old pain. This time, the opportunity is to bring your best self to the marketplace and be rewarded for it (vii).</p></blockquote>
-<p>For the past few generations, we’ve grown used to the implicit deal: If you go to school, learn how to follow instructions, work hard, and show up on time, we’ll take care of you.</p>
+<blockquote><p>We have gone from two teams (management and labor) to a third team, <strong>the linchpins. These are people who own their own means of production, who can make a difference, lead us, and connect us. The death of the factory means that the entire system we have built our lives around is now upside down. This is either a huge opportunity or a giant threat.</strong> Revolutions are frightening because the new benefits sometimes lag behind the old pain. This time, the opportunity is to bring your best self to the marketplace and be rewarded for it (vii).</p></blockquote><p>For the past few generations, we’ve grown used to the implicit deal: If you go to school, learn how to follow instructions, work hard, and show up on time, we’ll take care of you.</p>
 <p>But, at least in many sectors, the bargain has fallen apart.</p>
 <p>So, Godin advises us to become linchpins in whatever industry we find ourselves. We must treat our work as art, and combine a variety of skills to address complex situations.</p>
 <p>We must be able to figure out what to do next, without it being spelled out for us in an instruction manual.</p>
@@ -2322,26 +2264,21 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
     </item>
     <item>
       <title>What are you afraid of?</title>
-      <link>https://joshuapsteele.com/what-are-you-afraid-of/</link>
+      <link>http://localhost:1313/what-are-you-afraid-of/</link>
       <pubDate>Fri, 27 May 2016 20:02:19 +0000</pubDate>
-      <guid>https://joshuapsteele.com/what-are-you-afraid-of/</guid>
+      <guid>http://localhost:1313/what-are-you-afraid-of/</guid>
       <description>&lt;p&gt;I’m scared. Are you?&lt;/p&gt;
 &lt;p&gt;Specifically, as I wrote in my journal this very morning:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;I’m scared – I’m scared of wasting my life, I’m scared of not being worth anything outside of the classroom.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Fear drives so many aspects of our lives – from how we dress, to how we raise our children, to how we elect our leaders. And, if we’re honest with ourselves, fear can play a large role in what/whom we worship.&lt;/p&gt;</description>
+&lt;blockquote&gt;&lt;p&gt;I’m scared – I’m scared of wasting my life, I’m scared of not being worth anything outside of the classroom.&lt;/p&gt;&lt;/blockquote&gt;&lt;p&gt;Fear drives so many aspects of our lives – from how we dress, to how we raise our children, to how we elect our leaders. And, if we’re honest with ourselves, fear can play a large role in what/whom we worship.&lt;/p&gt;</description>
       <content:encoded><![CDATA[<p>I’m scared. Are you?</p>
 <p>Specifically, as I wrote in my journal this very morning:</p>
-<blockquote>
-<p>I’m scared – I’m scared of wasting my life, I’m scared of not being worth anything outside of the classroom.</p></blockquote>
-<p>Fear drives so many aspects of our lives – from how we dress, to how we raise our children, to how we elect our leaders. And, if we’re honest with ourselves, fear can play a large role in what/whom we worship.</p>
+<blockquote><p>I’m scared – I’m scared of wasting my life, I’m scared of not being worth anything outside of the classroom.</p></blockquote><p>Fear drives so many aspects of our lives – from how we dress, to how we raise our children, to how we elect our leaders. And, if we’re honest with ourselves, fear can play a large role in what/whom we worship.</p>
 <p>For example, perhaps we worship God out of a fear of going to hell, or a fear of our inherited religion being wrong. We secretly worry that, like Donald Miller’s father accuses him in the movie <a href="http://www.imdb.com/title/tt1758575/quotes?item=qt1678309">Blue Like Jazz</a>, we “<em><strong>only believe that stuff ‘cuz [we]’re afraid to hang out with people that don’t</strong></em>.”</p>
 <p>Or perhaps we <span style="text-decoration: underline;">don’t</span> worship God – and instead worship a god of our choice/invention – because we’re afraid of the implications of God’s existence.</p>
 <p>Now, there is, I’m persuaded, a holy fear. A salutary reverence and awe in the face of the divine.</p>
 <p>But that’s not what I’m talking about here, I’m talking about the <em><strong>paralyzing</strong></em> fear – the cold sweat, the white knuckles, the tension headaches.</p>
 <p>I’m talking about the same kind of fear as <a href="http://sethgodin.typepad.com/seths_blog/2015/10/the-power-of-fear.html">Seth Godin</a>:</p>
-<blockquote>
-<h3 id="the-power-of-fear"><a href="http://sethgodin.typepad.com/seths_blog/2015/10/the-power-of-fear.html">The power of fear</a></h3>
+<blockquote><h3 id="the-power-of-fear"><a href="http://sethgodin.typepad.com/seths_blog/2015/10/the-power-of-fear.html">The power of fear</a></h3>
 <p>Fear will push you to avert your eyes.</p>
 <p>Fear will make you think you have nothing to say.</p>
 <p>It will create a buzz that makes it impossible to meditate…</p>
@@ -2352,8 +2289,7 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
 <p>It causes us to carelessly make typos, or obsessively look for them.</p>
 <p>Fear pushes us to fit in, so we won’t be noticed, but it also pushes us to rebel and to not be trustworthy, so we won’t be on the hook to produce.</p>
 <p>It is subtle enough to trick us into thinking it isn’t pulling the strings, that it doesn’t exist, that it’s not the cause of, “I don’t feel like it.”</p>
-<p>When in doubt, look for the fear.</p></blockquote>
-<p>Courage isn’t the absence of fear. It’s knowing how to deal with fear. And, for me, <strong>the first step toward dealing with my fears is frankly admitting them.</strong></p>
+<p>When in doubt, look for the fear.</p></blockquote><p>Courage isn’t the absence of fear. It’s knowing how to deal with fear. And, for me, <strong>the first step toward dealing with my fears is frankly admitting them.</strong></p>
 <ul>
 <li>I’m scared, because I don’t know what’s next after I graduate from <a href="http://www.beesondivinity.com/">Beeson</a> in December.</li>
 <li>I’m scared, because the thing I’ve felt called to for the longest time – getting a PhD in systematic theology – seems like an impractical pipe dream.</li>
@@ -2368,9 +2304,9 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
     </item>
     <item>
       <title>Kettlebell Swings: Back Balm for the Sedentary [Seminarian]</title>
-      <link>https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</link>
+      <link>http://localhost:1313/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</link>
       <pubDate>Wed, 25 May 2016 23:53:49 +0000</pubDate>
-      <guid>https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</guid>
+      <guid>http://localhost:1313/kettlebell-swings-back-balm-for-the-sedentary-seminarian/</guid>
       <description>&lt;p&gt;I love books. Books, however, do not like my back.&lt;/p&gt;
 &lt;p&gt;Can you relate?&lt;/p&gt;
 &lt;p&gt;Maybe it’s not sitting around reading books all day, but I imagine plenty of you out there suffer from back pain/fatigue.&lt;/p&gt;
@@ -2386,9 +2322,7 @@ amzn_assoc_linkid = "e82ac4d0adeed21f9bf8703b813ac93c";
 <p>How can these cannonballs with handles help your back?</p>
 <p>Well, the kettlebell swing is one of the many exercises out there that activates your <a href="https://en.wikipedia.org/wiki/Posterior_chain">posterior chain</a> – the muscles along the back of your body.</p>
 <p>However, as <a href="http://breakingmuscle.com/kettlebells/the-kettlebell-swing-why-its-the-perfect-exercise">BreakingMuscle.com clarifies</a>:</p>
-<blockquote>
-<p>for those with lower back issues traditional posterior chain exercises such as deadlifts, good mornings, etc. may exacerbate the condition, while swings may not. For those looking to strengthen the lower back and unable to use these traditional exercises the swing may be just the thing they’re looking for</p></blockquote>
-<p>Thanks to the full-body movement of the swing, <strong>you really don’t need to use a lot of weight to feel a difference</strong>. For example, I’ve been squatting 225 lbs. in maintenance mode recently, and after the first day of kettlebell swings with a 35 lb. kettlebell, my glutes and hamstrings were more sore than they’d been in months!</p>
+<blockquote><p>for those with lower back issues traditional posterior chain exercises such as deadlifts, good mornings, etc. may exacerbate the condition, while swings may not. For those looking to strengthen the lower back and unable to use these traditional exercises the swing may be just the thing they’re looking for</p></blockquote><p>Thanks to the full-body movement of the swing, <strong>you really don’t need to use a lot of weight to feel a difference</strong>. For example, I’ve been squatting 225 lbs. in maintenance mode recently, and after the first day of kettlebell swings with a 35 lb. kettlebell, my glutes and hamstrings were more sore than they’d been in months!</p>
 <p>I’ve been very impressed with the results of <a href="http://rkcblog.dragondoor.com/the-best-and-simplest-one-kettlebell-workout/">a basic kettlebell workout</a>, and it will enable me to get exercise at home during the semester, when going to the gym is more of a stretch.</p>
 <p><strong>Would you like to give kettlebell swings a try?</strong></p>
 <p><strong>First, learn the proper form</strong> and <span style="text-decoration: underline;">then</span> look for a kettlebell to give it a try.</p>

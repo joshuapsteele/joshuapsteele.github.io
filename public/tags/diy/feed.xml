@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Diy on Joshua P. Steele</title>
-    <link>https://joshuapsteele.com/tags/diy/</link>
+    <link>http://localhost:1313/tags/diy/</link>
     <description>Recent content in Diy on Joshua P. Steele</description>
     <image>
       <title>Joshua P. Steele</title>
-      <url>https://joshuapsteele.com/images/default-social.png</url>
-      <link>https://joshuapsteele.com/images/default-social.png</link>
+      <url>http://localhost:1313/images/default-social.png</url>
+      <link>http://localhost:1313/images/default-social.png</link>
     </image>
     <generator>Hugo -- 0.147.3</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 18 Apr 2025 09:26:24 -0400</lastBuildDate>
-    <atom:link href="https://joshuapsteele.com/tags/diy/feed.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/diy/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Saw Updates</title>
-      <link>https://joshuapsteele.com/saw-updates/</link>
+      <link>http://localhost:1313/saw-updates/</link>
       <pubDate>Tue, 01 Apr 2025 08:25:13 -0400</pubDate>
-      <guid>https://joshuapsteele.com/saw-updates/</guid>
+      <guid>http://localhost:1313/saw-updates/</guid>
       <description>&lt;h2 id=&#34;the-table-saw&#34;&gt;The Table Saw&lt;/h2&gt;
-&lt;p&gt;I know you&amp;rsquo;ve all been waiting for (lol) updates on my &lt;a href=&#34;https://joshuapsteele.com/vintage-craftsman-table-saw/&#34;&gt;vintage 1947 Craftsman 113 table saw&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I know you&amp;rsquo;ve all been waiting for (lol) updates on my &lt;a href=&#34;http://localhost:1313/vintage-craftsman-table-saw/&#34;&gt;vintage 1947 Craftsman 113 table saw&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m happy to report that, after disassembling and cleaning the saw, I was able to put it back together and get it running again!&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Refurbished Craftsman Table Saw&#34; loading=&#34;lazy&#34; src=&#34;https://joshuapsteele.com/refurbished-table-saw.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Refurbished Craftsman Table Saw&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/refurbished-table-saw.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;In the process, I installed:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A new &lt;a href=&#34;https://amzn.to/3QVf5mv&#34;&gt;power toggle switch&lt;/a&gt; on the motor housing&lt;/li&gt;
@@ -70,9 +70,9 @@
     </item>
     <item>
       <title>My Vintage 1947 Craftsman 113 Table Saw</title>
-      <link>https://joshuapsteele.com/vintage-craftsman-table-saw/</link>
+      <link>http://localhost:1313/vintage-craftsman-table-saw/</link>
       <pubDate>Thu, 20 Mar 2025 06:16:39 -0400</pubDate>
-      <guid>https://joshuapsteele.com/vintage-craftsman-table-saw/</guid>
+      <guid>http://localhost:1313/vintage-craftsman-table-saw/</guid>
       <description>&lt;p&gt;I finally got my first table saw! A 1947 Craftsman 113.22400 8-inch table saw, for $40 on Facebook Marketplace.&lt;/p&gt;
 &lt;h2 id=&#34;to-do-list&#34;&gt;To Do List&lt;/h2&gt;
 &lt;p&gt;I&amp;rsquo;m excited to start using it, but first I want to do the following:&lt;/p&gt;
@@ -115,9 +115,7 @@
 <p>This shouldn&rsquo;t be too hard, but I need to figure out how to disassemble the rip fence so that I can thoroughly clean the parts and remove rust. I just haven&rsquo;t been able to find a good YouTube video that covers this specifically, so I&rsquo;ll need to do a bit of manual-guided experimentation and then use an Evaporust soak and/or a Rustoleum gel spray.</p>
 <h3 id="getting-a-bigger-motor-pulley-for-the-1750-rpm-motor">Getting a bigger motor pulley for the 1750 RPM motor</h3>
 <p>According to the table saw manual,</p>
-<blockquote>
-<p>This saw is designed to be used with a 3450 rpm motor of the repulsion-induction or capacitor type; ½ hp for light duty, ¾ hp for heavy duty. &hellip; If a 1750 rpm motor is used it will be necessary to purchase a six-inch pulley and a longer belt.</p></blockquote>
-<p>The motor I have, the Craftsman 115.6962, is a 1750 rpm motor. And its pulley is not a 6-inch pulley, but rather approximately a 3-inch pulley.</p>
+<blockquote><p>This saw is designed to be used with a 3450 rpm motor of the repulsion-induction or capacitor type; ½ hp for light duty, ¾ hp for heavy duty. &hellip; If a 1750 rpm motor is used it will be necessary to purchase a six-inch pulley and a longer belt.</p></blockquote><p>The motor I have, the Craftsman 115.6962, is a 1750 rpm motor. And its pulley is not a 6-inch pulley, but rather approximately a 3-inch pulley.</p>
 <p>So, I need to figure out <strong>exactly which 6-inch pulley I need, and where to purchase one</strong>.</p>
 <hr>
 <p>I&rsquo;ll either update this blog post or add new posts as I get this saw back in tip-top shape!</p>
