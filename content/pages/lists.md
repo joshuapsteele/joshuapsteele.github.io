@@ -1,6 +1,7 @@
 ---
 author: joshuapsteele
 title: Lists
+url: /lists/
 showtoc: true
 TocOpen: true
 ---
