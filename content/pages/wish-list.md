@@ -53,7 +53,7 @@ What I want:
 
 ## Tools
 
-- Router
+- ✅ Router
 - Planer
 - Jointer
 - Belt sander
@@ -69,7 +69,7 @@ What I want:
 - ✅ Chalk line
 - ✅ Calipers
 - ✅ Workbench
-- [Table saw](https://amzn.to/3w6X1LM)
+- ✅ Table saw
 - ✅ [Miter saw](https://amzn.to/3XzmOrA)
 - ✅ [Reciprocating saw, AKA “Sawzall”](https://amzn.to/3CWkjYp))
 - ✅ [Pocket hole jig](https://amzn.to/3iLeFBI)
