@@ -2,6 +2,7 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=41441
 title: Now
+url: /now/
 ---
 {{< callout "note" >}}
 This `/now` page is just one of [my many "slash pages."](/slashes)

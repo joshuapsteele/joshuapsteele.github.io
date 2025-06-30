@@ -5,6 +5,7 @@ title: About
 aliases:
 - /portfolio
 showtoc: false
+url: /about
 ---
 {{< callout "note" >}}
 This `/about` page is just one of [my many "slash pages."](/slashes)

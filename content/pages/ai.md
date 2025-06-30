@@ -1,6 +1,7 @@
 ---
 title: AI
 draft: true
+url: /ai
 ---
 {{< callout "note" >}}
 This `/ai` page is just one of [my many "slash pages."](/slashes)

@@ -1,6 +1,7 @@
 ---
 author: joshuapsteele
 title: Questions
+url: /questions/
 showtoc: true
 ---
 {{< callout "note" >}}

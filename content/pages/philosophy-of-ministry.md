@@ -4,7 +4,7 @@ guid: https://joshuapsteele.com/?page_id=42536
 title: Philosophy of Ministry
 aliases:
 - /portfolio/philosophy-of-ministry
-
+url: /philosophy-of-ministry
 ---
 *(Note: Since writing this "philosophy of ministry", I have since [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/). I now work full-time as a software engineer, and am trying to discern what my Christian "vocation" looks like, going forward. Nevertheless, I will leave what I've written below for posterity.)*
 

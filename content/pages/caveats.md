@@ -2,6 +2,7 @@
 author: joshuapsteele
 title: Caveats
 showtoc: false
+url: /caveats
 ---
 {{< callout "note" >}}
 This `/caveats` page is just one of [my many "slash pages."](/slashes)

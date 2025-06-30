@@ -3,6 +3,7 @@ author: joshuapsteele
 title: How to Resist Tyranny
 showtoc: true
 TocOpen: true
+url: /resist
 ---
 
 ## Online Resources

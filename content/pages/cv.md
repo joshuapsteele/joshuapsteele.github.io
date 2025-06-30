@@ -2,6 +2,7 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=4007
 title: CV
+url: /cv/
 aliases:
 - /portfolio/cv
 - /resume

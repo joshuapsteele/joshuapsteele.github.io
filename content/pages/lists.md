@@ -11,31 +11,7 @@ This `/lists` page is just one of [my many "slash pages."](/slashes)
 
 This is a `/lists` page, where I keep track of the lists I'm working on!
 
-Last Updated: 2025-06-10
-
----
-
-## My Interests
-
-- Books
-- Tools
-- Home repair
-- Auto repair
-- DIY projects
-- Writing instruments (pens, pencils, etc.)
-- Stationery (notebooks, paper, etc.)
-- Language learning
-- Travel
-- Relaxing television shows (This Old House, Great British Bake Off, etc.)
-
-## Things I'm Not That Interested In
-
-- Crypto
-- Culture wars
-- Right-wing propaganda
-- USA Evangelicalism
-- Guest posts on my blog
-- Golf
+Last Updated: 2025-06-30
 
 ---
 
@@ -143,23 +119,6 @@ If none of us is prepared to die for freedom, then all of us will die under tyra
 8. **Respect Government Service:** Recognizing and valuing the role of public servants fosters trust and encourages effective governance.
 9. **Support the Teaching of Civics:** Educating current and future generations about democratic principles and responsibilities is crucial.
 10. **Put Country First:** Loyalty to democratic ideals and the nation should take precedence over partisan or personal loyalties.
-
----
-
-## Information Sources
-
-### News
-
-- [Associated Press](https://apnews.com/)
-- [The Economist](https://www.economist.com/)
-- [Ground News](https://ground.news/)
-- [Reuters](https://www.reuters.com/)
-
-### Newsletters
-
-- [Adam Kinzinger's Newsletter](https://adamkinzinger.substack.com/)
-- [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
-- [Timothy Snyder's Newsletter](https://snyder.substack.com/)
 
 ---
 

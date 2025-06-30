@@ -2,6 +2,7 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=2619
 title: Contact
+url: /contact/
 ---
 {{< callout "note" >}}
 This `/contact` page is just one of [my many "slash pages."](/slashes)

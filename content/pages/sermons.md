@@ -4,6 +4,7 @@ guid: https://joshuapsteele.com/?page_id=3453
 title: Sermons
 aliases:
 - /portfolio/sermons
+url: /sermons
 ---
 ( _Click [here](/category/sermons/) to view all posts that have been categorized as sermons on my blog._)
 
