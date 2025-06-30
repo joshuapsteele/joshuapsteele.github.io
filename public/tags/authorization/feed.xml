@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Authorization on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/tags/authorization/</link>
+    <description>Recent content in Authorization on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 05 May 2025 14:23:32 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/tags/authorization/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them</title>
+      <link>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</link>
+      <pubDate>Mon, 05 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://joshuapsteele.com/real-world-openfga-authorization-lessons/</guid>
+      <description>Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I&amp;#39;d love to hear how you&amp;#39;re managing models and authorization data at scale.</description>
+      <content:encoded><![CDATA[<p>Are you using <a href="https://openfga.dev/">OpenFGA</a> or another Google Zanzibar-inspired authorization engine <strong>in the wild</strong>—not just for a side project or proof of concept, but in a production environment with real users and systems?</p>
+<p>If so, I’d love to learn from your experience.</p>
+<h2 id="my-interest">My Interest</h2>
+<p>I’m currently working on a centralized authorization system prototype based on OpenFGA. The design is aiming to support fine-grained, relationship-based access control (ReBAC) for multiple business units—each with its own data domain, developer team, and authorization needs.</p>
+<p>The documentation and examples for OpenFGA are helpful, but they tend to focus on <strong>small-scale setups</strong>. What’s much harder to find are <strong>real-world case studies</strong> or lessons learned from organizations that are actually using it (or something similar like Topaz, SpiceDB, or AuthZed) in production at scale.</p>
+<h2 id="my-questions-for-you">My Questions for You</h2>
+<p>If you’ve deployed OpenFGA—or any Google Zanzibar-style system—in production, would you be willing to share your answers to some of the following questions?</p>
+<h3 id="1-how-are-you-managing-authorization-models">1. <strong>How are you managing authorization models?</strong></h3>
+<ul>
+<li>How do application teams define and evolve their FGA models?</li>
+<li>Do you use a UI, CLI, or CI/CD pipeline to update model definitions?</li>
+<li>Have you hit any pain points around model versioning, migrations, or validation?</li>
+</ul>
+<h3 id="2-how-do-clients-get-data-into-your-fga-store">2. <strong>How do clients get data into your FGA store?</strong></h3>
+<ul>
+<li>Do application teams push tuples directly via API?</li>
+<li>Is there a dedicated “tuple management service” (e.g. fed via CDC pipelines or batch jobs)?</li>
+<li>What safeguards do you have to avoid flooding the system with unnecessary or stale relationships?</li>
+</ul>
+<h3 id="3-what-does-your-production-environment-look-like">3. <strong>What does your production environment look like?</strong></h3>
+<ul>
+<li>How do you handle tenancy? One store per tenant? One store for all?</li>
+<li>How do you monitor and alert on query latency, error rates, or integrity issues?</li>
+<li>Have you hit any performance bottlenecks under load?</li>
+</ul>
+<h2 id="why-im-asking">Why I’m Asking</h2>
+<p>I think Zanzibar-style systems have a ton of potential—especially for complex, multi-tenant, or federated environments—but they also come with their own complexity tax. Getting the <strong>model layer</strong> and the <strong>data ingestion layer</strong> right seems critical for long-term success, and I’d rather learn from those who’ve been there.</p>
+<p>If you’ve got hard-won wisdom, pain points, patterns, or even horror stories—<strong>I’m all ears</strong>.</p>
+<p>Feel free to drop a comment below, or <a href="/contact/">contact me</a>.</p>
+<p>Thanks in advance!</p>
+<p>– Josh</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify</title>
+      <link>https://joshuapsteele.com/authorization-continued/</link>
+      <pubDate>Fri, 07 Mar 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/authorization-continued/</guid>
+      <description>&lt;p&gt;As I mentioned in my previous post, &amp;ldquo;Devs, Let&amp;rsquo;s Talk Authorization!&amp;rdquo;, I&amp;rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&amp;rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.&lt;/p&gt;
+&lt;h2 id=&#34;clarify-current-requirements&#34;&gt;Clarify Current Requirements&lt;/h2&gt;
+&lt;p&gt;The first thing I did was gather and clarify my org&amp;rsquo;s current authorization model/requirements. We&amp;rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As I mentioned in my previous post, &ldquo;Devs, Let&rsquo;s Talk Authorization!&rdquo;, I&rsquo;m working on a new, exploratory work project related to authorization. Specifically, we&rsquo;re gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.</p>
+<h2 id="clarify-current-requirements">Clarify Current Requirements</h2>
+<p>The first thing I did was gather and clarify my org&rsquo;s current authorization model/requirements. We&rsquo;re heavily role-and-permission-based when it comes to authorization, with a touch of attribute-based access control mixed-in (to make sure that, for example, a user can only view resources related to their company, and not other companies). So, RBAC (role-based access control) with a bit of ABAC (attribute-based access control).</p>
+<h2 id="which-authorization-paradigms-make-the-most-sense">Which Authorization Paradigm(s) Make the Most Sense?</h2>
+<p>I then spent some time researching <a href="https://auth0.com/blog/an-overview-of-commonly-used-access-control-paradigms/">commonly used access control paradigms</a>, in order to determine which approach would, in broad brushstrokes, be the best fit for our company going forward. Like I said, we&rsquo;re currently RBAC with a touch of ABAC. But we&rsquo;re already experiencing some role-bloat, and a centralized approach to authorization for our company needs to be more flexible and fine-grained than pure RBAC allows for.</p>
+<p>An attribute-and-policy-based approach, such as that offered by <a href="https://www.openpolicyagent.org/">Open Policy Agent (OPA)</a>, would be fine-grained enough for our current needs. And we&rsquo;re experimenting with <a href="https://www.topaz.sh/docs/intro">Topaz</a>, which builds upon OPA and its Rego policy language, for one of our prototypes.</p>
+<p>However, because my org and others would like to be able to do more with organizational hierarchy when it comes to authorization, a relationship-based approach to access control (ReBAC), such as that offered by <a href="https://openfga.dev/">OpenFGA</a>, is appealing!</p>
+<h2 id="experimenting-with-rebac-in-openfga">Experimenting with ReBAC in OpenFGA</h2>
+<p>So, I&rsquo;ve spent some time modeling my org&rsquo;s current authorization requirements using OpenFGA. As far as our current needs go, it was relatively easy to put together a fairly abstract authorization model in OpenFGA&rsquo;s configuration language.</p>
+<p>However, it seems like a significant limitation to OpenFGA is that it does not evaluate indirect relationships recursively beyond one level of separation/indirection.</p>
+<p>According to OpenFGA’s documentation on <a href="https://openfga.dev/docs/configuration-language#referencing-relations-on-related-objects">&ldquo;Referencing Relations on Related Objects&rdquo;</a>:</p>
+<blockquote><p>OpenFGA does not allow the referenced relation (the word after <code>from</code>, also called the tupleset) to reference another relation and does not allow non-concrete types (type bound public access (<code>&lt;object_type&gt;:*</code>) or usersets (<code>&lt;object_type&gt;#&lt;relation&gt;</code>)) in its type restrictions; adding them throws a validation error when calling <code>WriteAuthorizationModel</code>.</p></blockquote><h3 id="example-management-chain-authorization">Example: Management Chain Authorization</h3>
+<p>Consider a scenario where permissions should propagate up a management chain:</p>
+<ol>
+<li><strong>Object A</strong> is <strong>owned</strong> by <strong>User B</strong>.</li>
+<li><strong>User B</strong> is <strong>managed</strong> by <strong>User C</strong>.</li>
+<li><strong>User C</strong> is <strong>managed</strong> by <strong>User D</strong>.</li>
+</ol>
+<h3 id="-what-openfga-can-handle">✅ What OpenFGA <em>Can</em> Handle</h3>
+<p>OpenFGA allows referencing relationships <strong>one level deep</strong> via <code>X from Y</code>.</p>
+<p>For example, if an authorization model defines:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>allow manager from owner
+</span></span></code></pre></div><p>Then <strong>User C</strong> can inherit access to <strong>Object A</strong> because:</p>
+<blockquote><p>&ldquo;User C manages User B, who owns Object A.&rdquo;</p></blockquote><h3 id="-what-openfga-cannot-handle">❌ What OpenFGA <em>Cannot</em> Handle</h3>
+<p>However, OpenFGA <strong>does not</strong> support evaluating this deeper chain:</p>
+<blockquote><p>&ldquo;User D should be able to view Object A, because User D manages User C, who manages User B, who owns Object A.&rdquo;</p></blockquote><p>This is because OpenFGA <strong>does not allow chaining references beyond one level</strong>.</p>
+<p>Another warning of this limitation is found in <a href="https://openfga.dev/docs/modeling/parent-child#05-check-if-bob-is-an-editor-of-documentmeeting_notesdoc">OpenFGA’s documentation on modeling parent-child relationships</a>:</p>
+<blockquote><p>When searching tuples that are related to the object (the word after <code>from</code>, also called the tupleset), OpenFGA will not do any evaluation and only considers concrete objects (of the form <code>&lt;object_type&gt;:&lt;object_id&gt;</code>) that were directly assigned. OpenFGA will throw an error if it encounters any rewrites, a <code>*</code>, a type bound public access (<code>&lt;object_type&gt;:*</code>), or a userset (<code>&lt;object_type&gt;:&lt;object_id&gt;#&lt;relation&gt;</code>).</p></blockquote><h3 id="update-openfga-does-handle-recursive-relationships">UPDATE: OpenFGA Does Handle Recursive Relationships!</h3>
+<p>Shout-out to <a href="https://social.rhamzeh.com/@raghd">Raghd Hamzeh</a>, who&rsquo;s a part of the <a href="https://mastodon.social/@openfga">OpenFGA</a> team, for helping me out with a solution to the management chain problem/example.</p>
+<p><a href="https://social.lol/@raghd@rhamzeh.com/114123110921262312">Raghd writes</a>:</p>
+<blockquote><p>Hey @steele!<br>
+Good news! It does! :) Evaluating indirect relationships is one of @openfga &rsquo;s strong suites!<br>
+Let me know what issue you&rsquo;re facing or need clarification on and I can see if I can help<br>
+You&rsquo;ll find several examples on this and other use-cases in the OpenFGA sample stores repo: <a href="https://github.com/openfga/sample-stores/tree/main/stores">https://github.com/openfga/sample-stores/tree/main/stores</a></p></blockquote><p>Here&rsquo;s the workaround/solution: splitting a <code>manager</code> relation into a <code>manager</code> and a <code>can_manage</code> relation!</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-fallback" data-lang="fallback"><span style="display:flex;"><span>model
+</span></span><span style="display:flex;"><span>  schema 1.1
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>type user
+</span></span><span style="display:flex;"><span>  relations
+</span></span><span style="display:flex;"><span>    define manager: [user]
+</span></span><span style="display:flex;"><span>    define can_manage: manager or can_manage from manager
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>type resource
+</span></span><span style="display:flex;"><span>  relations
+</span></span><span style="display:flex;"><span>    define owner: [user]
+</span></span><span style="display:flex;"><span>    define can_view: owner or can_manage from owner
+</span></span></code></pre></div><p>You can then assign a chain of management relationships via relational tuples:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">tuples</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:B</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">owner</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">resource:A</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:C</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">manager</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">user:B</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:D</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">relation</span>: <span style="color:#ae81ff">manager</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">object</span>: <span style="color:#ae81ff">user:B</span>
+</span></span></code></pre></div><p>The following test will pass:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">tests</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">Tests</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">check</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">user</span>: <span style="color:#ae81ff">user:D</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">object</span>: <span style="color:#ae81ff">resource:A</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">assertions</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">can_view</span>: <span style="color:#66d9ef">true</span>
+</span></span></code></pre></div><h2 id="what-now-experimenting-with-permify-and-spicedb-maybe">What Now? Experimenting with Permify (and SpiceDB, maybe)</h2>
+<p>To be clear, it is possible to model multi-level management relationships, as well as intra-organization relationships across a large company, in OpenFGA. It just ends up taking more relational tuples to represent the relationships than I initially expected. (UPDATE: See above! It seems to either take more tuples than anticipated, OR splitting up the recursive relationship to allow for evaluation.)</p>
+<p>So, I did some research on ReBAC and recursive relationships, and it sounds like other ReBAC solutions, like Permify and SpiceDB, can evaluate indirect relationships recursively. They avoid infinite loops and undue performance costs in various ways.</p>
+<p>I&rsquo;m currently trying to translate the OpenFGA authorization model I created into Permify&rsquo;s syntax. (Which, if anyone already has a tool or a script that does this, taking an <code>.fga</code> or an <code>.fga.yaml</code> file as input, please let me know!) I&rsquo;ll then put in some test data and run some checks to see if there are any noticeable differences between OpenFGA and Permify when it comes to performance, &ldquo;pain-in-the-ass&rdquo; of development, etc.</p>
+<p>If time allows, I&rsquo;ll also do some experimenting with SpiceDB. We&rsquo;ll see!</p>
+<hr>
+<p>Are you a software engineer who&rsquo;s worked with tools like OpenFGA, Permify, and/or SpiceDB? If so, I&rsquo;d love to make your acquaintance and hear your thoughts about these tools, authorization in general, etc.</p>
+<p>Please send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>. Cheers!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Devs! Let&#39;s Talk Authorization</title>
+      <link>https://joshuapsteele.com/lets-talk-authorization/</link>
+      <pubDate>Thu, 23 Jan 2025 09:16:56 -0500</pubDate>
+      <guid>https://joshuapsteele.com/lets-talk-authorization/</guid>
+      <description>&lt;p&gt;Calling all software developers! As I embark on a new, exploratory work project, I&amp;rsquo;d like to hear your thoughts on authorization.&lt;/p&gt;
+&lt;p&gt;How have you designed and implemented authorization in your applications?&lt;/p&gt;
+&lt;p&gt;To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?&lt;/p&gt;
+&lt;p&gt;What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Calling all software developers! As I embark on a new, exploratory work project, I&rsquo;d like to hear your thoughts on authorization.</p>
+<p>How have you designed and implemented authorization in your applications?</p>
+<p>To get into the weeds a bit, have you opted for RBAC (Role-Based Access Control), ABAC (Attribute-Based Access Control), ReBAC (Relationship-Based Access Control), or something else entirely?</p>
+<p>What tools or libraries have you found most useful in your work? Have you built everything from scratch, or have you relied on existing frameworks? Open source or commercial solutions?</p>
+<p>What are the best practices you&rsquo;ve discovered? Any industry standards or patterns you follow?</p>
+<p>What are the pitfalls to avoid? What are the most common mistakes you&rsquo;ve seen?</p>
+<p>What are the most helpful resources you&rsquo;ve found on the topic of authorization in software development? I&rsquo;m looking for books, articles, videos, or anything else that has helped you.</p>
+<p>Thanks so much! I&rsquo;m looking forward to hearing your thoughts! Leave a comment below, send me an email at <a href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a> or reach out to me on <a href="https://bsky.app/profile/joshuapsteele.bsky.social">BlueSky @joshuapsteele.bsky.social</a>.</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>

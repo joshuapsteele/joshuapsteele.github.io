@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Software on Joshua P. Steele</title>
+    <link>https://joshuapsteele.com/tags/software/</link>
+    <description>Recent content in Software on Joshua P. Steele</description>
+    <image>
+      <title>Joshua P. Steele</title>
+      <url>https://joshuapsteele.com/images/default-social.png</url>
+      <link>https://joshuapsteele.com/images/default-social.png</link>
+    </image>
+    <generator>Hugo -- 0.147.3</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 31 Mar 2025 16:22:26 -0400</lastBuildDate>
+    <atom:link href="https://joshuapsteele.com/tags/software/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Discover Learn X in Y Minutes: An Invaluable Resource for Programmers</title>
+      <link>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</link>
+      <pubDate>Sat, 18 Mar 2023 12:50:58 +0000</pubDate>
+      <guid>https://joshuapsteele.com/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/</guid>
+      <description>&lt;p&gt;As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to &lt;a href=&#34;https://learnxinyminutes.com/&#34;&gt;learnxinyminutes.com&lt;/a&gt;, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.&lt;/p&gt;
+&lt;h2 id=&#34;quick-and-efficient-learning&#34;&gt;Quick and Efficient Learning&lt;/h2&gt;
+&lt;p&gt;Learn X in Y Minutes understands that time is precious, which is why it provides:&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a>, a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.</p>
+<h2 id="quick-and-efficient-learning">Quick and Efficient Learning</h2>
+<p>Learn X in Y Minutes understands that time is precious, which is why it provides:</p>
+<ul>
+<li>Clear and efficient learning paths</li>
+<li>Concise tutorials that dive straight into coding</li>
+<li>Rapid acquisition of programming language essentials</li>
+</ul>
+<p>Say goodbye to endless hours spent on lengthy tutorials and get straight to the point with Learn X in Y Minutes.</p>
+<h2 id="programming-languages-and-essential-tools">Programming Languages and Essential Tools</h2>
+<p>The website covers a wide range of programming languages, including but not limited to:</p>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/python/">Python</a></li>
+<li><a href="https://learnxinyminutes.com/docs/javascript/">JavaScript</a></li>
+<li><a href="https://learnxinyminutes.com/docs/ruby/">Ruby</a></li>
+<li><a href="https://learnxinyminutes.com/docs/c++/">C++</a></li>
+</ul>
+<p>In addition to programming languages, Learn X in Y Minutes also covers essential tools and technologies like:</p>
+<ul>
+<li><a href="https://learnxinyminutes.com/docs/git/">Git</a></li>
+<li><a href="https://learnxinyminutes.com/docs/docker/">Docker</a></li>
+<li><a href="https://learnxinyminutes.com/docs/vim/">Vim</a></li>
+</ul>
+<p>This makes the site an excellent resource for acquiring knowledge about popular tools in the tech industry.</p>
+<h2 id="open-source-and-community-driven">Open-Source and Community-Driven</h2>
+<p>One of the best features of Learn X in Y Minutes is that <a href="https://github.com/adambard/learnxinyminutes-docs">it’s an open-source project</a>. This means that it’s:</p>
+<ul>
+<li>Continually updated and improved by a community of developers</li>
+<li>Always up-to-date and relevant to the ever-evolving world of programming</li>
+</ul>
+<h2 id="level-up-your-career">Level Up Your Career</h2>
+<p>Are you looking to switch careers or enhance your skills for your current job? Learn X in Y Minutes is a goldmine for learning new languages or tech quickly, enabling you to:</p>
+<ul>
+<li>Adapt to new technologies</li>
+<li>Stay competitive in the fast-paced world of software development</li>
+<li>Boost your career growth</li>
+</ul>
+<h2 id="start-learning-now">Start Learning Now!</h2>
+<p>Head over to <a href="https://learnxinyminutes.com/">learnxinyminutes.com</a> and start learning now! Whether you’re a seasoned developer or just starting your programming journey, this site has something for everyone.</p>
+<p>Remember to share your experiences and thoughts about Learn X in Y Minutes in the comments section below. Let’s spread the word about this fantastic resource and help others in the programming community to learn and grow!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student</title>
+      <link>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</link>
+      <pubDate>Thu, 09 Mar 2023 14:10:31 +0000</pubDate>
+      <guid>https://joshuapsteele.com/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/</guid>
+      <description>&lt;p&gt;I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)&lt;/p&gt;
+&lt;h2 id=&#34;how-did-you-become-interested-in-software-engineering&#34;&gt;How did you become interested in software engineering?&lt;/h2&gt;
+&lt;p&gt;I wrote a bit about &lt;a href=&#34;https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/&#34;&gt;my coding bootcamp journey&lt;/a&gt; in a previous post.&lt;/p&gt;
+&lt;p&gt;Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)</p>
+<h2 id="how-did-you-become-interested-in-software-engineering">How did you become interested in software engineering?</h2>
+<p>I wrote a bit about <a href="https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/">my coding bootcamp journey</a> in a previous post.</p>
+<p>Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.</p>
+<p>Whenever I thought about “careers that might be a good fit for bi-vocational ministry,” software engineering, web development, etc. were on the short-list. You don’t need a specific degree. You can make good money. You can work remotely. It’s not an especially emotionally draining profession (like, say, counseling, therapy, or chaplaincy). The list goes on.</p>
+<p>As it turns out, I’m now “just” a full-time software engineer. I’m not having to balance things with working in a church setting. But it’s nice to know that I could have that flexibility in the future, if I wanted to.</p>
+<p>And, in addition to all the ministry-related reasons that software engineering was on my radar screen, I really love <strong>learning things and solving problems</strong>. And that’s what I get to do each day as a software engineer!</p>
+<p>I was born in 1991, so computers and the internet have always been a part of my life. I was always curious about how digital tools worked behind the scenes. After years of dabbling and tinkering in the shallow end of the internet, as it were, I was eager to take the plunge into the deep end of computer programming.</p>
+<h2 id="what-does-a-typical-work-dayweek-look-like-for-you">What does a typical work day/week look like for you?</h2>
+<p>Most days, I work from home. My company has an office here in Pittsburgh, but I’m not required to go in.</p>
+<p>I’m expected to be available/contactable (via Microsoft Teams) from 8am-5pm Eastern. And there are various meetings I have to attend each day/week:</p>
+<ul>
+<li>daily squad standup at 10am,</li>
+<li>weekly 1:1 with manager,</li>
+<li>weekly “town hall” meeting,</li>
+<li>weekly “tech sync-up” chat with other devs on my squad,</li>
+<li>bi-weekly sprint planning and retrospective meetings, etc.</li>
+</ul>
+<p>Outside of the meetings and general availability, however, I’m pretty free to get my work done when/as I wish.</p>
+<p>Now, I usually get all my work done between 8am and 5pm anyway! But if I have to step out for a bit for a doctor’s appointment, to drop-off/pick-up kids, to run a few errands, etc., I can always put in the time needed to get my work done outside of business hours.</p>
+<h2 id="what-do-you-like-mostleast-about-your-work-specifically-or-this-career-in-general">What do you like most/least about your work specifically or this career in general?</h2>
+<p>I LOVE how my work requires me to continuously learn things and solve problems.</p>
+<p>Sure, my work isn’t as “tangible” as, say, building a house. But, especially when compared with my previous work/studies in religion and theology, building software feels a lot more concrete!</p>
+<p>Fixing a bug, getting tests to pass, building a feature and seeing it work for customers…all of these things are very satisfying to me.</p>
+<p>However, the main downside is related: software engineering can feel very overwhelming because you’ll never know everything–or even almost everything–about the field. In addition to acquiring basic knowledge of programming, one of the main skills I’ve had to learn is <strong>how to keep making progress even when the task at hand feels confusing and overwhelming</strong>.</p>
+<p>It’s taken some getting used to, going from being one of the well-informed “experts” when it comes to church, Bible, theology, etc., to being a complete n00b at software engineering!</p>
+<p>But, even though the feeling of “I have no idea how to do that” is the main source of stress in my work these days, re-framing it as “I get to learn something new” is what keeps the work exciting!</p>
+<h2 id="in-your-opinion-what-skillsabilitiespersonal-attributes-are-essential-to-success-in-this-field">In your opinion, what skills/abilities/personal attributes are essential to success in this field?</h2>
+<p>You’ve got to be curious. A lifelong learner. Which, importantly, doesn’t just mean “I enjoy <em>knowing</em> a lot of things,” but also “I’m comfortable with the uncomfortable parts of learning something new.”</p>
+<p>Are you OK with realizing that you don’t know something? Or does that totally paralyze you?</p>
+<p>When you realize that you don’t know something, is your first instinct to go learn more about it and figure things out? Or do you tend to avoid that area of uncertainty?</p>
+<p>Furthermore, what about when you don’t know what you don’t know? How do you respond?</p>
+<h2 id="can-you-tell-me-about-the-hiring-process-you-went-through-either-for-your-current-job-or-others-you-have-applied-for">Can you tell me about the hiring process you went through? Either for your current job or others you have applied for.</h2>
+<p>One of the reasons I chose my coding bootcamp, Tech Elevator, was that they included a pretty robust job-search component to the bootcamp. As a part of this, they set us up with a handful (I think I had 5) of brief (15-minute) “matchmaking” interviews.</p>
+<p>Tech Elevator develops relationships with tech companies, usually with a focus on companies that have a footprint nearby one of Tech Elevator’s campuses.</p>
+<p>So, in my case, one of the matchmaking interviews I was assigned was with Proofpoint.</p>
+<p>To be honest, I hadn’t heard of Proofpoint before the bootcamp. And, once I discovered that it’s a large cybersecurity company, I was SUPER intimated. In fact, I straight-up told that to the two developers who did my first interview: “Look, Proofpoint sounds amazing, but I don’t know if I’m cut out to work for a cybersecurity company with just a 14-week bootcamp under my belt!”</p>
+<p>Those devs reassured me that, even though Proofpoint’s a cybersecurity company, that I was not applying for a cybersecurity expert role, but for a junior developer role. That calmed my nerves a bit!</p>
+<p>After my matchmaking interview, which went quite well (and, unlike my other matchmaking interviews, was quite technically focused…getting a sense of what I had and had not learned at the bootcamp), I made it to a 3-part second interview. 3 back-to-back interviews (Zoom calls, in my case) with 3 different groups of 2 Proofpoint interviewers each. I spoke with a technical product manager, a QA manager, two mid-level devs, and two senior-level devs.</p>
+<p>Only the 3rd sub-interview was the dreaded “technical interview.” A mid-level and a senior dev asked me to whiteboard maybe 2 different problems. (As they taught me in the bootcamp, I went into as much detail as possible while solving the technical problem(s), so we didn’t cover all that many different topics.)</p>
+<p>The devs were quick to reassure me that I was not being judged on coding syntax, but rather on problem-solving approach. I could either code in the language I was most comfortable with or write pseudocode.</p>
+<p>I was quick to say that, in the real world, I would approach a problem by googling to see if a ready-made solution (in this case, for string manipulation) existed. I even mentioned the library/tool that I thought could do what I was being asked to do.</p>
+<p>And, looking back on the experience, that’s completely true. The coding problem(s) I was asked to do in the technical interview was NOTHING LIKE what I do each day as a software dev. I would never ever spend so much time trying to put together a string manipulation solution from scratch unless I had already exhausted other options.</p>
+<p>But, hey, there are only so many different ways you can test someone’s problem-solving skills. At least my interviewers clearly understood (and told me) that this was obviously a very artificial situation.</p>
+<p>Anyway, it didn’t go <em>perfectly</em> (at least not in my opinion), but I was able to come up with a workable solution to the problem and, more importantly, thoroughly talk through my thinking as I went. I felt very well-prepared by the bootcamp for my interviews.</p>
+<p>BUT, I will say that, outside of my other matchmaking interviews, it was quite difficult to get my foot in the door for an interview for other positions. There were plenty of jobs I applied for that I either never heard back from or received a pretty quick rejection.</p>
+<p>This makes sense to me because, without any industry experience or a Computer Science degree on my resume, why would the average tech company give me a second look? For all I knew, my resume was getting filtered out by an algorithm before a human even looked at it!</p>
+<p>Again, that’s one of the reasons why I chose Tech Elevator, and it paid off. They developed a relationship with companies to get students initial interviews. And they trained us, as people who were pivoting into tech from a variety of other backgrounds, how to pitch ourselves and compellingly describe what we brought to the table.</p>
+<h2 id="what-steps-would-you-recommend-i-take-to-prepare-to-enter-the-field">What steps would you recommend I take to prepare to enter the field?</h2>
+<p><a href="https://austinkleon.com/keepgoing/">Keep going</a>. <a href="https://austinkleon.com/show-your-work/">Show your work</a>. <a href="https://austinkleon.com/steal/">Steal like an artist</a> (programmer).</p>
+<p>Read those books above. Read <a href="https://nostarch.com/missing-readme">The Missing README</a>. Read the books recommended in The Missing README. Keep reading! (Need to learn how to read better? Read <a href="https://amzn.to/3T0K28W">How to Read a Book</a>. Seriously. It’s golden.)</p>
+<p>Keep making friends and making things until someone notices you and you get a job! Then, keep making friends and making things!</p>
+<p>Learn <a href="http://www.catb.org/~esr/faqs/smart-questions.html">how to ask questions the smart way</a>.</p>
+<p>Keep learning. Your “to-learn” list should never ever be empty.</p>
+<p>Don’t know what to learn next? Let your immediate problems be your guide. If you’ve got a job, learn what you need to learn to close your next ticket. If you don’t have a job (yet), learn what you need to learn to better align with job descriptions.</p>
+<p>Need a bigger-picture overview of things to learn and be familiar with? I LOVE the <a href="https://roadmap.sh/">“Developer Roadmaps” over at roadmaps.sh</a>.</p>
+<p>Need to get your sh*t together, life-wise? Check out these books below. Start with whichever book piques your interest the most!</p>
+<ul>
+<li><a href="https://amzn.to/3kXIK21">The 7 Habits of Highly Effective People</a></li>
+<li><a href="https://amzn.to/3ZVE63w">First Things First</a></li>
+<li><a href="https://amzn.to/3ZAavga">How to Win Friends and Influence People</a></li>
+<li><a href="https://amzn.to/3JrUOC7">The Happiness Trap</a></li>
+<li><a href="https://amzn.to/3ZUsFJi">Getting Things Done</a></li>
+<li><a href="https://amzn.to/3ZxFUzD">The Practicing Stoic</a></li>
+<li><a href="https://amzn.to/3kYhikz">Atomic Habits</a></li>
+<li><a href="https://amzn.to/3LaFpHn">The Personal MBA</a></li>
+<li><a href="https://amzn.to/3ZBcGzU">Super Thinking</a></li>
+</ul>
+<hr>
+<p>I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the <a href="https://joshuapsteele.com/contact/">contact form on my website</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>My Coding Bootcamp Journey: How a Pastor Became a Programmer</title>
+      <link>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</link>
+      <pubDate>Fri, 03 Feb 2023 17:42:02 +0000</pubDate>
+      <guid>https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/</guid>
+      <description>&lt;p&gt;When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.&lt;/p&gt;
+&lt;p&gt;So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.&lt;/p&gt;
+&lt;p&gt;In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on &lt;a href=&#34;https://teamtreehouse.com/&#34;&gt;Treehouse&lt;/a&gt; and on &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt; and I got to work!)&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.</p>
+<p>So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.</p>
+<p>In fact, for a few months between finishing seminary and starting my Ph.D. program, I tried to teach myself the basics of web design (HTML, CSS, JavaScript) and Ruby on Rails. (I signed up for an account on <a href="https://teamtreehouse.com/">Treehouse</a> and on <a href="https://www.freecodecamp.org/">freeCodeCamp</a> and I got to work!)</p>
+<p>However, once I got accepted into a Ph.D. program (and realized that I needed to learn how to read in German ASAP in order to pass a translation exam), my programming learning fell by the wayside.</p>
+<p>While a full-time Ph.D. student, I got some basic web design experience as the Managing Editor of a website. Most of my time was spent using WordPress, but I knew just enough HTML and CSS to be dangerous (i.e., to fix small problems).</p>
+<p>Suffice it to say that <a href="https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/">the Ph.D.</a> did not go as planned. (More on that some other time.) Neither did that part-time website job. So, after months of searching unsuccessfully for church (or church-adjacent) work, I resurrected the idea of teaching myself how to code. I dove back into freeCodeCamp’s curriculum and started chipping away.</p>
+<p>But it was slow going. Getting a tech job seemed like an impossible dream. And, although there’s a TON of information online, I desperately craved having teachers and fellow students I could talk to. (I’m a big fan of asking questions. All the time.) I wanted some personal help in order to put things into context, to see the big picture and the path forward to a job.</p>
+<p>When I first started learning how to code again, there were always enough church-related job opportunities to keep me distracted from coding. After all, I had studied the Bible and theology for over a decade. My training was church-focused (<a href="https://joshuapsteele.com/portfolio/cv/">just look at my C.V.</a>). So, if there were a church-focused job out there for me, obviously I should focus on finding it. Right?</p>
+<p>After a particularly devastating disappointment (I was offered a church-adjacent marketing position that was then rescinded within 48 hours), I decided to go all-in on a coding bootcamp.</p>
+<p>I’ll say more about my bootcamp selection process in another post. But I had my eyes on <a href="https://www.techelevator.com/">Tech Elevator</a> because (1) they published their job placement numbers (to <a href="https://cirr.org/">CIRR</a>), (2) they had a campus in Pittsburgh (where we were moving), and (3) their <a href="https://www.techelevator.com/coding-bootcamp/full-time-coding-bootcamp/">curriculum</a> contained not just coding information, but also a job-search component.</p>
+<p>So, we spent just over $15,000 on the 14-week bootcamp in the Fall of 2021.</p>
+<p>It was one of the most intense learning periods in my entire life! But I loved having teachers and fellow students that I could ask questions to. And I thoroughly benefited from the career coaching components of the bootcamp.</p>
+<p>Tech Elevator not only taught me the (1) fundamentals of object-oriented programming in Java and (2) the basics of responsive web design. It also helped me revise and re-frame my experience to help me find a tech job. I rewrote my resume. I developed an “elevator pitch.” I prepared for common interview questions, both at the HR and the technical level (the dreaded whiteboarding experience!).</p>
+<p>Tech Elevator hooked us students up with a handful of initial “matchmaking interviews,” one of which led me to my current position! This was a HUGE help because, without a computer science degree or industry experience, it can be a pain to get past the initial application phase.</p>
+<p>Now that I’ve worked as a software engineer for a year, I can say that doing a coding bootcamp was one of the best investments I’ve ever made.</p>
+<p>HOWEVER, it’s not for everyone. I would only recommend a bootcamp if you are a highly motivated learner. There’s a lot of information to find and digest, and you need to have a real hunger for learning (and a willingness to make mistakes and be wrong as you figure things out).</p>
+<p>If you’re considering doing a bootcamp, <a href="https://www.techelevator.com/coding-aptitude-test/">take Tech Elevator’s Coding Aptitude Test for free</a>! And dive into free “learn to code” resources online (like <a href="https://www.freecodecamp.org/">freeCodeCamp</a> or <a href="https://www.theodinproject.com/">The Odin Project</a>) to see if you like the kind of thinking that’s required to do software development!</p>
+<p>That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use <a href="https://joshuapsteele.com/contact/">the contact form</a> to email me.)</p>
+<hr>
+<p>UPDATE: On 2023-02-16, I was promoted to Software Engineer II! If you’d like to connect professionally, <a href="https://www.linkedin.com/in/joshuapsteele/">come find me @joshuapsteele on LinkedIn</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Logos 10 Bible Software: The Ultimate Theological Learning Tool</title>
+      <link>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</link>
+      <pubDate>Thu, 22 Dec 2022 13:46:21 +0000</pubDate>
+      <guid>https://joshuapsteele.com/logos-10-bible-software-the-ultimate-theological-learning-tool/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. &lt;a href=&#34;https://partners.faithlife.com/click.track?CID=431490&amp;amp;AFID=529204&#34;&gt;Do so via my exclusive partner offer for Logos 10 here!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If I could go back in time and chat with Joshua Steele when he was a Bible &amp;amp; Spanish major in college, there are a few things I’d tell my younger self:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Quit laughing at &lt;em&gt;How to Read a Book&lt;/em&gt; by Mortimer J. Adler and READ the thing.&lt;/li&gt;
+&lt;li&gt;Baba ghanoush is superior to hummus.&lt;/li&gt;
+&lt;li&gt;Study computer science sooner rather than later.&lt;/li&gt;
+&lt;li&gt;Bite the bullet and INVEST IN A LOGOS BIBLE SOFTWARE LIBRARY.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Don’t get me wrong. I love physical books as much as anyone, and I own quite a few (hundred)!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p><strong>TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. <a href="https://partners.faithlife.com/click.track?CID=431490&amp;AFID=529204">Do so via my exclusive partner offer for Logos 10 here!</a></strong></p>
+<hr>
+<p>If I could go back in time and chat with Joshua Steele when he was a Bible &amp; Spanish major in college, there are a few things I’d tell my younger self:</p>
+<ol>
+<li>Quit laughing at <em>How to Read a Book</em> by Mortimer J. Adler and READ the thing.</li>
+<li>Baba ghanoush is superior to hummus.</li>
+<li>Study computer science sooner rather than later.</li>
+<li>Bite the bullet and INVEST IN A LOGOS BIBLE SOFTWARE LIBRARY.</li>
+</ol>
+<p>Don’t get me wrong. I love physical books as much as anyone, and I own quite a few (hundred)!</p>
+<p>Nevertheless, when I finally became a Logos Bible Software customer in 2018 as a Ph.D. Student, Anglican Deacon, and Anglican website editor, it took my studies to the next level. I purchased a Logos 8 Anglican Silver package, <a href="https://www.logos.com/product/5758/barths-church-dogmatics">Karl Barth’s Church Dogmatics (31 Vols.)</a>, and <a href="https://www.logos.com/product/152651/dietrich-bonhoeffer-works-german-english">Dietrich Bonhoeffer Works: German-English (34 Vols.)</a>, and I haven’t looked back since!</p>
+<p>(NOTE: If you’re interested in the best FREE Bible and theology resources out there, then you NEED to check out <a href="https://bibleproject.com/">The Bible Project</a>, <a href="https://netbible.org/bible/Matthew+1#">The NET Bible</a>, and <a href="https://www.saet.ac.uk/index.php/articles">The St. Andrews Encyclopaedia of Theology</a>!)</p>
+<h2 id="logos-10-worth-the-cost">Logos 10: Worth the Cost?</h2>
+<p>Has it been a pricey investment over the years? To be sure.</p>
+<p>However, even if I just consider the amount of <strong>time saved</strong> (1) looking things up and (2) citing works (which Logos handles AUTOMATICALLY when you copy and paste quotes!!!), I’ve come out on top</p>
+<p>This is not to mention the breadth and depth that Logos Bible Software has added to my essays, sermons, emails (I used to receive a lot of Anglicanism-related questions!), and blog posts.</p>
+<p>Now that Logos 10 is out, I can heartily continue to recommend Logos Bible Software. If you haven’t done so already, I strongly encourage you to consider buying (or upgrading to) Logos 10! (<a href="https://partners.faithlife.com/click.track?CID=431490&amp;AFID=529204">Again, you can do so via my exclusive partner link here!</a>)</p>
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/mfoaX1zkhuU?feature=oembed" title="Logos 10 Is Here" width="750"></iframe></div></figure>
+<h2 id="top-3-features-of-logos-10">Top 3 Features of Logos 10</h2>
+<p>Real quick, here are my 3 favorite things about Logos 10 (compared to Logos 8 and 9).</p>
+<h3 id="1-its-faster">1. It’s FASTER</h3>
+<p>Right out of the box, you can tell that they’ve tweaked things under the hood to make Logos 10 run faster (noticeably faster on my 2016 MacBook Pro) than previous versions.</p>
+<p>Especially when you’ve got a large library (I’ve got 3,975 items in my Logos library right now) and you’re using multiple resources at a time, running Logos Bible Software is computationally expensive. So I’m glad that the Logos team have made behind-the-scene improvements to the software that have yielded a noticeably superior user experience on my end!</p>
+<h3 id="2-with-print-library-catalog-you-can-add-and-search-your-print-books">2. With Print Library Catalog, you can add and search your PRINT BOOKS</h3>
+<p>The new <a href="https://www.logos.com/features/print-library-catalog">Print Library Catalog feature</a> is a game-changer, especially if you, like me, have quite a few physical biblical and theological books laying around!</p>
+<p>If you add those physical books to your Logos Print Library Catalog, then, as long as Logos has digital versions of those books, you can use the power of Logos search to help you find things in your physical books!</p>
+<p>This means that Logos Bible Software can now help you take better advantage of the physical books you already own! Genius.</p>
+<h3 id="3-church-history-themes">3. Church History Themes</h3>
+<p>As a student of historical theology, I’m a bit biased here, but I think that most Christians these days have a woefully inadequate understanding of Church history!</p>
+<p>Granted, not everyone needs to become Church history experts! But all Christians should know at least the broad contours and the major themes from Church history. Let’s learn the most we can from saints who have gone before us!</p>
+<p>Logos 10 makes a big step forward here with the new <a href="https://www.logos.com/features/church-history">Church History Themes</a> feature. It’s a fantastic way to get up to speed on some of the most important movements and topics from the history of Christianity.</p>
+<h3 id="4-bonus-auto-translation">4. (Bonus) Auto Translation!</h3>
+<p>OK, we’re into the weeds a bit here, because I realize that not everyone will be interested in this. But, as someone who (attempted) a Ph.D. on two German-speaking theologians, let me just tell you that I REALLY wish this feature had been introduced earlier!</p>
+<p>Logos 10’s new <a href="https://www.logos.com/features/auto-translation">Auto Translation feature</a> makes it easier than ever to engage with works written in, say, Latin, French, or German right from Logos. I really hope that this kind of AI-assisted translation continues to improve, because there are so many works out there originally written in other languages. Plenty of these haven’t been translated into English yet. And, even when they have (looking at you, Barth’s Church Dogmatics), there’s really no replacement for engaging with a work in its original language.</p>
+<h2 id="other-helpful-logos-10-bible-software-reviews">Other Helpful Logos 10 Bible Software Reviews</h2>
+<p>I’ve only scratched the surface of the new and improved features of Logos 10. I’ll say it again, I strongly recommend that you <a href="https://partners.faithlife.com/click.track?CID=431490&amp;AFID=529204">invest in a Logos 10 Bible Software library</a>!</p>
+<p>And don’t just take my word for it! Here are some other reviews of Logos 10 Bible Software that you should take a look at as you consider whether or not to purchase/upgrade:</p>
+<ul>
+<li><a href="https://overviewbible.com/logos-bible-software-review/">Logos Bible Software 10 review: Do you REALLY need it?</a> (OverviewBible)</li>
+<li><a href="https://biblebuyingguide.com/logos-10-bible-software-review/">Logos 10 Bible Software Review</a> (BibleBuyingGuide)</li>
+<li><a href="https://www.youtube.com/watch?v=zN6USy9hc4I">10 Noteworthy New Logos 10 Features in Under 10 Minutes</a> (Chris J. Wilson, YouTube)</li>
+<li><a href="https://www.propreacher.com/logos-10-review/">Logos 10 Review: The Best Bible App?</a> (ProPreacher)</li>
+<li><a href="https://churchtechtoday.com/top-3-new-features-in-logos-10-bible-software-review/">Top 3 New Features in Logos 10 Bible Software</a> (ChurchTechToday)</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Software Testing: Possibilities, Problems, and Principles</title>
+      <link>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</link>
+      <pubDate>Wed, 21 Dec 2022 21:08:05 +0000</pubDate>
+      <guid>https://joshuapsteele.com/software-testing-possibilities-problems-and-principles/</guid>
+      <description>&lt;p&gt;Note: Throughout what follows, I am heavily indebted to two books in particular: &lt;a href=&#34;https://www.manning.com/books/unit-testing&#34;&gt;Unit Testing: Principles, Practices, and Patterns&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/vkhorikov?lang=en&#34;&gt;Vladimir Khorikov&lt;/a&gt; (Manning Publications, 2020) and &lt;a href=&#34;https://www.manning.com/books/effective-software-testing&#34;&gt;Effective Software Testing: A Developer’s Guide&lt;/a&gt; by &lt;a href=&#34;https://twitter.com/mauricioaniche&#34;&gt;Mauricio Aniche&lt;/a&gt; (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Khorikov-UT-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Aniche-HI.png&#34; loading=&#34;lazy&#34; src=&#34;https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;software-testing-our-fields-least-sexy-superpower&#34;&gt;Software Testing, Our Field’s Least-Sexy Superpower&lt;/h2&gt;
+&lt;p&gt;Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!&lt;/p&gt;</description>
+      <content:encoded><![CDATA[<p>Note: Throughout what follows, I am heavily indebted to two books in particular: <a href="https://www.manning.com/books/unit-testing">Unit Testing: Principles, Practices, and Patterns</a> by <a href="https://twitter.com/vkhorikov?lang=en">Vladimir Khorikov</a> (Manning Publications, 2020) and <a href="https://www.manning.com/books/effective-software-testing">Effective Software Testing: A Developer’s Guide</a> by <a href="https://twitter.com/mauricioaniche">Mauricio Aniche</a> (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.</p>
+<p><img alt="Khorikov-UT-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png"></p>
+<p><img alt="Aniche-HI.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/ED1FC92B-C9A0-4CDC-B13D-5AA3940FF3E7_2/FE2KZaydLyYRh1ydJKyDIvx4y3gaQLh82funASwXFqoz/Aniche-HI.png"></p>
+<hr>
+<h2 id="software-testing-our-fields-least-sexy-superpower">Software Testing, Our Field’s Least-Sexy Superpower</h2>
+<p>Coming into software development from a background in the humanities, automated software testing struck me as a kind of superpower. Until, that is, I had to write my first software test!</p>
+<p>So I now think of software testing as software development’s least-sexy superpower.</p>
+<p>Sure, tests aren’t very fun or glamorous to write and maintain. But can you imagine if other industries had similar testing powers?</p>
+<p>What if your house could test itself and let you know when it needed repairs? What if your body could test itself? What if, every day, you could live your life in the comfort of knowing that you and your belongings were being checked for errors thousands of times? Wouldn’t that be nice? Imagine the security and freedom that such a life-wide testing suite could provide!</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h2 id="possibilities-of-software-testing">Possibilities of Software Testing</h2>
+<p>I don’t know how far away we are from automatic home and health testing, but I do know that automated software testing has the potential to make our lives much better as we develop and sell software.</p>
+<p>Sure, software development can get incredibly complicated and frustrating. But what if you had a robust testing suite that:</p>
+<ol>
+<li>Caught bugs</li>
+<li>Never “<a href="https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf">cried wolf</a>” (“to cry wolf” = “to give a false alarm”)</li>
+<li>Was easy to run, understand, and change</li>
+</ol>
+<p>Good tests can help us confidently and quickly develop world-class software that improves our customers’ lives.</p>
+<p>It’s not just about catching bugs and passing tests. As Vladimir Khorikov notes in <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/"><em>Unit Testing: Principles, Practices, and Patterns</em></a>, <strong>the goal of software testing “is to enable to sustainable growth of the software project.”</strong> The larger and longer a project is around, the more beneficial a good testing suite becomes.</p>
+<p>After all, a robust testing suite functions as its own form of <strong>documentation</strong> for your project. A developer should be able to read through the tests and quickly get up to speed with how the production code functions. They can then confidently make changes to the codebase, knowing that (1) they have a decent idea of how things work and (2) that the testing suite will alert them to breaking changes.</p>
+<p>And, as we’ll discuss below, <a href="https://docs.craft.do/editor/d/032236cd-2bcc-fa12-9dfe-e5564a597e07/836657DD-FF3A-4CE5-8565-F6945FE45D6A/b/C94D92D2-AC78-4BCC-AB6B-5388B77EAF8B#8434D46D-25CD-49D8-83AC-87FE1E45A738">well-designed code is easy to test</a>! That is, there’s an important connection between software testing and software <strong>design</strong>. When we run into difficulties writing tests, we should consider improving the design of our production code.</p>
+<p>Now, speaking of testing difficulties…</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h2 id="problems-with-software-testing">Problems with Software Testing</h2>
+<p>All too often, the reality of software testing falls far short of its potential.</p>
+<p>Thanks to the “test early, test often” perspective of <a href="https://www.testim.io/blog/shift-left-testing-guide/">“shift left” testing</a>, most of us software engineers have to write tests. Most of our production code has an ever-increasing <strong>quantity</strong> of test code associated with it. (More on the different <a href="https://docs.craft.do/editor/d/032236cd-2bcc-fa12-9dfe-e5564a597e07/836657DD-FF3A-4CE5-8565-F6945FE45D6A/b/C94D92D2-AC78-4BCC-AB6B-5388B77EAF8B#AA5E8A29-25DD-4777-80AD-37DF0A172857">kinds of tests</a> below.)</p>
+<p>But the <strong>quality</strong> of our testing suites is often lacking.</p>
+<ul>
+<li>We still have to put out fires more often than we’d like</li>
+<li>Our brittle tests “cry wolf” whenever we change anything</li>
+<li>Our tests are difficult to configure, understand, and refactor</li>
+</ul>
+<p>In other words, we’re not living up to our testing potential! Or, at least, <strong>I’m</strong> not! Instead, here’s what often happens:</p>
+<ul>
+<li>I make a change to the codebase</li>
+<li>Tests break</li>
+<li>I fix the tests</li>
+<li>My <a href="https://www.sonarqube.org/">code quality/coverage analysis tool</a> lets me know that I need more code coverage</li>
+<li>I either</li>
+<li>ignore my code coverage tool or</li>
+<li>add some low-quality tests to get the coverage that I need and move my PR forward</li>
+</ul>
+<p>This is bad! Don’t be like me! Don’t sacrifice test quality for test quantity.</p>
+<h2 id="how-can-josh-we-test-better">How Can <del>Josh</del> We Test Better?</h2>
+<p>What should we keep in mind when we prepare to write code, when tests break, when our code coverage tool gets mad, etc.?</p>
+<hr>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h2 id="principles-of-software-testing">Principles of Software Testing</h2>
+<p>Lots could and has been said about software testing. But I’d like to do an “80/20 analysis” of software testing and focus on the 20% of principles and mental models that yield 80% of the results.</p>
+<h3 id="what-is-software-testing">What is Software Testing?</h3>
+<p>Simply put, <strong>software testing is the process of making sure that your software does what you want it to do</strong>.</p>
+<p>As we’ll see below, the “process” can be quite complicated and multifaceted. But, before we get there, note that <strong>the prerequisite of software testing is knowing (at least partially) what you want your software to do!</strong></p>
+<p>This is a crucial point to remember, which brings us to our next principle.</p>
+<h3 id="the-absence-of-errors-fallacy-passing-tests-dont-guarantee-good-software">The <a href="https://www.oodlestechnologies.com/blogs/understanding-absence-of-error-fallacy-in-software-testing/">Absence of Errors Fallacy</a>: Passing Tests Don’t Guarantee Good Software</h3>
+<p>The absence of “errors” doesn’t mean that our software is useful, that it does the right things for our users!</p>
+<p>Mauricio Aniche shares the following two quotes/sayings:</p>
+<ul>
+<li>“Coverage of code is easy to measure; coverage of requirements is another matter.”</li>
+<li>“Verification is about having the system right; validation is about having the right system.”</li>
+</ul>
+<p>Throughout the iterative process of software testing, we need to ask ourselves <strong>“Do we know what we want our software to do? Should we change the requirements to better meet our users’ needs?”</strong> Only then can we make sure that we are testing for the right behavior.</p>
+<h3 id="qualities-of-a-good-test">Qualities of a Good Test</h3>
+<p>Khorikov (2020: 67) notes that a good testing suite “provides maximum value with minimum maintenance costs.” But, to achieve this, you need to be able to (1) “recognize a valuable test (and, by extension, a test of low value)” and (2) “write a valuable test.”</p>
+<p>To get better at software testing, then, it’s helpful to know what we’re aiming for! Khorikov (2020: 68) lists four qualities of a good test:</p>
+<ul>
+<li>
+<blockquote><p>Protection against regressions</p></blockquote></li>
+<li>
+<blockquote><p>Resistance to refactoring</p></blockquote></li>
+<li>
+<blockquote><p>Fast feedback</p></blockquote></li>
+<li>
+<blockquote><p>Maintainability</p></blockquote></li>
+</ul>
+<p>Here’s how I would re-phrase that. A good automated software test:</p>
+<ol>
+<li>Catches bugs (no “false negatives”)</li>
+<li>Doesn’t “cry wolf” (no “false positives”)</li>
+<li>Runs quickly</li>
+<li>Is easy to read and run</li>
+</ol>
+<p>OK, so we should just max out each of these four qualities whenever writing tests, right?</p>
+<p>Unfortunately, it’s not so simple.</p>
+<p>This is because, apart from Maintainability, the other three qualities are in tension with one another. You can only maximize two of the remaining three qualities.</p>
+<p><img alt="UnitTesting04fig08_alt.jpeg" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/97683B15-BF10-416A-B336-4182179A0E2A_2/bpWRZyrcBDzP71Nk97VopU9hJSQf30X0WDoxASNykDkz/UnitTesting04fig08_alt.jpeg">
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
+<p>And, even then, you can’t completely forget about the last quality you’ve chosen not to prioritize! After all, no one wants a test that (1) doesn’t catch any bugs, (2) is so tightly coupled to the production code that it’s meaningless, or (3) takes forever to run.</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h3 id="avoid-brittle-tests-maximize-resistance-to-refactoring">Avoid Brittle Tests: Maximize Resistance to Refactoring</h3>
+<p>Should we prioritize any particular quality of a good test while we’re building our test suite?</p>
+<p>While we need to keep all four qualities in mind throughout the testing process, I agree with Khorikov when he argues for <strong>prioritizing resistance to refactoring</strong>. We need to take special care to avoid producing “brittle” tests that yield false positives (“cry wolf”) whenever we refactor our production code.</p>
+<p>Put simply, we need to <strong>test the what, not the how</strong>. (More on this in “<a href="craftdocs://open?blockId=9811D0C8-FEBE-42CC-BA53-9A767F01549F&amp;spaceId=032236cd-2bcc-fa12-9dfe-e5564a597e07">Observable Behavior vs Implementation Details</a>” below.) Our tests should be as loosely coupled to the implementation details of our production code as possible. Instead, they should focus on testing the observable behavior of our software.</p>
+<p>A related concept at this juncture is <strong>“black-box testing vs. white-box testing</strong>“:</p>
+<ul>
+<li>Black-box testing: testing a system’s observable behavior, its specifications and requirements, as if you had no knowledge of its implementation details or inner workings</li>
+<li>White-box testing: testing a system’s implementation details and inner workings</li>
+</ul>
+<p>Black-box testing yields better resistance to refactoring. White-box testing might often uncover more bugs than black-box testing, but it often produces brittle tests that are too tightly coupled to implementation details.</p>
+<p>Nevertheless, as Khorikov reminds us,</p>
+<blockquote><p>“even though black-box testing is preferable when <em>writing tests</em>, you can still use the white-box method when <em>analyzing</em> the tests. <em>Use code coverage tools to see which code branches are not exercised, but then turn around and test them as if you know nothing about the code’s internal structure.</em> Such a combination of the white-box and black-box methods works best” (Khorikov 2020).</p></blockquote><p>Why is resistance to refactoring worth prioritizing? Because, as Khorikov notes, unlike protection against regressions and fast feedback, which tend to exist on a spectrum, resistance to refactoring is more of an “all or nothing” aspect of a test.</p>
+<blockquote><p>“The reason resistance to refactoring is non-negotiable is that whether a test possesses this attribute is mostly a binary choice: the test either has resistance to refactoring or it doesn’t. There are almost no intermediate stages in between. Thus you can’t concede just a little resistance to refactoring: you’ll have to lose it all. On the other hand, the metrics of protection against regressions and fast feedback are more malleable” (Khorikov 2020).</p></blockquote><p>A test is either brittle or it isn’t. And, while the cost of brittle tests is relatively low at the beginning of a project (as long as those tests are catching bugs and running relatively quickly), over time, as a project grows in size and complexity, the costs of brittle tests and their false positives drastically increases.</p>
+<p>The main tradeoff we’re left with, then, is between “protection against regressions” and “fast feedback.” And this tradeoff plays itself out in the differences between the main kinds of software tests.</p>
+<h3 id="kinds-of-tests">Kinds of Tests</h3>
+<p>Fortunately, even though it’s impossible to write a perfect test that maximizes all the qualities of a good test at once, we can and should use different kinds of tests in our software testing suite.</p>
+<p>Keep in mind what’s known as “the pesticide paradox”–if you only use one type of test, or you fail to revise and evolve your testing suite, you’ll only catch certain kinds of bugs. To catch new defects in the system, you need to use different kinds of tests and constantly revise your testing suite.</p>
+<p>Unfortunately, there’s plenty of debate around the definition of test types, as well as when and how often to use each kind of test. Nevertheless, the following categories are commonly used:</p>
+<ul>
+<li>Unit tests</li>
+<li>Integration tests</li>
+<li>End-to-end tests (AKA System tests)</li>
+</ul>
+<p>This framework differentiates tests based on how much code they execute, how quickly they run, how complex they are, and how closely they mimic the behavior of an end user.</p>
+<h4 id="unit-tests">Unit Tests</h4>
+<p>Khorikov notes the disagreement on the precise definition of a unit test, but he helpfully isolates the following <strong>three attributes of a unit test</strong> that many definitions share:</p>
+<blockquote><p>“A unit test is an automated test that</p></blockquote><ol>
+<li>
+<blockquote><p>Verifies a small piece of code (also known as a <em>unit</em>),</p></blockquote></li>
+<li>
+<blockquote><p>Does it quickly,</p></blockquote></li>
+<li>
+<blockquote><p>And does it in an isolated manner.”</p></blockquote></li>
+</ol>
+<p>Now, no one really disagrees that unit tests should run <strong>fast</strong> (#2). However, just what counts as a <strong>“unit”</strong> is a matter of some debate. Some people think that a “unit” is a single class or even a single method.</p>
+<p>However, as we’ll see below, there are advantages to broadening the definition of “unit” a little bit to mean <strong>“unit of work” or “unit of behavior.”</strong> Doing so helps us to write tests that are loosely coupled to the production code, tightly coupled to business/domain requirements, and therefore resistant to refactoring.</p>
+<p>I agree with Khorikov when he advises that</p>
+<blockquote><p>“Tests shouldn’t verify <em>units of code</em>. Rather, they should verify <em>units of behavior</em>: something that is meaningful for the problem domain and, ideally, something that a business person can recognize as useful. The number of classes it takes to implement such a unit of behavior is irrelevant. The unit could span across multiple classes or only one class, or even take up just a tiny method.”</p></blockquote><p>Before moving on, we should also note that people disagree on what it means for a unit test to be <strong>“isolated.”</strong></p>
+<p>What’s known as the <a href="https://medium.com/@adrianbooth/test-driven-development-wars-detroit-vs-london-classicist-vs-mockist-9956c78ae95f"><strong>“London School”</strong></a> holds that:</p>
+<ul>
+<li>A <strong>unit</strong> is a <strong>single class</strong></li>
+<li>Each unit should be tested in <strong>isolation from all other units</strong></li>
+<li><strong>Test doubles</strong> (mocks, stubs, etc.) should be used for <strong>everything except immutable dependencies</strong> (AKA “values” or “value objects”)</li>
+</ul>
+<p>Meanwhile, the <a href="https://medium.com/@adrianbooth/test-driven-development-wars-detroit-vs-london-classicist-vs-mockist-9956c78ae95f"><strong>“Classical School”</strong> (AKA “Detroit School”)</a> maintains that:</p>
+<ul>
+<li>A <strong>unit</strong> is a <strong>unit of behavior</strong>, no matter how big/small</li>
+<li>Each unit test should run in <strong>isolation from all other unit tests</strong></li>
+<li><strong>Test doubles</strong> should <strong>only be used for shared dependencies</strong> (like a database or file system)</li>
+</ul>
+<p>It might already be obvious from my comment above about broadening the definition of “unit” to mean “unit of behavior/work,” but I prefer the Classical School’s perspective on testing. It’s easier to produce tests that are resistant to refactoring by following the Classical School’s paradigm.</p>
+<p>Despite all the disagreements about unit tests, it’s safe to say that everyone agrees that <strong>unit tests prioritize fast feedback</strong>. They’re quick to write, run, and let you know if you broke something.</p>
+<h4 id="integration-tests">Integration Tests</h4>
+<p>Unlike unit tests, <strong>integration tests test more than one unit</strong> <strong>(although not the entire system)</strong>. This means that they tend to take longer to write (and longer to run) than unit tests.</p>
+<p>(Note that, because “unit” is used in this definition as well, the arguments about unit tests bleed over into what counts as an integration test! What the “Classical School” calls unit tests, for example, would often be considered integration tests by the “London School.”)</p>
+<p>What integration tests give up in terms of fast feedback, they gain in terms of <strong>protection against regressions</strong>. That is, they can catch more bugs.</p>
+<p>This is because integration tests exercise more of the codebase than unit tests. They also focus on the interactions between system components, which means that they’re looking for regressions/bugs in areas that are outside of the scope of unit tests.</p>
+<h4 id="end-to-end-or-system-tests">End-to-end or System Tests</h4>
+<p>Unlike integration tests, end-to-end or system tests <strong>test the entire system</strong>. They take even longer to write and run than integration tests, but they emulate an end-user’s interactions with your system more than any other kind of test.</p>
+<p>System tests <strong>maximize protection against regressions</strong> by exercising the entire code base.</p>
+<p>Using all three different kinds of tests, then, is key to having a test suite that catches bugs and gives fast feedback.</p>
+<p><img alt="UnitTesting04fig12_alt.jpeg" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/3554AE46-C4BA-4C5A-B879-2E6B639AA252_2/qH4ihIUx7NKs4kWQNlU3uNEe2Ji1K3CD0cE8Y1svGI8z/UnitTesting04fig12_alt.jpeg">
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
+<h3 id="the-test-pyramid">The Test Pyramid</h3>
+<p>Due to the strengths and weaknesses of the three different kinds of tests, the “test pyramid” model suggests that developers should write many unit tests, fewer integration tests, and even fewer end-to-end tests. The width of the pyramid represents the number of tests at each level.</p>
+<p>Here is Mauricio Aniche’s version of the Test Pyramid, which adds exploratory manual testing (vs. automated testing) as a top layer:</p>
+<p><img alt="EffectiveSoftwareTesting01-08.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/AFC5E00F-399B-454E-88E9-96DF37822C93_2/a3yCuLMk35hMVojHrgkpkB9dy9tzOB9RlqBjWHdnCZcz/EffectiveSoftwareTesting01-08.png">
+(Image source: <a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/">Aniche 2022</a>)</p>
+<p>The main reason to be <em>sparing</em> in our creation and use of integration and system tests is <strong>time</strong>. Remember, one of the four qualities of a good test is “fast feedback,” and this is definitely a weakness of integration and system tests.</p>
+<p>Nevertheless, because they exercise a lot of the codebase (and thereby increase our code coverage), integration and system tests are particularly good at catching bugs. So, if we want our testing suite to be good at “protection against regressions,” we need to include well-thought-out integration and system tests.</p>
+<h3 id="code-coverage-good-servant-bad-master">Code Coverage: Good Servant, Bad Master</h3>
+<p>Code coverage is a measurement of <strong>how much of your production code gets executed by your test code.</strong></p>
+<p>On its own, “code coverage” usually refers to “<strong>line coverage</strong>,” meaning the number of lines of code executed by your tests divided by the total lines of code. (If you’ve got 100 lines of code and your tests execute 90 of them, you’ve got 90% code coverage.)</p>
+<p>However, as Aniche (2022) notes, because the complexity of our production code involves more than just the number of lines of code, there are other forms/aspects of code coverage worth considering.</p>
+<ul>
+<li><strong>Branch coverage</strong> takes into account all the <code>true</code> and <code>false</code> branches of the program’s logic (coverage of <code>if(a &amp;&amp; b)</code> must test for both <code>a &amp;&amp; b == true</code> and <code>a &amp;&amp; b == false</code>)</li>
+<li><strong>Condition and branch coverage</strong> builds upon branch coverage to consider each condition that’s a part of a <code>true</code> or <code>false</code> branch (coverage of <code>if(a || b)</code> must test for <code>a == true</code>/<code>b == false</code>, <code>a == false</code>/<code>b == true</code>, and <code>a == false</code>/<code>b == false</code>)</li>
+<li><strong>Path coverage</strong> is the strictest criteria, considering each and every possible path through the program’s logic (coverage of a program with 10 independent <code>true/false</code> conditions would require 2<sup>10</sup> = 1024 test cases)</li>
+</ul>
+<p>In a perfect world, we might always want to shoot for 100% path coverage. But, realistically, achieving full path coverage for complicated production code is far too time-consuming to be valuable.</p>
+<p>Khorikov lists two main problems with code coverage metrics:</p>
+<ul>
+<li>
+<blockquote><p>You can’t guarantee that the test verifies all the possible outcomes of the system under test.</p></blockquote></li>
+<li>
+<blockquote><p>No coverage metric can take into account code paths in external libraries.</p></blockquote></li>
+</ul>
+<p>Regarding the former problem, the combination of implicit and explicit outcomes of the system under test makes it extremely difficult, if not impossible, to test for them all. And, regarding the latter, code coverage metrics do not take the use of external libraries into consideration.</p>
+<p>Does this, then, mean we should not care about code coverage?</p>
+<p>No! But, we should keep in mind that, as Khorikov puts it, “coverage metrics are a good negative indicator, but a bad positive one.”</p>
+<p>This is related to the “absence-of-errors fallacy” mentioned above. That is, if you have very low code coverage, it’s a sure sign that your testing suite has problems. But the mere fact of a high code coverage percentage does not mean that you have a robust testing suite.</p>
+<h3 id="mcdc-coverage">MC/DC Coverage</h3>
+<p>Before we move on from code coverage completely, however, I want to mention what’s known as “modified condition / decision coverage” or “MC/DC” as a way to maximize the value of code coverage while minimizing the number of test cases required.</p>
+<p>As Aniche (2022) summarizes it, MC/DC</p>
+<blockquote><p>“looks at combinations of conditions, as path coverage does. However, instead of testing <em>all</em> possible combinations, we identify the <em>important</em> combinations that need to be tested. MC/DC exercises each of these conditions so that it can, independently of the other conditions, affect the outcome of the entire decision. Every possible condition of each parameter must influence the outcome at least once.”</p></blockquote><p>To achieve MC/DC, you list all possible test cases (those required if you were going for path coverage), before searching for “independence pairs” of test cases where (1) a single condition change (2) independently changes the outcome of the code in question. After finding these independence pairs for all of the conditions, you can reduce the list of test cases down to at least one independence pair for each condition under test.</p>
+<p>If we’re just considering binary true/false conditions, then MC/DC requires N + 1 test cases vs path coverage’s 2<sup>N</sup> test cases (Aniche 2022, citing <a href="https://www.google.com/books/edition/An_Investigation_of_Three_Forms_of_the_M/8ibStgAACAAJ?hl=en">Chilenski 2001</a>).</p>
+<p>While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h3 id="well-designed-code-is-easy-to-test">Well-Designed Code is Easy to Test</h3>
+<p>A deep-dive into software design and architecture far exceeds the scope of this overview of software testing principles. Nevertheless, there’s an important connection between software testing and software design.</p>
+<p>Code that is well-designed is easy to test. And code that is difficult to test is often poorly designed.</p>
+<p>When testing is integrated into the software development process, then any friction encountered when writing tests should raise questions about the way the production code is structured. Granted, certain difficulties cannot be avoided (sometimes requirements demand behavior that is inherently difficult to test). But there are often ways to improve the design of our production code while also making it easier to test.</p>
+<h3 id="keep-domain-and-infrastructure-code-separate">Keep Domain and Infrastructure Code Separate</h3>
+<p>This is the main design principle that Aniche emphasizes in his chapter on “Designing for testability” in <em>Effective Software Testing</em> (2022):</p>
+<blockquote><p>The <em>domain</em> is where the core of the system lies: that is, where all the business rules, logic, entities, services, and similar elements reside. … <em>Infrastructure</em> relates to all code that handles an external dependency: for example, pieces of code that handle database queries (in this case, the database is an external dependency) or web service calls or file reads and writes. In our previous examples, all of our data access objects (DAOs) are part of the <em>infrastructure</em> code.</p>
+<p>In practice, when domain code and infrastructure code are mixed, the system becomes harder to test. You should separate them as much as possible so the infrastructure does not get in the way of testing.”</p></blockquote><p>Keeping domain code (AKA “business logic”) separate from infrastructure code (AKA “application services layer”) is a key emphasis of the “Hexagonal Architecture” or “Ports and Adapters” pattern.</p>
+<p>The business logic at the “center” of your application should only interact with external dependencies by interacting with ports (application services), that interact with adapters, that are themselves coupled to the external dependencies.</p>
+<p><img alt="EffectiveSoftwareTesting07-01.png" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/163B4C46-ECC3-48AF-82E3-92646C4FBD7B_2/OPm3cFAMHapQQOhihmwAaLVGNND3FpEHM0Fw95If49Ez/EffectiveSoftwareTesting07-01.png">
+(Image source: <a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/">Aniche 2022</a>)</p>
+<p>This “separation of concerns” approach to software design increases the testability of a system because it allows us to focus our testing efforts, especially at the unit-test level, on the most important part of the system—the domain code—without directly relying on any external dependencies (which could slow our tests down, make them unpredictable, etc.).</p>
+<p>Keeping domain code separate from infrastructure code also helps us to avoid writing brittle tests by emphasizing a key principle behind “resistance to refactoring”—observable behavior vs implementation details.</p>
+<h3 id="observable-behavior-vs-implementation-details">Observable Behavior vs Implementation Details</h3>
+<p>At each level of a system, there is an important distinction between <strong><em>what</em> the system is accomplishing (the observable behavior)</strong> and <strong><em>how</em> it accomplishes it (implementation details)</strong>.</p>
+<p>At the highest level, <em>inter-system</em> communications between applications are observable behaviors, while <em>intra-system</em> communication between classes inside an application are implementation details.</p>
+<p><img alt="UnitTesting05fig12_alt.jpeg" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/B9F43CB1-DFFA-45E7-9072-18D1BBC56367_2/NBFvJV4sruSIntQaOKcRgfO8WpP7mNWeKI1pmI4eydkz/UnitTesting05fig12_alt.jpeg">
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
+<p>Remember that, as we test each level of the system, in order to avoid writing brittle tests that throw false positives, we need to test the observable behavior, and not the implementation details.</p>
+<p>At first glance, it might seem like the distinction is between observable behavior and implementation details is the same as between an applications <strong>public API (application programming interface)</strong> and its <strong>private API</strong>. In languages like C# and Java, this public/private distinction is usually achieved using <strong>access modifiers</strong> (<code>public</code>, <code>private</code>, <code>protected</code>, etc.).</p>
+<p>However, although a <em>well-designed API</em> has a public API that coincides with its observable behavior and a private API that coincides with its implementation details, it’s very easy and common for an application to <strong>“leak” its implementation details into its public API</strong> by making those implementation details inappropriately observable.</p>
+<p>Khorikov highlights the differences here as follows:</p>
+<blockquote><p>“For a piece of code to be part of the system’s observable behavior, it has to do one of the following things:</p></blockquote><ul>
+<li>
+<blockquote><p>Expose an operation that helps the client achieve one of its goals. An <em>operation</em> is a method that performs a calculation or incurs a side effect or both.</p></blockquote></li>
+<li>
+<blockquote><p>Expose a state that helps the client achieve on of its goals. <em>State</em> is the current condition of the system.</p></blockquote></li>
+</ul>
+<blockquote><p>Any code that does neither of these two things is an implementation detail.”</p></blockquote><p>Whenever an application “leaks” its implementation details into its public API, it makes it easy for developers to write brittle tests. As Khorikov observes, “by making all implementation details private, you leave your tests no choice other than to verify the code’s observable behavior, which automatically improves their resistance to refactoring.”</p>
+<h3 id="four-types-of-code-complexitysignificance-vs-number-of-dependencies">Four Types of Code: Complexity/Significance vs Number of Dependencies</h3>
+<p>In addition to the distinction between observable behavior and implementation details, there’s an important framework to keep in mind when determining how to test each part of our software system.</p>
+<p><img alt="UnitTesting07fig01_alt.jpeg" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/FEB14714-FF80-4C38-A57F-7F190BFF4A40_2/zxxZxZZDo7qDyNjq1Sya4VF9CAK4SnL5jPb7pMnyNmMz/UnitTesting07fig01_alt.jpeg">
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
+<p>Khorikov lists the following four types of production code:</p>
+<ul>
+<li>
+<blockquote><p><em>Domain model and algorithms (top left)</em>—Complex code is often part of the domain model but not in 100% of all cases. You might have a complex algorithm that’s not directly related to the problem domain.</p></blockquote></li>
+<li>
+<blockquote><p><em>Trivial code (bottom left)</em>—Examples of such code in C# are parameter-less constructors and one-line properties: they have few (if any) collaborators and exhibit little complexity or domain significance.</p></blockquote></li>
+<li>
+<blockquote><p><em>Controllers (bottom right)</em>—This code doesn’t do complex or business-critical work by itself but coordinates the work of other components like domain classes and external applications.</p></blockquote></li>
+<li>
+<blockquote><p><em>Overcomplicated code (top right)</em>—Such code scores highly on both metrics: it has a lot of collaborators, and it’s also complex or important. An example here are <em>fat controllers</em> (controllers that don’t delegate complex work anywhere and do everything themselves).</p></blockquote></li>
+</ul>
+<p>Although trivial code is difficult, if not impossible, to avoid, well-designed software systems avoid “overcomplicated code” by making sure that code is either complex/significant OR it works with a number of dependencies, but not both at the same time.</p>
+<p>Put differently, the more complicated the code, or the more significant for the domain layer, the fewer collaborators it should have.</p>
+<p>Why? Because, at least from a testing perspective, collaborators are expensive and time-consuming to test. Restricting interaction with collaborators to “controllers” in the application services / infrastructure layer of our application allows us to be strategic in our use of <strong>test doubles and integration tests for the controllers</strong>, while spending more of our valuable time writing <strong>unit tests for our domain code and complex algorithms</strong>.</p>
+<figure>![UnitTesting08fig01_alt.jpeg](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/D2685F77-D498-4959-9B7D-6FF2DEEAC26A_2/IP8Scjkvxo8Egqj2Fz8ly0vviNmuKTxCKtz97Fyfz5sz/UnitTesting08fig01_alt.jpeg)<figcaption>UnitTesting08fig01\_alt.jpeg</figcaption></figure>
+(Image source: [Khorikov 2020](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/))
+<p>If the classes in our domain code depend only on each other, they should be relatively easy and quick to unit test. Then, after checking as many edge cases as possible in our unit tests, we can judiciously test the happy paths and all other edge cases in our integration tests of the controllers in the application service layer.</p>
+<p>Nevertheless, even if we do all of this properly, we still need to reckon with collaborators and dependencies at some point, ideally without making our testing suite prohibitively expensive and time-consuming to run! This brings us to the important topic of test doubles.</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h3 id="test-doubles-mocks-vs-stubs">Test Doubles: Mocks vs Stubs</h3>
+<p>Test doubles (think “stunt doubles”) mimic the behavior of dependencies. There are various kinds of test doubles. Aniche (2022) lists five, for example:</p>
+<ul>
+<li>Dummies: passed to the class under test but never used</li>
+<li>Fakes: use simplified implementations of the classes they mimic</li>
+<li>Stubs: provide hard-coded answers to queries (no simplified implementation like fakes)</li>
+<li>Mocks: provide hard-coded answers to queries, recording the interactions that can then be asserted afterward</li>
+<li>Spies: wrap around a real dependency object (not like a mock), recording the interactions (like a mock)</li>
+</ul>
+<p>However, Khorikov (2020) helpfully simplifies this list down to just two kinds of test doubles:</p>
+<ul>
+<li>Mocks (including both mocks and spies)</li>
+<li>Stubs (including dummies, fakes, and stubs)</li>
+</ul>
+<p>What’s the difference between the two? Here’s Khorikov again:</p>
+<ul>
+<li>
+<blockquote><p>Mocks help to emulate and examine <em>outcoming</em> interactions. These interactions are calls the SUT [System Under Test] makes to its dependencies to change their state.</p></blockquote></li>
+<li>
+<blockquote><p>Stubs help to emulate <em>incoming</em> interactions. These interactions are calls the SUT makes to its dependencies to get input data</p></blockquote></li>
+</ul>
+<p>Notice two important things. First, mocks both <em>emulate</em> and <em>examine</em>, while stubs only <em>emulate</em>. Second, mocks mimic interactions that result in <em>side effects</em> or changed state, while stubs mimc interactions that <em>retrieve information</em>. This touches on another important principle: command query separation.</p>
+<h3 id="command-query-separation">Command Query Separation</h3>
+<p>According to command query separation (CQS), “every method should be either a command or a query, but not both” (Khorikov 2020).</p>
+<ul>
+<li>Commands: produce side effects, but do not return a value</li>
+<li>Queries: return a value, but do not produce side effects</li>
+</ul>
+<p>Another way of summarizing this principle is that “asking a question should not change the answer” (Khorikov 2020).</p>
+<p>Note that, in terms of CQS, mocks mimic commands while stubs mimic queries.</p>
+<p><img alt="Image.tiff" loading="lazy" src="https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/9A23E848-9BAF-4318-8874-FA36C3D793F6_2/x5OUyH6SgUYVQnLrLvyE0Bya9z3mvCQcJrtuH90Ndxsz/Image.tiff">
+(Image source: <a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/">Khorikov 2020</a>)</p>
+<h3 id="when-to-use-mocks-and-stubs">When to Use Mocks and Stubs</h3>
+<p>A corollary of what we’ve just discussed is that we should <strong>never assert (verify) interactions with stubs in our tests</strong>. Doing so is unnecessary if our tests are correctly focusing on observable behavior, because stubs should only ever emulate steps on the way to our SUT (system under test) producing observable output.</p>
+<p>A corollary of what we previously discussed about complexity/significance vs number of collaborators means that <strong>we should not have to use test doubles in our unit tests of domain code (and complex algorithms), but should rather save mocks and stubs for our integration tests of controllers and application services code</strong>.</p>
+<p>Put differently: save test doubles for the outside “edges” of your system, where you need to verify interactions with dependencies that you don’t have control over.</p>
+<p>When unit testing domain code classes at the “center” of your system, the only direct dependencies should be upon other domain code classes. And, since we’ve already discussed the benefit of expanding our definition of “unit” beyond “class” to include “unit of behavior/work,” <strong>we should use real versions of these “in-process” dependencies in our unit tests, instead of replacing them with mocks or stubs</strong>.</p>
+<p>And, even when writing integration tests for application service code, when interactions with “out-of-process” dependencies are inescapable, <strong>we should only replace unmanaged out-of-process dependencies with test doubles. Whenever possible, we should use real instances of managed out-of-process dependencies (such as a database) in our integration tests, rather than replacing these with mocks or stubs</strong>.</p>
+<p>Finally, when replacing unmanaged dependencies with test doubles, we should do so by creating (and then mocking or stubbing) an adapter layer that stands between our application and the third-party dependency. In other words, even when mocking a dependency you don’t control, you should “only mock types that you own” (Khorikov 2020). This doesn’t mean that you should mock managed dependencies like your database (see above)! But it does add in a helpful buffer between your application and its unmanaged dependencies.</p>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Much more could be (and has been) said about software testing! If I had more time, I would discuss the following. But I recommend that curious readers do their own research on:</p>
+<ul>
+<li><a href="https://www.baeldung.com/parameterized-tests-junit-5">Parameterized testing</a>, which can help save time and space when you’ve got a bunch of test cases you need to cover for a single method</li>
+<li><a href="https://medium.com/criteo-engineering/introduction-to-property-based-testing-f5236229d237">Property-based testing</a>, which leverages software to create and handle test cases given pre-defined “properties” or parameters that should be followed when generating possible inputs for your tests</li>
+<li><a href="https://en.wikipedia.org/wiki/Mutation_testing">Mutation testing</a>, which makes dynamic changes (“mutants”!) to your production code, and then sees whether or not those changes cause a test to fail (if, say, changing an <code>if (A)</code> to <code>if (!A)</code> causes a test to fail, then you’ve “killed” the mutant; if changing the logic of your program doesn’t cause any tests to fail, then the mutant has “survived”)</li>
+</ul>
+<p>…Not to mention doing your own research on testing libraries and frameworks in your favorite language(s)! (In Java world, that includes <a href="https://junit.org/junit5/">JUnit</a>, <a href="https://site.mockito.org/">Mockito</a>, <a href="https://jqwik.net/">jqwik</a>, <a href="https://assertj.github.io/doc/">AssertJ</a>, <a href="https://pitest.org/">Pitest</a>, etc.)</p>
+<p>Nevertheless, I hope that this overview of software testing possibilities, problems, and principles helps you to write better tests and develop better software! If you have anything to add or correct, please do leave a comment. Or reach out to me (Twitter <a href="https://twitter.com/joshuapsteele">@joshuapsteele</a>, GitHub <a href="https://github.com/jsteelepfpt">jsteelepfpt</a>, LinkedIn <a href="https://www.linkedin.com/in/joshuapsteele/">joshuapsteele</a>).</p>
+<hr>
+<p><img loading="lazy" src="https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080"></p>
+<h2 id="recommended-resources-on-software-testing">Recommended Resources on Software Testing</h2>
+<ul>
+<li>Test Case Checklist in <a href="https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/"><em>Code Complete</em></a>, 2nd edition by Steve McConnell (Microsoft 2004:532)</li>
+<li><a href="https://learning.oreilly.com/library/view/effective-software-testing/9781633439931/"><em>Effective Software Testing: A Developer’s Guide</em></a> by Mauricio Aniche (Manning, 2022)</li>
+<li><a href="https://learning.oreilly.com/library/view/full-stack-testing/9781098108120/"><em>Full Stack Testing: A Practical Guide for Delivering High Quality Software</em></a> by Gayathri Mohan (O’Reilly, 2022)</li>
+<li><a href="https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/"><em>Unit Testing Principles, Practices, and Patterns</em></a> by Vladimir Khorikov (Manning, 2020)</li>
+<li>“<a href="https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0065.xhtml">Topic 41: Test to Code</a>” and “<a href="https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0066.xhtml">Topic 42: Property-Based Testing</a>” in <a href="https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/"><em>The Pragmatic Programmer: Your Journey to Mastery</em></a> by David Thomas and Andrew Hunt (2nd Edition; Addison-Wesley Professional, 2019)</li>
+<li>“<a href="https://martinfowler.com/articles/microservice-testing/">Testing Strategies in a Microservice Architecture</a>” by Toby Clemson (Slide Deck)</li>
+<li>“<a href="https://profinit.eu/wp-content/uploads/2016/03/HardSwTesting.pdf">What Is Software Testing? And Why Is It So Hard?</a>” by James A. Whittaker (IEEE Software, January 2000:70–79)</li>
+</ul>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
