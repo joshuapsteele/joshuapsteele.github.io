@@ -8,4 +8,6 @@ url: /canon
 This `/canon` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
 
-...
+Things that have most shaped me:
+
+- TBD

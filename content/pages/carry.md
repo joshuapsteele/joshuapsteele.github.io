@@ -8,4 +8,6 @@ url: /carry
 This `/carry` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
 
-...
+Every Day Carry Items:
+
+- TBD
