@@ -2,6 +2,7 @@
 date: '2025-06-25T14:55:43-04:00'
 draft: true
 title: 'Uses'
+url: /uses
 ---
 
 # What I Use

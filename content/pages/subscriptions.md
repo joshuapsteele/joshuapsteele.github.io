@@ -1,6 +1,8 @@
 ---
 author: joshuapsteele
 title: Subscriptions
+url: /subscriptions
+draft: true
 ---
 {{< callout "note" >}}
 This `/subscriptions` page is just one of [my many "slash pages."](/slashes)

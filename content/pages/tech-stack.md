@@ -3,6 +3,7 @@ author: joshuapsteele
 title: Tech Stack
 aliases:
 - /techstack
+url: /tech-stack
 ---
 {{< callout "note" >}}
 This `/tech-stack` page is just one of [my many "slash pages."](/slashes)

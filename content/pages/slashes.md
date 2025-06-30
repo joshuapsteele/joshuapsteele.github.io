@@ -1,7 +1,8 @@
 ---
 date: '2025-06-25T14:55:43-04:00'
-draft: true
+draft: false
 title: 'Slashes'
+url: /slashes
 ---
 
 # My Slash Pages
