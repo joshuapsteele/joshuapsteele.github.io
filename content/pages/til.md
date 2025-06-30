@@ -3,6 +3,7 @@ date: '2025-06-25T14:55:43-04:00'
 draft: true
 title: 'Today I Learned'
 url: /til
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/til` page is just one of [my many "slash pages."](/slashes)

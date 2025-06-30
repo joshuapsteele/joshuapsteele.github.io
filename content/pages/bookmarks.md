@@ -1,6 +1,7 @@
 ---
 title: Bookmarks
 draft: true
+showtoc: false
 url: /bookmarks
 ---
 {{< callout "note" >}}

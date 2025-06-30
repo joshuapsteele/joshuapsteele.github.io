@@ -1,6 +1,7 @@
 ---
 title: Canon
 draft: true
+showtoc: false
 url: /canon
 ---
 {{< callout "note" >}}

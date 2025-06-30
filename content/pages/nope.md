@@ -1,6 +1,7 @@
 ---
 title: Nope
 draft: true
+showtoc: false
 url: /nope
 ---
 {{< callout "note" >}}

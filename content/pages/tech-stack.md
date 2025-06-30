@@ -4,6 +4,7 @@ title: Tech Stack
 aliases:
 - /techstack
 url: /tech-stack
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/tech-stack` page is just one of [my many "slash pages."](/slashes)

@@ -1,6 +1,7 @@
 ---
 title: Death
 draft: true
+showtoc: false
 url: /death
 ---
 {{< callout "note" >}}

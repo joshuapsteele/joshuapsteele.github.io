@@ -2,6 +2,7 @@
 date: '2025-06-25T14:55:43-04:00'
 draft: false
 title: 'Blogroll'
+showtoc: false
 url: /blogroll
 ---
 {{< callout "note" >}}

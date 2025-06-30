@@ -1,6 +1,7 @@
 ---
 title: Chipotle
 draft: true
+showtoc: false
 url: /chipotle
 ---
 {{< callout "note" >}}

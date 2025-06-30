@@ -1,6 +1,7 @@
 ---
 title: Defaults
 draft: true
+showtoc: false
 url: /defaults
 ---
 {{< callout "note" >}}

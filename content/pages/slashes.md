@@ -3,9 +3,8 @@ date: '2025-06-25T14:55:43-04:00'
 draft: false
 title: 'Slashes'
 url: /slashes
+showtoc: false
 ---
-
-# My Slash Pages
 
 This is a meta-page listing all the slash pages available on my website.
 

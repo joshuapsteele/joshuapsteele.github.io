@@ -1,6 +1,7 @@
 ---
 title: Interests
 draft: false
+showtoc: false
 url: /interests
 ---
 {{< callout "note" >}}

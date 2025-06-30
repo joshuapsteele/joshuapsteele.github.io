@@ -3,6 +3,7 @@ author: joshuapsteele
 title: Subscriptions
 url: /subscriptions
 draft: true
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/subscriptions` page is just one of [my many "slash pages."](/slashes)

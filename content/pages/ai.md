@@ -1,6 +1,7 @@
 ---
 title: AI
 draft: true
+showtoc: false
 url: /ai
 ---
 {{< callout "note" >}}

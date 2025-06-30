@@ -2,6 +2,7 @@
 author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=2619
 title: Contact
+showtoc: false
 url: /contact/
 ---
 {{< callout "note" >}}

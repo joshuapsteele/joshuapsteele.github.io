@@ -7,7 +7,7 @@ aliases:
 - /wish/
 - /wish-list/
 - /what-i-want/
-
+showtoc: false
 ---
 Here's a wish list I regularly update. I also keep [my Amazon wish list updated here](https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share).
 

@@ -1,6 +1,7 @@
 ---
 title: Ideas
 draft: true
+showtoc: false
 url: /ideas
 ---
 {{< callout "note" >}}
