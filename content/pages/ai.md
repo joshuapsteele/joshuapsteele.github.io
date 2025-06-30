@@ -1,6 +1,6 @@
 ---
 title: AI
-draft: true
+draft: false
 showtoc: false
 url: /ai
 ---
@@ -10,7 +10,12 @@ This `/ai` page is just one of [my many "slash pages."](/slashes)
 
 ## How I Use AI
 
-- To code. I use the following tools: Claude Code, Windsurf IDE, ChatGPT, and GitHub Copilot.
+- To code. I use the following tools:
+    - Claude Code,
+    - Windsurf IDE,
+    - ChatGPT,
+    - GitHub Copilot, and
+    - Zed IDE
 
 ## How I Do Not Use AI
 
