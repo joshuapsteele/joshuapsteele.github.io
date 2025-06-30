@@ -3,6 +3,8 @@ author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=41441
 title: Now
 ---
+> [!NOTE]
+> This `/now` page is just one of [my many "slash pages."](/slashes)
 
 These days, I'm:
 

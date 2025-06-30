@@ -3,6 +3,8 @@ author: joshuapsteele
 title: Questions
 showtoc: true
 ---
+> [!NOTE]
+> This `/questions` page is just one of [my many "slash pages."](/slashes)
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 

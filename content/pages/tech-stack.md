@@ -4,6 +4,8 @@ title: Tech Stack
 aliases:
 - /techstack
 ---
+> [!NOTE]
+> This `/tech-stack` page is just one of [my many "slash pages."](/slashes)
 
 Here's my current personal tech stack. For other recommended tools and resources, visit my [/resources](/resources) page!
 

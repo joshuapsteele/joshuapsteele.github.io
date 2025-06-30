@@ -2,6 +2,8 @@
 author: joshuapsteele
 title: Subscriptions
 ---
+> [!NOTE]
+> This `/subscriptions` page is just one of [my many "slash pages."](/slashes)
 
 I currently (2025-02-06) subscribe to the following:
 
