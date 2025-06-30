@@ -3,6 +3,9 @@ author: joshuapsteele
 title: Caveats
 showtoc: false
 ---
+> [!NOTE]
+> This `/caveats` page is just one of [my many "slash pages."](/slashes)
+
 You can add the following caveats to everything I write online.
 
 - **If it doesn't directly apply to you, feel free to move along**  

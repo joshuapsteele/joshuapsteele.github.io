@@ -6,6 +6,9 @@ aliases:
 - /portfolio
 showtoc: false
 ---
+> [!NOTE]
+> This `/about` page is just one of [my many "slash pages."](/slashes)
+
 "The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
 
 As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with three degrees in theology.

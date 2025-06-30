@@ -3,6 +3,8 @@ date: '2025-06-25T14:55:43-04:00'
 draft: true
 title: 'Colophon'
 ---
+> [!NOTE]
+> This `/colophon` page is just one of [my many "slash pages."](/slashes)
 
 # Site Colophon
 
