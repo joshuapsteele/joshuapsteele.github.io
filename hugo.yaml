@@ -19,7 +19,7 @@ params:
   mainSections:
   - blog
   disableThemeToggle: false
-  showShareButtons: true # Enable share buttons
+  showShareButtons: true
   showReadingTime: true
   showToc: true
   showBreadCrumbs: true
@@ -41,7 +41,7 @@ params:
     disableHLJS: true
   editPost:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
-    Text: "View on GitHub" # edit text
+    Text: "View Source Code on GitHub" # edit text
     appendFilePath: true # to append file path to Edit link
   footer:
     text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
@@ -67,24 +67,50 @@ params:
         url: "/about/"
       - name: Blog 📝
         url: "/blog/"
+      - name: Blogroll 📇
+        url: "/blogroll/"
+      - name: Chipotle 🌯
+        url: "/chipotle/"
       - name: Contact 📬
         url: "/contact/"
-      - name: CV 📄
+      - name: CV 📋
         url: "/cv/"
+      - name: Defaults ⚙️
+        url: "/defaults/"
+      - name: Ideas 💡
+        url: "/ideas/"
+      - name: Interests 🎨
+        url: "/interests/"
       - name: Lists 🗒️
         url: "/lists/"
+      - name: Nope 🚫
+        url: "/nope/"
       - name: Now ⏳
         url: "/now/"
+      - name: Pages 📄
+        url: "/slashes/"
+      - name: POSSE 🌐
+        url: "/posse/"
       - name: Questions 🤨
         url: "/questions/"
       - name: Resist ✊
         url: "/resist/"
-      - name: Resources 🧰
-        url: "/resources/"
+      - name: Save 💾
+        url: "/save/"
       - name: Search 🔎
         url: "/search/"
+      - name: Someday 🗓️
+        url: "/someday/"
+      - name: TIL 🆕
+        url: "/til/"
+      - name: Uses 🧰
+        url: "/uses/"
+      - name: Why ❓
+        url: "/why/"
       - name: Wish List 🎁
         url: "/wish-list/"
+      - name: Yep ✅
+        url: "/yep/"
   socialIcons: # optional
     - name: BlueSky
       url: "https://bsky.app/profile/joshuapsteele.bsky.social"

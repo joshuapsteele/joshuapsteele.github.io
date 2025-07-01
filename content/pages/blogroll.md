@@ -24,20 +24,6 @@ This is a curated list of blogs, websites, and other online publications that I 
 - [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
 - [Timothy Snyder's Newsletter](https://snyder.substack.com/)
 
-## Websites: Interesting and/or Useful
-
-- [12ft](https://12ft.io/)
-- [BlueSky Profile Cleanup](https://bsky.jazco.dev/cleanup)
-- [City Guesser](https://virtualvacation.us/guess)
-- [Cool Tools](https://kk.org/cooltools/)
-- [Effective Shell](https://effective-shell.com/)
-- [Fold N' Fly](https://www.foldnfly.com/)
-- [Hacker Laws](https://hacker-laws.com/)
-- [InterNACHI Home Inspection Image Gallery](https://www.nachi.org/gallery/)
-- [McMaster-Carr Online Catalog](https://www.mcmaster.com/)
-- [OpenTimes](https://opentimes.org/)
-- [Sketchplanations](https://sketchplanations.com/)
-
 ## YouTube Channels
 
 - [Budget Mechanic](https://www.youtube.com/@BudgetMechanicHawaii)

@@ -9,10 +9,9 @@ url: /colophon
 This `/colophon` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
 
-This page describes how this website is made, with what tools, and supporting what technologies.
+This page describes how this website is made.
 
-## Platform & Hosting
-
-This site is built with [Hugo](https://gohugo.io/), a fast static site generator, and uses the [PaperMod theme](https://themes.gohugo.io/themes/hugo-papermod/).
-
-It is hosted on [GitHub Pages](https://pages.github.com/).
+- Domain registrar: [Porkbun](https://porkbun.com/)
+- Hosting: [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io)
+- Static website generator: [Hugo](https://gohugo.io/)
+- Hugo theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
