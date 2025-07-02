@@ -10,14 +10,13 @@ This `/questions` page is just one of [my many "slash pages."](/slashes)
 
 This is a `/questions` page, where I keep track of the questions I'm asking!
 
-Last Updated: 2025-03-15
+Last Updated: 2025-07-02
 
 ## Questions I'm Asking
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
-- Are "/questions" pages like this a thing? Can we make them a thing? If you have a /questions page, please [let me know](/contact)!
-
+- What's the best, easiest workflow for sharing links online?
 - What's a good "budget" version of a [Veto Pro Pac TP-LC tool bag](https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&keywords=veto+pro+pac+tp-lc+toolbag&qid=1671342063&sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=91591755d9deffe180a33ac4195d2fac&language=en_US&ref_=as_li_ss_tl)?
 - What are the most useful lengths and kinds of rope to have on hand?
 - What are the most useful dimensions/kinds of lumber to have on hand?
@@ -30,6 +29,8 @@ On a deeper level:
 
 ## Questions I've Answered
 
+- Are `/questions` pages like this a thing?
+    - Yes! Thanks to [Robb Knight](https://rknight.me/), `/questions` is now a [featured slash page type on slashpages.net](https://slashpages.net/#questions).
 - [What's the best "budget" smart TV?](/best-budget-smart-tv/)
 - How can I check my roof, attic, insulation, etc. for leaks, mold, etc.?
     - I purchased [this moisture meter](https://www.amazon.com/dp/B07SZX8QXH?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=ed06380c82447c3233058a9ee9b89012&language=en_US&ref_=as_li_ss_tl) and this [thermal camera](https://www.amazon.com/dp/B0CWS4BVCX?&linkCode=ll1&tag=joshuapsteele-20&linkId=3b2824bcd71bcc987c21a9c7b85ea856&language=en_US&ref_=as_li_ss_tl) to help check for leaks around the house. Very helpful!
