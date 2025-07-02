@@ -8,7 +8,9 @@ url: /interests
 This `/interests` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
 
-## My Interests
+Here are some of my interests, hobbies, and things I like to do in my free time. This is not an exhaustive list, but it gives you a good idea of what I'm into.
+
+## Things I'm Interested In
 
 - Books
 - Tools
@@ -21,7 +23,7 @@ This `/interests` page is just one of [my many "slash pages."](/slashes)
 - Travel
 - Relaxing television shows (This Old House, Great British Bake Off, etc.)
 
-## Things I'm Not That Interested In
+## Things I'm Not Interested In
 
 - Crypto
 - Culture wars

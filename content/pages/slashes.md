@@ -6,6 +6,10 @@ url: /slashes
 showtoc: false
 ---
 
+{{< callout "note" >}}
+You can find out more about "slash pages" at [slashpages.net](https://slashpages.net/), which is maintained by [Robb Knight](https://rknight.me/).
+{{< /callout >}}
+
 This is a meta-page listing all the slash pages available on my website.
 
 - [/about](/about) - About me and my background
