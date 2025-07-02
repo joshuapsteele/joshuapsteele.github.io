@@ -3,9 +3,11 @@ title: Bookmarks
 draft: false
 showtoc: false
 url: /bookmarks
+aliases:
+  - /save
 ---
 {{< callout "note" >}}
-This `/bookmarks` page is just one of [my many "slash pages."](/slashes)
+This `/bookmarks` (AKA `/save`) page is just one of [my many "slash pages."](/slashes)
 
 Also, it's similar to my [`blogroll`](/blogroll) page.
 {{< /callout >}}
@@ -19,6 +21,7 @@ Also, it's similar to my [`blogroll`](/blogroll) page.
 - [Effective Shell](https://effective-shell.com/)
 - [Fold N' Fly](https://www.foldnfly.com/)
 - [Hacker Laws](https://hacker-laws.com/)
+- [Historical Technology Tree](https://www.historicaltechtree.com/)
 - [InterNACHI Home Inspection Image Gallery](https://www.nachi.org/gallery/)
 - [McMaster-Carr Online Catalog](https://www.mcmaster.com/)
 - [OpenTimes](https://opentimes.org/)
