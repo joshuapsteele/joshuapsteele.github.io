@@ -77,6 +77,8 @@ params:
         url: "/cv/"
       - name: Defaults ⚙️
         url: "/defaults/"
+      - name: Follow 👣
+        url: "/follow/"
       - name: Ideas 💡
         url: "/ideas/"
       - name: Interests 🎨

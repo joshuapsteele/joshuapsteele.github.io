@@ -1,6 +1,6 @@
 ---
 date: '2025-06-25T14:55:43-04:00'
-draft: true
+draft: false
 showtoc: false
 title: 'Follow'
 url: /follow
@@ -9,36 +9,16 @@ url: /follow
 This `/follow` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
 
-# Follow and Subscribe
-
 Here are all the ways you can follow my work and receive updates.
 
-## RSS/Atom Feeds
+- [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
+- [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)
+- [GitHub](https://github.com/joshuapsteele/)
+- [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
+- [Micro.Blog](https://social.joshuapsteele.com/)
+- [steele.omg.lol](https://steele.omg.lol/)
 
-- **Main Feed**: [https://joshuapsteele.com/index.xml](https://joshuapsteele.com/index.xml) - All posts
-- **Blog Feed**: [https://joshuapsteele.com/blog/index.xml](https://joshuapsteele.com/blog/index.xml) - Blog posts only
-
-## Social Media
-
-- **Twitter/X**: [@username](https://twitter.com/username)
-- **Mastodon**: [@username@instance](https://instance/@username)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/username)
-- **GitHub**: [username](https://github.com/username)
-
-## Newsletter
-
-Consider subscribing to my newsletter for:
-- New posts and articles
-- Updates on projects
-- Recommended reading and resources
-- [Other benefits]
-
-[Subscribe Form or Link]
-
-## Other Platforms
-
-- **YouTube**: [Channel Name](https://youtube.com/channel)
-- **Podcast**: [Podcast Name](https://podcast-link)
+I don't have an email newsletter at the moment. If you think I should start one, please let me know!
 
 ---
 
