@@ -19,11 +19,11 @@ Here are the apps I use for various tasks:
 📷 iPhone Photo Shooting: iOS Camera
 🌅 Photo Management: Photos.app
 📆 Calendar: Apple Calendar and Google Calendar, linked
-📦 Cloud file storage: iCloud Drive, Dropbox
+📦 Cloud file storage: iCloud Drive and Dropbox
 📖 RSS: Readwise Reader
 👥 Contacts: Apple Contacts
 🌐 Browser: Safari (iOS), Firefox (macOS)
-🕵🏻 Search: Kagi
+🕵🏻 Search: Kagi and Perplexity
 💬 Chat: Apple Messages, with WhatsApp and Signal on the side
 🔖 Bookmarks: Saved in browser, Readwise Reader, or Obsidian
 📑 Read It Later: Readwise Reader
