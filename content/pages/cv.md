@@ -3,6 +3,7 @@ author: joshuapsteele
 guid: https://joshuapsteele.com/?page_id=4007
 title: CV
 url: /cv/
+showtoc: true
 aliases:
 - /portfolio/cv
 - /resume
@@ -17,33 +18,58 @@ _(For a brief profile of what I'm like and what makes me tick as a worker, [read
 
 ## EXPERIENCE
 
-### **Software Engineer II - Proofpoint**
+### Software Engineer III - Proofpoint
 
-- February 2023 - Present
-- Led the design and development of a major user provisioning integration project, demonstrating leadership and technical skills.
-- Authored scripts for system testing and delivered a technical presentation on the system.
-- Mentored and trained new developers, showcasing leadership and interpersonal skills.
-- Expanded technical skills by learning a new programming language to merge PRs in other areas of the codebase.
-- Advocated for AI-assisted coding tools, assisting the VP of Engineering in research and presentation of findings.
-- Delivered a technical presentation on "How to Use GitHub Copilot" to over 200 colleagues, demonstrating communication and teaching skills.
-- Achieved personal learning goal of gaining familiarity with cloud computing, evidenced by certification and building a cloud-based prototype.
-- Actively shared knowledge with colleagues, providing reading recommendations and stimulating discussions.
-- Established a mentoring relationship with a Senior Engineer, demonstrating initiative and independence.
-- Assumed extra responsibilities as an interim Technical Project Manager, showing problem-solving drive, good judgement, and ability to handle disagreements constructively.
-- Recognized with a substantial raise after 6 months on the job due to exceptional performance and contributions.
-- Resolved customer issues during the user provisioning project's early access phase and took the lead in addressing a production bug.
-- Coordinated upgrade efforts, assisting other teams based on previous experience.
-- Improved system logging for better development, debugging, and customer support.
-- Participated in research, revision, and planning of a new effort, demonstrating project management skills.
+- July 2025 - Present
+- Recently promoted to lead complex technical initiatives and drive architectural decisions across enterprise security solutions
+- Focus areas include advanced system design, cross-team technical leadership, and strategic technology adoption including AI-assisted development practices
 
-### **Software Engineer I - Proofpoint**
+### Software Engineer II - Proofpoint
+
+- February 2023 - July 2025
+
+TECHNICAL LEADERSHIP & PROJECT MANAGEMENT
+
+- Led end-to-end design and development of major user provisioning integration project, managing technical architecture and cross-team coordination
+- Served as interim Technical Project Manager, demonstrating advanced problem-solving and constructive conflict resolution in high-stakes environments
+- Coordinated enterprise-wide upgrade efforts, leveraging domain expertise to assist multiple engineering teams
+- Drove AI adoption initiatives by collaborating with VP of Engineering on research, evaluation, and organizational rollout of AI-assisted coding tools
+
+COMMUNICATION & INNOVATION
+
+- Delivered technical presentations to 200+ colleagues on "How to Use GitHub Copilot," establishing thought leadership in AI-assisted development
+- Mentored and trained new developers, fostering technical growth and knowledge transfer across the organization
+- Expanded technical expertise by mastering new programming languages to contribute across multiple codebases
+- Enhanced system observability by improving logging infrastructure for better debugging and customer support
+- Resolved critical production issues during early access phases, taking ownership of complex debugging processes
+
+RECOGNITION & GROWTH
+
+- Earned substantial salary increase after 6 months due to exceptional performance and technical contributions
+- Established mentoring relationship with Senior Engineer, demonstrating initiative and commitment to continuous learning
+
+### Software Engineer I - Proofpoint
 
 - January 2022 - February 2023
-- Prepared End User Sync Simplified for EA and GA Release (Q1-Q2 2022)
-- Constructed Okta Integration (Q2-Q3 2022)
-- Responsibilities included: software development (Java, MySQL, JavaScript, Python); bug fixes; research; planning.
 
-### **Managing Editor - [Anglican Compass](https://anglicancompass.com/)**
+PROJECT CONTRIBUTIONS & TECHNICAL GROWTH
+
+- Contributed to critical project phases of major user provisioning initiative, including debugging complex integration issues and managing client migration to new systems
+- Drove end-to-end development of significant third-party identity provider integration, participating in planning, design, implementation, and successful production launch
+- Pioneered SCIM standard implementation by contributing to planning, design, and initial development phases of new user provisioning project architecture
+
+COMMUNICATION & KNOWLEDGE SHARING
+
+- Delivered technical presentation on "The Fundamentals of Software Testing" to engineering colleagues, establishing early thought leadership in testing practices
+- Demonstrated rapid learning and knowledge transfer capabilities through cross-team collaboration and technical discussions
+
+RECOGNITION & CAREER ADVANCEMENT
+
+- Achieved significant salary increase after 6 months due to outstanding technical performance and contributions
+- Earned promotion to Software Engineer II after 13 months, demonstrating exceptional professional growth and consistent high performance
+- Established foundation for advanced technical leadership through consistent delivery and collaborative problem-solving
+
+### Managing Editor - [Anglican Compass](https://anglicancompass.com/)
 
 - August 2018 - July 2021
 - Grew monthly users from 10K to over 30K (300% growth)
@@ -52,7 +78,7 @@ _(For a brief profile of what I'm like and what makes me tick as a worker, [read
 - Managed the publication and/or promotion of 6 books
 - Responsibilities included: project management; research; writing; editing; copyediting; proofreading; content marketing; email marketing; social media marketing; web design (WordPress, HTML, CSS, Squarespace); book publication; book marketing.
 
-### **Pastor/Clergy (Anglican Priest)**
+### Pastor/Clergy (Anglican Priest)
 
 - [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); November 2019 - Present
 - Diocese: [Churches for the Sake of Others (C4SO)](https://www.c4so.org/)
@@ -70,12 +96,12 @@ _(For a brief profile of what I'm like and what makes me tick as a worker, [read
 
 _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
 
-### **Pastor/Clergy (Anglican Deacon)**
+### Pastor/Clergy (Anglican Deacon)
 
 - [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); June 2017 - November 2019
 - [St. Peter’s Anglican Church](http://stpetersbhm.org/) (Birmingham, AL); October 2016 - May 2017
 
-### **Teaching / Research Assistant (Ph.D. Student)**
+### Teaching / Research Assistant (Ph.D. Student)
 
 - [Wheaton College Graduate School](https://www.wheaton.edu/graduate-school/) (Wheaton, IL)
 - For [Marc Cortez](https://www.wheaton.edu/academics/faculty/marc-cortez/), Ph.D., Professor of Theology; August 2017 - July 2019
@@ -88,7 +114,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
   - Proofreading
   - Indexing
 
-### **Church Website Manager**
+### Church Website Manager
 
 - [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL)
 - Website: [friendsofthesavior.org](http://friendsofthesavior.org)
@@ -100,7 +126,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
   - Implement new sermons podcast
   - Manage sermon archive
 
-### **Youth Pastor/Minister**
+### Youth Pastor/Minister
 
 - [St. Peter’s Anglican Church](https://www.stpetersbhm.org/) (Birmingham, AL)
 - January 2014 - December 2016
@@ -112,7 +138,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
   - Pulpit supply preaching
   - Coordinating and optimizing Leadership Development Internships
 
-### **Other Positions**
+### Other Positions
 
 - **Student Library Aide**; Beeson Divinity School (Birmingham, AL); August 2014 - July 2016
 - **Student Media Center Worker**; Beeson Divinity School (Birmingham, AL); June 2013 - December 2013
@@ -123,7 +149,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
 
 ## EDUCATION
 
-### **Java Development Boot Camp; Tech Elevator**
+### Java Development Boot Camp; Tech Elevator
 
 - 14-week intensive full-stack Java boot camp for developing web applications
 - Object-Oriented Programming: Java
@@ -155,15 +181,15 @@ _(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
 
 * * *
 
-## **HONORS & AWARDS**
+## HONORS & AWARDS
 
-### **Beeson Divinity School**
+### Beeson Divinity School
 
 - 2017 - History & Doctrine Award 2016-17
 - 2016 - [Guide One Foundation Scholarship](https://www.guideone.com/giving-back/guideone-foundation/scholarship/) ($2,500)
 - 2013-16 - [Dean’s Scholarship](http://beesondivinity.com/scholarships) ($10,000/yr.)
 
-### **Cedarville University**
+### Cedarville University
 
 - 2013 - Faculty Scholarship Award (Cumulative 4.0 GPA)
 - 2013 - The Oxford University Press Award: Preseminary Bible (Highest GPA in Program)
@@ -173,7 +199,7 @@ _(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
 - 2009-2013 - Cedarville Scholar (75% Tuition; $70,000)
 - 2009-2013 - Dean’s Academic Scholarship (Remainder of Tuition, Room and Board; $28,000)
 
-### **Other**
+### Other
 
 - 2009 - [National Merit Scholar](http://www.nationalmerit.org/) Finalist
 - 2009 - [Cincinnatus Presidential Scholarship](http://financialaid.uc.edu/sfao/cincinnatus.html) Recipient (Declined)
