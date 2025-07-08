@@ -36,6 +36,10 @@ Self-interest alone cannot sustain democracy. We must cultivate what the founder
 
 Rights without responsibilities hollow out democracy from within. Citizens should be expected to serve their communities through jury duty, civic participation, informed voting, and other forms of democratic engagement. A democracy of consumers cannot survive; we need a democracy of active participants.
 
+### The media and the public must hold all political parties to the same standards of decency and behavior.
+
+Democratic norms only work when they apply universally. When different standards of conduct are tolerated from different parties or leaders, the norms themselves become meaningless. Words and actions that would end one politician's career must be equally disqualifying for all politicians, regardless of party affiliation. This requires both media institutions and citizens to apply consistent standards of accountability, refusing to excuse in allies what we would condemn in opponents.
+
 ### Taxes are the price of admission to a functional society.
 
 While we can debate the proper level and distribution of taxation, we cannot escape the fundamental truth that collective goods require collective funding. Roads, schools, courts, defense, environmental protection, and countless other public necessities exist only through shared investment in our common life.
