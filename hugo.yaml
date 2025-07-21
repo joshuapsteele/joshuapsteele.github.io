@@ -25,8 +25,8 @@ params:
   showBreadCrumbs: true
   
   # Social and Open Graph parameters
-  images: ["/images/default-social.png"] # Default social sharing image
-  defaultImage: "/images/default-social.png" # Fallback image for social sharing
+  images: ["/images/headshot.jpg"] # Default social sharing image
+  defaultImage: "/images/headshot.jpg" # Fallback image for social sharing
   title: "Joshua P. Steele" # Default title for social sharing
   author: "Joshua P. Steele" # Author name for social sharing
   showPostNavLinks: true
