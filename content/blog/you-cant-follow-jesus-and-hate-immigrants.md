@@ -1,6 +1,4 @@
 ---
-activitypub_status:
-- federate
 author: joshuapsteele
 categories:
 - Bible
@@ -8,8 +6,6 @@ categories:
 date: "2024-09-13T16:19:56Z"
 guid: https://joshuapsteele.com/?p=43053
 id: 43053
-cover:
-    image: /wp-content/uploads/2024/09/greg-bulla-6RD0mcpY8f8-unsplash-1568x1023.jpg
 tags:
 - immigration
 title: You Can't Follow Jesus and Hate Immigrants
@@ -34,7 +30,7 @@ However, the question here isn’t about the specifics of policy but about the p
 
 Others may argue that showing hospitality to immigrants and refugees could lead to an unsustainable burden on our resources or change our cultural identity. While practical concerns about resources are valid, Scripture repeatedly calls us to care for the vulnerable, trusting that God will provide.
 
-Moreover, the kingdom of God is not confined by national or cultural boundaries! As citizens of this kingdom, our identity should first and foremost be shaped by our faith, not by our nationality.
+Moreover, the kingdom of God is not confined by national or cultural boundaries! As citizens of this kingdom, our identity should first and foremost be shaped by our faith, not by our nationality, ethnicity, or anything else.
 
 The Bible actually has quite a bit to say about immigrants, sojourners, and refugees. In fact, you can even read the entire storyline of Scripture through these lenses. Here’s the tiniest of tastes:
 
