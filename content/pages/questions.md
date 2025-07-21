@@ -16,6 +16,7 @@ Last Updated: 2025-07-02
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
+- What are the most helpful resources (books, podcasts, shows, exercises, etc.) for teaching young children how to have good manners?
 - What's the best, easiest workflow for sharing links online?
 - What's a good "budget" version of a [Veto Pro Pac TP-LC tool bag](https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&keywords=veto+pro+pac+tp-lc+toolbag&qid=1671342063&sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=91591755d9deffe180a33ac4195d2fac&language=en_US&ref_=as_li_ss_tl)?
 - What are the most useful lengths and kinds of rope to have on hand?
@@ -23,6 +24,7 @@ Last Updated: 2025-07-02
 - How do I get rid of woodpeckers that keep pecking my house?
 
 On a deeper level: 
+- What are the socioeconomic implications of following Jesus of Nazareth and his teachings?
 - What was the point of 12 years of theological studies, getting ordained, etc., if I'm now working fulltime as a software engineer?
 - What has happened to the church in the USA?
 - What can be done at the grassroots level to counter fascism, Christian Nationalism, etc.?
