@@ -11,4 +11,4 @@ This `/changelog` page is just one of [my many "slash pages."](/slashes)
 
 This page tracks notable changes and updates to my website.
 
-- TBD
+- 2024-09: Transition website from WordPress to Hugo.
