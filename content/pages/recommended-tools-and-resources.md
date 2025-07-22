@@ -5,6 +5,7 @@ title: Recommended Tools and Resources
 url: /resources/
 aliases:
   - /tools
+  - /uses
 ---
 A "tool" is "anything that can make your life better." I love tools, whether physical or digital. And I love books, because they're some of the best tools out there!
 
