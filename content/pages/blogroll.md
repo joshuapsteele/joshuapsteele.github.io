@@ -26,12 +26,14 @@ This is a curated list of blogs, websites, and other online publications that I 
 ## YouTube Channels
 
 - [Budget Mechanic](https://www.youtube.com/@BudgetMechanicHawaii)
+- [ByteByteGo](https://www.youtube.com/@ByteByteGo)
 - [ChrisFix](https://www.youtube.com/@ChrisFix)
 - [Essential Craftsman](https://www.youtube.com/@essentialcraftsman)
 - [First Class Amateur](https://www.youtube.com/@First_Class_Amateur)
 - [Grand Roofing](https://www.youtube.com/@GrandRoofingInc)
 - [Home RenoVision DIY](https://www.youtube.com/@HomeRenoVisionDIY)
 - [The Honest Carpenter](https://www.youtube.com/@TheHonestCarpenter)
+- [Mark Rober](https://www.youtube.com/@MarkRober)
 - [Practical Engineering](https://www.youtube.com/@PracticalEngineeringChannel)
 - [Project Farm](https://www.youtube.com/@ProjectFarm)
 - [Silver Cymbal](https://www.youtube.com/@SilverCymbal)
