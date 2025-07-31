@@ -1,25 +1,10 @@
 ---
-advanced_seo_description:
-- 'Explore top reads for software developers: ''The Effective Engineer'' & ''The Missing
-  README''. Gain big-picture career guidance for impactful coding.'
 author: joshuapsteele
 categories:
 - Software Engineering
 date: "2023-07-03T21:08:09Z"
 guid: https://joshuapsteele.com/?p=42816
 id: 42816
-cover:
-    image: /wp-content/uploads/2023/07/pexels-photo-1181472-1568x1047.jpeg
-jetpack_seo_html_title:
-- Essential Reads for New Software Developers
-jetpack_seo_noindex:
-- ""
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - books
 - reviews

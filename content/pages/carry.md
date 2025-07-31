@@ -3,6 +3,8 @@ title: Carry
 draft: false
 showtoc: false
 url: /carry
+aliases: 
+- /edc
 ---
 {{< callout "note" >}}
 This `/carry` page is just one of [my many "slash pages."](/slashes)

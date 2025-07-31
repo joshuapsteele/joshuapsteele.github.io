@@ -54,9 +54,23 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 ## Software Development
 
-- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/), [VS Code](https://code.visualstudio.com), and [Windsurf](https://windsurf.com/)
-- [_The Pragmatic Programmer: Your Journey to Mastery_](https://amzn.to/3FZSYXO), by David Thomas and Andrew Hunt
-- [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF), by Steve McConnell
+### Books
+
+- [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF) by Steve McConnell (old, but still good!)
+- [_Cracking the Coding Interview: 189 Programming Questions and Solutions_](https://amzn.to/4oaQcTf) by Gayle Laakmann McDowell
+- [_Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_](https://amzn.to/3U6FOhr) by Martin Kleppmann
+- [_The Effective Engineer_](https://amzn.to/3JK2gbg) by Edmond Lau
+- [_The Missing README: A Guide for the New Software Engineer_](https://amzn.to/44qx0pO) by Chris Riccomini and Dmitriy Ryaboy
+- [_The Mythical Man-Month: Essays on Software Engineering_](https://amzn.to/3U6FDmh) by Frederick P. Brooks Jr. (again, old, but still very good!)
+- [_The Pragmatic Programmer: Your Journey to Mastery_](https://amzn.to/3FZSYXO) by David Thomas and Andrew Hunt
+- [_The Software Engineer's Guidebook_](https://amzn.to/4mFRXX5) by Gergely Orosz
+- [_System Design Interview_](https://amzn.to/4mdgNhb) and [_System Design Interview, Volume 2_](https://amzn.to/47aWLPt) by Alex Xu
+- [_Understanding Distributed Systems, Second Edition_](https://amzn.to/4og0dyq) by Roberto Vitillo
+
+### Other
+- ["The Pragmatic Engineer" newsletter](https://newsletter.pragmaticengineer.com/) by Gergely Orosz
+- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
+- [ByteByteGo](https://bytebytego.com/), especially [the ByteByteGo Youtube channel](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
 - O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
 - roadmap.sh: [https://roadmap.sh/](https://roadmap.sh/)
