@@ -26,3 +26,8 @@ Also, it's similar to my [`blogroll`](/blogroll) page.
 - [McMaster-Carr Online Catalog](https://www.mcmaster.com/)
 - [OpenTimes](https://opentimes.org/)
 - [Sketchplanations](https://sketchplanations.com/)
+
+## Posts
+
+- ["How to Do Great Work"](https://www.paulgraham.com/greatwork.html) by Paul Graham
+- ["Get your work recognized: write a brag document"](https://jvns.ca/blog/brag-documents/) by Julia Evans

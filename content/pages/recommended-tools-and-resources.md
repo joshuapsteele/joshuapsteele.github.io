@@ -54,6 +54,15 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 ## Software Development
 
+### Software
+
+- Terminal: [Warp](https://warp.dev/)
+- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
+- Database Management: [Datagrip](https://www.jetbrains.com/datagrip/)
+- Version Control: [Git](https://git-scm.com/) and [GitHub](https://github.com/)
+- Containerization: [Docker](https://www.docker.com/) and [Rancher Desktop](https://rancherdesktop.io/)
+- API Testing: [Postman](https://www.postman.com/)
+
 ### Books
 
 - [_Code Complete: A Practical Handbook of Software Construction, Second Edition_](https://amzn.to/3hkLzYF) by Steve McConnell (old, but still good!)
@@ -68,8 +77,10 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 - [_Understanding Distributed Systems, Second Edition_](https://amzn.to/4og0dyq) by Roberto Vitillo
 
 ### Other
+
 - ["The Pragmatic Engineer" newsletter](https://newsletter.pragmaticengineer.com/) by Gergely Orosz
-- IDEs: [IntelliJ IDEA](https://www.jetbrains.com/idea/) and [VS Code](https://code.visualstudio.com)
+- ["How to Do Great Work"](https://www.paulgraham.com/greatwork.html) by Paul Graham
+- ["Get your work recognized: write a brag document"](https://jvns.ca/blog/brag-documents/) by Julia Evans
 - [ByteByteGo](https://bytebytego.com/), especially [the ByteByteGo Youtube channel](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw)
 - Stack Overflow: [https://stackoverflow.com/](https://stackoverflow.com/)
 - O’Reilly: [https://learning.oreilly.com/](https://learning.oreilly.com/)
