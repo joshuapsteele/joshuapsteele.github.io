@@ -28,6 +28,4 @@ Here are some of my interests, hobbies, and things I like to do in my free time.
 - Crypto
 - Culture wars
 - Right-wing propaganda
-- USA Evangelicalism
 - Guest posts on my blog
-- Golf
