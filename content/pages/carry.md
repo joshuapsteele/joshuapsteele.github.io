@@ -7,7 +7,7 @@ aliases:
 - /edc
 ---
 {{< callout "note" >}}
-This `/carry` page is just one of [my many "slash pages."](/slashes)
+This `/carry` page is just one of [my many "slash pages."](/slashes). It's similar to my [`/defaults`](/defaults) and [`/uses`](/uses) pages, but focuses on the everyday carry (EDC) items I find useful.
 {{< /callout >}}
 
 Every Day Carry Items:
