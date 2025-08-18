@@ -25,7 +25,7 @@ Here's my current personal tech stack. For other recommended tools and resources
 - Email provider: [Fastmail](https://fastmail.com)
 - Custom DNS settings for joshuapsteele.com over at [Porkbun](https://porkbun.com/), my domain registrar
 
-## Social Media: [micro.blog](https://micro.blog/), [omg.lol](https://omg.lol), and [BlueSky](https://bsky.app/profile/joshuapsteele.bsky.social)
+## Social Media: [micro.blog](https://micro.blog/) and [BlueSky](https://bsky.app/profile/joshuapsteele.bsky.social)
 
 - My main social media hub is through Micro.Blog Premium ($100/year) for [social.joshuapsteele.com](https://social.joshuapsteele.com), which is an alias of [micro.blog/joshuapsteele](https://micro.blog/joshuapsteele)
     - Short posts and long posts
@@ -40,10 +40,3 @@ Here's my current personal tech stack. For other recommended tools and resources
     - Strata mobile app for notes
     - Bookmark archiving and highlighting
     - Short video hosting
-- I bought 10 years of [omg.lol](https://omg.lol), which gives me a homepage at [steele.omg.lol](https://steele.omg.lol) as well as my Mastodon profile at [social.lol/@steele](https://social.lol/@steele)
-    - Email forwarding for an "@omg.lol" email address
-    - Now Page at [steele.omg.lol/now](https://steele.omg.lol/now)
-    - Statuslog at [steele.status.lol](https://steele.status.lol/)
-    - Weblog at [steele.weblog.lol](https://steele.weblog.lol/)
-    - Pastebin
-    - PURLs

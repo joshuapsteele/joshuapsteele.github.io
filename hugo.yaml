@@ -124,8 +124,6 @@ params:
       url: "https://www.linkedin.com/in/joshuapsteele/"
     - name: microblog
       url: "https://social.joshuapsteele.com"
-    - name: "omglol"
-      url: "https://steele.omg.lol"
     - name: rss
       url: "https://joshuapsteele.com/blog/feed.xml"
 markup:

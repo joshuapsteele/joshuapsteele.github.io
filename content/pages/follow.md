@@ -15,7 +15,6 @@ Here are all the ways you can follow my work and receive updates.
 - [GitHub](https://github.com/joshuapsteele/)
 - [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
 - [Micro.Blog](https://social.joshuapsteele.com/)
-- [steele.omg.lol](https://steele.omg.lol/)
 
 I don't have an email newsletter at the moment. If you think I should start one, please let me know!
 

@@ -23,5 +23,4 @@ I currently (2025-02-06) subscribe to the following:
 - Fastmail
 - Kagi
 - Obsidian
-- omg.lol
 - Micro.blog
