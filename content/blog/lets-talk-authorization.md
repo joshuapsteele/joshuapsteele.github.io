@@ -23,4 +23,4 @@ What are the pitfalls to avoid? What are the most common mistakes you've seen?
 
 What are the most helpful resources you've found on the topic of authorization in software development? I'm looking for books, articles, videos, or anything else that has helped you.
 
-Thanks so much! I'm looking forward to hearing your thoughts! Send me an email (You can use the word "blog," followed by the "at" symbol, followed by the domain of my website) or reach out to me on [BlueSky @joshuapsteele.bsky.social](https://bsky.app/profile/joshuapsteele.bsky.social).
+Thanks so much! I'm looking forward to hearing your thoughts! Send me an email (You can use the word "blog," followed by the "at" symbol, followed by the domain of my website).

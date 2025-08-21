@@ -11,7 +11,6 @@ This `/follow` page is just one of [my many "slash pages."](/slashes)
 Here are all the ways you can follow my work and receive updates.
 
 - [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
-- [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)
 - [GitHub](https://github.com/joshuapsteele/)
 - [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
 - [Micro.Blog](https://social.joshuapsteele.com/)
