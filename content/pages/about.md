@@ -30,5 +30,3 @@ If you'd like to learn more about me, check out:
 - The [**/tools**](/resources/) I use
 - What I'm up to [**/now**](/now/)
 - The [**/questions**](/questions/) I'm asking
-
-Want to contact me? (No, I'm not interested in guest posts on my blog at this time.) Send an email to [blog@joshuapsteele.com](blog@joshuapsteele.com).

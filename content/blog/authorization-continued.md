@@ -136,4 +136,4 @@ If time allows, I'll also do some experimenting with SpiceDB. We'll see!
 
 Are you a software engineer who's worked with tools like OpenFGA, Permify, and/or SpiceDB? If so, I'd love to make your acquaintance and hear your thoughts about these tools, authorization in general, etc. 
 
-Please send me an email at [blog@joshuapsteele.com](mailto:blog@joshuapsteele.com) or reach out to me on [BlueSky @joshuapsteele.bsky.social](https://bsky.app/profile/joshuapsteele.bsky.social). Cheers!
+Please send me an email (You can use the word "blog," followed by the "at" symbol, followed by the domain of my website) or reach out to me on [BlueSky @joshuapsteele.bsky.social](https://bsky.app/profile/joshuapsteele.bsky.social). Cheers!
