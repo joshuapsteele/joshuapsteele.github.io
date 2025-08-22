@@ -69,6 +69,8 @@ params:
         url: "/blog/"
       - name: Blogroll 📇
         url: "/blogroll/"
+      - name: Bookmarks 📚
+        url: "/bookmarks/"
       - name: Carry (EDC) 🎒
         url: "/carry/"
       - name: Chipotle 🌯
