@@ -26,7 +26,7 @@ What I want:
 ## Health & Fitness
 
 - To weigh 200 pounds or less
-- To be able to run a half marathon at any time
+- To be able to finish a half marathon at any time
 - To look good naked
 - ✅ Power rack with a pull-up bar (like the [REP Fitness PR–1100](https://repfitness.com/collections/power-racks/products/pr-1100-power-rack) or [Rogue R–3](https://www.roguefitness.com/rogue-r-3-power-rack); Went with the REP Fitness PR-1100!)
 - ✅ Deadlift platform (build my own with [horse stall mats from Tractor Supply Co.](https://www.tractorsupply.com/tsc/product/4-ft-x-6-ft-x-3-4-in-thick-rubber-stall-mat))
