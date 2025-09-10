@@ -9,10 +9,12 @@ categories: [] # Add relevant categories
 ---  
 A lament, for a violent world in need of peace.
 
+"Eternal God, in whose perfect kingdom no sword is drawn but the sword of righteousness, no strength known but the strength of love: So mightily spread abroad your Spirit, that all peoples may be gathered under the banner of the Prince of Peace, as children of one Father; to whom be dominion and glory, now and for ever. Amen." (Book of Common Prayer)
+
 "O come, Desire of Nations, bind  
 in one the hearts of all mankind.  
 Bid Thou our sad divisions cease  
-and be Thyself our King of Peace."​  
+and be Thyself our King of Peace."​ (O Come, O Come, Emmanuel)  
 
 "Then Jesus said to him, 'Put your sword back into its place; for all who take the sword will perish by the sword.'"​ (Matt. 26.52)  
 "And the Lord said, 'What have you done? The voice of your brother’s blood is crying to me from the ground. And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.'" (Gen. 4.10-11)  
