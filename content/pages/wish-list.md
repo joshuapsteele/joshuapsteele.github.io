@@ -34,11 +34,15 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 
 ## Tools
 
-- ✅ Router
+- [Knipex Forged Wirestripper, 8-inch](https://amzn.to/3InnRJe)
+- [Wera Kraftform Kompakt 26 RA-R ratcheting screwdriver](https://amzn.to/41WmQyt) with onboard bit storage
+- [Veto Pro Pac SP-MC tool bag](https://amzn.to/4n59hW3)
+- [Hands-free, slip-on work boots (Skechers, size 11 wide)](https://amzn.to/41WEzWp)
+- [Leatherman ARC multitool](https://www.leatherman.com/products/arc)
 - Planer
 - Jointer
 - Belt sander
-- [Hands-free, slip-on work boots (Skechers, size 11 wide)](https://amzn.to/41WEzWp)
+- ✅ Router
 - ✅ Extension ladder
 - ✅ Come-along winch
 - ✅ Chain (to use with come-along)
