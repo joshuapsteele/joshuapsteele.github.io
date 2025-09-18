@@ -6,12 +6,6 @@ categories:
 date: "2023-11-08T19:50:28Z"
 guid: https://joshuapsteele.com/?p=42913
 id: 42913
-cover:
-    image: /wp-content/uploads/2023/11/pexels-photo-133699-1568x1046.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "5"
 tags:
 - acna
 title: I'm Resigning from Ordained Ministry in the Anglican Church in North
@@ -24,11 +18,6 @@ After a considerable period of discernment, coupled with my growing disaffection
 This also coincides with plans to move closer to family in NW Ohio (where there is not much of an ACNA presence to speak of) and to then pursue church involvement outside of the ACNA.
 
 Therefore, in accordance with Title III, Canon 6, Section 4 of the ACNA Canons (“Concerning Voluntary Resignation from the Ordained Ministry of this Church”), I have tendered my voluntary resignation from the ordained ministry of the Anglican Church in North America, effective on 2023-11-01.
-
-<figure class="wp-block-image size-full">
-  <img src="https://joshuapsteele.com/wp-content/uploads/2023/11/Joshua-Steele-ACNA-Resignation_2023-11-07.jpg" alt="A letter from Todd Hunter, Bishop Ordinary of The Diocese of Churches for the Sake of Others, approving Joshua Steele's request to resign from ministerial duties in the ACNA.">
-  <figcaption>A letter from Todd Hunter, Bishop Ordinary of The Diocese of Churches for the Sake of Others, approving Joshua Steele's request to resign from ministerial duties in the ACNA.</figcaption>
-</figure>
 
 As of 2023-11-07, my bishop and diocese have confirmed that I am a Presbyter in good standing, not under discipline as defined in Title IV of the ACNA Canons, and that my resignation is not occasioned by misconduct or irregularity, but is voluntary and for causes which do not affect my moral character.
 
