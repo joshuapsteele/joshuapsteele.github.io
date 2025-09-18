@@ -118,8 +118,8 @@ params:
       - name: Yep ✅
         url: "/yep/"
   socialIcons: # optional
-    # - name: BlueSky
-    #   url: "https://bsky.app/profile/joshuapsteele.bsky.social"
+    - name: BlueSky
+      url: "https://bsky.app/profile/joshuapsteele.bsky.social"
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
     - name: LinkedIn
