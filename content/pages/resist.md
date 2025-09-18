@@ -2,17 +2,43 @@
 author: joshuapsteele
 title: How to Resist Tyranny
 showtoc: true
-TocOpen: true
+TocOpen: false
 url: /resist
 ---
 
-## Online Resources
+Friends, in light of recent political developments in the United States and around the world, I've compiled a list of resources and strategies for resisting tyranny and defending democracy. This is by no means exhaustive, but it's a good starting point for anyone looking to get involved.
 
-- [5Calls](https://5calls.org/): Contact your elected officials
-- [Beautiful Trouble Toolbox](https://beautifultrouble.org/)
+First and foremost, **we must know and want to know the truth**. Mainstream media and social media have let us down by seeking to keep us angry, divided, and misinformed. We must seek out reliable sources of information and be willing to change our minds when presented with new evidence.
+
+To that end, I highly recommend [Ground News](https://ground.news/), a news aggregator that shows multiple perspectives on the same story. It's worth paying for the premium version to get access to their full factuality and bias ratings.
+
+I also recommend subscribing to a few high-quality newsletters that put current events into historical context, such as [Heather Cox Richardson's](https://heathercoxrichardson.substack.com/) and [Timothy Snyder's](https://snyder.substack.com/).
+
+## Reliable Information Sources
+
+### News
+
+- [Ground News](https://ground.news/)
+- [Associated Press](https://apnews.com/)
+- [The Economist](https://www.economist.com/)
+- [Reuters](https://www.reuters.com/)
+
+### Newsletters
+
+- [Adam Kinzinger's Newsletter](https://adamkinzinger.substack.com/)
+- [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
+- [Timothy Snyder's Newsletter](https://snyder.substack.com/)
+
+---
+
+## Online Tools and Resources
+
+- [5Calls](https://5calls.org/): Makes it easy to contact your elected officials about various issues
+- [Beautiful Trouble Toolbox](https://beautifultrouble.org/): "Illustrates the key tactics, principles, methodologies, theories and stories that have inspired centuries of people-powered victories"
 - [International Center on Nonviolent Conflict Resource Library](https://www.nonviolent-conflict.org/resource-library/), specifically [these handouts and planning tools](https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&fwp_format=handouts-and-planning-tools)
 - [Protest Resilience Toolkit](https://prt.civicus.org/)
-- ["How to Protest Safely: What to Bring, What to Do, and What to Avoid" (Wired)](https://www.wired.com/story/how-to-protest-safely-gear-tips/)
+
+---
 
 ## 20 Ways to Fight Tyranny
 
@@ -475,20 +501,3 @@ The following 198 methods of nonviolent action are taken from Gene Sharp's [*The
 196. Civil disobedience of “neutral” laws
 197. Work-on without collaboration
 198. Dual sovereignty and parallel government
-
----
-
-## Generally Reliable Information Sources
-
-### News
-
-- [Associated Press](https://apnews.com/)
-- [The Economist](https://www.economist.com/)
-- [Ground News](https://ground.news/)
-- [Reuters](https://www.reuters.com/)
-
-### Newsletters
-
-- [Adam Kinzinger's Newsletter](https://adamkinzinger.substack.com/)
-- [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
-- [Timothy Snyder's Newsletter](https://snyder.substack.com/)
