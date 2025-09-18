@@ -19,6 +19,8 @@ This also coincides with plans to move closer to family in NW Ohio (where there 
 
 Therefore, in accordance with Title III, Canon 6, Section 4 of the ACNA Canons (“Concerning Voluntary Resignation from the Ordained Ministry of this Church”), I have tendered my voluntary resignation from the ordained ministry of the Anglican Church in North America, effective on 2023-11-01.
 
+![ACNA Resignation Letter](/Joshua Steele ACNA Resignation_2023-11-07.jpg)
+
 As of 2023-11-07, my bishop and diocese have confirmed that I am a Presbyter in good standing, not under discipline as defined in Title IV of the ACNA Canons, and that my resignation is not occasioned by misconduct or irregularity, but is voluntary and for causes which do not affect my moral character.
 
 My resignation has therefore been accepted. This means that I am released from the obligations of the Ministerial office. I relinquish the right to exercise the gifts and spiritual authority as a Minister of God’s Word and Sacraments in the Anglican Church in North America.
