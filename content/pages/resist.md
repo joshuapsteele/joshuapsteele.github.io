@@ -28,6 +28,7 @@ I also recommend subscribing to a few high-quality newsletters that put current 
 - [Adam Kinzinger's Newsletter](https://adamkinzinger.substack.com/)
 - [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
 - [Timothy Snyder's Newsletter](https://snyder.substack.com/)
+- [If You Can Keep It](https://www.ifyoucankeepit.org/)
 
 ---
 
@@ -35,7 +36,9 @@ I also recommend subscribing to a few high-quality newsletters that put current 
 
 - [5Calls](https://5calls.org/): Makes it easy to contact your elected officials about various issues
 - [Beautiful Trouble Toolbox](https://beautifultrouble.org/): "Illustrates the key tactics, principles, methodologies, theories and stories that have inspired centuries of people-powered victories"
+- [Indivisible](https://indivisible.org/)
 - [International Center on Nonviolent Conflict Resource Library](https://www.nonviolent-conflict.org/resource-library/), specifically [these handouts and planning tools](https://www.nonviolent-conflict.org/resource-library/?fwp_language=english&fwp_format=handouts-and-planning-tools)
+- [Protect Democracy](https://protectdemocracy.org/)
 - [Protest Resilience Toolkit](https://prt.civicus.org/)
 
 ---
