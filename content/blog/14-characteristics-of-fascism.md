@@ -13,7 +13,7 @@ Let's try to define (or at least describe) fascism, shall we?
 
 > Fascism: "a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition" (Merriam-Webster)
 
-Notoriously difficult to define, [Umberto Eco nevertheless highlighted 14 aspects of what he called "Ur-Fascism"](https://www.nybooks.com/articles/1995/06/22/ur-fascism/):
+Notoriously difficult to define, [Umberto Eco nevertheless highlighted 14 aspects of what he called "Ur-Fascism" (PDF)](/static/files/Eco_1995_Ur-Fascism.pdf):
 
 1. **Cult of Tradition** – A syncretic belief in ancient truths, rejecting modern interpretations.
 2. **Rejection of Modernism** – Viewing the Enlightenment and rationalism as the root of moral decline.
@@ -29,3 +29,11 @@ Notoriously difficult to define, [Umberto Eco nevertheless highlighted 14 aspect
 12. **Machismo** – Elevating aggressive masculinity and denigrating non-conforming sexual behaviors.
 13. **Selective Populism** – Claiming to represent the unified will of the people, dismissing individual rights.
 14. **Newspeak** – Employing an impoverished vocabulary to limit critical thought.
+
+You can read the full essay via the PDF link above. But note that it was originallty published in the New York Review: https://www.nybooks.com/articles/1995/06/22/ur-fascism/.
+
+For more on fascism, see:
+
+- [_How Fascism Works: The Politics of Us and Them_ by Jason Stanley](https://amzn.to/3KcXB4W)
+- [_On Tyranny: Twenty Lessons from the Twentieth Century_ by Timothy Snyder](https://amzn.to/4nGLrQ7)
+- [_How to Spot a Fascist_ by Umberto Eco](https://amzn.to/4ngkenL) (includes the essay above, as well as two other essays by Eco)
