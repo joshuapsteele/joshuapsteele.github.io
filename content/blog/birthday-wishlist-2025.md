@@ -21,6 +21,14 @@ As my birthday approaches, I've put together a wishlist of items that I've been 
 
 ### More Expensive Tools
 
+- [Milescraft Portable Drilling Guide](https://amzn.to/4mBe9kH): Apparently this is supposed to "kind of" replace having a full drill press.
 - [Knipex Forged Wire Stripper, 8-Inch](https://amzn.to/3IgKfUJ): Yes, this is an expensive wire stripper, but I love Knipex hand tools, and the fact that this one has a wider head that allows you to twist wires together without using lineman's pliers is a big plus. Apparently it's also able to cut screws/bolts like butter.
 - [Wera Kraftform Kompakt 26 RA-R Screwdriver](https://amzn.to/46rOvIM): Yes, this is an expensive screwdriver, but I absolutely love they're new ratcheting mechanism, and the fact that this has integrated bit storage makes it perfect.
 - [Veto ProPac SP-MC Tool Bag](https://vetopropac.com/sp-mc/): Out of stock right now, but this is my dream tool bag.
+
+## Other Stuff
+
+- Harbor Freight Gift Card: I love Harbor Freight, and can always find something to spend money on there. :)
+- Something you think I'd like from [Cool Tools](https://kk.org/cooltools/): I love browsing through this site, and there's always something interesting.
+- Something you think I'd like from [JetPens](https://www.jetpens.com/): I love pens, pencils, and other stationery items.
+- A [bidet](https://www.nytimes.com/wirecutter/reviews/best-bidet-toilet-seat-washlet/): Not going to lie, I've been thinking about getting one of these for a while now.
