@@ -4,6 +4,9 @@ date: 2025-09-24T09:24:17-04:00
 draft: false
 author: joshuapsteele
 showToc: false
+url: /birthday-wishlist-2025/
+aliases: 
+- /blog/birthday-wishlist-2025/
 ---
 
 It's that time of year again! All the best people were born in October! :) 
