@@ -1,14 +1,10 @@
 ---
-activitypub_status:
-- federate
 author: joshuapsteele
 categories:
 - Personal
 date: "2024-09-26T11:39:54Z"
 guid: https://joshuapsteele.com/?p=43080
 id: 43080
-cover:
-    image: /wp-content/uploads/2024/09/pexels-photo-620530-1568x1045.jpeg
 tags:
 - kids
 - parenting

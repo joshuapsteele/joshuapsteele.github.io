@@ -5,12 +5,6 @@ categories:
 date: "2018-08-16T15:11:12Z"
 guid: https://joshuapsteele.com/?p=41363
 id: 41363
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - questions
 - reading

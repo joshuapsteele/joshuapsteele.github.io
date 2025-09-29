@@ -6,14 +6,6 @@ categories:
 date: "2024-02-27T13:42:02Z"
 guid: https://joshuapsteele.com/?p=42932
 id: 42932
-cover:
-    image: /wp-content/uploads/2024/02/pexels-photo-213207-1568x1045.jpeg
-rank_math_contentai_score:
-- a:4:{s:9:"wordCount";s:5:"35.08";s:9:"linkCount";s:1:"0";s:12:"headingCount";s:1:"0";s:10:"mediaCount";s:1:"0";}
-rank_math_internal_links_processed:
-- "1"
-rank_math_seo_score:
-- "17"
 tags:
 - local churches
 - worship styles

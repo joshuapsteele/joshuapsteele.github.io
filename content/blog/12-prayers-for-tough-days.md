@@ -5,16 +5,6 @@ categories:
 date: "2020-03-02T21:35:28Z"
 guid: https://joshuapsteele.com/?p=42205
 id: 42205
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - book of common prayer
 title: 12 Prayers for Tough Days

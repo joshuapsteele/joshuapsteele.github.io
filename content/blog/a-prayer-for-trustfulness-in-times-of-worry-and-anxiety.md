@@ -5,12 +5,6 @@ categories:
 date: "2020-08-30T13:03:34Z"
 guid: https://joshuapsteele.com/?p=42383
 id: 42383
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - prayer
 title: A Prayer for Trustfulness in Times of Worry and Anxiety

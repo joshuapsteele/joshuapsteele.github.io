@@ -5,16 +5,6 @@ categories:
 date: "2019-11-02T02:35:27Z"
 guid: https://joshuapsteele.com/?p=41963
 id: 41963
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: A Deacon's Last Day
 url: /a-deacons-last-day/
 ---

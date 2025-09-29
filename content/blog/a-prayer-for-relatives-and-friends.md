@@ -5,16 +5,6 @@ categories:
 date: "2019-10-28T19:36:59Z"
 guid: https://joshuapsteele.com/?p=41955
 id: 41955
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: A Prayer for Relatives and Friends
 url: /a-prayer-for-relatives-and-friends/
 ---

@@ -6,14 +6,6 @@ categories:
 date: "2016-12-28T14:38:54Z"
 guid: https://joshuapsteele.com/?p=3980
 id: 3980
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: A Disappointing Christmas Homily
 url: /a-christmas-homily/
 ---

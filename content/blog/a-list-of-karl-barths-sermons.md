@@ -5,12 +5,6 @@ categories:
 date: "2019-01-26T16:57:52Z"
 guid: https://joshuapsteele.com/?p=41702
 id: 41702
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
 - Barth
 - Bible

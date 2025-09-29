@@ -5,19 +5,7 @@ categories:
 date: "2018-02-27T12:29:34Z"
 guid: https://joshuapsteele.com/?p=41078
 id: 41078
-cover:
-    image: /wp-content/uploads/2018/02/aditya-romansa-117344-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 3 Confessions of an Expectant Father
-total_sidebar_layout:
-- right_sidebar
 url: /3-confessions-expectant-father/
 ---
 

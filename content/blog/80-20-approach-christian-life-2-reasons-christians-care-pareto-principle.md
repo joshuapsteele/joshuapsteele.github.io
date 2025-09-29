@@ -5,20 +5,8 @@ categories:
 date: "2018-01-30T12:48:49Z"
 guid: https://joshuapsteele.com/?p=40963
 id: 40963
-cover:
-    image: /wp-content/uploads/2018/01/lindsay-henwood-47743.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'An 80/20 Approach to the Christian Life: 2 Reasons Why Christians Should Care
   About the Pareto Principle'
-total_sidebar_layout:
-- right_sidebar
 url: /80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/
 ---
 

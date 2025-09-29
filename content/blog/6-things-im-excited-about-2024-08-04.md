@@ -1,6 +1,4 @@
 ---
-activitypub_status:
-- federate
 author: joshuapsteele
 categories:
 - Uncategorized

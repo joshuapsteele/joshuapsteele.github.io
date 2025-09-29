@@ -5,19 +5,7 @@ categories:
 date: "2018-01-31T03:59:33Z"
 guid: https://joshuapsteele.com/?p=40991
 id: 40991
-cover:
-    image: /wp-content/uploads/2018/01/chris-lawton-236416.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 5 Books Every Christian Should Read
-total_sidebar_layout:
-- right_sidebar
 url: /5-books-every-christian-read/
 ---
 
