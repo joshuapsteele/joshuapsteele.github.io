@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2019-01-08T14:44:09Z"
 guid: https://joshuapsteele.com/?p=41551
 id: 41551
@@ -11,6 +8,9 @@ tags:
   - writing
 title: Help me StickK to my writing habit
 url: /help-me-stickk-to-my-writing-habit/
+categories:
+  - personal
+  - productivity
 ---
 
 I need to finish [this dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).

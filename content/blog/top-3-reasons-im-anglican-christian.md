@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2018-03-01T05:00:03Z"
 guid: https://joshuapsteele.com/?p=41122
 id: 41122
@@ -10,6 +8,8 @@ tags:
 title: Top 3 Reasons Why I'm an Anglican Christian
 total_sidebar_layout:
 url: /top-3-reasons-im-anglican-christian/
+categories:
+  - ethics
 ---
 
 [![](http://anglicanpastor.com/wp-content/uploads/2017/01/RA-Logo-Black-Transparent-Background-200x167.png)](http://anglicanpastor.com/rookieanglican/)

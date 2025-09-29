@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
-  - "the christian life"
 date: "2019-01-15T20:35:33Z"
 guid: https://joshuapsteele.com/?p=41559
 id: 41559
 title: A Prayer of Confession
 url: /a-prayer-of-confession/
+categories:
+  - bible
+  - theology
+  - ethics
 ---
 
 *To start off the semester the other day, we prayed this prayer of confession together as a class. The professor didn’t remember where the prayer was from, so [I tracked it down online. According to Justin Taylor, it was written by Bob Kauflin](https://www.thegospelcoalition.org/blogs/justin-taylor/a-corporate-confession-of-faith-based-on-the-ten-commandments-and-the-sermon-on-the-mount/).*

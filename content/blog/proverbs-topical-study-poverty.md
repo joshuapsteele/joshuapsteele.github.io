@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 tags:
   - poverty
   - proverbs
@@ -11,6 +8,9 @@ guid: http://windowinthesky.wordpress.com/?p=1041
 id: 1041
 title: 'What the Bible Says About Poverty: The Book of Proverbs'
 url: /bible-poverty-proverbs
+categories:
+  - bible
+  - ethics
 ---
 
 # Introduction: Poverty and Wealth

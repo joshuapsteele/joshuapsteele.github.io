@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2019-10-18T13:33:03Z"
 guid: https://joshuapsteele.com/?p=41939
 id: 41939
@@ -10,6 +7,9 @@ tags:
   - bonhoeffer
 title: Two of Bonhoeffer's Most Convicting Paragraphs
 url: /two-of-bonhoeffers-most-convicting-paragraphs/
+categories:
+  - theology
+  - ethics
 ---
 
 The following is from Bonhoeffer’s *Discipleship* (usually known as “The Cost of Discipleship” in English, although the original title in German was simply *Nachfolge*).

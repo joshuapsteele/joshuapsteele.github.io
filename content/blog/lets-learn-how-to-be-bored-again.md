@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2019-03-07T17:32:24Z"
 guid: https://joshuapsteele.com/?p=41748
 id: 41748
 title: Let's learn how to be bored again
 url: /lets-learn-how-to-be-bored-again/
+categories:
+  - ethics
 ---
 
 From [“In Praise of Boredom,” by James K.A. Smith](https://imagejournal.org/article/in-praise-of-boredom/).

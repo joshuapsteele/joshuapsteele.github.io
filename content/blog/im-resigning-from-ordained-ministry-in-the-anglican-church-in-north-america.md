@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "pastoral ministry"
-  - personal
 date: "2023-11-08T19:50:28Z"
 guid: https://joshuapsteele.com/?p=42913
 id: 42913
@@ -11,6 +8,9 @@ tags:
 title: I'm Resigning from Ordained Ministry in the Anglican Church in North
   America
 url: /im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/
+categories:
+  - ministry
+  - personal
 ---
 
 After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.

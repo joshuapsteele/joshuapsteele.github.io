@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and society"
-  - "church and theology"
 date: "2024-02-27T13:42:02Z"
 guid: https://joshuapsteele.com/?p=42932
 id: 42932
@@ -11,6 +8,9 @@ tags:
   - "worship styles"
 title: 25 Possibly Unpopular Opinions about Church
 url: /25-possibly-unpopular-opinions-about-church/
+categories:
+  - ethics
+  - theology
 ---
 
 The following are some of my opinions, held with varying levels of intensity, about church/churches.

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2019-11-19T15:26:29Z"
 guid: https://joshuapsteele.com/?p=42060
 id: 42060
@@ -11,6 +9,8 @@ tags:
   - "how to think"
 title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
+categories:
+  - ethics
 ---
 
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)

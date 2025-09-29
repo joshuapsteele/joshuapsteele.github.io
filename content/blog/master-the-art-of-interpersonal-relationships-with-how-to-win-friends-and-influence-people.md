@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2023-03-23T12:29:48Z"
 guid: https://joshuapsteele.com/?p=42792
 id: 42792
@@ -14,6 +12,8 @@ tags:
 title: Master the Art of Interpersonal Relationships with "How to Win Friends
   and Influence People"
 url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/
+categories:
+  - productivity
 ---
 
 Dale Carnegie’s timeless classic, *[How to Win Friends and Influence People](https://amzn.to/3K0VcaM)*, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.

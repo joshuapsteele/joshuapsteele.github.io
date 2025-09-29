@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
-  - bible
 date: "2018-02-28T12:51:21Z"
 guid: https://joshuapsteele.com/?p=41110
 id: 41110
 title: 'Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity'
 total_sidebar_layout:
 url: /go-sleep-kids-bible-psalm-127-says-productivity/
+categories:
+  - productivity
+  - bible
 ---
 
 ## Personal Productivity in Psalm 127

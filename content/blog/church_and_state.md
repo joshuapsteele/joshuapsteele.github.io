@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2011-05-26T12:23:48Z"
 guid: http://windowinthesky.wordpress.com/?p=1096
 id: 1096
 title: Church and State
 url: /church_and_state/
+categories:
+  - theology
+  - ethics
 ---
 
 (Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](https://joshuapsteele.com/2015/12/08/improvising-church-state/).”)

@@ -1,9 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
-  - dissertation
 date: "2019-07-31T15:44:49Z"
 guid: https://joshuapsteele.com/?p=41862
 id: 41862
@@ -13,6 +9,10 @@ tags:
   - romans
 title: I think Karl Barth missed the (pastoral) point of Romans
 url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
+categories:
+  - bible
+  - theology
+  - dissertation
 ---
 
 I’m scheduled to give a paper on Karl Barth’s reading of Romans 9:30–10:21 in *Der Römerbrief* at the [2019 Barth Graduate Student Colloquium](#) at Princeton in August.

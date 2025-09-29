@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 custom_permalink:
 date: "2012-05-03T14:02:32Z"
 guid: http://windowinthesky.wordpress.com/?p=1344
 id: 1344
 title: The Book of Romans, Distilled and Paraphrased
 url: /romans-distilled-paraphrased
+categories:
+  - bible
+  - ethics
 ---
 
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*

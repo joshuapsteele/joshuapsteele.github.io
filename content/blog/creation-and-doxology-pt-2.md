@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2012-09-17T20:19:17Z"
 guid: http://windowinthesky.wordpress.com/?p=1432
 id: 1432
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 2)'
 url: /creation-and-doxology-pt-2/
+categories:
+  - bible
+  - theology
 ---
 
 [(Read Pt. 1 First!)](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)")

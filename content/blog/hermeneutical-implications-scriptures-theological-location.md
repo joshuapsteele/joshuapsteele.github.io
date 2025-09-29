@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2017-12-09T15:22:06Z"
 guid: https://joshuapsteele.com/?p=40055
 id: 40055
 title: The Hermeneutical Implications of Scripture's Theological Location
 url: /hermeneutical-implications-scriptures-theological-location/
+categories:
+  - bible
+  - theology
 ---
 
 # INTRODUCTION

@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2016-05-28T16:44:59Z"
 guid: https://joshuapsteele.com/?p=3858
 id: 3858
 title: Let's Take Seth Godin to Church
 url: /lets-take-seth-godin-to-church/
+categories:
+  - productivity
 ---
 
 I’m not going to lie. My first reaction when I saw the cover of this book? [![](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg)](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg)

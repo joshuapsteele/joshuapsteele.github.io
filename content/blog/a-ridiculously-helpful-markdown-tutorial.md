@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2016-08-26T14:09:01Z"
 guid: https://joshuapsteele.com/?p=3914
 id: 3914
 title: A Ridiculously Helpful Markdown Tutorial
 url: /a-ridiculously-helpful-markdown-tutorial/
+categories:
+  - productivity
 ---
 
 I’ve been dragging my heels on learning Markdown for awhile now.

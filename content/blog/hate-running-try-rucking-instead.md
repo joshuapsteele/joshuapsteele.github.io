@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2018-06-08T16:09:30Z"
 guid: https://joshuapsteele.com/?p=41253
 id: 41253
 title: Hate Running? Try Rucking Instead
 url: /hate-running-try-rucking-instead/
+categories:
+  - productivity
 ---
 
 *(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)*

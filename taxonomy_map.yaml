@@ -1,0 +1,17 @@
+# Fill this mapping to consolidate terms.
+# Keys are existing terms; values are the desired canonical terms.
+# All comparisons are case-sensitive to how they appear in front matter
+# but results are normalized to lowercase.
+
+tags:
+  # examples:
+  # Bonhoeffer: bonhoeffer
+  # Productivity: productivity
+  # "The Christian Life": "the christian life"
+
+categories:
+  # examples:
+  # Uncategorized: misc
+  # "Church and Theology": "church and theology"
+  # Personal: personal
+

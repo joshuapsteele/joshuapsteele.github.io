@@ -1,9 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
-  - "the christian life"
 tags:
   - 8020
   - "reading notes"
@@ -12,6 +8,10 @@ guid: https://joshuapsteele.com/?p=41724
 id: 41724
 title: Use Rapoport's Rules for Better Conversations and Disagreements
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
+categories:
+  - personal
+  - productivity
+  - ethics
 ---
 
 I’m reading Walter Sinnott-Armstrong’s excellent book, [*Think Again: How to Reason and Argue*](https://amzn.to/2BNTlTq).

@@ -1,15 +1,15 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
-  - "the christian life"
 date: "2013-09-18T13:13:58Z"
 guid: https://joshuapsteele.com/?p=2858
 id: 2858
 publicize_twitter_user:
 title: King Jesus' Kingdom Gospel
 url: /king-jesus-kingdom-gospel/
+categories:
+  - bible
+  - theology
+  - ethics
 ---
 
 I highly encourage the following:

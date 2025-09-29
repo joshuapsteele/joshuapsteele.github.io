@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2018-07-13T14:36:54Z"
 guid: https://joshuapsteele.com/?p=41303
 id: 41303
 title: What Theologians (Should) Do
 url: /what-theologians-should-do/
+categories:
+  - theology
 ---
 
 Kevin J. Vanhoozer, affectionately known by some as “KJV,” has written [one of the best, briefest overviews of what theologians (should) do](https://www.firstthings.com/article/2018/08/letter-to-an-aspiring-theologian).

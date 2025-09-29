@@ -1,14 +1,14 @@
 ---
 activitypub_status:
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2024-07-03T12:41:36Z"
 guid: https://joshuapsteele.com/?p=43019
 id: 43019
 title: 'Know Thyself: Unveiling Your Unique Strengths and Personality Traits'
 url: /know-thyself-unveiling-your-unique-strengths-and-personality-traits/
+categories:
+  - personal
+  - productivity
 ---
 
 In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening. Today, I want to share my insights from various personality paradigms and how they shape my approach to work and life.

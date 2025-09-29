@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 date: "2013-06-17T00:34:27Z"
 guid: https://joshuapsteele.com/?p=2725
 id: 2725
@@ -12,6 +9,9 @@ title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care,"
   by Amy Chase Ashley'
 total_sidebar_layout:
 url: /inductive-bible-study-7-steps-amy-chase-ashley/
+categories:
+  - bible
+  - ethics
 ---
 
 <address>Update (April 2017): I’ve gone back to update/clean-up the formatting in this wonderful June 2013 guest post on the basics of inductive Bible study from my friend **Amy Elizabeth Chase Ashley,** one of the most gifted students of Scripture with whom I’ve been privileged to study. She blogs at <https://amyechase.wordpress.com/>. </address>---

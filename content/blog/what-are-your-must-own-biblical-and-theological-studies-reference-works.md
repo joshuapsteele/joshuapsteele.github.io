@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2019-04-10T21:30:46Z"
 guid: https://joshuapsteele.com/?p=41768
 id: 41768
 title: What are your "must-own" biblical and theological studies reference
   works?
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/
+categories:
+  - bible
+  - theology
 ---
 
 It just happened again. I had to consult [“BDAG,” A Greek–English Lexicon of the New Testament and Other Early Christian Literature (3rd ed.)](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed).

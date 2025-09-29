@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2015-12-08T11:53:24Z"
 guid: https://joshuapsteele.com/?p=3516
 id: 3516
@@ -9,6 +7,8 @@ publicize_twitter_user:
 title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican
   and Anabaptist Approaches'
 url: /improvising-church-state/
+categories:
+  - theology
 ---
 
 ### INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2020-05-19T13:29:06Z"
 guid: https://joshuapsteele.com/?p=42275
 id: 42275
@@ -10,6 +8,8 @@ tags:
 title: Balderdash! 12 Suggestions for Overcoming Writer’s Block (From Andrew T. Le
   Peau’s “Write Better”)
 url: /balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/
+categories:
+  - productivity
 ---
 
 Writer’s block sucks. I’m currently facing it with regard to [my dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) and I’ve decided to hit pause on research and writing until I regain access to my library carrell at Wheaton.

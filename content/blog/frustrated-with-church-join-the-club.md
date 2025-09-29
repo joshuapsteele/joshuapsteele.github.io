@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2016-06-10T17:10:17Z"
 guid: https://joshuapsteele.com/?p=3876
 id: 3876
 title: Frustrated with Church? Join the Club!
 url: /frustrated-with-church-join-the-club/
+categories:
+  - theology
 ---
 
 …and by “club” I of course mean “Church”!

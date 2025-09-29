@@ -3,9 +3,6 @@ author: joshuapsteele
 avada_post_views_count:
 avada_post_views_count_today_date:
 avada_today_post_views_count:
-categories:
-  - anglicanism
-  - "pastoral ministry"
 date: "2019-01-30T14:31:31Z"
 fusion_builder_status:
 guid: http://anglicancompass.com/?p=9885andpreview=trueandpreview_id=9885
@@ -92,6 +89,9 @@ tags:
 title: Want to Learn More about Women’s Ordination Debates within Anglicanism? Start
   With These Resources
 url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/
+categories:
+  - anglicanism
+  - ministry
 ---
 
 Maybe you, like me, are coming to Anglicanism from a different tradition.

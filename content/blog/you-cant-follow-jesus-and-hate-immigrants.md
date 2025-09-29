@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and society"
 date: "2024-09-13T16:19:56Z"
 guid: https://joshuapsteele.com/?p=43053
 id: 43053
@@ -10,6 +7,9 @@ tags:
   - immigration
 title: You Can't Follow Jesus and Hate Immigrants
 url: /you-cant-follow-jesus-and-hate-immigrants/
+categories:
+  - bible
+  - ethics
 ---
 
 You can’t follow Jesus and hate immigrants.

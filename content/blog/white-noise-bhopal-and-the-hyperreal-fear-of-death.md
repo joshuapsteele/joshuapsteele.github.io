@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2014-04-16T08:17:21Z"
 guid: https://joshuapsteele.com/?p=3267
 id: 3267
@@ -14,6 +12,8 @@ publicize_twitter_user:
 title: WHITE NOISE, BHOPAL, AND THE HYPERREAL FEAR OF DEATH
 total_sidebar_layout:
 url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
+categories:
+  - theology
 ---
 
 The following essay deals with the theme of the fear of death in [*White Noise*, the novel by Don DeLillo](http://amzn.to/2EgL3pA) (affiliate link).

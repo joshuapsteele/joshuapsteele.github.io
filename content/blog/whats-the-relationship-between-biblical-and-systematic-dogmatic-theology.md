@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2019-01-23T15:18:31Z"
 guid: https://joshuapsteele.com/?p=41581
 id: 41581
@@ -11,6 +8,9 @@ tags:
   - theology
 title: What's the relationship between biblical and systematic/dogmatic theology?
 url: /whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/
+categories:
+  - bible
+  - theology
 ---
 
 This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!

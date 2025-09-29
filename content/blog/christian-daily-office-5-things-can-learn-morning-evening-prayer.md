@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2018-03-02T05:00:31Z"
 guid: https://joshuapsteele.com/?p=41119
 id: 41119
@@ -9,6 +7,8 @@ title: 'Christian, Do the Daily Office: 5 Things You Can Learn from Morning and 
   Prayer'
 total_sidebar_layout:
 url: /christian-daily-office-5-things-can-learn-morning-evening-prayer/
+categories:
+  - ethics
 ---
 
 # The Problem: We All Need to Grow, But We’re Not Sure How

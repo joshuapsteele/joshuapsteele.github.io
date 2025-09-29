@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2016-05-30T20:49:33Z"
 guid: https://joshuapsteele.com/?p=3862
 id: 3862
 title: How Do You Want To Be Remembered?
 url: /how-do-you-want-to-be-remembered/
+categories:
+  - personal
+  - productivity
 ---
 
 Do you know what the worst thing about ***death*** is?

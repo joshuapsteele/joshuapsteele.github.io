@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and society"
 date: "2023-06-09T12:17:21Z"
 guid: https://joshuapsteele.com/?p=42801
 id: 42801
 title: Scriptures to Read on Days of Prayer and Fasting for the Church
 url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
+categories:
+  - bible
+  - ethics
 ---
 
 ## 1 Peter 4:17

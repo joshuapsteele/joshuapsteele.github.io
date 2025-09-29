@@ -2,13 +2,12 @@
 date: "2024-11-13T16:40:14-05:00"
 title: 'Ten Tools for Embracing Finitude'
 author: joshuapsteele
-categories:
-  - "productivity and time management"
+url: /ten-tools-for-embracing-finitude/
 tags:
   - 8020
   - "reading notes"
-  - burkeman
-url: /ten-tools-for-embracing-finitude/
+categories:
+  - productivity
 ---
 
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman

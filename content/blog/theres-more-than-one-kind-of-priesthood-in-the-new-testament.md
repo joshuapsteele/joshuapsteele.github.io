@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2019-02-12T20:47:11Z"
 guid: https://joshuapsteele.com/?p=41717
 id: 41717
@@ -11,6 +8,9 @@ tags:
   - theology
 title: There's more than one kind of "priesthood" in the New Testament
 url: /theres-more-than-one-kind-of-priesthood-in-the-new-testament/
+categories:
+  - bible
+  - theology
 ---
 
 Just came across [this article in New Blackfriars](https://doi.org/10.1111/nbfr.12440), and it looks helpful, especially in the context of Anglican debates about women’s ordination.

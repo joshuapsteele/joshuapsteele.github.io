@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2016-05-27T20:02:19Z"
 guid: https://joshuapsteele.com/?p=3837
 id: 3837
 title: What are you afraid of?
 url: /what-are-you-afraid-of/
+categories:
+  - personal
+  - productivity
 ---
 
 I’m scared. Are you?

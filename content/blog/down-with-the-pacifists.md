@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2013-10-22T20:47:06Z"
 guid: https://joshuapsteele.com/?p=2918
 id: 2918
 title: Down With the Pacifists!
 url: /down-with-the-pacifists/
+categories:
+  - theology
+  - ethics
 ---
 
 The past week has been a great one for slipshod attacks on pacifism. First, from [First Things](http://www.firstthings.com/) (Stephen H. Webb) on October 15 —- [“John Howard Yoder and the Violent Power of Pacifism”](http://www.firstthings.com/onthesquare/2013/10/john-howard-yoder-and-the-violent-power-of-pacifism) (emphasis added below):

@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2014-03-21T09:01:05Z"
 guid: https://joshuapsteele.com/?p=3233
 id: 3233
@@ -11,6 +8,9 @@ publicize_twitter_url:
 publicize_twitter_user:
 title: 'My 2014 Regional ETS Paper: Reconciliation and the Lack Thereof'
 url: /my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof/
+categories:
+  - theology
+  - ethics
 ---
 
 If you’re interested, here’s [the latest version of the Regional ETS paper](https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf) I will present today at 5:00pm at Beeson Divinity School, room S009.

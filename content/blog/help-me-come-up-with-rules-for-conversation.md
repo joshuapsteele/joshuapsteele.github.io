@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 tags:
   - 8020
   - "reading notes"
@@ -10,6 +8,8 @@ guid: https://joshuapsteele.com/?p=42049
 id: 42049
 title: Help me come up with “rules for conversation”!
 url: /help-me-come-up-with-rules-for-conversation/
+categories:
+  - ethics
 ---
 
 In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”

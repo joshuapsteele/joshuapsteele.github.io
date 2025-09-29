@@ -1,13 +1,13 @@
 ---
 activitypub_status:
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2022-11-08T19:40:28Z"
 guid: https://joshuapsteele.com/?p=42635
 id: 42635
 title: 'Most Useful Websites: My Favorite Online Resources'
 url: /most-useful-websites-my-favorite-online-resources/
+categories:
+  - productivity
 ---
 
 ## General / Thinking

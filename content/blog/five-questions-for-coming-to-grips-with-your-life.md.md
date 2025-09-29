@@ -2,14 +2,13 @@
 date: "2024-11-13T16:50:14-05:00"
 title: 'Five Questions for Coming to Grips with Your Life'
 author: joshuapsteele
-categories:
-  - "productivity and time management"
+url: /five-questions-for-coming-to-grips-with-your-life/
 tags:
   - 8020
   - questions
   - "reading notes"
-  - burkeman
-url: /five-questions-for-coming-to-grips-with-your-life/
+categories:
+  - productivity
 ---
 
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman

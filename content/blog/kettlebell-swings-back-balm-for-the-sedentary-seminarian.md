@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2016-05-25T23:53:49Z"
 guid: https://joshuapsteele.com/?p=3809
 id: 3809
 title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
+categories:
+  - productivity
 ---
 
 I love books. Books, however, do not like my back.

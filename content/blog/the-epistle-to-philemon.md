@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 date: "2013-12-13T17:46:29Z"
 guid: https://joshuapsteele.com/?p=3080
 id: 3080
@@ -11,6 +8,9 @@ publicize_twitter_url:
 publicize_twitter_user:
 title: 'The Epistle to Philemon: Analysis and Application'
 url: /the-epistle-to-philemon/
+categories:
+  - bible
+  - ethics
 ---
 
 <span style="color: #000000;">As the briefest member of the Pauline corpus, the epistle to Philemon is a letter of recommendation for the sake of reconciliation in which the apostle Paul brings the gospel truth of mutual participation in the body of Christ to bear on an estranged relationship – making a delicate request of his friend Philemon to receive back a certain Onesimus into full fellowship as a brother in Christ.[<span style="color: #000000;">\[1\]</span>](/Users/Joshua/Google%20Drive/Beeson/1%20Fall%202013/Biblical%20Interp/Papers/JoshuaSteeleEpistle.docx#_ftn1) </span>

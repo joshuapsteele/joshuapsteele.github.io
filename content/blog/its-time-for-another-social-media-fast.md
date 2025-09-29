@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2020-08-19T15:52:45Z"
 guid: https://joshuapsteele.com/?p=42369
 id: 42369
@@ -10,6 +7,9 @@ tags:
   - "social media"
 title: It’s time for another social media fast!
 url: /its-time-for-another-social-media-fast/
+categories:
+  - personal
+  - productivity
 ---
 
 After listening to [the Blinkist summary of Cal Newport’s *Deep Work*](https://www.blinkist.com/en/books/deep-work-en) (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.

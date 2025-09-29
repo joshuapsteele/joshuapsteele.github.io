@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2018-06-27T21:02:31Z"
 guid: https://joshuapsteele.com/?p=41285
 id: 41285
@@ -10,6 +7,9 @@ tags:
   - anglican
 title: What Attracts People to Anglicanism? Here's My Take
 url: /what-attracts-people-to-anglicanism-heres-my-take/
+categories:
+  - theology
+  - ethics
 ---
 
 Based upon my work over at [Rookie Anglican](http://anglicanpastor.com/rookieanglican/), I was asked by [The Telos Collective](https://www.teloscollective.com/) to write a blog post about the different ways that people are coming into Anglicanism. What’s drawing them in?

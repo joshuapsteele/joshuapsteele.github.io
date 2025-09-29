@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2018-06-08T18:39:38Z"
 guid: https://joshuapsteele.com/?p=41270
 id: 41270
 title: 'The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths'
 url: /the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/
+categories:
+  - productivity
 ---
 
 In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.

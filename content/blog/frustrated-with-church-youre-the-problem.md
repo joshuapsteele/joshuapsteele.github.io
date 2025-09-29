@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2016-06-11T17:24:37Z"
 guid: https://joshuapsteele.com/?p=3886
 id: 3886
 title: Frustrated with Church? You're the Problem!
 url: /frustrated-with-church-youre-the-problem/
+categories:
+  - theology
 ---
 
 Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](http://frustrated). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!

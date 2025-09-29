@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2016-09-24T01:00:30Z"
 guid: https://joshuapsteele.com/?p=3939
 id: 3939
 title: 'Christians and Wealth: An Argument for Downward Mobility'
 url: /christians-and-wealth/
+categories:
+  - theology
+  - ethics
 ---
 
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:

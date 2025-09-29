@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2020-05-21T20:21:06Z"
 guid: https://joshuapsteele.com/?p=42279
 id: 42279
@@ -11,6 +9,8 @@ tags:
   - "women's ordination"
 title: Don't Stir the Pot?
 url: /dont-stir-the-pot/
+categories:
+  - theology
 ---
 
 I'm pondering the "don't stir the pot" reaction that reliably happens every time we publish something on women's ordination—most especially anything in *favor* of women's ordination—[over at Anglican Compass](https://anglicancompass.com/), where I'm the Managing Editor.

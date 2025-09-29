@@ -1,10 +1,6 @@
 ---
 activitypub_status:
 author: joshuapsteele
-categories:
-  - "church and society"
-  - "church and theology"
-  - "the christian life"
 date: "2024-09-09T14:03:42Z"
 guid: https://joshuapsteele.com/?p=42964
 id: 42964
@@ -12,6 +8,9 @@ tags:
   - politics
 title: 'Christianity and Politics: My 2024 Reading List'
 url: /christianity-and-politics-my-2024-reading-list/
+categories:
+  - ethics
+  - theology
 ---
 
 The relationship between Church and State, particularly the intersection of Christianity and politics, has been on my mind since I first started paying attention during the lead-up to the 2008 USA presidential election. Back then, I was just a high school student, but these themes have stuck with me ever since.

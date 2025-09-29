@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2013-11-11T18:50:04Z"
 guid: https://joshuapsteele.com/?p=3021
 id: 3021
@@ -12,6 +9,9 @@ publicize_twitter_user:
 title: Silence and Violence
 twitter_cards_summary_img_size:
 url: /silence-and-violence/
+categories:
+  - theology
+  - ethics
 ---
 
 [![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)

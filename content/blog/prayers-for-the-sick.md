@@ -1,8 +1,6 @@
 ---
 activitypub_status:
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2024-04-23T23:15:40Z"
 guid: https://joshuapsteele.com/?p=42973
 id: 42973
@@ -11,6 +9,8 @@ tags:
   - prayer
 title: Prayers for the Sick
 url: /prayers-for-the-sick/
+categories:
+  - ethics
 ---
 
 (The following prayers come from [the 1979 Book of Common Prayer](https://www.bcponline.org/PastoralOffices/ministration_to_the_sick.html).)

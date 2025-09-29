@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2018-11-09T15:27:48Z"
 guid: https://joshuapsteele.com/?p=41414
 id: 41414
 title: Justification and Sanctification
 url: /justification-and-sanctification/
+categories:
+  - theology
 ---
 
 For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.

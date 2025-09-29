@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "productivity and time management"
 date: "2018-02-02T09:15:24Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/a-prayer-before-study-2/
 id: 3303
@@ -15,6 +12,9 @@ title: 'How to Pray Before You Read and Write: A Prayer of St. Thomas Aquinas Be
   Study'
 total_sidebar_layout:
 url: /prayer-of-st-thomas-aquinas-before-study/
+categories:
+  - theology
+  - productivity
 ---
 
 I want to share with you the following prayer of St. Thomas Aquinas Before Study, based on <u>***[Oratio S. Thomae Aquinatis ante studium](http://www.preces-latinae.org/thesaurus/Varia/CreatorIneff.html)***</u>, which Thomas Aquinas would pray before studying, writing, or preaching.

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 custom_permalink:
 date: "2017-07-25T15:46:34Z"
 guid: https://joshuapsteele.com/?p=39778
@@ -9,6 +7,8 @@ id: 39778
   Apple Podcasts, Stitcher, or Overcast, they're a great way to learn!
 title: Podcasts You Should Listen To
 url: /my-favorite-podcasts/
+categories:
+  - productivity
 ---
 
 # Podcasts: An Introduction

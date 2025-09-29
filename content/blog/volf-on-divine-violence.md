@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2013-10-23T08:13:38Z"
 guid: https://joshuapsteele.com/?p=2931
 id: 2931
@@ -10,6 +8,8 @@ publicize_twitter_url:
 publicize_twitter_user:
 title: Miroslav Volf on Divine Violence
 url: /volf-on-divine-violence/
+categories:
+  - theology
 ---
 
 A couple relevant excerpts (given recent [posts](https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/)) from “Violence and Peace,” the final chapter of Miroslav Volf’s *[Exclusion and Embrace](http://www.amazon.com/Exclusion-Embrace-Theological-Exploration-Reconciliation/dp/0687002826)* (my emphasis added in **bold**; paragraph breaks added where noted):

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2020-03-02T21:35:28Z"
 guid: https://joshuapsteele.com/?p=42205
 id: 42205
@@ -9,6 +7,8 @@ tags:
   - "book of common prayer"
 title: 12 Prayers for Tough Days
 url: /12-prayers-for-tough-days/
+categories:
+  - ethics
 ---
 
 The “Occasional Prayers” section of the Book of Common Prayer is a goldmine, particularly when the going gets tough.

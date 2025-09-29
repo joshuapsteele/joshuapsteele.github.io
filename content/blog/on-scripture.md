@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 date: "2013-10-02T13:01:12Z"
 guid: https://joshuapsteele.com/?p=2868
 id: 2868
 title: 'Scripture: What The Bible Is And Why It Matters'
 url: /on-scripture/
+categories:
+  - bible
+  - ethics
 ---
 
 ## INTRODUCTION: THE NATURE OF SCRIPTURE

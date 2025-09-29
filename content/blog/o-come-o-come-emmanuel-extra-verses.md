@@ -2,12 +2,12 @@
 date: '2024-12-07T13:55:08Z'
 title: 'O Come, O Come, Emmanuel: Extra Verses'
 author: joshuapsteele
-categories:
-  - "church and society"
 tags:
   - poetry
   - hymn
 url: /o-come-o-come-emmanuel-extra-verses/
+categories:
+  - ethics
 ---
 "O Come, O Come, Emmanuel" has long been one of my favorite hymns. This Advent, I've decided to write some additional verses. They emphasize God's heart for the poor and the powerless. 
 

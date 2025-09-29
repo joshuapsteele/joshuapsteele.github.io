@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2018-09-19T15:10:18Z"
 guid: https://joshuapsteele.com/?p=41377
 id: 41377
 title: 'Systematic Theologies: A List (Help Me Update!)'
 url: /systematic-theologies-a-list-help-me-update/
+categories:
+  - theology
 ---
 
 # SYSTEMATIC THEOLOGIES: A LIST

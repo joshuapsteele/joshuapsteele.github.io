@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "church and theology"
 custom_permalink:
 date: "2018-03-12T21:36:16Z"
 guid: https://joshuapsteele.com/?p=41151
@@ -10,6 +7,9 @@ id: 41151
 title: This Song is a Beautiful Picture of the Theological Journey
 total_sidebar_layout:
 url: /the-truth-is-not-a-cave
+categories:
+  - personal
+  - theology
 ---
 
 I was recently privileged to see one of my favorite bands, [The Oh Hellos](http://theohhellos.com/), in concert at the House of Blues in downtown Chicago.

@@ -27,15 +27,12 @@ FRONT_MATTER_DELIM = "---\n"
 
 
 def split_front_matter(text: str) -> Tuple[str, str, str]:
-    if not text.startswith(FRONT_MATTER_DELIM):
+    # Support both LF and CRLF newlines for YAML front matter
+    m = re.match(r"^---\r?\n(.*?)\r?\n---\r?\n(.*)$", text, flags=re.DOTALL)
+    if not m:
         return "", "", text
-    # find the second delimiter
-    idx = text.find(FRONT_MATTER_DELIM, len(FRONT_MATTER_DELIM))
-    if idx == -1:
-        # malformed front matter
-        return "", "", text
-    fm = text[len(FRONT_MATTER_DELIM):idx]
-    content = text[idx + len(FRONT_MATTER_DELIM):]
+    fm = m.group(1)
+    content = m.group(2)
     return FRONT_MATTER_DELIM, fm, content
 
 

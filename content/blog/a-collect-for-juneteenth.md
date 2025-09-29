@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2020-06-19T03:06:10Z"
 guid: https://joshuapsteele.com/?p=42318
 id: 42318
@@ -11,6 +9,8 @@ tags:
   - prayer
 title: A Collect for Juneteenth
 url: /a-collect-for-juneteenth/
+categories:
+  - ethics
 ---
 
 The following is a “collect” prayer that I composed for Juneteenth in 2020. What’s a “collect” prayer?

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2015-04-24T09:15:25Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/give-thanks/
 id: 3304
@@ -10,6 +8,8 @@ publicize_twitter_url:
 publicize_twitter_user:
 title: Give Thanks!
 url: /give-thanks/
+categories:
+  - ethics
 ---
 
 I'm not the most thankful person.

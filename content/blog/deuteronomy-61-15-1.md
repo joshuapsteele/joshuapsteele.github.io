@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "the christian life"
 custom_permalink:
 date: "2013-02-18T20:44:14Z"
 guid: https://joshuapsteele.com/?p=2217
 id: 2217
 title: 'Reading and Interpreting the Bible: Deuteronomy 6:1-15'
 url: /deuteronomy-6/
+categories:
+  - bible
+  - ethics
 ---
 
 # Deuteronomy 6:1-15 (NRSV)

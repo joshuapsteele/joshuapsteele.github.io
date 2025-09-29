@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2020-06-05T16:02:20Z"
 guid: https://joshuapsteele.com/?p=42304
 id: 42304
@@ -9,6 +7,8 @@ tags:
   - racism
 title: Top 3 Books, Movies, and Podcasts about Race for White Christians like Me
 url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
+categories:
+  - ethics
 ---
 
 There are PLENTY of resource recommendations out there for those interested in learning more about racism and anti-racism (just Google “best X (books, movies, podcasts, etc.) on racism,” “antiracist reading list,” etc.).

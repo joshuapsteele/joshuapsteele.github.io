@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2019-11-12T21:35:32Z"
 guid: https://joshuapsteele.com/?p=42035
 id: 42035
@@ -9,6 +7,8 @@ tags:
   - jenson
 title: My favorite definition of "theology"
 url: /my-favorite-definition-of-theology/
+categories:
+  - theology
 ---
 
 This is from Robert Jenson, *Systematic Theology*, Volume 1, p. 11:

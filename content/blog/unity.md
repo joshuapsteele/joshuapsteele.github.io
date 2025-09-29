@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - personal
-  - "the christian life"
 date: "2012-04-19T19:22:24Z"
 guid: http://windowinthesky.wordpress.com/?p=1324
 id: 1324
 title: Unity?
 url: /unity/
+categories:
+  - theology
+  - personal
+  - ethics
 ---
 
 The more I study the New Testament, I become more convinced that the unity of the Church is of utmost importance to God.

@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2018-11-22T17:00:05Z"
 format: aside
 guid: https://joshuapsteele.com/?p=41450
@@ -10,6 +8,8 @@ tags:
   - writing
 title: This is a fantastic wooden pencil (Mitsubishi 9850)
 url: /this-is-a-fantastic-wooden-pencil-mitsubishi-9850/
+categories:
+  - productivity
 ---
 
 Just wanted to give a quick shout-out to this fantastic pencil: [the Mitsubishi 9850](https://amzn.to/2QcXI2B).

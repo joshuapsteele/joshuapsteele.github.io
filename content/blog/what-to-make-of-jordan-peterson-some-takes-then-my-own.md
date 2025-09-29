@@ -1,15 +1,15 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "productivity and time management"
-  - "the christian life"
 date: "2018-03-28T14:44:59Z"
 guid: https://joshuapsteele.com/?p=41189
 id: 41189
 title: What to make of Jordan Peterson? Some takes, then my own.
 total_sidebar_layout:
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
+categories:
+  - theology
+  - productivity
+  - ethics
 ---
 
 *UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/)*

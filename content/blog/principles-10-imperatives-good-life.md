@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "productivity and time management"
 date: "2017-10-17T16:18:56Z"
 guid: https://joshuapsteele.com/?p=40033
 id: 40033
 title: 'Principles: 10 Imperatives for the Good Life'
 url: /principles-10-imperatives-good-life/
+categories:
+  - productivity
 ---
 
 Why write out a list of principles?

@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
 date: "2015-04-24T09:13:36Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 id: 3299
 title: "Barth on the Wilderness Temptations: #3, The Leap of False Faith"
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
+categories:
+  - bible
+  - theology
 ---
 
 I've been reproducing[Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth)magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.

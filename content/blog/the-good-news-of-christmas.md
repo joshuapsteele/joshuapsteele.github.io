@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
-  - "the christian life"
 date: "2011-12-23T13:31:11Z"
 guid: http://windowinthesky.wordpress.com/?p=1199
 id: 1199
 title: The Good News of Christmas
 url: /the-good-news-of-christmas/
+categories:
+  - theology
+  - ethics
 ---
 
 After reading [The King Jesus Gospel: The Original Good News Revisited](http://www.amazon.com/gp/product/031049298X/ref=as_li_ss_tl?ie=UTF8&tag=faithinirelan-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=031049298X) by Scot McKnight, who makes the claim that the gospel is the saving story of Jesus as Messiah, King, and Lord as the completion to the story of Israel, I started to notice some profound gospel messages in the Christmas carols we often sing during this season.

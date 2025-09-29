@@ -1,10 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - bible
-  - "church and theology"
-  - "pastoral ministry"
-  - "the christian life"
 date: "2022-12-22T13:46:21Z"
 guid: https://joshuapsteele.com/?p=42736
 id: 42736
@@ -14,6 +9,11 @@ tags:
   - theology
 title: 'Logos 10 Bible Software: The Ultimate Theological Learning Tool'
 url: /logos-10-bible-software-the-ultimate-theological-learning-tool/
+categories:
+  - bible
+  - theology
+  - ministry
+  - ethics
 ---
 
 **TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. [Do so via my exclusive partner offer for Logos 10 here!](https://partners.faithlife.com/click.track?CID=431490&AFID=529204)**

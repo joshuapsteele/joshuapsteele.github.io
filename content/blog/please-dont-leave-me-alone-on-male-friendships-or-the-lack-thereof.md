@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "the christian life"
 date: "2018-03-20T18:15:22Z"
 guid: https://joshuapsteele.com/?p=41170
 id: 41170
 title: "Please Don't Leave Me Alone: On Male Friendships, or the Lack Thereof"
 total_sidebar_layout:
 url: /please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/
+categories:
+  - personal
+  - ethics
 ---
 
 Maybe you, like me, consider yourself quite the introvert. Maybe you, like me, have a difficult time walking the tightrope between feeling quickly overwhelmed by interpersonal relationships, on the one hand, and feeling incredibly lonely, on the other hand.

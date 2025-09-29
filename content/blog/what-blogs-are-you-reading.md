@@ -1,8 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - personal
-  - "productivity and time management"
 date: "2019-01-13T20:53:15Z"
 guid: https://joshuapsteele.com/?p=41556
 id: 41556
@@ -10,6 +7,9 @@ tags:
   - reading
 title: What blogs are you reading?
 url: /what-blogs-are-you-reading/
+categories:
+  - personal
+  - productivity
 ---
 
 Right now, I’m using the RSS readers [Inoreader](https://www.inoreader.com/) and [Reeder](http://reederapp.com/) to subscribe to the following blogs:

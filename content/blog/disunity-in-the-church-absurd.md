@@ -1,7 +1,5 @@
 ---
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2015-05-06T09:10:34Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/disunity-in-the-church-absurd/
 id: 3298
@@ -10,6 +8,8 @@ publicize_twitter_url:
 publicize_twitter_user:
 title: Disunity in the Church? Absurd!
 url: /disunity-in-the-church-absurd/
+categories:
+  - theology
 ---
 
 Presented at Southeast ETS 2015.

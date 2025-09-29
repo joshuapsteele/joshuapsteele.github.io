@@ -1,8 +1,6 @@
 ---
 activitypub_status:
 author: joshuapsteele
-categories:
-  - "church and theology"
 date: "2024-03-18T20:49:57Z"
 guid: https://joshuapsteele.com/?p=42966
 id: 42966
@@ -12,6 +10,8 @@ tags:
   - resurrection
 title: Death in His Grave
 url: /death-in-his-grave/
+categories:
+  - theology
 ---
 
 With Holy Week and Easter coming up, I’ve been thinking about music and artwork that I’ve found particularly poignant when reflection on the crucifixion and resurrection.

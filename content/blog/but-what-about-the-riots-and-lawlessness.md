@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
-categories:
-  - "the christian life"
 date: "2020-06-04T21:47:31Z"
 guid: https://joshuapsteele.com/?p=42302
 id: 42302
 title: “But, What About the Riots and Lawlessness?”
 url: /but-what-about-the-riots-and-lawlessness/
+categories:
+  - ethics
 ---
 
 I commend [the entire interview series that Ed Stetzer recently did with Esau McCaulley](https://www.christianitytoday.com/edstetzer/2020/june/race-in-america-interview-with-esau-mccaulley-part-one.html). Among many highlights, I appreciate McCaulley’s following answer to the question of negotiating the differences between protests and riots. Again, [read the whole interview](https://www.christianitytoday.com/edstetzer/2020/june/racism-in-america-interview-with-esau-mccaulley-part-four.html) and series, but here’s a key section related to concern about rioting and lawlessness:
