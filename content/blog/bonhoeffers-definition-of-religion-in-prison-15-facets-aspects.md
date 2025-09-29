@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-04T14:59:19Z"
 guid: https://joshuapsteele.com/?p=41548
 id: 41548
 tags:
-- Bonhoeffer
-- research
+  - bonhoeffer
+  - research
 title: "Bonhoeffer's 'Definition' of 'Religion' in Prison: 15 Facets/Aspects"
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
 ---

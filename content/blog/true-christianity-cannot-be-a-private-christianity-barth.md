@@ -1,24 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2019-11-11T18:16:49Z"
 guid: https://joshuapsteele.com/?p=42006
 id: 42006
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"10e7675ca087f51d22e32bb2076c0539";s:6:"images";a:1:{i:0;s:113:"https://i0.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png?fit=640%2C360&amp;ssl=1";}}
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
+  - barth
 title: '"True Christianity cannot be a private Christianity" (Barth)'
 url: /true-christianity-cannot-be-a-private-christianity-barth/
 ---

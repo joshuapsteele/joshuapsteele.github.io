@@ -1,23 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2023-03-18T12:50:58Z"
 guid: https://joshuapsteele.com/?p=42789
 id: 42789
-cover:
-    image: /wp-content/uploads/2023/03/pexels-photo-247819-1568x1044.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- learning
-- programming
-- software
-- software engineering
+  - learning
+  - programming
+  - software
+  - "software engineering"
 title: 'Discover Learn X in Y Minutes: An Invaluable Resource for Programmers'
 url: /discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/
 ---

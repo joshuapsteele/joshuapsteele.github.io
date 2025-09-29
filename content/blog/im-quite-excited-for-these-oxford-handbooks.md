@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-11-13T16:40:57Z"
 guid: https://joshuapsteele.com/?p=42037
 id: 42037
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: I'm quite excited for these Oxford Handbooks!
 url: /im-quite-excited-for-these-oxford-handbooks/
 ---

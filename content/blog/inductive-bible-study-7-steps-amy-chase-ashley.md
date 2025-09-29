@@ -1,37 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 date: "2013-06-17T00:34:27Z"
 guid: https://joshuapsteele.com/?p=2725
 id: 2725
-cover:
-    image: /wp-content/uploads/2013/06/ben-white-197680.jpg
-rank_math_description:
-- Want to learn how to study the Bible on your own? You need to learn the basics of
   what's called "inductive Bible study." Amy Chase Ashley has a 7 step process that
   anyone can learn to study Scripture. Click to learn more!
-rank_math_focus_keyword:
-- inductive Bible study
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_pillar_content:
-- "on"
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "81"
-rank_math_title:
-- Inductive Bible Study in 7 Steps - by Amy Chase Ashley
 title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care,"
   by Amy Chase Ashley'
 total_sidebar_layout:
-- right_sidebar
 url: /inductive-bible-study-7-steps-amy-chase-ashley/
 ---
 
@@ -39,13 +18,13 @@ url: /inductive-bible-study-7-steps-amy-chase-ashley/
 
 ## Jeremiah 29:11
 
-When I accepted the invitation to speak at my parents’ church, I immediately started thinking about what message I would deliver. I decided to give a message on something that is very important to me after my four years at [Cedarville](http://www.cedarville.edu/) and something I am very passionate about. I hope it will be <span style="text-decoration: underline;">engaging</span>; I hope it will <span style="text-decoration: underline;">make you think</span>; and I hope it will <span style="text-decoration: underline;">bring glory to God</span>. If I can accomplish those three things, I will be satisfied.
+When I accepted the invitation to speak at my parents’ church, I immediately started thinking about what message I would deliver. I decided to give a message on something that is very important to me after my four years at [Cedarville](http://www.cedarville.edu/) and something I am very passionate about. I hope it will be <u>engaging</u>; I hope it will <u>make you think</u>; and I hope it will <u>bring glory to God</u>. If I can accomplish those three things, I will be satisfied.
 
 The Scripture I chose is Jeremiah 29:11 and I’m guessing that most Christians could recite the verse from memory. If not, once you read it, you’ll probably remember or recognize it.
 
 ***“’For I know the plans I have for you,’ declares the Lord, ‘plans to prosper you and not to harm you, plans to give you a hope and a future.’”***
 
-This is a familiar verse for a lot of Christians. My question today is <span style="text-decoration: underline;">whether it should be</span>.
+This is a familiar verse for a lot of Christians. My question today is <u>whether it should be</u>.
 
 This might seem like a strange question, but I think you’ll understand what I mean soon.
 
@@ -73,11 +52,11 @@ Now there are two doctrines that I want to highlight before I go any farther to 
 
 ## Inspiration
 
-First, the doctrine of <span style="text-decoration: underline;">inspiration</span> means that **the Bible is a divine product**: it is inspired by God. God worked through the process of the composition and preservation of the books of the Bible. Therefore, yes, they were kind of written *for* us, but that’s different than them being written *to* us. God knew we would be reading Genesis someday, but Moses didn’t. And so the words that Moses wrote, although inspired by God, are not written to believers in the 21st century. When Paul wrote Romans, it never crossed his mind that Amy Chase from Ohio would be reading and studying them in 2013. So even though God inspired Paul to write and to write things that would remain applicable to people in 2013, Paul wasn’t intending to do that.
+First, the doctrine of <u>inspiration</u> means that **the Bible is a divine product**: it is inspired by God. God worked through the process of the composition and preservation of the books of the Bible. Therefore, yes, they were kind of written *for* us, but that’s different than them being written *to* us. God knew we would be reading Genesis someday, but Moses didn’t. And so the words that Moses wrote, although inspired by God, are not written to believers in the 21st century. When Paul wrote Romans, it never crossed his mind that Amy Chase from Ohio would be reading and studying them in 2013. So even though God inspired Paul to write and to write things that would remain applicable to people in 2013, Paul wasn’t intending to do that.
 
 ## Perspicuity
 
-The next doctrine is that of the <span style="text-decoration: underline;">perspicuity</span> of Scripture. Perspicuity is just a fancy word for “**clear**.” (Biblical scholars love fancy words for things.) Basically, the biblical text can be clearly understood by the ordinary reader. Someone can pick up the Bible and read it and understand it. It’s not gibberish. Anyone who can read can read the gospel accounts and understand that the story is about Jesus the Messiah, coming to earth, dying on a cross, and rising from the dead.
+The next doctrine is that of the <u>perspicuity</u> of Scripture. Perspicuity is just a fancy word for “**clear**.” (Biblical scholars love fancy words for things.) Basically, the biblical text can be clearly understood by the ordinary reader. Someone can pick up the Bible and read it and understand it. It’s not gibberish. Anyone who can read can read the gospel accounts and understand that the story is about Jesus the Messiah, coming to earth, dying on a cross, and rising from the dead.
 
 So, yes, you can pick up the Bible and “just read it.” And you do have, as a believer, the Holy Spirit helping you and guiding you. **But the Holy Spirit is not, I believe, a big fan of laziness.** He’s ready to help and guide you, but there are some things, like the geographic position of Jerusalem or the historical situation that caused Paul to write to the Romans, that he’s not going to be able to inspire in you. Well, he could, but that would be strange. Imagine if you just woke up tomorrow and could draw a detailed map of Israel, having never studied it. It’d be kind of like cheating, especially since that’s an assignment I had to do a lot of studying to be able to do. It’s a little like a parent helping a child with homework. If my mom had done my math homework for me, it wouldn’t have done me any good. But she did help me connect the dots and understand what I was supposed to be doing to get the right answer. **The Holy Spirit will help you understand the Bible, but he’s not going to just read it for you and then inspire in your some kind of otherworldly, enlightened understanding.** You will have to exert some effort. The knowledge is there for you, but you have to learn it.
 
@@ -89,19 +68,19 @@ At Cedarville, I majored in Bible and one of the very first things we were taugh
 
 ## Inductive Bible Study: 7 Steps to Study the Bible
 
-But first, let me say a couple things about the <span style="text-decoration: underline;">process</span> I’ll be using. At Cedarville, everyone takes certain classes and in one such class we were taught Bible study method, in particular, the ***inductive Bible study*.** It’s a process by which anyone—and I mean anyone—can come to an educated understanding of what a passage is saying. I can do it, my grandma can do it, pastors can do it, and my 5th grade cousin can do it.
+But first, let me say a couple things about the <u>process</u> I’ll be using. At Cedarville, everyone takes certain classes and in one such class we were taught Bible study method, in particular, the ***inductive Bible study*.** It’s a process by which anyone—and I mean anyone—can come to an educated understanding of what a passage is saying. I can do it, my grandma can do it, pastors can do it, and my 5th grade cousin can do it.
 
 ### Step One: Survey Reading and Historical Background.
 
-Want to know what Jeremiah 29:11 means? <span style="text-decoration: underline;">*Read Jeremiah.*</span> Okay, that’s a really long book. Sorry. Take that up with Jeremiah or God, I guess. Want to understand 1 Corinthians 13, the love chapter? Read 1 Corinthians. Want to understand John 3:16? Read John. Now, I’m not saying to study the whole thing to every minute detail, just read it. You can read it quickly even. Hey, college students know: a lot of assignments that are assigned to be “read” can be “skimmed.” I’m not suggesting we slack when reading the Bible, but you as long as you’re getting an idea of the book and what is being said, then you’re doing fine. Take a couple notes while you read: Who wrote the book? To whom? When? Why? What is the tone? What seems to be the big idea? What is each chapter about?
+Want to know what Jeremiah 29:11 means? <u>*Read Jeremiah.*</u> Okay, that’s a really long book. Sorry. Take that up with Jeremiah or God, I guess. Want to understand 1 Corinthians 13, the love chapter? Read 1 Corinthians. Want to understand John 3:16? Read John. Now, I’m not saying to study the whole thing to every minute detail, just read it. You can read it quickly even. Hey, college students know: a lot of assignments that are assigned to be “read” can be “skimmed.” I’m not suggesting we slack when reading the Bible, but you as long as you’re getting an idea of the book and what is being said, then you’re doing fine. Take a couple notes while you read: Who wrote the book? To whom? When? Why? What is the tone? What seems to be the big idea? What is each chapter about?
 
 ### Step Two: Unaided Observations.
 
-Read the passage you want to study and understand. <span style="text-decoration: underline;">Take notes.</span> When I did inductive studies for class, I had to do upwards of 10 observations per verse. To start, just aim for 3 or 4 per verse. They can be as simple as “Paul is making a statement here,” or “Jesus gives a command,” or “This verse switches from third person to first person.” They are called unaided because it’s just things you can come up with on your own. Things like repeated words and cause and effect statements are important to point out in your observations.
+Read the passage you want to study and understand. <u>Take notes.</u> When I did inductive studies for class, I had to do upwards of 10 observations per verse. To start, just aim for 3 or 4 per verse. They can be as simple as “Paul is making a statement here,” or “Jesus gives a command,” or “This verse switches from third person to first person.” They are called unaided because it’s just things you can come up with on your own. Things like repeated words and cause and effect statements are important to point out in your observations.
 
 ### Step Three: Interpretive Questions.
 
-After you make your observations, you’ll probably have some questions like, “Why did Paul say it that way?” or “What does this word mean?” If they’re questions you can’t answer on your own about your passage, that’s an interpretive question. Moving forward, it will be your goal to <span style="text-decoration: underline;">find an answer to your interpretive questions.</span> Try to come up with about five, but you can have as many as you want.
+After you make your observations, you’ll probably have some questions like, “Why did Paul say it that way?” or “What does this word mean?” If they’re questions you can’t answer on your own about your passage, that’s an interpretive question. Moving forward, it will be your goal to <u>find an answer to your interpretive questions.</u> Try to come up with about five, but you can have as many as you want.
 
 ### Step Four: Word Studies.
 
@@ -113,15 +92,15 @@ Your Bible isn’t wrong, it’s just that the word in the original language mig
 
 Say we’re working with John 3:16. What words might be counted as crucial? “For God so loved the world that he gave his only begotten Son…” There are lots of possibilities. It’s up to you to decide. Once you do that, there is a plethora of resources to help you see what the original word was and what meanings went along with it, and those resources are as close as your computer. The original word may encompass more or less than the English word. For example, using online resources, we see that the Greek word for “world” in John 3:16 is κοσμος with the meanings “the world, the universe, worldly affairs, the inhabitants of the world.” Sure, it might not be earth-shattering, but it’s an insight into the original language. And sometimes your findings may very well change how you read and understand a verse.
 
-It’s just reading <span style="text-decoration: underline;">what the experts have to say</span>. Commentaries will be the place where you’ll find answers to most of your interpretive questions. There are some very affordable commentaries out there and if you’re really looking to dig into a book of the Bible, buying one of two of them would be a great choice. Otherwise, there are a few online, but not the best ones. Libraries, Christian bookstores, and your church library would be good places to look. Not all commentaries are big, scary, technical books, and there are some that are very helpful and easy to read.
+It’s just reading <u>what the experts have to say</u>. Commentaries will be the place where you’ll find answers to most of your interpretive questions. There are some very affordable commentaries out there and if you’re really looking to dig into a book of the Bible, buying one of two of them would be a great choice. Otherwise, there are a few online, but not the best ones. Libraries, Christian bookstores, and your church library would be good places to look. Not all commentaries are big, scary, technical books, and there are some that are very helpful and easy to read.
 
 ### Step Six: Synthesize.
 
-Look at everything you’ve done and figure out <span style="text-decoration: underline;">what it all means together.</span> We were taught to come up with a “Big Idea” which basically says what the passage is about and what it says about what it is about. And, we stay away from any *here* and *now* language (talking about what it means for me and you) and use only *then* and *there* language (what it meant back then). So what is John 3:16 about? God sending his Son. What does it say about God sending his Son? That he did it because he loved the world and that believing in the Son is the way to everlasting life.
+Look at everything you’ve done and figure out <u>what it all means together.</u> We were taught to come up with a “Big Idea” which basically says what the passage is about and what it says about what it is about. And, we stay away from any *here* and *now* language (talking about what it means for me and you) and use only *then* and *there* language (what it meant back then). So what is John 3:16 about? God sending his Son. What does it say about God sending his Son? That he did it because he loved the world and that believing in the Son is the way to everlasting life.
 
 ### Step Seven: Application.
 
-All right, until this point, we’ve avoided talking about ourselves. We’ve focused on what the author was saying to his intended audience. And, because of that, we should be able to figure out what the passage meant to the people it was written to originally. Now, to apply it, we need to figure out <span style="text-decoration: underline;">what we have in common with that original audience.</span> If we are very similar, then we can apply it pretty directly, but if we are not, then the application will take a little more work and probably be a little more abstract.
+All right, until this point, we’ve avoided talking about ourselves. We’ve focused on what the author was saying to his intended audience. And, because of that, we should be able to figure out what the passage meant to the people it was written to originally. Now, to apply it, we need to figure out <u>what we have in common with that original audience.</u> If we are very similar, then we can apply it pretty directly, but if we are not, then the application will take a little more work and probably be a little more abstract.
 
 ---
 
@@ -143,13 +122,13 @@ Having done an inductive Bible study like I outlined for you, I’d like to expl
 
 But, because he loves them, God gives them a glimmer of **hope**: this is just a pause in the plans. He still plans to do good to them. But this is a punishment for their disobedience and they will pay the full cost. It’s hope in the midst of one of—if not the—darkest times in Israel’s history. So when we put Jeremiah 29:11 on a wedding card… Well, something just seems a little off to me.
 
-Now, if you are a position where you are <span style="text-decoration: underline;">suffering</span>, where you are <span style="text-decoration: underline;">questioning</span> the faithfulness of God, where you are in a situation comparable to <span style="text-decoration: underline;">the exile of the Jewish people</span>, then this verse can be applied more directly to your life (though we still have to deal with the fact that you are not a member of the Jewish nation).
+Now, if you are a position where you are <u>suffering</u>, where you are <u>questioning</u> the faithfulness of God, where you are in a situation comparable to <u>the exile of the Jewish people</u>, then this verse can be applied more directly to your life (though we still have to deal with the fact that you are not a member of the Jewish nation).
 
-**But we really need to stop using it <span style="text-decoration: underline;">lightly</span>.** Because when Jeremiah wrote these words to the Jewish people in Babylon, he was not writing them lightly but probably with tears in his eyes. God did not speak them lightly but rather as the eternal Yahweh who will keep his word even in light of the faithlessness of his people.
+**But we really need to stop using it <u>lightly</u>.** Because when Jeremiah wrote these words to the Jewish people in Babylon, he was not writing them lightly but probably with tears in his eyes. God did not speak them lightly but rather as the eternal Yahweh who will keep his word even in light of the faithlessness of his people.
 
 **And if we are going to be the light of the world, then we need to make sure we are treating the Bible the way it deserves to be treated so that we can truly tell the world what God wants them to hear, and not just read them some verse that we don’t fully understand ourselves.**
 
-**Let’s be wary of treating the Bible like trail mix because <span style="text-decoration: underline;">the world doesn’t need trail mix</span>, it needs to see the God of the Bible in all his power and love and hope.**
+**Let’s be wary of treating the Bible like trail mix because <u>the world doesn’t need trail mix</u>, it needs to see the God of the Bible in all his power and love and hope.**
 
 ---
 

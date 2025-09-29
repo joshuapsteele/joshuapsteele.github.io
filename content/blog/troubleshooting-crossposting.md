@@ -3,7 +3,7 @@ date: '2024-11-19T17:25:36-05:00'
 title: 'Troubleshooting Hugo to Micro.blog Crossposting'
 author: joshuapsteele
 tags:
-- Hugo
+  - hugo
 url: /troubleshooting-hugo-to-microblog-crossposting/
 ---
 

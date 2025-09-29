@@ -1,26 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2013-05-18T21:18:39Z"
 guid: https://joshuapsteele.com/?p=2629
 id: 2629
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"4195e952d0efa2cf205d7d3a915fbb6f";s:6:"images";a:1:{i:0;s:109:"https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590";}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
 twitter_cards_summary_img_size:
-- a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
-- a:7:{i:0;i:600;i:1;i:440;i:2;i:2;i:3;s:24:"width="600" height="440"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
 url: /unrighteous-anger-yoda-jonah-nahum-and-us/
 ---
 
@@ -76,7 +64,7 @@ Consider Exodus 22:22-24:
 
 “You must not afflict any widow or orphan. If you afflict them in any way and they cry to me, I will surely hear their cry, and my anger will burn and I will kill you with the sword, and your wives will be widows and your children will be fatherless.
 
-In the original Hebrew, this passage is even more intense, along the following lines: “If you afflict them <span style="text-decoration:underline;">in even the slightest way</span>, and they <span style="text-decoration:underline;">even think about crying out</span> to me, then I will <span style="text-decoration:underline;">hearingly hear</span> their cry. My <span style="text-decoration:underline;">fiery anger will burn</span>, and I will kill you with the sword, so that, in exchange, YOUR wives will be widows and YOUR children will be orphans.” So much for gentle Yahweh, meek and mild!
+In the original Hebrew, this passage is even more intense, along the following lines: “If you afflict them <u>in even the slightest way</u>, and they <u>even think about crying out</u> to me, then I will <u>hearingly hear</u> their cry. My <u>fiery anger will burn</u>, and I will kill you with the sword, so that, in exchange, YOUR wives will be widows and YOUR children will be orphans.” So much for gentle Yahweh, meek and mild!
 
 In the New Testament, we see that the Son of God gets angry as well. After all, when he witnesses money-changers making his Father’s holy house into a marketplace, he doesn’t calmly suggest that they leave. Instead, he makes a whip, flips their tables, scatters their coins, and drives them out of the temple! (Jn 2:13-22).
 
@@ -116,7 +104,7 @@ What Jonah has to say next, however, is even more shocking!
 
 because I knew that you are gracious and compassionate, slow to anger and abounding in mercy, and one who relents concerning threatened judgment. So now, Lord, kill me instead, because I would rather die than live!”
 
-Jonah’s not angry because of injustice or even inconvenience…he’s angry because of God’s mercy or <span style="text-decoration:underline;">*hesed*</span>: his gracious, compassionate, relenting, merciful, and steadfast love! But before we consider the heinous nature of such anger, let’s note that this is a theologically astute observation on Jonah’s part. He’s quoting a creed which gets at the heart of who Yahweh is:
+Jonah’s not angry because of injustice or even inconvenience…he’s angry because of God’s mercy or <u>*hesed*</u>: his gracious, compassionate, relenting, merciful, and steadfast love! But before we consider the heinous nature of such anger, let’s note that this is a theologically astute observation on Jonah’s part. He’s quoting a creed which gets at the heart of who Yahweh is:
 
 Consider Exodus 34:6
 
@@ -172,7 +160,7 @@ he sustains his rage against his enemies.
 
 the Lord will certainly not allow the wicked to go unpunished.
 
-If you’ll compare Nahum 1:3 with Jonah 4:2, you’ll see what I mean. Although the traditional form is “Yahweh is slow to anger, but great in *hesed*,” Nahum switches <span style="text-decoration:underline;">*hesed*</span> out with <span style="text-decoration:underline;">*power*</span>. No longer would the vicious Assyrians experience the merciful and steadfast love of Yahweh. As [one commentator puts it](https://net.bible.org/#!bible/Nahum+1:3), “God’s patience at the time of Jonah one century earlier had run out. Nineveh had exhausted the “great mercy” of God and now would experience the “great power” of God.” The rest of the book of Nahum is a series of oracles describing exactly what this would mean.
+If you’ll compare Nahum 1:3 with Jonah 4:2, you’ll see what I mean. Although the traditional form is “Yahweh is slow to anger, but great in *hesed*,” Nahum switches <u>*hesed*</u> out with <u>*power*</u>. No longer would the vicious Assyrians experience the merciful and steadfast love of Yahweh. As [one commentator puts it](https://net.bible.org/#!bible/Nahum+1:3), “God’s patience at the time of Jonah one century earlier had run out. Nineveh had exhausted the “great mercy” of God and now would experience the “great power” of God.” The rest of the book of Nahum is a series of oracles describing exactly what this would mean.
 
 I believe that Nahum’s devastating oracles against Nineveh were important to the Hebrew mindset because they preserved Yahweh’s powerful justice as the counterpoint to the themes of merciful universalism in books like Jonah. Nahum’s relationship to Jonah is a bit like the relationship of Job and Ecclesiastes to Proverbs. The former provide important theological counterpoints to the latter books. In Jonah, Yahweh desires to teach the arrogant Hebrew prophet a lesson about the scope of the divine mission of mercy and redemption. Although it’s understandable why Jonah would have been hesitant to see Nineveh repent and be delivered from judgment (given Assyria’s messy relationship with Israel), Yahweh wanted to show Jonah that NO ONE was outside of his mercy’s reach. In fact, sometimes Ninevites repent better than God’s chosen people!
 

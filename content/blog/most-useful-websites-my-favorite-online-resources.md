@@ -1,9 +1,8 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2022-11-08T19:40:28Z"
 guid: https://joshuapsteele.com/?p=42635
 id: 42635

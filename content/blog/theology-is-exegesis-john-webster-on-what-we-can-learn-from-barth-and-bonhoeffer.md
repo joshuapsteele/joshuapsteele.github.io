@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-03-03T16:12:35Z"
 guid: https://joshuapsteele.com/?p=41738
 id: 41738
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: 'Theology is exegesis: John Webster on what we can learn from Barth and Bonhoeffer'
 url: /theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer/
 ---

@@ -1,15 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-03-23T13:38:00Z"
 guid: https://joshuapsteele.com/?p=41180
 id: 41180
-cover:
-    image: /wp-content/uploads/2018/03/pablo-1.png
 title: "Do More Better: Tim Challies' Excellent Little Book on Personal Productivity Could Change Your Life"
 total_sidebar_layout:
-- right_sidebar
 url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/
 ---
 

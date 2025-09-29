@@ -1,24 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2023-03-23T12:29:48Z"
 guid: https://joshuapsteele.com/?p=42792
 id: 42792
-cover:
-    image: /wp-content/uploads/2023/03/pexels-photo-6146961-1568x1045.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- communication
-- friendship
-- leadership
-- relationships
-- soft skills
+  - communication
+  - friendship
+  - leadership
+  - relationships
+  - "soft skills"
 title: Master the Art of Interpersonal Relationships with "How to Win Friends
   and Influence People"
 url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/

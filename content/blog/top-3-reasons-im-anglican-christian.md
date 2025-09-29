@@ -1,27 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2018-03-01T05:00:03Z"
 guid: https://joshuapsteele.com/?p=41122
 id: 41122
-cover:
-    image: /wp-content/uploads/2018/02/pablo-1-1.png
-rank_math_canonical_url:
-- http://anglicanpastor.com/top-3-reasons-why-im-an-anglican-christian/
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican
+  - anglican
 title: Top 3 Reasons Why I'm an Anglican Christian
 total_sidebar_layout:
-- right_sidebar
 url: /top-3-reasons-im-anglican-christian/
 ---
 

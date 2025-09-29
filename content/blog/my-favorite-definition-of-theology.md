@@ -1,22 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2019-11-12T21:35:32Z"
 guid: https://joshuapsteele.com/?p=42035
 id: 42035
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Jenson
+  - jenson
 title: My favorite definition of "theology"
 url: /my-favorite-definition-of-theology/
 ---

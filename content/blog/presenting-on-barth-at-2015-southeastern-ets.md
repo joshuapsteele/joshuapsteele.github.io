@@ -1,25 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2015-04-24T09:13:41Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/presenting-on-barth-at-2015-southeastern-ets/
 id: 3301
 publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
 publicize_twitter_url:
-- ""
-- ""
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Presenting on Karl Barth at 2015 Southeastern ETS
 url: /presenting-on-barth-at-2015-southeastern-ets/
 ---

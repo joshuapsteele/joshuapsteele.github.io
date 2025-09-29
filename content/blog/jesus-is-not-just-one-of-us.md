@@ -1,53 +1,37 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-07-09T21:43:51Z"
 enclosure:
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
-- |
   http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3
   19643163
   audio/mpeg
 guid: https://joshuapsteele.com/?p=3426
 id: 3426
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Jesus is Not Just &quot;One of Us&quot;
 url: /jesus-is-not-just-one-of-us/
 ---
@@ -84,7 +68,7 @@ Please turn with me to the Gospel of Mark, beginning on page 836 of your pew Bib
 
 To understand today’s Gospel text from Mark 6, we first need a bit of context from Mark chapters 1 through 5. Please follow along with me in your Bibles, glancing at the pages as I summarize these chapters.
 
-The biggest thing I’d like us to note is that <span style="text-decoration:underline;">***Jesus is on a roll***</span>.
+The biggest thing I’d like us to note is that <u>***Jesus is on a roll***</u>.
 
 Mark’s Gospel takes off quickly into the narrative of Jesus, who, after he is baptized by his forerunner John, is affirmed of his identity by the very voice of God. He is then driven yet sustained by the Spirit through the wilderness testings of Satan.
 
@@ -106,9 +90,9 @@ In chapter 5, he upsets an entire region by casting out a legion of demons. And 
 
 **In the face of FAITH,Jesus tells the dead to get up. He calls the physically, financially, and relationally destitute one “daughter.”**
 
-Jesus is on a <span style="text-decoration:underline;">**roll**</span>.
+Jesus is on a <u>**roll**</u>.
 
-Jesus is up to something **BIG**, something **NEW**. He is <span style="text-decoration:underline;">**bringing in the very kingdom of God**</span>, unexpectedly centered around HIMSELF, and NOTHING, NO ONE –
+Jesus is up to something **BIG**, something **NEW**. He is <u>**bringing in the very kingdom of God**</u>, unexpectedly centered around HIMSELF, and NOTHING, NO ONE –
 
 - not winds,
 - not waves,
@@ -156,7 +140,7 @@ The Creator was **re-creating**. The Redeemer was **rescuing** and **restoring**
 
 So, what’s wrong with the hometown reaction? Let me focus on two things:
 
-### First, their reaction shows us that <span style="text-decoration:underline;">**you can ask the right questions with the wrong attitude**</span>.
+### First, their reaction shows us that <u>**you can ask the right questions with the wrong attitude**</u>.
 
 Sure, Jesus’ wisdom and mighty deeds should have persuaded them that God was up to something big, something new – and that they might have to change their lives because of it.
 
@@ -168,9 +152,9 @@ But instead, they ask their questions with incredulous skepticism:
 > 
 > We know who he really is. We watched him grow up!
 > 
-> He’s <span style="text-decoration:underline;">***just one of us***</span>, a normal Nazarene.
+> He’s <u>***just one of us***</u>, a normal Nazarene.
 
-### Second, then, their reaction shows us that <span style="text-decoration:underline;">**you can know the facts and miss the point**</span>.
+### Second, then, their reaction shows us that <u>**you can know the facts and miss the point**</u>.
 
 In fact, sometimes, you can use the facts in order to miss the point!
 
@@ -204,7 +188,7 @@ Sure, he healed a few sick people, but **whereas elsewhere in the Gospels it is 
 
 ## Conclusion:
 
-Sisters, brothers: **You can know the facts, and miss the point. <span style="text-decoration:underline;">Because FACTS aren’t FAITH.</span>**
+Sisters, brothers: **You can know the facts, and miss the point. <u>Because FACTS aren’t FAITH.</u>**
 
 FAITH is not merely intellectual assent to true propositions about Jesus. Look back at Mark 5, to Jairus and the bleeding woman!
 
@@ -214,9 +198,9 @@ When you hear “**faith**,” think “*faithfulness*.” Think “*trust*.” 
 
 Faith is something absolutely necessary for a relationship to exist. This is true with humans, and it’s true with God.
 
-Knowing the right things, having the Creed memorized backwards and front, is <span style="text-decoration:underline;">not</span> the same as **life-changing loyalty to Jesus Christ**.
+Knowing the right things, having the Creed memorized backwards and front, is <u>not</u> the same as **life-changing loyalty to Jesus Christ**.
 
-And, to be sure, <span style="text-decoration:underline;">faith cannot merely be produced by sheer force of will</span>. We would be nothing but *faithless* were it not for God’s **grace**.
+And, to be sure, <u>faith cannot merely be produced by sheer force of will</u>. We would be nothing but *faithless* were it not for God’s **grace**.
 
 But faith does involve our **wills**, our entire **selves**. It is something we **commit** to. It is something that, by God’s grace, we **participate** in.
 
@@ -232,17 +216,17 @@ Now, don’t misunderstand me. **Jesus was and is fully human**. He doesn’t sa
 
 But this salvation involves **repentance**. It requires turning away from our faithless pursuit of Sin and Death. And it requires the faithfulness of turning toward our faithful God.
 
-Salvation does not require us getting back to God on our own efforts or merit, but it does entail <span style="text-decoration:underline;">***complete and utter dependence on and allegiance to Jesus as King***</span>.
+Salvation does not require us getting back to God on our own efforts or merit, but it does entail <u>***complete and utter dependence on and allegiance to Jesus as King***</u>.
 
-But, as we’ve seen, we can <span style="text-decoration:underline;">escape</span> total allegiance to King Jesus if he’s “***just one of us Nazarenes***.”
+But, as we’ve seen, we can <u>escape</u> total allegiance to King Jesus if he’s “***just one of us Nazarenes***.”
 
 **Friends, King Jesus is not “*just one of us*“!**
 
 He has his own agenda of cosmic redemption. He has his own approach, which often appears upside-down to us, because it involves repentance and self-sacrifice, because it includes suffering on a bloodstained Cross before the triumph of the Empty Tomb.
 
-<span style="text-decoration:underline;">**King Jesus is not “*just one of us*“!**</span>
+<u>**King Jesus is not “*just one of us*“!**</u>
 
-#### So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a “*Jesus*” we’ve made <span style="text-decoration:underline;">in our own image</span>?
+#### So the uncomfortable question stands: Are we loyal to King Jesus above all else? Or are we loyal to a “*Jesus*” we’ve made <u>in our own image</u>?
 
 King Jesus is not “***middle-to-upper-class-American-Jesus***.”
 
@@ -256,7 +240,7 @@ But, hear me:
 
 #### He calls us to abandon our self-centered agendas of upward mobility, and instead to take up our crosses! To adopt his others-focused agenda of self-sacrificial love!
 
-And just like it was for Jesus’ hometown crowd back then, our easiest way out of this required repentance now is **to make Jesus’ message a little less demanding and his mission a little bit more like our own**, ***until finally, faithlessly – though we may worship Jesus with our lips – in our hearts, <span style="text-decoration:underline;">we worship only ourselves</span>.***
+And just like it was for Jesus’ hometown crowd back then, our easiest way out of this required repentance now is **to make Jesus’ message a little less demanding and his mission a little bit more like our own**, ***until finally, faithlessly – though we may worship Jesus with our lips – in our hearts, <u>we worship only ourselves</u>.***
 
 Briefly notice with me that, in Mark 6:7-13, Jesus sends out his disciples to do what he himself had been doing: preaching repentance, casting out demons, and healing the sick.
 
@@ -268,6 +252,6 @@ Briefly notice with me that, in Mark 6:7-13, Jesus sends out his disciples to do
 
 #### King Jesus has dominion over disease, demons, and death. Does he have dominion over our dreams and desires?
 
-By God’s grace — given to us in the life, death, resurrection, and ascension of Jesus Christ our Lord — By God’s amazing grace, **may these things be so, may we follow him <span style="text-decoration:underline;">faithfully</span>**.
+By God’s grace — given to us in the life, death, resurrection, and ascension of Jesus Christ our Lord — By God’s amazing grace, **may these things be so, may we follow him <u>faithfully</u>**.
 
 Amen.

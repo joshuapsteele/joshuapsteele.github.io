@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2016-05-25T23:53:49Z"
 guid: https://joshuapsteele.com/?p=3809
 id: 3809
-cover:
-    image: /wp-content/uploads/2016/05/pablo.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
 ---
@@ -41,7 +33,7 @@ I’ve been very impressed with the results of [a basic kettlebell workout](http
 
 **Would you like to give kettlebell swings a try?**
 
-**First, learn the proper form** and <span style="text-decoration: underline;">then</span> look for a kettlebell to give it a try.
+**First, learn the proper form** and <u>then</u> look for a kettlebell to give it a try.
 
 For the CliffsNotes version, here’s [the Tim Ferriss blogpost on the matter](http://fourhourworkweek.com/2011/01/08/kettlebell-swing/). For a more in-depth approach, BreakingMuscle.com, in addition to their [article on why the kettlebell swing is such a great exercise](http://breakingmuscle.com/kettlebells/the-kettlebell-swing-why-its-the-perfect-exercise), has this piece on [how to do the perfect kettlebell swing](http://breakingmuscle.com/kettlebells/how-to-do-the-perfect-kettlebell-swing).
 

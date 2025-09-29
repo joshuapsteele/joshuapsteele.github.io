@@ -4,9 +4,9 @@ author: joshuapsteele
 date: 2025-03-20T06:16:39-04:00
 draft: false
 categories:
-  - Tools
+  - tools
 tags:
-  - home improvement
+  - "home improvement"
   - diy
   - tools
 url: /vintage-craftsman-table-saw/

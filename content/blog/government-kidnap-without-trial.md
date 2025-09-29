@@ -5,7 +5,7 @@ draft: false
 url: /government-kidnap-without-trial/
 author: joshuapsteele
 tags: ["civil rights", "due process", "habeas corpus", "immigration", "constitutional law"]
-categories: ["Politics", "Law", "Justice"]
+categories: ["politics", "law", "justice"]
 description: "If the government can take people without due process, none of our rights are safe. Why habeas corpus and due process matter for all of us."
 ---
 

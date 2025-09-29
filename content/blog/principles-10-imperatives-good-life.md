@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2017-10-17T16:18:56Z"
 guid: https://joshuapsteele.com/?p=40033
 id: 40033
-cover:
-    image: /wp-content/uploads/2017/10/pablo.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Principles: 10 Imperatives for the Good Life'
 url: /principles-10-imperatives-good-life/
 ---

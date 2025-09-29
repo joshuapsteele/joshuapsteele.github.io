@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2013-10-22T20:47:06Z"
 guid: https://joshuapsteele.com/?p=2918
 id: 2918
@@ -12,11 +12,11 @@ url: /down-with-the-pacifists/
 
 The past week has been a great one for slipshod attacks on pacifism. First, from [First Things](http://www.firstthings.com/) (Stephen H. Webb) on October 15 —- [“John Howard Yoder and the Violent Power of Pacifism”](http://www.firstthings.com/onthesquare/2013/10/john-howard-yoder-and-the-violent-power-of-pacifism) (emphasis added below):
 
-“Nevertheless, pacifists, at least the ones I know, can be very enthusiastic about the rightness of their cause. Since <span style="text-decoration:underline;">there is no rational justification for pacifism</span>, defenders typically turn their rhetoric against their critics by casting them as stooges of the status quo. Since pacifists are against all forms of violence, anyone who disagrees with them must be in favor of violence. What this ploy misses is obvious. In a fallen world, not only is violence pervasive but it is also a toxin that, when legitimately used, can cure as well as kill.
+“Nevertheless, pacifists, at least the ones I know, can be very enthusiastic about the rightness of their cause. Since <u>there is no rational justification for pacifism</u>, defenders typically turn their rhetoric against their critics by casting them as stooges of the status quo. Since pacifists are against all forms of violence, anyone who disagrees with them must be in favor of violence. What this ploy misses is obvious. In a fallen world, not only is violence pervasive but it is also a toxin that, when legitimately used, can cure as well as kill.
 
 \[…\]
 
-“So we now know that \[John Howard\] Yoder was a violent man who believed so wholeheartedly in his own non-violent theology that he thought he could re-order human sexual relations. This single case does not invalidate pacifism, but it does <span style="text-decoration:underline;">reveal just how delusional the pacifist goal can be. The pursuit of peace at all costs is just as dangerous as any other dream that cuts against the realities of human nature</span>.”
+“So we now know that \[John Howard\] Yoder was a violent man who believed so wholeheartedly in his own non-violent theology that he thought he could re-order human sexual relations. This single case does not invalidate pacifism, but it does <u>reveal just how delusional the pacifist goal can be. The pursuit of peace at all costs is just as dangerous as any other dream that cuts against the realities of human nature</u>.”
 
 Exactly one week later, [Mark Driscoll](http://theresurgence.com/authors/mark-driscoll) came out with this gem, [“Is God a Pacifist?”](http://theresurgence.com/2013/10/22/is-god-a-pacifist):
 

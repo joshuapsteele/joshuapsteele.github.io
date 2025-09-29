@@ -1,21 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-06-27T15:04:37Z"
 guid: https://joshuapsteele.com/?p=41821
 id: 41821
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bible
-- Bonhoeffer
+  - bible
+  - bonhoeffer
 title: Dietrich Bonhoeffer’s Sermons and Meditations
 url: /dietrich-bonhoeffers-sermons-and-meditations/
 ---

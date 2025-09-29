@@ -1,23 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2020-04-16T14:06:29Z"
 guid: https://joshuapsteele.com/?p=42256
 id: 42256
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican
-- copywriting
+  - anglican
+  - copywriting
 title: '"They laughed when I became an Anglican, but when I started to pray!"
   27 Anglican Headline Ideas'
 url: /they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/

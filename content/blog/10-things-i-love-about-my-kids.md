@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2024-09-26T11:39:54Z"
 guid: https://joshuapsteele.com/?p=43080
 id: 43080
 tags:
-- kids
-- parenting
+  - kids
+  - parenting
 title: 10 Things I Love About My Kids
 url: /10-things-i-love-about-my-kids/
 ---

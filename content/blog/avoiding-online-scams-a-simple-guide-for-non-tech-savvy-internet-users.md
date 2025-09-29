@@ -1,22 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Technology
+  - technology
 date: "2023-07-25T21:24:41Z"
 guid: https://joshuapsteele.com/?p=42837
 id: 42837
-cover:
-    image: /wp-content/uploads/2023/07/pexels-photo-5935794-1568x1045.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- internet
-- security
-- technology
+  - internet
+  - security
+  - technology
 title: 'Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users'
 url: /avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/
 ---

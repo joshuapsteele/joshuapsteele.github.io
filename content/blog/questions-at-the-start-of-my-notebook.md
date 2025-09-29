@@ -3,9 +3,9 @@ date: '2025-01-14T17:04:30-05:00'
 title: 'Questions at the Start of My Notebook'
 author: joshuapsteele
 categories:
-- Productivity
+  - productivity
 tags:
-- questions
+  - questions
 url: /questions-at-the-start-of-my-notebook/
 ---
 

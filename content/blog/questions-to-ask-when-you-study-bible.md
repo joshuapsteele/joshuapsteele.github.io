@@ -1,39 +1,19 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
+  - bible
 date: "2018-01-31T15:09:33Z"
 footnotes:
-- ""
 guid: https://joshuapsteele.com/?p=40995
 id: 40995
-cover:
-    image: /wp-content/uploads/2018/01/rod-long-425679.jpg
-rank_math_description:
-- Have you ever felt overwhelmed when reading and studying the Bible? These 3 simple
   questions can help structure your personal or group Bible study. Plus, they work
   with pretty much any passage of Scripture! I've even included a worksheet format
   you can use. Click to learn more!
-rank_math_focus_keyword:
-- bible study
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "989"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "34"
-rank_math_title:
-- 3 Questions to Ask When You Study the Bible (Plus a Worksheet!)
 tags:
-- Bible
-- questions
+  - bible
+  - questions
 title: 3 Questions to Ask When You Study the Bible (Plus a Worksheet!)
 total_sidebar_layout:
-- right_sidebar
 url: /questions-to-ask-when-you-study-bible/
 ---
 

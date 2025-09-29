@@ -4,7 +4,7 @@ date: 2025-05-15T17:11:46-04:00
 draft: false
 author: joshuapsteele
 tags: [youtube]
-categories: [Lists]
+categories: [lists]
 url: /14-youtube-channels/
 ---
 

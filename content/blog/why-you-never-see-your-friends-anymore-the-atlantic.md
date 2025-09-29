@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-10-16T16:38:20Z"
 guid: https://joshuapsteele.com/?p=41936
 id: 41936
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: '"Why You Never See Your Friends Anymore" (The Atlantic)'
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
 ---

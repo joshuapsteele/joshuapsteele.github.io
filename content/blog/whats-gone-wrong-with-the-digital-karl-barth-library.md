@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2018-11-14T15:29:55Z"
 guid: https://joshuapsteele.com/?p=41426
 id: 41426
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: What's gone wrong with the Digital Karl Barth Library?
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
 ---

@@ -1,22 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2016-03-29T22:07:45Z"
 guid: https://joshuapsteele.com/?p=3716
 id: 3716
-cover:
-    image: /wp-content/uploads/2016/03/pablo-4.png
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Son of Man, Can Your Bones Live?
 url: /son-of-man-can-your-bones-live/
 ---
@@ -53,19 +43,19 @@ Can these bones live? Can **Christ’s** bones live?
 
 Surely this question must have flickered in someone’s mind on the first Holy Saturday. And, yes, we know the answer, but sit with this awhile.
 
-Look at the <span style="text-decoration: underline;">world</span>! Dealing in death, day by day. Wars. Famines. Floods. Diseases. Droughts. Death.
+Look at the <u>world</u>! Dealing in death, day by day. Wars. Famines. Floods. Diseases. Droughts. Death.
 
 Can **these** bones live?
 
-Look at the <span style="text-decoration: underline;">Church</span>! Claiming with her lips to follow Jesus Christ, and yet so often proving with her life that she wants no such thing. Scandal. Hypocrisy. Idolatry.
+Look at the <u>Church</u>! Claiming with her lips to follow Jesus Christ, and yet so often proving with her life that she wants no such thing. Scandal. Hypocrisy. Idolatry.
 
 Can **these** bones live?
 
-Look at <span style="text-decoration: underline;">yourselves</span>! I’ll be honest, the question “can these bones live?” is put to every preacher facing a congregation! If the Spirit doesn’t move, I’m throwing hot air at dry bones!
+Look at <u>yourselves</u>! I’ll be honest, the question “can these bones live?” is put to every preacher facing a congregation! If the Spirit doesn’t move, I’m throwing hot air at dry bones!
 
 Can **your** bones live?
 
-But then, look at <span style="text-decoration: underline;">me</span>! Just as scandalous, hypocritical, and idolatrous as any – and yet here I stand, presuming to proclaim the Word of God to you.
+But then, look at <u>me</u>! Just as scandalous, hypocritical, and idolatrous as any – and yet here I stand, presuming to proclaim the Word of God to you.
 
 Who do I think I am? Can **my** bones live?
 
@@ -81,10 +71,10 @@ Can these bones live?
 
 First, they need some WATER. Did you notice how often water has appeared in tonight’s readings?
 
-- The waters of <span style="text-decoration: underline;">creation</span>, out of which God called the dry ground – out of which He formed human beings.
-- The waters of <span style="text-decoration: underline;">judgment</span>, through which God saved Noah and his family in the Ark.
-- The waters of <span style="text-decoration: underline;">redemption</span>, through which God rescued Israel from the Egyptian house of slavery.
-- And the waters of <span style="text-decoration: underline;">cleansing</span>, by which the Lord promised in the prophets to wash away His people’s guilty stains.
+- The waters of <u>creation</u>, out of which God called the dry ground – out of which He formed human beings.
+- The waters of <u>judgment</u>, through which God saved Noah and his family in the Ark.
+- The waters of <u>redemption</u>, through which God rescued Israel from the Egyptian house of slavery.
+- And the waters of <u>cleansing</u>, by which the Lord promised in the prophets to wash away His people’s guilty stains.
 
 Water, water, everywhere! Except the dry valley.
 
@@ -101,7 +91,7 @@ Dry bones need the **Spirit**.
 
 But, the question isn’t “Can these bones get **wet** and **windy**?” It’s “Can they **LIVE**?!”
 
-And, if they’re going to live, they’re going to need a <span style="text-decoration: underline;">***RESURRECTION***</span>.
+And, if they’re going to live, they’re going to need a <u>***RESURRECTION***</u>.
 
 - They need the defeat of their most ancient enemy: Death!
 - They need Death’s reversal! They need Death’s death!

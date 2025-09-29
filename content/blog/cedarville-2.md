@@ -1,27 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2014-03-18T17:11:59Z"
 guid: https://joshuapsteele.com/?p=3188
 id: 3188
 publicize_facebook_url:
-- https://facebook.com/10153868252225316
-- https://facebook.com/10153868252225316
 publicize_twitter_url:
-- http://t.co/cKYNVYCVSY
-- http://t.co/cKYNVYCVSY
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"2069c091f1889b4b802d7780790c055d";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Cedarville!
 url: /cedarville-2/
 ---

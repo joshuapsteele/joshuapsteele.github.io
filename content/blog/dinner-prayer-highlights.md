@@ -3,9 +3,9 @@ date: '2025-01-10T09:23:13-05:00'
 title: 'Dinner Prayer Highlights from Our 4-Year-Old'
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 tags:
-- prayer
+  - prayer
 url: /dinner-prayer-highlights-from-our-4-year-old/
 ---
 

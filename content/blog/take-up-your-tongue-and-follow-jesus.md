@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Sermons
+  - sermons
 date: "2018-09-28T00:05:20Z"
 guid: https://joshuapsteele.com/?p=41386
 id: 41386
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Take Up Your Tongue and Follow Jesus
 url: /take-up-your-tongue-and-follow-jesus/
 ---

@@ -1,18 +1,15 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Church and Society
-- Church and Theology
-- The Christian Life
+  - "church and society"
+  - "church and theology"
+  - "the christian life"
 date: "2024-09-09T14:03:42Z"
 guid: https://joshuapsteele.com/?p=42964
 id: 42964
-cover:
-    image: /wp-content/uploads/2024/09/pexels-photo-1202723-1568x1016.jpeg
 tags:
-- politics
+  - politics
 title: 'Christianity and Politics: My 2024 Reading List'
 url: /christianity-and-politics-my-2024-reading-list/
 ---

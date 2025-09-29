@@ -1,25 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Sermons
+  - sermons
 date: "2020-06-07T13:02:06Z"
 guid: https://joshuapsteele.com/?p=42308
 id: 42308
-cover:
-    image: /wp-content/uploads/2020/06/img_0397-1200x786.jpg
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "5"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- racism
-- sermons
+  - racism
+  - sermons
 title: Who really cares about the Trinity in 2020?
 url: /who-really-cares-about-the-trinity-in-2020/
 ---

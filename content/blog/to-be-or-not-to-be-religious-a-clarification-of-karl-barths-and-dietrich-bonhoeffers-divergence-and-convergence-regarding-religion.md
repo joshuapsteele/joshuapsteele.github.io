@@ -1,17 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2016-12-31T18:15:34Z"
 guid: https://joshuapsteele.com/?p=4042
 id: 4042
-cover:
-    image: /wp-content/uploads/2016/12/pablo-6.png
 tags:
-- Barth
-- Bonhoeffer
-- religion
-- research
+  - barth
+  - bonhoeffer
+  - religion
+  - research
 title: "To Be or Not To Be Religious: A Clarification of Karl Barth's and Dietrich
   Bonhoeffer's Divergence and Convergence Regarding Religion"
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/

@@ -1,20 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-09-02T07:00:00Z"
 guid: https://joshuapsteele.com/?p=3440
 id: 3440
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Morning Prayer Homily: Mark 8.11-21'
 url: /morning-prayer-homily-mark-8-11-21/
 ---

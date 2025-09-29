@@ -1,26 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 custom_permalink:
-- ""
 date: "2020-09-04T13:57:32Z"
 guid: https://joshuapsteele.com/?p=42390
 id: 42390
-cover:
-    image: /wp-content/uploads/2020/09/scott-graham-OQMZwNd3ThU-unsplash-1200x801.jpg
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- opinion
+  - opinion
 title: Josh+? On the use of the sign of the cross (plus sign) in clergy signatures
 url: /josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/
 ---

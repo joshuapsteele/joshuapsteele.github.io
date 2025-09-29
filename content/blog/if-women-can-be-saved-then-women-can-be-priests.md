@@ -1,17 +1,16 @@
 ---
 author: Emily McGowin
 categories:
-- Anglicanism
-- Opinion
-- Theology
+  - anglicanism
+  - opinion
+  - theology
 date: "2019-09-26T05:00:18Z"
 fusion_builder_status:
-- ""
 guid: http://anglicancompass.com/?p=17316
 id: 17316
 tags:
-- Anglican Compass
-- women's ordination
+  - "anglican compass"
+  - "women's ordination"
 title: "If Women Can Be Saved, Then Women Can Be Priests: A Critique of the 'in persona Christi' Argument Against Women's Ordination"
 url: /if-women-can-be-saved-then-women-can-be-priests/
 ---

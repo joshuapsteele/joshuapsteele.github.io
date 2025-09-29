@@ -1,17 +1,14 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Tools
+  - tools
 date: "2024-07-14T16:26:44Z"
 guid: https://joshuapsteele.com/?p=43025
 id: 43025
-cover:
-    image: /wp-content/uploads/2024/07/pexels-photo-3990359-1568x1045.jpeg
 tags:
-- drafts
-- home improvement
+  - drafts
+  - "home improvement"
 title: Home Improvement Roadmap and Roadblocks
 url: /home-improvement-roadmap-and-roadblocks/
 ---

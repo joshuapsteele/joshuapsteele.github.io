@@ -1,19 +1,17 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- Pastoral Ministry
-- The Christian Life
+  - bible
+  - "church and theology"
+  - "pastoral ministry"
+  - "the christian life"
 date: "2022-12-22T13:46:21Z"
 guid: https://joshuapsteele.com/?p=42736
 id: 42736
-cover:
-    image: /wp-content/uploads/2022/12/Logos-10-Partner-Overview.jpg
 tags:
-- logos
-- software
-- theology
+  - logos
+  - software
+  - theology
 title: 'Logos 10 Bible Software: The Ultimate Theological Learning Tool'
 url: /logos-10-bible-software-the-ultimate-theological-learning-tool/
 ---
@@ -45,7 +43,7 @@ This is not to mention the breadth and depth that Logos Bible Software has added
 
 Now that Logos 10 is out, I can heartily continue to recommend Logos Bible Software. If you haven’t done so already, I strongly encourage you to consider buying (or upgrading to) Logos 10! ([Again, you can do so via my exclusive partner link here!](https://partners.faithlife.com/click.track?CID=431490&AFID=529204))
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/mfoaX1zkhuU?feature=oembed" title="Logos 10 Is Here" width="750"></iframe></div></figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/mfoaX1zkhuU?feature=oembed" title="Logos 10 Is Here" width="750"></iframe>
 
 ## Top 3 Features of Logos 10
 

@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-01-31T03:59:33Z"
 guid: https://joshuapsteele.com/?p=40991
 id: 40991

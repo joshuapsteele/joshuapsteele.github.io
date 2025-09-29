@@ -1,15 +1,12 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2024-07-03T12:41:36Z"
 guid: https://joshuapsteele.com/?p=43019
 id: 43019
-cover:
-    image: /wp-content/uploads/2024/07/pexels-photo-388898-1568x1045.jpeg
 title: 'Know Thyself: Unveiling Your Unique Strengths and Personality Traits'
 url: /know-thyself-unveiling-your-unique-strengths-and-personality-traits/
 ---

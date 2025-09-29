@@ -4,8 +4,8 @@ date: 2025-05-05
 draft: false
 url: /real-world-openfga-authorization-lessons/
 author: joshuapsteele
-tags: ["OpenFGA", "Zanzibar", "Authorization", "ReBAC", "Security"]
-categories: ["Software Engineering", "Architecture"]
+tags: ["openfga", "zanzibar", "authorization", "rebac", "security"]
+categories: ["software engineering", "architecture"]
 description: "Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I'd love to hear how you're managing models and authorization data at scale."
 ---
 

@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-10-16T14:14:20Z"
 guid: https://joshuapsteele.com/?p=41934
 id: 41934
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What are the most important theological terms that every Christian should know?
 url: /what-are-the-most-important-theological-terms-that-every-christian-should-know/
 ---

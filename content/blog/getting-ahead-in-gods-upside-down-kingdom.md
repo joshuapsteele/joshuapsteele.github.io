@@ -1,15 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2017-01-30T16:27:44Z"
 enclosure:
-- "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3\r\n19491761\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=4174
 id: 4174
-cover:
-    image: /wp-content/uploads/2017/01/pablo-12.png
 title: "Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently Pro-Life Ethic"
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
@@ -80,7 +77,7 @@ The world is a different context. The world follows different rules. And the wor
 
 In fact, and here’s my main point if you want to write it down:
 
-**Because God’s Kingdom is an “upside-down” Kingdom, getting ahead in the Kingdom of God will frequently look <span style="text-decoration: underline;">foolish</span> in the eyes of the world.**
+**Because God’s Kingdom is an “upside-down” Kingdom, getting ahead in the Kingdom of God will frequently look <u>foolish</u> in the eyes of the world.**
 
 ## God’s Upside-Down Kingdom – 1 Corinthians 1:18-31
 
@@ -179,7 +176,7 @@ But the danger is that we’ll try to get ahead on our own, in our own way. And 
 1. First, we won’t realize that **we desperately need a Savior**, and that **we cannot save ourselves**.
 2. Second, we will **ignore** the very **people** that God wants us to **care for** in order to really get ahead in his Kingdom!
 
-That is, <span style="text-decoration: underline;">on our own</span>, we’re going to focus on those at the **center** and **height** of **power**. You know, “The Winners.”
+That is, <u>on our own</u>, we’re going to focus on those at the **center** and **height** of **power**. You know, “The Winners.”
 
 But <u>God focuses</u> on those at the **bottom** and at the **borders**, the **edges** of society. You know, “The Losers.”
 

@@ -1,26 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- Dissertation
+  - bible
+  - "church and theology"
+  - dissertation
 date: "2019-07-31T15:44:49Z"
 guid: https://joshuapsteele.com/?p=41862
 id: 41862
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "989"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bible
-- Romans
+  - barth
+  - bible
+  - romans
 title: I think Karl Barth missed the (pastoral) point of Romans
 url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
 ---

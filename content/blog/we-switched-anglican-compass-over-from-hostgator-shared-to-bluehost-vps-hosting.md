@@ -1,18 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2020-05-16T15:28:17Z"
 guid: https://joshuapsteele.com/?p=42271
 id: 42271
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican Compass
+  - "anglican compass"
 title: We switched Anglican Compass over from HostGator Shared to Bluehost VPS Hosting
 url: /we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/
 ---

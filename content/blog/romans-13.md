@@ -1,14 +1,12 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- The Christian Life
+  - bible
+  - "church and theology"
+  - "the christian life"
 date: "2013-02-07T07:48:55Z"
 footnotes:
-- ""
 guid: http://windowinthesky.wordpress.com/?p=2097
 id: 2097
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly

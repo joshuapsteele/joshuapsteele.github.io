@@ -1,10 +1,9 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 custom_permalink:
-- deuteronomy-6/
 date: "2013-02-18T20:44:14Z"
 guid: https://joshuapsteele.com/?p=2217
 id: 2217

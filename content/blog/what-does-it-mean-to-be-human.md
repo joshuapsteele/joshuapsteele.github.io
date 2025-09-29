@@ -1,43 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2015-05-07T22:38:13Z"
 geo_public:
-- "0"
-- "0"
 guid: https://windowinthesky.wordpress.com/2015/05/07/what-does-it-mean-to-be-human/
 id: 3322
-cover:
-    image: /wp-content/uploads/2015/05/pablo-5.png
 publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
-- https://facebook.com/
-- https://facebook.com/
 publicize_twitter_url:
-- ""
-- ""
-- ""
-- ""
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- Do we know what it means to be human? On our own, we are left at the mercy of our
   desires. However, theology can ground anthropology. God personifies us.
-rank_math_focus_keyword:
-- human
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "69"
 title: What does it mean to be human?
 url: /what-does-it-mean-to-be-human/
 ---

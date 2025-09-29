@@ -1,26 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2016-08-26T20:30:34Z"
 guid: https://joshuapsteele.com/?p=3917
 id: 3917
-cover:
-    image: /wp-content/uploads/2016/08/pablo.png
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading
   List This Fall'
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/

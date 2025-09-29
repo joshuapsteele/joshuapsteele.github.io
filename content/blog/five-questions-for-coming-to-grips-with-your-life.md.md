@@ -3,12 +3,12 @@ date: "2024-11-13T16:50:14-05:00"
 title: 'Five Questions for Coming to Grips with Your Life'
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 tags:
-- 8020
-- questions
-- reading notes
-- Burkeman
+  - 8020
+  - questions
+  - "reading notes"
+  - burkeman
 url: /five-questions-for-coming-to-grips-with-your-life/
 ---
 

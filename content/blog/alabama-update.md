@@ -1,42 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2013-07-19T09:26:03Z"
 geo_public:
-- "0"
-- "0"
 guid: https://joshuapsteele.com/?p=2759
 id: 2759
-cover:
-    image: /wp-content/uploads/2017/01/001-9.jpg
 publicize_reach:
-- a:3:{s:7:"twitter";a:1:{i:1661606;i:438;}s:2:"fb";a:1:{i:1661609;i:678;}s:2:"wp";a:1:{i:0;i:33;}}
-- a:3:{s:7:"twitter";a:1:{i:1661606;i:438;}s:2:"fb";a:1:{i:1661609;i:678;}s:2:"wp";a:1:{i:0;i:33;}}
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- Here's an update from Rachel and me after moving from Cedarville, OH to Birmingham,
   AL! I'm getting ready to start coursework at Beeson Divinity School.
-rank_math_focus_keyword:
-- alabama
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "65"
-rank_math_title:
-- A Personal Update from Alabama - Joshua P. Steele
 tagazine-media:
-- a:7:{s:7:"primary";s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";s:6:"images";a:4:{s:93:"http://www.faithandleadership.com/sites/default/files/feature_images/BeesonHodgesChapel_m.jpg";a:6:{s:8:"file_url";s:93:"http://www.faithandleadership.com/sites/default/files/feature_images/BeesonHodgesChapel_m.jpg";s:5:"width";i:350;s:6:"height";i:233;s:4:"type";s:5:"image";s:4:"area";i:81550;s:9:"file_path";s:0:"";}s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";a:6:{s:8:"file_url";s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";s:5:"width";i:1585;s:6:"height";i:2378;s:4:"type";s:5:"image";s:4:"area";i:3769130;s:9:"file_path";s:0:"";}s:99:"http://assets.bakerpublishinggroup.com/processed/books/covers/original/9781441251091.jpg?1372396212";a:6:{s:8:"file_url";s:99:"http://assets.bakerpublishinggroup.com/processed/books/covers/original/9781441251091.jpg?1372396212";s:5:"width";i:1050;s:6:"height";i:1623;s:4:"type";s:5:"image";s:4:"area";i:1704150;s:9:"file_path";s:0:"";}s:84:"http://www.ibtauris.com/~/media/Images/Book%20Covers/Christianity/9781780760667.ashx";a:6:{s:8:"file_url";s:84:"http://www.ibtauris.com/~/media/Images/Book%20Covers/Christianity/9781780760667.ashx";s:5:"width";i:265;s:6:"height";i:400;s:4:"type";s:5:"image";s:4:"area";i:106000;s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";i:4;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-07-19
   13:26:03";}
-- a:7:{s:7:"primary";s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";s:6:"images";a:4:{s:93:"http://www.faithandleadership.com/sites/default/files/feature_images/BeesonHodgesChapel_m.jpg";a:6:{s:8:"file_url";s:93:"http://www.faithandleadership.com/sites/default/files/feature_images/BeesonHodgesChapel_m.jpg";s:5:"width";i:350;s:6:"height";i:233;s:4:"type";s:5:"image";s:4:"area";i:81550;s:9:"file_path";s:0:"";}s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";a:6:{s:8:"file_url";s:64:"http://indiereader.com/wp-content/uploads/2012/12/life-of-pi.jpg";s:5:"width";i:1585;s:6:"height";i:2378;s:4:"type";s:5:"image";s:4:"area";i:3769130;s:9:"file_path";s:0:"";}s:99:"http://assets.bakerpublishinggroup.com/processed/books/covers/original/9781441251091.jpg?1372396212";a:6:{s:8:"file_url";s:99:"http://assets.bakerpublishinggroup.com/processed/books/covers/original/9781441251091.jpg?1372396212";s:5:"width";i:1050;s:6:"height";i:1623;s:4:"type";s:5:"image";s:4:"area";i:1704150;s:9:"file_path";s:0:"";}s:84:"http://www.ibtauris.com/~/media/Images/Book%20Covers/Christianity/9781780760667.ashx";a:6:{s:8:"file_url";s:84:"http://www.ibtauris.com/~/media/Images/Book%20Covers/Christianity/9781780760667.ashx";s:5:"width";i:265;s:6:"height";i:400;s:4:"type";s:5:"image";s:4:"area";i:106000;s:9:"file_path";s:0:"";}}s:6:"videos";a:0:{}s:11:"image_count";i:4;s:6:"author";s:7:"4584812";s:7:"blog_id";s:7:"4349442";s:9:"mod_stamp";s:19:"2013-07-19
   13:26:03";}
 title: Alabama Update
 url: /20130719alabama-update/

@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-29T17:46:15Z"
 guid: https://joshuapsteele.com/?p=41708
 id: 41708
 tags:
-- Barth
-- Bible
+  - barth
+  - bible
 title: Barth, the Bible, and "What we ought to do"
 url: /barth-the-bible-and-what-we-ought-to-do/
 ---

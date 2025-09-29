@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2020-05-21T20:21:06Z"
 guid: https://joshuapsteele.com/?p=42279
 id: 42279
 tags:
-- Anglican
-- Anglican Compass
-- women's ordination
+  - anglican
+  - "anglican compass"
+  - "women's ordination"
 title: Don't Stir the Pot?
 url: /dont-stir-the-pot/
 ---

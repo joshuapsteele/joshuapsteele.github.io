@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2019-03-07T17:32:24Z"
 guid: https://joshuapsteele.com/?p=41748
 id: 41748
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Let's learn how to be bored again
 url: /lets-learn-how-to-be-bored-again/
 ---

@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-03-02T21:35:28Z"
 guid: https://joshuapsteele.com/?p=42205
 id: 42205
 tags:
-- book of common prayer
+  - "book of common prayer"
 title: 12 Prayers for Tough Days
 url: /12-prayers-for-tough-days/
 ---

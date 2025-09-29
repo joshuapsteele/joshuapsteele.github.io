@@ -4,7 +4,7 @@ date: 2025-06-14T10:00:12-04:00
 draft: false
 author: joshuapsteele
 tags: [theology, politics, poetry]
-categories: [Theology]
+categories: [theology]
 showToc: false
 TocOpen: false
 url: /no-kings/

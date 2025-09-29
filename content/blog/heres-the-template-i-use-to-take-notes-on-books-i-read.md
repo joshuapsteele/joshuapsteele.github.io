@@ -1,17 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
-- Productivity and Time Management
+  - dissertation
+  - "productivity and time management"
 date: "2018-09-06T19:41:44Z"
 guid: https://joshuapsteele.com/?p=41374
 id: 41374
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Here's the Template I Use to Take Notes on Books I Read
 url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
 ---

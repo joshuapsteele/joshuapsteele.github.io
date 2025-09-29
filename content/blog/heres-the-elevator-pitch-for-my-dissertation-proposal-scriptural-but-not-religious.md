@@ -1,16 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2018-04-17T21:30:36Z"
 guid: https://joshuapsteele.com/?p=41208
 id: 41208
-cover:
-    image: /wp-content/uploads/2018/04/pablo-1.png
 tags:
-- Barth
-- Bible
-- Bonhoeffer
+  - barth
+  - bible
+  - bonhoeffer
 title: "Here's the Elevator Pitch for my Dissertation Proposal: 'Scriptural,
   but Not Religious'"
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/

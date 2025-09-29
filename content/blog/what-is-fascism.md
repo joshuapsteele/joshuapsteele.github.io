@@ -4,7 +4,7 @@ date: 2025-09-22T10:15:00-04:00
 draft: false
 author: joshuapsteele
 tags: [fascism, authoritarianism]
-categories: [Politics]
+categories: [politics]
 showToc: true
 url: /what-is-fascism/
 ---

@@ -1,26 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- Dissertation
+  - bible
+  - "church and theology"
+  - dissertation
 date: "2019-08-08T14:38:43Z"
 guid: https://joshuapsteele.com/?p=41871
 id: 41871
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "989"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bible
-- Romans
+  - barth
+  - bible
+  - romans
 title: 'The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading
   of Romans 9:30–10:21'
 url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/

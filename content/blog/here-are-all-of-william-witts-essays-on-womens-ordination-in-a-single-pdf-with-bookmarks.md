@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-09-26T15:28:25Z"
 guid: https://joshuapsteele.com/?p=41918
 id: 41918
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Here are all of William Witt's essays on Women's ordination, in
   a single PDF (with bookmarks!)
 url: /here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/

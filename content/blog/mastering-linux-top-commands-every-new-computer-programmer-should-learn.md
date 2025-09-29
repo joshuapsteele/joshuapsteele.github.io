@@ -1,22 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2023-03-16T17:37:01Z"
 guid: https://joshuapsteele.com/?p=42784
 id: 42784
-cover:
-    image: /wp-content/uploads/2023/03/penguin-funny-blue-water-86405-1568x1045.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- linux
-- programming
-- software engineering
+  - linux
+  - programming
+  - "software engineering"
 title: 'Mastering Linux: Top Commands Every New Computer Programmer Should Learn'
 url: /mastering-linux-top-commands-every-new-computer-programmer-should-learn/
 ---

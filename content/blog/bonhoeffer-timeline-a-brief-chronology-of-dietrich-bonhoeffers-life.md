@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-11-12T15:21:09Z"
 guid: https://joshuapsteele.com/?p=42011
 id: 42011
 tags:
-- Bonhoeffer
+  - bonhoeffer
 title: "Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life"
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
 ---

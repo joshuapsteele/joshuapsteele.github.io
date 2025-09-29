@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2018-08-09T15:56:09Z"
 guid: https://joshuapsteele.com/?p=41336
 id: 41336
-cover:
-    image: /wp-content/uploads/2018/08/IMG_0100.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Eva Joy Steele: A Birth Story'
 url: /eva-joy-steele-a-birth-story/
 ---

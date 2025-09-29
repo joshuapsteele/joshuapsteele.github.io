@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2019-11-19T15:26:29Z"
 guid: https://joshuapsteele.com/?p=42060
 id: 42060
 tags:
-- 8020
-- reading notes
-- how to think
+  - 8020
+  - "reading notes"
+  - "how to think"
 title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
 ---

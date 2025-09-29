@@ -1,28 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
-- Church and Theology
+  - uncategorized
+  - "church and theology"
 date: "2019-09-03T15:06:21Z"
 footnotes:
-- ""
 guid: https://joshuapsteele.com/?p=41897
 id: 41897
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"0a9560af1a17ad2170bbf557bb5ffb35";s:6:"images";a:1:{i:0;i:41899;}}
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "23"
 tags:
-- Barth
-- research
+  - barth
+  - research
 title: An Outline of Karl Barth's Church Dogmatics
 url: /an-outline-of-karl-barths-church-dogmatics/
 ---

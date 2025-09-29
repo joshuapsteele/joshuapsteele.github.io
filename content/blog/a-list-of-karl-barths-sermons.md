@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-26T16:57:52Z"
 guid: https://joshuapsteele.com/?p=41702
 id: 41702
 tags:
-- Barth
-- Bible
-- research
+  - barth
+  - bible
+  - research
 title: A List of Karl Barth's Sermons
 url: /a-list-of-karl-barths-sermons/
 ---

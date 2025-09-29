@@ -1,27 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
+  - bible
 date: "2013-12-15T09:20:56Z"
 guid: https://joshuapsteele.com/?p=3089
 id: 3089
 publicize_facebook_url:
-- https://facebook.com/10153551534940316
-- https://facebook.com/10153551534940316
 publicize_twitter_url:
-- http://t.co/hfU2Xk7H79
-- http://t.co/hfU2Xk7H79
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"501b2d7778a7b2b13513101defe86a72";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: The Perfect Translation
 url: /the-perfect-translation/
 ---

@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-06-19T03:06:10Z"
 guid: https://joshuapsteele.com/?p=42318
 id: 42318
 tags:
-- collect
-- juneteenth
-- prayer
+  - collect
+  - juneteenth
+  - prayer
 title: A Collect for Juneteenth
 url: /a-collect-for-juneteenth/
 ---

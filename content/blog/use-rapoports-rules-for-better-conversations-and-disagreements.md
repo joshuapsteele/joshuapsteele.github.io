@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
-- The Christian Life
+  - personal
+  - "productivity and time management"
+  - "the christian life"
 tags:
-- 8020
-- reading notes
+  - 8020
+  - "reading notes"
 date: "2019-02-23T17:06:02Z"
 guid: https://joshuapsteele.com/?p=41724
 id: 41724

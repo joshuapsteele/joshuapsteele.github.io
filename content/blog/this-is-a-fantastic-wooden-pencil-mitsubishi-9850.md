@@ -1,21 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-11-22T17:00:05Z"
 format: aside
 guid: https://joshuapsteele.com/?p=41450
 id: 41450
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"e78b0c3aa68ef193c048a8de647d1e6d";s:6:"images";a:1:{i:0;s:176:"//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001BKZVWU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=joshuapsteele-20&language=en_US";}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- writing
+  - writing
 title: This is a fantastic wooden pencil (Mitsubishi 9850)
 url: /this-is-a-fantastic-wooden-pencil-mitsubishi-9850/
 ---

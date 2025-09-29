@@ -1,16 +1,13 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2024-09-24T08:51:00Z"
 guid: https://joshuapsteele.com/?p=43072
 id: 43072
-cover:
-    image: /wp-content/uploads/2024/09/pexels-photo-236164-1568x1045.jpeg
 tags:
-- parenting
+  - parenting
 title: I Love My Kids, But I Sometimes Regret Having Them
 url: /i-love-my-kids-but-i-sometimes-regret-having-them/
 ---

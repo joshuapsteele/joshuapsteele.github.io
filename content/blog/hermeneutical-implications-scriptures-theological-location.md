@@ -1,21 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2017-12-09T15:22:06Z"
 guid: https://joshuapsteele.com/?p=40055
 id: 40055
-cover:
-    image: /wp-content/uploads/2017/12/paul-skorupskas-59950-1200x800.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "909"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: The Hermeneutical Implications of Scripture's Theological Location
 url: /hermeneutical-implications-scriptures-theological-location/
 ---

@@ -1,22 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2023-03-09T14:10:31Z"
 guid: https://joshuapsteele.com/?p=42780
 id: 42780
-cover:
-    image: /wp-content/uploads/2023/03/pexels-photo-208494-1568x1146.jpeg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- software
-- software engineering
-- technology
+  - software
+  - "software engineering"
+  - technology
 title: 'Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student'
 url: /ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/
 ---

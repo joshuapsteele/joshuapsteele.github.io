@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2020-11-10T21:07:25Z"
 guid: https://joshuapsteele.com/?p=42416
 id: 42416
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: I'm looking for a new role to supplement my part-time work for Anglican
   Compass
 url: /im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/

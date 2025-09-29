@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2016-05-28T16:44:59Z"
 guid: https://joshuapsteele.com/?p=3858
 id: 3858
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"025a5a8f7b6c690025e320d9aaa3781f";s:6:"images";a:1:{i:0;i:3857;}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Let's Take Seth Godin to Church
 url: /lets-take-seth-godin-to-church/
 ---
@@ -40,7 +32,7 @@ So, Godin advises us to become linchpins in whatever industry we find ourselves.
 
 We must be able to figure out what to do next, without it being spelled out for us in an instruction manual.
 
-## OK, great. But what does this have to do with <span style="text-decoration: underline;">**CHURCH**</span>?
+## OK, great. But what does this have to do with <u>**CHURCH**</u>?
 
 ##### **I believe pastors are uniquely situated to be linchpins.**
 

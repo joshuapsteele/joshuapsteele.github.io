@@ -3,9 +3,9 @@ date: '2025-03-07T09:16:56-05:00'
 title: "Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify"
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 tags:
-- authorization
+  - authorization
 url: /authorization-continued/
 ---
 

@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2018-07-13T14:36:54Z"
 guid: https://joshuapsteele.com/?p=41303
 id: 41303
-cover:
-    image: /wp-content/uploads/2018/07/john-towner-126000-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What Theologians (Should) Do
 url: /what-theologians-should-do/
 ---

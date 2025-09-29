@@ -1,17 +1,14 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2024-03-11T21:15:17Z"
 guid: https://joshuapsteele.com/?p=42953
 id: 42953
-cover:
-    image: /wp-content/uploads/2024/03/pexels-photo-1552252-1568x1042.jpeg
 tags:
-- home gym
-- weightlifting
+  - "home gym"
+  - weightlifting
 title: Home Gym Upgrades
 url: /home-gym-upgrades/
 ---

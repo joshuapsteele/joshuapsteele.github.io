@@ -1,28 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 date: "2013-12-13T17:46:29Z"
 guid: https://joshuapsteele.com/?p=3080
 id: 3080
-cover:
-    image: /wp-content/uploads/2013/12/pablo-1.png
 publicize_facebook_url:
-- https://facebook.com/10153544887990316
-- https://facebook.com/10153544887990316
 publicize_twitter_url:
-- http://t.co/37Qu7qdCs9
-- http://t.co/37Qu7qdCs9
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'The Epistle to Philemon: Analysis and Application'
 url: /the-epistle-to-philemon/
 ---

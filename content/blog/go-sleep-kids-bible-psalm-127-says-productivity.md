@@ -1,24 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
-- Bible
+  - "productivity and time management"
+  - bible
 date: "2018-02-28T12:51:21Z"
 guid: https://joshuapsteele.com/?p=41110
 id: 41110
-cover:
-    image: /wp-content/uploads/2018/02/tim-bish-171738-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity'
 total_sidebar_layout:
-- right_sidebar
 url: /go-sleep-kids-bible-psalm-127-says-productivity/
 ---
 

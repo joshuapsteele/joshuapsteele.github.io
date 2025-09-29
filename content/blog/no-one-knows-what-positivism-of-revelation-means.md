@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-11-14T02:54:59Z"
 guid: https://joshuapsteele.com/?p=42039
 id: 42039
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: No One Knows what "Positivism of Revelation" Means!
 url: /no-one-knows-what-positivism-of-revelation-means/
 ---

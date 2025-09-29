@@ -1,20 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-10-03T08:27:35Z"
 guid: https://joshuapsteele.com/?p=3445
 id: 3445
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Faithful Faith in a Faithful God: Romans 1.1-17'
 url: /faithful-faith-in-a-faithful-god-romans-1-1-17/
 ---

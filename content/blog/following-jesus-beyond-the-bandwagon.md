@@ -1,19 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2016-09-12T22:34:54Z"
 guid: https://joshuapsteele.com/?p=3932
 id: 3932
-cover:
-    image: /wp-content/uploads/2016/09/pablo-5.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Following Jesus Beyond the Bandwagon
 url: /following-jesus-beyond-the-bandwagon/
 ---
@@ -45,7 +37,7 @@ I’m from Toledo, OH, which is on the border with Michigan, so the fan split wa
 
 And each year, on the day after the big game, you could tell who the true fans were…
 
-It was the people still cheering for the team that <span style="text-decoration: underline;">***lost***</span>.
+It was the people still cheering for the team that <u>***lost***</u>.
 
 Why not the winning fans? Weren’t they just as legit?
 
@@ -72,7 +64,7 @@ We ride the bandwagon when it comes to:
 
 We ride bandwagons when it comes to our friends. Our hobbies.
 
-And, if we’re really honest with ourselves, our <span style="text-decoration: underline;">faith</span>.
+And, if we’re really honest with ourselves, our <u>faith</u>.
 
 ## We are Bandwagon Christians
 

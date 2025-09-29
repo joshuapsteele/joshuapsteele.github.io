@@ -1,18 +1,15 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2024-03-18T20:49:57Z"
 guid: https://joshuapsteele.com/?p=42966
 id: 42966
-cover:
-    image: /wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg
 tags:
-- easter
-- holy week
-- resurrection
+  - easter
+  - "holy week"
+  - resurrection
 title: Death in His Grave
 url: /death-in-his-grave/
 ---
@@ -27,7 +24,7 @@ But I don’t think I fully appreciated the image until I realized it was Adam a
 
 Second, I’ve long appreciated “Death in His Grave” by John Mark McMillan as a reflection on the crucifixion and resurrection.
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/jSTKbmNY1WA?feature=oembed" title="John Mark McMillan - Death In His Grave (Live) ft. Bryan Torwalt" width="750"></iframe></div></figure>## “Death in His Grave” 
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/jSTKbmNY1WA?feature=oembed" title="John Mark McMillan - Death In His Grave (Live) ft. Bryan Torwalt" width="750"></iframe>## “Death in His Grave” 
 
 By John Mark McMillan
 

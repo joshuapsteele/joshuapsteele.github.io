@@ -1,25 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2013-11-29T16:09:57Z"
 guid: https://joshuapsteele.com/?p=3045
 id: 3045
 publicize_facebook_url:
-- https://facebook.com/10153492239065316
-- https://facebook.com/10153492239065316
 publicize_twitter_url:
-- http://t.co/nUoJ7zzYu8
-- http://t.co/nUoJ7zzYu8
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Black Friday Book Recommendation: The Economy of Desire'
 url: /black-friday-book-recommendation-the-economy-of-desire/
 ---

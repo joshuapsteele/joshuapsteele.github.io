@@ -1,23 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2019-10-18T13:33:03Z"
 guid: https://joshuapsteele.com/?p=41939
 id: 41939
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bonhoeffer
+  - bonhoeffer
 title: Two of Bonhoeffer's Most Convicting Paragraphs
 url: /two-of-bonhoeffers-most-convicting-paragraphs/
 ---

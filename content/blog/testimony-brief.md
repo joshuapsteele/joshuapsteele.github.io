@@ -1,27 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 custom_permalink:
-- testimony-brief/
 date: "2017-08-07T07:00:36Z"
 guid: https://joshuapsteele.com/?p=39977
 id: 39977
-cover:
-    image: /wp-content/uploads/2017/08/pablo-4.png
-rank_math_description:
-- My attempt to tell my testimony, the story of my Christian faith, in approximately
   500 words. Knowing Jesus is not the same as knowing about him!
-rank_math_focus_keyword:
-- Testimony
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "73"
 title: 'Testimony: A Faith Story, In Brief'
 url: /testimony-brief/
 ---

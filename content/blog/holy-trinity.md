@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2013-11-04T21:14:47Z"
 guid: https://joshuapsteele.com/?p=2986
 id: 2986

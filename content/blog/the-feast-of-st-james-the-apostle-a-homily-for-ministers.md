@@ -1,19 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2016-07-25T22:18:51Z"
 guid: https://joshuapsteele.com/?p=3909
 id: 3909
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"c0fb3c0b4a8c237609a021ae78e0038a";s:6:"images";a:1:{i:0;i:3910;}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'The Feast of St. James the Apostle: A Homily for Ministers'
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 ---
@@ -38,15 +30,15 @@ And, even more famously, they approached Jesus with the following request in Mar
 
 ## Princes? Or Fishermen?
 
-Now, their request is, in effect: **“O King Jesus, would you please make us <span style="text-decoration: underline;">princes</span>?”**
+Now, their request is, in effect: **“O King Jesus, would you please make us <u>princes</u>?”**
 
 And, granted, this is *Apocryphal*, but I imagine Jesus putting his arms around them and saying the following:
 
 > “Princes? Princes?! Boys, if I had wanted princes, I would have called princes! But, I don’t need **princes**!
 > 
-> No, no, no. What I need are new **fishermen**! And that’s why I’ve called **<span style="text-decoration: underline;">you</span>**!”
+> No, no, no. What I need are new **fishermen**! And that’s why I’ve called **<u>you</u>**!”
 
-You see, **James had been hoping for a new <span style="text-decoration: underline;">position</span>. And instead he received his <span style="text-decoration: underline;">old profession</span> – <span style="text-decoration: underline;">transformed</span>!**
+You see, **James had been hoping for a new <u>position</u>. And instead he received his <u>old profession</u> – <u>transformed</u>!**
 
 ### James was no longer to be a mere fisherman, but a fisher of men.
 
@@ -72,7 +64,7 @@ Here’s Jesus’ actual answer to the “prince” request:
 
 Now, granted, this isn’t one of the assigned lectionary passages for today, but I’d like us to look at the beginning of Acts 12:
 
-> About that time Herod the king laid violent hands on some who belonged to the church. <span style="text-decoration: underline;">He killed James the brother of John with the sword</span>, and when he saw that it pleased the Jews, he proceeded to arrest Peter also.
+> About that time Herod the king laid violent hands on some who belonged to the church. <u>He killed James the brother of John with the sword</u>, and when he saw that it pleased the Jews, he proceeded to arrest Peter also.
 
 **Swept aside, in just one verse!** I doubt that sort of an abrupt, violent end awaited most of the fishermen working for Zebedee’s family business.
 

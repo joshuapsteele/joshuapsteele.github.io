@@ -1,28 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2014-03-07T15:11:52Z"
 guid: https://joshuapsteele.com/?p=3157
 id: 3157
 publicize_facebook_url:
-- https://facebook.com/10153833119990316
-- https://facebook.com/10153833119990316
 publicize_twitter_url:
-- http://t.co/Fi8iBI4uCf
-- http://t.co/Fi8iBI4uCf
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"83e31c590e2850878c29d726ec370c42";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'My Regional ETS Presentation: Reconciliation and the Lack Thereof'
 url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
 ---

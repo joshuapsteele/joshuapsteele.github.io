@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2018-08-16T15:11:12Z"
 guid: https://joshuapsteele.com/?p=41363
 id: 41363
 tags:
-- questions
-- reading
+  - questions
+  - reading
 title: 8 Questions to Ask While Reading Theology
 url: /8-questions-to-ask-while-reading-theology/
 ---

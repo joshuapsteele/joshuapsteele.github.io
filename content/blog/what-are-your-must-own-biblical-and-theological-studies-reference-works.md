@@ -1,17 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2019-04-10T21:30:46Z"
 guid: https://joshuapsteele.com/?p=41768
 id: 41768
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What are your "must-own" biblical and theological studies reference
   works?
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/

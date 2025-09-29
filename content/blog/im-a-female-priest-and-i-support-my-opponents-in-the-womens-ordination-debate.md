@@ -1,29 +1,17 @@
 ---
 author: Hannah King
 avada_post_views_count:
-- "617"
 avada_post_views_count_today_date:
-- 12-05-2022
 avada_today_post_views_count:
-- "5"
 categories:
-- Opinion
+  - opinion
 date: "2020-07-02T06:00:53Z"
 fusion_builder_status:
-- ""
 guid: https://anglicancompass.com/?p=22687
 id: 22687
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1131"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican Compass
-- women's ordination
+  - "anglican compass"
+  - "women's ordination"
 title: I'm a Female Priest and I Support My Opponents in the Women's Ordination
   Debate
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/

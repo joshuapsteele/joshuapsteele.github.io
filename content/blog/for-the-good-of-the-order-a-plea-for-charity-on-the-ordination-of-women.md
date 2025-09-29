@@ -1,29 +1,17 @@
 ---
 author: Tara Jernigan
 avada_post_views_count:
-- "411"
 avada_post_views_count_today_date:
-- 12-05-2022
 avada_today_post_views_count:
-- "5"
 categories:
-- Opinion
+  - opinion
 date: "2020-07-01T06:00:08Z"
 fusion_builder_status:
-- ""
 guid: https://anglicancompass.com/?p=22680
 id: 22680
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1131"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican Compass
-- women's ordination
+  - "anglican compass"
+  - "women's ordination"
 title: 'For the Good of the Order: A Plea for Charity on the Ordination of Women'
 url: /for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/
 ---

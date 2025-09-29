@@ -1,25 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2013-10-23T08:13:38Z"
 guid: https://joshuapsteele.com/?p=2931
 id: 2931
 publicize_facebook_url:
-- https://facebook.com/759340315_10153330857560316
-- https://facebook.com/759340315_10153330857560316
 publicize_twitter_url:
-- http://t.co/TzbOAu5UG1
-- http://t.co/TzbOAu5UG1
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Miroslav Volf on Divine Violence
 url: /volf-on-divine-violence/
 ---

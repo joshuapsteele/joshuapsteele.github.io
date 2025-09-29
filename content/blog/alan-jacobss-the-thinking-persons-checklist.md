@@ -1,21 +1,21 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2019-11-18T15:03:16Z"
 guid: https://joshuapsteele.com/?p=42056
 id: 42056
 tags:
-- 8020
-- reading notes
-- how to think
+  - 8020
+  - "reading notes"
+  - "how to think"
 title: Alan Jacobs’s “The Thinking Person’s Checklist”
 url: /alan-jacobss-the-thinking-persons-checklist/
 ---
 
 The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, [*How to Think: A Survival Guide for a World at Odds*](https://amzn.to/33TtBRv) (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, [“Help me come up with ‘rules for conversation’!”](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/)).
 
-<figure class="wp-block-embed-amazon-kindle wp-block-embed is-type-rich is-provider-amazon"><div class="wp-block-embed__wrapper"><iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_Eii2WAqN2ej4WE&asin=0451499603&tag=joshuapsteele-20" style="max-width:100%" title="How to Think: A Survival Guide for a World at Odds" type="text/html" width="750"></iframe></div></figure>Emphasis added in **bold**.
+<iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_Eii2WAqN2ej4WE&asin=0451499603&tag=joshuapsteele-20" style="max-width:100%" title="How to Think: A Survival Guide for a World at Odds" type="text/html" width="750"></iframe>Emphasis added in **bold**.
 
 1. **When faced with provocation to respond to what someone has said, give it five minutes**. Take a walk, or weed the garden, or chop some vegetables. Get your body involved: your body knows the rhythms to live by, and if your mind falls into your body’s rhythm, you’ll have a better chance of thinking.
 2. **Value learning over debating**. Don’t “talk for victory.”

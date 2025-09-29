@@ -3,7 +3,7 @@ title: 'Against Christian Misanthropy: Why Following Jesus Means Embracing Human
 date: 2025-08-06T08:48:28-04:00
 draft: false
 author: joshuapsteele
-tags: [humanism, misanthropy, christian nationalism]
+tags: [humanism, misanthropy, "christian nationalism"]
 categories: [theology]
 showToc: false
 url: /against-christian-misanthropy

@@ -1,31 +1,19 @@
 ---
 author: joshuapsteele
 categories:
-- Sermons
-- Uncategorized
+  - sermons
+  - uncategorized
 custom_permalink:
-- ""
 date: "2020-11-28T00:22:13Z"
 enclosure:
-- |
   https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3
   15093155
   audio/mpeg
 guid: https://joshuapsteele.com/?p=42427
 id: 42427
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "5"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- advent
-- isaiah
+  - advent
+  - isaiah
 title: Why Haven’t You Torn The Sky Open Yet?
 url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
 ---

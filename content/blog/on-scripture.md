@@ -1,13 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 date: "2013-10-02T13:01:12Z"
 guid: https://joshuapsteele.com/?p=2868
 id: 2868
-cover:
-    image: /wp-content/uploads/2013/10/pablo-6.png
 title: 'Scripture: What The Bible Is And Why It Matters'
 url: /on-scripture/
 ---

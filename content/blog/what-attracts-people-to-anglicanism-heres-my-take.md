@@ -1,21 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2018-06-27T21:02:31Z"
 guid: https://joshuapsteele.com/?p=41285
 id: 41285
-cover:
-    image: /wp-content/uploads/2018/06/joseph-pearson-411286-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican
+  - anglican
 title: What Attracts People to Anglicanism? Here's My Take
 url: /what-attracts-people-to-anglicanism-heres-my-take/
 ---

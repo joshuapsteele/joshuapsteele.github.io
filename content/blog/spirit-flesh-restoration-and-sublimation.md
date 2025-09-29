@@ -3,17 +3,11 @@ author: joshuapsteele
 date: "2019-01-22T18:25:42Z"
 guid: https://joshuapsteele.com/?p=41579
 id: 41579
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
-- writing
+  - barth
+  - bonhoeffer
+  - research
+  - writing
 title: Spirit, Flesh, Restoration, and Sublimation
 url: /spirit-flesh-restoration-and-sublimation/
 ---

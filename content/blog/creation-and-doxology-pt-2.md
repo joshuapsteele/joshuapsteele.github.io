@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2012-09-17T20:19:17Z"
 guid: http://windowinthesky.wordpress.com/?p=1432
 id: 1432

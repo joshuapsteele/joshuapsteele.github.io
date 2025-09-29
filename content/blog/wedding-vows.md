@@ -1,9 +1,9 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 tags:
-- poetry
+  - poetry
 date: "2012-08-14T20:20:39Z"
 guid: http://windowinthesky.wordpress.com/?p=1412
 id: 1412

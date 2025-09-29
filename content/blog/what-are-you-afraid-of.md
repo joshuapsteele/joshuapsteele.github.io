@@ -1,19 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2016-05-27T20:02:19Z"
 guid: https://joshuapsteele.com/?p=3837
 id: 3837
-cover:
-    image: /wp-content/uploads/2016/05/pablo-2.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What are you afraid of?
 url: /what-are-you-afraid-of/
 ---
@@ -28,7 +20,7 @@ Fear drives so many aspects of our lives – from how we dress, to how we raise 
 
 For example, perhaps we worship God out of a fear of going to hell, or a fear of our inherited religion being wrong. We secretly worry that, like Donald Miller’s father accuses him in the movie [Blue Like Jazz](http://www.imdb.com/title/tt1758575/quotes?item=qt1678309), we “***only believe that stuff ‘cuz \[we\]’re afraid to hang out with people that don’t***.”
 
-Or perhaps we <span style="text-decoration: underline;">don’t</span> worship God – and instead worship a god of our choice/invention – because we’re afraid of the implications of God’s existence.
+Or perhaps we <u>don’t</u> worship God – and instead worship a god of our choice/invention – because we’re afraid of the implications of God’s existence.
 
 Now, there is, I’m persuaded, a holy fear. A salutary reverence and awe in the face of the divine.
 

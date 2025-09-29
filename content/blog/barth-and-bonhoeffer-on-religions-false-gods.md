@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-18T19:08:38Z"
 guid: https://joshuapsteele.com/?p=41567
 id: 41567
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: Barth and Bonhoeffer on Religion's False God(s)
 url: /barth-and-bonhoeffer-on-religions-false-gods/
 ---

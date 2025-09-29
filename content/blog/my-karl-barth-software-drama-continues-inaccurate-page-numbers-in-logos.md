@@ -1,24 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2018-12-11T16:12:55Z"
 format: aside
 guid: https://joshuapsteele.com/?p=41510
 id: 41510
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"d533790f385eac80f6a05b4774830bc5";s:6:"images";a:1:{i:0;i:41512;}}
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- research
+  - barth
+  - research
 title: 'My Karl Barth Software Drama Continues: Inaccurate Page Numbers in Logos'
 url: /my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos/
 ---

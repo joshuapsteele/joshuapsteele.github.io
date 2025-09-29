@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-06-20T17:01:31Z"
 guid: https://joshuapsteele.com/?p=42321
 id: 42321
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bible
-- racism
-- theology
+  - bible
+  - racism
+  - theology
 title: Help! I’m looking for the best Christian resources on the Bible, social justice,
   racism, Critical Race Theory, and Marxism
 url: /help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/

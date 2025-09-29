@@ -1,17 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
-- Personal
+  - dissertation
+  - personal
 date: "2020-11-25T18:09:02Z"
 guid: https://joshuapsteele.com/?p=42425
 id: 42425
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: It's Official. I'm Hitting Pause on My Ph.D. for a Year
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
 ---

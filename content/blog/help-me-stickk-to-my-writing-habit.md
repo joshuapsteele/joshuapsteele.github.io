@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2019-01-08T14:44:09Z"
 guid: https://joshuapsteele.com/?p=41551
 id: 41551
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- research
-- writing
+  - research
+  - writing
 title: Help me StickK to my writing habit
 url: /help-me-stickk-to-my-writing-habit/
 ---

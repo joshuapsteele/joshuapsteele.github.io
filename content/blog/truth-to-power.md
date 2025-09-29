@@ -1,14 +1,13 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2024-03-06T12:06:43Z"
 guid: https://joshuapsteele.com/?p=42937
 id: 42937
 tags:
-- drafts
+  - drafts
 title: Truth to Power
 url: /truth-to-power/
 ---

@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2012-09-21T07:00:39Z"
 guid: http://windowinthesky.wordpress.com/?p=1474
 id: 1474
@@ -20,7 +20,7 @@ url: /cedarville-let-there-be-light-pt-2/
 - Do all members of the Board of Trustees agree with “each and every position of Cedarville University’s Doctrinal Statement” in the way Dr. Pahl was expected to in order to still be allowed to teach? 
     - If he was dismissed, despite the apparent alignment of his personal views and those expressed in his writing to the Doctrinal Statement, is there a possibility that some of the trustees should also be dismissed according to such strict standards?
 - Was Dr. Pahl dismissed for something that wrote which contradicts the Doctrinal Statement? If so, what was it exactly that he wrote? (I have been unable to find anything in *The Beginning and the End*)
-- If Dr. Pahl was not fired for something he wrote, was he fired for something that he <span style="text-decoration:underline;">*didn’t* </span>write? Again, if so, what was it exactly that he didn’t affirm?
+- If Dr. Pahl was not fired for something he wrote, was he fired for something that he <u>*didn’t* </u>write? Again, if so, what was it exactly that he didn’t affirm?
 - Furthermore, is firing someone for not affirming something fair? Are all professors required to affirm the Doctrinal Statement in its entirety in everything they write and/or publish?
 - What is the administration’s vision for the future of the Bible Department at Cedarville University?
 - How does firing an orthodox, promising scholar who is committed to Scripture and to the gospel help to achieve that vision?

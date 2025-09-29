@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2023-07-03T21:08:09Z"
 guid: https://joshuapsteele.com/?p=42816
 id: 42816
 tags:
-- books
-- reviews
+  - books
+  - reviews
 title: 'Essential Reads for New Software Developers: The Effective Engineer and The
   Missing README'
 url: /essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/

@@ -1,40 +1,32 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-09-22T21:26:20Z"
 excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
 guid: https://joshuapsteele.com/?p=3442
 id: 3442
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'The Prodigal Son, Part 2: Introduction to Romans'
 url: /the-prodigal-son-part-2-introduction-to-romans/
 ---
 
-What a <span style="text-decoration:underline;">relief</span>, to get out of that house.
+What a <u>relief</u>, to get out of that house.
 
 Ordinarily, Jude would have scoffed at his father’s request to purchase farming equipment from the next city – a three-day journey! But ever since Ethan, that rascal (you might even say that prodigal) brother of his, had returned, Jude could not stand to be in either man’s presence for long.
 
 So he relished the chance to forget about his family tension on this farming errand. But now he was almost home, and the painful thoughts came rushing back.
 
-“Dad has ***changed***. Perhaps it was early-onset dementia that caused him to forget the blessed closeness of our years together, alone, when I was not just the firstborn, but the <span style="text-decoration:underline;">only</span> son.
+“Dad has ***changed***. Perhaps it was early-onset dementia that caused him to forget the blessed closeness of our years together, alone, when I was not just the firstborn, but the <u>only</u> son.
 
-Sure, I had never been perfect, but I thought that my father was finally <span style="text-decoration:underline;">proud</span> of me. That, after years of hard lessons learned, I had become the man he wanted me to be.
+Sure, I had never been perfect, but I thought that my father was finally <u>proud</u> of me. That, after years of hard lessons learned, I had become the man he wanted me to be.
 
 And then Ethan threw it all away.
 
-Actually, you know what, as it that weren’t bad enough, dad threw it all away…<span style="text-decoration:underline;">for</span> Ethan!
+Actually, you know what, as it that weren’t bad enough, dad threw it all away…<u>for</u> Ethan!
 
-He received <span style="text-decoration:underline;">much</span> more love than I ever did. I used to get punished for much slighter infractions than throwing my entire life (along with our hard-earned savings) away! I never got a *banquet* when I broke Sabbath…I got a *beating*!”
+He received <u>much</u> more love than I ever did. I used to get punished for much slighter infractions than throwing my entire life (along with our hard-earned savings) away! I never got a *banquet* when I broke Sabbath…I got a *beating*!”
 
 At this point, Jude’s unpleasant thoughts were interrupted by the sight of the homestead on the horizon.
 
@@ -58,7 +50,7 @@ His blood pressure rising, Jude spit on the refuse-pile and stormed in the front
 
 A very obviously hungover Ethan stumbled into the main room, nibbling on a piece of bacon. ***“Jude! You’re back…”***
 
-And Jude <span style="text-decoration:underline;">broke</span>:
+And Jude <u>broke</u>:
 
 > “Damn you, Ethan! You *ethnoi*, you Gentiles! How can you continually scorn our father’s, the Father’s, righteousness!?
 > 
@@ -122,4 +114,4 @@ She smiled: “He is risen indeed. For twenty-five years now, in fact! Greetings
 
 Rummaging in her pack, she began to explain:
 
-“I bring something for all of you from Paul, the apostle… It’s in here, somewhere. No, not this theology textbook. No, not this to-do list… Ah! Here it is, a <span style="text-decoration:underline;">**letter**</span>.”
+“I bring something for all of you from Paul, the apostle… It’s in here, somewhere. No, not this theology textbook. No, not this to-do list… Ah! Here it is, a <u>**letter**</u>.”

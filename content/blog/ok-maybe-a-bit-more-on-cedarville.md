@@ -1,27 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2014-03-20T11:46:15Z"
 guid: https://joshuapsteele.com/?p=3213
 id: 3213
 publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
 publicize_twitter_url:
-- http://t.co/kV8bM6DyU5
-- http://t.co/kV8bM6DyU5
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"917fa68194d30e03b5a3d475bdd948f1";s:6:"images";a:1:{i:0;s:71:"https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650";}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Ok, Maybe a Bit More on Cedarville!
 url: /ok-maybe-a-bit-more-on-cedarville/
 ---

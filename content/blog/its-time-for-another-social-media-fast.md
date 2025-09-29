@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2020-08-19T15:52:45Z"
 guid: https://joshuapsteele.com/?p=42369
 id: 42369
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Social media
+  - "social media"
 title: It’s time for another social media fast!
 url: /its-time-for-another-social-media-fast/
 ---

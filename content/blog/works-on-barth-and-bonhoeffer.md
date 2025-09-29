@@ -1,22 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2016-11-12T20:03:30Z"
 guid: https://joshuapsteele.com/?p=3961
 id: 3961
-cover:
-    image: /wp-content/uploads/2016/08/pablo.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
 url: /works-on-barth-and-bonhoeffer/
 ---

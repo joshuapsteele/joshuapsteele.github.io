@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Sermons
+  - sermons
 date: "2018-12-09T15:42:08Z"
 guid: https://joshuapsteele.com/?p=41505
 id: 41505
 tags:
-- sermons
+  - sermons
 title: 'Preparing the Way of the Lord in the Wilderness: Luke 3:1-6'
 url: /preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/
 ---

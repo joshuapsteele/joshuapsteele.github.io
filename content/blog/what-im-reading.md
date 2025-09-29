@@ -1,12 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2016-05-26T14:56:03Z"
 guid: https://joshuapsteele.com/?p=3824
 id: 3824
-cover:
-    image: /wp-content/uploads/2016/05/pablo-1.png
 title: What I'm Reading
 url: /what-im-reading/
 ---

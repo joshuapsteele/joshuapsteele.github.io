@@ -3,9 +3,9 @@ date: '2025-02-19T09:16:56-05:00'
 title: "This Shouldn't Be Controversial"
 author: joshuapsteele
 categories:
-- Politics
+  - politics
 tags:
-- politics
+  - politics
 url: /this-shouldnt-be-controversial/
 ---
 

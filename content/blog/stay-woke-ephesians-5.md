@@ -3,9 +3,9 @@ date: '2025-01-22T08:12:07-05:00'
 title: 'Stay Woke! Ephesians 5:11-14'
 author: joshuapsteele
 categories:
-- Bible
+  - bible
 tags:
-- politics
+  - politics
 url: /stay-woke-ephesians-5/
 ---
 With fascism on the rise in the United States of America and around the world, and with many so-called "Christians" gladly supporting the rise of the far-right and attributing it to the will of God, I was struck by these words from Ephesians 5 (which were assigned as one of the readings for Morning Prayer today).

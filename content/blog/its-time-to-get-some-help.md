@@ -1,24 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 custom_permalink:
-- ""
 date: "2020-09-02T17:19:39Z"
 guid: https://joshuapsteele.com/?p=42387
 id: 42387
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- mental health
+  - "mental health"
 title: It's Time to Get Some Help
 url: /its-time-to-get-some-help/
 ---

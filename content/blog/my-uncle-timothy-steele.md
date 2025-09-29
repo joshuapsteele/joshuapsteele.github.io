@@ -1,38 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2015-04-24T09:15:26Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/my-uncle-timothy-steele/
 id: 3307
 publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
 publicize_twitter_url:
-- ""
-- ""
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- This is a requiem - a verbal processing of the death of my uncle, Timothy Steele.
   With some added theological reflection on Death and Hope.
-rank_math_focus_keyword:
-- Steele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"7e7defe79067dce21cec21a6f7bca149";s:6:"images";a:1:{i:0;i:3449;}}
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "68"
-rank_math_title:
-- Remembering and Mourning My Uncle, Timothy Steele
 title: My Uncle, Timothy Steele
 url: /20150424my-uncle-timothy-steele/
 ---

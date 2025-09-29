@@ -1,19 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 custom_permalink:
-- ""
 date: "2015-04-24T09:16:32Z"
 enclosure:
-- "http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3\r\n47121604\r\naudio/mpeg\r\n"
-- "http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3\r\n47121604\r\naudio/mpeg\r\n"
-- |
   http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3
   47121604
   audio/mpeg
-- |
   https://joshuapsteele.com/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3
   0
   audio/mpeg
@@ -21,36 +16,10 @@ excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the
   of the Holy Innocents in this 2014 sermon.
 guid: https://windowinthesky.wordpress.com/2015/04/24/the-hope-of-the-holy-innocents/
 id: 3310
-cover:
-    image: /wp-content/uploads/2015/04/0_Le_Massacre_des_Innocents_daprès_P.P._Rubens_-_Musées_royaux_des_beaux-arts_de_Belgique_2-1200x891.jpg
-mf2_syndication:
-- a:0:{}
 publicize_facebook_url:
-- https://facebook.com/
-- https://facebook.com/
 publicize_twitter_url:
-- ""
-- ""
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- The Feast of the Holy Innocents, the Bethlehem babies slaughtered by King Herod,
   is on December 28. Learn more about the hope of the Holy Innocents.
-rank_math_focus_keyword:
-- holy innocents
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "989"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "79"
-rank_math_title:
-- The Hope of the Holy Innocents (December 28)
 title: The Hope of the Holy Innocents
 url: /the-hope-of-the-holy-innocents/
 ---

@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-11-16T16:54:14Z"
 guid: https://joshuapsteele.com/?p=42041
 id: 42041
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Quit claiming that we mutualists (egalitarians) don't take the Bible
   or tradition seriously.
 url: /quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/

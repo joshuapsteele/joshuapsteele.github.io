@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2017-01-31T23:13:18Z"
 guid: https://joshuapsteele.com/?p=4198
 id: 4198
-cover:
-    image: /wp-content/uploads/2017/01/pablo-13.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Is The Well-Equipped Christian Worth It?
 url: /is-the-well-equipped-christian-worth-it/
 ---

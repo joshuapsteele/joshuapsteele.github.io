@@ -3,9 +3,9 @@ date: '2025-01-23T09:16:56-05:00'
 title: "Devs! Let's Talk Authorization"
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 tags:
-- authorization
+  - authorization
 url: /lets-talk-authorization/
 ---
 

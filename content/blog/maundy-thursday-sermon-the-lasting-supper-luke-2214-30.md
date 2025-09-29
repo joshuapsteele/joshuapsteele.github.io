@@ -1,21 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2017-04-13T19:44:07Z"
 enclosure:
-- "https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3\r\n14392340\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=4235
 id: 4235
-cover:
-    image: /wp-content/uploads/2017/04/pablo-1.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: The Lasting Supper – Luke 22:14-30
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
 ---
@@ -83,7 +74,7 @@ Got that?
 
 Passover, Exodus, Covenant, Remembrance, Hope.
 
-OK, so this is really important: Israel didn’t merely remember the Passover each year to ***know*** something but in order to <span style="text-decoration: underline;">***change***</span>.
+OK, so this is really important: Israel didn’t merely remember the Passover each year to ***know*** something but in order to <u>***change***</u>.
 
 In other words, Passover was supposed to be a transformative remembrance.
 

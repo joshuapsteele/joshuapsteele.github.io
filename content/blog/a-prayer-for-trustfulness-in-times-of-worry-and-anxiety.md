@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2020-08-30T13:03:34Z"
 guid: https://joshuapsteele.com/?p=42383
 id: 42383
 tags:
-- prayer
+  - prayer
 title: A Prayer for Trustfulness in Times of Worry and Anxiety
 url: /a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/
 ---

@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2018-11-09T15:27:48Z"
 guid: https://joshuapsteele.com/?p=41414
 id: 41414
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Justification and Sanctification
 url: /justification-and-sanctification/
 ---

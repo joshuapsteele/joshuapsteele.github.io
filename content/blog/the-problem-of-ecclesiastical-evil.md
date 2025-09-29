@@ -1,14 +1,13 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2024-03-08T12:26:14Z"
 guid: https://joshuapsteele.com/?p=42943
 id: 42943
 tags:
-- drafts
+  - drafts
 title: The Problem of Ecclesiastical Evil
 url: /the-problem-of-ecclesiastical-evil/
 ---

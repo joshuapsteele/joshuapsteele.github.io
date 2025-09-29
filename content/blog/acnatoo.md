@@ -1,34 +1,20 @@
 ---
 author: Whitney Evans Harrison
 avada_post_views_count:
-- "575"
 avada_post_views_count_today_date:
-- 19-05-2022
 avada_today_post_views_count:
-- "1"
 categories:
-- Ministry
+  - ministry
 date: "2021-10-07T06:52:40Z"
 fusion_builder_status:
-- ""
 guid: https://anglicancompass.com/?p=24474
 id: 24474
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "11539"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- abuse
-- churches
-- local churches
-- ministry
-- safety
+  - abuse
+  - churches
+  - "local churches"
+  - ministry
+  - safety
 title: '#ACNAtoo: What you can do to hear, to support, and to respond to abuse survivors'
 url: /acnatoo/
 ---

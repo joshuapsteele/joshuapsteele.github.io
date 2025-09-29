@@ -1,23 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2018-04-02T06:00:45Z"
 guid: https://joshuapsteele.com/?p=41199
 id: 41199
-cover:
-    image: /wp-content/uploads/2018/04/lukas-blazek-261682-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
 total_sidebar_layout:
-- right_sidebar
 url: /the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/
 ---
 

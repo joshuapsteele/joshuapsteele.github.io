@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: 2022-11-08
 guid: https://joshuapsteele.com/?p=42643
 id: 42643
 tags:
-- questions
+  - questions
 title: Questions Worth Asking (Self-Elicitation Questions)
 url: /questions-worth-asking/
 ---

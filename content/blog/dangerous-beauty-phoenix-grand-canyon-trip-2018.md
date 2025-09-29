@@ -1,23 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2018-03-09T14:47:50Z"
 guid: https://joshuapsteele.com/?p=41136
 id: 41136
-cover:
-    image: /wp-content/uploads/2018/03/pablo.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Dangerous Beauty: Phoenix and Grand Canyon Trip 2018'
 total_sidebar_layout:
-- right_sidebar
 url: /dangerous-beauty-phoenix-grand-canyon-trip-2018/
 ---
 

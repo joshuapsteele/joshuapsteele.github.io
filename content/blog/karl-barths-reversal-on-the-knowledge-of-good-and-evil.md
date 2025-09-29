@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-17T19:07:23Z"
 guid: https://joshuapsteele.com/?p=41565
 id: 41565
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- research
+  - barth
+  - research
 title: Karl Barth's Reversal on the "Knowledge of Good and Evil"
 url: /karl-barths-reversal-on-the-knowledge-of-good-and-evil/
 ---

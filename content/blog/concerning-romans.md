@@ -1,28 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Personal
+  - bible
+  - personal
 date: "2014-03-20T11:29:22Z"
 guid: https://joshuapsteele.com/?p=3196
 id: 3196
 publicize_facebook_url:
-- https://facebook.com/10153874003655316
-- https://facebook.com/10153874003655316
 publicize_twitter_url:
-- http://t.co/AjEdpATn0i
-- http://t.co/AjEdpATn0i
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"7af2742ad90e1c59625d71951a50d02e";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Concerning Romans
 url: /concerning-romans/
 ---

@@ -1,15 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2023-10-17T12:45:42Z"
 footnotes:
-- ""
 guid: https://joshuapsteele.com/?p=42871
 id: 42871
-cover:
-    image: /wp-content/uploads/2023/10/pexels-photo-15760058-1568x1045.jpeg
 title: "Life Lessons: 32 Things I've Learned So Far"
 url: /life-lessons/
 ---

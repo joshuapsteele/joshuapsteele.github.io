@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2022-12-21T21:08:05Z"
 guid: https://joshuapsteele.com/?p=42730
 id: 42730
 tags:
-- software
-- testing
+  - software
+  - testing
 title: 'Software Testing: Possibilities, Problems, and Principles'
 url: /software-testing-possibilities-problems-and-principles/
 ---

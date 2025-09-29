@@ -1,184 +1,94 @@
 ---
 author: joshuapsteele
 avada_post_views_count:
-- "8294"
 avada_post_views_count_today_date:
-- 24-06-2022
 avada_today_post_views_count:
-- "2"
 categories:
-- Anglicanism
-- Pastoral Ministry
+  - anglicanism
+  - "pastoral ministry"
 date: "2019-01-30T14:31:31Z"
 fusion_builder_status:
-- ""
 guid: http://anglicancompass.com/?p=9885andpreview=trueandpreview_id=9885
 id: 9885
 kd_featured-image-2_post_id:
-- ""
 kd_featured-image-3_post_id:
-- ""
 kd_featured-image-4_post_id:
-- ""
 kd_featured-image-5_post_id:
-- ""
 pyre_author_info:
-- default
 pyre_avada_rev_styles:
-- default
 pyre_combined_header_bg_color:
-- ""
 pyre_demo_slider:
-- ""
 pyre_display_copyright:
-- default
 pyre_display_footer:
-- default
 pyre_display_header:
-- "yes"
 pyre_displayed_menu:
-- default
 pyre_elasticslider:
-- ""
 pyre_fallback:
-- ""
 pyre_fallback_id:
-- ""
 pyre_fimg_height:
-- ""
 pyre_fimg_width:
-- ""
 pyre_footer_100_width:
-- default
 pyre_header_100_width:
-- default
 pyre_header_bg:
-- ""
 pyre_header_bg_full:
-- "no"
 pyre_header_bg_id:
-- ""
 pyre_header_bg_repeat:
-- repeat
 pyre_hundredp_padding:
-- ""
 pyre_image_rollover_icons:
-- default
 pyre_link_icon_url:
-- ""
 pyre_main_bottom_padding:
-- ""
 pyre_main_top_padding:
-- ""
 pyre_mobile_header_bg_color:
-- ""
 pyre_page_bg:
-- ""
 pyre_page_bg_color:
-- ""
 pyre_page_bg_full:
-- default
 pyre_page_bg_id:
-- ""
 pyre_page_bg_layout:
-- default
 pyre_page_bg_repeat:
-- default
 pyre_page_title:
-- default
 pyre_page_title_100_width:
-- default
 pyre_page_title_bar_bg:
-- ""
 pyre_page_title_bar_bg_color:
-- ""
 pyre_page_title_bar_bg_full:
-- default
 pyre_page_title_bar_bg_id:
-- ""
 pyre_page_title_bar_bg_retina:
-- ""
 pyre_page_title_bar_bg_retina_id:
-- ""
 pyre_page_title_bar_borders_color:
-- ""
 pyre_page_title_bg_parallax:
-- default
 pyre_page_title_breadcrumbs_search_bar:
-- default
 pyre_page_title_custom_subheader:
-- ""
 pyre_page_title_custom_subheader_text_size:
-- ""
 pyre_page_title_custom_text:
-- ""
 pyre_page_title_font_color:
-- ""
 pyre_page_title_height:
-- ""
 pyre_page_title_line_height:
-- ""
 pyre_page_title_mobile_height:
-- ""
 pyre_page_title_subheader_font_color:
-- ""
 pyre_page_title_text:
-- default
 pyre_page_title_text_alignment:
-- default
 pyre_page_title_text_size:
-- ""
 pyre_portfolio_width_100:
-- default
 pyre_post_comments:
-- default
 pyre_post_links_target:
-- "no"
 pyre_post_meta:
-- default
 pyre_post_pagination:
-- default
 pyre_related_posts:
-- default
 pyre_revslider:
-- ""
 pyre_share_box:
-- default
 pyre_show_first_featured_image:
-- "no"
 pyre_slider:
-- ""
 pyre_slider_position:
-- default
 pyre_slider_type:
-- "no"
 pyre_video:
-- ""
 pyre_wide_page_bg:
-- ""
 pyre_wide_page_bg_color:
-- ""
 pyre_wide_page_bg_full:
-- default
 pyre_wide_page_bg_id:
-- ""
 pyre_wide_page_bg_repeat:
-- default
 pyre_wooslider:
-- ""
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"1ab417d79b01fa0d3cbc243c95c94c8e";s:6:"images";a:0:{}}
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican Compass
-- women's ordination
+  - "anglican compass"
+  - "women's ordination"
 title: Want to Learn More about Women’s Ordination Debates within Anglicanism? Start
   With These Resources
 url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/

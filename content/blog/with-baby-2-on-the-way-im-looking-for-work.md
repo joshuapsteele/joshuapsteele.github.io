@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2019-11-25T16:14:29Z"
 guid: https://joshuapsteele.com/?p=42105
 id: 42105

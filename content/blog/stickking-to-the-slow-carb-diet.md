@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2019-01-22T02:14:32Z"
 guid: https://joshuapsteele.com/?p=41572
 id: 41572
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: StickKing to the Slow Carb Diet
 url: /stickking-to-the-slow-carb-diet/
 ---

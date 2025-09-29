@@ -1,25 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-03-19T14:33:39Z"
 guid: https://joshuapsteele.com/?p=41164
 id: 41164
-cover:
-    image: /wp-content/uploads/2018/03/technology-3230663_1920.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- writing
+  - writing
 title: I Need to Develop a Writing Habit. Do You?
 total_sidebar_layout:
-- right_sidebar
 url: /i-need-to-develop-a-writing-habit-do-you/
 ---
 

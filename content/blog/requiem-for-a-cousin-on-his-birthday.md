@@ -1,9 +1,8 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2024-09-28T09:00:54Z"
 title: Requiem for a Cousin on His Birthday
 url: /requiem-for-a-cousin-on-his-birthday/

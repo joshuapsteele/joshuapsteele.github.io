@@ -1,24 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2020-06-30T17:40:44Z"
 footnotes:
-- ""
 guid: https://joshuapsteele.com/?p=42330
 id: 42330
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "16"
 tags:
-- writing
+  - writing
 title: They Say, I Say Writing Templates
 url: /they-say-i-say-writing-templates/
 ---

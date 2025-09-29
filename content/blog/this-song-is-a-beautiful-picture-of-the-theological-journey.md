@@ -1,26 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Church and Theology
+  - personal
+  - "church and theology"
 custom_permalink:
-- the-truth-is-not-a-cave
 date: "2018-03-12T21:36:16Z"
 guid: https://joshuapsteele.com/?p=41151
 id: 41151
-cover:
-    image: /wp-content/uploads/2018/03/matty-adame-261105-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: This Song is a Beautiful Picture of the Theological Journey
 total_sidebar_layout:
-- right_sidebar
 url: /the-truth-is-not-a-cave
 ---
 

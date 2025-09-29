@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2016-06-10T17:10:17Z"
 guid: https://joshuapsteele.com/?p=3876
 id: 3876
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Frustrated with Church? Join the Club!
 url: /frustrated-with-church-join-the-club/
 ---
@@ -33,7 +27,7 @@ Why?
 
 Because the Church must be composed of people who realize the Church’s shortcomings and failures.
 
-Otherwise, it <span style="text-decoration: underline;">***is***</span> **just a club.**
+Otherwise, it <u>***is***</u> **just a club.**
 
 I’m asking you to stay, because most leaders within the Church share your frustrations.
 

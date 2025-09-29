@@ -1,43 +1,18 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2014-04-16T08:17:21Z"
 guid: https://joshuapsteele.com/?p=3267
 id: 3267
 publicize_facebook_url:
-- https://facebook.com/10153965158610316
-- https://facebook.com/10153965158610316
 publicize_twitter_url:
-- http://t.co/27yVBwfC7y
-- http://t.co/27yVBwfC7y
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_description:
-- This is an essay about the fear of death in White Noise, the novel by Don DeLillo.
   In it, I use Baudrillard's concept of hyperreality to look at the fear of death
   in both White Noise and the Union Carbide plant in Bhopal, India. Click to learn
   more!
-rank_math_focus_keyword:
-- fear of death in white noise
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"e8a37d5e23e4fa2184214185176b71b7";s:6:"images";a:0:{}}
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "70"
-rank_math_title:
-- The Fear of Death in White Noise by Don DeLillo, An Essay
 title: WHITE NOISE, BHOPAL, AND THE HYPERREAL FEAR OF DEATH
 total_sidebar_layout:
-- right_sidebar
 url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
 ---
 
@@ -87,7 +62,7 @@ In the final chapter of the book’s first section, another confession emerges:
 
 ***The truth is I don’t want to die first. Given a choice between loneliness and death, it would take me a fraction of a second to decide. But I don’t want to be alone either. Everything I say to Babette about holes and gaps is true. Her death would leave me scattered, talking to chairs and pillows. Don’t let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light. Let us both live forever, in sickness and in health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating. Who decides these things? What is out there? Who are you?<sup><sup>\[12\]</sup></sup>***
 
-Jack Gladney wants to be somebody, and <span style="text-decoration: underline;">he desperately does not want to die</span>.
+Jack Gladney wants to be somebody, and <u>he desperately does not want to die</u>.
 
 The second of three sections in *White Noise* is solely comprised of the twenty-first chapter. At fifty-four pages long, it is roughly the length of the first twelve chapters combined. This is because it is devoted to the “Airborne Toxic Event” (ATE), the novel’s main incident.
 

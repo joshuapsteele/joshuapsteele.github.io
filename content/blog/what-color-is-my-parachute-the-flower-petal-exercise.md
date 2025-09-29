@@ -1,20 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 custom_permalink:
-- ""
 date: "2021-01-19T22:34:46Z"
 guid: https://joshuapsteele.com/?p=42490
 id: 42490
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "922"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What Color is My Parachute? The Flower Petal Exercise
 url: /what-color-is-my-parachute-the-flower-petal-exercise/
 ---

@@ -1,24 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-05-07T15:51:49Z"
 guid: https://joshuapsteele.com/?p=41779
 id: 41779
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- essay
-- research
-- writing
+  - barth
+  - bonhoeffer
+  - essay
+  - research
+  - writing
 title: 'The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge
   in Genesis 2:4–3:24'
 url: /the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/

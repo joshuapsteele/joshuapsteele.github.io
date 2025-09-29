@@ -1,21 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- The Christian Life
+  - bible
+  - "church and theology"
+  - "the christian life"
 date: "2013-09-18T13:13:58Z"
 guid: https://joshuapsteele.com/?p=2858
 id: 2858
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: King Jesus' Kingdom Gospel
 url: /king-jesus-kingdom-gospel/
 ---

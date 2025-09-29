@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2020-03-26T14:27:02Z"
 guid: https://joshuapsteele.com/?p=42227
 id: 42227
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Barth, Bonhoeffer, and the Bible: Back to the Beginning (Dissertation Dispatch,
   2020-03-26)'
 url: /barth-bonhoeffer-and-the-bible-back-to-the-beginning-dissertation-dispatch-2020-03-26/

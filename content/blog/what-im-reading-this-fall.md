@@ -1,18 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2018-08-16T15:24:25Z"
 guid: https://joshuapsteele.com/?p=41365
 id: 41365
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- reading
+  - reading
 title: What I'm Reading this Fall
 url: /what-im-reading-this-fall/
 ---

@@ -1,24 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2020-04-03T13:38:27Z"
 guid: https://joshuapsteele.com/?p=42235
 id: 42235
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- religion
+  - barth
+  - bonhoeffer
+  - religion
 title: Want a taste of what my dissertation is about? Read these two passages (Dissertation
   Dispatch, 2020-04-03)
 url: /want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/

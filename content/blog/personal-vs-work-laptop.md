@@ -4,7 +4,7 @@ date: 2025-04-09T08:49:29-04:00
 draft: false
 author: joshuapsteele
 tags: ["laptop", "computer"]
-categories: ["Technology"]
+categories: ["technology"]
 showToc: false # Set to false to hide table of contents
 TocOpen: false # Set to true to automatically expand ToC
 url: /personal-vs-work-laptop/

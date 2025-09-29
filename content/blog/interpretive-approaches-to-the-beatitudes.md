@@ -1,21 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Dissertation
+  - bible
+  - dissertation
 date: "2019-11-24T19:48:08Z"
 guid: https://joshuapsteele.com/?p=42074
 id: 42074
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- Sermon on the Mount
+  - barth
+  - bonhoeffer
+  - "sermon on the mount"
 title: Interpretive Approaches to the Beatitudes
 url: /interpretive-approaches-to-the-beatitudes/
 ---

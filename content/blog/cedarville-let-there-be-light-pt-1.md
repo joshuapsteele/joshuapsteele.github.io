@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2012-09-20T15:07:47Z"
 guid: http://windowinthesky.wordpress.com/?p=1468
 id: 1468
@@ -18,12 +18,12 @@ Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is 
 # The “Logic” of the Statement:
 
 - Despite the Following: 
-    - Dr. Michael Pahl is <span style="text-decoration:underline;">orthodox</span>.
-    - Dr. Pahl is <span style="text-decoration:underline;">committed to the gospel</span>.
-    - Dr. Pahl is <span style="text-decoration:underline;">committed to Scripture, its inspiration, authority, and infallibility</span>.
-    - Dr. Pahl is a <span style="text-decoration:underline;">promising scholar</span>.
-    - Dr. Pahl is a <span style="text-decoration:underline;">dedicated teacher</span>.
-- The administration and [trustees ](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx)of Cedarville University have <span style="text-decoration:underline;">“relieved” Dr. Pahl of his teaching duties. </span>
+    - Dr. Michael Pahl is <u>orthodox</u>.
+    - Dr. Pahl is <u>committed to the gospel</u>.
+    - Dr. Pahl is <u>committed to Scripture, its inspiration, authority, and infallibility</u>.
+    - Dr. Pahl is a <u>promising scholar</u>.
+    - Dr. Pahl is a <u>dedicated teacher</u>.
+- The administration and [trustees ](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx)of Cedarville University have <u>“relieved” Dr. Pahl of his teaching duties. </u>
     - “because he is unable to concur fully with each and every position of [Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx)“
     - …”prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270).”
     - because it is in the best interests of the “constituency” at this time.

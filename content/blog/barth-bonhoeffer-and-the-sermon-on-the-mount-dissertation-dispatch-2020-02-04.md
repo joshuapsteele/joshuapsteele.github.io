@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2020-02-04T18:53:48Z"
 guid: https://joshuapsteele.com/?p=42175
 id: 42175
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Barth, Bonhoeffer, and the Sermon on the Mount (Dissertation Dispatch 2020-02-04)
 url: /barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/
 ---

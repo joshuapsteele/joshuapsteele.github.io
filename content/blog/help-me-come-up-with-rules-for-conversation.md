@@ -1,10 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 tags:
-- 8020
-- reading notes
+  - 8020
+  - "reading notes"
 date: "2019-11-17T20:26:42Z"
 guid: https://joshuapsteele.com/?p=42049
 id: 42049

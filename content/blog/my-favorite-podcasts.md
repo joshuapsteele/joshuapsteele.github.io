@@ -1,33 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 custom_permalink:
-- my-favorite-podcasts/
 date: "2017-07-25T15:46:34Z"
 guid: https://joshuapsteele.com/?p=39778
 id: 39778
-cover:
-    image: /wp-content/uploads/2017/07/pablo-2.png
-rank_math_description:
-- This is a list of my current favorite podcasts. Whether you listen to podcasts through
   Apple Podcasts, Stitcher, or Overcast, they're a great way to learn!
-rank_math_focus_keyword:
-- podcasts
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_pillar_content:
-- "on"
-rank_math_primary_category:
-- "821"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "74"
-rank_math_title:
-- Podcasts I Think You Should Listen To - Joshua P. Steele
 title: Podcasts You Should Listen To
 url: /my-favorite-podcasts/
 ---

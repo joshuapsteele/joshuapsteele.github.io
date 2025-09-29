@@ -4,7 +4,7 @@ date: 2025-06-09T09:49:40-04:00
 draft: false
 author: joshuapsteele
 tags: [tyranny, authoritarianism]
-categories: [Politics]
+categories: [politics]
 showToc: true
 TocOpen: true
 url: /198-ways-to-fight-tyranny/

@@ -1,11 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 tags:
-- poverty
-- Proverbs
+  - poverty
+  - proverbs
 date: 2011-02-10
 guid: http://windowinthesky.wordpress.com/?p=1041
 id: 1041
@@ -110,7 +110,7 @@ It is clear that Proverbs gives its readers a thorough understanding of the drea
 
 However, this understanding does little to inform the audience of **how we should respond to the existence of poverty**.
 
-The surest foundation for a proper response to poverty is undoubtedly <span style="text-decoration: underline;">the character of Yahweh with regards to the oppressed and impoverished</span>.
+The surest foundation for a proper response to poverty is undoubtedly <u>the character of Yahweh with regards to the oppressed and impoverished</u>.
 
 Consider Proverbs 14:31:
 
@@ -249,7 +249,7 @@ However, this did not lead them to **abandon** a proper view towards the poor, a
 
 The modern readers of this ancient book would do well to heed its teachings regarding poverty, and to proceed with attitudes and actions in imitation of Yahweh in their interactions with and opinions of the poor, destitute, and oppressed of this world.
 
-## <span style="text-decoration: underline;">**Bibliography**</span>
+## <u>**Bibliography**</u>
 
 Alden, Robert L. *Proverbs: A Commentary on an Ancient Book of Timeless Advice.* Grand Rapids: Baker Book House, 1983.
 

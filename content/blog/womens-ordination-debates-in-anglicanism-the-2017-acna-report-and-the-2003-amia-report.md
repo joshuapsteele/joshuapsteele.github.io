@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- Personal
+  - "church and theology"
+  - personal
 date: "2019-01-31T14:17:52Z"
 guid: https://joshuapsteele.com/?p=41711
 id: 41711
 tags:
-- Anglican
+  - anglican
 title: "Women's Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003 AMIA Report"
 url: /womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/
 ---

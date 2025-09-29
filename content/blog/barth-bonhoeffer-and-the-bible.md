@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-07-08T16:57:05Z"
 guid: https://joshuapsteele.com/?p=41843
 id: 41843
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Barth, Bonhoeffer, and the Bible
 url: /barth-bonhoeffer-and-the-bible/
 ---

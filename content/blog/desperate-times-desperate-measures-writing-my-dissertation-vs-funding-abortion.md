@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-06-28T13:34:51Z"
 guid: https://joshuapsteele.com/?p=41828
 id: 41828
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- research
-- writing
+  - research
+  - writing
 title: 'Desperate Times, Desperate Measures: Writing My Dissertation vs. Funding Abortion'
 url: /desperate-times-desperate-measures-writing-my-dissertation-vs-funding-abortion/
 ---

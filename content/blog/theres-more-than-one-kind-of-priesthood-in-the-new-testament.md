@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2019-02-12T20:47:11Z"
 guid: https://joshuapsteele.com/?p=41717
 id: 41717
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bible
-- theology
+  - bible
+  - theology
 title: There's more than one kind of "priesthood" in the New Testament
 url: /theres-more-than-one-kind-of-priesthood-in-the-new-testament/
 ---

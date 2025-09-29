@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Dissertation
+  - bible
+  - dissertation
 date: "2019-11-25T19:13:39Z"
 guid: https://joshuapsteele.com/?p=42110
 id: 42110
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bonhoeffer
+  - bonhoeffer
 title: Are the Beatitudes “Good Works”? (Matt. 5:13–16)
 url: /are-the-beatitudes-good-works-matt-51316/
 ---

@@ -4,7 +4,7 @@ date: 2025-06-10T11:49:55-04:00
 draft: false
 author: joshuapsteele
 tags: [fascism, authoritarianism]
-categories: [Politics]
+categories: [politics]
 showToc: true
 url: /14-characteristics-of-fascism/
 ---

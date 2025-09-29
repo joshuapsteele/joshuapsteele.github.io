@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2019-01-13T20:53:15Z"
 guid: https://joshuapsteele.com/?p=41556
 id: 41556
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- reading
+  - reading
 title: What blogs are you reading?
 url: /what-blogs-are-you-reading/
 ---

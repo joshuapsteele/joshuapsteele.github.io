@@ -1,20 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- Productivity and Time Management
-- The Christian Life
+  - "church and theology"
+  - "productivity and time management"
+  - "the christian life"
 date: "2018-06-08T19:08:55Z"
 guid: https://joshuapsteele.com/?p=41274
 id: 41274
-cover:
-    image: /wp-content/uploads/2018/06/Peterson_Lecture_33522701146.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Two More Pieces about Jordan Peterson
 url: /two-more-pieces-about-jordan-peterson/
 ---

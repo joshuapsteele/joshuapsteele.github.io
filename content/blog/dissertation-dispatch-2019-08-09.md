@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-08-09T15:21:55Z"
 guid: https://joshuapsteele.com/?p=41881
 id: 41881
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- Romans
+  - barth
+  - bonhoeffer
+  - romans
 title: 'Dissertation Dispatch: 2019-08-09'
 url: /dissertation-dispatch-2019-08-09/
 ---

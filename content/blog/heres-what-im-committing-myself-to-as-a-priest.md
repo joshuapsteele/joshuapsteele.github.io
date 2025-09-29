@@ -1,20 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2019-10-28T19:57:33Z"
 guid: https://joshuapsteele.com/?p=41958
 id: 41958
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Here's what I'm committing myself to as a priest.
 url: /heres-what-im-committing-myself-to-as-a-priest/
 ---

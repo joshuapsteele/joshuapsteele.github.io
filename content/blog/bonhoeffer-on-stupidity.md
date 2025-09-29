@@ -4,7 +4,7 @@ author: joshuapsteele
 date: 2025-03-10T15:16:39-04:00
 draft: false
 tags:
-  - Bonhoeffer
+  - bonhoeffer
   - theology
   - ethics
 url: /bonhoeffer-on-stupidity/

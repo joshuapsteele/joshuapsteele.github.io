@@ -1,21 +1,15 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-11-11T18:58:55Z"
 guid: https://joshuapsteele.com/?p=42009
 id: 42009
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bible
-- Bonhoeffer
-- research
+  - barth
+  - bible
+  - bonhoeffer
+  - research
 title: 'Dissertation Dispatch: 2019-11-11'
 url: /dissertation-dispatch-2019-11-11/
 ---

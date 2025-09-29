@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
-- Personal
+  - dissertation
+  - personal
 date: "2020-08-13T21:40:06Z"
 guid: https://joshuapsteele.com/?p=42365
 id: 42365
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- research
-- writing
+  - research
+  - writing
 title: The Ph.D. Plan (Or the Lack Thereof)
 url: /the-phd-plan-or-the-lack-thereof/
 ---

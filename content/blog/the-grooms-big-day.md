@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2016-03-31T16:42:16Z"
 guid: https://joshuapsteele.com/?p=3750
 id: 3750

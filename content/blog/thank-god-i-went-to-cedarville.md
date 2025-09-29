@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2016-05-31T20:20:53Z"
 guid: https://joshuapsteele.com/?p=3865
 id: 3865
-cover:
-    image: /wp-content/uploads/2016/05/pablo-8.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Thank God, I Went to Cedarville
 url: /thank-god-i-went-to-cedarville/
 ---
@@ -61,13 +53,13 @@ By God’s grace, I hope to carry forward into my future ministry a combination 
 
 No, not so much the professors who were pushed out. They’ve miraculously landed on their feet, and I’ve witnessed God’s powerful work of redemption through them in their current careers and ministries.
 
-No, I’m talking about the <span style="text-decoration: underline;">***alumni***</span> who got burned by fundamentalism and may have already [thrown out the Christian baby with the fundamentalist bathwater](http://www.patheos.com/blogs/rogereolson/2012/08/on-not-throwing-the-baby-out-with-the-bathwater-a-message-for-abused-ex-fundamentalists/). Or perhaps they’re seriously considering doing so.
+No, I’m talking about the <u>***alumni***</u> who got burned by fundamentalism and may have already [thrown out the Christian baby with the fundamentalist bathwater](http://www.patheos.com/blogs/rogereolson/2012/08/on-not-throwing-the-baby-out-with-the-bathwater-a-message-for-abused-ex-fundamentalists/). Or perhaps they’re seriously considering doing so.
 
 See, God has blessed me with a wonderful seminary and church community in which to grow and heal after Cedarville. Without those things, I don’t know where I’d be after the awful ending to my Christian college experience.
 
 Others, however, may be feeling very **lonely** and **angry** right now.
 
-**If that’s you, or if you know someone to whom this applies, <span style="text-decoration: underline;">would you let me know if there’s any way I can help you</span>?**
+**If that’s you, or if you know someone to whom this applies, <u>would you let me know if there’s any way I can help you</u>?**
 
 I’ll gladly listen to you vent. I’d love to pray for you specifically, and perhaps to share what I’ve found helpful along the journey.
 

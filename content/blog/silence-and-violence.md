@@ -1,32 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2013-11-11T18:50:04Z"
 guid: https://joshuapsteele.com/?p=3021
 id: 3021
 publicize_facebook_url:
-- https://facebook.com/10153419953035316
-- https://facebook.com/10153419953035316
 publicize_twitter_url:
-- http://t.co/GL1MOhZNlE
-- http://t.co/GL1MOhZNlE
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"f2b59d9b732bad78c14db32580833905";s:6:"images";a:0:{}}
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Silence and Violence
 twitter_cards_summary_img_size:
-- a:7:{i:0;i:1950;i:1;i:2520;i:2;i:2;i:3;s:26:"width="1950" height="2520"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
-- a:7:{i:0;i:1950;i:1;i:2520;i:2;i:2;i:3;s:26:"width="1950" height="2520"";s:4:"bits";i:8;s:8:"channels";i:3;s:4:"mime";s:10:"image/jpeg";}
 url: /silence-and-violence/
 ---
 

@@ -1,19 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Society
+  - bible
+  - "church and society"
 date: "2023-06-09T12:17:21Z"
 guid: https://joshuapsteele.com/?p=42801
 id: 42801
-cover:
-    image: /wp-content/uploads/2023/06/v2osk-UlREpSirjsc-unsplash-1568x1046.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Scriptures to Read on Days of Prayer and Fasting for the Church
 url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
 ---

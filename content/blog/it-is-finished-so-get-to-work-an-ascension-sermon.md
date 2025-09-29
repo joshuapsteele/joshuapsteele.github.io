@@ -1,11 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2017-06-13T01:29:13Z"
 enclosure:
-- "https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3\r\n15871511\r\naudio/mpeg\r\n"
 guid: https://joshuapsteele.com/?p=39721
 id: 39721
 title: It is Finished! So, Get to Work! – A Sermon on the Ascension

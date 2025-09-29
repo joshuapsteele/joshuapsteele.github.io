@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2020-07-05T21:08:43Z"
 guid: https://joshuapsteele.com/?p=42350
 id: 42350
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- reading
-- research
-- writing
+  - reading
+  - research
+  - writing
 title: 'A Shameless Request: Help Me Buy More Books?'
 url: /a-shameless-request-help-me-buy-more-books/
 ---

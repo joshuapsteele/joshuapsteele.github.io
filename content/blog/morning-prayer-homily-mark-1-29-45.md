@@ -1,20 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-09-01T18:00:24Z"
 guid: https://joshuapsteele.com/?p=3438
 id: 3438
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Morning Prayer Homily: Mark 1.29-45'
 url: /morning-prayer-homily-mark-1-29-45/
 ---
@@ -37,7 +29,7 @@ Today’s Gospel lesson consists of at least three distinct episodes.
 
 Now, what to make of these things? As ministers within the Church, as followers of Jesus, I think we naturally (and rightly) tend to place ourselves in the place of Christ’s ***disciples*** when we work our way through Gospel texts.
 
-However, with today’s episodes, I’d like us to consider what we can learn about our vocations from **Peter’s mother-in-law**, from **Jesus himself**, and from the **leper**. These, I believe, demonstrate the importance of <span style="text-decoration:underline;">service</span>, <span style="text-decoration:underline;">prayer</span>, <span style="text-decoration:underline;">proclamation</span>, and <span style="text-decoration:underline;">worship</span>
+However, with today’s episodes, I’d like us to consider what we can learn about our vocations from **Peter’s mother-in-law**, from **Jesus himself**, and from the **leper**. These, I believe, demonstrate the importance of <u>service</u>, <u>prayer</u>, <u>proclamation</u>, and <u>worship</u>
 
 First, as with several of Jesus’ miraculous healings, Peter’s mother-in-law is raised from her bed as a *foreshadowing of Christ’s resurrection*. And although the use of the verb *diakoneo* to mean “to serve, to wait upon,” is perfectly within the term’s semantic range, we should not fail to notice that the woman provides an apt example of the Christian life: just as she was raised from her bed and began to serve Christ and the disciples, we are raised from our sickness of Sin and Death for a purpose, unto a life of ***service*** within Christ’s Church.
 
@@ -49,6 +41,6 @@ Service. Prayer. Proclamation. And finally, ***Worship***.
 
 Notice the leper, condemned to a life of painful illness and perhaps even more painful social exclusion. Taking the risk that Jesus might recoil in horror at his presence, like countless others would have, the leper boldly asks, notice, not primarily for physical healing, but for *restoration to the worshiping community*!
 
-We must keep the biblical, and not the clinical, meaning of “<span style="text-decoration:underline;">clean</span>” in mind here: ***acceptable and ready to worship the living God***! Jesus reverses the normal contagion movement, transferring his cleanliness to the unclean man, restoring the leper to a life of worship. A beautiful exchange, one which Christ is still willing to make with us today! <span style="text-decoration:underline;">**However, are we as eager as the leper to be healed in order to worship God? To serve God? To pray to God? To proclaim God’s Kingdom?**</span>
+We must keep the biblical, and not the clinical, meaning of “<u>clean</u>” in mind here: ***acceptable and ready to worship the living God***! Jesus reverses the normal contagion movement, transferring his cleanliness to the unclean man, restoring the leper to a life of worship. A beautiful exchange, one which Christ is still willing to make with us today! <u>**However, are we as eager as the leper to be healed in order to worship God? To serve God? To pray to God? To proclaim God’s Kingdom?**</u>
 
 Let us not make healing a *self-centered* occurrence. Christ offers us healing and restoration for this fourfold purpose: **service**, **prayer**, **proclamation**, and **worship**.

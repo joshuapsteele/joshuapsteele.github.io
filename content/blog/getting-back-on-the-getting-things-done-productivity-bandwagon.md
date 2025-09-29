@@ -1,13 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
-- Personal
+  - "productivity and time management"
+  - personal
 date: "2018-03-13T22:06:09Z"
 guid: https://joshuapsteele.com/?p=41155
 id: 41155
-cover:
-    image: /wp-content/uploads/2018/03/andrew-neel-308138-unsplash.jpg
 title: Getting Back on the "Getting Things Done" Productivity Bandwagon
 url: /getting-back-on-the-getting-things-done-productivity-bandwagon/
 ---

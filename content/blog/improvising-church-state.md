@@ -1,23 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2015-12-08T11:53:24Z"
 guid: https://joshuapsteele.com/?p=3516
 id: 3516
-cover:
-    image: /wp-content/uploads/2015/12/pablo-5.png
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican
   and Anabaptist Approaches'
 url: /improvising-church-state/

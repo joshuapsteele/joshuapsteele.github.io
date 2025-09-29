@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: 2009-06-06
 guid: http://windowinthesky.wordpress.com/?p=407
 id: 407

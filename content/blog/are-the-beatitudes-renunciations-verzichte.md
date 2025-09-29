@@ -1,24 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Dissertation
+  - bible
+  - dissertation
 date: "2019-11-27T12:46:52Z"
 guid: https://joshuapsteele.com/?p=42115
 id: 42115
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "989"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Bonhoeffer
-- Sermon on the Mount
+  - bonhoeffer
+  - "sermon on the mount"
 title: Are the Beatitudes “Renunciations” (Verzichte)?
 url: /are-the-beatitudes-renunciations-verzichte/
 ---

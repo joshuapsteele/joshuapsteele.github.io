@@ -1,20 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2020-03-30T14:53:26Z"
 guid: https://joshuapsteele.com/?p=42232
 id: 42232
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bible
-- Bonhoeffer
+  - barth
+  - bible
+  - bonhoeffer
 title: What did Barth and Bonhoeffer think of the Bible? (Dissertation Dispatch, 2020-03-30)
 url: /what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-2020-03-30/
 ---

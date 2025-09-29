@@ -1,25 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2022-04-15T20:24:45Z"
 guid: https://joshuapsteele.com/?p=42597
 id: 42597
-mf2_syndication:
-- a:0:{}
-rank_math_description:
-- In order to open source my search for mentors, I'm inviting you, dear reader, to
   answer at least one of the following questions.
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_title:
-- Mentor Me! 11 Questions I'd Like You to Answer
 tags:
-- questions
+  - questions
 title: Mentor Me! 11 Questions I'd Like You to Answer
 url: /mentor-me/
 ---

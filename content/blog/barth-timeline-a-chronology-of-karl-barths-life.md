@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-11-12T16:07:20Z"
 guid: https://joshuapsteele.com/?p=42013
 id: 42013
 tags:
-- Barth
+  - barth
 title: "Barth Timeline: A Chronology of Karl Barth's Life"
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---

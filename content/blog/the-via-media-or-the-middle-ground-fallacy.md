@@ -1,22 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2019-10-09T14:19:46Z"
 guid: https://joshuapsteele.com/?p=41926
 id: 41926
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- ""
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Anglican
+  - anglican
 title: The “Via Media”? Or the “Middle Ground Fallacy”?
 url: /the-via-media-or-the-middle-ground-fallacy/
 ---

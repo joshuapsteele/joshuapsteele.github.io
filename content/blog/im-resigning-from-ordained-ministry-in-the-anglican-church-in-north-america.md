@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Pastoral Ministry
-- Personal
+  - "pastoral ministry"
+  - personal
 date: "2023-11-08T19:50:28Z"
 guid: https://joshuapsteele.com/?p=42913
 id: 42913
 tags:
-- acna
+  - acna
 title: I'm Resigning from Ordained Ministry in the Anglican Church in North
   America
 url: /im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/

@@ -3,7 +3,7 @@ title: "A Citizen's Manifesto: Working Principles for Democratic Renewal"
 date: 2025-06-16T09:19:37-04:00
 draft: false
 author: joshuapsteele
-tags: [democracy, constitutionalism, civic virtue, civic engagement]
+tags: [democracy, constitutionalism, "civic virtue", "civic engagement"]
 categories: [politics]
 showToc: true
 TocOpen: true

@@ -1,26 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2018-03-02T05:00:31Z"
 guid: https://joshuapsteele.com/?p=41119
 id: 41119
-cover:
-    image: /wp-content/uploads/2018/02/pablo-3-1.png
-rank_math_canonical_url:
-- http://anglicanpastor.com/christian-do-the-daily-office-5-things-you-can-learn-from-morning-and-evening-prayer/
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Christian, Do the Daily Office: 5 Things You Can Learn from Morning and Evening
   Prayer'
 total_sidebar_layout:
-- right_sidebar
 url: /christian-daily-office-5-things-can-learn-morning-evening-prayer/
 ---
 

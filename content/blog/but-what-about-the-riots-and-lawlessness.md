@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-06-04T21:47:31Z"
 guid: https://joshuapsteele.com/?p=42302
 id: 42302
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: “But, What About the Riots and Lawlessness?”
 url: /but-what-about-the-riots-and-lawlessness/
 ---

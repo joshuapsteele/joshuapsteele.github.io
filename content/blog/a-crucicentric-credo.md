@@ -1,9 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 custom_permalink:
-- theology-outline/
 date: "2015-12-08T11:45:35Z"
 guid: https://joshuapsteele.com/?p=3504
 id: 3504

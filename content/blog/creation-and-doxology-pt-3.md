@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2012-09-18T08:08:12Z"
 guid: http://windowinthesky.wordpress.com/?p=1436
 id: 1436
@@ -38,7 +38,7 @@ In light of these things, to relegate the manifold and rich uses of creation the
 
 </div><div>\[5\] Ebert 1992, 171-2.
 
-</div><div>\[6\] Ibid., 170-2. “Δι᾿ οὗ καὶ **<span style="text-decoration: underline;">ἐποίησεν</span>** τοὺς αἰῶνας·…καθαρισμὸν τῶν ἁμαρτιῶν **<span style="text-decoration: underline;">ποιησάμενος</span>**.” This appears to be a purposeful parallel because the author could have easily used the cognate verb kaqarivzw instead of the classical use of the middle participle and adjective.
+</div><div>\[6\] Ibid., 170-2. “Δι᾿ οὗ καὶ **<u>ἐποίησεν</u>** τοὺς αἰῶνας·…καθαρισμὸν τῶν ἁμαρτιῶν **<u>ποιησάμενος</u>**.” This appears to be a purposeful parallel because the author could have easily used the cognate verb kaqarivzw instead of the classical use of the middle participle and adjective.
 
 </div><div>[\[7\]](/Users/Josh/Downloads/CREATION%20(2).docx#_ftnref7) With regards to “Eikon” language, I am indebted to Scot McKnight, who uses the terminology frequently in his writing. Consider his discussion of humans as Eikons and Christ as the perfect Eikon who redeems in Scot McKnight, *A Community Called Atonement*. Living Theology. (Nashville: Abingdon, 2007), especially pp. 15-24.
 

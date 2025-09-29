@@ -1,19 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2013-05-10T09:26:30Z"
 guid: https://joshuapsteele.com/?p=2610
 id: 2610
 publicize_twitter_user:
-- Steele_J
-- Steele_J
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: My Unforgettable Cedarville Experience (pt 2)
 url: /my-unforgettable-cedarville-experience-pt-2-2/
 ---

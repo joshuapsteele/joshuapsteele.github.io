@@ -1,24 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Dissertation
+  - dissertation
 date: "2019-01-16T22:08:00Z"
 guid: https://joshuapsteele.com/?p=41561
 id: 41561
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1040"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Barth
-- Bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
 url: /i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/
 ---

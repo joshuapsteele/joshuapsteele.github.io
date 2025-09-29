@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
+  - bible
+  - "church and theology"
 date: "2015-04-24T09:13:42Z"
 guid: https://windowinthesky.wordpress.com/2015/04/24/barth-on-the-wilderness-temptations-1-stones-into-bread/
 id: 3302

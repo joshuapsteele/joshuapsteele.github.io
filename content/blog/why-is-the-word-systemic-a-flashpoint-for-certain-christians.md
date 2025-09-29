@@ -1,16 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-06-03T20:13:43Z"
 guid: https://joshuapsteele.com/?p=42299
 id: 42299
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Why is the word “systemic” a flashpoint for certain Christians?
 url: /why-is-the-word-systemic-a-flashpoint-for-certain-christians/
 ---

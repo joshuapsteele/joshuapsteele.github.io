@@ -1,25 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- Productivity and Time Management
-- The Christian Life
+  - "church and theology"
+  - "productivity and time management"
+  - "the christian life"
 date: "2018-03-28T14:44:59Z"
 guid: https://joshuapsteele.com/?p=41189
 id: 41189
-cover:
-    image: /wp-content/uploads/2018/03/pablo-2.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: What to make of Jordan Peterson? Some takes, then my own.
 total_sidebar_layout:
-- right_sidebar
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
 ---
 

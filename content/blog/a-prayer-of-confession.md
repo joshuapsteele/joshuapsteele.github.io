@@ -1,18 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Church and Theology
-- The Christian Life
+  - bible
+  - "church and theology"
+  - "the christian life"
 date: "2019-01-15T20:35:33Z"
 guid: https://joshuapsteele.com/?p=41559
 id: 41559
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: A Prayer of Confession
 url: /a-prayer-of-confession/
 ---

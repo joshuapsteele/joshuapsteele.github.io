@@ -1,18 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-06-08T18:39:38Z"
 guid: https://joshuapsteele.com/?p=41270
 id: 41270
-cover:
-    image: /wp-content/uploads/2018/06/david-pisnoy-562428-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths'
 url: /the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/
 ---

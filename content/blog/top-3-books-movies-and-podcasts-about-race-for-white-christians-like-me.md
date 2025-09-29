@@ -1,18 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2020-06-05T16:02:20Z"
 guid: https://joshuapsteele.com/?p=42304
 id: 42304
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- racism
+  - racism
 title: Top 3 Books, Movies, and Podcasts about Race for White Christians like Me
 url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
 ---

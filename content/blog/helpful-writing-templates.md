@@ -1,22 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2019-08-23T14:43:59Z"
 guid: https://joshuapsteele.com/?p=41890
 id: 41890
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- writing
+  - writing
 title: Helpful Writing Templates
 url: /helpful-writing-templates/
 ---

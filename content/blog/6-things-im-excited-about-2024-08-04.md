@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Uncategorized
+  - uncategorized
 date: "2024-09-04T10:51:34Z"
 guid: https://joshuapsteele.com/?p=43045
 id: 43045

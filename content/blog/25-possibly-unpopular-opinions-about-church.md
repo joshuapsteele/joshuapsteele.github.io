@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Society
-- Church and Theology
+  - "church and society"
+  - "church and theology"
 date: "2024-02-27T13:42:02Z"
 guid: https://joshuapsteele.com/?p=42932
 id: 42932
 tags:
-- local churches
-- worship styles
+  - "local churches"
+  - "worship styles"
 title: 25 Possibly Unpopular Opinions about Church
 url: /25-possibly-unpopular-opinions-about-church/
 ---

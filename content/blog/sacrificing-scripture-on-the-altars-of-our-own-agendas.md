@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Personal
+  - bible
+  - personal
 date: "2012-09-19T16:21:17Z"
 guid: http://windowinthesky.wordpress.com/?p=1459
 id: 1459

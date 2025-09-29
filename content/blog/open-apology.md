@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2013-02-22T23:36:21Z"
 guid: https://joshuapsteele.com/?p=2323
 id: 2323
@@ -25,9 +25,9 @@ That is, while I’m NOT sorry for seeking prophetically to address injustices b
 
 (This is not a retraction of my activism efforts, for I am sincerely convinced that the University has committed institutional sins, if you will, in its recent decisions.)
 
-However, I would like to remind all “outsiders” that following Jesus of Nazareth is <span style="text-decoration:underline;">**not** </span>supposed to look like the current controversies which plague Cedarville University. Christianity is more than just intrigue and infighting, although those things will always be a part of Christendom until the end of days because us Christians are messed-up people just like everyone else.
+However, I would like to remind all “outsiders” that following Jesus of Nazareth is <u>**not** </u>supposed to look like the current controversies which plague Cedarville University. Christianity is more than just intrigue and infighting, although those things will always be a part of Christendom until the end of days because us Christians are messed-up people just like everyone else.
 
-Would you <span style="text-decoration:underline;">**please forgive me, and please forgive us Christians, for doing a poor job of representing Yahweh to you?** </span>
+Would you <u>**please forgive me, and please forgive us Christians, for doing a poor job of representing Yahweh to you?** </u>
 
 He is a God of unity, justice, and peace, and yet far too often we, as his people, miserably fail at embodying those things.
 
@@ -35,7 +35,7 @@ In the end, Yahweh has told us human beings what is good: to act justly, love me
 
 Justice, mercy, and humility.
 
-Please forgive me for when I’ve failed to embody <span style="text-decoration:underline;">mercy</span> and <span style="text-decoration:underline;">humility</span> in my pursuit of <span style="text-decoration:underline;">justice</span>.
+Please forgive me for when I’ve failed to embody <u>mercy</u> and <u>humility</u> in my pursuit of <u>justice</u>.
 
 Sincerely,
 

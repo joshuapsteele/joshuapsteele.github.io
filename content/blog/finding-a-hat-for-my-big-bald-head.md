@@ -1,14 +1,11 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- Personal
+  - personal
 date: "2024-04-26T12:48:48Z"
 guid: https://joshuapsteele.com/?p=42976
 id: 42976
-cover:
-    image: /wp-content/uploads/2024/04/pexels-photo-396777-1568x1176.jpeg
 title: Finding a Hat for My Big, Bald Head
 url: /finding-a-hat-for-my-big-bald-head/
 ---

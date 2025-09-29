@@ -4,8 +4,8 @@ date: 2025-05-05T14:26:00-04:00
 draft: false
 author: joshuapsteele
 description: "The Bible is clear about the poor, the oppressed, and the marginalized."
-tags: ["Bible", "Theology", "Social Justice"]
-categories: ["Religious", "Theological"]
+tags: ["bible", "theology", "social justice"]
+categories: ["religious", "theological"]
 url: /the-bible-is-clear/
 ---
 

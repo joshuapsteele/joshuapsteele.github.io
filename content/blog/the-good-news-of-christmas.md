@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2011-12-23T13:31:11Z"
 guid: http://windowinthesky.wordpress.com/?p=1199
 id: 1199

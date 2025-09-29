@@ -1,31 +1,16 @@
 ---
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 date: "2018-03-05T06:00:28Z"
 guid: https://joshuapsteele.com/?p=41127
 id: 41127
-cover:
-    image: /wp-content/uploads/2018/03/brandi-redd-414738-unsplash.jpg
-rank_math_description:
-- Click to learn more about the one simple trick I use to read faster as a Ph.D. student.
   It might not sound like the most exciting thing to try, but I guarantee that it
   can help to improve your reading speed!
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "987"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_title:
-- This One Simple Trick Helps Me Read Faster as a Ph.D. Student
 tags:
-- reading
+  - reading
 title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
 total_sidebar_layout:
-- right_sidebar
 url: /one-simple-trick-helps-read-faster-ph-d-student/
 ---
 

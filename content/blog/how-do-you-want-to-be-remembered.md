@@ -1,26 +1,18 @@
 ---
 author: joshuapsteele
 categories:
-- Personal
-- Productivity and Time Management
+  - personal
+  - "productivity and time management"
 date: "2016-05-30T20:49:33Z"
 guid: https://joshuapsteele.com/?p=3862
 id: 3862
-cover:
-    image: /wp-content/uploads/2016/05/pablo-7.png
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: How Do You Want To Be Remembered?
 url: /how-do-you-want-to-be-remembered/
 ---
 
 Do you know what the worst thing about ***death*** is?
 
-It’s not the <span style="text-decoration: underline;">dying</span> itself – its the **separation**.
+It’s not the <u>dying</u> itself – its the **separation**.
 
 That is, we don’t suffer the most from our own deaths (a one-time occurrence), but from suffering the deaths of others (repeatedly). Instead of living relationships, we are left with distant memories.
 
@@ -59,7 +51,7 @@ For me, I’d like to be remembered:
 
 …which sounds great, right? But here’s the rub:
 
-## What <span style="text-decoration: underline;">changes</span> do you and I need to make in our lives, to start making those hypothetical memories more realistic each day?
+## What <u>changes</u> do you and I need to make in our lives, to start making those hypothetical memories more realistic each day?
 
 I’d love to hear your thoughts on this in the comments below, as I consider how taking death to heart should impact one’s entire life.
 

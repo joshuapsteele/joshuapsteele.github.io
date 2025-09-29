@@ -1,19 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Dissertation
+  - bible
+  - dissertation
 date: "2019-11-21T22:04:08Z"
 guid: https://joshuapsteele.com/?p=42072
 id: 42072
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- Sermon on the Mount
+  - "sermon on the mount"
 title: Interpretive Approaches to the Sermon on the Mount
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
 ---

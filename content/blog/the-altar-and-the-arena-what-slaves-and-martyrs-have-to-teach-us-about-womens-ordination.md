@@ -1,38 +1,18 @@
 ---
 author: Aaron Harrison
 avada_post_views_count:
-- "301"
 avada_post_views_count_today_date:
-- 11-05-2022
 avada_today_post_views_count:
-- "1"
 categories:
-- Opinion
+  - opinion
 date: "2020-05-20T05:00:00Z"
 fusion_builder_status:
-- ""
 guid: http://anglicancompass.com/?p=18461
 id: 18461
-rank_math_description:
-- What can we learn about women's ordination from slaves and martyrs? Fr. Aaron Harrison
   weighs-in on an unfolding Anglican debate about women's ordination.
-rank_math_focus_keyword:
-- women's ordination
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "1131"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
-rank_math_seo_score:
-- "64"
-rank_math_title:
-- 'Women''s Ordination: What Slaves and Martyrs Have to Teach Us'
 tags:
-- Anglican Compass
-- women's ordination
+  - "anglican compass"
+  - "women's ordination"
 title: 'The Altar and the Arena: What Slaves and Martyrs Have to Teach Us About Women’s
   Ordination'
 url: /the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/

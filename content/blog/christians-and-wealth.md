@@ -1,13 +1,11 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
-- The Christian Life
+  - "church and theology"
+  - "the christian life"
 date: "2016-09-24T01:00:30Z"
 guid: https://joshuapsteele.com/?p=3939
 id: 3939
-cover:
-    image: /wp-content/uploads/2016/09/pablo.png
 title: 'Christians and Wealth: An Argument for Downward Mobility'
 url: /christians-and-wealth/
 ---
@@ -124,17 +122,17 @@ Then, and only then, will we be able to reduce our extravagant standards of livi
 
 ## Bibliography
 
-Sider, Ronald. “God and the Poor.” Sider, Ronald. <span style="text-decoration: underline;">Rich Christians in an Age of Hunger.</span> Word Publishing, 1997.
+Sider, Ronald. “God and the Poor.” Sider, Ronald. <u>Rich Christians in an Age of Hunger.</u> Word Publishing, 1997.
 
-—. “Toward a Simpler Lifestyle: The Graduated Tithe and Other Modest Proposals.” Sider, Ronald. <span style="text-decoration: underline;">Rich Christians in an Age of Hunger.</span> Word Publishing, 1997.
+—. “Toward a Simpler Lifestyle: The Graduated Tithe and Other Modest Proposals.” Sider, Ronald. <u>Rich Christians in an Age of Hunger.</u> Word Publishing, 1997.
 
-Wirzba, Norman. “The Decline of Delight.” Wirzba, Norman. <span style="text-decoration: underline;">Living the Sabbath: Discovering the Rhythms of Rest and Delight.</span> Brazos, 2006. 64-75.
+Wirzba, Norman. “The Decline of Delight.” Wirzba, Norman. <u>Living the Sabbath: Discovering the Rhythms of Rest and Delight.</u> Brazos, 2006. 64-75.
 
-Witherington, Ben. “Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification.” Witherington, Ben. <span style="text-decoration: underline;">Jesus and Money: A Guide for Times of Financial Crisis.</span> Brazos, 2010. 153-169.
+Witherington, Ben. “Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 153-169.
 
-—. “Ten Christian Myths about Money.” Witherington, Ben. <span style="text-decoration: underline;">Jesus and Money: A Guide for Times of Financial Crisis.</span> Brazos, 2010. 165-169.
+—. “Ten Christian Myths about Money.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 165-169.
 
-—. “Towards a New Testament Theology of Money, Stewardship, and Giving.” Witherington, Ben. <span style="text-decoration: underline;">Jesus and Money: A Guide for Times of Financial Crisis.</span> Brazos, 2010. 141-152.
+—. “Towards a New Testament Theology of Money, Stewardship, and Giving.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 141-152.
 
 <div># Notes
 

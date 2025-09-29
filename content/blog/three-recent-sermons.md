@@ -1,22 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2016-03-11T20:56:19Z"
 guid: https://joshuapsteele.com/?p=3580
 id: 3580
-cover:
-    image: /wp-content/uploads/2016/03/hqdefault.jpg
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: Three Recent Sermons
 url: /three-recent-sermons/
 ---

@@ -1,17 +1,14 @@
 ---
 activitypub_status:
-- federate
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2024-04-23T23:15:40Z"
 guid: https://joshuapsteele.com/?p=42973
 id: 42973
-cover:
-    image: /wp-content/uploads/2024/04/pexels-photo-9486689-1568x1047.jpeg
 tags:
-- book of common prayer
-- prayer
+  - "book of common prayer"
+  - prayer
 title: Prayers for the Sick
 url: /prayers-for-the-sick/
 ---

@@ -1,24 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2019-12-13T16:42:18Z"
 guid: https://joshuapsteele.com/?p=42130
 id: 42130
-mf2_syndication:
-- a:0:{}
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_og_content_image:
-- a:2:{s:5:"check";s:32:"495ac6b41e1d9dcd039120b7f49fd209";s:6:"images";a:0:{}}
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- research
+  - research
 title: Help! I'm looking for examples of "theological triage," "doctrinal
   taxonomy," or "dogmatic rank"
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/

@@ -3,11 +3,11 @@ date: "2024-11-13T16:40:14-05:00"
 title: 'Ten Tools for Embracing Finitude'
 author: joshuapsteele
 categories:
-- Productivity and Time Management
+  - "productivity and time management"
 tags:
-- 8020
-- reading notes
-- Burkeman
+  - 8020
+  - "reading notes"
+  - burkeman
 url: /ten-tools-for-embracing-finitude/
 ---
 

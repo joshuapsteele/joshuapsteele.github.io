@@ -1,18 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Software Engineering
+  - "software engineering"
 date: "2022-12-19T14:17:13Z"
 guid: https://joshuapsteele.com/?p=42728
 id: 42728
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- ChatGPT
+  - chatgpt
 title: 'ChatGPT: Write a Viral Blogpost about Why to Become a Software Engineer'
 url: /chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/
 ---

@@ -1,31 +1,20 @@
 ---
 advanced_seo_description:
-- Joshua Steele tells the story of his journey from theology and church work into
   tech via a coding bootcamp (Tech Elevator).
 author: joshuapsteele
 categories:
-- Personal
-- Software Engineering
+  - personal
+  - "software engineering"
 date: "2023-02-03T17:42:02Z"
 guid: https://joshuapsteele.com/?p=42760
 id: 42760
-cover:
-    image: /wp-content/uploads/2023/02/pexels-photo-2312369-1568x1045.jpeg
 jetpack_seo_html_title:
-- 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 jetpack_seo_noindex:
-- ""
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- coding
-- coding bootcamp
-- programming
-- software
+  - coding
+  - "coding bootcamp"
+  - programming
+  - software
 title: 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 url: /my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/
 ---

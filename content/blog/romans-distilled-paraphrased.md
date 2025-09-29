@@ -1,10 +1,9 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- The Christian Life
+  - bible
+  - "the christian life"
 custom_permalink:
-- romans-distilled-paraphrased
 date: "2012-05-03T14:02:32Z"
 guid: http://windowinthesky.wordpress.com/?p=1344
 id: 1344

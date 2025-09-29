@@ -1,25 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- The Christian Life
+  - "the christian life"
 date: "2018-02-28T17:06:33Z"
 guid: https://joshuapsteele.com/?p=41115
 id: 41115
-cover:
-    image: /wp-content/uploads/2018/02/andre-hunter-350301-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "992"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- questions
+  - questions
 title: 'Cut the "Positivity" Crap: What Frustrates You?'
 total_sidebar_layout:
-- right_sidebar
 url: /cut-positivity-crap-frustrates/
 ---
 

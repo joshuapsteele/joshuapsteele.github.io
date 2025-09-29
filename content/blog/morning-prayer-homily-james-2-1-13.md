@@ -1,20 +1,12 @@
 ---
 author: joshuapsteele
 categories:
-- Bible
-- Sermons
+  - bible
+  - sermons
 date: "2015-08-31T17:08:22Z"
 guid: https://joshuapsteele.com/?p=3434
 id: 3434
 publicize_twitter_user:
-- joshuapsteele
-- joshuapsteele
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 title: 'Morning Prayer Homily: James 2.1-13'
 url: /morning-prayer-homily-james-2-1-13/
 ---
@@ -29,13 +21,13 @@ The verse immediately preceding this morning’s lesson, James 1:27, says this:
 
 > “***religion that is pure and undefiled before God, the Father, is this: to visit orphans and widows in their affliction, and to keep oneself unstained from the world***.”
 
-So, *<span style="text-decoration:underline;">purity from the world</span>* on one hand, <span style="text-decoration:underline;">*social justice for the oppressed*</span> on the other. And yet, in a world which is stained by rampant injustice, **these are not two different pursuits, but different facets of the same agenda**. Just as we must not allow the manifold sins of the world to stain our souls, we must take care to not allow the deathly and selfish perspectives of the world to stain our vision!
+So, *<u>purity from the world</u>* on one hand, <u>*social justice for the oppressed*</u> on the other. And yet, in a world which is stained by rampant injustice, **these are not two different pursuits, but different facets of the same agenda**. Just as we must not allow the manifold sins of the world to stain our souls, we must take care to not allow the deathly and selfish perspectives of the world to stain our vision!
 
-The world says that this \[slaps Bible\] is <span style="text-decoration:underline;">just a book</span>. We **disagree**, and <span style="text-decoration:underline;">**see much more**</span>.
+The world says that this \[slaps Bible\] is <u>just a book</u>. We **disagree**, and <u>**see much more**</u>.
 
-The world says that this \[slaps altar\] is <span style="text-decoration:underline;">just a table</span>. Just <span style="text-decoration:underline;">bread</span>. Just <span style="text-decoration:underline;">wine</span>. We **disagree**, and <span style="text-decoration:underline;">**see much more**</span>.
+The world says that this \[slaps altar\] is <u>just a table</u>. Just <u>bread</u>. Just <u>wine</u>. We **disagree**, and <u>**see much more**</u>.
 
-This \[gestures to room\] is **more** than mere <span style="text-decoration:underline;">meditation</span>. Our God is **more** than a divinized <span style="text-decoration:underline;">delusion</span>.
+This \[gestures to room\] is **more** than mere <u>meditation</u>. Our God is **more** than a divinized <u>delusion</u>.
 
 **We have wiped the world’s mud out of our eyes, to see more clearly.**
 
@@ -49,27 +41,27 @@ We **agree**. Or at least we’re constantly tempted to in the everyday moments 
 
 We’ve been wooed by the world’s wisdom.
 
-We allow the stratified contents and contours of the world <span style="text-decoration:underline;">around</span> us to dictate the distinctions <span style="text-decoration:underline;">among</span> us.
+We allow the stratified contents and contours of the world <u>around</u> us to dictate the distinctions <u>among</u> us.
 
 We make evil judgments – very subtle, to be sure, but just so, that much more evil judgments! – based on the way things *<u>are</u>*.
 
-We are naïve newcomers to the law of liberty – to the law which gives freedom ***from*** the way things <span style="text-decoration:underline;">are</span>, ***from*** the way things <span style="text-decoration:underline;">have been</span> as long as we can remember, and freedom ***for*** the way things <span style="text-decoration:underline;">once were</span>, in a garden unstained by Sin and Death. A freedom ***for*** the way things <span style="text-decoration:underline;">ought to be</span>, and will be in a city illuminated by Christ himself.
+We are naïve newcomers to the law of liberty – to the law which gives freedom ***from*** the way things <u>are</u>, ***from*** the way things <u>have been</u> as long as we can remember, and freedom ***for*** the way things <u>once were</u>, in a garden unstained by Sin and Death. A freedom ***for*** the way things <u>ought to be</u>, and will be in a city illuminated by Christ himself.
 
 Christ himself, the One of whom Isaiah spoke thus:
 
 > ***“There shall come forth a shoot from the stump of Jesse, and a branch from his roots shall bear fruit. And the Spirit of the Lord shall rest upon him, the Spirit of wisdom and understanding, the Spirit of counsel and might, the Spirit of knowledge and the fear of the Lord.***
 > 
-> ***“And his delight shall be in the fear of the Lord. <span style="text-decoration:underline;">He shall not judge by what his eyes see, or decide disputes by what his ears hear, but with righteousness he shall judge the poor, and decide with equity for the meek of the earth</span>; and he shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked. Righteousness shall be the belt of his waist, and faithfulness the belt of his loins”*** (Isaiah 11:1-5).
+> ***“And his delight shall be in the fear of the Lord. <u>He shall not judge by what his eyes see, or decide disputes by what his ears hear, but with righteousness he shall judge the poor, and decide with equity for the meek of the earth</u>; and he shall strike the earth with the rod of his mouth, and with the breath of his lips he shall kill the wicked. Righteousness shall be the belt of his waist, and faithfulness the belt of his loins”*** (Isaiah 11:1-5).
 
 Friends, the rich are not inherently evil because of their possessions. We know this. They, **we**, have their own pains and problems, which we will need to address thoughtfully as a church providentially located in one of the world’s most affluent communities – and **this is no easy task**.
 
-<span style="text-decoration:underline;">***But***</span> it would be <span style="text-decoration:underline;">easy</span> for us to allow the stratified realities around us to stain our vision, to keep us short-sighted, to keep us complacent that **it would be just as unusual for the homeless and shabbily-clothed to join <span style="text-decoration:underline;">our</span> community** (really <span style="text-decoration:underline;">join</span> us, not just <span style="text-decoration:underline;">visit</span>), **as it would be for the rich and well-dressed to have joined the earliest Christians, or many of our impoverished brothers and sisters around the world today**.
+<u>***But***</u> it would be <u>easy</u> for us to allow the stratified realities around us to stain our vision, to keep us short-sighted, to keep us complacent that **it would be just as unusual for the homeless and shabbily-clothed to join <u>our</u> community** (really <u>join</u> us, not just <u>visit</u>), **as it would be for the rich and well-dressed to have joined the earliest Christians, or many of our impoverished brothers and sisters around the world today**.
 
 Let us fight hard against this subtle temptation.
 
-Let us consider how we should best love and welcome those the world <span style="text-decoration:underline;">calls</span>, and <span style="text-decoration:underline;">treats</span>, and <span style="text-decoration:underline;">sees</span> as “***the least***.”
+Let us consider how we should best love and welcome those the world <u>calls</u>, and <u>treats</u>, and <u>sees</u> as “***the least***.”
 
-Let us <span style="text-decoration:underline;">**disagree**</span>! And <span style="text-decoration:underline;">**see much more**</span>!
+Let us <u>**disagree**</u>! And <u>**see much more**</u>!
 
 Let us treat them as “***the loved***.”
 

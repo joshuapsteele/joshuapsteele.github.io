@@ -1,25 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- Church and Theology
+  - "church and theology"
 date: "2018-02-25T15:06:44Z"
 guid: https://joshuapsteele.com/?p=41075
 id: 41075
-cover:
-    image: /wp-content/uploads/2018/02/sofiya-levchenko-309396-unsplash.jpg
-rank_math_internal_links_processed:
-- "1"
-rank_math_news_sitemap_robots:
-- index
-rank_math_primary_category:
-- "990"
-rank_math_robots:
-- a:1:{i:0;s:5:"index";}
 tags:
-- theology
+  - theology
 title: 'Mental Models: A Helpful Model for Theology?'
 total_sidebar_layout:
-- right_sidebar
 url: /mental-models-helpful-model-theology/
 ---
 
