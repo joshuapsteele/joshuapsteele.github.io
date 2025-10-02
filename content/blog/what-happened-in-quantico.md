@@ -20,8 +20,8 @@ Gift link: https://www.economist.com/united-states/2025/09/30/the-president-trie
 
 ## [The Commander in Chief Is Not Okay](https://www.theatlantic.com/newsletters/archive/2025/09/trump-hegseth-speech-incoherent/684421/?gift=mQ7b2BbcDYusdgE07rQw5_Al-vLj_bX-KPEGP8F0NEM&utm_source=copy-link&utm_medium=social&utm_campaign=share) (The Atlantic)
 
-> "The president talked at length, and his comments should have confirmed to even the most sympathetic observer that he is, as the kids say, not okay. Several of Hegseth’s people said in advance of the senior-officer conclave that its goal was to energize America’s top military leaders and get them to focus on Hegseth’s vision for a new Department of War. But the generals and admirals should be forgiven if they walked out of the auditorium and wondered: What on earth is wrong with the commander in chief?"
-> [...]
+> "The president talked at length, and his comments should have confirmed to even the most sympathetic observer that he is, as the kids say, not okay. Several of Hegseth’s people said in advance of the senior-officer conclave that its goal was to energize America’s top military leaders and get them to focus on Hegseth’s vision for a new Department of War. But the generals and admirals should be forgiven if they walked out of the auditorium and wondered: What on earth is wrong with the commander in chief?" [...]
+> 
 > "In 1973, an Air Force nuclear-missile officer named Harold Hering asked a simple question during a training session: “How can I know that an order I receive to launch my missiles came from a sane president?” The question cost him his career. Military members are trained to execute orders, not question them. But today, both the man who can order the use of nuclear arms and the man who would likely verify such an order gave disgraceful and unnerving performances in Quantico. How many officers left the room asking themselves Major Hering’s question?"
 
 Gift link: https://www.theatlantic.com/newsletters/archive/2025/09/trump-hegseth-speech-incoherent/684421/?gift=mQ7b2BbcDYusdgE07rQw5_Al-vLj_bX-KPEGP8F0NEM&utm_source=copy-link&utm_medium=social&utm_campaign=share
