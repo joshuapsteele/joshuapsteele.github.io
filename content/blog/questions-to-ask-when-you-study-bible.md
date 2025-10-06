@@ -3,17 +3,12 @@ author: joshuapsteele
 categories:
   - bible
 date: "2018-01-31T15:09:33Z"
-footnotes:
 guid: https://joshuapsteele.com/?p=40995
 id: 40995
-  questions can help structure your personal or group Bible study. Plus, they work
-  with pretty much any passage of Scripture! I've even included a worksheet format
-  you can use. Click to learn more!
 tags:
   - bible
   - questions
 title: 3 Questions to Ask When You Study the Bible (Plus a Worksheet!)
-total_sidebar_layout:
 url: /questions-to-ask-when-you-study-bible/
 ---
 
@@ -23,13 +18,9 @@ Right? Even with helpful books out there like *[How to Read the Bible for All It
 
 How are we supposed to keep questions of authorship, genre, meaning, application, etc. etc. straight when we study the Bible?
 
----
-
 ## The Solution: Ask These 3 Questions of Any Bible Passage You Read and Study
 
 No, I didn’t come up with these on my own. To give credit where credit is due: I heard them at Beeson Divinity School from Dr. Allen Ross. Also, a quick web search leads to [this 2009 interview of Dr. Gerald Bray](https://www.thegospelcoalition.org/blogs/justin-taylor/an-interview-with-gerald-bray-what-questions-should-we-ask-of-a-biblical-text/) (also a Beeson professor!)
-
----
 
 ## 1. What Does this Passage Teach Us About God?
 
@@ -38,8 +29,6 @@ No, I didn’t come up with these on my own. To give credit where credit is due:
 - What has God done?
 
 Make a list of your observations. You’ll add to this as we go along.
-
----
 
 ## 2. What Does this Passage Teach Us about Us Human Beings?
 
@@ -54,8 +43,6 @@ For example, if a particular passage is emphasizing the fact that people lie all
 
 Again, make a list of your answers to these questions. Add it to your previous list of observations about God.
 
----
-
 ## 3. What Does This Passage Teach Us About How We Are Supposed to Respond to God?
 
 OK, here’s where the rubber meets the road. But, again, this question can feel pretty vague/broad, so here are sub-questions to add structure:
@@ -69,26 +56,28 @@ Ideally, you should be able to use your answers to the first two questions to he
 
 That is, say your passage doesn’t mention Jesus, but Jesus is in fact how God has addressed the human problem in your passage (protip: this is VERY OFTEN the case!) It’s legitimate to think and take some notes about how God’s entire mission of redemption and salvation addressed the particular sin problem that your passage focuses on.
 
-**Take care when doing so, however!** This is why it’s so important to know the entirety of the Good Story of God as found in Scripture. The more familiar we become with the entire narrative, the easier it becomes to make sense of each particular passage!
+**Take care when doing so, however!** This is why it’s so important to know the entirety of [the Good Story of God as found in Scripture](https://bibleproject.com/videos/the-story-of-the-bible/). The more familiar we become with the entire narrative, the easier it becomes to make sense of each particular passage!
 
----
+## Want to Learn More?
 
-## Here’s an example of how to tie this all together: A Bible Study Worksheet
+If you want to learn more about how to read and understand the Bible, I highly recommend [the "How to Read the Bible" series from the BibleProject](https://bibleproject.com/videos/collections/how-to-read-the-bible/): 
 
-I hope you have found these three questions helpful. If you’re interested, here’s an example of how you might create a simple worksheet for a passage of Scripture.
-
-- [Hosea 11 Bible Study Worksheet (Word)](https://joshuapsteele.com/wp-content/uploads/2018/01/HOSEA-11-Worksheet.docx)
-- [Hosea 11 Bible Study Worksheet (PDF)](https://joshuapsteele.com/wp-content/uploads/2018/01/HOSEA-11-Worksheet.pdf)
-
-I just created this worksheet, based on Hosea 11:1-11, for a youth group lesson I’ll be teaching this evening.
-
-As you’ll see, I simply inserted the passage (from [BibleGateway.com](https://www.biblegateway.com/)) in the left-hand column of a two-column table. On the right side, I inserted the Bible study questions from above, giving some bullet points and blank lines for the students to write down their answers.
-
-## Here’s a Generic Worksheet You Can Use for Any Passage of Scripture:
-
-- [Bible Study Worksheet (Word)](https://joshuapsteele.com/wp-content/uploads/2018/01/Bible-Study-Worksheet.docx)
-- [Bible Study Worksheet (PDF)](https://joshuapsteele.com/wp-content/uploads/2018/01/Bible-Study-Worksheet.pdf)
-
-### Feel free to take this worksheet, customize it, and use it for your own Bible study – whether on your own or with a group!
-
-Let me know how it goes! If you have any questions about using these questions for Bible study, let me know in the comments below! I’d love to help answer your questions.
+- https://bibleproject.com/videos/what-is-bible/
+- https://bibleproject.com/videos/the-story-of-the-bible/
+- https://bibleproject.com/videos/literary-styles-bible
+- https://bibleproject.com/videos/bible-jewish-meditation-literature-h2r
+- https://bibleproject.com/videos/plot-biblical-narrative
+- https://bibleproject.com/videos/character-biblical-narrative
+- https://bibleproject.com/videos/setting-biblical-narrative
+- https://bibleproject.com/videos/design-patterns-biblical-narrative
+- https://bibleproject.com/videos/how-to-read-gospel
+- https://bibleproject.com/videos/how-to-read-the-bible-the-parables-of-jesus
+- https://bibleproject.com/videos/art-biblical-poetry
+- https://bibleproject.com/videos/metaphor-biblical-poetry
+- https://bibleproject.com/videos/book-of-psalms
+- https://bibleproject.com/videos/the-prophets
+- https://bibleproject.com/videos/books-solomon
+- https://bibleproject.com/videos/apocalyptic-literature
+- https://bibleproject.com/videos/reading-biblical-law
+- https://bibleproject.com/videos/new-testament-letters-epistles-historical-context
+- https://bibleproject.com/videos/new-testament-letters-literary-context
