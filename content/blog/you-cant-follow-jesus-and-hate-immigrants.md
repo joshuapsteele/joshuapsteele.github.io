@@ -12,17 +12,17 @@ categories:
   - ethics
 ---
 
-You can’t follow Jesus and hate immigrants.
+## You Can't Follow Jesus and Hate Immigrants
 
-Of course, this does NOT settle every question of immigration policy!
-
-But, if you’re a follower of Jesus, consider your overall posture toward immigrants. If you call yourself a Christian, I want you to think about this seriously.
+You can’t follow Jesus and hate immigrants. Of course, this does NOT settle every question of immigration policy! But, if you’re a follower of Jesus, consider your overall posture toward immigrants. If you call yourself a Christian, I want you to think about this seriously.
 
 What comes into your head and your heart when you think of immigrants and refugees? Fear? Anger? Disgust?
 
 What if the immigrants are in your country legally? What if they’re your brothers and sisters in Christ? Does that make any difference in what you think and feel about them? Or are they still primarily “illegals” who are “ruining this country”?
 
 If you think that a given immigration policy or system is a mess and that X, Y, or Z should be done about it, what are your motivations? Are you concerned about the welfare of the immigrants themselves, many of whom are quite poor and powerless? Or are you acting out of fear and self-interest?
+
+## Potential Objections
 
 Some may object, saying that while Christians are called to love immigrants, we still need to protect our borders and uphold laws. And it’s true that immigration policy is complex, and nations have a responsibility to maintain order and security.
 
@@ -31,6 +31,8 @@ However, the question here isn’t about the specifics of policy but about the p
 Others may argue that showing hospitality to immigrants and refugees could lead to an unsustainable burden on our resources or change our cultural identity. While practical concerns about resources are valid, Scripture repeatedly calls us to care for the vulnerable, trusting that God will provide.
 
 Moreover, the kingdom of God is not confined by national or cultural boundaries! As citizens of this kingdom, our identity should first and foremost be shaped by our faith, not by our nationality, ethnicity, or anything else.
+
+## What Does the Bible Say About Immigrants?
 
 The Bible actually has quite a bit to say about immigrants, sojourners, and refugees. In fact, you can even read the entire storyline of Scripture through these lenses. Here’s the tiniest of tastes:
 
@@ -60,19 +62,13 @@ As M. Daniel Carroll Rodas explains in [a helpful article on “Aliens, Immigrat
 
 (Source: M. Daniel Carroll R., “Aliens, Immigration, and Refugees,” *[Dictionary of Scripture and Ethics](https://www.amazon.com/s?k=Dictionary+of+Scripture+and+Ethics&linkCode=ll2&tag=joshuapsteele-20&linkId=fe86bbace8a5c59f7354c6bde6fc84eb&language=en_US&ref_=as_li_ss_tl)*, Grand Rapids, MI: Baker Academic, 2011, 58).
 
-You can’t follow Jesus and hate immigrants.
+## Conclusion
 
-Next time you’re reading the Bible, keep an eye out for terms like “alien,” “stranger,” “resident alien,” “foreigner,” and “sojourner.”
+You can’t follow Jesus and hate immigrants. Next time you’re reading the Bible, keep an eye out for terms like “alien,” “stranger,” “resident alien,” “foreigner,” and “sojourner.”
 
-The next time you think or speak about immigrants, ask yourself: Do your words reflect the heart of Jesus or the harsh rhetoric of political discourse?
+The next time you think or speak about immigrants, ask yourself: Do your words reflect the heart of Jesus or the harsh rhetoric of political discourse? Consider how the kingdom of God cuts right across ethnic and national boundaries, reshaping our loyalties to all nations, tribes, etc.
 
-Consider how the kingdom of God cuts right across ethnic and national boundaries, reshaping our loyalties to all nations, tribes, etc.
-
-As followers of Jesus, we are called to reflect His love and compassion in every area of our lives, including how we treat immigrants and refugees.
-
-Take time to examine your heart and attitudes, and ask how you can embody Christ’s radical hospitality.
-
-Engage with Scripture, seek out opportunities to welcome the stranger, and challenge rhetoric that dehumanizes or divides.
+As followers of Jesus, we are called to reflect His love and compassion in every area of our lives, including how we treat immigrants and refugees. Take time to examine your heart and attitudes, and ask how you can embody Christ’s radical hospitality. Engage with Scripture, seek out opportunities to welcome the stranger, and challenge rhetoric that dehumanizes or divides.
 
 Let’s commit to being voices of love, grace, and justice in a world that so desperately needs them.
 
