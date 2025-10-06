@@ -8,7 +8,7 @@ id: 40995
 tags:
   - bible
   - questions
-title: 3 Questions to Ask When You Study the Bible (Plus a Worksheet!)
+title: 3 Questions to Ask When You Study the Bible
 url: /questions-to-ask-when-you-study-bible/
 ---
 
