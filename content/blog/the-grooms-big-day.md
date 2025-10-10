@@ -8,8 +8,6 @@ guid: https://joshuapsteele.com/?p=3750
 id: 3750
 title: The Groom's Big Day
 url: /the-grooms-big-day/
-aliases:
-- /wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf
 ---
 
 ## [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)
