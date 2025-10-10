@@ -6,6 +6,10 @@ aliases:
 - /portfolio/sermons
 url: /sermons
 ---
+{{< callout "note" >}}
+**More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Philosophy of Ministry](/philosophy-of-ministry)
+{{< /callout >}}
+
 ( _Click [here](/category/sermons/) to view all posts that have been categorized as sermons on my blog._)
 
 ## [Why Haven't You Torn the Sky Open Yet?](/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/)

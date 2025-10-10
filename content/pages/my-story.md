@@ -7,6 +7,10 @@ aliases:
 url: /my-story
 showtoc: false
 ---
+{{< callout "note" >}}
+**More About Me:** [About](/about) • [CV/Resume](/cv) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
+{{< /callout >}}
+
 ## From Childhood to College
 
 God's faithfulness to me is linked with his faithfulness to my parents. They both grew up Roman Catholic. When I came along, they had recently left the Roman Catholic Church for conservative evangelicalism. And yet, their departure from the Roman Catholic Church was still recent enough that my grandmother persuaded them to have me baptized as a baby. This was when the first seeds of faith were sown into my life.

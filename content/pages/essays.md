@@ -6,6 +6,10 @@ aliases:
 - /portfolio/essays
 url: /essays
 ---
+{{< callout "note" >}}
+**More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
+{{< /callout >}}
+
 _(Note: Since writing the essays below, I've left the academy and now work as a software engineer. Nevertheless, I'm keeping these around for posterity.)_
 
 ## Wheaton College Graduate School (2017 - )

@@ -10,6 +10,8 @@ aliases:
 ---
 {{< callout "note" >}}
 This `/cv` page is just one of [my many "slash pages."](/slashes)
+
+**More About Me:** [About](/about) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}
 
 _(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_

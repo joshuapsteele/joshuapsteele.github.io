@@ -9,6 +9,8 @@ url: /about
 ---
 {{< callout "note" >}}
 This `/about` page is just one of [my many "slash pages."](/slashes)
+
+**More About Me:** [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}
 
 "The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.

@@ -7,6 +7,8 @@ showtoc: false
 ---
 {{< callout "note" >}}
 This `/now` page is just one of [my many "slash pages."](/slashes)
+
+**More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}
 
 These days, I'm:
