@@ -1,17 +1,14 @@
 ---
+title: 'The Prodigal Son, Part 2: Introduction to Romans'
+date: '2015-09-22T21:26:20Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2015-09-22T21:26:20Z"
-excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
-guid: https://joshuapsteele.com/?p=3442
-id: 3442
-publicize_twitter_user:
-title: 'The Prodigal Son, Part 2: Introduction to Romans'
+- bible
+- sermons
+description: ''
 url: /the-prodigal-son-part-2-introduction-to-romans/
+excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
 ---
-
 What a <u>relief</u>, to get out of that house.
 
 Ordinarily, Jude would have scoffed at his father’s request to purchase farming equipment from the next city – a three-day journey! But ever since Ethan, that rascal (you might even say that prodigal) brother of his, had returned, Jude could not stand to be in either man’s presence for long.

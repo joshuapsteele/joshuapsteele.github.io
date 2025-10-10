@@ -1,18 +1,15 @@
 ---
+title: Concerning Romans
+date: '2014-03-20T11:29:22Z'
 author: joshuapsteele
 categories:
-  - bible
-  - personal
-date: "2014-03-20T11:29:22Z"
-guid: https://joshuapsteele.com/?p=3196
-id: 3196
+- bible
+- personal
+description: ''
+url: /concerning-romans/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: Concerning Romans
-url: /concerning-romans/
 ---
-
 ![](http://www.treybailey.net/wp-content/uploads/2012/03/romans_title.jpg)
 
 Well, judging by my blog stats for the past 48 hours — as compared with the past few months — I’d get many more views on this post if it [concerned the chaos at Cedarville University](https://joshuapsteele.com/2014/03/18/cedarville-2/)!

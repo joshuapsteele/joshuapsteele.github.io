@@ -1,17 +1,14 @@
 ---
+title: Give Thanks!
+date: '2015-04-24T09:15:25Z'
 author: joshuapsteele
-date: "2015-04-24T09:15:25Z"
-guid: https://windowinthesky.wordpress.com/2015/04/24/give-thanks/
-id: 3304
+categories:
+- ethics
+description: ''
+url: /give-thanks/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: Give Thanks!
-url: /give-thanks/
-categories:
-  - ethics
 ---
-
 I'm not the most thankful person.
 
 However, I am a follower of Jesus, and one of the lessons I've been learning this semester is that <u>**praise**</u>, <u>**thanksgiving**</u>, and <u>**gratitude**</u> are closely intertwined. Worship should involve the public proclamation of who God is and what He has done — including specific, personal declarations of thanksgiving for God's grace and good gifts.

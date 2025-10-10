@@ -1,19 +1,16 @@
 ---
+title: 'Here''s the Elevator Pitch for my Dissertation Proposal: ''Scriptural, but Not Religious'''
+date: '2018-04-17T21:30:36Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2018-04-17T21:30:36Z"
-guid: https://joshuapsteele.com/?p=41208
-id: 41208
+- dissertation
 tags:
-  - barth
-  - bible
-  - bonhoeffer
-title: "Here's the Elevator Pitch for my Dissertation Proposal: 'Scriptural,
-  but Not Religious'"
+- barth
+- bible
+- bonhoeffer
+description: ''
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/
 ---
-
 Tomorrow, I defend the proposal for my dissertation. For now, the dissertation is tentatively titled: “Scriptural, but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”
 
 Here’s the “elevator pitch” for the dissertation. Feedback appreciated.

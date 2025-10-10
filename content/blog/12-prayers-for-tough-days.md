@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2020-03-02T21:35:28Z"
-guid: https://joshuapsteele.com/?p=42205
-id: 42205
-tags:
-  - "book of common prayer"
 title: 12 Prayers for Tough Days
-url: /12-prayers-for-tough-days/
+date: '2020-03-02T21:35:28Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- book of common prayer
+description: ''
+url: /12-prayers-for-tough-days/
 ---
-
 The “Occasional Prayers” section of the Book of Common Prayer is a goldmine, particularly when the going gets tough.
 
 The following prayers come from [the Anglican Church in North America’s 2019 Book of Common Prayer](http://bcp2019.anglicanchurch.net/). You can [view the text of the 2019 BCP here](http://bcp2019.anglicanchurch.net/index.php/downloads/). And you can [download a Word document containing all of the Occasional Prayers here](https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx).

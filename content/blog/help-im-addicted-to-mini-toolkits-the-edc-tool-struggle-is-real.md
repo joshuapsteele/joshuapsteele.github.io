@@ -1,19 +1,16 @@
 ---
-activitypub_status:
+title: 'Help, I''m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
+date: '2024-09-16T16:09:39Z'
 author: joshuapsteele
 categories:
-  - tools
-date: "2024-09-16T16:09:39Z"
-guid: https://joshuapsteele.com/?p=43059
-id: 43059
+- tools
 tags:
-  - edc
-  - reviews
-  - tools
-title: "Help, I'm Addicted to Mini Toolkits: The EDC Tool Struggle Is Real"
+- edc
+- reviews
+- tools
+description: ''
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
 ---
-
 I don’t know what it is about mini toolkits, but I love them.
 
 Actually, scratch that. I know why. It’s the same reason I love buying tools and books, more generally: the illusion of control. I like how having tools (and a great personal library) makes me feel like I’m ready for whatever life throws at me (ha!).

@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2016-05-27T20:02:19Z"
-guid: https://joshuapsteele.com/?p=3837
-id: 3837
 title: What are you afraid of?
-url: /what-are-you-afraid-of/
+date: '2016-05-27T20:02:19Z'
+author: joshuapsteele
 categories:
-  - personal
-  - productivity
+- personal
+- productivity
+description: ''
+url: /what-are-you-afraid-of/
 ---
-
 I’m scared. Are you?
 
 Specifically, as I wrote in my journal this very morning:

@@ -1,15 +1,12 @@
 ---
+title: What Color is My Parachute? The Flower Petal Exercise
+date: '2021-01-19T22:34:46Z'
 author: joshuapsteele
 categories:
-  - personal
-custom_permalink:
-date: "2021-01-19T22:34:46Z"
-guid: https://joshuapsteele.com/?p=42490
-id: 42490
-title: What Color is My Parachute? The Flower Petal Exercise
+- personal
+description: ''
 url: /what-color-is-my-parachute-the-flower-petal-exercise/
 ---
-
 I’m working my way through the classic job search guide *[What Color Is Your Parachute](https://amzn.to/3O8cnYK)*. First, I’ll summarize the 7-part “Flower Petal” exercise—a comprehensive self-assessment geared toward the workplace. Then, I’ll share \*my\* results from the self-assessment.
 
 Ah, but first, my **TL;DR**: **If you’re looking for work, or going to be looking for work soon, do yourself a huge favor and buy the latest edition of *[What Color Is Your Parachute](https://amzn.to/3O8cnYK)*.** Work through the book, especially the Flower Petal Exercise. It’s well-worth your time!

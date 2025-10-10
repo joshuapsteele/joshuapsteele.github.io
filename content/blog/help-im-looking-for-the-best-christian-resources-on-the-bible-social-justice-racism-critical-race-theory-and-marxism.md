@@ -1,19 +1,16 @@
 ---
+title: Help! I’m looking for the best Christian resources on the Bible, social justice, racism, Critical Race Theory, and Marxism
+date: '2020-06-20T17:01:31Z'
 author: joshuapsteele
-date: "2020-06-20T17:01:31Z"
-guid: https://joshuapsteele.com/?p=42321
-id: 42321
-tags:
-  - bible
-  - racism
-  - theology
-title: Help! I’m looking for the best Christian resources on the Bible, social justice,
-  racism, Critical Race Theory, and Marxism
-url: /help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/
 categories:
-  - ethics
+- ethics
+tags:
+- bible
+- racism
+- theology
+description: ''
+url: /help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/
 ---
-
 Help me out. I’m looking for the best, clearest, and most charitable explanations of the following three things:
 
 1. the biblical and theological reasons for caring about social justice and systemic racism,

@@ -1,14 +1,12 @@
 ---
+title: Open Apology
+date: '2013-02-22T23:36:21Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2013-02-22T23:36:21Z"
-guid: https://joshuapsteele.com/?p=2323
-id: 2323
-title: Open Apology
+- personal
+description: ''
 url: /open-apology/
 ---
-
 To whomever the following concerns:
 
 **I’d like to apologize publicly to any persons I may have offended during the past few months of my student activism efforts at Cedarville University.**

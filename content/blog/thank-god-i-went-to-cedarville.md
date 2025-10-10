@@ -1,14 +1,12 @@
 ---
+title: Thank God, I Went to Cedarville
+date: '2016-05-31T20:20:53Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2016-05-31T20:20:53Z"
-guid: https://joshuapsteele.com/?p=3865
-id: 3865
-title: Thank God, I Went to Cedarville
+- personal
+description: ''
 url: /thank-god-i-went-to-cedarville/
 ---
-
 As I prepare for my final semester at [Beeson Divinity School](http://www.beesondivinity.com/), it strikes me just how well I was prepared for my seminary education by my undergraduate professors at Cedarville University.
 
 All things considered, my time at CU **exposed me to the riches of biblical and theological studies, and it left me hungry for more**.

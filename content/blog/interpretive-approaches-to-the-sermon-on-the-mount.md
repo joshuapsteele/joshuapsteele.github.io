@@ -1,17 +1,15 @@
 ---
+title: Interpretive Approaches to the Sermon on the Mount
+date: '2019-11-21T22:04:08Z'
 author: joshuapsteele
 categories:
-  - bible
-  - dissertation
-date: "2019-11-21T22:04:08Z"
-guid: https://joshuapsteele.com/?p=42072
-id: 42072
+- bible
+- dissertation
 tags:
-  - "sermon on the mount"
-title: Interpretive Approaches to the Sermon on the Mount
+- sermon on the mount
+description: ''
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
 ---
-
 I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.
 
 ## In order to help situate my discussion of Barth’s and Bonhoeffer’s readings, I’m trying to get a better grasp of the various interpretive approaches to the Sermon on the Mount.

@@ -1,67 +1,15 @@
 ---
+title: 'My Sermon: Our Help'
+date: '2014-03-31T14:06:33Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2014-03-31T14:06:33Z"
-enclosure:
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3
-  22245580
-  audio/mpeg
-guid: https://joshuapsteele.com/?p=3235
-id: 3235
+- bible
+- sermons
+description: ''
+url: /my-sermon-our-help/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: 'My Sermon: Our Help'
-url: /my-sermon-our-help/
 ---
-
 Hey internet: I was recently given the chance to preach at my church, [St. Peter’s Anglican](http://stpetersbhm.org/), on the [Second Sunday of Lent](http://lectionary.library.vanderbilt.edu/texts.php?id=25). The [sermon audio is now online](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3). If you’ve got 23 minutes to spare, [give it a listen](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3)!
 
 First, [here are the passages](http://lectionary.library.vanderbilt.edu/texts.php?id=25):

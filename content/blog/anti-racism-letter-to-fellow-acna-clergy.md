@@ -1,17 +1,14 @@
 ---
+title: 'A Letter to Fellow ACNA Clergy: On Anti-Racism and a More Diverse and Just Anglicanism'
+date: '2020-06-01T07:00:51Z'
 author: Anglican Compass
-date: "2020-06-01T07:00:51Z"
-guid: https://anglicancompass.com/?p=22426
-id: 22426
 tags:
-  - "anglican compass"
-  - race
-  - racism
-title: 'A Letter to Fellow ACNA Clergy: On Anti-Racism and a More Diverse and Just
-  Anglicanism'
+- anglican compass
+- race
+- racism
+description: ''
 url: /anti-racism-letter-to-fellow-acna-clergy/
 ---
-
 **NOTE**: As is our policy with *all* Anglican Compass content, we ask that you [please submit a request before republishing content](https://anglicancompass.com/republishing-guidelines/).
 
 ---

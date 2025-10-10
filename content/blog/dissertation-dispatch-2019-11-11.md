@@ -1,19 +1,17 @@
 ---
+title: 'Dissertation Dispatch: 2019-11-11'
+date: '2019-11-11T18:58:55Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-11-11T18:58:55Z"
-guid: https://joshuapsteele.com/?p=42009
-id: 42009
+- dissertation
 tags:
-  - barth
-  - bible
-  - bonhoeffer
-  - research
-title: 'Dissertation Dispatch: 2019-11-11'
+- barth
+- bible
+- bonhoeffer
+- research
+description: ''
 url: /dissertation-dispatch-2019-11-11/
 ---
-
 ## I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. 
 
 Originally, my dissertation proposal cast a very wide net. I was going to have the following chapters:

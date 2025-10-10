@@ -1,15 +1,13 @@
 ---
+title: 'The Feast of St. James the Apostle: A Homily for Ministers'
+date: '2016-07-25T22:18:51Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2016-07-25T22:18:51Z"
-guid: https://joshuapsteele.com/?p=3909
-id: 3909
-title: 'The Feast of St. James the Apostle: A Homily for Ministers'
+- bible
+- sermons
+description: ''
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 ---
-
 *Readings: [Psalm 34; Jeremiah 16:14-21; Mark 1:14-20](https://www.biblegateway.com/passage/?search=Psalm+34%3B+Jeremiah+16%3A14-21%3B+Mark+1%3A14-20&version=NIV)*
 
 Like so many other feast days – scheduled, as they are, on the days of the namesakes’ deaths – the feast day of St. James the Apostle is **a strong rebuke to our aspirations**. To our aspirations as human beings, and especially to our aspirations as ministers of Christ’s Church.

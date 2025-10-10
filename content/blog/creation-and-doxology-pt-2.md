@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2012-09-17T20:19:17Z"
-guid: http://windowinthesky.wordpress.com/?p=1432
-id: 1432
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 2)'
-url: /creation-and-doxology-pt-2/
+date: '2012-09-17T20:19:17Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
+- bible
+- theology
+description: ''
+url: /creation-and-doxology-pt-2/
 ---
-
 [(Read Pt. 1 First!)](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)")
 
 # CREATION, COMPLEXITY, AND CHAOS

@@ -1,14 +1,12 @@
 ---
+title: On Building/Burning Bridges
+date: '2013-03-29T15:07:13Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2013-03-29T15:07:13Z"
-guid: https://joshuapsteele.com/?p=2578
-id: 2578
-title: On Building/Burning Bridges
+- personal
+description: ''
 url: /on-buildingburning-bridges/
 ---
-
 DISCLAIMER: there’s a fair bit about the Church that frustrates me.
 
 However, I’d like to address those frustrations in a way that builds bridges, not burns them down. Especially since sin and justice are both relational. It does no good to flee the former for the latter in a way that creates more rifts than it heals.

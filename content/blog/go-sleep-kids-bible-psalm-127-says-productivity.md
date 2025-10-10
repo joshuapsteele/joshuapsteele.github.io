@@ -1,16 +1,13 @@
 ---
-author: joshuapsteele
-date: "2018-02-28T12:51:21Z"
-guid: https://joshuapsteele.com/?p=41110
-id: 41110
 title: 'Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity'
-total_sidebar_layout:
-url: /go-sleep-kids-bible-psalm-127-says-productivity/
+date: '2018-02-28T12:51:21Z'
+author: joshuapsteele
 categories:
-  - productivity
-  - bible
+- productivity
+- bible
+description: ''
+url: /go-sleep-kids-bible-psalm-127-says-productivity/
 ---
-
 ## Personal Productivity in Psalm 127
 
 I love Psalm 127. Not because it makes me feel great, necessarily, but because it hits me like a ton of bricks whenever I read it (like I did last night, during evening prayer).

@@ -1,23 +1,16 @@
 ---
+title: Why Haven’t You Torn The Sky Open Yet?
+date: '2020-11-28T00:22:13Z'
 author: joshuapsteele
 categories:
-  - sermons
-  - uncategorized
-custom_permalink:
-date: "2020-11-28T00:22:13Z"
-enclosure:
-  https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3
-  15093155
-  audio/mpeg
-guid: https://joshuapsteele.com/?p=42427
-id: 42427
+- sermons
+- uncategorized
 tags:
-  - advent
-  - isaiah
-title: Why Haven’t You Torn The Sky Open Yet?
+- advent
+- isaiah
+description: ''
 url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
 ---
-
 *Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.*
 
 <figure class="wp-block-audio"><audio controls="" src="https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3"></audio></figure>---

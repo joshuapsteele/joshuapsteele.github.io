@@ -1,17 +1,14 @@
 ---
+title: Ok, Maybe a Bit More on Cedarville!
+date: '2014-03-20T11:46:15Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2014-03-20T11:46:15Z"
-guid: https://joshuapsteele.com/?p=3213
-id: 3213
+- personal
+description: ''
+url: /ok-maybe-a-bit-more-on-cedarville/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: Ok, Maybe a Bit More on Cedarville!
-url: /ok-maybe-a-bit-more-on-cedarville/
 ---
-
 You’ll notice that [the previous post on Cedarville](https://joshuapsteele.com/2014/03/18/cedarville-2/) ends with a link to [the Course Schedule](http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm):
 
 [![Image](https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650)](https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png)

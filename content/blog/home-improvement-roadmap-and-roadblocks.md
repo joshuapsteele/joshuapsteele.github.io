@@ -1,18 +1,15 @@
 ---
-activitypub_status:
+title: Home Improvement Roadmap and Roadblocks
+date: '2024-07-14T16:26:44Z'
 author: joshuapsteele
 categories:
-  - tools
-date: "2024-07-14T16:26:44Z"
-guid: https://joshuapsteele.com/?p=43025
-id: 43025
+- tools
 tags:
-  - drafts
-  - "home improvement"
-title: Home Improvement Roadmap and Roadblocks
+- drafts
+- home improvement
+description: ''
 url: /home-improvement-roadmap-and-roadblocks/
 ---
-
 We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.
 
 Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:

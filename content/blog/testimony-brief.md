@@ -1,16 +1,12 @@
 ---
+title: 'Testimony: A Faith Story, In Brief'
+date: '2017-08-07T07:00:36Z'
 author: joshuapsteele
 categories:
-  - personal
-custom_permalink:
-date: "2017-08-07T07:00:36Z"
-guid: https://joshuapsteele.com/?p=39977
-id: 39977
-  500 words. Knowing Jesus is not the same as knowing about him!
-title: 'Testimony: A Faith Story, In Brief'
+- personal
+description: ''
 url: /testimony-brief/
 ---
-
 *The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words. It was challenging to do, but also a helpful exercise! I challenge you to write out your own story in approximately 500 words.*
 
 ---

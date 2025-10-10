@@ -1,14 +1,12 @@
 ---
+title: Cedarville, Let there be Light. (pt. 1)
+date: '2012-09-20T15:07:47Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2012-09-20T15:07:47Z"
-guid: http://windowinthesky.wordpress.com/?p=1468
-id: 1468
-title: Cedarville, Let there be Light. (pt. 1)
+- personal
+description: ''
 url: /cedarville-let-there-be-light-pt-1/
 ---
-
 # The Statement:
 
 “Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of[ Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx). This decision was made following a review by the University administration and [trustees](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx) prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270)

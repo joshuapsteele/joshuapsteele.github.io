@@ -1,17 +1,15 @@
 ---
-author: joshuapsteele
-date: "2019-01-22T18:25:42Z"
-guid: https://joshuapsteele.com/?p=41579
-id: 41579
-tags:
-  - barth
-  - bonhoeffer
-  - research
-  - writing
 title: Spirit, Flesh, Restoration, and Sublimation
+date: '2019-01-22T18:25:42Z'
+author: joshuapsteele
+tags:
+- barth
+- bonhoeffer
+- research
+- writing
+description: ''
 url: /spirit-flesh-restoration-and-sublimation/
 ---
-
 There’s an intriguing passage in Bonhoeffer’s Letters and Papers from Prison where he discusses the relationship between “spirit” and “flesh,” in the context of discussing “restoration” and “sublimation,” in the context of discussing lyrics from certain hymns and songs that were meaningful to him in prison.
 
 Here it is, from a December 19, 1943 (the Fourth Sunday of Advent) letter to Eberhard Bethge:

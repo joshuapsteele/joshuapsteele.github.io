@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2019-08-23T14:43:59Z"
-guid: https://joshuapsteele.com/?p=41890
-id: 41890
-tags:
-  - writing
 title: Helpful Writing Templates
-url: /helpful-writing-templates/
+date: '2019-08-23T14:43:59Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+tags:
+- writing
+description: ''
+url: /helpful-writing-templates/
 ---
-
 The following templates come from *[They Say / I Say: The Moves That Matter in Academic Writing](https://amzn.to/33TJdor)*.
 
 ## **Introducing What They Say**

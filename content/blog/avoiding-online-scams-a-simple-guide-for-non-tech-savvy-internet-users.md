@@ -1,18 +1,16 @@
 ---
+title: 'Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users'
+date: '2023-07-25T21:24:41Z'
 author: joshuapsteele
 categories:
-  - technology
-date: "2023-07-25T21:24:41Z"
-guid: https://joshuapsteele.com/?p=42837
-id: 42837
+- technology
 tags:
-  - internet
-  - security
-  - technology
-title: 'Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users'
+- internet
+- security
+- technology
+description: ''
 url: /avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/
 ---
-
 ## Introduction
 
 Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet. We’ve all heard stories—maybe from a friend, a family member, or even in the news—of someone getting tricked online, often with distressing consequences. It serves as a stark reminder of the darker side of our digital world.

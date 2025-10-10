@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2016-08-26T14:09:01Z"
-guid: https://joshuapsteele.com/?p=3914
-id: 3914
 title: A Ridiculously Helpful Markdown Tutorial
-url: /a-ridiculously-helpful-markdown-tutorial/
+date: '2016-08-26T14:09:01Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+description: ''
+url: /a-ridiculously-helpful-markdown-tutorial/
 ---
-
 I’ve been dragging my heels on learning Markdown for awhile now.
 
 If you don’t know, Markdown is:

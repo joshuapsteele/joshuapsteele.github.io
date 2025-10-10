@@ -1,21 +1,13 @@
 ---
-author: joshuapsteele
-date: "2014-04-16T08:17:21Z"
-guid: https://joshuapsteele.com/?p=3267
-id: 3267
-publicize_facebook_url:
-publicize_twitter_url:
-publicize_twitter_user:
-  In it, I use Baudrillard's concept of hyperreality to look at the fear of death
-  in both White Noise and the Union Carbide plant in Bhopal, India. Click to learn
-  more!
 title: WHITE NOISE, BHOPAL, AND THE HYPERREAL FEAR OF DEATH
-total_sidebar_layout:
-url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
+date: '2014-04-16T08:17:21Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+description: ''
+url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
+publicize_twitter_user: In it, I use Baudrillard's concept of hyperreality to look at the fear of death in both White Noise and the Union Carbide plant in Bhopal, India. Click to learn more!
 ---
-
 The following essay deals with the theme of the fear of death in [*White Noise*, the novel by Don DeLillo](http://amzn.to/2EgL3pA) (affiliate link).
 
 ---

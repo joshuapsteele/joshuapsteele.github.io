@@ -1,18 +1,16 @@
 ---
-author: joshuapsteele
-date: "2024-02-27T13:42:02Z"
-guid: https://joshuapsteele.com/?p=42932
-id: 42932
-tags:
-  - "local churches"
-  - "worship styles"
 title: 25 Possibly Unpopular Opinions about Church
-url: /25-possibly-unpopular-opinions-about-church/
+date: '2024-02-27T13:42:02Z'
+author: joshuapsteele
 categories:
-  - ethics
-  - theology
+- ethics
+- theology
+tags:
+- local churches
+- worship styles
+description: ''
+url: /25-possibly-unpopular-opinions-about-church/
 ---
-
 The following are some of my opinions, held with varying levels of intensity, about church/churches.
 
 Note: These are geared toward Christian churches in the USA. Some would obviously also apply to churches elsewhere. But I haven’t nuanced this entire list for all global church contexts.

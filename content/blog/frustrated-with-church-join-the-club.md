@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2016-06-10T17:10:17Z"
-guid: https://joshuapsteele.com/?p=3876
-id: 3876
 title: Frustrated with Church? Join the Club!
-url: /frustrated-with-church-join-the-club/
+date: '2016-06-10T17:10:17Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+description: ''
+url: /frustrated-with-church-join-the-club/
 ---
-
 …and by “club” I of course mean “Church”!
 
 What am I getting at? Am I calling the Church a mere “club”?

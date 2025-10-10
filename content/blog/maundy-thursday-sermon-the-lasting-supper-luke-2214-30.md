@@ -1,16 +1,13 @@
 ---
+title: The Lasting Supper – Luke 22:14-30
+date: '2017-04-13T19:44:07Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2017-04-13T19:44:07Z"
-enclosure:
-guid: https://joshuapsteele.com/?p=4235
-id: 4235
-title: The Lasting Supper – Luke 22:14-30
+- bible
+- sermons
+description: ''
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
 ---
-
 <audio class="wp-audio-shortcode" controls="controls" id="audio-4235-3" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3?_=3" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3></audio>
 
 There is something special about last meals, isn’t there?

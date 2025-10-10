@@ -1,18 +1,16 @@
 ---
-author: joshuapsteele
-date: "2019-01-08T14:44:09Z"
-guid: https://joshuapsteele.com/?p=41551
-id: 41551
-tags:
-  - research
-  - writing
 title: Help me StickK to my writing habit
-url: /help-me-stickk-to-my-writing-habit/
+date: '2019-01-08T14:44:09Z'
+author: joshuapsteele
 categories:
-  - personal
-  - productivity
+- personal
+- productivity
+tags:
+- research
+- writing
+description: ''
+url: /help-me-stickk-to-my-writing-habit/
 ---
-
 I need to finish [this dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).
 
 To do so, I need to write regularly. For me, that means writing every day—a minimum of 500 words every day.

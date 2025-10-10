@@ -1,14 +1,12 @@
 ---
+title: A Farewell to Cedarville
+date: '2013-04-24T06:00:34Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2013-04-24T06:00:34Z"
-guid: https://joshuapsteele.com/?p=2601
-id: 2601
-title: A Farewell to Cedarville
+- personal
+description: ''
 url: /a-farewell-to-cedarville/
 ---
-
 ***(Originally posted in [The Ventriloquist](http://www.theventriloquist.us/). Go check out the rest of [Issue 10](http://www.theventriloquist.us/)!)***
 
 **“A Farewell to Cedarville” – Joshua Steele**

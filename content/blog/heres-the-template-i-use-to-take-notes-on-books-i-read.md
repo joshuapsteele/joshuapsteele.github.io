@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2018-09-06T19:41:44Z"
-guid: https://joshuapsteele.com/?p=41374
-id: 41374
 title: Here's the Template I Use to Take Notes on Books I Read
-url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
+date: '2018-09-06T19:41:44Z'
+author: joshuapsteele
 categories:
-  - dissertation
-  - productivity
+- dissertation
+- productivity
+description: ''
+url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
 ---
-
 Developed from [*How to Read a Book*, by Mortimer J. Adler](https://amzn.to/2M5AHsy).
 
 # BIBLIOGRAPHIC DATA:

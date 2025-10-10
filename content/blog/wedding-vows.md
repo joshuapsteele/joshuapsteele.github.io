@@ -1,16 +1,14 @@
 ---
+title: 'Wedding Vows: My Personal Take on the Traditional Version'
+date: '2012-08-14T20:20:39Z'
 author: joshuapsteele
 categories:
-  - personal
+- personal
 tags:
-  - poetry
-date: "2012-08-14T20:20:39Z"
-guid: http://windowinthesky.wordpress.com/?p=1412
-id: 1412
-title: 'Wedding Vows: My Personal Take on the Traditional Version'
+- poetry
+description: ''
 url: /wedding-vows/
 ---
-
 # The Traditional Wedding Vows
 
 In case you didn’t know, the “traditional” wedding vows – in English, at least – are found in the [Book of Common Prayer](http://www.bcponline.org/).

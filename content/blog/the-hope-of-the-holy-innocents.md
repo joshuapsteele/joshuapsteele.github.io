@@ -1,29 +1,15 @@
 ---
+title: The Hope of the Holy Innocents
+date: '2015-04-24T09:16:32Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-custom_permalink:
-date: "2015-04-24T09:16:32Z"
-enclosure:
-  http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3
-  47121604
-  audio/mpeg
-  https://joshuapsteele.com/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3
-  0
-  audio/mpeg
-excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope
-  of the Holy Innocents in this 2014 sermon.
-guid: https://windowinthesky.wordpress.com/2015/04/24/the-hope-of-the-holy-innocents/
-id: 3310
-publicize_facebook_url:
-publicize_twitter_url:
-publicize_twitter_user:
-  is on December 28. Learn more about the hope of the Holy Innocents.
-title: The Hope of the Holy Innocents
+- bible
+- sermons
+description: ''
 url: /the-hope-of-the-holy-innocents/
+excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope of the Holy Innocents in this 2014 sermon.
+publicize_twitter_user: is on December 28. Learn more about the hope of the Holy Innocents.
 ---
-
 {{< audio src="/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3" >}}
 
 (PDF: [The Hope of the Holy Innocents](https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))

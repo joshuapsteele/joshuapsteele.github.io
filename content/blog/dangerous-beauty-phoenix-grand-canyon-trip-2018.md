@@ -1,15 +1,12 @@
 ---
+title: 'Dangerous Beauty: Phoenix and Grand Canyon Trip 2018'
+date: '2018-03-09T14:47:50Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2018-03-09T14:47:50Z"
-guid: https://joshuapsteele.com/?p=41136
-id: 41136
-title: 'Dangerous Beauty: Phoenix and Grand Canyon Trip 2018'
-total_sidebar_layout:
+- personal
+description: ''
 url: /dangerous-beauty-phoenix-grand-canyon-trip-2018/
 ---
-
 ### Rachel and I just got back from our very first trip to the Southwest.
 
 The main reason for the trip was to visit some good friends of ours, the Smith family, in Phoenix, AZ. Here’s a picture of the group of us together after church at [Living Faith Anglican Church in Tempe, AZ](https://livingfaithanglican.org/), where my friend Peter Smith is the rector.

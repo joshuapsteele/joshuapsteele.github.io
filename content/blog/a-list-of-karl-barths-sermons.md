@@ -1,18 +1,16 @@
 ---
+title: A List of Karl Barth's Sermons
+date: '2019-01-26T16:57:52Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-01-26T16:57:52Z"
-guid: https://joshuapsteele.com/?p=41702
-id: 41702
+- dissertation
 tags:
-  - barth
-  - bible
-  - research
-title: A List of Karl Barth's Sermons
+- barth
+- bible
+- research
+description: ''
 url: /a-list-of-karl-barths-sermons/
 ---
-
 To make this list, I’ve used the data available in the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com/). I’ve just taken the tables of contents in the sermon volumes of Barth’s collected works and put them all in one place.
 
 The only way to display the dates correctly in Markdown is to write these up as code blocks, as I’ve done below.

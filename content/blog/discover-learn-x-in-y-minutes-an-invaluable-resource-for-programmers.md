@@ -1,19 +1,17 @@
 ---
+title: 'Discover Learn X in Y Minutes: An Invaluable Resource for Programmers'
+date: '2023-03-18T12:50:58Z'
 author: joshuapsteele
 categories:
-  - "software engineering"
-date: "2023-03-18T12:50:58Z"
-guid: https://joshuapsteele.com/?p=42789
-id: 42789
+- software engineering
 tags:
-  - learning
-  - programming
-  - software
-  - "software engineering"
-title: 'Discover Learn X in Y Minutes: An Invaluable Resource for Programmers'
+- learning
+- programming
+- software
+- software engineering
+description: ''
 url: /discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/
 ---
-
 As a programmer or someone aspiring to be one, you’re always on the lookout for valuable resources to help you learn new languages and tools. Today, I’m excited to introduce you to [learnxinyminutes.com](https://learnxinyminutes.com/), a must-visit website for anyone interested in coding. This site offers concise, code-focused tutorials for dozens of programming languages and essential tools, making it a perfect learning companion for beginners and experienced coders alike.
 
 ## Quick and Efficient Learning

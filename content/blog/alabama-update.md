@@ -1,21 +1,14 @@
 ---
+title: Alabama Update
+date: '2013-07-19T09:26:03Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2013-07-19T09:26:03Z"
-geo_public:
-guid: https://joshuapsteele.com/?p=2759
-id: 2759
-publicize_reach:
-publicize_twitter_user:
-  AL! I'm getting ready to start coursework at Beeson Divinity School.
-tagazine-media:
-  13:26:03";}
-  13:26:03";}
-title: Alabama Update
+- personal
+description: ''
 url: /20130719alabama-update/
+publicize_twitter_user: AL! I'm getting ready to start coursework at Beeson Divinity School.
+tagazine-media: 13:26:03";} 13:26:03";}
 ---
-
 Rachel and I are in the middle of our second month of calling Birmingham, Alabama “home.”
 
 While we could both do with a little less humidity (!), we’re enjoying ourselves and our surroundings down here in Alabama.

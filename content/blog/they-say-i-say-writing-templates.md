@@ -1,17 +1,14 @@
 ---
-author: joshuapsteele
-date: "2020-06-30T17:40:44Z"
-footnotes:
-guid: https://joshuapsteele.com/?p=42330
-id: 42330
-tags:
-  - writing
 title: They Say, I Say Writing Templates
-url: /they-say-i-say-writing-templates/
+date: '2020-06-30T17:40:44Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+tags:
+- writing
+description: ''
+url: /they-say-i-say-writing-templates/
 ---
-
 SOURCE: [*They Say / I Say: The Moves that Matter in Academic Writing*](https://amzn.to/3eOMlXF), 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!
 
 ## Disagreeing Without Being Disagreeable

@@ -1,18 +1,16 @@
 ---
-author: joshuapsteele
-date: "2020-06-19T03:06:10Z"
-guid: https://joshuapsteele.com/?p=42318
-id: 42318
-tags:
-  - collect
-  - juneteenth
-  - prayer
 title: A Collect for Juneteenth
-url: /a-collect-for-juneteenth/
+date: '2020-06-19T03:06:10Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- collect
+- juneteenth
+- prayer
+description: ''
+url: /a-collect-for-juneteenth/
 ---
-
 The following is a “collect” prayer that I composed for Juneteenth in 2020. What’s a “collect” prayer?
 
 > The short form of prayer, constructed (with many varieties of detail) from (1) an invocation, (2) a petition, and (3) a pleading of Christ’s name or an ascription of glory to God; and one of the most characteristic items in the W\[estern\] liturgy.

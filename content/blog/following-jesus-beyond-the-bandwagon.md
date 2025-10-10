@@ -1,15 +1,13 @@
 ---
+title: Following Jesus Beyond the Bandwagon
+date: '2016-09-12T22:34:54Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2016-09-12T22:34:54Z"
-guid: https://joshuapsteele.com/?p=3932
-id: 3932
-title: Following Jesus Beyond the Bandwagon
+- bible
+- sermons
+description: ''
 url: /following-jesus-beyond-the-bandwagon/
 ---
-
 *(A chapel message in a Christian school.)*
 
 There are a few things you should know about me:

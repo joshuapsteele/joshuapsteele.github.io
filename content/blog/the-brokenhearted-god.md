@@ -1,17 +1,14 @@
 ---
+title: The Brokenhearted God
+date: '2015-04-24T09:15:27Z'
 author: joshuapsteele
 categories:
-  - bible
-date: "2015-04-24T09:15:27Z"
-guid: https://windowinthesky.wordpress.com/2015/04/24/the-brokenhearted-god/
-id: 3309
+- bible
+description: ''
+url: /the-brokenhearted-god/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: The Brokenhearted God
-url: /the-brokenhearted-god/
 ---
-
 Not to take away from the undeniably biblical teaching that God is almighty, but sometimes I think **we lose sight of God's love for his image-bearers when we emphasize certain "strong" portraits of God at the expense of (instead of alongside of) other "weak" portraits found in Scripture**. (I put "strong" and "weak" in quotes because perhaps our definitions of strength and weakness therefore need to change!)
 
 It might make some of us uncomfortable to read about God portrayed as a jilted lover or a frustrated mother, but those portraits just might be desperately needed in a time when so many people turn away from God because they can't understand how he can possibly be the good Lord of a world so broken and dying.

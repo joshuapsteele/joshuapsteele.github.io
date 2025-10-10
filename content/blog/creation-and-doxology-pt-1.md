@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2012-09-17T17:07:57Z"
-guid: http://windowinthesky.wordpress.com/?p=1429
-id: 1429
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 1)'
-url: /creation-and-doxology-pt-1/
+date: '2012-09-17T17:07:57Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
+- bible
+- theology
+description: ''
+url: /creation-and-doxology-pt-1/
 ---
-
 # INTRODUCTION
 
 In many conservative evangelical circles, biblical creation theology has been hijacked and eclipsed by the vitriolic debate between Young Earth Creationism and Neo-Darwinism.[\[1\]](/Users/Josh/Downloads/CREATION%20(2).docx#_ftn1) It is often difficult to see beyond this morass the beautiful tapestry of creation themes in biblical theology. Waltke summarizes the problem well: “Instead of metaphysical questions that shape culture, questions about dinosaurs, a young earth theory, and such dominate the evangelical landscape. This is unfortunate.”[\[2\]](/Users/Josh/Downloads/CREATION%20(2).docx#_ftn2) Nevertheless, there is an embarrassment of riches when it comes to Scripture’s use of creation themes, whether the evangelical community gives them appropriate attention or not. Unfortunately, a comprehensive analysis of biblical creation theology, a field fertile enough to provide lifetimes of work and study, far exceeds the purview of this essay.[\[3\]](/Users/Josh/Downloads/CREATION%20(2).docx#_ftn3) However, a brief analysis of the motifs of creation as temple, chaos, and redemption will show that the overarching use of creation theology in Scripture is to bring about the praise of the Creator. Biblical creation theology, properly understood, leads to doxology.

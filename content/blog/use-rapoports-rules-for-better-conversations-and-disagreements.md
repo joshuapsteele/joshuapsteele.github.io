@@ -1,19 +1,17 @@
 ---
-author: joshuapsteele
-tags:
-  - 8020
-  - "reading notes"
-date: "2019-02-23T17:06:02Z"
-guid: https://joshuapsteele.com/?p=41724
-id: 41724
 title: Use Rapoport's Rules for Better Conversations and Disagreements
-url: /use-rapoports-rules-for-better-conversations-and-disagreements/
+date: '2019-02-23T17:06:02Z'
+author: joshuapsteele
 categories:
-  - personal
-  - productivity
-  - ethics
+- personal
+- productivity
+- ethics
+tags:
+- 8020
+- reading notes
+description: ''
+url: /use-rapoports-rules-for-better-conversations-and-disagreements/
 ---
-
 I’m reading Walter Sinnott-Armstrong’s excellent book, [*Think Again: How to Reason and Argue*](https://amzn.to/2BNTlTq).
 
 In it (on pages 25–26), I came across [“Rapoport’s Rules.”](https://rationalwiki.org/wiki/Rapoport%27s_Rules)

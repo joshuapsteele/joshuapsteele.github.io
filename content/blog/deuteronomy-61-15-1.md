@@ -1,16 +1,13 @@
 ---
-author: joshuapsteele
-custom_permalink:
-date: "2013-02-18T20:44:14Z"
-guid: https://joshuapsteele.com/?p=2217
-id: 2217
 title: 'Reading and Interpreting the Bible: Deuteronomy 6:1-15'
-url: /deuteronomy-6/
+date: '2013-02-18T20:44:14Z'
+author: joshuapsteele
 categories:
-  - bible
-  - ethics
+- bible
+- ethics
+description: ''
+url: /deuteronomy-6/
 ---
-
 # Deuteronomy 6:1-15 (NRSV)
 
 > <span class="text Deut-6-1">Now this is the commandment—the statutes and the ordinances—that the <span class="small-caps">Lord</span> your God charged me to teach you to observe in the land that you are about to cross into and occupy, </span><span class="text Deut-6-2" id="en-NRSV-5089"><sup class="versenum">2 </sup>so that you and your children and your children’s children may fear the <span class="small-caps">Lord</span> your God all the days of your life, and keep all his decrees and his commandments that I am commanding you, so that your days may be long. </span><span class="text Deut-6-3" id="en-NRSV-5090"><sup class="versenum">3 </sup>Hear therefore, O Israel, and observe them diligently, so that it may go well with you, and so that you may multiply greatly in a land flowing with milk and honey, as the <span class="small-caps">Lord</span>, the God of your ancestors, has promised you.</span>

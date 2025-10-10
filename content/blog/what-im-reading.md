@@ -1,14 +1,12 @@
 ---
+title: What I'm Reading
+date: '2016-05-26T14:56:03Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2016-05-26T14:56:03Z"
-guid: https://joshuapsteele.com/?p=3824
-id: 3824
-title: What I'm Reading
+- personal
+description: ''
 url: /what-im-reading/
 ---
-
 Ah, the joys of summer reading.
 
 Here are a few of the books I’m currently diving into:

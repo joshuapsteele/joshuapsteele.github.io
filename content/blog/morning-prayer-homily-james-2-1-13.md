@@ -1,16 +1,13 @@
 ---
+title: 'Morning Prayer Homily: James 2.1-13'
+date: '2015-08-31T17:08:22Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2015-08-31T17:08:22Z"
-guid: https://joshuapsteele.com/?p=3434
-id: 3434
-publicize_twitter_user:
-title: 'Morning Prayer Homily: James 2.1-13'
+- bible
+- sermons
+description: ''
 url: /morning-prayer-homily-james-2-1-13/
 ---
-
 A homily on James 2.1-13 (ESV):
 
 > <span class="text Jas-2-1">“My brothers, show no partiality as you hold the faith in our Lord Jesus Christ,the Lord of glory.</span> <span class="text Jas-2-2" id="en-ESV-30279">For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,</span> <span class="text Jas-2-3" id="en-ESV-30280">and if you pay attention to the one who wears the fine clothing and say, “You sit here in a good place,” while you say to the poor man, “You stand over there,” or, “Sit down at my feet,”</span> <span class="text Jas-2-4" id="en-ESV-30281">have you not then made distinctions among yourselves and become judges with evil thoughts?</span> <span class="text Jas-2-5" id="en-ESV-30282">Listen, my beloved brothers, has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom, which he has promised to those who love him?</span> <span class="text Jas-2-6" id="en-ESV-30283">But you have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who drag you into court?</span> <span class="text Jas-2-7" id="en-ESV-30284">Are they not the ones who blaspheme the honorable name by which you were called?</span>

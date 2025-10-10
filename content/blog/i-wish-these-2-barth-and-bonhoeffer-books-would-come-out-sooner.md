@@ -1,18 +1,16 @@
 ---
+title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
+date: '2019-01-16T22:08:00Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-01-16T22:08:00Z"
-guid: https://joshuapsteele.com/?p=41561
-id: 41561
+- dissertation
 tags:
-  - barth
-  - bonhoeffer
-  - research
-title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
+- barth
+- bonhoeffer
+- research
+description: ''
 url: /i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/
 ---
-
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
 
 I’m really looking forward to reading these two Barth (and Bonhoeffer) books coming out from Baker in 2019:

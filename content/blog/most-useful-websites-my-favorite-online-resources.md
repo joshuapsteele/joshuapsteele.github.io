@@ -1,15 +1,12 @@
 ---
-activitypub_status:
-author: joshuapsteele
-date: "2022-11-08T19:40:28Z"
-guid: https://joshuapsteele.com/?p=42635
-id: 42635
 title: 'Most Useful Websites: My Favorite Online Resources'
-url: /most-useful-websites-my-favorite-online-resources/
+date: '2022-11-08T19:40:28Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+description: ''
+url: /most-useful-websites-my-favorite-online-resources/
 ---
-
 ## General / Thinking
 
 - Untools: <https://untools.co/>

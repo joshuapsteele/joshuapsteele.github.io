@@ -1,21 +1,18 @@
 ---
+title: 'The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading of Romans 9:30–10:21'
+date: '2019-08-08T14:38:43Z'
 author: joshuapsteele
-date: "2019-08-08T14:38:43Z"
-guid: https://joshuapsteele.com/?p=41871
-id: 41871
-tags:
-  - barth
-  - bible
-  - romans
-title: 'The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading
-  of Romans 9:30–10:21'
-url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/
 categories:
-  - bible
-  - theology
-  - dissertation
+- bible
+- theology
+- dissertation
+tags:
+- barth
+- bible
+- romans
+description: ''
+url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/
 ---
-
 *UPDATE: Here is the paper that I gave at the 2019 Karl Barth Graduate Student Colloquium at the Center for Barth Studies at Princeton Theological Seminary.*
 
 ## INTRODUCTION: “GENTILES” = “WORLD” IS WORSE THAN “ISRAEL” = “CHURCH”

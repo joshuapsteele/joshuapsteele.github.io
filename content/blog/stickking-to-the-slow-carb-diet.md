@@ -1,14 +1,12 @@
 ---
+title: StickKing to the Slow Carb Diet
+date: '2019-01-22T02:14:32Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2019-01-22T02:14:32Z"
-guid: https://joshuapsteele.com/?p=41572
-id: 41572
-title: StickKing to the Slow Carb Diet
+- personal
+description: ''
 url: /stickking-to-the-slow-carb-diet/
 ---
-
 Last night, the scale read 192.4. I’d really like it to read 180 or less.
 
 So, in lieu of how effective [putting money on the line via StickK](https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/) has been for my daily writing habit these past two weeks, I’ve decided to put money on the line as motivation to stick to the Slow Carb Diet for a month.

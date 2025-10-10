@@ -1,18 +1,16 @@
 ---
-author: joshuapsteele
-date: "2019-11-18T15:03:16Z"
-guid: https://joshuapsteele.com/?p=42056
-id: 42056
-tags:
-  - 8020
-  - "reading notes"
-  - "how to think"
 title: Alan Jacobs’s “The Thinking Person’s Checklist”
-url: /alan-jacobss-the-thinking-persons-checklist/
+date: '2019-11-18T15:03:16Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- 8020
+- reading notes
+- how to think
+description: ''
+url: /alan-jacobss-the-thinking-persons-checklist/
 ---
-
 The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, [*How to Think: A Survival Guide for a World at Odds*](https://amzn.to/33TtBRv) (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, [“Help me come up with ‘rules for conversation’!”](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/)).
 
 <iframe allowfullscreen="" frameborder="0" height="550" loading="lazy" src="https://read.amazon.com/kp/card?preview=inline&linkCode=ll1&ref_=k4w_oembed_Eii2WAqN2ej4WE&asin=0451499603&tag=joshuapsteele-20" style="max-width:100%" title="How to Think: A Survival Guide for a World at Odds" type="text/html" width="750"></iframe>Emphasis added in **bold**.

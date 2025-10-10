@@ -1,15 +1,12 @@
 ---
-author: joshuapsteele
-date: "2016-03-24T12:36:09Z"
-guid: https://joshuapsteele.com/?p=3668
-id: 3668
-publicize_twitter_user:
 title: Reading Recommendations? Barth's and Bonhoeffer's False Gods
-url: /reading-recommendations-barths-bonhoeffers-false-gods/
+date: '2016-03-24T12:36:09Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+description: ''
+url: /reading-recommendations-barths-bonhoeffers-false-gods/
 ---
-
 Hi internet – especially all you Barthians and Bonhoefferians (-ites?) out there.
 
 I’m in the process of compiling a reading list, and I could use your suggestions.

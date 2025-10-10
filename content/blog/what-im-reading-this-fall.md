@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-08-16T15:24:25Z"
-guid: https://joshuapsteele.com/?p=41365
-id: 41365
-tags:
-  - reading
 title: What I'm Reading this Fall
-url: /what-im-reading-this-fall/
+date: '2018-08-16T15:24:25Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+tags:
+- reading
+description: ''
+url: /what-im-reading-this-fall/
 ---
-
 This upcoming semester, I’ll be taking a seminar on the Doctrine of Creation from my supervisor Marc Cortez. I’ll also be doing my “pedagogical experience” in a Christian Theology course—also with Marc Cortez.
 
 Anyways, in case you’re interested, I thought I’d share what I’ll be reading for each course.

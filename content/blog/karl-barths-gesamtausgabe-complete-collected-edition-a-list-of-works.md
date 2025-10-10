@@ -1,17 +1,15 @@
 ---
+title: 'Karl Barth’s Gesamtausgabe (“Complete/Collected Edition”): A List of Works'
+date: '2019-01-26T17:52:00Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-01-26T17:52:00Z"
-guid: https://joshuapsteele.com/?p=41706
-id: 41706
+- dissertation
 tags:
-  - barth
-  - research
-title: 'Karl Barth’s Gesamtausgabe (“Complete/Collected Edition”): A List of Works'
+- barth
+- research
+description: ''
 url: /karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/
 ---
-
 Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been published.
 
 Unfortunately, only the first 45 of these are available in the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com/).

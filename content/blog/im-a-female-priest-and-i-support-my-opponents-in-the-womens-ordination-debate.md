@@ -1,22 +1,15 @@
 ---
+title: I'm a Female Priest and I Support My Opponents in the Women's Ordination Debate
+date: '2020-07-02T06:00:53Z'
 author: Hannah King
-avada_post_views_count:
-avada_post_views_count_today_date:
-avada_today_post_views_count:
 categories:
-  - opinion
-date: "2020-07-02T06:00:53Z"
-fusion_builder_status:
-guid: https://anglicancompass.com/?p=22687
-id: 22687
+- opinion
 tags:
-  - "anglican compass"
-  - "women's ordination"
-title: I'm a Female Priest and I Support My Opponents in the Women's Ordination
-  Debate
+- anglican compass
+- women's ordination
+description: ''
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/
 ---
-
 There is not unanimous agreement about women’s ordination in the worldwide Anglican Communion. Godly and thoughtful Christians hold opposing convictions about Holy Orders and who is called to ordained ministry. You often see the results of this debate at the Provincial level—a national expression of the Church may or may not ordain women, in accordance with their conviction. But for the Anglican Church in North America this disagreement is internal to the Province, varying from diocese to diocese and bishop to bishop.
 
 This makes the ACNA a complicated place to be ordained, especially as a woman. However, I also believe that this diversity of conviction and practice is a strength of our denomination.

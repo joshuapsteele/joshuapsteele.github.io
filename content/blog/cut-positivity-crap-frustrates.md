@@ -1,17 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-02-28T17:06:33Z"
-guid: https://joshuapsteele.com/?p=41115
-id: 41115
-tags:
-  - questions
 title: 'Cut the "Positivity" Crap: What Frustrates You?'
-total_sidebar_layout:
-url: /cut-positivity-crap-frustrates/
+date: '2018-02-28T17:06:33Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- questions
+description: ''
+url: /cut-positivity-crap-frustrates/
 ---
-
 I’ll keep this short, sweet, and to the point: **I’m looking for problems that I can help solve, so I need you to rant at me in the comments.**
 
 That’s right, I basically want you to complain to me in the comments section of this post.

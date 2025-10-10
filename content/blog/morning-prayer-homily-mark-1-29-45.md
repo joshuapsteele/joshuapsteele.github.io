@@ -1,16 +1,13 @@
 ---
+title: 'Morning Prayer Homily: Mark 1.29-45'
+date: '2015-09-01T18:00:24Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2015-09-01T18:00:24Z"
-guid: https://joshuapsteele.com/?p=3438
-id: 3438
-publicize_twitter_user:
-title: 'Morning Prayer Homily: Mark 1.29-45'
+- bible
+- sermons
+description: ''
 url: /morning-prayer-homily-mark-1-29-45/
 ---
-
 A homily on Mark 1:29-45 (ESV):
 
 > <span class="text Mark-1-29">And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John.</span> <span class="text Mark-1-30" id="en-ESV-24242">Now Simon’s mother-in-law lay ill with a fever, and immediately they told him about her.</span> <span class="text Mark-1-31" id="en-ESV-24243">And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them.</span>

@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2019-03-07T17:32:24Z"
-guid: https://joshuapsteele.com/?p=41748
-id: 41748
 title: Let's learn how to be bored again
-url: /lets-learn-how-to-be-bored-again/
+date: '2019-03-07T17:32:24Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+description: ''
+url: /lets-learn-how-to-be-bored-again/
 ---
-
 From [“In Praise of Boredom,” by James K.A. Smith](https://imagejournal.org/article/in-praise-of-boredom/).
 
 > But I know at least this: Instagram won’t save us, and tweeted verse will not undo what we’ve done to ourselves. But neither is there any special enchantment to reading in print. So this is not the Luddite’s redoubt, nostalgically canonizing codex or canvas as if history had come to an end in some glorious past. Every medium now reaches us inside the ecology of attention masterminded by Silicon Valley. We take pictures of our books and coffee, for heaven’s sake. The point isn’t platform but desire: what do we want when we pick up our phones? We don’t need better media, or to romanticize old media. We need to change what we want.

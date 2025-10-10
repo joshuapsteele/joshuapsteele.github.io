@@ -1,18 +1,15 @@
 ---
+title: '"They laughed when I became an Anglican, but when I started to pray!" 27 Anglican Headline Ideas'
+date: '2020-04-16T14:06:29Z'
 author: joshuapsteele
 categories:
-  - uncategorized
-date: "2020-04-16T14:06:29Z"
-guid: https://joshuapsteele.com/?p=42256
-id: 42256
+- uncategorized
 tags:
-  - anglican
-  - copywriting
-title: '"They laughed when I became an Anglican, but when I started to pray!"
-  27 Anglican Headline Ideas'
+- anglican
+- copywriting
+description: ''
 url: /they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/
 ---
-
 I’m reading my way through [the new (4th) edition of Robert Bly’s classic *The Copywriter’s Handbook*](https://amzn.to/2KdNASw). On pages 33–36, Bly offers “38 Model Headlines for Your ‘Swipe File.'” Here are some headlines ideas that came to mind, all geared to an Anglican context ([due to my work at AnglicanCompass.com](https://anglicanpastor.com/)).
 
 1. Why are Anglicans so angry?

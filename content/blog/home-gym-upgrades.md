@@ -1,18 +1,15 @@
 ---
-activitypub_status:
+title: Home Gym Upgrades
+date: '2024-03-11T21:15:17Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2024-03-11T21:15:17Z"
-guid: https://joshuapsteele.com/?p=42953
-id: 42953
+- personal
 tags:
-  - "home gym"
-  - weightlifting
-title: Home Gym Upgrades
+- home gym
+- weightlifting
+description: ''
 url: /home-gym-upgrades/
 ---
-
 I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.
 
 When we lived in a basement apartment, space was very limited, but I was able to fit a [Valor Fitness BD-9 squat rack/stands](https://valorfitness.com/products/bd-9-independent-power-squat-stands) and an [Amazon Basics flat bench](https://amzn.to/3Tawich) in, along with a [300-lb Olympic barbell and weight set](https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb) from Dicks Sporting Goods.

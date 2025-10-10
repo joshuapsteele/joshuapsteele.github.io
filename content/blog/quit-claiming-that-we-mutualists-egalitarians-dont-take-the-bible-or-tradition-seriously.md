@@ -1,15 +1,12 @@
 ---
+title: Quit claiming that we mutualists (egalitarians) don't take the Bible or tradition seriously.
+date: '2019-11-16T16:54:14Z'
 author: joshuapsteele
 categories:
-  - uncategorized
-date: "2019-11-16T16:54:14Z"
-guid: https://joshuapsteele.com/?p=42041
-id: 42041
-title: Quit claiming that we mutualists (egalitarians) don't take the Bible
-  or tradition seriously.
+- uncategorized
+description: ''
 url: /quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/
 ---
-
 In the ongoing debate about women’s ordination (in the Anglican realm and beyond), I keep hearing oversimplified claims from hierarchicalists (or “complementarians,” but that’s not the most helpful term in this debate) that they have the *entirety* of the Bible and Church tradition on their side.
 
 Therefore, we mutualists (or “egalitarians,” but that’s not the most helpful term in this debate), it is argued, have arrived at our positions for various reasons—perhaps capitulation to liberal cultural trends and hermeneutical methods—but not because we’ve read Scripture or studied the history of the Church very carefully.

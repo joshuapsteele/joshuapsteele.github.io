@@ -1,14 +1,12 @@
 ---
+title: 'With baby #2 on the way, I''m looking for work!'
+date: '2019-11-25T16:14:29Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2019-11-25T16:14:29Z"
-guid: https://joshuapsteele.com/?p=42105
-id: 42105
-title: "With baby #2 on the way, I'm looking for work!"
+- personal
+description: ''
 url: /with-baby-2-on-the-way-im-looking-for-work/
 ---
-
 I’m a husband to Rachel and a father to Eva.
 
 I’m also:

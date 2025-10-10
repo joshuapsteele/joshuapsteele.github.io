@@ -1,15 +1,12 @@
 ---
+title: 'Do More Better: Tim Challies'' Excellent Little Book on Personal Productivity Could Change Your Life'
+date: '2018-03-23T13:38:00Z'
 author: joshuapsteele
-date: "2018-03-23T13:38:00Z"
-guid: https://joshuapsteele.com/?p=41180
-id: 41180
-title: "Do More Better: Tim Challies' Excellent Little Book on Personal Productivity Could Change Your Life"
-total_sidebar_layout:
-url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/
 categories:
-  - productivity
+- productivity
+description: ''
+url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/
 ---
-
 Tim Challies begins his book, [*Do More Better: A Practical Guide to Productivity*](http://amzn.to/2ufosG4) with a bold claim: “I believe this book can improve your life.”
 
 However, after reading the book, which is just 120 pages long including endnotes!, I believe that Challies makes good on his claim.

@@ -1,17 +1,15 @@
 ---
-author: joshuapsteele
-date: "2018-06-27T21:02:31Z"
-guid: https://joshuapsteele.com/?p=41285
-id: 41285
-tags:
-  - anglican
 title: What Attracts People to Anglicanism? Here's My Take
-url: /what-attracts-people-to-anglicanism-heres-my-take/
+date: '2018-06-27T21:02:31Z'
+author: joshuapsteele
 categories:
-  - theology
-  - ethics
+- theology
+- ethics
+tags:
+- anglican
+description: ''
+url: /what-attracts-people-to-anglicanism-heres-my-take/
 ---
-
 Based upon my work over at [Rookie Anglican](http://anglicanpastor.com/rookieanglican/), I was asked by [The Telos Collective](https://www.teloscollective.com/) to write a blog post about the different ways that people are coming into Anglicanism. What’s drawing them in?
 
 You can [read my full post over at the Telos Collective blog](https://www.teloscollective.com/what-attracts-people-to-anglicanism-subversive-cultural-resonance/), but here’s a taste:

@@ -1,24 +1,18 @@
 ---
-author: Whitney Evans Harrison
-avada_post_views_count:
-avada_post_views_count_today_date:
-avada_today_post_views_count:
-categories:
-  - ministry
-date: "2021-10-07T06:52:40Z"
-fusion_builder_status:
-guid: https://anglicancompass.com/?p=24474
-id: 24474
-tags:
-  - abuse
-  - churches
-  - "local churches"
-  - ministry
-  - safety
 title: '#ACNAtoo: What you can do to hear, to support, and to respond to abuse survivors'
+date: '2021-10-07T06:52:40Z'
+author: Whitney Evans Harrison
+categories:
+- ministry
+tags:
+- abuse
+- churches
+- local churches
+- ministry
+- safety
+description: ''
 url: /acnatoo/
 ---
-
 *#ACNAtoo is a movement of survivors of ACNA-related abuse &amp; their supporters seeking justice, repentance, healing &amp; a healthier ACNA. This is an overview of the movement including what you can do to hear, to support, and to respond. By Whitney Evans Harrison and Conor Hanson.*
 
 ## Why we are here

@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2023-06-09T12:17:21Z"
-guid: https://joshuapsteele.com/?p=42801
-id: 42801
 title: Scriptures to Read on Days of Prayer and Fasting for the Church
-url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
+date: '2023-06-09T12:17:21Z'
+author: joshuapsteele
 categories:
-  - bible
-  - ethics
+- bible
+- ethics
+description: ''
+url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
 ---
-
 ## 1 Peter 4:17
 
 For the time has come for judgment to begin with the household of God; if it begins with us, what will be the end for those who do not obey the gospel of God?

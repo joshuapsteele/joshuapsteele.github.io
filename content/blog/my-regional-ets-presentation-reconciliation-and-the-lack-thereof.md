@@ -1,18 +1,15 @@
 ---
+title: 'My Regional ETS Presentation: Reconciliation and the Lack Thereof'
+date: '2014-03-07T15:11:52Z'
 author: joshuapsteele
-date: "2014-03-07T15:11:52Z"
-guid: https://joshuapsteele.com/?p=3157
-id: 3157
+categories:
+- theology
+- ethics
+description: ''
+url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: 'My Regional ETS Presentation: Reconciliation and the Lack Thereof'
-url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
-categories:
-  - theology
-  - ethics
 ---
-
 ![](http://www.beesondivinity.com/assets/1346/11_cs070900557.jpg)If you’re in the Birmingham area from March 21-22, 2014, and you’re interested in evangelical theology, please consider attending the [Evangelical Theological Society’s Southeastern Regional Meeting at Beeson Divinity School](http://www.beesondivinity.com/ets)! This year’s theme is “the theological interpretation of Scripture,” and the plenary speaker is Wheaton’s [Daniel J. Treier](http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier) (incidentally, Dr. Treier and I are both alumni of Cedarville…go figure).
 
 Furthermore, if you’re free from 5:00-5:30pm on Friday, March 21, consider swinging by room S009 to hear me present **“Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God.”** The atonement and the unity of the Church are topics that I’m passionate about, and I’m extremely grateful for the opportunity to give my first ever conference paper. Here’s the abstract:

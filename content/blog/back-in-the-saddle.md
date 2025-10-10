@@ -1,17 +1,14 @@
 ---
-activitypub_status:
+title: Back in the Saddle
+date: '2024-03-07T21:24:37Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2024-03-07T21:24:37Z"
-guid: https://joshuapsteele.com/?p=42939
-id: 42939
+- personal
 tags:
-  - drafts
-title: Back in the Saddle
+- drafts
+description: ''
 url: /back-in-the-saddle/
 ---
-
 I know I’m not alone in this, but the past few years have been pretty rough for me.
 
 - I’ve gained at least 50 pounds.

@@ -1,15 +1,12 @@
 ---
+title: 'Theology in Outline: What Do I Believe?'
+date: '2015-12-08T11:45:35Z'
 author: joshuapsteele
 categories:
-  - personal
-custom_permalink:
-date: "2015-12-08T11:45:35Z"
-guid: https://joshuapsteele.com/?p=3504
-id: 3504
-title: 'Theology in Outline: What Do I Believe?'
+- personal
+description: ''
 url: /theology-outline/
 ---
-
 *Theology is confusing enough, much more so when you attempt to summarize it all in a single essay! Nevertheless, such was my assignment in seminary in 2015. Here are the results.*
 
 ---

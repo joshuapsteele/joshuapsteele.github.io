@@ -1,17 +1,15 @@
 ---
+title: Following Christ as a Hermeneutical Problem?
+date: '2019-10-18T13:58:15Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-10-18T13:58:15Z"
-guid: https://joshuapsteele.com/?p=41941
-id: 41941
+- dissertation
 tags:
-  - bonhoeffer
-  - reading
-title: Following Christ as a Hermeneutical Problem?
+- bonhoeffer
+- reading
+description: ''
 url: /following-christ-as-a-hermeneutical-problem/
 ---
-
 I’m trying to puzzle out the meaning of the following paragraph from Bonhoeffer’s *Discipleship* (DBWE 4).
 
 > Fundamentally eliminating simple obedience introduces a principle of scripture foreign to the Gospel.<sup>\[19\]</sup> According to it, in order to understand scripture, one first must have a key to interpreting it. But that key would not be the living Christ himself in judgment and grace, and using the key would not be according to the will of the living Holy Spirit alone. Rather, the key to scripture would be a general doctrine of grace, and we ourselves would decide its use. The problem of following Christ shows itself here to be a hermeneutical problem.

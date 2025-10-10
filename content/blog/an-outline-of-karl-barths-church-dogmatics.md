@@ -1,19 +1,16 @@
 ---
-author: joshuapsteele
-date: "2019-09-03T15:06:21Z"
-footnotes:
-guid: https://joshuapsteele.com/?p=41897
-id: 41897
-tags:
-  - barth
-  - research
 title: An Outline of Karl Barth's Church Dogmatics
-url: /an-outline-of-karl-barths-church-dogmatics/
+date: '2019-09-03T15:06:21Z'
+author: joshuapsteele
 categories:
-  - uncategorized
-  - theology
+- uncategorized
+- theology
+tags:
+- barth
+- research
+description: ''
+url: /an-outline-of-karl-barths-church-dogmatics/
 ---
-
 <figure class="wp-block-image">![](https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png)<figcaption class="wp-element-caption">[Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/).</figcaption></figure>If you’re trying to grasp the contours and contents of Karl Barth’s massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here’s a helpful PDF version, with subheadings included, from Princeton’s [Center for Barth Studies](http://barth.ptsem.edu).
 
 <div class="wp-block-file aligncenter">[Barth\_Outline of Church Dogmatics](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)[Download](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)</div>Below is a version that I’ve created from my Logos edition of *Church Dogmatics*. It’s the version found in the Index (CD V/1, 1–13).

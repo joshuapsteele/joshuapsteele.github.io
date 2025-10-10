@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2020-06-03T20:13:43Z"
-guid: https://joshuapsteele.com/?p=42299
-id: 42299
 title: Why is the word “systemic” a flashpoint for certain Christians?
-url: /why-is-the-word-systemic-a-flashpoint-for-certain-christians/
+date: '2020-06-03T20:13:43Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+description: ''
+url: /why-is-the-word-systemic-a-flashpoint-for-certain-christians/
 ---
-
 Certainly, the Bible has much to say about *individual* sin and redemption. But (1) focusing on “systemic” issues doesn’t need to negate a focus on “individual” issues. In fact, a focus on “systemic racism” actually exerts a lot of pressure to evaluate people individually, and not on the basis of their race—as long as we keep in mind how those supposedly individual evaluations are often subtly (and nefariously) shaped by systemic issues.
 
 And, more importantly, (2) the Bible also has a lot to say about structural sin and the communal nature of human life. For example, I’ve been reading through Ezekiel in the Daily Office, and he paints in some *really* broad brushstrokes when prophetically denouncing people. What about all the “good apples” that he and other prophets overlook? Sure, some of that is down to figures of speech that substitute the part for the whole and vice versa, but some of it is also the biblical truth that our actions have ripple effects in the various communities of which we are a part.

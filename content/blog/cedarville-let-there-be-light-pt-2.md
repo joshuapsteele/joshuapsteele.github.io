@@ -1,14 +1,12 @@
 ---
+title: Cedarville, Let there be Light. (pt. 2)
+date: '2012-09-21T07:00:39Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2012-09-21T07:00:39Z"
-guid: http://windowinthesky.wordpress.com/?p=1474
-id: 1474
-title: Cedarville, Let there be Light. (pt. 2)
+- personal
+description: ''
 url: /cedarville-let-there-be-light-pt-2/
 ---
-
 [Read Part One](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")
 
 # Further Questions, All Relating to the University Statement on Dr. Pahl’s Dismissal:

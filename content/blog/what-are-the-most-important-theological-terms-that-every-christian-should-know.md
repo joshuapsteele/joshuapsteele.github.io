@@ -1,14 +1,12 @@
 ---
+title: What are the most important theological terms that every Christian should know?
+date: '2019-10-16T14:14:20Z'
 author: joshuapsteele
 categories:
-  - uncategorized
-date: "2019-10-16T14:14:20Z"
-guid: https://joshuapsteele.com/?p=41934
-id: 41934
-title: What are the most important theological terms that every Christian should know?
+- uncategorized
+description: ''
 url: /what-are-the-most-important-theological-terms-that-every-christian-should-know/
 ---
-
 Which theological terms would make your shortlist?
 
 Here’s the list of terms found in “Jargon-Busting: A Glossary of Theological Terms,” at the back of [Alister E. McGrath’s excellent ](https://amzn.to/2MjFFF7)*[Christian Theology: An Introduction ](https://amzn.to/2MjFFF7)*[(25th Anniversary Edition)](https://amzn.to/2MjFFF7).

@@ -1,16 +1,12 @@
 ---
-author: joshuapsteele
-custom_permalink:
-date: "2017-07-25T15:46:34Z"
-guid: https://joshuapsteele.com/?p=39778
-id: 39778
-  Apple Podcasts, Stitcher, or Overcast, they're a great way to learn!
 title: Podcasts You Should Listen To
-url: /my-favorite-podcasts/
+date: '2017-07-25T15:46:34Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+description: ''
+url: /my-favorite-podcasts/
 ---
-
 # Podcasts: An Introduction
 
 Although podcasts (think “iPod” + “broadcast”) have been around for over a decade, we’re living in a bit of a golden age – or a least a Rennaissance – of the medium. For the uninitiated, here’s a nice video about what podcasts are:

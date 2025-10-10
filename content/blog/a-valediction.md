@@ -1,14 +1,12 @@
 ---
+title: My High School Graduation Valedictorian Speech was a Poem
+date: 2009-06-06
 author: joshuapsteele
 categories:
-  - personal
-date: 2009-06-06
-guid: http://windowinthesky.wordpress.com/?p=407
-id: 407
-title: My High School Graduation Valedictorian Speech was a Poem
+- personal
+description: ''
 url: /a-valediction/
 ---
-
 # My Valedictorian Address, a Poem
 
 The following is my valedictorian speech, delivered at my high school graduation in 2009. As you’ll see below, the majority of the speech was an original poem. Sure, I’m tempted to be a bit embarrassed by the poem today, but I’m also proud that I went for it. Let me know what you think!

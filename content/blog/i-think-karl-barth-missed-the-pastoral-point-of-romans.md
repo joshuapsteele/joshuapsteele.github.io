@@ -1,20 +1,18 @@
 ---
-author: joshuapsteele
-date: "2019-07-31T15:44:49Z"
-guid: https://joshuapsteele.com/?p=41862
-id: 41862
-tags:
-  - barth
-  - bible
-  - romans
 title: I think Karl Barth missed the (pastoral) point of Romans
-url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
+date: '2019-07-31T15:44:49Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
-  - dissertation
+- bible
+- theology
+- dissertation
+tags:
+- barth
+- bible
+- romans
+description: ''
+url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
 ---
-
 I’m scheduled to give a paper on Karl Barth’s reading of Romans 9:30–10:21 in *Der Römerbrief* at the [2019 Barth Graduate Student Colloquium](#) at Princeton in August.
 
 Now, of course, it’s a pleasure and a privilege to give a paper at the colloquium. However, in hindsight, I don’t know why I thought giving a paper on chapter 10 of Barth’s Römerbrief was a good idea!

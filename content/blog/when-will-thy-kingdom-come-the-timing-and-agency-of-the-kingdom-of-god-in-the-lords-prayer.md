@@ -1,20 +1,16 @@
 ---
+title: When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord's Prayer
+date: '2019-05-07T15:46:19Z'
 author: joshuapsteele
-custom_permalink:
-date: "2019-05-07T15:46:19Z"
-guid: https://joshuapsteele.com/?p=41777
-id: 41777
-tags:
-  - research
-  - writing
-title: When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in
-  the Lord's Prayer
-url: /when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/
 categories:
-  - bible
-  - theology
+- bible
+- theology
+tags:
+- research
+- writing
+description: ''
+url: /when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/
 ---
-
 *(Here’s a PDF of this paper: [STEELE\_When Will Thy Kingdom Come](https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf).)*
 
 ## Introduction: “Thy Kingdom \[Has/Will\] Come”?

@@ -1,14 +1,12 @@
 ---
+title: My Unforgettable Cedarville Experience
+date: '2012-09-12T19:19:08Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2012-09-12T19:19:08Z"
-guid: http://windowinthesky.wordpress.com/?p=1418
-id: 1418
-title: My Unforgettable Cedarville Experience
+- personal
+description: ''
 url: /my-unforgettable-cedarville-experience/
 ---
-
 *(The following is an expanded version of the speech I gave at this year’s CU Scholar Dessert Reception.)*
 
 The first thing I ever decided about Cedarville University was that I would not, under any circumstances, attend. Since my administrator’s son, Drew Flamm, worked in admissions at CU, I had been inundated since before I could remember with calls to become a yellow-jacket, and out of sheer stubbornness of heart, I refused.

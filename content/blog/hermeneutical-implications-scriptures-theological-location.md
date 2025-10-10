@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2017-12-09T15:22:06Z"
-guid: https://joshuapsteele.com/?p=40055
-id: 40055
 title: The Hermeneutical Implications of Scripture's Theological Location
-url: /hermeneutical-implications-scriptures-theological-location/
+date: '2017-12-09T15:22:06Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
+- bible
+- theology
+description: ''
+url: /hermeneutical-implications-scriptures-theological-location/
 ---
-
 # INTRODUCTION
 
 Theological [hermeneutics](https://en.wikipedia.org/wiki/Hermeneutics) – human understanding and interpretation in light of the identity and acts of the triune God – faces two problematic questions that, I believe, every biblical and/or theological scholar must be prepared to address. First, should the Bible be read in some special sense as divine revelation, or should we read the Bible like any other text? And second, should biblical and theological studies be one discipline, or two?

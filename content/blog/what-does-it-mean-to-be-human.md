@@ -1,19 +1,13 @@
 ---
-author: joshuapsteele
-date: "2015-05-07T22:38:13Z"
-geo_public:
-guid: https://windowinthesky.wordpress.com/2015/05/07/what-does-it-mean-to-be-human/
-id: 3322
-publicize_facebook_url:
-publicize_twitter_url:
-publicize_twitter_user:
-  desires. However, theology can ground anthropology. God personifies us.
 title: What does it mean to be human?
-url: /what-does-it-mean-to-be-human/
+date: '2015-05-07T22:38:13Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+description: ''
+url: /what-does-it-mean-to-be-human/
+publicize_twitter_user: desires. However, theology can ground anthropology. God personifies us.
 ---
-
 ## *What Does It Mean to Be Human?*
 
 A clue to the answer lies in the asking of the question, for this act presupposes both a \[human\] subject and object in a dialectic of self-transcendence.

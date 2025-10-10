@@ -1,17 +1,14 @@
 ---
+title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
+date: '2013-05-18T21:18:39Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2013-05-18T21:18:39Z"
-guid: https://joshuapsteele.com/?p=2629
-id: 2629
-publicize_twitter_user:
-title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
-twitter_cards_summary_img_size:
+- bible
+- sermons
+description: ''
 url: /unrighteous-anger-yoda-jonah-nahum-and-us/
+publicize_twitter_user:
 ---
-
 (TEXTS: [Jonah 3:5-10; 4:1-11; Nahum 1:1-8](http://www.biblegateway.com/passage/?search=Jonah%203:5-10;%204:1-11;%20Nahum%201:1-8&version=NET))
 
 # INTRODUCTION

@@ -1,17 +1,14 @@
 ---
-author: joshuapsteele
-date: "2013-09-18T13:13:58Z"
-guid: https://joshuapsteele.com/?p=2858
-id: 2858
-publicize_twitter_user:
 title: King Jesus' Kingdom Gospel
-url: /king-jesus-kingdom-gospel/
+date: '2013-09-18T13:13:58Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
-  - ethics
+- bible
+- theology
+- ethics
+description: ''
+url: /king-jesus-kingdom-gospel/
 ---
-
 I highly encourage the following:
 
 1\. Read Scot McKnight’s [The King Jesus Gospel](http://www.amazon.com/The-King-Jesus-Gospel-Revisited/dp/031049298X).

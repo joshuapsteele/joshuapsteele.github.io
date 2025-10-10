@@ -1,17 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-02-25T15:06:44Z"
-guid: https://joshuapsteele.com/?p=41075
-id: 41075
-tags:
-  - theology
 title: 'Mental Models: A Helpful Model for Theology?'
-total_sidebar_layout:
-url: /mental-models-helpful-model-theology/
+date: '2018-02-25T15:06:44Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+tags:
+- theology
+description: ''
+url: /mental-models-helpful-model-theology/
 ---
-
 This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.
 
 **Here it is: “Mental Models” could be a helpful model for theology.**

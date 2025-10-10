@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2018-01-31T03:59:33Z"
-guid: https://joshuapsteele.com/?p=40991
-id: 40991
 title: 5 Books Every Christian Should Read
-url: /5-books-every-christian-read/
+date: '2018-01-31T03:59:33Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+description: ''
+url: /5-books-every-christian-read/
 ---
-
 OK, OK. I get it. Claiming that every Christian should read these 5 books is a bold claim.
 
 But, honestly, I think that these reading recommendations stand up to the scrutiny.

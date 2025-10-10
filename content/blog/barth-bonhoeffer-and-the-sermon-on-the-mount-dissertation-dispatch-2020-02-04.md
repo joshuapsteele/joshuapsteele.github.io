@@ -1,14 +1,12 @@
 ---
+title: Barth, Bonhoeffer, and the Sermon on the Mount (Dissertation Dispatch 2020-02-04)
+date: '2020-02-04T18:53:48Z'
 author: joshuapsteele
 categories:
-  - uncategorized
-date: "2020-02-04T18:53:48Z"
-guid: https://joshuapsteele.com/?p=42175
-id: 42175
-title: Barth, Bonhoeffer, and the Sermon on the Mount (Dissertation Dispatch 2020-02-04)
+- uncategorized
+description: ''
 url: /barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/
 ---
-
 I’m still very much in the weeds, taking a closer look at how Bonhoeffer and Barth read the Sermon on the Mount.
 
 Given the importance of the Sermon on Mount for Bonhoeffer’s life and work, I’m persuaded that there’s something important to be found here—something that will hopefully shed some light on the Barth-Bonhoeffer relationship re:their theological critiques of religion.

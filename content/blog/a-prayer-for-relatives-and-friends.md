@@ -1,14 +1,12 @@
 ---
+title: A Prayer for Relatives and Friends
+date: '2019-10-28T19:36:59Z'
 author: joshuapsteele
 categories:
-  - uncategorized
-date: "2019-10-28T19:36:59Z"
-guid: https://joshuapsteele.com/?p=41955
-id: 41955
-title: A Prayer for Relatives and Friends
+- uncategorized
+description: ''
 url: /a-prayer-for-relatives-and-friends/
 ---
-
 > O Loving Father, we commend to your gracious keeping all who are near and dear to us.
 > 
 > Have mercy upon any who are sick, and comfort those who are in pain, anxiety, or sorrow.

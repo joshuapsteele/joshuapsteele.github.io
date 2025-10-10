@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-06-08T19:08:55Z"
-guid: https://joshuapsteele.com/?p=41274
-id: 41274
 title: Two More Pieces about Jordan Peterson
-url: /two-more-pieces-about-jordan-peterson/
+date: '2018-06-08T19:08:55Z'
+author: joshuapsteele
 categories:
-  - theology
-  - productivity
-  - ethics
+- theology
+- productivity
+- ethics
+description: ''
+url: /two-more-pieces-about-jordan-peterson/
 ---
-
 Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/).
 
 Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.

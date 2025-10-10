@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2020-06-05T16:02:20Z"
-guid: https://joshuapsteele.com/?p=42304
-id: 42304
-tags:
-  - racism
 title: Top 3 Books, Movies, and Podcasts about Race for White Christians like Me
-url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
+date: '2020-06-05T16:02:20Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- racism
+description: ''
+url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
 ---
-
 There are PLENTY of resource recommendations out there for those interested in learning more about racism and anti-racism (just Google “best X (books, movies, podcasts, etc.) on racism,” “antiracist reading list,” etc.).
 
 However, I’m worried that, especially for people who are not used to working their way through lengthy reading lists, getting so many recommendations at once will lead to nothing due to the paradox of choice. I’d much rather recommend a single book that someone will actually read than 100 books they won’t!

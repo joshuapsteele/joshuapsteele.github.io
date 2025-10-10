@@ -1,14 +1,12 @@
 ---
+title: 'Dissertation Dispatch: 2019-07-05'
+date: '2019-07-05T21:09:29Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-07-05T21:09:29Z"
-guid: https://joshuapsteele.com/?p=41840
-id: 41840
-title: 'Dissertation Dispatch: 2019-07-05'
+- dissertation
+description: ''
 url: /dissertation-dispatch-2019-07-05/
 ---
-
 I got my [dissertation proposal](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) approved in the Spring of 2018. Working title: “Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”
 
 Barth + Bonhoeffer + Bible + Religion. “Barth, Bonhoeffer, and Bible” is the gap/niche. But that would be too much to tackle comprehensively in a dissertation. So “religion” is designed to be the delimiter—specifically, [Barth’s and Bonhoeffer’s theological critiques of religion](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/).

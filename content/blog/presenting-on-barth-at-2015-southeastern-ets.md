@@ -1,17 +1,14 @@
 ---
+title: Presenting on Karl Barth at 2015 Southeastern ETS
+date: '2015-04-24T09:13:41Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2015-04-24T09:13:41Z"
-guid: https://windowinthesky.wordpress.com/2015/04/24/presenting-on-barth-at-2015-southeastern-ets/
-id: 3301
+- personal
+description: ''
+url: /presenting-on-barth-at-2015-southeastern-ets/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: Presenting on Karl Barth at 2015 Southeastern ETS
-url: /presenting-on-barth-at-2015-southeastern-ets/
 ---
-
 I just received the news today that my student paper submission for the [2015 Southeast Regional Meeting of the Evangelical Theological Society](https://lru.hobsonsradius.com/ssc/eform/N70x7m7aEx6G0x67128L.ssc) has been accepted!
 
 My theme lately has been to write on <u>Karl Barth and the unity of the Church</u>. At last year's Regional ETS (hosted by my seminary, [Beeson Divinity School](http://www.beesondivinity.com/)), I presented an edited version of my undergraduate thesis: [Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God](https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf). Click the link if you'd like to read the PDF. Here's the thesis:

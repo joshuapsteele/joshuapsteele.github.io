@@ -1,16 +1,13 @@
 ---
+title: 'Faithful Faith in a Faithful God: Romans 1.1-17'
+date: '2015-10-03T08:27:35Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2015-10-03T08:27:35Z"
-guid: https://joshuapsteele.com/?p=3445
-id: 3445
-publicize_twitter_user:
-title: 'Faithful Faith in a Faithful God: Romans 1.1-17'
+- bible
+- sermons
+description: ''
 url: /faithful-faith-in-a-faithful-god-romans-1-1-17/
 ---
-
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="422" loading="lazy" src="https://www.youtube.com/embed/invos5n6zts?feature=oembed" title="Romans 1:1-17 - Faithful Faith in a Faithful God" width="750"></iframe>
 
 # I. Introduction: The Prodigal Son, Part 2

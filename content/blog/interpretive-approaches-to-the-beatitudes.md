@@ -1,19 +1,17 @@
 ---
+title: Interpretive Approaches to the Beatitudes
+date: '2019-11-24T19:48:08Z'
 author: joshuapsteele
 categories:
-  - bible
-  - dissertation
-date: "2019-11-24T19:48:08Z"
-guid: https://joshuapsteele.com/?p=42074
-id: 42074
+- bible
+- dissertation
 tags:
-  - barth
-  - bonhoeffer
-  - "sermon on the mount"
-title: Interpretive Approaches to the Beatitudes
+- barth
+- bonhoeffer
+- sermon on the mount
+description: ''
 url: /interpretive-approaches-to-the-beatitudes/
 ---
-
 As I said in my previous post, “[Interpretive Approaches to the Sermon on the Mount](https://joshuapsteele.com/interpretive-approaches-to-the-sermon-on-the-mount/),” I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.
 
 Of course, when interpreting the Sermon on the Mount, the best place to start is at the beginning! This means beginning with the Beatitudes in Matthew 5:1–12.

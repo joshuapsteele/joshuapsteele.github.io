@@ -1,17 +1,14 @@
 ---
+title: Disunity in the Church? Absurd!
+date: '2015-05-06T09:10:34Z'
 author: joshuapsteele
-date: "2015-05-06T09:10:34Z"
-guid: https://windowinthesky.wordpress.com/2015/04/24/disunity-in-the-church-absurd/
-id: 3298
+categories:
+- theology
+description: ''
+url: /disunity-in-the-church-absurd/
 publicize_facebook_url:
 publicize_twitter_url:
-publicize_twitter_user:
-title: Disunity in the Church? Absurd!
-url: /disunity-in-the-church-absurd/
-categories:
-  - theology
 ---
-
 Presented at Southeast ETS 2015.
 
 **<u>[DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY:A BARTHIAN ANALOGY](http://www.academia.edu/10252338/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILITY_A_BARTHIAN_ANALOGY)</u>**

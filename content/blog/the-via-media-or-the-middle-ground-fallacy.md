@@ -1,16 +1,14 @@
 ---
-author: joshuapsteele
-date: "2019-10-09T14:19:46Z"
-guid: https://joshuapsteele.com/?p=41926
-id: 41926
-tags:
-  - anglican
 title: The “Via Media”? Or the “Middle Ground Fallacy”?
-url: /the-via-media-or-the-middle-ground-fallacy/
+date: '2019-10-09T14:19:46Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+tags:
+- anglican
+description: ''
+url: /the-via-media-or-the-middle-ground-fallacy/
 ---
-
 At this point, this is just a sketch. But I’m wondering how we Anglican Christians ought to be careful to keep our precious “via media” (“middle way”) mentality and methodology separate from what’s known as the “middle ground” fallacy.
 
 ## The “Via Media”

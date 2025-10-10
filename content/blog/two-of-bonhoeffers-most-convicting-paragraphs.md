@@ -1,17 +1,15 @@
 ---
-author: joshuapsteele
-date: "2019-10-18T13:33:03Z"
-guid: https://joshuapsteele.com/?p=41939
-id: 41939
-tags:
-  - bonhoeffer
 title: Two of Bonhoeffer's Most Convicting Paragraphs
-url: /two-of-bonhoeffers-most-convicting-paragraphs/
+date: '2019-10-18T13:33:03Z'
+author: joshuapsteele
 categories:
-  - theology
-  - ethics
+- theology
+- ethics
+tags:
+- bonhoeffer
+description: ''
+url: /two-of-bonhoeffers-most-convicting-paragraphs/
 ---
-
 The following is from Bonhoeffer’s *Discipleship* (usually known as “The Cost of Discipleship” in English, although the original title in German was simply *Nachfolge*).
 
 Bonhoeffer considers how we might respond to Jesus if Jesus were to show up and make the same kinds of concrete commands that he did in the Gospels.

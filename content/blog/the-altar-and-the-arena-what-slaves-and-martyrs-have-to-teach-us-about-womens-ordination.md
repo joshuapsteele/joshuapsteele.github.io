@@ -1,23 +1,15 @@
 ---
+title: 'The Altar and the Arena: What Slaves and Martyrs Have to Teach Us About Women’s Ordination'
+date: '2020-05-20T05:00:00Z'
 author: Aaron Harrison
-avada_post_views_count:
-avada_post_views_count_today_date:
-avada_today_post_views_count:
 categories:
-  - opinion
-date: "2020-05-20T05:00:00Z"
-fusion_builder_status:
-guid: http://anglicancompass.com/?p=18461
-id: 18461
-  weighs-in on an unfolding Anglican debate about women's ordination.
+- opinion
 tags:
-  - "anglican compass"
-  - "women's ordination"
-title: 'The Altar and the Arena: What Slaves and Martyrs Have to Teach Us About Women’s
-  Ordination'
+- anglican compass
+- women's ordination
+description: ''
 url: /the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/
 ---
-
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Compass does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*
 
 ---

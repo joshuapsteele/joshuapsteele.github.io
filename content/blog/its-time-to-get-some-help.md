@@ -1,17 +1,14 @@
 ---
+title: It's Time to Get Some Help
+date: '2020-09-02T17:19:39Z'
 author: joshuapsteele
 categories:
-  - personal
-custom_permalink:
-date: "2020-09-02T17:19:39Z"
-guid: https://joshuapsteele.com/?p=42387
-id: 42387
+- personal
 tags:
-  - "mental health"
-title: It's Time to Get Some Help
+- mental health
+description: ''
 url: /its-time-to-get-some-help/
 ---
-
 Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.
 
 Sure, I’ve still been able to get out of bed in the morning. And I wasn’t having any serious thoughts about hurting myself. But still, I was feeling hopeless and *trapped* often enough that I decided it was time to seek out help.

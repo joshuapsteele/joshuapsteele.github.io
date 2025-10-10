@@ -1,21 +1,18 @@
 ---
+title: Master the Art of Interpersonal Relationships with "How to Win Friends and Influence People"
+date: '2023-03-23T12:29:48Z'
 author: joshuapsteele
-date: "2023-03-23T12:29:48Z"
-guid: https://joshuapsteele.com/?p=42792
-id: 42792
-tags:
-  - communication
-  - friendship
-  - leadership
-  - relationships
-  - "soft skills"
-title: Master the Art of Interpersonal Relationships with "How to Win Friends
-  and Influence People"
-url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/
 categories:
-  - productivity
+- productivity
+tags:
+- communication
+- friendship
+- leadership
+- relationships
+- soft skills
+description: ''
+url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/
 ---
-
 Dale Carnegie’s timeless classic, *[How to Win Friends and Influence People](https://amzn.to/3K0VcaM)*, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.
 
 In this blog post, I’ll summarize the key points from Carnegie’s work and provide you with a solid foundation to start mastering your own relationships. If you find these ideas helpful and compelling, I highly recommend reading the entire book!

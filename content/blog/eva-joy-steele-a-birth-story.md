@@ -1,14 +1,12 @@
 ---
+title: 'Eva Joy Steele: A Birth Story'
+date: '2018-08-09T15:56:09Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2018-08-09T15:56:09Z"
-guid: https://joshuapsteele.com/?p=41336
-id: 41336
-title: 'Eva Joy Steele: A Birth Story'
+- personal
+description: ''
 url: /eva-joy-steele-a-birth-story/
 ---
-
 This is a self-indulgently long story. The gist of it is that my wife, Rachel, was unexpectedly induced due to gestational hypertension at 37 weeks, right before we were supposed to head to Pennsylvania for her sister’s wedding.
 
 After a lengthy induction and labor, our beautiful daughter, Eva Joy Steele, was born at 5:46am on Friday, July 20, 2018.

@@ -1,71 +1,13 @@
 ---
+title: 'Sermon: The Challenge of Christmas Light'
+date: '2016-01-10T15:53:45Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2016-01-10T15:53:45Z"
-enclosure:
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-  http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3
-  24540131
-  audio/mpeg
-guid: https://joshuapsteele.com/?p=3536
-id: 3536
-publicize_twitter_user:
-title: 'Sermon: The Challenge of Christmas Light'
+- bible
+- sermons
+description: ''
 url: /sermon-the-challenge-of-christmas-light/
 ---
-
 There are better preachers out there. So, if you’re short on time, go and listen to them! However, if you’ve got 26 minutes to spare, I offer “The Challenge of Christmas Light” to you, and would love to hear your feedback.
 
 I preached this sermon on December 27, 2015 at [St. Peter’s Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL, as we celebrated the [Feast of St. John the Apostle and Evangelist](http://www.lectionarypage.net/YearABC/HolyDays/John.html).

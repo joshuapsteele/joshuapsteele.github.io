@@ -1,18 +1,15 @@
 ---
-activitypub_status:
-author: joshuapsteele
-date: "2024-04-23T23:15:40Z"
-guid: https://joshuapsteele.com/?p=42973
-id: 42973
-tags:
-  - "book of common prayer"
-  - prayer
 title: Prayers for the Sick
-url: /prayers-for-the-sick/
+date: '2024-04-23T23:15:40Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- book of common prayer
+- prayer
+description: ''
+url: /prayers-for-the-sick/
 ---
-
 (The following prayers come from [the 1979 Book of Common Prayer](https://www.bcponline.org/PastoralOffices/ministration_to_the_sick.html).)
 
 ## Prayers for the Sick

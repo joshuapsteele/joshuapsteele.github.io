@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2016-05-30T20:49:33Z"
-guid: https://joshuapsteele.com/?p=3862
-id: 3862
 title: How Do You Want To Be Remembered?
-url: /how-do-you-want-to-be-remembered/
+date: '2016-05-30T20:49:33Z'
+author: joshuapsteele
 categories:
-  - personal
-  - productivity
+- personal
+- productivity
+description: ''
+url: /how-do-you-want-to-be-remembered/
 ---
-
 Do you know what the worst thing about ***death*** is?
 
 It’s not the <u>dying</u> itself – its the **separation**.

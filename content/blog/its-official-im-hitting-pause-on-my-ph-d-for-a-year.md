@@ -1,15 +1,13 @@
 ---
+title: It's Official. I'm Hitting Pause on My Ph.D. for a Year
+date: '2020-11-25T18:09:02Z'
 author: joshuapsteele
 categories:
-  - dissertation
-  - personal
-date: "2020-11-25T18:09:02Z"
-guid: https://joshuapsteele.com/?p=42425
-id: 42425
-title: It's Official. I'm Hitting Pause on My Ph.D. for a Year
+- dissertation
+- personal
+description: ''
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
 ---
-
 I received word yesterday that the Ph.D. Committee voted to approve my request for “Excused Program Leave” beginning in January 2021 and lasting until January 2022.
 
 At the risk of sounding like Captain Obvious, 2020 has been a particularly difficult year.

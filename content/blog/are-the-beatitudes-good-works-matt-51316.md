@@ -1,17 +1,15 @@
 ---
+title: Are the Beatitudes “Good Works”? (Matt. 5:13–16)
+date: '2019-11-25T19:13:39Z'
 author: joshuapsteele
 categories:
-  - bible
-  - dissertation
-date: "2019-11-25T19:13:39Z"
-guid: https://joshuapsteele.com/?p=42110
-id: 42110
+- bible
+- dissertation
 tags:
-  - bonhoeffer
-title: Are the Beatitudes “Good Works”? (Matt. 5:13–16)
+- bonhoeffer
+description: ''
 url: /are-the-beatitudes-good-works-matt-51316/
 ---
-
 Yesterday, I wrote just a bit about [interpretive approaches to the Beatitudes in Matthew 5](https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/). I’m trying to get a better handle on how Barth and Bonhoeffer treat the Sermon on the Mount, and I’m starting with the Beatitudes.
 
 However, it’s pretty challenging to situate Barth and Bonhoeffer in light of the “standard” approaches to both the Beatitudes and the Sermon on the Mount. A case in point: yesterday, I felt pretty confident that Bonhoeffer does *not* take the standard “entrance requirements” approach to the Beatitudes.

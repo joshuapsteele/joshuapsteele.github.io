@@ -1,15 +1,13 @@
 ---
+title: A Disappointing Christmas Homily
+date: '2016-12-28T14:38:54Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2016-12-28T14:38:54Z"
-guid: https://joshuapsteele.com/?p=3980
-id: 3980
-title: A Disappointing Christmas Homily
+- bible
+- sermons
+description: ''
 url: /a-christmas-homily/
 ---
-
 Good morning! And Merry Christmas!
 
 Together, let us pray:

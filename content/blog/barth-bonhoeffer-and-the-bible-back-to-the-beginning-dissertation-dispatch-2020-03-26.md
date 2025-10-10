@@ -1,15 +1,12 @@
 ---
+title: 'Barth, Bonhoeffer, and the Bible: Back to the Beginning (Dissertation Dispatch, 2020-03-26)'
+date: '2020-03-26T14:27:02Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2020-03-26T14:27:02Z"
-guid: https://joshuapsteele.com/?p=42227
-id: 42227
-title: 'Barth, Bonhoeffer, and the Bible: Back to the Beginning (Dissertation Dispatch,
-  2020-03-26)'
+- dissertation
+description: ''
 url: /barth-bonhoeffer-and-the-bible-back-to-the-beginning-dissertation-dispatch-2020-03-26/
 ---
-
 Perhaps it’s just the global COVID–19 pandemic, but I’ve been really discouraged about my dissertation lately.
 
 My normal reading/writing workflow has ground to a halt because (1) we are temporarily without childcare and (2) my wife, a Family Nurse Practitioner is still working full-time from the office. That leaves me home alone with our 1.5-year-old during the week and, while she is a *wonderful* child, she’s not really jazzed about dad sitting quietly in a corner getting some reading and writing done during the day.

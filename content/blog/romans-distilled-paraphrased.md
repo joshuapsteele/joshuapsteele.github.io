@@ -1,16 +1,13 @@
 ---
-author: joshuapsteele
-custom_permalink:
-date: "2012-05-03T14:02:32Z"
-guid: http://windowinthesky.wordpress.com/?p=1344
-id: 1344
 title: The Book of Romans, Distilled and Paraphrased
-url: /romans-distilled-paraphrased
+date: '2012-05-03T14:02:32Z'
+author: joshuapsteele
 categories:
-  - bible
-  - ethics
+- bible
+- ethics
+description: ''
+url: /romans-distilled-paraphrased
 ---
-
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*
 
 # Romans 1:1-17

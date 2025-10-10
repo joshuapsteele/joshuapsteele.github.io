@@ -1,17 +1,15 @@
 ---
+title: 10 Things I Love About My Kids
+date: '2024-09-26T11:39:54Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2024-09-26T11:39:54Z"
-guid: https://joshuapsteele.com/?p=43080
-id: 43080
+- personal
 tags:
-  - kids
-  - parenting
-title: 10 Things I Love About My Kids
+- kids
+- parenting
+description: ''
 url: /10-things-i-love-about-my-kids/
 ---
-
 Lest [my previous parenting post](https://joshuapsteele.com/i-love-my-kids-but-i-sometimes-regret-having-them/) suggest that things are all doom-and-gloom at the Steele-haus, here are 10 things I love about my kids.
 
 1. I got to baptize all 3 of them as babies, a poignant reminder that they are beloved children of God.

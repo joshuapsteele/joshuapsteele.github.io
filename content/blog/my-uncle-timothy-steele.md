@@ -1,18 +1,13 @@
 ---
+title: My Uncle, Timothy Steele
+date: '2015-04-24T09:15:26Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2015-04-24T09:15:26Z"
-guid: https://windowinthesky.wordpress.com/2015/04/24/my-uncle-timothy-steele/
-id: 3307
-publicize_facebook_url:
-publicize_twitter_url:
-publicize_twitter_user:
-  With some added theological reflection on Death and Hope.
-title: My Uncle, Timothy Steele
+- personal
+description: ''
 url: /20150424my-uncle-timothy-steele/
+publicize_twitter_user: With some added theological reflection on Death and Hope.
 ---
-
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)
 
 ---

@@ -1,14 +1,12 @@
 ---
+title: Oh Cedarville!
+date: '2013-02-19T07:38:20Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2013-02-19T07:38:20Z"
-guid: https://joshuapsteele.com/?p=2228
-id: 2228
-title: Oh Cedarville!
+- personal
+description: ''
 url: /oh-cedarville/
 ---
-
 Have you ever been extremely frustrated with someone/thing you love?
 
 That’s been my experience during my final year here at Cedarville University. See, [I love this place.](https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/) And that’s why I can’t stand it sometimes. There are still so many good and godly women and men here, so much potential for God’s Kingdom. And that’s why recent decisions made by Cedarville Admins and Trustees are so heartbreaking. [I’ve written about this before](https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ "Open Letter to Cedarville Admins and Trustees") (Open Letter).

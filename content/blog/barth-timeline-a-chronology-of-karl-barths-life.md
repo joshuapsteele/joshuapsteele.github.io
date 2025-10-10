@@ -1,16 +1,14 @@
 ---
+title: 'Barth Timeline: A Chronology of Karl Barth''s Life'
+date: '2019-11-12T16:07:20Z'
 author: joshuapsteele
 categories:
-  - dissertation
-date: "2019-11-12T16:07:20Z"
-guid: https://joshuapsteele.com/?p=42013
-id: 42013
+- dissertation
 tags:
-  - barth
-title: "Barth Timeline: A Chronology of Karl Barth's Life"
+- barth
+description: ''
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---
-
 I really like the [timelines of Bonhoeffer’s life](https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/) that are available in *[The Cambridge Companion to Dietrich Bonhoeffer](https://www.amazon.com/Cambridge-Companion-Dietrich-Bonhoeffer-Companions/dp/0521587816/ref=as_li_ss_tl?keywords=cambridge+companion+bonhoeffer&qid=1573573833&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=f458e7f9dbba976136dbaf0c25aee073&language=en_US)* and in [Bethge’s ](https://www.amazon.com/Dietrich-Bonhoeffer-Biography-Eberhard-Bethge/dp/0800628446/ref=as_li_ss_tl?keywords=bethge+bonhoeffer&qid=1573573081&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=d0e904725d0706a643284b2994368588&language=en_US)*[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/Dietrich-Bonhoeffer-Biography-Eberhard-Bethge/dp/0800628446/ref=as_li_ss_tl?keywords=bethge+bonhoeffer&qid=1573573081&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=d0e904725d0706a643284b2994368588&language=en_US).* (Those last two links are Amazon affiliate links.)
 
 However, I’m having a much harder time finding comparable timelines for the life of Karl Barth. The information is all there, but there’s no comparable table/list of dates in either *[The Cambridge Companion to Karl Barth](https://www.amazon.com/Cambridge-Companion-Barth-Companions-Religion/dp/0521585600/ref=as_li_ss_tl?keywords=cambridge+companion+barth&qid=1573573918&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=29693cd488e72a6b6cfdbc3d6cff2890&language=en_US)* or [Busch’s ](https://www.amazon.com/Karl-Barth-Letters-Autobiographical-English/dp/0800604857/ref=as_li_ss_tl?keywords=busch+karl+barth&qid=1573573945&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=b036e293c7204f86ef793b1a161fdfeb&language=en_US)*[Karl Barth: His Life from Letters and Autobiographical Texts](https://www.amazon.com/Karl-Barth-Letters-Autobiographical-English/dp/0800604857/ref=as_li_ss_tl?keywords=busch+karl+barth&qid=1573573945&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=b036e293c7204f86ef793b1a161fdfeb&language=en_US)*. (Again, Amazon affiliate links.)

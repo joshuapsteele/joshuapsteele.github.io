@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2011-05-26T12:23:48Z"
-guid: http://windowinthesky.wordpress.com/?p=1096
-id: 1096
 title: Church and State
-url: /church_and_state/
+date: '2011-05-26T12:23:48Z'
+author: joshuapsteele
 categories:
-  - theology
-  - ethics
+- theology
+- ethics
+description: ''
+url: /church_and_state/
 ---
-
 (Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](https://joshuapsteele.com/2015/12/08/improvising-church-state/).”)
 
 I just read an article by Kevin DeYoung at The Gospel Coalition: [“Thinking Theologically About Memorial Day”](http://thegospelcoalition.org/blogs/kevindeyoung/2011/05/26/thinking-theologically-about-memorial-day/?comments#comments). Listen to his intro:

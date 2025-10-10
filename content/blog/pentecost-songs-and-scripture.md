@@ -1,15 +1,13 @@
 ---
-author: joshuapsteele
-date: "2015-05-23T15:45:26Z"
-guid: https://joshuapsteele.com/?p=3327
-id: 3327
 title: 'Pentecost: Songs and Scripture'
-url: /pentecost-songs-and-scripture/
+date: '2015-05-23T15:45:26Z'
+author: joshuapsteele
 categories:
-  - bible
-  - theology
+- bible
+- theology
+description: ''
+url: /pentecost-songs-and-scripture/
 ---
-
 Listening to [the first episode](http://homebrewedchristianity.com/2015/05/18/pentecost-the-arrival-of-the-spirit-and-the-lectiocast/) of the excellent new podcast, [LectioCast](http://www.jrdkirk.com/2015/05/14/lectiocast-a-lectionary-commentary-podcast/), helped to orient my thoughts toward [tomorrow’s readings](http://lectionary.library.vanderbilt.edu/) for [Pentecost Sunday](http://www.christiantoday.com/article/nine.key.things.to.know.about.pentecost/54344.htm). I’ve reproduced the first lesson, psalm, second lesson, and Gospel reading below, but I’d also like to call your attention to three powerful songs.
 
 ## Song #1: “Dry Bones” by Gungor

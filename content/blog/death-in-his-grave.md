@@ -1,19 +1,16 @@
 ---
-activitypub_status:
-author: joshuapsteele
-date: "2024-03-18T20:49:57Z"
-guid: https://joshuapsteele.com/?p=42966
-id: 42966
-tags:
-  - easter
-  - "holy week"
-  - resurrection
 title: Death in His Grave
-url: /death-in-his-grave/
+date: '2024-03-18T20:49:57Z'
+author: joshuapsteele
 categories:
-  - theology
+- theology
+tags:
+- easter
+- holy week
+- resurrection
+description: ''
+url: /death-in-his-grave/
 ---
-
 With Holy Week and Easter coming up, I’ve been thinking about music and artwork that I’ve found particularly poignant when reflection on the crucifixion and resurrection.
 
 First, I’ve seen many icons of the resurrection (“anastasis,” in Greek) like the one below.

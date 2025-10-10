@@ -1,14 +1,12 @@
 ---
-author: joshuapsteele
-date: "2017-01-31T23:13:18Z"
-guid: https://joshuapsteele.com/?p=4198
-id: 4198
 title: Is The Well-Equipped Christian Worth It?
-url: /is-the-well-equipped-christian-worth-it/
+date: '2017-01-31T23:13:18Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+description: ''
+url: /is-the-well-equipped-christian-worth-it/
 ---
-
 Have you ever had a problem finding a reliable resource for recommendations?
 
 I have.

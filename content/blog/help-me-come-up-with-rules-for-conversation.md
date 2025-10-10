@@ -1,17 +1,15 @@
 ---
-author: joshuapsteele
-tags:
-  - 8020
-  - "reading notes"
-date: "2019-11-17T20:26:42Z"
-guid: https://joshuapsteele.com/?p=42049
-id: 42049
 title: Help me come up with “rules for conversation”!
-url: /help-me-come-up-with-rules-for-conversation/
+date: '2019-11-17T20:26:42Z'
+author: joshuapsteele
 categories:
-  - ethics
+- ethics
+tags:
+- 8020
+- reading notes
+description: ''
+url: /help-me-come-up-with-rules-for-conversation/
 ---
-
 In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”
 
 We describe the tone that we’re after as “clarity and charity,” which is an excellent summary. However, to guide our blogposts and comments, I think we need something more detailed and concrete.

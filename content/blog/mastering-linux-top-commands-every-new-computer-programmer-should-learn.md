@@ -1,18 +1,16 @@
 ---
+title: 'Mastering Linux: Top Commands Every New Computer Programmer Should Learn'
+date: '2023-03-16T17:37:01Z'
 author: joshuapsteele
 categories:
-  - "software engineering"
-date: "2023-03-16T17:37:01Z"
-guid: https://joshuapsteele.com/?p=42784
-id: 42784
+- software engineering
 tags:
-  - linux
-  - programming
-  - "software engineering"
-title: 'Mastering Linux: Top Commands Every New Computer Programmer Should Learn'
+- linux
+- programming
+- software engineering
+description: ''
 url: /mastering-linux-top-commands-every-new-computer-programmer-should-learn/
 ---
-
 Are you new to the world of computer programming? If so, learning [Linux](https://en.wikipedia.org/wiki/Linux) commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.
 
 In this blog post, we’ll cover the most important Linux commands that every new computer programmer should learn to level up their skills.

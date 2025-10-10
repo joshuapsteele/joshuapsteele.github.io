@@ -1,14 +1,12 @@
 ---
+title: An Explanation
+date: '2012-09-22T13:04:53Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2012-09-22T13:04:53Z"
-guid: http://windowinthesky.wordpress.com/?p=1482
-id: 1482
-title: An Explanation
+- personal
+description: ''
 url: /an-explanation/
 ---
-
 **If you haven’t read my previous two blog posts, [“Cedarville, Let there be Light. (pt. 1](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)") and [pt. 2)](http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)"),” please go do so before reading this post.**
 
 **Summary**: I’ve been blogging in order to raise awareness of Cedarville University’s recent dismissal of Dr. Michael Pahl from his teaching post. Using the University’s statement on Dr. Pahl, I’ve raised some uncomfortable questions that I believe need to be asked in this situation. For example:

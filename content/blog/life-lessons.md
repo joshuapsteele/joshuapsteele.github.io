@@ -1,16 +1,13 @@
 ---
+title: 'Life Lessons: 32 Things I''ve Learned So Far'
+date: '2023-10-17T12:45:42Z'
 author: joshuapsteele
-date: "2023-10-17T12:45:42Z"
-footnotes:
-guid: https://joshuapsteele.com/?p=42871
-id: 42871
-title: "Life Lessons: 32 Things I've Learned So Far"
-url: /life-lessons/
 categories:
-  - personal
-  - productivity
+- personal
+- productivity
+description: ''
+url: /life-lessons/
 ---
-
 Here are 32 things I’ve learned from life, so far.
 
 1. You are not your thoughts. There is a “you” behind and above your inner voice/monologue/dialogue. Pay attention to what you pay attention to. Think about what you think about.

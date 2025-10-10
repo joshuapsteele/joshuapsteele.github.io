@@ -1,18 +1,16 @@
 ---
+title: 'A Shameless Request: Help Me Buy More Books?'
+date: '2020-07-05T21:08:43Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2020-07-05T21:08:43Z"
-guid: https://joshuapsteele.com/?p=42350
-id: 42350
+- personal
 tags:
-  - reading
-  - research
-  - writing
-title: 'A Shameless Request: Help Me Buy More Books?'
+- reading
+- research
+- writing
+description: ''
 url: /a-shameless-request-help-me-buy-more-books/
 ---
-
 After realizing just how easy it was to lose access to the physical books that I own (now sequestered in my library carrel at Wheaton), on a bit of a whim [I created a fundraiser to help my upgrade my Logos Bible Software library](https://www.facebook.com/donate/573962246651661/) to either the Anglican Gold ($216) or Anglican Platinum ($582) libraries.
 
 Upgrading would help me in my preaching, teaching, and writing roles (as a pastor-theologian and as the Managing Editor of AnglicanCompass.com). I’ve already benefited immensely from the Anglican Silver package I bought when I got into the Logos Bible Software ecosystem a couple years ago (mainly to gain easy digital access to Barth and Bonhoeffer’s writings for my dissertation). I plan to stick with Logos—especially for biblical commentaries, systematic theologies, and reference works—because it allows me to quickly research, prepare for sermons, answer questions from readers, etc.

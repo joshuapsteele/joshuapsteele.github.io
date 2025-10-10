@@ -1,19 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-03-05T06:00:28Z"
-guid: https://joshuapsteele.com/?p=41127
-id: 41127
-  It might not sound like the most exciting thing to try, but I guarantee that it
-  can help to improve your reading speed!
-tags:
-  - reading
 title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
-total_sidebar_layout:
-url: /one-simple-trick-helps-read-faster-ph-d-student/
+date: '2018-03-05T06:00:28Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+tags:
+- reading
+description: ''
+url: /one-simple-trick-helps-read-faster-ph-d-student/
 ---
-
 Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.
 
 But, I mean, come on. Who has enough time to read? I don’t know about you, but I’ve got a stack of books a mile high that I’d like to work my way through.

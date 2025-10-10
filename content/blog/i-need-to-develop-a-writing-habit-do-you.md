@@ -1,17 +1,14 @@
 ---
-author: joshuapsteele
-date: "2018-03-19T14:33:39Z"
-guid: https://joshuapsteele.com/?p=41164
-id: 41164
-tags:
-  - writing
 title: I Need to Develop a Writing Habit. Do You?
-total_sidebar_layout:
-url: /i-need-to-develop-a-writing-habit-do-you/
+date: '2018-03-19T14:33:39Z'
+author: joshuapsteele
 categories:
-  - productivity
+- productivity
+tags:
+- writing
+description: ''
+url: /i-need-to-develop-a-writing-habit-do-you/
 ---
-
 Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing.
 
 However, because I

@@ -1,18 +1,16 @@
 ---
+title: The Ph.D. Plan (Or the Lack Thereof)
+date: '2020-08-13T21:40:06Z'
 author: joshuapsteele
 categories:
-  - dissertation
-  - personal
-date: "2020-08-13T21:40:06Z"
-guid: https://joshuapsteele.com/?p=42365
-id: 42365
+- dissertation
+- personal
 tags:
-  - research
-  - writing
-title: The Ph.D. Plan (Or the Lack Thereof)
+- research
+- writing
+description: ''
 url: /the-phd-plan-or-the-lack-thereof/
 ---
-
 For months and months now, I’ve been praying for either (1) a breakthrough on my “Barth, Bonhoeffer, and the Bible” dissertation or (2) a clear sign that I should quit the Ph.D. Unfortunately, after countless confusing dead ends in my endeavors to put Karl Barth and Dietrich Bonhoeffer into precise conversation with each other regarding specific passages of the Bible, I’ve now realized that such an approach is not going to work.
 
 Perhaps I’ve missed something. Perhaps there’s a passage of Scripture out there that both Barth and Bonhoeffer wrote about that contains a theologically significant exegetical disagreement worth writing home about.

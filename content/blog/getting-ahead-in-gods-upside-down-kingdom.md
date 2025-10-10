@@ -1,16 +1,13 @@
 ---
+title: 'Getting Ahead in God''s Upside-Down Kingdom: An Appeal for a Consistently Pro-Life Ethic'
+date: '2017-01-30T16:27:44Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2017-01-30T16:27:44Z"
-enclosure:
-guid: https://joshuapsteele.com/?p=4174
-id: 4174
-title: "Getting Ahead in God's Upside-Down Kingdom: An Appeal for a Consistently Pro-Life Ethic"
+- bible
+- sermons
+description: ''
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
-
 <audio class="wp-audio-shortcode" controls="controls" id="audio-4174-2" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3?_=2" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3></audio>
 
 \[[MP3: Getting Ahead in God’s Upside-Down Kingdom](https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3)\]

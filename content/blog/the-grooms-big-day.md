@@ -1,15 +1,13 @@
 ---
+title: The Groom's Big Day
+date: '2016-03-31T16:42:16Z'
 author: joshuapsteele
 categories:
-  - bible
-  - sermons
-date: "2016-03-31T16:42:16Z"
-guid: https://joshuapsteele.com/?p=3750
-id: 3750
-title: The Groom's Big Day
+- bible
+- sermons
+description: ''
 url: /the-grooms-big-day/
 ---
-
 ## [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)
 
 1. **Ephesians 5:21-33** – Wives and Husbands
