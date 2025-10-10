@@ -13,7 +13,7 @@ Let's try to define (or at least describe) fascism, shall we?
 
 > Fascism: "a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition" (Merriam-Webster)
 
-Notoriously difficult to define, [Umberto Eco nevertheless highlighted 14 aspects of what he called "Ur-Fascism" (PDF)](/static/files/Eco_1995_Ur-Fascism.pdf):
+Notoriously difficult to define, [Umberto Eco nevertheless highlighted 14 aspects of what he called "Ur-Fascism" (PDF)](/files/Eco_1995_Ur-Fascism.pdf):
 
 1. **Cult of Tradition** – A syncretic belief in ancient truths, rejecting modern interpretations.
 2. **Rejection of Modernism** – Viewing the Enlightenment and rationalism as the root of moral decline.
