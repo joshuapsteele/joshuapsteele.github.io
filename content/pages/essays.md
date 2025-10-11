@@ -7,10 +7,6 @@ guid: https://joshuapsteele.com/?page_id=4016
 aliases:
 - /portfolio/essays
 ---
-{{< callout "note" >}}
-**More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
-{{< /callout >}}
-
 _(Note: Since writing the essays below, I've left the academy and now work as a software engineer. Nevertheless, I'm keeping these around for posterity.)_
 
 ## Wheaton College Graduate School (2017 - )
@@ -21,6 +17,10 @@ _(Here's the [elevator pitch for my dissertation proposal](/heres-the-elevator-p
 - [The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24](/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/)
 - [When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord’s Prayer](/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/)
 - [Theological Hermeneutics Essay](/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf): [The Hermeneutical Implications of Scripture's Theological Location](/hermeneutical-implications-scriptures-theological-location/)
+
+{{< callout "note" >}}
+**More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
+{{< /callout >}}
 
 ## Beeson Divinity School (2013-2016)
 

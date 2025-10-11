@@ -5,10 +5,6 @@ url: /follow
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/follow` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 Here are all the ways you can follow my work and receive updates.
 
 - [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
@@ -22,3 +18,7 @@ I don't have an email newsletter at the moment. If you think I should start one,
 ---
 
 *I appreciate your interest in my work. Choose the method that works best for you!*
+
+{{< callout "note" >}}
+This `/follow` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

@@ -5,10 +5,6 @@ url: /defaults
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/defaults` page is just one of [my many "slash pages."](/slashes) It's similar to my [`/carry`](/carry), [`/posse`](/posse), and [`/uses`](/uses) pages, but focuses on the apps and software tools I use daily.
-{{< /callout >}}
-
 You can find other people's `/defaults` pages at [defaults.rknight.me](https://defaults.rknight.me/).
 
 Here are the apps I use for various tasks:
@@ -41,3 +37,7 @@ Here are the apps I use for various tasks:
 - **🔐 VPN:** n/a
 - **🎨 Photo Editing:** n/a
 - **🏡 Blog Hosting:** Micro.blog and GitHub Pages
+
+{{< callout "note" >}}
+This `/defaults` page is just one of [my many "slash pages."](/slashes) It's similar to my [`/carry`](/carry), [`/posse`](/posse), and [`/uses`](/uses) pages, but focuses on the apps and software tools I use daily.
+{{< /callout >}}
