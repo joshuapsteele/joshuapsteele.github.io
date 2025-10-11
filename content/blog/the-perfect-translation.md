@@ -4,10 +4,10 @@ date: '2013-12-15T09:20:56Z'
 author: joshuapsteele
 categories:
 - bible
-description: ''
+description: Reviewing Waltke's Dance Between God and Humanity and Goodwin's Translating the English Bible for Liverpool Hope's journal.
 url: /the-perfect-translation/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 Over the break between semesters at [Beeson Divinity School](http://www.beesondivinity.com/), I’m reviewing Bruce Waltke’s [*The Dance Between God and Humanity: Reading the Bible Today as the People of God*](http://www.eerdmans.com/Products/6736/the-dance-between-god-and-humanity.aspx) and Philip Goodwin’s *[Translating the English Bible: From Relevance to Deconstruction](http://www.amazon.com/Translating-English-Bible-Relevance-Deconstruction/dp/0227173910)* for [Liverpool Hope University’s Theological Book Review](http://www.hope.ac.uk/theologicalbookreview/).
 

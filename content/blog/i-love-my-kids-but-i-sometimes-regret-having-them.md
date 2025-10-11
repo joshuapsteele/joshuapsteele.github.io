@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - parenting
-description: ''
+description: I love my kids, but I sometimes regret having them. Pardon the clickbait-y title and opening sentence. But are we parents allowed to say that.
 url: /i-love-my-kids-but-i-sometimes-regret-having-them/
 ---
 I love my kids, but I sometimes regret having them.

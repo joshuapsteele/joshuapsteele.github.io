@@ -7,7 +7,7 @@ categories:
 tags:
 - kids
 - parenting
-description: ''
+description: A dad's heartwarming list of what makes his three kids special, from baptizing them as babies to their love of books and Bible stories.
 url: /10-things-i-love-about-my-kids/
 ---
 Lest [my previous parenting post](https://joshuapsteele.com/i-love-my-kids-but-i-sometimes-regret-having-them/) suggest that things are all doom-and-gloom at the Steele-haus, here are 10 things I love about my kids.

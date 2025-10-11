@@ -1,15 +1,20 @@
 ---
-title: "How Do You Make Friends as a Tired Introvert in Your 30s? A Dad's Honest Ask for Advice"
-date: 2025-06-24T16:08:15-04:00
-draft: false
+title: How Do You Make Friends as a Tired Introvert in Your 30s? A Dad's Honest Ask for Advice
+date: 2025-06-24 16:08:15-04:00
 author: joshuapsteele
-tags: [friendship, introversion, loneliness, isolation]
-categories: [personal]
+categories:
+- personal
+tags:
+- friendship
+- introversion
+- loneliness
+- isolation
+description: I'm putting this out there because I'm genuinely stuck, and I'm hoping some of you have been where I am and can offer some wisdom.
+url: /how-do-you-make-friends/
+draft: false
 showToc: false
 TocOpen: false
-url: /how-do-you-make-friends/
 ---
-
 I'm putting this out there because I'm genuinely stuck, and I'm hoping some of you have been where I am and can offer some wisdom.
 
 Here's my situation: I'm in my 30s, married with three young kids, and I work from home in northwest Ohio. On paper, my life is full—and in many ways it is. But I'm also dealing with some significant loneliness and isolation that I can't seem to shake.

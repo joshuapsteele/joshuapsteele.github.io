@@ -4,10 +4,10 @@ date: '2015-05-06T09:10:34Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: Presented at Southeast ETS 2015. DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY:A BARTHIAN ANALOGY ** ***Joshua P.
 url: /disunity-in-the-church-absurd/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 Presented at Southeast ETS 2015.
 

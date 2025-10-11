@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - theology
-description: ''
+description: I was recently privileged to see one of my favorite bands, The Oh Hellos, in concert at the House of Blues in downtown Chicago.
 url: /the-truth-is-not-a-cave
 ---
 I was recently privileged to see one of my favorite bands, [The Oh Hellos](http://theohhellos.com/), in concert at the House of Blues in downtown Chicago.

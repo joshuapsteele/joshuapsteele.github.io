@@ -5,11 +5,11 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: Violence isn't human destiny because the God of peace frames our history—reflections on peacemaking and the crucified Messiah.
 url: /silence-and-violence/
-publicize_facebook_url:
-publicize_twitter_url:
-publicize_twitter_user:
+publicize_facebook_url: null
+publicize_twitter_url: null
+publicize_twitter_user: null
 ---
 [![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)
 

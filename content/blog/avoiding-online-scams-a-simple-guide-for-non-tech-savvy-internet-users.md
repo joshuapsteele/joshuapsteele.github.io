@@ -8,7 +8,7 @@ tags:
 - internet
 - security
 - technology
-description: ''
+description: Introduction Online scams can touch anyone’s life. They don’t discriminate based on how tech-savvy you are or how often you use the internet.
 url: /avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/
 ---
 ## Introduction

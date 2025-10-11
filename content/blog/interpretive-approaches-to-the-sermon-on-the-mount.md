@@ -7,7 +7,7 @@ categories:
 - dissertation
 tags:
 - sermon on the mount
-description: ''
+description: I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
 ---
 I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.

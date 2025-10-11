@@ -4,7 +4,7 @@ date: '2018-01-30T12:48:49Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: 'Applying the Pareto Principle to Christian discipleship: how focusing on the vital few can transform your spiritual productivity.'
 url: /80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/
 ---
 Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?

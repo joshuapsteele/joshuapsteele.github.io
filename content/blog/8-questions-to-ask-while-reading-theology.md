@@ -7,7 +7,7 @@ categories:
 tags:
 - questions
 - reading
-description: ''
+description: Beth Felker Jones' practical framework for evaluating theological texts, from identifying key teachings to assessing practical implications.
 url: /8-questions-to-ask-while-reading-theology/
 ---
 While reading Beth Felker Jones’ [*Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically*](https://amzn.to/2vLkeEo), I came across the following list of extremely helpful questions to ask while reading theology (on page 29).

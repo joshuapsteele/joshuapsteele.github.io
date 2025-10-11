@@ -4,7 +4,7 @@ date: '2022-11-08T19:40:28Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: 'My curated collection of favorite online resources: thinking tools, fitness guides, reading aids, design resources, and developer references.'
 url: /most-useful-websites-my-favorite-online-resources/
 ---
 ## General / Thinking

@@ -8,7 +8,7 @@ categories:
 tags:
 - bonhoeffer
 - sermon on the mount
-description: ''
+description: 'Examining Bonhoeffer''s interpretation in Discipleship: Are the Beatitudes fundamentally about renunciation (Verzicht) and want?'
 url: /are-the-beatitudes-renunciations-verzichte/
 ---
 In *Discipleship* (DBWE 4), Dietrich Bonhoeffer frames all of the Beatitudes in terms of Jesus’ disciples living in *renunciation* (Verzicht) and *want* (Mangel).

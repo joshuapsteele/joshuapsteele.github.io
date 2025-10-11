@@ -10,10 +10,10 @@ tags:
 - coding bootcamp
 - programming
 - software
-description: ''
+description: From Bible major to bi-vocational ministry to software engineer—how I made the career transition through coding bootcamp.
 url: /my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/
 advanced_seo_description: tech via a coding bootcamp (Tech Elevator).
-jetpack_seo_html_title:
+jetpack_seo_html_title: null
 ---
 When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.
 

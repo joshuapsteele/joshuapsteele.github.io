@@ -6,7 +6,7 @@ categories:
 - sermons
 tags:
 - sermons
-description: ''
+description: 'An Advent sermon on Luke 3:1-6: heeding the prophets'' call to repentance and preparing the way of the Lord.'
 url: /preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/
 ---
 *(Sermon preached at Church of the Savior in Wheaton, IL.)*

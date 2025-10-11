@@ -4,7 +4,7 @@ date: 2009-06-06
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: My Valedictorian Address, a Poem The following is my valedictorian speech, delivered at my high school graduation in 2009.
 url: /a-valediction/
 ---
 # My Valedictorian Address, a Poem

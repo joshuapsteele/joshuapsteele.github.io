@@ -1,15 +1,19 @@
 ---
-title: 'No Kings'
-date: 2025-06-14T10:00:12-04:00
-draft: false
+title: No Kings
+date: 2025-06-14 10:00:12-04:00
 author: joshuapsteele
-tags: [theology, politics, poetry]
-categories: [theology]
+categories:
+- theology
+tags:
+- theology
+- politics
+- poetry
+description: No kings, save One, the King of Kings, whose kingdom peace and justice brings. No kings, but He who blessed the poor, and binds their wounds forevermore.
+url: /no-kings/
+draft: false
 showToc: false
 TocOpen: false
-url: /no-kings/
 ---
-
 No kings, save One, the King of Kings,  
 whose kingdom peace and justice brings.  
 

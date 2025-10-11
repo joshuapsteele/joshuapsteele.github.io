@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - theology
-description: ''
+description: 'Introduction: The Holy Trinity One God.'
 url: /holy-trinity/
 ---
 ## Introduction: The Holy Trinity

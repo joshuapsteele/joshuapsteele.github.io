@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: What would it have been like, on the first Holy Saturday?** What would it be like, tonight, if Jesus has been dead for almost 33 hours.
 url: /son-of-man-can-your-bones-live/
 ---
 ### **What would it have been like, on the first Holy Saturday?**

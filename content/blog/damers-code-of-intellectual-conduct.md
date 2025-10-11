@@ -8,7 +8,7 @@ tags:
 - 8020
 - reading notes
 - how to think
-description: ''
+description: 'This code of conduct very much relates to Rapoport’s Rules, Adler’s advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T.'
 url: /damers-code-of-intellectual-conduct/
 ---
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)

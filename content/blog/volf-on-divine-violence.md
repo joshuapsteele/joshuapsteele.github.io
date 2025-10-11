@@ -4,10 +4,10 @@ date: '2013-10-23T08:13:38Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: 'Miroslav Volf on divine judgment in Exclusion and Embrace: God judges because some refuse to live in God''s peace.'
 url: /volf-on-divine-violence/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 A couple relevant excerpts (given recent [posts](https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/)) from “Violence and Peace,” the final chapter of Miroslav Volf’s *[Exclusion and Embrace](http://www.amazon.com/Exclusion-Embrace-Theological-Exploration-Reconciliation/dp/0687002826)* (my emphasis added in **bold**; paragraph breaks added where noted):
 

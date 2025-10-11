@@ -5,10 +5,10 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: If you’re interested, here’s the latest version of the Regional ETS paper I will present today at 5:00pm at Beeson Divinity School, room S009.
 url: /my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 If you’re interested, here’s [the latest version of the Regional ETS paper](https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf) I will present today at 5:00pm at Beeson Divinity School, room S009.
 

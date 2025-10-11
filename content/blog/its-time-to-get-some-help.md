@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - mental health
-description: ''
+description: Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.
 url: /its-time-to-get-some-help/
 ---
 Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.

@@ -6,7 +6,7 @@ categories:
 - theology
 - productivity
 - ethics
-description: ''
+description: Surveying various perspectives on Jordan Peterson's cultural phenomenon before offering my own theological and ethical assessment.
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
 ---
 *UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/)*

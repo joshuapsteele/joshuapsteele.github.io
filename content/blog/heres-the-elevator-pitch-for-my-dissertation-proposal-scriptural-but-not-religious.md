@@ -8,7 +8,7 @@ tags:
 - barth
 - bible
 - bonhoeffer
-description: ''
+description: Tomorrow, I defend the proposal for my dissertation.
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/
 ---
 Tomorrow, I defend the proposal for my dissertation. For now, the dissertation is tentatively titled: “Scriptural, but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”

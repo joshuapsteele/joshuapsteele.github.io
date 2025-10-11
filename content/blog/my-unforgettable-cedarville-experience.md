@@ -4,7 +4,7 @@ date: '2012-09-12T19:19:08Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: How I went from 'I will never attend Cedarville' to giving a speech at the CU Scholar Dessert Reception.
 url: /my-unforgettable-cedarville-experience/
 ---
 *(The following is an expanded version of the speech I gave at this year’s CU Scholar Dessert Reception.)*

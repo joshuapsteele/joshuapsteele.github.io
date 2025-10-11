@@ -7,7 +7,7 @@ categories:
 tags:
 - bonhoeffer
 - reading
-description: ''
+description: I’m trying to puzzle out the meaning of the following paragraph from Bonhoeffer’s *Discipleship* (DBWE 4).
 url: /following-christ-as-a-hermeneutical-problem/
 ---
 I’m trying to puzzle out the meaning of the following paragraph from Bonhoeffer’s *Discipleship* (DBWE 4).

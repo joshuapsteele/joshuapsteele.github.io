@@ -1,14 +1,17 @@
 ---
-title: "How to Find Your Life's Purpose: Helpful Advice from Daniel Pink"
-date: 2025-06-24T17:01:34-04:00
-draft: false
+title: 'How to Find Your Life''s Purpose: Helpful Advice from Daniel Pink'
+date: 2025-06-24 17:01:34-04:00
 author: joshuapsteele
-tags: [life, purpose]
-categories: [personal]
-showToc: false
+categories:
+- personal
+tags:
+- life
+- purpose
+description: I recently came across a Daniel Pink video that helped clarify and summarize some key insights about finding life's purpose in a really actionable way.
 url: /how-to-find-your-lifes-purpose/
+draft: false
+showToc: false
 ---
-
 I recently came across [a Daniel Pink video](https://www.youtube.com/watch?v=TEQL2ZRDRVM) that helped clarify and summarize some key insights about finding life's purpose in a really actionable way. The framework was so helpful that I wanted to share it.
 
 **Stop asking "What's my passion?" Start asking better questions.**

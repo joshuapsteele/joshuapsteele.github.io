@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - writing
-description: ''
+description: 'SOURCE: *They Say / I Say: The Moves that Matter in Academic Writing*, 4th edition (affiliate link).'
 url: /they-say-i-say-writing-templates/
 ---
 SOURCE: [*They Say / I Say: The Moves that Matter in Academic Writing*](https://amzn.to/3eOMlXF), 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!

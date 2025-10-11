@@ -7,7 +7,7 @@ categories:
 - theology
 tags:
 - politics
-description: ''
+description: My reading list exploring Church-State relations and Christian political engagement, from high school curiosity to 2024 concerns.
 url: /christianity-and-politics-my-2024-reading-list/
 ---
 The relationship between Church and State, particularly the intersection of Christianity and politics, has been on my mind since I first started paying attention during the lead-up to the 2008 USA presidential election. Back then, I was just a high school student, but these themes have stuck with me ever since.

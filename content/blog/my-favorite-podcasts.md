@@ -4,7 +4,7 @@ date: '2017-07-25T15:46:34Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: A guide to podcasts worth listening to during this golden age of the medium, from a seasoned podcast enthusiast.
 url: /my-favorite-podcasts/
 ---
 # Podcasts: An Introduction

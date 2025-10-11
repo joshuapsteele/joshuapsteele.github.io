@@ -7,7 +7,7 @@ categories:
 - ethics
 tags:
 - immigration
-description: ''
+description: You Can't Follow Jesus and Hate Immigrants You can’t follow Jesus and hate immigrants.
 url: /you-cant-follow-jesus-and-hate-immigrants/
 ---
 ## You Can't Follow Jesus and Hate Immigrants

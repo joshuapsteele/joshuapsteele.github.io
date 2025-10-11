@@ -8,7 +8,7 @@ tags:
 - anglican
 - anglican compass
 - women's ordination
-description: ''
+description: On the predictable 'don't stir the pot' reaction whenever Anglican Compass publishes anything favoring women's ordination.
 url: /dont-stir-the-pot/
 ---
 I'm pondering the "don't stir the pot" reaction that reliably happens every time we publish something on women's ordination—most especially anything in *favor* of women's ordination—[over at Anglican Compass](https://anglicancompass.com/), where I'm the Managing Editor.

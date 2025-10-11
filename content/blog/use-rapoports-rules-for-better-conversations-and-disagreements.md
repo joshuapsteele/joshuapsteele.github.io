@@ -9,7 +9,7 @@ categories:
 tags:
 - 8020
 - reading notes
-description: ''
+description: 'I’m reading Walter Sinnott-Armstrong’s excellent book, *Think Again: How to Reason and Argue*.'
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
 ---
 I’m reading Walter Sinnott-Armstrong’s excellent book, [*Think Again: How to Reason and Argue*](https://amzn.to/2BNTlTq).

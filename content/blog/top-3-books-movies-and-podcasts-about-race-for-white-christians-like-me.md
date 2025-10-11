@@ -6,7 +6,7 @@ categories:
 - ethics
 tags:
 - racism
-description: ''
+description: Accessible starting points for white Christians learning about racism and anti-racism—top 3 books, movies, and podcasts.
 url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
 ---
 There are PLENTY of resource recommendations out there for those interested in learning more about racism and anti-racism (just Google “best X (books, movies, podcasts, etc.) on racism,” “antiracist reading list,” etc.).

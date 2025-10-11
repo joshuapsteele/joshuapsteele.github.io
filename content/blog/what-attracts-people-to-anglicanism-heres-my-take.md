@@ -7,7 +7,7 @@ categories:
 - ethics
 tags:
 - anglican
-description: ''
+description: My Telos Collective post on what draws people to Anglican Christianity, based on Rookie Anglican conversations and insights.
 url: /what-attracts-people-to-anglicanism-heres-my-take/
 ---
 Based upon my work over at [Rookie Anglican](http://anglicanpastor.com/rookieanglican/), I was asked by [The Telos Collective](https://www.teloscollective.com/) to write a blog post about the different ways that people are coming into Anglicanism. What’s drawing them in?

@@ -8,7 +8,7 @@ tags:
 - edc
 - reviews
 - tools
-description: ''
+description: I don’t know what it is about mini toolkits, but I love them. Actually, scratch that.
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
 ---
 I don’t know what it is about mini toolkits, but I love them.

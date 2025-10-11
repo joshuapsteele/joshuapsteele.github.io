@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - ethics
-description: ''
+description: Maybe you, like me, consider yourself quite the introvert.
 url: /please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/
 ---
 Maybe you, like me, consider yourself quite the introvert. Maybe you, like me, have a difficult time walking the tightrope between feeling quickly overwhelmed by interpersonal relationships, on the one hand, and feeling incredibly lonely, on the other hand.

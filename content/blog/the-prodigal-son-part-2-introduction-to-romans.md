@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: What a relief , to get out of that house.
 url: /the-prodigal-son-part-2-introduction-to-romans/
 excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
 ---

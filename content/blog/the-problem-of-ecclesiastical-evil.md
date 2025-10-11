@@ -6,7 +6,7 @@ categories:
 - uncategorized
 tags:
 - drafts
-description: ''
+description: You’ve probably heard of “the problem of evil” (if not, here’s an overview). But there’s a specific version/aspect of it that I find even more devastating.
 url: /the-problem-of-ecclesiastical-evil/
 ---
 You’ve probably heard of “the problem of evil” (if not, [here’s an overview](https://en.wikipedia.org/wiki/Problem_of_evil)). But there’s a specific version/aspect of it that I find even more devastating.

@@ -1,14 +1,14 @@
 ---
-activitypub_status:
+title: Requiem for a Cousin on His Birthday
+date: '2024-09-28T09:00:54Z'
 author: joshuapsteele
 categories:
-  - personal
-date: "2024-09-28T09:00:54Z"
-title: Requiem for a Cousin on His Birthday
+- personal
+description: Today should have been my cousin Eric's 32nd birthday.
 url: /requiem-for-a-cousin-on-his-birthday/
+activitypub_status: null
 showtoc: false
 ---
-
 Today should have been my cousin Eric's 32nd birthday.
 
 Instead, having lost him earlier this year to some serious health complications after a devastating motorcycle accident, we gathered to remember him and celebrate his life.

@@ -4,7 +4,7 @@ date: '2019-10-16T14:14:20Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Which theological terms would make your shortlist.
 url: /what-are-the-most-important-theological-terms-that-every-christian-should-know/
 ---
 Which theological terms would make your shortlist?

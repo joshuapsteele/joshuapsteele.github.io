@@ -7,7 +7,7 @@ categories:
 tags:
 - home gym
 - weightlifting
-description: ''
+description: I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.
 url: /home-gym-upgrades/
 ---
 I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.

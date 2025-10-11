@@ -6,7 +6,7 @@ categories:
 - bible
 - theology
 - ethics
-description: ''
+description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King Jesus Gospel.'
 url: /king-jesus-kingdom-gospel/
 ---
 I highly encourage the following:

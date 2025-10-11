@@ -6,7 +6,7 @@ categories:
 - ethics
 tags:
 - anglican
-description: ''
+description: Why am I an Anglican Christian.
 url: /top-3-reasons-im-anglican-christian/
 ---
 [![](http://anglicanpastor.com/wp-content/uploads/2017/01/RA-Logo-Black-Transparent-Background-200x167.png)](http://anglicanpastor.com/rookieanglican/)

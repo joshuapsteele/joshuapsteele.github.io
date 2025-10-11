@@ -4,7 +4,7 @@ date: '2016-06-10T17:10:17Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: …and by “club” I of course mean “Church”. What am I getting at. Am I calling the Church a mere “club”.
 url: /frustrated-with-church-join-the-club/
 ---
 …and by “club” I of course mean “Church”!

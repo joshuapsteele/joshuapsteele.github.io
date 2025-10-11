@@ -4,7 +4,7 @@ date: '2024-09-04T10:51:34Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Sweater weather, weight loss with Zepbound, football season, new tools, theological reading, and learning auto repair on a 1999 Dodge Ram.
 url: /6-things-im-excited-about-2024-08-04/
 ---
 1. Sweater weather

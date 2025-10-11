@@ -8,7 +8,7 @@ categories:
 tags:
 - anglican compass
 - women's ordination
-description: ''
+description: Maybe you, like me, are coming to Anglicanism from a different tradition.
 url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/
 ---
 Maybe you, like me, are coming to Anglicanism from a different tradition.

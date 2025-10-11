@@ -4,7 +4,7 @@ date: '2020-02-04T18:53:48Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: I’m still very much in the weeds, taking a closer look at how Bonhoeffer and Barth read the Sermon on the Mount.
 url: /barth-bonhoeffer-and-the-sermon-on-the-mount-dissertation-dispatch-2020-02-04/
 ---
 I’m still very much in the weeds, taking a closer look at how Bonhoeffer and Barth read the Sermon on the Mount.

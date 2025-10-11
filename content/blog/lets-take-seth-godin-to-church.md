@@ -4,7 +4,7 @@ date: '2016-05-28T16:44:59Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: I’m not going to lie. My first reaction when I saw the cover of this book.
 url: /lets-take-seth-godin-to-church/
 ---
 I’m not going to lie. My first reaction when I saw the cover of this book? [![](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg)](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg)

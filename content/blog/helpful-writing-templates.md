@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - writing
-description: ''
+description: 'The following templates come from *They Say / I Say: The Moves That Matter in Academic Writing*.'
 url: /helpful-writing-templates/
 ---
 The following templates come from *[They Say / I Say: The Moves That Matter in Academic Writing](https://amzn.to/33TJdor)*.

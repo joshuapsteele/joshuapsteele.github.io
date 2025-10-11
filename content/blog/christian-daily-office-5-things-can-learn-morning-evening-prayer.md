@@ -4,7 +4,7 @@ date: '2018-03-02T05:00:31Z'
 author: joshuapsteele
 categories:
 - ethics
-description: ''
+description: Five ways the ancient practice of Morning and Evening Prayer can shape your spiritual growth and help you follow Jesus daily.
 url: /christian-daily-office-5-things-can-learn-morning-evening-prayer/
 ---
 # The Problem: We All Need to Grow, But We’re Not Sure How

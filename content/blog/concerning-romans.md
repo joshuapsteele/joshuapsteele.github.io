@@ -5,10 +5,10 @@ author: joshuapsteele
 categories:
 - bible
 - personal
-description: ''
+description: Setting aside Cedarville chaos to focus on reading Romans with Karl Barth's commentary during my Greek exegesis independent study.
 url: /concerning-romans/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 ![](http://www.treybailey.net/wp-content/uploads/2012/03/romans_title.jpg)
 

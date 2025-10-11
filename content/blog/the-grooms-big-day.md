@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: Ephesians 5:21-33** – Wives and Husbands 2. Psalm 67** – May God Be Gracious to Us and Bless Us 3.
 url: /the-grooms-big-day/
 ---
 ## [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)

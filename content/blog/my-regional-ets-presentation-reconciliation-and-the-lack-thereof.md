@@ -5,10 +5,10 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: Presenting on reconciliation at the 2014 Evangelical Theological Society Southeastern Regional Meeting at Beeson Divinity School.
 url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 ![](http://www.beesondivinity.com/assets/1346/11_cs070900557.jpg)If you’re in the Birmingham area from March 21-22, 2014, and you’re interested in evangelical theology, please consider attending the [Evangelical Theological Society’s Southeastern Regional Meeting at Beeson Divinity School](http://www.beesondivinity.com/ets)! This year’s theme is “the theological interpretation of Scripture,” and the plenary speaker is Wheaton’s [Daniel J. Treier](http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier) (incidentally, Dr. Treier and I are both alumni of Cedarville…go figure).
 

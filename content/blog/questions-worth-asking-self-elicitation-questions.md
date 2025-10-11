@@ -6,7 +6,7 @@ categories:
 - uncategorized
 tags:
 - questions
-description: ''
+description: These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see my page.
 url: /questions-worth-asking/
 ---
 These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see [my `/questions` page](/questions).

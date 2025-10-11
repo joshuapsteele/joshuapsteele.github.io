@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: John Webster's essay on Barth and Bonhoeffer's biblical reading—the inspiration for my doctoral dissertation.
 url: /theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer/
 ---
 John Webster’s essay, “Reading the Bible: The Example of Barth and Bonhoeffer” (pages 87–110 in [*Word and Church: Essays in Christian Dogmatics*](https://amzn.to/2EJ4SVN) \[Edinburgh; New York: T&amp;T Clark, 2001\]) is, in large part, the inspiration for [my doctoral dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).

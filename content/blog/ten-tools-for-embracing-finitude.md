@@ -1,15 +1,15 @@
 ---
-date: "2024-11-13T16:40:14-05:00"
-title: 'Ten Tools for Embracing Finitude'
+title: Ten Tools for Embracing Finitude
+date: '2024-11-13T16:40:14-05:00'
 author: joshuapsteele
-url: /ten-tools-for-embracing-finitude/
-tags:
-  - 8020
-  - "reading notes"
 categories:
-  - productivity
+- productivity
+tags:
+- 8020
+- reading notes
+description: 'Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman 1.'
+url: /ten-tools-for-embracing-finitude/
 ---
-
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman
 
 1. Adopt a "fixed volume" approach to productivity

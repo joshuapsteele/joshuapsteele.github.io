@@ -4,7 +4,7 @@ date: '2012-09-20T15:07:47Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Examining Cedarville's firing of Dr. Michael Pahl over doctrinal statement disagreements and what it reveals about institutional integrity.
 url: /cedarville-let-there-be-light-pt-1/
 ---
 # The Statement:

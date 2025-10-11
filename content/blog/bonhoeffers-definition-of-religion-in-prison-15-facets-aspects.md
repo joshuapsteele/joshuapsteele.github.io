@@ -7,7 +7,7 @@ categories:
 tags:
 - bonhoeffer
 - research
-description: ''
+description: A 15-point summary of Bonhoeffer's prison theology of 'religion' from Letters and Papers from Prison, covering inwardness, metaphysics, and more.
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
 ---
 Based upon my own reading of Bonhoeffer’s [*Letters and Papers from Prison* \[DBWE 8\]](https://amzn.to/2AuzaJj), here is my attempt at a summary list of the facets/aspects of Bonhoeffer’s view of “religion” in prison.

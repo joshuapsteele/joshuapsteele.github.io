@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: St. James' martyrdom rebukes ministerial ambitions—a sobering homily for those who aspire to serve Christ's Church.
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 ---
 *Readings: [Psalm 34; Jeremiah 16:14-21; Mark 1:14-20](https://www.biblegateway.com/passage/?search=Psalm+34%3B+Jeremiah+16%3A14-21%3B+Mark+1%3A14-20&version=NIV)*

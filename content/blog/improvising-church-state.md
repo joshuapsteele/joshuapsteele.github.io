@@ -4,7 +4,7 @@ date: '2015-12-08T11:53:24Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: 'INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS From the church’s perspective, is the state a promising offer, or a threatening one.'
 url: /improvising-church-state/
 ---
 ### INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS

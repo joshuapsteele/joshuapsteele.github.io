@@ -6,7 +6,7 @@ tags:
 - anglican compass
 - race
 - racism
-description: ''
+description: 'NOTE**: As is our policy with *all* Anglican Compass content, we ask that you please submit a request before republishing content.'
 url: /anti-racism-letter-to-fellow-acna-clergy/
 ---
 **NOTE**: As is our policy with *all* Anglican Compass content, we ask that you [please submit a request before republishing content](https://anglicancompass.com/republishing-guidelines/).

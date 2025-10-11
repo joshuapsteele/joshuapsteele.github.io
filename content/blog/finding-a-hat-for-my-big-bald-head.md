@@ -4,7 +4,7 @@ date: '2024-04-26T12:48:48Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: I’ve been on a lifelong journey to find hats that will fit my big ol’ head.
 url: /finding-a-hat-for-my-big-bald-head/
 ---
 I’ve been on a lifelong journey to find hats that will fit my big ol’ head. Now that I’m bald, and the summer months are approaching, I figured it would be good to find one or two more hats to add to my rotation.

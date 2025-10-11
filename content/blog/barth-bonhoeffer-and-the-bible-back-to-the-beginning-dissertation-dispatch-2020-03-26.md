@@ -4,7 +4,7 @@ date: '2020-03-26T14:27:02Z'
 author: joshuapsteele
 categories:
 - dissertation
-description: ''
+description: Perhaps it’s just the global COVID–19 pandemic, but I’ve been really discouraged about my dissertation lately.
 url: /barth-bonhoeffer-and-the-bible-back-to-the-beginning-dissertation-dispatch-2020-03-26/
 ---
 Perhaps it’s just the global COVID–19 pandemic, but I’ve been really discouraged about my dissertation lately.

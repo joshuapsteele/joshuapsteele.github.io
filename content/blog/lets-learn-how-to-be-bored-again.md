@@ -4,7 +4,7 @@ date: '2019-03-07T17:32:24Z'
 author: joshuapsteele
 categories:
 - ethics
-description: ''
+description: From “In Praise of Boredom,” by James K.A.
 url: /lets-learn-how-to-be-bored-again/
 ---
 From [“In Praise of Boredom,” by James K.A. Smith](https://imagejournal.org/article/in-praise-of-boredom/).

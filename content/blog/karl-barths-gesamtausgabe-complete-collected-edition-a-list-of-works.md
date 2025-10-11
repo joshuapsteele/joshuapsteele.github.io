@@ -7,7 +7,7 @@ categories:
 tags:
 - barth
 - research
-description: ''
+description: Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been published.
 url: /karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/
 ---
 Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been published.

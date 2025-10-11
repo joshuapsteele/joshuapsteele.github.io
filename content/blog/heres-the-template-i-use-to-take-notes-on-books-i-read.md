@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - dissertation
 - productivity
-description: ''
+description: Developed from *How to Read a Book*, by Mortimer J.
 url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
 ---
 Developed from [*How to Read a Book*, by Mortimer J. Adler](https://amzn.to/2M5AHsy).

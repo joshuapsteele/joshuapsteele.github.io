@@ -4,7 +4,7 @@ date: '2016-08-26T14:09:01Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: I’ve been dragging my heels on learning Markdown for awhile now.
 url: /a-ridiculously-helpful-markdown-tutorial/
 ---
 I’ve been dragging my heels on learning Markdown for awhile now.

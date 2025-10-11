@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - jenson
-description: ''
+description: This is from Robert Jenson, *Systematic Theology*, Volume 1, p.
 url: /my-favorite-definition-of-theology/
 ---
 This is from Robert Jenson, *Systematic Theology*, Volume 1, p. 11:

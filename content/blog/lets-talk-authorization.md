@@ -1,14 +1,14 @@
 ---
+title: Devs! Let's Talk Authorization
 date: '2025-01-23T09:16:56-05:00'
-title: "Devs! Let's Talk Authorization"
 author: joshuapsteele
 categories:
-  - "software engineering"
+- software engineering
 tags:
-  - authorization
+- authorization
+description: Calling all software developers. As I embark on a new, exploratory work project, I'd like to hear your thoughts on authorization.
 url: /lets-talk-authorization/
 ---
-
 Calling all software developers! As I embark on a new, exploratory work project, I'd like to hear your thoughts on authorization.
 
 How have you designed and implemented authorization in your applications?

@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - opinion
-description: ''
+description: This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.
 url: /josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/
 ---
 This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.

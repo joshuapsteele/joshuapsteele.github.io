@@ -4,10 +4,10 @@ date: '2013-10-30T22:24:35Z'
 author: joshuapsteele
 categories:
 - bible
-description: ''
+description: (Here’s my paper on Psalm 2, submitted to Dr. Sydney Park in partial fulfillment of my Biblical Interpretation course here at Beeson Divinity School.
 url: /psalm-2-quare-fremuerunt-gentes/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 <span style="color:#000000;">*(Here’s my paper on Psalm 2, submitted to Dr. [<span style="color:#000000;">M. Sydney Park</span>](http://www.beesondivinity.com/msydneypark) in partial fulfillment of my Biblical Interpretation course here at [<span style="color:#000000;">Beeson Divinity School</span>](http://www.beesondivinity.com/). Although I don’t consider this the best thing I’ve ever written, I’d love for you to check this piece out and let me know what you think, because no matter the limitations of the assignment, there’s always room for improvement. Plus, I didn’t have space to talk about all the issues whirring around in my head while writing this paper, and your constructive feedback might very well help me take my next intellectual steps. Click the title below for [<span style="color:#000000;">the .pdf version</span>](https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf).)*</span>
 

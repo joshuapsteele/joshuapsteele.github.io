@@ -7,7 +7,7 @@ categories:
 tags:
 - anglican compass
 - women's ordination
-description: ''
+description: 'A deacon''s rare confession: I''ve felt called to priesthood but cannot pursue it. A plea for charity in women''s ordination debates.'
 url: /for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/
 ---
 Almost every vocational deacon I know, when asked why he or she has not become a priest, will respond, “I have never felt called to the priesthood.” Some will add emphatically, “not for a minute!”

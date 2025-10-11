@@ -1,12 +1,12 @@
 ---
+title: Troubleshooting Hugo to Micro.blog Crossposting
 date: '2024-11-19T17:25:36-05:00'
-title: 'Troubleshooting Hugo to Micro.blog Crossposting'
 author: joshuapsteele
 tags:
-  - hugo
+- hugo
+description: 'UPDATE: This now seems to work. The post made it to Micro.blog, BlueSky, and Mastodon, at least.'
 url: /troubleshooting-hugo-to-microblog-crossposting/
 ---
-
 *UPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.*
 
 I'm trying to troubleshoot what's going on with my current crossposting configuration between my Hugo website, my Micro.blog account, and my accounts on BlueSky, Mastodon, and Threads. 

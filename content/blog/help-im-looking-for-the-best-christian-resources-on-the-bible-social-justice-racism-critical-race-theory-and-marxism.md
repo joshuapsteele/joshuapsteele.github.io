@@ -8,7 +8,7 @@ tags:
 - bible
 - racism
 - theology
-description: ''
+description: 'I’m looking for the best, clearest, and most charitable explanations of the following three things: 1.'
 url: /help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/
 ---
 Help me out. I’m looking for the best, clearest, and most charitable explanations of the following three things:

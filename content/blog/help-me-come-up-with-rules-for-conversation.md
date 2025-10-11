@@ -7,7 +7,7 @@ categories:
 tags:
 - 8020
 - reading notes
-description: ''
+description: Crowdsourcing rules for constructive conversation in polarized times—what guidelines help us talk across differences?
 url: /help-me-come-up-with-rules-for-conversation/
 ---
 In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”

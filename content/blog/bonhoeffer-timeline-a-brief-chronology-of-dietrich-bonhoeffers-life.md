@@ -6,7 +6,7 @@ categories:
 - dissertation
 tags:
 - bonhoeffer
-description: ''
+description: 'The *Cambridge Companion to Dietrich Bonhoeffer* SOURCE (Amazon affiliate link): John W.'
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
 ---
 ## The *Cambridge Companion to Dietrich Bonhoeffer*

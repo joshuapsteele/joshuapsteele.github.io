@@ -11,7 +11,7 @@ tags:
 - logos
 - software
 - theology
-description: ''
+description: 'TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software.'
 url: /logos-10-bible-software-the-ultimate-theological-learning-tool/
 ---
 **TL;DR: If you’re serious about biblical and theological studies, you should invest in Logos 10 Bible Software. [Do so via my exclusive partner offer for Logos 10 here!](https://partners.faithlife.com/click.track?CID=431490&AFID=529204)**

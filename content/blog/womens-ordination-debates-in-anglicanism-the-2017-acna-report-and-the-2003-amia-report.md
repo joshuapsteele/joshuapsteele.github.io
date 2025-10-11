@@ -7,7 +7,7 @@ categories:
 - personal
 tags:
 - anglican
-description: ''
+description: I became an “egalitarian” in college, before I became an Anglican in seminary.
 url: /womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/
 ---
 I became an “egalitarian” in college, before I became an Anglican in seminary.

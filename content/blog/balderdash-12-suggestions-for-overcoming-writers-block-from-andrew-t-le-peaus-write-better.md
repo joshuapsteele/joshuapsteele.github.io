@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - writing
-description: ''
+description: Andrew T. Le Peau's 12 practical strategies for overcoming writer's block when dissertation progress stalls.
 url: /balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/
 ---
 Writer’s block sucks. I’m currently facing it with regard to [my dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) and I’ve decided to hit pause on research and writing until I regain access to my library carrell at Wheaton.

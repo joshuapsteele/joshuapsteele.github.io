@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: My directed study reading list exploring Karl Barth and Dietrich Bonhoeffer's theological critique of religion at Beeson.
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/
 ---
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*

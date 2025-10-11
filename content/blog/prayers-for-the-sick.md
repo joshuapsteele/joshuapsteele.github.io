@@ -7,7 +7,7 @@ categories:
 tags:
 - book of common prayer
 - prayer
-description: ''
+description: Traditional prayers for the sick from the 1979 Book of Common Prayer, interceding for comfort and healing.
 url: /prayers-for-the-sick/
 ---
 (The following prayers come from [the 1979 Book of Common Prayer](https://www.bcponline.org/PastoralOffices/ministration_to_the_sick.html).)

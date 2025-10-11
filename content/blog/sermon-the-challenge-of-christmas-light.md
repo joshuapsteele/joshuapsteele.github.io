@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: There are better preachers out there. So, if you’re short on time, go and listen to them.
 url: /sermon-the-challenge-of-christmas-light/
 ---
 There are better preachers out there. So, if you’re short on time, go and listen to them! However, if you’ve got 26 minutes to spare, I offer “The Challenge of Christmas Light” to you, and would love to hear your feedback.

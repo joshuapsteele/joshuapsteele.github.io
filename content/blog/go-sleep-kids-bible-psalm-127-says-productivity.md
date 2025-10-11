@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - productivity
 - bible
-description: ''
+description: Personal Productivity in Psalm 127 I love Psalm 127.
 url: /go-sleep-kids-bible-psalm-127-says-productivity/
 ---
 ## Personal Productivity in Psalm 127

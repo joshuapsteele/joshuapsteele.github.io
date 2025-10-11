@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: 'Dissertation frustrations: longing for a complete, translated Barth Gesamtausgabe and a fully functional Digital Karl Barth Library.'
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
 ---
 As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion”)](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/), I’m longing for the day when:

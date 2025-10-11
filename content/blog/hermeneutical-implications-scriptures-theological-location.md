@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - theology
-description: ''
+description: Should the Bible be read differently than other texts? Exploring theological hermeneutics and Scripture's unique location in Christian theology.
 url: /hermeneutical-implications-scriptures-theological-location/
 ---
 # INTRODUCTION

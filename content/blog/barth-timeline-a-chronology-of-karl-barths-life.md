@@ -6,7 +6,7 @@ categories:
 - dissertation
 tags:
 - barth
-description: ''
+description: A comprehensive chronology of Karl Barth's life, compiled from various sources in the Digital Karl Barth Library.
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---
 I really like the [timelines of Bonhoeffer’s life](https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/) that are available in *[The Cambridge Companion to Dietrich Bonhoeffer](https://www.amazon.com/Cambridge-Companion-Dietrich-Bonhoeffer-Companions/dp/0521587816/ref=as_li_ss_tl?keywords=cambridge+companion+bonhoeffer&qid=1573573833&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=f458e7f9dbba976136dbaf0c25aee073&language=en_US)* and in [Bethge’s ](https://www.amazon.com/Dietrich-Bonhoeffer-Biography-Eberhard-Bethge/dp/0800628446/ref=as_li_ss_tl?keywords=bethge+bonhoeffer&qid=1573573081&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=d0e904725d0706a643284b2994368588&language=en_US)*[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/Dietrich-Bonhoeffer-Biography-Eberhard-Bethge/dp/0800628446/ref=as_li_ss_tl?keywords=bethge+bonhoeffer&qid=1573573081&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=d0e904725d0706a643284b2994368588&language=en_US).* (Those last two links are Amazon affiliate links.)

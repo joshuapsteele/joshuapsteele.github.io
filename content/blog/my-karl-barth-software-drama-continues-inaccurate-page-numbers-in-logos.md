@@ -7,7 +7,7 @@ categories:
 tags:
 - barth
 - research
-description: ''
+description: Previously, I wrote about how the Scripture search tool in the Digital Karl Barth Library was broken.
 url: /my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos/
 format: aside
 ---

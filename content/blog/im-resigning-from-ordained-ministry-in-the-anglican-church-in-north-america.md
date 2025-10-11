@@ -7,7 +7,7 @@ categories:
 - personal
 tags:
 - acna
-description: ''
+description: After much discernment and growing disaffection with ACNA, I'm stepping away from ordained ministry to focus on family and software engineering.
 url: /im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/
 ---
 After a considerable period of discernment, coupled with my growing disaffection with the Anglican Church in North America, I sense God calling me to step away from ordained ministry in the ACNA and instead to focus on my family and my career as a software engineer.

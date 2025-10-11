@@ -4,7 +4,7 @@ date: '2018-06-08T16:09:30Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: Fell out of love with running? Try rucking—walking with a weighted backpack—for strength, cardio, and meditative exercise.
 url: /hate-running-try-rucking-instead/
 ---
 *(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)*

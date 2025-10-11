@@ -7,7 +7,7 @@ tags:
 - bonhoeffer
 - research
 - writing
-description: ''
+description: Bonhoeffer's prison reflections on spirit and flesh, restoration and sublimation, explored through meaningful hymn lyrics.
 url: /spirit-flesh-restoration-and-sublimation/
 ---
 There’s an intriguing passage in Bonhoeffer’s Letters and Papers from Prison where he discusses the relationship between “spirit” and “flesh,” in the context of discussing “restoration” and “sublimation,” in the context of discussing lyrics from certain hymns and songs that were meaningful to him in prison.

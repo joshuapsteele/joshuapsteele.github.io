@@ -8,7 +8,7 @@ tags:
 - software
 - software engineering
 - technology
-description: ''
+description: I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful.
 url: /ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/
 ---
 I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)

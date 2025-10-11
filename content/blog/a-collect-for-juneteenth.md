@@ -8,7 +8,7 @@ tags:
 - collect
 - juneteenth
 - prayer
-description: ''
+description: A collect prayer for Juneteenth 2020, remembering slavery's abolition while lamenting ongoing racism and praying for repentance and healing.
 url: /a-collect-for-juneteenth/
 ---
 The following is a “collect” prayer that I composed for Juneteenth in 2020. What’s a “collect” prayer?

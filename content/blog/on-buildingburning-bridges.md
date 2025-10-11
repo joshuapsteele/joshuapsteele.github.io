@@ -4,7 +4,7 @@ date: '2013-03-29T15:07:13Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: 'DISCLAIMER: there’s a fair bit about the Church that frustrates me.'
 url: /on-buildingburning-bridges/
 ---
 DISCLAIMER: there’s a fair bit about the Church that frustrates me.

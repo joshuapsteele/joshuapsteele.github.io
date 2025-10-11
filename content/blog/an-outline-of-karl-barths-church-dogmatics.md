@@ -8,7 +8,7 @@ categories:
 tags:
 - barth
 - research
-description: ''
+description: Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com.
 url: /an-outline-of-karl-barths-church-dogmatics/
 ---
 <figure class="wp-block-image">![](https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png)<figcaption class="wp-element-caption">[Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/).</figcaption></figure>If you’re trying to grasp the contours and contents of Karl Barth’s massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here’s a helpful PDF version, with subheadings included, from Princeton’s [Center for Barth Studies](http://barth.ptsem.edu).

@@ -8,7 +8,7 @@ categories:
 tags:
 - research
 - writing
-description: ''
+description: '(Here’s a PDF of this paper: STEELE\_When Will Thy Kingdom Come.)* Introduction: “Thy Kingdom \[Has/Will\] Come”.'
 url: /when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/
 ---
 *(Here’s a PDF of this paper: [STEELE\_When Will Thy Kingdom Come](https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf).)*

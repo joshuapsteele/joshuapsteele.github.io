@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - ethics
-description: ''
+description: A close reading and interpretation of Deuteronomy 6:1-15, exploring the Shema and Israel's call to fear and love the Lord.
 url: /deuteronomy-6/
 ---
 # Deuteronomy 6:1-15 (NRSV)

@@ -6,7 +6,7 @@ categories:
 - uncategorized
 tags:
 - questions
-description: ''
+description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions that he asks himself and others.
 url: /mentor-me/
 ---
 Say what you will about Tim Ferriss, I’ve always really enjoyed the [questions that he asks himself](https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf) and [others](https://tim.blog/2017/10/03/tribe-of-mentors/).

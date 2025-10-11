@@ -9,7 +9,7 @@ tags:
 - bonhoeffer
 - religion
 - research
-description: ''
+description: Clarifying how Barth and Bonhoeffer both inherited and transformed post-Kantian understandings of religion in Christian theology.
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
 ---
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*

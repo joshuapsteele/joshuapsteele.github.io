@@ -7,7 +7,7 @@ categories:
 - ethics
 tags:
 - bonhoeffer
-description: ''
+description: 'Bonhoeffer''s Discipleship asks: How would we respond if Jesus showed up today and made the same concrete commands?'
 url: /two-of-bonhoeffers-most-convicting-paragraphs/
 ---
 The following is from Bonhoeffer’s *Discipleship* (usually known as “The Cost of Discipleship” in English, although the original title in German was simply *Nachfolge*).

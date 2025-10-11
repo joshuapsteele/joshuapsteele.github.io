@@ -7,7 +7,7 @@ categories:
 tags:
 - research
 - writing
-description: ''
+description: I’m two years in to my PhD program, and I need to finish writing this dissertation soon, or it’s going to be the death of me. I love Wheaton’s program.
 url: /desperate-times-desperate-measures-writing-my-dissertation-vs-funding-abortion/
 ---
 I’m two years in to my PhD program, and I need to finish writing this dissertation soon, or it’s going to be the death of me!

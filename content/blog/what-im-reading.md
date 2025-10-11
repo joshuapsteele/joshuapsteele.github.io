@@ -4,7 +4,7 @@ date: '2016-05-26T14:56:03Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Ah, the joys of summer reading.
 url: /what-im-reading/
 ---
 Ah, the joys of summer reading.

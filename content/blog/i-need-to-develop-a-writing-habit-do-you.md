@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - writing
-description: ''
+description: Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing. However, because I - Am a Ph.D.
 url: /i-need-to-develop-a-writing-habit-do-you/
 ---
 Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing.

@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - theology
-description: ''
+description: Recovering biblical creation theology from the Young Earth vs. Neo-Darwinism debate to rediscover God's beautiful, worshipful design.
 url: /creation-and-doxology-pt-1/
 ---
 # INTRODUCTION

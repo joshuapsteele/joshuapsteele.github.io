@@ -1,15 +1,18 @@
 ---
-title: "198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp"
-date: 2025-06-09T09:49:40-04:00
-draft: false
+title: '198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp'
+date: 2025-06-09 09:49:40-04:00
 author: joshuapsteele
-tags: [tyranny, authoritarianism]
-categories: [politics]
+categories:
+- politics
+tags:
+- tyranny
+- authoritarianism
+description: Gene Sharp's comprehensive guide to nonviolent resistance, from symbolic protests and economic boycotts to political noncooperation and intervention.
+url: /198-ways-to-fight-tyranny/
+draft: false
 showToc: true
 TocOpen: true
-url: /198-ways-to-fight-tyranny/
 ---
-
 The following 198 methods of nonviolent action are taken from Gene Sharp's [*The Politics of Nonviolent Action*](https://amzn.to/4kXevBx).
 
 (For more information and resources along these lines, make sure to visit [my /resist page](/resist).)

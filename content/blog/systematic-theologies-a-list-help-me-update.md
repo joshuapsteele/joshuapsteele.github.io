@@ -4,7 +4,7 @@ date: '2018-09-19T15:10:18Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: A curated list of systematic theology works, compiled from Glynn's Commentary and Reference Survey—help me keep it updated!
 url: /systematic-theologies-a-list-help-me-update/
 ---
 # SYSTEMATIC THEOLOGIES: A LIST

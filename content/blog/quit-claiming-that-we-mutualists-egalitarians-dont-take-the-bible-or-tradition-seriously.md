@@ -4,7 +4,7 @@ date: '2019-11-16T16:54:14Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Challenging the false claim that mutualists ignore Scripture and tradition in women's ordination debates.
 url: /quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/
 ---
 In the ongoing debate about women’s ordination (in the Anglican realm and beyond), I keep hearing oversimplified claims from hierarchicalists (or “complementarians,” but that’s not the most helpful term in this debate) that they have the *entirety* of the Bible and Church tradition on their side.

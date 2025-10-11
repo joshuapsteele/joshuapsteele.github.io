@@ -1,14 +1,14 @@
 ---
+title: 'Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify'
 date: '2025-03-07T09:16:56-05:00'
-title: "Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify"
 author: joshuapsteele
 categories:
-  - "software engineering"
+- software engineering
 tags:
-  - authorization
+- authorization
+description: As I mentioned in my previous post, "Devs, Let's Talk Authorization!", I'm working on a new, exploratory work project related to authorization.
 url: /authorization-continued/
 ---
-
 As I mentioned in my previous post, "Devs, Let's Talk Authorization!", I'm working on a new, exploratory work project related to authorization. Specifically, we're gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.
 
 ## Clarify Current Requirements

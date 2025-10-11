@@ -8,7 +8,7 @@ tags:
 - easter
 - holy week
 - resurrection
-description: ''
+description: Holy Week reflections on resurrection icons (anastasis) and the profound lyrics of John Mark McMillan's 'Death in His Grave.'
 url: /death-in-his-grave/
 ---
 With Holy Week and Easter coming up, I’ve been thinking about music and artwork that I’ve found particularly poignant when reflection on the crucifixion and resurrection.

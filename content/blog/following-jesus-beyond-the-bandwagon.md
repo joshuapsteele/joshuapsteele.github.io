@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: '(A chapel message in a Christian school.)* There are a few things you should know about me: - I am a student at a *Christian* seminary.'
 url: /following-jesus-beyond-the-bandwagon/
 ---
 *(A chapel message in a Christian school.)*

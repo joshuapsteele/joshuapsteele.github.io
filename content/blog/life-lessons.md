@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: ''
+description: Here are 32 things I’ve learned from life, so far. You are not your thoughts.
 url: /life-lessons/
 ---
 Here are 32 things I’ve learned from life, so far.

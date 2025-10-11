@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - anglican
-description: ''
+description: At this point, this is just a sketch.
 url: /the-via-media-or-the-middle-ground-fallacy/
 ---
 At this point, this is just a sketch. But I’m wondering how we Anglican Christians ought to be careful to keep our precious “via media” (“middle way”) mentality and methodology separate from what’s known as the “middle ground” fallacy.

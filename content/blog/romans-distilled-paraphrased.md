@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - ethics
-description: ''
+description: The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St.
 url: /romans-distilled-paraphrased
 ---
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*

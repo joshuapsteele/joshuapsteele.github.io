@@ -4,7 +4,7 @@ date: '2019-10-16T16:38:20Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Judith Shulevitz offers up a (depressing) eye-opening analysis of our overbusy lives. There is another way.
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
 ---
 Judith Shulevitz offers up [a (depressing) eye-opening analysis of our overbusy lives](https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/). There is another way! But community and Sabbath both require sacrifice.

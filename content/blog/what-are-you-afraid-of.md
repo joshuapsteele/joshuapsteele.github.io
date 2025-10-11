@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: ''
+description: I'm scared of wasting my life, of being worthless outside academia. Fear drives how we dress, parent, and vote.
 url: /what-are-you-afraid-of/
 ---
 I’m scared. Are you?

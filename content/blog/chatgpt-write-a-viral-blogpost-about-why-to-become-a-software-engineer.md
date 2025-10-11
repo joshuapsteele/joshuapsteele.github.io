@@ -6,7 +6,7 @@ categories:
 - software engineering
 tags:
 - chatgpt
-description: ''
+description: Are you considering a career in software engineering but not sure if it’s right for you.
 url: /chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/
 ---
 Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:

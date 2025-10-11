@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - theology
-description: ''
+description: Exploring the overlooked role of complexity and chaos in God's good creation before sin's entrance in Genesis 3.
 url: /creation-and-doxology-pt-2/
 ---
 [(Read Pt. 1 First!)](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)")

@@ -4,10 +4,10 @@ date: '2014-03-20T11:46:15Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: 'You’ll notice that the previous post on Cedarville ends with a link to the Course Schedule: “Class Limited to Women” … I know, ludicrous.'
 url: /ok-maybe-a-bit-more-on-cedarville/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 You’ll notice that [the previous post on Cedarville](https://joshuapsteele.com/2014/03/18/cedarville-2/) ends with a link to [the Course Schedule](http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm):
 

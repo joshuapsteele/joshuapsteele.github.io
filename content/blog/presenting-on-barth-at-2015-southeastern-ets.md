@@ -4,10 +4,10 @@ date: '2015-04-24T09:13:41Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: My paper on Karl Barth and church unity has been accepted for the 2015 Southeastern Regional ETS meeting.
 url: /presenting-on-barth-at-2015-southeastern-ets/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 I just received the news today that my student paper submission for the [2015 Southeast Regional Meeting of the Evangelical Theological Society](https://lru.hobsonsradius.com/ssc/eform/N70x7m7aEx6G0x67128L.ssc) has been accepted!
 

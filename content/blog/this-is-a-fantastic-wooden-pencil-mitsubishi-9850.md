@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - writing
-description: ''
+description: 'Just wanted to give a quick shout-out to this fantastic pencil: the Mitsubishi 9850. It’s cheap, writes well, erases well, and looks great.'
 url: /this-is-a-fantastic-wooden-pencil-mitsubishi-9850/
 format: aside
 ---

@@ -4,7 +4,7 @@ date: '2019-11-02T02:35:27Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Reflections on the eve of priestly ordination, transitioning from deacon to priest in service of Christ's Church.
 url: /a-deacons-last-day/
 ---
 > Lord Jesus, you are the Good Shepherd who cares for his flock: We ask you to bestow upon your Church the gifts of the Holy Spirit in abundance, and to raise up from among us faithful and able persons called to the ministries of Deacon, Priest, and Bishop. Inspire them to spend and be spent for the sake of the Gospel, and make them holy and loving servants and shepherds of the flock for whom you shed your most precious blood. Grant this for the sake of your love. Amen**.**

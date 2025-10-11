@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - drafts
-description: ''
+description: I know I’m not alone in this, but the past few years have been pretty rough for me. - I’ve gained at least 50 pounds.
 url: /back-in-the-saddle/
 ---
 I know I’m not alone in this, but the past few years have been pretty rough for me.

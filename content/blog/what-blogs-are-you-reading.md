@@ -7,7 +7,7 @@ categories:
 - productivity
 tags:
 - reading
-description: ''
+description: 'My current RSS reading list: Alan Jacobs, Farnam Street, Seth Godin, Cal Newport, James Clear, and more.'
 url: /what-blogs-are-you-reading/
 ---
 Right now, I’m using the RSS readers [Inoreader](https://www.inoreader.com/) and [Reeder](http://reederapp.com/) to subscribe to the following blogs:

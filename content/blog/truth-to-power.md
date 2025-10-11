@@ -6,7 +6,7 @@ categories:
 - uncategorized
 tags:
 - drafts
-description: ''
+description: John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power.
 url: /truth-to-power/
 ---
 Mark 6:13-29. John the Baptist lost his life for speaking truth to power. Are we willing to speak truth to power? To tell the truth about power and the power of truth? Or will we abandon the truth to obtain and maintain power?

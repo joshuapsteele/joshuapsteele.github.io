@@ -4,7 +4,7 @@ date: '2015-12-08T11:45:35Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: A seminary student's theological outline centering on Christ's cross as the heart of Christian faith, from creation to consummation.
 url: /theology-outline/
 ---
 *Theology is confusing enough, much more so when you attempt to summarize it all in a single essay! Nevertheless, such was my assignment in seminary in 2015. Here are the results.*

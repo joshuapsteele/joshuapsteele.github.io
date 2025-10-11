@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: 'Unpacking the greatest conundrum in the Barth-Bonhoeffer relationship: Bonhoeffer''s critique of Barth''s ''positivism of revelation.'''
 url: /no-one-knows-what-positivism-of-revelation-means/
 ---
 When it comes to the Barth-Bonhoeffer relationship, there is perhaps no greater conundrum than the meaning of what Bonhoeffer called Barth’s “Offenbarungspositivismus” (“positivism of revelation” or “revelatory positivism”) in his *Letters and Papers from Prison* (DBWE 8).

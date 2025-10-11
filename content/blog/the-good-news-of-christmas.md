@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: After reading Scot McKnight's King Jesus Gospel, I discovered profound gospel messages hidden in the Christmas carols we often sing.
 url: /the-good-news-of-christmas/
 ---
 After reading [The King Jesus Gospel: The Original Good News Revisited](http://www.amazon.com/gp/product/031049298X/ref=as_li_ss_tl?ie=UTF8&tag=faithinirelan-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=031049298X) by Scot McKnight, who makes the claim that the gospel is the saving story of Jesus as Messiah, King, and Lord as the completion to the story of Israel, I started to notice some profound gospel messages in the Christmas carols we often sing during this season.

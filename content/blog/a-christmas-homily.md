@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: A Christmas homily reflecting on disappointment, shattered expectations, and finding hope when God doesn't meet our timing or plans.
 url: /a-christmas-homily/
 ---
 Good morning! And Merry Christmas!

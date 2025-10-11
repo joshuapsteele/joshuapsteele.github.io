@@ -4,7 +4,7 @@ date: '2016-05-25T23:53:49Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: Books, however, do not like my back.
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
 ---
 I love books. Books, however, do not like my back.

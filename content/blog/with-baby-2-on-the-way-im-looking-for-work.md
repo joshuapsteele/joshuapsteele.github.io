@@ -4,7 +4,7 @@ date: '2019-11-25T16:14:29Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: 'I’m a husband to Rachel and a father to Eva. I’m also: - An Anglican Priest (serving/volunteering without pay) - A Ph.D.'
 url: /with-baby-2-on-the-way-im-looking-for-work/
 ---
 I’m a husband to Rachel and a father to Eva.

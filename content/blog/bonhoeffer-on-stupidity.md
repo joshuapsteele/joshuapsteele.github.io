@@ -1,15 +1,15 @@
 ---
-title: "Bonhoeffer on Stupidity"
+title: Bonhoeffer on Stupidity
+date: 2025-03-10 15:16:39-04:00
 author: joshuapsteele
-date: 2025-03-10T15:16:39-04:00
-draft: false
 tags:
-  - bonhoeffer
-  - theology
-  - ethics
+- bonhoeffer
+- theology
+- ethics
+description: Dietrich Bonhoeffer's penetrating prison reflections on stupidity as a moral defect more dangerous to society than malice.
 url: /bonhoeffer-on-stupidity/
+draft: false
 ---
-
 In his "Letters and Papers from Prison," Dietrich Bonhoeffer made some remarkably insightful observations about the nature of stupidity and its dangers to society. These reflections, perhaps more relevant today than ever, deserve our careful attention. Here they are in full.
 
 ## On Stupidity (DBWE 8:43-44)

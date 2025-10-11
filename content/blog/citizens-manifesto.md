@@ -1,17 +1,22 @@
 ---
-title: "A Citizen's Manifesto: Working Principles for Democratic Renewal"
-date: 2025-06-16T09:19:37-04:00
-draft: false
+title: 'A Citizen''s Manifesto: Working Principles for Democratic Renewal'
+date: 2025-06-16 09:19:37-04:00
 author: joshuapsteele
-tags: [democracy, constitutionalism, "civic virtue", "civic engagement"]
-categories: [politics]
+categories:
+- politics
+tags:
+- democracy
+- constitutionalism
+- civic virtue
+- civic engagement
+description: Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal.
+url: /citizens-manifesto/
+draft: false
 showToc: true
 TocOpen: true
-url: /citizens-manifesto/
 aliases:
-    - /blog/citizens-manifesto/
+- /blog/citizens-manifesto/
 ---
-
 Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue. 
 
 Our [constitutional framework in the United States of America](https://constitution.congress.gov/constitution/) was designed to be amended, our institutions to be improved, and our understanding of justice to deepen with experience and wisdom. The greatest threat to democracy is not disagreement about these principles, but the abandonment of our shared commitment to wrestling with them together in good faith.

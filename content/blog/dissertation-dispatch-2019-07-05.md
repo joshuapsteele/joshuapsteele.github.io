@@ -4,7 +4,7 @@ date: '2019-07-05T21:09:29Z'
 author: joshuapsteele
 categories:
 - dissertation
-description: ''
+description: I got my dissertation proposal approved in the Spring of 2018.
 url: /dissertation-dispatch-2019-07-05/
 ---
 I got my [dissertation proposal](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) approved in the Spring of 2018. Working title: “Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”

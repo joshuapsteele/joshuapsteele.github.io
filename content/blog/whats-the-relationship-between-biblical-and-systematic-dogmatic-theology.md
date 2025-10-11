@@ -8,7 +8,7 @@ categories:
 tags:
 - bible
 - theology
-description: ''
+description: This is the question we’re considering this week in our doctoral seminar on biblical and theological integration.
 url: /whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/
 ---
 This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!

@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - reading
-description: ''
+description: This upcoming semester, I’ll be taking a seminar on the Doctrine of Creation from my supervisor Marc Cortez.
 url: /what-im-reading-this-fall/
 ---
 This upcoming semester, I’ll be taking a seminar on the Doctrine of Creation from my supervisor Marc Cortez. I’ll also be doing my “pedagogical experience” in a Christian Theology course—also with Marc Cortez.

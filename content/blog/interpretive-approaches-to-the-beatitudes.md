@@ -9,7 +9,7 @@ tags:
 - barth
 - bonhoeffer
 - sermon on the mount
-description: ''
+description: How Barth and Bonhoeffer read the Beatitudes—exploring interpretive approaches to the opening of the Sermon on the Mount.
 url: /interpretive-approaches-to-the-beatitudes/
 ---
 As I said in my previous post, “[Interpretive Approaches to the Sermon on the Mount](https://joshuapsteele.com/interpretive-approaches-to-the-sermon-on-the-mount/),” I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.

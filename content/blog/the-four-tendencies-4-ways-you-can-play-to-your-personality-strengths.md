@@ -4,7 +4,7 @@ date: '2018-06-08T18:39:38Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: Gretchen Rubin's Four Tendencies framework helps you understand your personality and play to your strengths in relationships and productivity.
 url: /the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/
 ---
 In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.

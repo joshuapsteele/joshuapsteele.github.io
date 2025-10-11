@@ -4,7 +4,7 @@ date: '2020-11-10T21:07:25Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Just a brief update to note that I’m looking for a new role to supplement my part-time work as Managing Editor of Anglican Compass.
 url: /im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/
 ---
 Hey everyone! Just a brief update to note that I’m looking for a new role to supplement my part-time work as Managing Editor of [Anglican Compass](https://anglicancompass.com/)!

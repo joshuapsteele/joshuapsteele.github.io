@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: 'A homily on Mark 1:29-45 (ESV): > And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John.'
 url: /morning-prayer-homily-mark-1-29-45/
 ---
 A homily on Mark 1:29-45 (ESV):

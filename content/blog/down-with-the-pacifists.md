@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: The past week has been a great one for slipshod attacks on pacifism. First, from First Things (Stephen H.
 url: /down-with-the-pacifists/
 ---
 The past week has been a great one for slipshod attacks on pacifism. First, from [First Things](http://www.firstthings.com/) (Stephen H. Webb) on October 15 —- [“John Howard Yoder and the Violent Power of Pacifism”](http://www.firstthings.com/onthesquare/2013/10/john-howard-yoder-and-the-violent-power-of-pacifism) (emphasis added below):

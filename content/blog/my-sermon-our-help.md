@@ -5,10 +5,10 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: 'Hey internet: I was recently given the chance to preach at my church, St. Peter’s Anglican, on the Second Sunday of Lent. The sermon audio is now online.'
 url: /my-sermon-our-help/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 Hey internet: I was recently given the chance to preach at my church, [St. Peter’s Anglican](http://stpetersbhm.org/), on the [Second Sunday of Lent](http://lectionary.library.vanderbilt.edu/texts.php?id=25). The [sermon audio is now online](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3). If you’ve got 23 minutes to spare, [give it a listen](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3)!
 

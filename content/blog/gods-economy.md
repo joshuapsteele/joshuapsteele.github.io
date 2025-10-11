@@ -1,11 +1,11 @@
 ---
+title: God's Economy
+date: '2024-10-13'
 author: joshuapsteele
-date: "2024-10-13"
-title: "God's Economy"
+description: In God's economy, the most important people are not the billionaire, the business owner, or even the blue-collar worker.
 url: /gods-economy
 showtoc: false
 ---
-
 In God's economy, the most important people are not the billionaire, the business owner, or even the blue-collar worker. Instead, in God's economy, the most important people are the widow, the orphan, and the immigrant. Which is to say, the poor and the powerless.
 
 I've previously gone into depth on [what the book of Proverbs has to say about poverty and wealth](https://joshuapsteele.com/bible-poverty-proverbs/), as well as [how Christians should think about wealth](https://joshuapsteele.com/christians-and-wealth/).

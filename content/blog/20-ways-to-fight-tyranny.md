@@ -1,15 +1,18 @@
 ---
-title: "20 Ways to Fight Tyranny: Lessons from Timothy Snyder"
-date: 2025-06-09T09:49:40-04:00
-draft: false
+title: '20 Ways to Fight Tyranny: Lessons from Timothy Snyder'
+date: 2025-06-09 09:49:40-04:00
 author: joshuapsteele
-tags: [tyranny, authoritarianism]
-categories: [politics]
+categories:
+- politics
+tags:
+- tyranny
+- authoritarianism
+description: Timothy Snyder's 20 essential lessons from the twentieth century on resisting authoritarianism and defending freedom in dark times.
+url: /20-ways-to-fight-tyranny/
+draft: false
 showToc: true
 TocOpen: true
-url: /20-ways-to-fight-tyranny/
 ---
-
 The following 20 "lessons" are taken from Timothy Snyder's [*On Tyranny: Twenty Lessons from the Twentieth Century*](https://amzn.to/3SFZkke).
 
 Here's a video of John Lithgow reading the 20 lessons: https://www.youtube.com/watch?v=cXR5HLodsT8.

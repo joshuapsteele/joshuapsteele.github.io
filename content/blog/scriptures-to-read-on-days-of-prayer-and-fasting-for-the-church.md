@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - ethics
-description: ''
+description: Biblical passages from 1 Peter, Isaiah, and elsewhere for corporate prayer and fasting during times of church crisis.
 url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
 ---
 ## 1 Peter 4:17

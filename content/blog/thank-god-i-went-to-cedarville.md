@@ -4,7 +4,7 @@ date: '2016-05-31T20:20:53Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Despite everything else, Cedarville prepared me exceptionally well for seminary—gratitude for my undergraduate theological education.
 url: /thank-god-i-went-to-cedarville/
 ---
 As I prepare for my final semester at [Beeson Divinity School](http://www.beesondivinity.com/), it strikes me just how well I was prepared for my seminary education by my undergraduate professors at Cedarville University.

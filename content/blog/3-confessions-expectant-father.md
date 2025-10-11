@@ -4,7 +4,7 @@ date: '2018-02-27T12:29:34Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: An honest reflection on fears, uncertainties, and hopes as a first-time father awaits the arrival of 'Lump' in August.
 url: /3-confessions-expectant-father/
 ---
 ## We’re Expecting!

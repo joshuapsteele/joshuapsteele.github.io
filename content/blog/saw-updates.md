@@ -1,14 +1,18 @@
 ---
-title: "Saw Updates"
-date: 2025-04-01T08:25:13-04:00
-draft: false
+title: Saw Updates
+date: 2025-04-01 08:25:13-04:00
 author: joshuapsteele
-tags: [home improvement, diy, tools] # Add relevant tags
-categories: [Tools] # Add relevant categories
-showToc: false # Set to false to hide table of contents
+categories:
+- Tools
+tags:
+- home improvement
+- diy
+- tools
+description: The Table Saw I know you've all been waiting for (lol) updates on my vintage 1947 Craftsman 113 table saw.
 url: /saw-updates/
+draft: false
+showToc: false
 ---
-
 ## The Table Saw
 
 I know you've all been waiting for (lol) updates on my [vintage 1947 Craftsman 113 table saw](/vintage-craftsman-table-saw/).

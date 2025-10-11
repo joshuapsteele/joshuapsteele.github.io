@@ -8,7 +8,7 @@ tags:
 - barth
 - bible
 - research
-description: ''
+description: A comprehensive index of Karl Barth's sermons from 1913-1968, compiled from the Digital Karl Barth Library's sermon volumes.
 url: /a-list-of-karl-barths-sermons/
 ---
 To make this list, I’ve used the data available in the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com/). I’ve just taken the tables of contents in the sermon volumes of Barth’s collected works and put them all in one place.

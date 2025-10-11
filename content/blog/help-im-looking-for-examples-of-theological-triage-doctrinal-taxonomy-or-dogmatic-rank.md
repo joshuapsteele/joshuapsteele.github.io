@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - research
-description: ''
+description: 'Research request: looking for examples of theological triage—distinguishing levels of doctrinal importance in Christian theology.'
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/
 ---
 For a research project, I’m looking for examples of the reasoning that goes into what’s been called, among other things

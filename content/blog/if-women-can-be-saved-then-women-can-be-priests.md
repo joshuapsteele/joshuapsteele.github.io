@@ -9,7 +9,7 @@ categories:
 tags:
 - anglican compass
 - women's ordination
-description: ''
+description: 'Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination.'
 url: /if-women-can-be-saved-then-women-can-be-priests/
 ---
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*

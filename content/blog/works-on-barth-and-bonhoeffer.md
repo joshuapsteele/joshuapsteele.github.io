@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: 'ABROMEIT, Hans-Jürgen. Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene Christologie*.'
 url: /works-on-barth-and-bonhoeffer/
 ---
 1. ABROMEIT, Hans-Jürgen. *Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene Christologie*. Neukirchener Beiträge zur systemaschen Theologie 8. Neukirchen-Vluyn: Neukirchener Verlag, 1991.

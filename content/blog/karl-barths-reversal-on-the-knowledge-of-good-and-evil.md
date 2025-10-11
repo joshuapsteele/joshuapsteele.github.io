@@ -7,7 +7,7 @@ categories:
 tags:
 - barth
 - research
-description: ''
+description: How Barth's interpretation of Genesis 2–3 changed from Romans to Church Dogmatics while maintaining his critique of religion as idolatry.
 url: /karl-barths-reversal-on-the-knowledge-of-good-and-evil/
 ---
 I argue that, although Barth’s interpretation of the Genesis passages changed between [*The Epistle to the Romans*](https://amzn.to/2SVxH69) and the [*Church Dogmatics*](https://www.logos.com/product/5758/barths-church-dogmatics), his mature readings of Genesis 2–3 still support his overall theological critique of religion as idolatry, the self-justifying positing of false gods.

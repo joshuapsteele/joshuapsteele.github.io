@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: 'A homily on James 2.1-13 (ESV): > “My brothers, show no partiality as you hold the faith in our Lord Jesus Christ,the Lord of glory.'
 url: /morning-prayer-homily-james-2-1-13/
 ---
 A homily on James 2.1-13 (ESV):

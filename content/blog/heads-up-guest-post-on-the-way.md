@@ -5,9 +5,9 @@ author: joshuapsteele
 categories:
 - bible
 - personal
-description: ''
+description: The first ever guest post on this blog is coming soon from my good friend Amy Chase, an incoming student this Fall at Asbury Theological Seminary.
 url: /heads-up-guest-post-on-the-way/
-publicize_reach:
+publicize_reach: null
 ---
 Great news! The first ever guest post on this blog is coming soon from my good friend Amy Chase, an incoming student this Fall at [Asbury Theological Seminary](http://www.asburyseminary.edu/).
 

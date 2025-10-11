@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: It’s been a grueling past few weeks at Beeson. Our Spring Break happens to coincide with Holy Week this year, and it can’t come quickly enough.
 url: /three-recent-sermons/
 ---
 It’s been a grueling past few weeks at [Beeson](http://www.beesondivinity.com/). Our Spring Break happens to coincide with Holy Week this year, and it can’t come quickly enough!

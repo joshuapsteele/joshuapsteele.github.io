@@ -7,7 +7,7 @@ categories:
 tags:
 - anglican
 - copywriting
-description: ''
+description: I’m reading my way through the new (4th) edition of Robert Bly’s classic *The Copywriter’s Handbook*.
 url: /they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas/
 ---
 I’m reading my way through [the new (4th) edition of Robert Bly’s classic *The Copywriter’s Handbook*](https://amzn.to/2KdNASw). On pages 33–36, Bly offers “38 Model Headlines for Your ‘Swipe File.'” Here are some headlines ideas that came to mind, all geared to an Anglican context ([due to my work at AnglicanCompass.com](https://anglicanpastor.com/)).

@@ -6,7 +6,7 @@ categories:
 - ethics
 tags:
 - questions
-description: ''
+description: Tell me what frustrates you—I'm looking for real problems to solve, not toxic positivity. Rant in the comments.
 url: /cut-positivity-crap-frustrates/
 ---
 I’ll keep this short, sweet, and to the point: **I’m looking for problems that I can help solve, so I need you to rant at me in the comments.**

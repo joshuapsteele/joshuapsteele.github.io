@@ -4,7 +4,7 @@ date: '2019-09-26T15:28:25Z'
 author: joshuapsteele
 categories:
 - uncategorized
-description: ''
+description: Over on his blog, “Non Sermoni Res,” Dr. William Witt has written several excellent essays on the topic of women’s ordination.
 url: /here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/
 ---
 Over on his blog, “Non Sermoni Res,” Dr. [William Witt has written several excellent essays on the topic of women’s ordination](http://willgwitt.org/category/theology/womens-ordination/).

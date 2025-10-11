@@ -4,7 +4,7 @@ date: '2017-01-31T23:13:18Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: Have you ever had a problem finding a reliable resource for recommendations.
 url: /is-the-well-equipped-christian-worth-it/
 ---
 Have you ever had a problem finding a reliable resource for recommendations?

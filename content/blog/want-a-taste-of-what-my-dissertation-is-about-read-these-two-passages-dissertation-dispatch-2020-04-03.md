@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - religion
-description: ''
+description: Two key passages reveal what Barth and Bonhoeffer meant by 'religion'—the heart of my dissertation challenge.
 url: /want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/
 ---
 ## What does “religion” mean? Great question!

@@ -4,10 +4,10 @@ date: '2015-04-24T09:15:25Z'
 author: joshuapsteele
 categories:
 - ethics
-description: ''
+description: I'm not the most thankful person.
 url: /give-thanks/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 I'm not the most thankful person.
 

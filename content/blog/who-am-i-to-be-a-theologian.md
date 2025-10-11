@@ -4,10 +4,10 @@ date: '2015-04-24T09:13:34Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: 'For my 20th Century History &amp; Doctrine course at Beeson Divinity School, I''m re-reading through Karl Barth''s *Evangelical Theology: An Introduction*.'
 url: /who-am-i-to-be-a-theologian/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 For my 20th Century History &amp; Doctrine course at [Beeson Divinity School](http://www.beesondivinity.com/), I'm re-reading through [Karl Barth](http://en.wikipedia.org/wiki/Karl_Barth)'s *[Evangelical Theology: An Introduction](http://www.amazon.com/Evangelical-Theology-Introduction-Karl-Barth/dp/0802818196)*. If you're involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!
 

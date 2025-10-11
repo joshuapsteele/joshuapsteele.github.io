@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: 'Two eagerly anticipated 2019 releases from Baker: Barth''s theological exegesis and his relationship with Bonhoeffer.'
 url: /i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/
 ---
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*

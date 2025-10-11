@@ -6,7 +6,7 @@ categories:
 - bible
 - theology
 - ethics
-description: ''
+description: To start off the semester the other day, we prayed this prayer of confession together as a class.
 url: /a-prayer-of-confession/
 ---
 *To start off the semester the other day, we prayed this prayer of confession together as a class. The professor didn’t remember where the prayer was from, so [I tracked it down online. According to Justin Taylor, it was written by Bob Kauflin](https://www.thegospelcoalition.org/blogs/justin-taylor/a-corporate-confession-of-faith-based-on-the-ten-commandments-and-the-sermon-on-the-mount/).*

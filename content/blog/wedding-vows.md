@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - poetry
-description: ''
+description: The Traditional Wedding Vows In case you didn’t know, the “traditional” wedding vows – in English, at least – are found in the Book of Common Prayer.
 url: /wedding-vows/
 ---
 # The Traditional Wedding Vows

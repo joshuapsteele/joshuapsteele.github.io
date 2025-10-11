@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: Reflections on Kevin DeYoung's Memorial Day theology and the complex relationship between Christian faith and national identity.
 url: /church_and_state/
 ---
 (Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](https://joshuapsteele.com/2015/12/08/improvising-church-state/).”)

@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: How Barth and Bonhoeffer critique religion's false image of God that permits unrighteousness rather than redeeming creation.
 url: /barth-and-bonhoeffer-on-religions-false-gods/
 ---
 In *The Epistle to the Romans*, Barth writes the following concerning the false image of God at the heart of religion:

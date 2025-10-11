@@ -8,7 +8,7 @@ tags:
 - barth
 - bible
 - bonhoeffer
-description: ''
+description: 'Adding biblical content to the Barth-Bonhoeffer debate: what did they actually think about Scripture and its role?'
 url: /what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-2020-03-30/
 ---
 I’m trying to parse out the relevance of Barth’s and Bonhoeffer’s engagement with Scripture for making sense of the “Barth-Bonhoeffer relationship.” Specifically, I’m trying to, at the very least, add some biblical content and context to the ongoing debate over the relationship between Barth’s and Bonhoeffer’s theological critiques of religion.

@@ -7,7 +7,7 @@ categories:
 tags:
 - racism
 - sermons
-description: ''
+description: 'A Trinity Sunday sermon connecting Father, Son, and Holy Spirit to racial justice: why Trinitarian theology matters in 2020.'
 url: /who-really-cares-about-the-trinity-in-2020/
 ---
 *([To listen to the audio of this sermon as it was preached on June 6, 2020, click here.](https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele/))*

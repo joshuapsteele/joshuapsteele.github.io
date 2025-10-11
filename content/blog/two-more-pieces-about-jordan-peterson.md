@@ -6,7 +6,7 @@ categories:
 - theology
 - productivity
 - ethics
-description: ''
+description: Previously, I catalogued a bunch of different takes on Jordan Peterson, before giving my own take.
 url: /two-more-pieces-about-jordan-peterson/
 ---
 Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/).

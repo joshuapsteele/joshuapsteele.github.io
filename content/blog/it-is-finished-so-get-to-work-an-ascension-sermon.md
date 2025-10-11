@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: The following is an “It is Finished” sermon preached on Ascension Sunday, 2017.
 url: /it-is-finished-so-get-to-work-an-ascension-sermon/
 ---
 *The following is an “It is Finished” sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:*

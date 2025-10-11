@@ -9,7 +9,7 @@ tags:
 - bible
 - bonhoeffer
 - research
-description: ''
+description: I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. Originally, my dissertation proposal cast a very wide net.
 url: /dissertation-dispatch-2019-11-11/
 ---
 ## I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. 

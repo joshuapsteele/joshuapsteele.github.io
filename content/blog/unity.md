@@ -6,7 +6,7 @@ categories:
 - theology
 - personal
 - ethics
-description: ''
+description: The more I study the New Testament, I become more convinced that the unity of the Church is of utmost importance to God.
 url: /unity/
 ---
 The more I study the New Testament, I become more convinced that the unity of the Church is of utmost importance to God.

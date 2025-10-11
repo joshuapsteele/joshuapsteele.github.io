@@ -7,7 +7,7 @@ categories:
 tags:
 - barth
 - research
-description: ''
+description: 'I recently wrote about a problem I found in Alexander Street Press’ Digital Karl Barth Library: the Scripture citation search function no longer worked.'
 url: /update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/
 format: aside
 ---

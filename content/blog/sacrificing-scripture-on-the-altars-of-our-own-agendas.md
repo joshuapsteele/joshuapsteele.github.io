@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - personal
-description: ''
+description: Undoubtedly the title of this blog post could be taken in hundreds of different directions.
 url: /sacrificing-scripture-on-the-altars-of-our-own-agendas/
 ---
 Undoubtedly the title of this blog post could be taken in hundreds of different directions. However, given recent developments close to home, and [the Answers in Genesis conference coming to Cedarville University on Sept. 23-24](http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Cedarville-to-Host-Answers-in-Genesis-Conference.aspx), I’d like to get people thinking about Ken Ham, his organization’s agenda, and **how Scripture might very well be getting abused for the sake of Young Earth Creationism**.

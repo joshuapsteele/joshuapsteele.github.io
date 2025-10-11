@@ -4,7 +4,7 @@ date: '2012-09-21T07:00:39Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: 'Read Part One") Further Questions, All Relating to the University Statement on Dr. Pahl’s Dismissal: - If Dr.'
 url: /cedarville-let-there-be-light-pt-2/
 ---
 [Read Part One](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")

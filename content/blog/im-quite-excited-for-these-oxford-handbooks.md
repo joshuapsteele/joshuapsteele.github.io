@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - research
-description: ''
+description: If you’ve not yet consulted the Oxford Handbook series, you should. The Oxford Handbook of Systematic Theology is especially useful.
 url: /im-quite-excited-for-these-oxford-handbooks/
 ---
 If you’ve not yet consulted the Oxford Handbook series, you should! [The Oxford Handbook of Systematic Theology](https://amzn.to/32MEHGy) is especially useful!

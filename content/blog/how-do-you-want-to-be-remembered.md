@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: ''
+description: Do you know what the worst thing about ***death*** is. It’s not the dying itself – its the **separation**.
 url: /how-do-you-want-to-be-remembered/
 ---
 Do you know what the worst thing about ***death*** is?

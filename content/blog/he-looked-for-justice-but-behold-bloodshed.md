@@ -1,12 +1,12 @@
----  
-title: 'He Looked for Justice, but Behold, Bloodshed!'
-date: 2025-09-10T17:12:07-04:00
-draft: false
+---
+title: He Looked for Justice, but Behold, Bloodshed!
+date: 2025-09-10 17:12:07-04:00
 author: joshuapsteele
-description: "" # Add a brief description here
-tags: [] # Add relevant tags
-categories: [] # Add relevant categories
----  
+categories: []
+tags: []
+description: A lament, for a violent world in need of peace.
+draft: false
+---
 A lament, for a violent world in need of peace.
 
 "Eternal God, in whose perfect kingdom no sword is drawn but the sword of righteousness, no strength known but the strength of love: So mightily spread abroad your Spirit, that all peoples may be gathered under the banner of the Prince of Peace, as children of one Father; to whom be dominion and glory, now and for ever. Amen." (Book of Common Prayer)

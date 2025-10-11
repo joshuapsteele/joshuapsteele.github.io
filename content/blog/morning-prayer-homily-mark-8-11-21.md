@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: 'A homily on Mark 8:11-21 (ESV): > The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him.'
 url: /morning-prayer-homily-mark-8-11-21/
 ---
 A homily on Mark 8:11-21 (ESV):

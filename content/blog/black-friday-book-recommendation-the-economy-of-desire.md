@@ -4,10 +4,10 @@ date: '2013-11-29T16:09:57Z'
 author: joshuapsteele
 categories:
 - ethics
-description: ''
+description: Black Friday proves that the progress of (post)modernity has failed to eradicate the ills of idolatry.
 url: /black-friday-book-recommendation-the-economy-of-desire/
-publicize_facebook_url:
-publicize_twitter_url:
+publicize_facebook_url: null
+publicize_twitter_url: null
 ---
 Black Friday proves that the progress of (post)modernity has failed to eradicate the ills of idolatry. Lest we denizens of the [“highly-developed” world ](http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)think that we have left the primitive vestiges of wood, rock, and gold idolatry behind, our shopping patterns (and indeed our shopping identities as consumers) should remind us of [our consumerism’s dark side](http://www.bbc.co.uk/news/blogs-trending-25153350) — a [lethal one](http://blackfridaydeathcount.com/).
 

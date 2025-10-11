@@ -8,7 +8,7 @@ categories:
 tags:
 - research
 - writing
-description: ''
+description: Months of prayer for breakthrough or clarity to quit—my struggle to make progress on the Barth, Bonhoeffer, and Bible dissertation.
 url: /the-phd-plan-or-the-lack-thereof/
 ---
 For months and months now, I’ve been praying for either (1) a breakthrough on my “Barth, Bonhoeffer, and the Bible” dissertation or (2) a clear sign that I should quit the Ph.D. Unfortunately, after countless confusing dead ends in my endeavors to put Karl Barth and Dietrich Bonhoeffer into precise conversation with each other regarding specific passages of the Bible, I’ve now realized that such an approach is not going to work.

@@ -4,7 +4,7 @@ date: '2019-01-22T02:14:32Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Last night, the scale read 192.4. I’d really like it to read 180 or less.
 url: /stickking-to-the-slow-carb-diet/
 ---
 Last night, the scale read 192.4. I’d really like it to read 180 or less.

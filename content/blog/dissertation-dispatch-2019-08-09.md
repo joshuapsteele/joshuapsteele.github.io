@@ -8,7 +8,7 @@ tags:
 - barth
 - bonhoeffer
 - romans
-description: ''
+description: This summer, I’ve spent most of my reading/writing time working on a paper on Barth’s Römerbrief reading of Romans 10.
 url: /dissertation-dispatch-2019-08-09/
 ---
 This summer, I’ve spent most of my reading/writing time working on a paper on Barth’s Römerbrief reading of Romans 10. This paper is for the 2019 Barth Graduate Student Colloquium, and it has taken *way* longer than I originally anticipated.

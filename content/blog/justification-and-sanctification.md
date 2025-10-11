@@ -4,7 +4,7 @@ date: '2018-11-09T15:27:48Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.
 url: /justification-and-sanctification/
 ---
 For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.

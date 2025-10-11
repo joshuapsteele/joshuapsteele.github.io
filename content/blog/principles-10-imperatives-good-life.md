@@ -4,7 +4,7 @@ date: '2017-10-17T16:18:56Z'
 author: joshuapsteele
 categories:
 - productivity
-description: ''
+description: Why write out a list of principles. For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.
 url: /principles-10-imperatives-good-life/
 ---
 Why write out a list of principles?

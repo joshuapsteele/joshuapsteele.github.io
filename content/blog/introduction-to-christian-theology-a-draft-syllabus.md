@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - theology
-description: ''
+description: As a part of my “pedagogical experience” at Wheaton College this semester, I was required to draft a syllabus for an introduction to Christian theology.
 url: /introduction-to-christian-theology-a-draft-syllabus/
 format: aside
 ---

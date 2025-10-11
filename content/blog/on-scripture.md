@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - ethics
-description: ''
+description: 'A theological statement: Scripture as the Spirit''s illocutionary act testifying to the Son, accomplishing redemption in God''s people.'
 url: /on-scripture/
 ---
 ## INTRODUCTION: THE NATURE OF SCRIPTURE

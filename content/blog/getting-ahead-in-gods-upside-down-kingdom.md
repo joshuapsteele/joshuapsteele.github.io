@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: A sermon on God's upside-down kingdom values, appealing for a consistently pro-life ethic rooted in justice and steadfast love.
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
 <audio class="wp-audio-shortcode" controls="controls" id="audio-4174-2" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3?_=2" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3></audio>

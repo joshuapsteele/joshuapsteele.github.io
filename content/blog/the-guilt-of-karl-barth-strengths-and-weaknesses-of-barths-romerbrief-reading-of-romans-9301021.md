@@ -10,7 +10,7 @@ tags:
 - barth
 - bible
 - romans
-description: ''
+description: 'My 2019 Barth Colloquium paper at Princeton: analyzing strengths and weaknesses of Barth''s Römerbrief reading of Romans 9:30–10:21.'
 url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/
 ---
 *UPDATE: Here is the paper that I gave at the 2019 Karl Barth Graduate Student Colloquium at the Center for Barth Studies at Princeton Theological Seminary.*

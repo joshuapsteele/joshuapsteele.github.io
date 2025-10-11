@@ -4,7 +4,7 @@ date: '2016-03-24T12:36:09Z'
 author: joshuapsteele
 categories:
 - theology
-description: ''
+description: Hi internet – especially all you Barthians and Bonhoefferians (-ites?) out there.
 url: /reading-recommendations-barths-bonhoeffers-false-gods/
 ---
 Hi internet – especially all you Barthians and Bonhoefferians (-ites?) out there.

@@ -6,7 +6,7 @@ categories:
 - personal
 tags:
 - prayer
-description: ''
+description: A BCP prayer for trust amid anxiety, asking God to lift burdens and grant peace to troubled hearts.
 url: /a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/
 ---
 I needed this prayer this morning, and I plan to return to it often in the days ahead.

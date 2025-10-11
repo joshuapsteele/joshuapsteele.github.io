@@ -8,7 +8,7 @@ tags:
 - linux
 - programming
 - software engineering
-description: ''
+description: Are you new to the world of computer programming. If so, learning Linux commands is an essential step in your journey.
 url: /mastering-linux-top-commands-every-new-computer-programmer-should-learn/
 ---
 Are you new to the world of computer programming? If so, learning [Linux](https://en.wikipedia.org/wiki/Linux) commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.

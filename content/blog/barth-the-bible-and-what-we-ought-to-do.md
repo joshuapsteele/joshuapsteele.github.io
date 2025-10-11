@@ -7,7 +7,7 @@ categories:
 tags:
 - barth
 - bible
-description: ''
+description: Came across this Barth quote in Church Dogmatics II/2 this morning. I really like it, because it’s a good reminder that Barth valued the Bible.
 url: /barth-the-bible-and-what-we-ought-to-do/
 ---
 Came across this Barth quote in Church Dogmatics II/2 this morning. I really like it, because it’s a good reminder that Barth valued the Bible. His distinction between the Bible as witness to the Word of God and Jesus Christ as the Word of God did not cause him to abandon the Scriptural witness.

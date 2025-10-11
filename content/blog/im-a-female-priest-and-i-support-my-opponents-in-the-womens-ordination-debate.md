@@ -7,7 +7,7 @@ categories:
 tags:
 - anglican compass
 - women's ordination
-description: ''
+description: There is not unanimous agreement about women’s ordination in the worldwide Anglican Communion.
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/
 ---
 There is not unanimous agreement about women’s ordination in the worldwide Anglican Communion. Godly and thoughtful Christians hold opposing convictions about Holy Orders and who is called to ordained ministry. You often see the results of this debate at the Provincial level—a national expression of the Church may or may not ordain women, in accordance with their conviction. But for the Anglican Church in North America this disagreement is internal to the Province, varying from diocese to diocese and bishop to bishop.

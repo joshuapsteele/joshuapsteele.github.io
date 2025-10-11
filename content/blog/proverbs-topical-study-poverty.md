@@ -8,7 +8,7 @@ categories:
 tags:
 - poverty
 - proverbs
-description: ''
+description: 'Introduction: Poverty and Wealth In contrast to the affluence of mainstream American culture, poverty is a harsh and painful reality.'
 url: /bible-poverty-proverbs
 ---
 # Introduction: Poverty and Wealth

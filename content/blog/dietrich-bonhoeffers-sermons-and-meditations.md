@@ -7,7 +7,7 @@ categories:
 tags:
 - bible
 - bonhoeffer
-description: ''
+description: 'SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*, ed.'
 url: /dietrich-bonhoeffers-sermons-and-meditations/
 ---
 SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*, ed. Victoria J. Barnett et al., vol. 17, Dietrich Bonhoeffer Works (Minneapolis, MN: Fortress Press, 2014), 154–158.

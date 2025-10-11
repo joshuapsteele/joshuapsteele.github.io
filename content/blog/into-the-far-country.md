@@ -7,7 +7,7 @@ categories:
 - theology
 tags:
 - barth
-description: ''
+description: '!Karl Barth Quote Blue Jesus Christ has gone into the far country in our stead, to bring us home to God!.'
 url: /into-the-far-country/
 ---
 ![Karl Barth Quote Blue](https://joshuapsteele.com/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png "Karl Barth Quote Blue.png")

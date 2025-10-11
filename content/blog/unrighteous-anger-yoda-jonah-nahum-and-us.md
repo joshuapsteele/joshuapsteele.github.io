@@ -5,9 +5,9 @@ author: joshuapsteele
 categories:
 - bible
 - sermons
-description: ''
+description: A sermon exploring righteous versus unrighteous anger through Yoda's wisdom, Jonah's fury, Nahum's prophecy, and our own responses.
 url: /unrighteous-anger-yoda-jonah-nahum-and-us/
-publicize_twitter_user:
+publicize_twitter_user: null
 ---
 (TEXTS: [Jonah 3:5-10; 4:1-11; Nahum 1:1-8](http://www.biblegateway.com/passage/?search=Jonah%203:5-10;%204:1-11;%20Nahum%201:1-8&version=NET))
 

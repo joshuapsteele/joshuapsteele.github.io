@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - theology
 - productivity
-description: ''
+description: I want to share with you the following prayer of St. Thomas Aquinas Before Study, based on ***Oratio S.
 url: /prayer-of-st-thomas-aquinas-before-study/
 publicize_twitter_user: a perfect prayer to pray before you read, write, study, or take a test. Click to read the prayer and to pray it yourself!
 ---

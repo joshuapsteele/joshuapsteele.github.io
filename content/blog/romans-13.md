@@ -6,9 +6,9 @@ categories:
 - bible
 - theology
 - ethics
-description: ''
+description: Without context, words can mean anything and everything, and therefore mean nothing.
 url: /romans-13/
-activitypub_status:
+activitypub_status: null
 ---
 Without context, words can mean anything and everything, and therefore mean nothing. It is only through the delimiting influence of context that words, phrases, sentences, and paragraphs have any meaning at all.
 

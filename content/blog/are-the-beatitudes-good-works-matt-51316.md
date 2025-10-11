@@ -7,7 +7,7 @@ categories:
 - dissertation
 tags:
 - bonhoeffer
-description: ''
+description: Yesterday, I wrote just a bit about interpretive approaches to the Beatitudes in Matthew 5.
 url: /are-the-beatitudes-good-works-matt-51316/
 ---
 Yesterday, I wrote just a bit about [interpretive approaches to the Beatitudes in Matthew 5](https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/). I’m trying to get a better handle on how Barth and Bonhoeffer treat the Sermon on the Mount, and I’m starting with the Beatitudes.

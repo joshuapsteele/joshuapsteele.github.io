@@ -6,7 +6,7 @@ categories:
 - productivity
 tags:
 - reading
-description: ''
+description: Reading is the closest thing that human beings have to a superpower.
 url: /one-simple-trick-helps-read-faster-ph-d-student/
 ---
 Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.

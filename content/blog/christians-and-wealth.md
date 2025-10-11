@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - theology
 - ethics
-description: ''
+description: Why American Christians should embrace downward mobility, living simply at human flourishing standards and giving excess to the poor.
 url: /christians-and-wealth/
 ---
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:

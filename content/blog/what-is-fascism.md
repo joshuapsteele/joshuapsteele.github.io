@@ -1,14 +1,17 @@
 ---
-title: "What is Fascism?"
-date: 2025-09-22T10:15:00-04:00
-draft: false
+title: What is Fascism?
+date: 2025-09-22 10:15:00-04:00
 author: joshuapsteele
-tags: [fascism, authoritarianism]
-categories: [politics]
-showToc: true
+categories:
+- politics
+tags:
+- fascism
+- authoritarianism
+description: 'Defining fascism beyond the political buzzword: understanding its historical origins, characteristics, and why it matters today.'
 url: /what-is-fascism/
+draft: false
+showToc: true
 ---
-
 What is fascism? The word gets thrown around a lot—sometimes carelessly, yet it refers to one of the most destructive political phenomena of the 20th century, and one we can't afford to misunderstand today.
 
 ## Historical Origins

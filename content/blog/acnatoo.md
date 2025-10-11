@@ -10,7 +10,7 @@ tags:
 - local churches
 - ministry
 - safety
-description: ''
+description: '#ACNAtoo is a movement of survivors of ACNA-related abuse &amp; their supporters seeking justice, repentance, healing &amp; a healthier ACNA.'
 url: /acnatoo/
 ---
 *#ACNAtoo is a movement of survivors of ACNA-related abuse &amp; their supporters seeking justice, repentance, healing &amp; a healthier ACNA. This is an overview of the movement including what you can do to hear, to support, and to respond. By Whitney Evans Harrison and Conor Hanson.*

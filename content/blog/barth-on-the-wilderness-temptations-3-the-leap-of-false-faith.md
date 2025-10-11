@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - bible
 - theology
-description: ''
+description: I've been reproducingKarl Barth'smagnificent exegesis of Christ's wilderness temptations in *Church Dogmatics* IV/1.
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 ---
 I've been reproducing[Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth)magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.

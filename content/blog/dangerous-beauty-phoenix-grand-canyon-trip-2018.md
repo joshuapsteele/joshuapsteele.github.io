@@ -4,7 +4,7 @@ date: '2018-03-09T14:47:50Z'
 author: joshuapsteele
 categories:
 - personal
-description: ''
+description: Rachel and I just got back from our very first trip to the Southwest.
 url: /dangerous-beauty-phoenix-grand-canyon-trip-2018/
 ---
 ### Rachel and I just got back from our very first trip to the Southwest.

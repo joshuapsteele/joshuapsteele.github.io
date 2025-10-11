@@ -6,7 +6,7 @@ categories:
 - theology
 tags:
 - theology
-description: ''
+description: This idea has been bouncing around in my head for a bit.
 url: /mental-models-helpful-model-theology/
 ---
 This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.
