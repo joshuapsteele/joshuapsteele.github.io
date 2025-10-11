@@ -1,8 +1,9 @@
 ---
 title: AI
+description: 'How I use (and don't use) AI tools.'
+url: /ai
 draft: false
 showtoc: false
-url: /ai
 ---
 {{< callout "note" >}}
 This `/ai` page is just one of [my many "slash pages."](/slashes)

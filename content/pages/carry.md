@@ -1,9 +1,10 @@
 ---
 title: Carry
+description: 'Every Day Carry (EDC) items I find useful.'
+url: /carry
 draft: false
 showtoc: false
-url: /carry
-aliases: 
+aliases:
 - /edc
 ---
 {{< callout "note" >}}

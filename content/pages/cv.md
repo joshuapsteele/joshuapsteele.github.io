@@ -1,8 +1,9 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=4007
 title: CV
+author: joshuapsteele
+description: 'My curriculum vitae (CV) and resume.'
 url: /cv/
+guid: https://joshuapsteele.com/?page_id=4007
 showtoc: true
 aliases:
 - /portfolio/cv

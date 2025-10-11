@@ -1,8 +1,9 @@
 ---
-author: joshuapsteele
 title: Caveats
-showtoc: false
+author: joshuapsteele
+description: 'You can add these caveats to everything I write online.'
 url: /caveats
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/caveats` page is just one of [my many "slash pages."](/slashes)

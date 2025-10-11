@@ -1,10 +1,11 @@
 ---
 title: Bookmarks
+description: 'This is a list of interesting and/or useful websites and posts I have bookmarked.'
+url: /bookmarks
 draft: false
 showtoc: false
-url: /bookmarks
 aliases:
-  - /save
+- /save
 ---
 {{< callout "note" >}}
 This `/bookmarks` (AKA `/save`) page is just one of [my many "slash pages."](/slashes)

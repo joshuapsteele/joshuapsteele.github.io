@@ -1,8 +1,9 @@
 ---
-draft: false
-title: 'Blogroll'
-showtoc: false
+title: Blogroll
+description: 'This is a curated list of blogs, websites, and other online publications that I recommend.'
 url: /blogroll
+draft: false
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/blogroll` page is just one of [my many "slash pages."](/slashes)

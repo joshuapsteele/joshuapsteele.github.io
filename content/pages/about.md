@@ -1,11 +1,12 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=40142
 title: About
+author: joshuapsteele
+description: Learn more about Joshua P. Steele, a pastor-turned-programmer.
+url: /about
+guid: https://joshuapsteele.com/?page_id=40142
 aliases:
 - /portfolio
 showtoc: false
-url: /about
 ---
 {{< callout "note" >}}
 This `/about` page is just one of [my many "slash pages."](/slashes)

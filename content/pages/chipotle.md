@@ -1,8 +1,9 @@
 ---
 title: Chipotle
+description: 'My Chipotle order.'
+url: /chipotle
 draft: false
 showtoc: false
-url: /chipotle
 ---
 {{< callout "note" >}}
 This `/chipotle` page is just one of [my many "slash pages."](/slashes)

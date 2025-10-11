@@ -1,8 +1,9 @@
 ---
 title: Canon
+description: 'Things that have most shaped me.'
+url: /canon
 draft: false
 showtoc: false
-url: /canon
 ---
 {{< callout "note" >}}
 This `/canon` page is just one of [my many "slash pages."](/slashes)

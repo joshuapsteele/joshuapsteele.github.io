@@ -1,10 +1,11 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=4016
 title: Essays
+author: joshuapsteele
+description: 'A collection of my academic essays.'
+url: /essays
+guid: https://joshuapsteele.com/?page_id=4016
 aliases:
 - /portfolio/essays
-url: /essays
 ---
 {{< callout "note" >}}
 **More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)

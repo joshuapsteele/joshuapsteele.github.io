@@ -1,9 +1,10 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=2619
 title: Contact
-showtoc: false
+author: joshuapsteele
+description: 'How to get in touch with me.'
 url: /contact/
+guid: https://joshuapsteele.com/?page_id=2619
+showtoc: false
 ---
 {{< callout "note" >}}
 This `/contact` page is just one of [my many "slash pages."](/slashes)

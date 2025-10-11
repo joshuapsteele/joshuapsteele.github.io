@@ -1,8 +1,9 @@
 ---
+title: Changelog
+description: 'This page tracks notable changes and updates to my website.'
+url: /changelog
 draft: false
 showtoc: false
-title: 'Changelog'
-url: /changelog
 ---
 {{< callout "note" >}}
 This `/changelog` page is just one of [my many "slash pages."](/slashes)

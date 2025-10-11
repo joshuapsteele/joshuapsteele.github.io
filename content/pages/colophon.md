@@ -1,8 +1,9 @@
 ---
+title: Colophon
+description: 'This page describes how this website is made.'
+url: /colophon
 draft: false
 showtoc: false
-title: 'Colophon'
-url: /colophon
 ---
 {{< callout "note" >}}
 This `/colophon` page is just one of [my many "slash pages."](/slashes)

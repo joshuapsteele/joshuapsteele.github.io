@@ -1,8 +1,9 @@
 ---
 title: Defaults
+description: 'This is a list of apps and software tools I use daily.'
+url: /defaults
 draft: false
 showtoc: false
-url: /defaults
 ---
 {{< callout "note" >}}
 This `/defaults` page is just one of [my many "slash pages."](/slashes) It's similar to my [`/carry`](/carry), [`/posse`](/posse), and [`/uses`](/uses) pages, but focuses on the apps and software tools I use daily.

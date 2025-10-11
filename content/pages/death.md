@@ -1,8 +1,9 @@
 ---
 title: Death
+description: 'Instructions for family and friends in case of my death.'
+url: /death
 draft: false
 showtoc: false
-url: /death
 ---
 {{< callout "note" >}}
 This `/death` page is just one of [my many "slash pages."](/slashes)
