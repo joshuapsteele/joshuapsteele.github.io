@@ -1,10 +1,11 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=42536
 title: Philosophy of Ministry
+author: joshuapsteele
+description: 'My commitments and vows regarding Christian ministry, both past and present.'
+url: /philosophy-of-ministry
+guid: https://joshuapsteele.com/?page_id=42536
 aliases:
 - /portfolio/philosophy-of-ministry
-url: /philosophy-of-ministry
 showtoc: false
 ---
 {{< callout "note" >}}

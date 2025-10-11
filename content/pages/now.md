@@ -1,8 +1,9 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=41441
 title: Now
+author: joshuapsteele
+description: 'What I am doing these days.'
 url: /now/
+guid: https://joshuapsteele.com/?page_id=41441
 showtoc: false
 ---
 {{< callout "note" >}}

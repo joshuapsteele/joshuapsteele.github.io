@@ -1,8 +1,9 @@
 ---
+title: Follow
+description: 'Here are all the ways you can follow my work and receive updates.'
+url: /follow
 draft: false
 showtoc: false
-title: 'Follow'
-url: /follow
 ---
 {{< callout "note" >}}
 This `/follow` page is just one of [my many "slash pages."](/slashes)

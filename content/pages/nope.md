@@ -1,8 +1,9 @@
 ---
 title: Nope
+description: 'Things I do not like or do not want to do.'
+url: /nope
 draft: false
 showtoc: false
-url: /nope
 ---
 {{< callout "note" >}}
 This `/nope` page is just one of [my many "slash pages."](/slashes)

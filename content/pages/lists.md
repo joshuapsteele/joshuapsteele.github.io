@@ -1,6 +1,7 @@
 ---
-author: joshuapsteele
 title: Lists
+author: joshuapsteele
+description: 'This is a page, where I keep track of the lists I am working on.'
 url: /lists/
 showtoc: true
 TocOpen: true

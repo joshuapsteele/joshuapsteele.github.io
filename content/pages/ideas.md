@@ -1,8 +1,9 @@
 ---
 title: Ideas
+description: 'Some ideas I have for future projects and writings.'
+url: /ideas
 draft: false
 showtoc: false
-url: /ideas
 ---
 {{< callout "note" >}}
 This `/ideas` page is just one of [my many "slash pages."](/slashes)

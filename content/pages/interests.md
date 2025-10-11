@@ -1,8 +1,9 @@
 ---
 title: Interests
+description: 'Here are some of my interests, hobbies, and things I like to do in my free time.'
+url: /interests
 draft: false
 showtoc: false
-url: /interests
 ---
 {{< callout "note" >}}
 This `/interests` page is just one of [my many "slash pages."](/slashes)
