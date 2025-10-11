@@ -1,6 +1,7 @@
 ---
-author: joshuapsteele
 title: Subscriptions
+author: joshuapsteele
+description: 'A list of my current subscriptions.'
 url: /subscriptions
 draft: true
 showtoc: false

@@ -1,7 +1,8 @@
 ---
 title: POSSE
-draft: false
+description: 'Here is my current personal tech stack.'
 url: /posse
+draft: false
 showtoc: false
 aliases:
 - /tech-stack

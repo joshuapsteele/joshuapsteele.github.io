@@ -1,7 +1,8 @@
 ---
 title: Someday
-draft: false
+description: 'Here are some things I want to do someday.'
 url: /someday
+draft: false
 showtoc: false
 ---
 {{< callout "note" >}}

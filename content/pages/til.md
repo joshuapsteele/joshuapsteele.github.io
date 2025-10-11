@@ -1,7 +1,8 @@
 ---
-draft: false
-title: 'Today I Learned (TIL)'
+title: Today I Learned (TIL)
+description: 'A collection of things I have learned recently.'
 url: /til
+draft: false
 showtoc: false
 ---
 {{< callout "note" >}}

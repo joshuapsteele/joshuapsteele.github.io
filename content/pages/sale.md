@@ -1,7 +1,8 @@
 ---
 title: Sale
-draft: false
+description: 'Nothing for sale here yet. Check back later!'
 url: /sale
+draft: false
 showtoc: false
 ---
 {{< callout "note" >}}

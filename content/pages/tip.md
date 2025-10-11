@@ -1,7 +1,8 @@
 ---
 title: Tip
-draft: false
+description: 'Nothing here yet. Check back later!'
 url: /tip
+draft: false
 showtoc: false
 ---
 {{< callout "note" >}}

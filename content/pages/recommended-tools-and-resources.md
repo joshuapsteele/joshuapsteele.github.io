@@ -1,11 +1,12 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=40911
 title: Recommended Tools and Resources
+author: joshuapsteele
+description: 'Tools and resources I recommend.'
 url: /resources/
+guid: https://joshuapsteele.com/?page_id=40911
 aliases:
-  - /tools
-  - /uses
+- /tools
+- /uses
 ---
 A "tool" is "anything that can make your life better." I love tools, whether physical or digital. And I love books, because they're some of the best tools out there!
 

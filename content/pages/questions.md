@@ -1,6 +1,7 @@
 ---
-author: joshuapsteele
 title: Questions
+author: joshuapsteele
+description: 'This is a page, where I keep track of the questions I am asking.'
 url: /questions/
 showtoc: true
 ---
