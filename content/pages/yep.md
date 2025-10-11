@@ -1,10 +1,10 @@
 ---
 title: Yep
-draft: false
+description: A list of things I agree with or will do.
 url: /yep
+draft: false
 showtoc: false
 ---
-
 A list of things I agree with or will do.
 
 - Try new recipes

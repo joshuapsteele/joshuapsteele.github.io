@@ -1,8 +1,9 @@
 ---
-author: joshuapsteele
-guid: https://joshuapsteele.com/?page_id=41418
 title: Wish List
+author: joshuapsteele
+description: Here's a wish list I regularly update. I also keep my Amazon wish list updated here.
 url: /wishlist/
+guid: https://joshuapsteele.com/?page_id=41418
 aliases:
 - /wish/
 - /wish-list/
