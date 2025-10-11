@@ -1,0 +1,2038 @@
+{
+  "total_files": 348,
+  "total_links": 2387,
+  "internal_links": 452,
+  "broken_links": {
+    "blog/two-more-pieces-about-jordan-peterson.md": [
+      {
+        "type": "markdown",
+        "text": "I catalogued a bunch of different takes on Jordan Peterson, before giving my own take",
+        "url": "https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/",
+        "normalized": "https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own"
+      }
+    ],
+    "blog/my-favorite-podcasts.md": [
+      {
+        "type": "markdown",
+        "text": "my list of favorite tools and apps",
+        "url": "https://joshuapsteele.com/tools",
+        "normalized": "https://joshuapsteele.com/tools"
+      },
+      {
+        "type": "markdown",
+        "text": "kettlebells",
+        "url": "https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/",
+        "normalized": "https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian"
+      },
+      {
+        "type": "markdown",
+        "text": "favorite tools",
+        "url": "https://joshuapsteele.com/tools",
+        "normalized": "https://joshuapsteele.com/tools"
+      }
+    ],
+    "blog/getting-ahead-in-gods-upside-down-kingdom.md": [
+      {
+        "type": "markdown",
+        "text": "[MP3: Getting Ahead in God\u2019s Upside-Down Kingdom",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3"
+      },
+      {
+        "type": "markdown",
+        "text": "[PDF Sermon Manuscript: Getting Ahead in God\u2019s Upside-Down Kingdom",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf"
+      }
+    ],
+    "blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md": [
+      {
+        "type": "markdown",
+        "text": "Saint James the Greater *oil on canvas *92.1 x 74.9 cm *signed b.r.: Rembrandt f. 1661",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg"
+      }
+    ],
+    "blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md": [
+      {
+        "type": "markdown",
+        "text": "Get Your Act Together (Productivity and Time Management)",
+        "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
+        "normalized": "https://joshuapsteele.com/category/productivity-and-time-management"
+      },
+      {
+        "type": "markdown",
+        "text": "Steps to Find Purpose and Meaning in Life",
+        "url": "https://joshuapsteele.com/start-here/",
+        "normalized": "https://joshuapsteele.com/start-here"
+      }
+    ],
+    "blog/romans-distilled-paraphrased.md": [
+      {
+        "type": "markdown",
+        "text": "this piece.",
+        "url": "https://joshuapsteele.com/on-scripture/",
+        "normalized": "https://joshuapsteele.com/on-scripture"
+      }
+    ],
+    "blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md": [
+      {
+        "type": "markdown",
+        "text": "my doctoral dissertation",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      }
+    ],
+    "blog/no-one-knows-what-positivism-of-revelation-means.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cTo Be or Not To Be Religious: A Clarification of Karl Barth\u2019s and Dietrich Bonhoeffer\u2019s Divergence and Convergence Regarding Religion.\u201d",
+        "url": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/",
+        "normalized": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion"
+      }
+    ],
+    "blog/vintage-craftsman-table-saw.md": [
+      {
+        "type": "markdown",
+        "text": "Craftsman 113.1011 and 113.22400 Table Saw Manual",
+        "url": "/files/craftsman_table_saw_manual.pdf",
+        "normalized": "/files/craftsman_table_saw_manual.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Craftsman 115.6962 Motor Manual",
+        "url": "/files/craftsman_table_saw_motor_manual.pdf",
+        "normalized": "/files/craftsman_table_saw_motor_manual.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Craftsman Table Saw Diagram, pt. 1",
+        "url": "/craftsman_table_saw_manual_1.jpg",
+        "normalized": "/craftsman_table_saw_manual_1.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Craftsman Table Saw Diagram, pt. 2",
+        "url": "/craftsman_table_saw_manual_2.jpg",
+        "normalized": "/craftsman_table_saw_manual_2.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Craftsman Table Saw Motor Diagram",
+        "url": "/craftsman_table_saw_motor_manual.jpg",
+        "normalized": "/craftsman_table_saw_motor_manual.jpg"
+      }
+    ],
+    "blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md": [
+      {
+        "type": "markdown",
+        "text": "Son of Man, Can Your Bones Live?",
+        "url": "https://joshuapsteele.com/son-of-man-can-your-bones-live/",
+        "normalized": "https://joshuapsteele.com/son-of-man-can-your-bones-live"
+      },
+      {
+        "type": "markdown",
+        "text": "My Uncle, Timothy Steele",
+        "url": "https://joshuapsteele.com/20150424my-uncle-timothy-steele/",
+        "normalized": "https://joshuapsteele.com/20150424my-uncle-timothy-steele"
+      }
+    ],
+    "blog/honors-grace-and-generosity.md": [
+      {
+        "type": "markdown",
+        "text": "DSCN0867",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0867.jpg?w=300",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0867.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Image",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0863.jpg?w=650",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0863.jpg"
+      }
+    ],
+    "blog/5-books-every-christian-read.md": [
+      {
+        "type": "markdown",
+        "text": "read and understand",
+        "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
+        "normalized": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book"
+      }
+    ],
+    "blog/are-the-beatitudes-good-works-matt-51316.md": [
+      {
+        "type": "markdown",
+        "text": "interpretive approaches to the Beatitudes in Matthew 5",
+        "url": "https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes/",
+        "normalized": "https://joshuapsteele.com/interpretive-approaches-to-the-beatitudes"
+      },
+      {
+        "type": "markdown",
+        "text": "the complex interplay between the \u201calready\u201d and the \u201cnot yet\u201d when it comes to the Lord\u2019s Prayer",
+        "url": "https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/",
+        "normalized": "https://joshuapsteele.com/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer"
+      }
+    ],
+    "blog/alan-jacobss-the-thinking-persons-checklist.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cHelp me come up with \u2018rules for conversation\u2019!\u201d",
+        "url": "https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/",
+        "normalized": "https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation"
+      }
+    ],
+    "blog/mentor-me.md": [
+      {
+        "type": "markdown",
+        "text": "use my contact form here",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/what-to-make-of-jordan-peterson-some-takes-then-my-own.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cTwo More Pieces about Jordan Peterson.\u201d",
+        "url": "https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/",
+        "normalized": "https://joshuapsteele.com/two-more-pieces-about-jordan-peterson"
+      }
+    ],
+    "blog/you-cant-follow-jesus-and-hate-immigrants.md": [
+      {
+        "type": "markdown",
+        "text": "a helpful article on \u201cAliens, Immigration, and Refugees\u201d",
+        "url": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
+        "normalized": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "the PDF is here",
+        "url": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
+        "normalized": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
+      }
+    ],
+    "blog/interpretive-approaches-to-the-beatitudes.md": [
+      {
+        "type": "markdown",
+        "text": "Interpretive Approaches to the Sermon on the Mount",
+        "url": "https://joshuapsteele.com/interpretive-approaches-to-the-sermon-on-the-mount/",
+        "normalized": "https://joshuapsteele.com/interpretive-approaches-to-the-sermon-on-the-mount"
+      }
+    ],
+    "blog/barth-bonhoeffer-and-the-bible.md": [
+      {
+        "type": "markdown",
+        "text": "the apparent differences in their theological critiques of religion",
+        "url": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/",
+        "normalized": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion"
+      },
+      {
+        "type": "markdown",
+        "text": "I\u2019ve explored the connections between (1) their interpretations of the tree of the knowledge of good and evil and (2) their similarities and differences when it comes to religion",
+        "url": "https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/",
+        "normalized": "https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324"
+      }
+    ],
+    "blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md": [
+      {
+        "type": "markdown",
+        "text": "the Ph.D.",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      },
+      {
+        "type": "markdown",
+        "text": "just look at my C.V.",
+        "url": "https://joshuapsteele.com/portfolio/cv/",
+        "normalized": "https://joshuapsteele.com/portfolio/cv"
+      },
+      {
+        "type": "markdown",
+        "text": "the contact form",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/cedarville-2.md": [
+      {
+        "type": "markdown",
+        "text": "previous thoughts",
+        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+        "normalized": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees"
+      },
+      {
+        "type": "markdown",
+        "text": " these matters",
+        "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/",
+        "normalized": "https://joshuapsteele.com/2013/02/19/oh-cedarville"
+      }
+    ],
+    "blog/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better.md": [
+      {
+        "type": "markdown",
+        "text": "my dissertation",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      }
+    ],
+    "blog/anti-racism-letter-to-fellow-acna-clergy.md": [
+      {
+        "type": "markdown",
+        "text": "ACNA-Clergy-Sign-the-Anti-Racism-Letter\\_2022-08-15",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv"
+      },
+      {
+        "type": "markdown",
+        "text": "Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here\\_2022-08-15",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv"
+      }
+    ],
+    "blog/deuteronomy-61-15-1.md": [
+      {
+        "type": "markdown",
+        "text": "my essay on Philemon",
+        "url": "https://joshuapsteele.com/2013/12/13/the-epistle-to-philemon/",
+        "normalized": "https://joshuapsteele.com/2013/12/13/the-epistle-to-philemon"
+      },
+      {
+        "type": "markdown",
+        "text": "Amy Chase Ashley\u2019s Scripture: Handle With Care",
+        "url": "https://joshuapsteele.com/2013/06/17/amy-chase-scripture-handle-with-care/",
+        "normalized": "https://joshuapsteele.com/2013/06/17/amy-chase-scripture-handle-with-care"
+      }
+    ],
+    "blog/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks.md": [
+      {
+        "type": "markdown",
+        "text": "Witt\\_Womens-Ordination-Essays",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf"
+      }
+    ],
+    "blog/proverbs-topical-study-poverty.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cChristians and Wealth.\u201d",
+        "url": "https://joshuapsteele.com/christians-and-wealth/",
+        "normalized": "https://joshuapsteele.com/christians-and-wealth"
+      }
+    ],
+    "blog/thank-god-i-went-to-cedarville.md": [
+      {
+        "type": "markdown",
+        "text": "pablo (10)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png"
+      },
+      {
+        "type": "markdown",
+        "text": "on",
+        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
+        "normalized": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1"
+      },
+      {
+        "type": "markdown",
+        "text": "my",
+        "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/",
+        "normalized": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2"
+      },
+      {
+        "type": "markdown",
+        "text": "blog",
+        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/",
+        "normalized": "https://joshuapsteele.com/2012/09/22/an-explanation"
+      },
+      {
+        "type": "markdown",
+        "text": "original blogpost",
+        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
+        "normalized": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1"
+      },
+      {
+        "type": "markdown",
+        "text": "final farewell,",
+        "url": "https://joshuapsteele.com/2013/04/24/a-farewell-to-cedarville/",
+        "normalized": "https://joshuapsteele.com/2013/04/24/a-farewell-to-cedarville"
+      }
+    ],
+    "blog/10-things-i-love-about-my-kids.md": [
+      {
+        "type": "markdown",
+        "text": "my previous parenting post",
+        "url": "https://joshuapsteele.com/i-love-my-kids-but-i-sometimes-regret-having-them/",
+        "normalized": "https://joshuapsteele.com/i-love-my-kids-but-i-sometimes-regret-having-them"
+      }
+    ],
+    "blog/a-crucicentric-credo.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cThe Holy Trinity: What Is It? (Why) Is It Important?\u201d",
+        "url": "https://joshuapsteele.com/holy-trinity/",
+        "normalized": "https://joshuapsteele.com/holy-trinity"
+      },
+      {
+        "type": "markdown",
+        "text": "\u201cSon Of Man, Can Your Bones Live?\u201d",
+        "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
+        "normalized": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live"
+      }
+    ],
+    "blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md": [
+      {
+        "type": "markdown",
+        "text": "STEELE\\_When Will Thy Kingdom Come",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf"
+      }
+    ],
+    "blog/barth-on-the-wilderness-temptations-3-the-leap-of-false-faith.md": [
+      {
+        "type": "markdown",
+        "text": "first temptation, to turn stones into bread",
+        "url": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread",
+        "normalized": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread"
+      },
+      {
+        "type": "markdown",
+        "text": "second temptation, to worship Satan in exchange for authority and power",
+        "url": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan",
+        "normalized": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan"
+      }
+    ],
+    "blog/heres-what-im-committing-myself-to-as-a-priest.md": [
+      {
+        "type": "markdown",
+        "text": "*this Saturday, November 02*",
+        "url": "https://joshuapsteele.com/ordination/",
+        "normalized": "https://joshuapsteele.com/ordination"
+      }
+    ],
+    "blog/holy-trinity.md": [
+      {
+        "type": "markdown",
+        "text": "Theology in Outline: What do I Believe?",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      }
+    ],
+    "blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md": [
+      {
+        "type": "markdown",
+        "text": "view/share my CV here",
+        "url": "https://joshuapsteele.com/portfolio/cv/",
+        "normalized": "https://joshuapsteele.com/portfolio/cv"
+      }
+    ],
+    "blog/a-valediction.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cFrom a Grateful Son,\u201d",
+        "url": "https://joshuapsteele.com/mothers-day-poem/",
+        "normalized": "https://joshuapsteele.com/mothers-day-poem"
+      }
+    ],
+    "blog/my-unforgettable-cedarville-experience-pt-2-2.md": [
+      {
+        "type": "markdown",
+        "text": "previous post",
+        "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\"",
+        "normalized": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\""
+      }
+    ],
+    "blog/romans-13.md": [
+      {
+        "type": "markdown",
+        "text": "a PDF of Doug Moo's 2018 exegesis of the text",
+        "url": "/files/Moo_2018_Romans_13.1-14.pdf",
+        "normalized": "/files/Moo_2018_Romans_13.1-14.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "my sermon on Romans 1:1-17",
+        "url": "https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/",
+        "normalized": "https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17"
+      },
+      {
+        "type": "markdown",
+        "text": "my summary of the book\u2019s argument/story",
+        "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
+        "normalized": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans"
+      },
+      {
+        "type": "markdown",
+        "text": "this piece.",
+        "url": "https://joshuapsteele.com/on-scripture/",
+        "normalized": "https://joshuapsteele.com/on-scripture"
+      },
+      {
+        "type": "markdown",
+        "text": "a PDF of Doug Moo's 2018 handling of Romans 13",
+        "url": "/files/Moo_2018_Romans_13.1-14.pdf",
+        "normalized": "/files/Moo_2018_Romans_13.1-14.pdf"
+      }
+    ],
+    "blog/concerning-romans.md": [
+      {
+        "type": "markdown",
+        "text": "concerned the chaos at Cedarville University",
+        "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
+        "normalized": "https://joshuapsteele.com/2014/03/18/cedarville-2"
+      },
+      {
+        "type": "markdown",
+        "text": " my previous post",
+        "url": "https://joshuapsteele.com/2014/03/07/my-regional-ets-presentation-reconciliation-and-the-lack-thereof/",
+        "normalized": "https://joshuapsteele.com/2014/03/07/my-regional-ets-presentation-reconciliation-and-the-lack-thereof"
+      },
+      {
+        "type": "markdown",
+        "text": "Romans. Revisited.",
+        "url": "https://joshuapsteele.com/2012/06/28/romans-revisited-pt-1/",
+        "normalized": "https://joshuapsteele.com/2012/06/28/romans-revisited-pt-1"
+      },
+      {
+        "type": "markdown",
+        "text": "\u201cThe Argument-Story of Romans\u201d",
+        "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
+        "normalized": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans"
+      },
+      {
+        "type": "markdown",
+        "text": "Romans 13:1-7 \u2014 A Contextually-Appropriate Reading",
+        "url": "https://joshuapsteele.com/romans-13/",
+        "normalized": "https://joshuapsteele.com/romans-13"
+      }
+    ],
+    "blog/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america.md": [
+      {
+        "type": "markdown",
+        "text": "ACNA Resignation Letter",
+        "url": "/Joshua_Steele_ACNA_Resignation_2023-11-07.jpg",
+        "normalized": "/Joshua_Steele_ACNA_Resignation_2023-11-07.jpg"
+      }
+    ],
+    "blog/creation-and-doxology-pt-3.md": [
+      {
+        "type": "markdown",
+        "text": "Pt. 1",
+        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
+        "normalized": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
+      },
+      {
+        "type": "markdown",
+        "text": "Pt. 2 ",
+        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
+        "normalized": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
+      }
+    ],
+    "blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md": [
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide2-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide2-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide11-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide11-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide10-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide10-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide9-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide9-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide8-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide8-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide7-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide7-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide6-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide6-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide5-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide5-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide4-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide4-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide3-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide3-150x150.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide12-150x150.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide12-150x150.jpg"
+      }
+    ],
+    "blog/what-color-is-my-parachute-the-flower-petal-exercise.md": [
+      {
+        "type": "markdown",
+        "text": "read my story",
+        "url": "https://joshuapsteele.com/portfolio/my-story/",
+        "normalized": "https://joshuapsteele.com/portfolio/my-story"
+      },
+      {
+        "type": "markdown",
+        "text": "take a look at my C.V.",
+        "url": "https://joshuapsteele.com/portfolio/cv/",
+        "normalized": "https://joshuapsteele.com/portfolio/cv"
+      }
+    ],
+    "blog/saw-updates.md": [
+      {
+        "type": "markdown",
+        "text": "Refurbished Craftsman Table Saw",
+        "url": "/refurbished-table-saw.jpeg",
+        "normalized": "/refurbished-table-saw.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "Attempted cam handle repair",
+        "url": "/rip-fence-handle-epoxy.jpeg",
+        "normalized": "/rip-fence-handle-epoxy.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "New rip fence handle",
+        "url": "/new-rip-fence-handle.jpeg",
+        "normalized": "/new-rip-fence-handle.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "New rip fence handle",
+        "url": "/new-rip-fence-handle-2.jpeg",
+        "normalized": "/new-rip-fence-handle-2.jpeg"
+      }
+    ],
+    "blog/back-in-the-saddle.md": [
+      {
+        "type": "markdown",
+        "text": "long-term depression and anxiety",
+        "url": "https://joshuapsteele.com/its-time-to-get-some-help/",
+        "normalized": "https://joshuapsteele.com/its-time-to-get-some-help"
+      },
+      {
+        "type": "markdown",
+        "text": "hit pause",
+        "url": "https://joshuapsteele.com/its-official-im-hitting-pause-on-my-ph-d-for-a-year/",
+        "normalized": "https://joshuapsteele.com/its-official-im-hitting-pause-on-my-ph-d-for-a-year"
+      },
+      {
+        "type": "markdown",
+        "text": "resigned from ordained ministry in the ACNA",
+        "url": "https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/",
+        "normalized": "https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america"
+      }
+    ],
+    "blog/finding-a-hat-for-my-big-bald-head.md": [
+      {
+        "type": "markdown",
+        "text": "Me and my big head",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat\u00a0(Charcoal Gray, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat\u00a0(Charcoal Gray, One Size)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg"
+      }
+    ],
+    "blog/creation-and-doxology-pt-2.md": [
+      {
+        "type": "markdown",
+        "text": "(Read Pt. 1 First!)",
+        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
+        "normalized": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
+      },
+      {
+        "type": "markdown",
+        "text": "CONTINUE TO PART 3 \u2013&gt;",
+        "url": "https://joshuapsteele.com/2012/09/18/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03",
+        "normalized": "https://joshuapsteele.com/2012/09/18/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03"
+      }
+    ],
+    "blog/dissertation-dispatch-2019-11-11.md": [
+      {
+        "type": "markdown",
+        "text": "my \u201celevator pitch\u201d for the dissertation",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      },
+      {
+        "type": "markdown",
+        "text": "\u201cTo Be or Not To Be Religious: A Clarification of Karl Barth\u2019s and Dietrich Bonhoeffer\u2019s Divergence and Convergence Regarding Religion.\u201d",
+        "url": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/",
+        "normalized": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion"
+      }
+    ],
+    "blog/stickking-to-the-slow-carb-diet.md": [
+      {
+        "type": "markdown",
+        "text": "putting money on the line via StickK",
+        "url": "https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/",
+        "normalized": "https://joshuapsteele.com/help-me-stickk-to-my-writing-habit"
+      },
+      {
+        "type": "markdown",
+        "text": "StickK",
+        "url": "https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/",
+        "normalized": "https://joshuapsteele.com/help-me-stickk-to-my-writing-habit"
+      }
+    ],
+    "blog/three-recent-sermons.md": [
+      {
+        "type": "markdown",
+        "text": "at the **Sermons Page** of this site",
+        "url": "https://joshuapsteele.com/sermons/",
+        "normalized": "https://joshuapsteele.com/sermons"
+      },
+      {
+        "type": "markdown",
+        "text": "**feedback** ",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/with-baby-2-on-the-way-im-looking-for-work.md": [
+      {
+        "type": "markdown",
+        "text": "take a look at my CV",
+        "url": "https://joshuapsteele.com/portfolio/cv/",
+        "normalized": "https://joshuapsteele.com/portfolio/cv"
+      },
+      {
+        "type": "markdown",
+        "text": "portfolio",
+        "url": "https://joshuapsteele.com/portfolio/",
+        "normalized": "https://joshuapsteele.com/portfolio"
+      },
+      {
+        "type": "markdown",
+        "text": "use my contact form",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/improvising-church-state.md": [
+      {
+        "type": "markdown",
+        "text": "Theology in Outline: What do I Believe?",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      }
+    ],
+    "blog/help-me-stickk-to-my-writing-habit.md": [
+      {
+        "type": "markdown",
+        "text": "this dissertation",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      }
+    ],
+    "blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md": [
+      {
+        "type": "markdown",
+        "text": "Barth, Bonhoeffer, and the Bible here",
+        "url": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/",
+        "normalized": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible"
+      }
+    ],
+    "blog/presenting-on-barth-at-2015-southeastern-ets.md": [
+      {
+        "type": "markdown",
+        "text": "Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf"
+      }
+    ],
+    "blog/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion.md": [
+      {
+        "type": "markdown",
+        "text": "Barth, Bonhoeffer, and the Bible here",
+        "url": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/",
+        "normalized": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible"
+      },
+      {
+        "type": "markdown",
+        "text": "Theology in Outline: What do I Believe?",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      },
+      {
+        "type": "markdown",
+        "text": "\\[To continue reading, download the PDF: [To Be or Not To Be Religious",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
+      }
+    ],
+    "blog/creation-and-doxology-pt-1.md": [
+      {
+        "type": "markdown",
+        "text": "CONTINUE TO PART 2 \u2013&gt;",
+        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
+        "normalized": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
+      }
+    ],
+    "blog/hate-running-try-rucking-instead.md": [
+      {
+        "type": "markdown",
+        "text": "doing kettlebell swings",
+        "url": "https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian/",
+        "normalized": "https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian"
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4031",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4031.jpg \"IMG_4031.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4031.jpg \"IMG_4031.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4032",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4032.jpg \"IMG_4032.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4032.jpg \"IMG_4032.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "took it with me out to the Grand Canyon, where it performed admirably",
+        "url": "https://joshuapsteele.com/dangerous-beauty-phoenix-grand-canyon-trip-2018/",
+        "normalized": "https://joshuapsteele.com/dangerous-beauty-phoenix-grand-canyon-trip-2018"
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4036",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4036.jpg \"IMG_4036.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4036.jpg \"IMG_4036.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4037",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4037.jpg \"IMG_4037.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4037.jpg \"IMG_4037.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4033",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4033.jpg \"IMG_4033.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4033.jpg \"IMG_4033.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4034",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4034.jpg \"IMG_4034.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4034.jpg \"IMG_4034.JPG\""
+      },
+      {
+        "type": "markdown",
+        "text": "IMG 4035",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4035.jpg \"IMG_4035.JPG\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4035.jpg \"IMG_4035.JPG\""
+      }
+    ],
+    "blog/wedding-vows.md": [
+      {
+        "type": "markdown",
+        "text": "here",
+        "url": "https://joshuapsteele.com/category/personal/",
+        "normalized": "https://joshuapsteele.com/category/personal"
+      }
+    ],
+    "blog/disunity-in-the-church-absurd.md": [
+      {
+        "type": "markdown",
+        "text": "Theology in Outline: What do I Believe?",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      }
+    ],
+    "blog/8-questions-to-ask-while-reading-theology.md": [
+      {
+        "type": "markdown",
+        "text": "1 simple trick to read faster",
+        "url": "https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/",
+        "normalized": "https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student"
+      },
+      {
+        "type": "markdown",
+        "text": "4 questions to ask while reading a book",
+        "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
+        "normalized": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book"
+      },
+      {
+        "type": "markdown",
+        "text": "3 questions to ask while reading the Bible",
+        "url": "https://joshuapsteele.com/questions-to-ask-when-you-study-bible/",
+        "normalized": "https://joshuapsteele.com/questions-to-ask-when-you-study-bible"
+      }
+    ],
+    "blog/christians-and-wealth.md": [
+      {
+        "type": "markdown",
+        "text": "my topical study on what the book of Proverbs has to teach us about poverty",
+        "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
+        "normalized": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty"
+      },
+      {
+        "type": "markdown",
+        "text": "Theology in Outline: What do I believe?",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      },
+      {
+        "type": "markdown",
+        "text": "a separate paper",
+        "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
+        "normalized": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty"
+      }
+    ],
+    "blog/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan.md": [
+      {
+        "type": "markdown",
+        "text": "Yesterday I posted the beginning of Karl Barth's exegesis of Christ's wilderness temptations",
+        "url": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread",
+        "normalized": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread"
+      },
+      {
+        "type": "markdown",
+        "text": "first temptation was to turn stones into bread",
+        "url": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread",
+        "normalized": "https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread"
+      }
+    ],
+    "blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md": [
+      {
+        "type": "markdown",
+        "text": "my previous series of posts ",
+        "url": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof/",
+        "normalized": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof"
+      },
+      {
+        "type": "markdown",
+        "text": "undergraduate thesis paper",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf"
+      }
+    ],
+    "blog/whats-gone-wrong-with-the-digital-karl-barth-library.md": [
+      {
+        "type": "markdown",
+        "text": "my dissertation (\u201cScriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion\u201d)",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      }
+    ],
+    "blog/its-time-for-another-social-media-fast.md": [
+      {
+        "type": "markdown",
+        "text": "sprinting for some last-ditch clarity on my increasingly frustrating dissertation",
+        "url": "https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof/",
+        "normalized": "https://joshuapsteele.com/the-phd-plan-or-the-lack-thereof"
+      },
+      {
+        "type": "markdown",
+        "text": "use the contact form on my website",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/my-uncle-timothy-steele.md": [
+      {
+        "type": "markdown",
+        "text": "![Image",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2015/10/image.png",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2015/10/image.png"
+      },
+      {
+        "type": "markdown",
+        "text": "my sermon: \u201cSon of Man, Can Your Bones Live?\u201d",
+        "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
+        "normalized": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live"
+      }
+    ],
+    "blog/on-scripture.md": [
+      {
+        "type": "markdown",
+        "text": "Trinity: What is it? (Why) Is it important?",
+        "url": "https://joshuapsteele.com/holy-trinity/",
+        "normalized": "https://joshuapsteele.com/holy-trinity"
+      }
+    ],
+    "blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md": [
+      {
+        "type": "markdown",
+        "text": "STEELE\\_The Tree of Religion Barth and Bonhoeffer on the Tree of Knowledge",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf"
+      }
+    ],
+    "blog/testimony-brief.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cWhat Do I Believe? A Cross-Centered Credo.\u201d",
+        "url": "https://joshuapsteele.com/2015/12/08/a-crucicentric-credo/",
+        "normalized": "https://joshuapsteele.com/2015/12/08/a-crucicentric-credo"
+      },
+      {
+        "type": "markdown",
+        "text": "college",
+        "url": "https://joshuapsteele.com/tag/cedarville/",
+        "normalized": "https://joshuapsteele.com/tag/cedarville"
+      },
+      {
+        "type": "markdown",
+        "text": "here",
+        "url": "https://joshuapsteele.com/2012/08/14/wedding-vows/",
+        "normalized": "https://joshuapsteele.com/2012/08/14/wedding-vows"
+      },
+      {
+        "type": "markdown",
+        "text": "here",
+        "url": "https://joshuapsteele.com/category/personal/",
+        "normalized": "https://joshuapsteele.com/category/personal"
+      }
+    ],
+    "blog/one-simple-trick-helps-read-faster-ph-d-student.md": [
+      {
+        "type": "markdown",
+        "text": "my posts about productivity and time management",
+        "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
+        "normalized": "https://joshuapsteele.com/category/productivity-and-time-management"
+      }
+    ],
+    "blog/black-friday-book-recommendation-the-economy-of-desire.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cReconciliation and the Lack Thereof\u201d:",
+        "url": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof/",
+        "normalized": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof"
+      }
+    ],
+    "blog/church_and_state.md": [
+      {
+        "type": "markdown",
+        "text": "Improvising Church and State",
+        "url": "https://joshuapsteele.com/2015/12/08/improvising-church-state/",
+        "normalized": "https://joshuapsteele.com/2015/12/08/improvising-church-state"
+      }
+    ],
+    "blog/mental-models-helpful-model-theology.md": [
+      {
+        "type": "markdown",
+        "text": "the 80/20 Principle",
+        "url": "https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/",
+        "normalized": "https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle"
+      },
+      {
+        "type": "markdown",
+        "text": "Eisenhower Decision Matrix",
+        "url": "https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix/",
+        "normalized": "https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix"
+      }
+    ],
+    "blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md": [
+      {
+        "type": "markdown",
+        "text": "Barth, Bonhoeffer, and the Bible here",
+        "url": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/",
+        "normalized": "https://joshuapsteele.com/barth-bonhoeffer-and-the-bible"
+      }
+    ],
+    "blog/lets-take-seth-godin-to-church.md": [
+      {
+        "type": "markdown",
+        "text": "![",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg"
+      }
+    ],
+    "blog/psalm-2-quare-fremuerunt-gentes.md": [
+      {
+        "type": "markdown",
+        "text": "<span style=\"color:#000000;\">the .pdf version</span>",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "<span style=\"color:#000000;\"><u>**Psalm 2 \u2013 Quare Fremuerunt Gentes?**</u></span>",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf"
+      }
+    ],
+    "blog/mothers-day-poem-2.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cA Valediction.\u201d",
+        "url": "https://joshuapsteele.com/2009/06/06/a-valediction/",
+        "normalized": "https://joshuapsteele.com/2009/06/06/a-valediction"
+      }
+    ],
+    "blog/let-there-be-light-my-resignation.md": [
+      {
+        "type": "markdown",
+        "text": "Open Apology",
+        "url": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\"",
+        "normalized": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\""
+      },
+      {
+        "type": "markdown",
+        "text": "<span style=\"line-height:14px;\">Cedarville, Let there be Light (pt 1)</span>",
+        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01",
+        "normalized": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01"
+      },
+      {
+        "type": "markdown",
+        "text": "Cedarville, Let there be Light (pt 2)",
+        "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02",
+        "normalized": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02"
+      },
+      {
+        "type": "markdown",
+        "text": "An Explanation",
+        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\"",
+        "normalized": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\""
+      },
+      {
+        "type": "markdown",
+        "text": "Open Letter to CU Trustees and Admins",
+        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
+        "normalized": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
+      },
+      {
+        "type": "markdown",
+        "text": "Oh Cedarville\u2026",
+        "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\"",
+        "normalized": "https://joshuapsteele.com/2013/02/19/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\""
+      },
+      {
+        "type": "markdown",
+        "text": "Open Apology",
+        "url": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\"",
+        "normalized": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\""
+      }
+    ],
+    "blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md": [
+      {
+        "type": "markdown",
+        "text": "my coding bootcamp journey",
+        "url": "https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/",
+        "normalized": "https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer"
+      },
+      {
+        "type": "markdown",
+        "text": "contact form on my website",
+        "url": "https://joshuapsteele.com/contact/",
+        "normalized": "https://joshuapsteele.com/contact"
+      }
+    ],
+    "blog/inductive-bible-study-7-steps-amy-chase-ashley.md": [
+      {
+        "type": "markdown",
+        "text": "- this is not a bag of trail mix you cant just pick out the p",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png"
+      },
+      {
+        "type": "markdown",
+        "text": "Scripture: What The Bible Is and Why It Matters",
+        "url": "https://joshuapsteele.com/on-scripture/",
+        "normalized": "https://joshuapsteele.com/on-scripture"
+      }
+    ],
+    "blog/my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof.md": [
+      {
+        "type": "markdown",
+        "text": "the latest version of the Regional ETS paper",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "my paper",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf"
+      }
+    ],
+    "blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md": [
+      {
+        "type": "markdown",
+        "text": "Our small kettlebell family",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg"
+      }
+    ],
+    "blog/ok-maybe-a-bit-more-on-cedarville.md": [
+      {
+        "type": "markdown",
+        "text": "the previous post on Cedarville",
+        "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
+        "normalized": "https://joshuapsteele.com/2014/03/18/cedarville-2"
+      },
+      {
+        "type": "markdown",
+        "text": "![Image",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png"
+      },
+      {
+        "type": "markdown",
+        "text": "Miroslav Volf",
+        "url": "https://joshuapsteele.com/2013/11/10/volf-on-gender/",
+        "normalized": "https://joshuapsteele.com/2013/11/10/volf-on-gender"
+      }
+    ],
+    "blog/14-characteristics-of-fascism.md": [
+      {
+        "type": "markdown",
+        "text": "Umberto Eco nevertheless highlighted 14 aspects of what he called \"Ur-Fascism\" (PDF)",
+        "url": "/files/Eco_1995_Ur-Fascism.pdf",
+        "normalized": "/files/Eco_1995_Ur-Fascism.pdf"
+      }
+    ],
+    "blog/sermon-the-challenge-of-christmas-light.md": [
+      {
+        "type": "markdown",
+        "text": "The Challenge of Christmas Light Sermon Manuscript",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf \"The Challenge of Christmas Light Sermon Manuscript\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf \"The Challenge of Christmas Light Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "you can read/listen to my other sermons here",
+        "url": "https://joshuapsteele.com/sermons/",
+        "normalized": "https://joshuapsteele.com/sermons"
+      }
+    ],
+    "blog/12-prayers-for-tough-days.md": [
+      {
+        "type": "markdown",
+        "text": "download a Word document containing all of the Occasional Prayers here",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx"
+      }
+    ],
+    "blog/unrighteous-anger-yoda-jonah-nahum-and-us.md": [
+      {
+        "type": "markdown",
+        "text": "Image",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "I got angry. I spoke up",
+        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+        "normalized": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees"
+      }
+    ],
+    "blog/the-hope-of-the-holy-innocents.md": [
+      {
+        "type": "markdown",
+        "text": "The Hope of the Holy Innocents",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf"
+      }
+    ],
+    "blog/dissertation-dispatch-2019-07-05.md": [
+      {
+        "type": "markdown",
+        "text": "dissertation proposal",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      },
+      {
+        "type": "markdown",
+        "text": "Barth\u2019s and Bonhoeffer\u2019s theological critiques of religion",
+        "url": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/",
+        "normalized": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion"
+      },
+      {
+        "type": "markdown",
+        "text": "became a father",
+        "url": "https://joshuapsteele.com/eva-joy-steele-a-birth-story/",
+        "normalized": "https://joshuapsteele.com/eva-joy-steele-a-birth-story"
+      },
+      {
+        "type": "markdown",
+        "text": "interpretations of the \u201ctree of the knowledge of good and evil\u201d",
+        "url": "https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/",
+        "normalized": "https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324"
+      }
+    ],
+    "blog/barth-timeline-a-chronology-of-karl-barths-life.md": [
+      {
+        "type": "markdown",
+        "text": "timelines of Bonhoeffer\u2019s life",
+        "url": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/",
+        "normalized": "https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life"
+      }
+    ],
+    "blog/software-testing-possibilities-problems-and-principles.md": [
+      {
+        "type": "markdown",
+        "text": "Observable Behavior vs Implementation Details",
+        "url": "craftdocs://open?blockId=9811D0C8-FEBE-42CC-BA53-9A767F01549F&spaceId=032236cd-2bcc-fa12-9dfe-e5564a597e07",
+        "normalized": "craftdocs://open"
+      }
+    ],
+    "blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md": [
+      {
+        "type": "markdown",
+        "text": "my dissertation on Barth, Bonhoeffer, the Bible, and \u201creligion.\u201d",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      },
+      {
+        "type": "markdown",
+        "text": "my entire writing sample",
+        "url": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/",
+        "normalized": "https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion"
+      },
+      {
+        "type": "markdown",
+        "text": "McGrath\\_2017\\_Bonhoeffer-on-God-in-a-secular-world",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "McGrath\\_2017\\_Barth-on-Religion",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf"
+      }
+    ],
+    "blog/it-is-finished-so-get-to-work-an-ascension-sermon.md": [
+      {
+        "type": "markdown",
+        "text": "my Sermons page",
+        "url": "https://joshuapsteele.com/sermons/",
+        "normalized": "https://joshuapsteele.com/sermons"
+      }
+    ],
+    "blog/oh-cedarville.md": [
+      {
+        "type": "markdown",
+        "text": "I love this place.",
+        "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/",
+        "normalized": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience"
+      },
+      {
+        "type": "markdown",
+        "text": "I\u2019ve written about this before",
+        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
+        "normalized": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
+      }
+    ],
+    "blog/gods-economy.md": [
+      {
+        "type": "markdown",
+        "text": "what the book of Proverbs has to say about poverty and wealth",
+        "url": "https://joshuapsteele.com/bible-poverty-proverbs/",
+        "normalized": "https://joshuapsteele.com/bible-poverty-proverbs"
+      },
+      {
+        "type": "markdown",
+        "text": "how Christians should think about wealth",
+        "url": "https://joshuapsteele.com/christians-and-wealth/",
+        "normalized": "https://joshuapsteele.com/christians-and-wealth"
+      }
+    ],
+    "blog/go-sleep-kids-bible-psalm-127-says-productivity.md": [
+      {
+        "type": "markdown",
+        "text": "Poverty in the book of Proverbs",
+        "url": "https://joshuapsteele.com/20110210proverbs-topical-study-poverty/",
+        "normalized": "https://joshuapsteele.com/20110210proverbs-topical-study-poverty"
+      },
+      {
+        "type": "markdown",
+        "text": "3 Confessions of an Expectant Father",
+        "url": "https://joshuapsteele.com/3-confessions-expectant-father/",
+        "normalized": "https://joshuapsteele.com/3-confessions-expectant-father"
+      },
+      {
+        "type": "markdown",
+        "text": "as I\u2019ve said in my previous post, I\u2019m excited to be a dad",
+        "url": "https://joshuapsteele.com/3-confessions-expectant-father/",
+        "normalized": "https://joshuapsteele.com/3-confessions-expectant-father"
+      }
+    ],
+    "blog/what-im-reading.md": [
+      {
+        "type": "markdown",
+        "text": "Hoping to be able to read German with a dictionary by the end of the summer!",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Karl Barth\u2019s theological bombshell.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "I\u2019m trying the Slow-Carb Diet and kettlebell swings.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "I\u2019ve wanted to get my hands on a copy of the Homilies for some time.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "Finally getting around to reading this classic!",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "My very first Seth Godin book.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg"
+      },
+      {
+        "type": "markdown",
+        "text": "What has Barth to do with Plantinga? I\u2019m hoping Diller can tell me.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg"
+      }
+    ],
+    "blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md": [
+      {
+        "type": "markdown",
+        "text": "the Scripture search tool in the Digital Karl Barth Library was broken",
+        "url": "https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/",
+        "normalized": "https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library"
+      },
+      {
+        "type": "markdown",
+        "text": "appears to have been fixed",
+        "url": "https://joshuapsteele.com/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/",
+        "normalized": "https://joshuapsteele.com/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again"
+      }
+    ],
+    "blog/an-outline-of-karl-barths-church-dogmatics.md": [
+      {
+        "type": "markdown",
+        "text": "Barth\\_Outline of Church Dogmatics",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf"
+      }
+    ],
+    "blog/death-in-his-grave.md": [
+      {
+        "type": "markdown",
+        "text": "An icon of \"the harrowing of Hell,\" depicting Christ rescuing Adam, Eve, and others from Hell.",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg"
+      }
+    ],
+    "blog/requiem-for-a-cousin-on-his-birthday.md": [
+      {
+        "type": "markdown",
+        "text": "previously wrote a bit about after the untimely death of my Uncle Tim",
+        "url": "https://joshuapsteele.com/20150424my-uncle-timothy-steele/",
+        "normalized": "https://joshuapsteele.com/20150424my-uncle-timothy-steele"
+      }
+    ],
+    "blog/home-gym-upgrades.md": [
+      {
+        "type": "markdown",
+        "text": "Valor Fitness BD-9 Squat Stands",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "Rep Fitness PR-1100 Power Rack",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "Rep Fitness PR-1100 Power Rack",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg"
+      },
+      {
+        "type": "markdown",
+        "text": "getting back into the saddle",
+        "url": "https://joshuapsteele.com/back-in-the-saddle/",
+        "normalized": "https://joshuapsteele.com/back-in-the-saddle"
+      }
+    ],
+    "blog/help-me-come-up-with-rules-for-conversation.md": [
+      {
+        "type": "markdown",
+        "text": "posted about these rules before on my blog",
+        "url": "https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/",
+        "normalized": "https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements"
+      }
+    ],
+    "blog/i-love-my-kids-but-i-sometimes-regret-having-them.md": [
+      {
+        "type": "markdown",
+        "text": "there are moments of laughter, poignancy, joy, etc.",
+        "url": "https://joshuapsteele.com/10-things-i-love-about-my-kids/",
+        "normalized": "https://joshuapsteele.com/10-things-i-love-about-my-kids"
+      },
+      {
+        "type": "markdown",
+        "text": "10 things I love about my kids",
+        "url": "https://joshuapsteele.com/10-things-i-love-about-my-kids/",
+        "normalized": "https://joshuapsteele.com/10-things-i-love-about-my-kids"
+      }
+    ],
+    "blog/what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-2020-03-30.md": [
+      {
+        "type": "markdown",
+        "text": "the \u201celevator pitch\u201d for my dissertation proposal",
+        "url": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/",
+        "normalized": "https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious"
+      }
+    ],
+    "blog/what-does-it-mean-to-be-human.md": [
+      {
+        "type": "markdown",
+        "text": "\u201cTheology in Outline.\u201d",
+        "url": "https://joshuapsteele.com/theology-outline/",
+        "normalized": "https://joshuapsteele.com/theology-outline"
+      }
+    ],
+    "blog/justification-and-sanctification.md": [
+      {
+        "type": "markdown",
+        "text": "Justification and Sanctification Slides  ",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Justification and Sanctification Handout  ",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx"
+      },
+      {
+        "type": "markdown",
+        "text": "Download",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx"
+      }
+    ],
+    "blog/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again.md": [
+      {
+        "type": "markdown",
+        "text": "recently wrote",
+        "url": "https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/",
+        "normalized": "https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library"
+      }
+    ],
+    "blog/cedarville-let-there-be-light-pt-2.md": [
+      {
+        "type": "markdown",
+        "text": "(CONTINUED: An Explanation)",
+        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\"",
+        "normalized": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\""
+      }
+    ],
+    "blog/volf-on-divine-violence.md": [
+      {
+        "type": "markdown",
+        "text": "posts",
+        "url": "https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/",
+        "normalized": "https://joshuapsteele.com/2013/10/22/down-with-the-pacifists"
+      }
+    ],
+    "blog/into-the-far-country.md": [
+      {
+        "type": "markdown",
+        "text": "Karl Barth Quote Blue",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png \"Karl Barth Quote Blue.png\"",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png \"Karl Barth Quote Blue.png\""
+      }
+    ],
+    "blog/hermeneutical-implications-scriptures-theological-location.md": [
+      {
+        "type": "markdown",
+        "text": "STEELE Theological Hermeneutics Essay PDF",
+        "url": "https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
+        "normalized": "https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Scripture: What It Is and Why It Matters",
+        "url": "https://joshuapsteele.com/on-scripture/",
+        "normalized": "https://joshuapsteele.com/on-scripture"
+      }
+    ],
+    "blog/damers-code-of-intellectual-conduct.md": [
+      {
+        "type": "markdown",
+        "text": "Rapoport\u2019s Rules, Adler\u2019s advice",
+        "url": "https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/",
+        "normalized": "https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation"
+      },
+      {
+        "type": "markdown",
+        "text": "Alan Jacobs\u2019s \u201cThe Thinking Person\u2019s Checklist.\u201d",
+        "url": "https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/",
+        "normalized": "https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist"
+      }
+    ],
+    "pages/cv.md": [
+      {
+        "type": "markdown",
+        "text": "Disunity as Ecclesiological Impossibility: A Barthian Analogy",
+        "url": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
+        "normalized": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God",
+        "url": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf"
+      }
+    ],
+    "pages/sermons.md": [
+      {
+        "type": "markdown",
+        "text": "here",
+        "url": "/category/sermons/",
+        "normalized": "/category/sermons"
+      },
+      {
+        "type": "markdown",
+        "text": "It is Finished! So, Get to Work! Sermon Manuscript",
+        "url": "/2017/06/13/it-is-finished-so-get-to-work-an-ascension-sermon/",
+        "normalized": "/2017/06/13/it-is-finished-so-get-to-work-an-ascension-sermon"
+      },
+      {
+        "type": "markdown",
+        "text": "Investment Advice from the Dishonest Manager Manuscript",
+        "url": "/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf",
+        "normalized": "/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "The Groom's Big Day Sermon Manuscript",
+        "url": "/wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf \"The Groom's Big Day Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf \"The Groom's Big Day Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Lamenting into Worship Sermon Manuscript",
+        "url": "/wp-content/uploads/2016/03/steele-crisis-sermon-psalm-13.pdf \"Lamenting into Worship Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2016/03/steele-crisis-sermon-psalm-13.pdf \"Lamenting into Worship Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Psalm 32 Exegetical Paper",
+        "url": "/wp-content/uploads/2016/03/steele-psalm-32-exegetical-paper.pdf \"Psalm 32 Exegetical Paper\"",
+        "normalized": "/wp-content/uploads/2016/03/steele-psalm-32-exegetical-paper.pdf \"Psalm 32 Exegetical Paper\""
+      },
+      {
+        "type": "markdown",
+        "text": "The Refreshment of Forgiveness Sermon Manuscript",
+        "url": "/wp-content/uploads/2016/03/steele-lenten-sermon-psalm-32.pdf \"The Refreshment of Forgiveness Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2016/03/steele-lenten-sermon-psalm-32.pdf \"The Refreshment of Forgiveness Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "The Challenge of Christmas Light Sermon Manuscript",
+        "url": "/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf \"The Challenge of Christmas Light Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf \"The Challenge of Christmas Light Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Repetition and Redemption Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/repetition-and-redemption-hebrews-101.pdf \"Repetition and Redemption Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/repetition-and-redemption-hebrews-101.pdf \"Repetition and Redemption Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Faithful Faith in a Faithful God Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/faithful-faith-in-a-faithful-god-romans-1.pdf \"Faithful Faith in a Faithful God Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/faithful-faith-in-a-faithful-god-romans-1.pdf \"Faithful Faith in a Faithful God Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Jesus is Not Just One of Us Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/jesus-is-not-just-one-of-us-mark-61.pdf \"Jesus is Not Just One of Us Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/jesus-is-not-just-one-of-us-mark-61.pdf \"Jesus is Not Just One of Us Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Following the Cross-Shaped God Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/following-the-cross-shaped-god-philippians-21.pdf \"Following the Cross-Shaped God Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/following-the-cross-shaped-god-philippians-21.pdf \"Following the Cross-Shaped God Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "Holy Innocents Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf \"Holy Innocents Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf \"Holy Innocents Sermon Manuscript\""
+      },
+      {
+        "type": "markdown",
+        "text": "God, Our Help Sermon Manuscript",
+        "url": "/wp-content/uploads/2015/12/god-our-help1.pdf \"God, Our Help Sermon Manuscript\"",
+        "normalized": "/wp-content/uploads/2015/12/god-our-help1.pdf \"God, Our Help Sermon Manuscript\""
+      }
+    ],
+    "pages/follow.md": [
+      {
+        "type": "markdown",
+        "text": "Blog RSS Feed",
+        "url": "https://joshuapsteele.com/blog/feed.xml",
+        "normalized": "https://joshuapsteele.com/blog/feed.xml"
+      },
+      {
+        "type": "markdown",
+        "text": "Micro.Blog",
+        "url": "https://social.joshuapsteele.com/",
+        "normalized": "https://social.joshuapsteele.com"
+      }
+    ],
+    "pages/essays.md": [
+      {
+        "type": "markdown",
+        "text": "Theological Hermeneutics Essay",
+        "url": "/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
+        "normalized": "/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "To Be or Not To Be Religious: A Clarification of Karl Barth's and Dietrich Bonhoeffer's Divergence and Convergence Regarding Religion",
+        "url": "/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
+        "normalized": "/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "A Crucicentric Credo",
+        "url": "/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf",
+        "normalized": "/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "What Does It Mean To Be Human? Divided Desires? Or Divine Discourse?",
+        "url": "/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf",
+        "normalized": "/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Disunity as Ecclesiological Impossibility: A Barthian Analogy",
+        "url": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
+        "normalized": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Dogmatic Essay on Scripture",
+        "url": "/wp-content/uploads/2016/12/On_Scripture.pdf",
+        "normalized": "/wp-content/uploads/2016/12/On_Scripture.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God",
+        "url": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Creation and Doxology: A Portrait of Biblical Creation Theology",
+        "url": "/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Exposition Paper: Deuteronomy 6:1-15",
+        "url": "/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Yahweh's R\u00eeb Against Israel: Gerichtsrede and the Message of Micah",
+        "url": "/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf",
+        "normalized": "/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Exposition Paper: Micah 6:1-16",
+        "url": "/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Romans 13:1-7 - A Contextually-Appropriate Reading",
+        "url": "/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "The Argument/Story of Romans",
+        "url": "/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf",
+        "normalized": "/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf"
+      },
+      {
+        "type": "markdown",
+        "text": "Exegetical Paper: Hebrews 10:19-25",
+        "url": "/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf",
+        "normalized": "/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf"
+      }
+    ],
+    "pages/posse.md": [
+      {
+        "type": "markdown",
+        "text": "social.joshuapsteele.com",
+        "url": "https://social.joshuapsteele.com",
+        "normalized": "https://social.joshuapsteele.com"
+      }
+    ]
+  },
+  "working_links": 173,
+  "files_with_broken_links": [
+    "blog/10-things-i-love-about-my-kids.md",
+    "blog/12-prayers-for-tough-days.md",
+    "blog/14-characteristics-of-fascism.md",
+    "blog/5-books-every-christian-read.md",
+    "blog/8-questions-to-ask-while-reading-theology.md",
+    "blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+    "blog/a-crucicentric-credo.md",
+    "blog/a-valediction.md",
+    "blog/alan-jacobss-the-thinking-persons-checklist.md",
+    "blog/an-outline-of-karl-barths-church-dogmatics.md",
+    "blog/anti-racism-letter-to-fellow-acna-clergy.md",
+    "blog/are-the-beatitudes-good-works-matt-51316.md",
+    "blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md",
+    "blog/back-in-the-saddle.md",
+    "blog/balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better.md",
+    "blog/barth-bonhoeffer-and-the-bible.md",
+    "blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md",
+    "blog/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan.md",
+    "blog/barth-on-the-wilderness-temptations-3-the-leap-of-false-faith.md",
+    "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+    "blog/black-friday-book-recommendation-the-economy-of-desire.md",
+    "blog/cedarville-2.md",
+    "blog/cedarville-let-there-be-light-pt-2.md",
+    "blog/christians-and-wealth.md",
+    "blog/church_and_state.md",
+    "blog/concerning-romans.md",
+    "blog/creation-and-doxology-pt-1.md",
+    "blog/creation-and-doxology-pt-2.md",
+    "blog/creation-and-doxology-pt-3.md",
+    "blog/damers-code-of-intellectual-conduct.md",
+    "blog/death-in-his-grave.md",
+    "blog/deuteronomy-61-15-1.md",
+    "blog/dissertation-dispatch-2019-07-05.md",
+    "blog/dissertation-dispatch-2019-11-11.md",
+    "blog/disunity-in-the-church-absurd.md",
+    "blog/finding-a-hat-for-my-big-bald-head.md",
+    "blog/getting-ahead-in-gods-upside-down-kingdom.md",
+    "blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
+    "blog/gods-economy.md",
+    "blog/hate-running-try-rucking-instead.md",
+    "blog/help-me-come-up-with-rules-for-conversation.md",
+    "blog/help-me-stickk-to-my-writing-habit.md",
+    "blog/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks.md",
+    "blog/heres-what-im-committing-myself-to-as-a-priest.md",
+    "blog/hermeneutical-implications-scriptures-theological-location.md",
+    "blog/holy-trinity.md",
+    "blog/home-gym-upgrades.md",
+    "blog/honors-grace-and-generosity.md",
+    "blog/i-love-my-kids-but-i-sometimes-regret-having-them.md",
+    "blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
+    "blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md",
+    "blog/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america.md",
+    "blog/improvising-church-state.md",
+    "blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+    "blog/interpretive-approaches-to-the-beatitudes.md",
+    "blog/into-the-far-country.md",
+    "blog/it-is-finished-so-get-to-work-an-ascension-sermon.md",
+    "blog/its-time-for-another-social-media-fast.md",
+    "blog/justification-and-sanctification.md",
+    "blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
+    "blog/let-there-be-light-my-resignation.md",
+    "blog/lets-take-seth-godin-to-church.md",
+    "blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+    "blog/mental-models-helpful-model-theology.md",
+    "blog/mentor-me.md",
+    "blog/mothers-day-poem-2.md",
+    "blog/my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof.md",
+    "blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md",
+    "blog/my-favorite-podcasts.md",
+    "blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+    "blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+    "blog/my-uncle-timothy-steele.md",
+    "blog/my-unforgettable-cedarville-experience-pt-2-2.md",
+    "blog/no-one-knows-what-positivism-of-revelation-means.md",
+    "blog/oh-cedarville.md",
+    "blog/ok-maybe-a-bit-more-on-cedarville.md",
+    "blog/on-scripture.md",
+    "blog/one-simple-trick-helps-read-faster-ph-d-student.md",
+    "blog/presenting-on-barth-at-2015-southeastern-ets.md",
+    "blog/proverbs-topical-study-poverty.md",
+    "blog/psalm-2-quare-fremuerunt-gentes.md",
+    "blog/requiem-for-a-cousin-on-his-birthday.md",
+    "blog/romans-13.md",
+    "blog/romans-distilled-paraphrased.md",
+    "blog/saw-updates.md",
+    "blog/sermon-the-challenge-of-christmas-light.md",
+    "blog/software-testing-possibilities-problems-and-principles.md",
+    "blog/stickking-to-the-slow-carb-diet.md",
+    "blog/testimony-brief.md",
+    "blog/thank-god-i-went-to-cedarville.md",
+    "blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+    "blog/the-hope-of-the-holy-innocents.md",
+    "blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
+    "blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md",
+    "blog/three-recent-sermons.md",
+    "blog/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion.md",
+    "blog/two-more-pieces-about-jordan-peterson.md",
+    "blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+    "blog/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again.md",
+    "blog/vintage-craftsman-table-saw.md",
+    "blog/volf-on-divine-violence.md",
+    "blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
+    "blog/wedding-vows.md",
+    "blog/what-color-is-my-parachute-the-flower-petal-exercise.md",
+    "blog/what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-2020-03-30.md",
+    "blog/what-does-it-mean-to-be-human.md",
+    "blog/what-im-reading.md",
+    "blog/what-to-make-of-jordan-peterson-some-takes-then-my-own.md",
+    "blog/whats-gone-wrong-with-the-digital-karl-barth-library.md",
+    "blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
+    "blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+    "blog/with-baby-2-on-the-way-im-looking-for-work.md",
+    "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+    "pages/cv.md",
+    "pages/essays.md",
+    "pages/follow.md",
+    "pages/posse.md",
+    "pages/sermons.md"
+  ]
+}
