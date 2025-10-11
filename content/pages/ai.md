@@ -1,6 +1,6 @@
 ---
 title: AI
-description: 'How I use (and don't use) AI tools.'
+description: 'How I use (and don''t use) AI tools.'
 url: /ai
 draft: false
 showtoc: false
