@@ -5,10 +5,6 @@ url: /canon
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/canon` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 Things that have most shaped me:
 
 - Jesus of Nazareth
@@ -26,3 +22,7 @@ Things that have most shaped me:
 - Wishbone
 - Libraries
 - The Internet
+
+{{< callout "note" >}}
+This `/canon` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

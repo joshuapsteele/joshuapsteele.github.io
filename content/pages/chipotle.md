@@ -5,10 +5,6 @@ url: /chipotle
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/chipotle` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 My Chipotle order:
 
 TL;DR: "Chicken burrito bowl, w/extra tortilla and chips on the side, and basically all toppings except for sour cream, lettuce, queso blanco, and guacamole."
@@ -30,3 +26,7 @@ TL;DR: "Chicken burrito bowl, w/extra tortilla and chips on the side, and basica
 - No queso blanco
 - No guacamole
 - Chips on the side
+
+{{< callout "note" >}}
+This `/chipotle` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

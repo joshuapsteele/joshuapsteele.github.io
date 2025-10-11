@@ -5,10 +5,6 @@ description: 'You can add these caveats to everything I write online.'
 url: /caveats
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/caveats` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 You can add the following caveats to everything I write online.
 
 - **If it doesn't directly apply to you, feel free to move along**  
@@ -19,6 +15,10 @@ You can add the following caveats to everything I write online.
   If you still think you really need to say something, write your own post, write me an [email](/contact/), send me a letter, etc. (Just don't call me, I'm a Millennial!)
 
 Finally, I'm just as susceptible to [cognitive biases](https://yourbias.is/) and [logical fallacies](https://yourlogicalfallacyis.com/) as anyone else. Nevertheless, I'd like to do my best to stick to [the following Rules of Civil Conversation](https://therulesofcivilconversation.org/). And I ask that you consider doing the same.
+
+{{< callout "note" >}}
+This `/caveats` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 I resolve to:
 

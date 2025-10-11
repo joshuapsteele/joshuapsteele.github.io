@@ -8,17 +8,17 @@ aliases:
 - /portfolio
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/about` page is just one of [my many "slash pages."](/slashes)
-
-**More About Me:** [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
-{{< /callout >}}
-
 "The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
 
 As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with three degrees in theology.
 
 After a long time away (for those theology degrees), I'm back in Ohio, where I live with my wife and three young children.
+
+{{< callout "note" >}}
+This `/about` page is just one of [my many "slash pages."](/slashes)
+
+**More About Me:** [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
+{{< /callout >}}
 
 In my free time (what's that?), I buy books and tools...and then try to find even more time to use them. Recently, DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I'm trying to become competent in as many different practical skills as possible. (You know, since I studied *theology* in school! Haha.)
 

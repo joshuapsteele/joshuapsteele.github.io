@@ -7,12 +7,6 @@ showtoc: false
 aliases:
 - /save
 ---
-{{< callout "note" >}}
-This `/bookmarks` (AKA `/save`) page is just one of [my many "slash pages."](/slashes)
-
-Also, it's similar to my [`blogroll`](/blogroll) page.
-{{< /callout >}}
-
 ## Websites: Interesting and/or Useful
 
 - [12ft](https://12ft.io/)
@@ -27,6 +21,12 @@ Also, it's similar to my [`blogroll`](/blogroll) page.
 - [McMaster-Carr Online Catalog](https://www.mcmaster.com/)
 - [OpenTimes](https://opentimes.org/)
 - [Sketchplanations](https://sketchplanations.com/)
+
+{{< callout "note" >}}
+This `/bookmarks` (AKA `/save`) page is just one of [my many "slash pages."](/slashes)
+
+Also, it's similar to my [`blogroll`](/blogroll) page.
+{{< /callout >}}
 
 ## Posts
 

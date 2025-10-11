@@ -7,10 +7,6 @@ showtoc: false
 aliases:
 - /edc
 ---
-{{< callout "note" >}}
-This `/carry` page is just one of [my many "slash pages."](/slashes). It's similar to my [`/defaults`](/defaults) and [`/uses`](/uses) pages, but focuses on the everyday carry (EDC) items I find useful.
-{{< /callout >}}
-
 Every Day Carry Items:
 
 - Keys/Keychain: [EXOTAC FreeKey System](https://www.amazon.com/FreeKey-2825-System/dp/B00AQ664H6?crid=13RAFZV88K3AM&dib=eyJ2IjoiMSJ9.hRQKHTMHMq536Sk7nMc4dbMHe3k74bBessRi6w74qVGQV7AGNohTjJeu4tNS6IOnj6BsiIJPaMTXE7_OXJ8cDnbpjV0HpEDCBw5vK8L44UJ_YLgMjcRXKr3T0iuhumT0apBAK7_5YWOtYsGIRkHuSvcF4mBFgekiRlWbp35X4gzUhLfwbxguATcwb2Vn8JbJh55v8u08vhc0tnTOoqZSQXEXqLaHxgCDC_t_RdBotJyzhSkGM4pvWQK143QbvhKoI5o937bDY3VN_zw3HXXrz8CeNzmfRx4bcx-6y34ta6s.E6d1RRFeqb7jMEt550j_zgVu1uY0LmsQmZ9It_mL6Po&dib_tag=se&keywords=keychain+free&qid=1753964902&sprefix=keychain+free%2Caps%2C162&sr=8-2&linkCode=ll1&tag=joshuapsteele-20&linkId=42e3ede891415b80e649e1394d7674b8&language=en_US&ref_=as_li_ss_tl)
@@ -26,3 +22,7 @@ Every Day Carry Items:
 - Lighter: [Bic Classic Lighter](https://www.amazon.com/BIC-Classic-Lighter-Fashion-Assorted/dp/B086R3LFBW?crid=MJ0F4CJG3P9Q&dib=eyJ2IjoiMSJ9.Na8AZGr8DGD3UvSTD_RI06u7ha6OhG5JUEVlNDIo74wa00mwgK5o1_pA6OJL08nicpsdaNXJPr36xu-e3GiNOgdvpWU5g7gt6n_AXySHS3trbbMT7xVtNphVd6ndT5TrB90AWxvGSdUqAMgy4WNxTrprtMBYHGis5bzbLnDH1jhapIcWXVkne7zxpHk-m35Di_vOnn_ZjJSVd-7XlrGLe2LtrY-tCUhPtV0UttiAi54mJDH9zb5sKRtLvYu85tMmR1m2yABwZYOA3vOfwFhln6WvyTS96ygIaxnAGc2I41A.evSbXHEHIOX-zmgXu6x_rWl2SkAlE_BQ19EIT01aCrg&dib_tag=se&keywords=bic+lighter&qid=1753964725&sprefix=bic+lighter%2Caps%2C143&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=192f83c0db96d773ecd60cd3861ac1ae&language=en_US&ref_=as_li_ss_tl)
 - EDC Pouch: [Maxpedition Fatty Pocket Organizer](https://www.amazon.com/Maxpedition-Fatty-Pocket-Organizer-Black/dp/B005257ZDS?crid=19XCC69WDT15&dib=eyJ2IjoiMSJ9.ipcUbrHIwzfTO3NLlJIibtLUlCyc4hALBVgIO_iaU2wCFHn_JvakvVSf6znE8YsDUUOT7XCfy364MYrZzakBaVc3RVPkJBszT5mqrMLl7HuPc8DArszTnZG2GE-gBWHvjzy8l9LgILreFQ3jYwNadHCyg14X8fAVAK64MTwWxxGEDAXpsuisfAq-tVLeM7Nqs0qdI2OPwXTprhxh-g0WXByZZzxmWb3RsDZX7j7t-6VWJyQBxx4Ncb77JuRAXsxpn_6z2O6ZupJGGKDV2mNqYWz1teQ0uGksLBufWKuU1X8.3_uC4Jn6nrJY_N08WwlVMQnEjJ9mjeozLBy2oRm-Mc8&dib_tag=se&keywords=maxpedition%2Bfatty&qid=1753964770&sprefix=maxpedition%2Bfatty%2Caps%2C161&sr=8-4&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=9efd14ed1cb707533fabda485a9e8fd6&language=en_US&ref_=as_li_ss_tl)
 - Backpack: [Osprey Daylite Commuter Backpack](https://www.amazon.com/Osprey-Daylite-Daypack-Black-Size/dp/B08LP148YT?crid=J3UQZZ8NQ7IG&dib=eyJ2IjoiMSJ9.6FkmV1T50VY2HPUW_YXQiA2zKUjt-4B13B5KVDc8JVH0WkJ4CgbnR9Ld0wIxdoKQnC1iGb1EhcNfRwILnOvrSWeQvKb3q4mpDfazNXiRlWvXGp_aKf1SG2UnO8dtrB6_cFOl-QrXFrItpmXlRKzpH2akEIM_WJ3biRb6t3eAPrXRt4zn5NjfiXe5CugiaRzUbaDW8mqitu8yNC2g8DpkMniqkyrXxGRTvWw3V-Ur5UX1YwKUNqevVxehEvQrmSfDKpZjRj-GoqNgxPx-B-oChbGY5DVSj7xbqJ9w0rMcj5s.-CmLrFN-qIMJa9ntmdOD_BiLXNaKNGCoGOzxuDskAN8&dib_tag=se&keywords=osprey%2Bdaylite%2Bpack&qid=1753964805&sprefix=osprey%2Bdaylite%2Bpack%2Caps%2C164&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=e95e7f9690bb9ecac3af2bd06f109a12&language=en_US&ref_=as_li_ss_tl)
+
+{{< callout "note" >}}
+This `/carry` page is just one of [my many "slash pages."](/slashes). It's similar to my [`/defaults`](/defaults) and [`/uses`](/uses) pages, but focuses on the everyday carry (EDC) items I find useful.
+{{< /callout >}}

@@ -5,10 +5,6 @@ url: /ai
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/ai` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 ## How I Use AI
 
 - To code. I use the following tools:
@@ -17,6 +13,10 @@ This `/ai` page is just one of [my many "slash pages."](/slashes)
     - ChatGPT,
     - GitHub Copilot, and
     - Zed IDE
+
+{{< callout "note" >}}
+This `/ai` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 ## How I Do Not Use AI
 

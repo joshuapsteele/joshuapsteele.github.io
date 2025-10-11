@@ -5,10 +5,6 @@ url: /blogroll
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/blogroll` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
-
 This is a curated list of blogs, websites, and other online publications that I recommend.
 
 ## News
@@ -23,6 +19,10 @@ This is a curated list of blogs, websites, and other online publications that I 
 - [Adam Kinzinger's Newsletter](https://adamkinzinger.substack.com/)
 - [Heather Cox Richardson's Newsletter](https://heathercoxrichardson.substack.com/)
 - [Timothy Snyder's Newsletter](https://snyder.substack.com/)
+
+{{< callout "note" >}}
+This `/blogroll` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}
 
 ## YouTube Channels
 
