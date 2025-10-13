@@ -1,18 +1,19 @@
 ---
-title: Saw Updates
-date: 2025-04-01 08:25:13-04:00
 author: joshuapsteele
-categories:
-- Tools
+categories: productivity
+date: 2025-04-01 08:25:13-04:00
+description: The Table Saw I know you've all been waiting for (lol) updates on my
+  vintage 1947 Craftsman 113 table saw.
+draft: false
+showToc: false
 tags:
 - home improvement
 - diy
 - tools
-description: The Table Saw I know you've all been waiting for (lol) updates on my vintage 1947 Craftsman 113 table saw.
+title: Saw Updates
 url: /saw-updates/
-draft: false
-showToc: false
 ---
+
 ## The Table Saw
 
 I know you've all been waiting for (lol) updates on my [vintage 1947 Craftsman 113 table saw](/vintage-craftsman-table-saw/).

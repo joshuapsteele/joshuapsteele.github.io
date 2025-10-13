@@ -1,12 +1,13 @@
 ---
-title: 'The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths'
-date: '2018-06-08T18:39:38Z'
 author: joshuapsteele
-categories:
-- productivity
-description: Gretchen Rubin's Four Tendencies framework helps you understand your personality and play to your strengths in relationships and productivity.
+categories: productivity
+date: '2018-06-08T18:39:38Z'
+description: Gretchen Rubin's Four Tendencies framework helps you understand your
+  personality and play to your strengths in relationships and productivity.
+title: 'The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths'
 url: /the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/
 ---
+
 In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.
 
 So, I thought I would take a few minutes to share it with you.

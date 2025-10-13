@@ -1,15 +1,16 @@
 ---
-title: 14 Youtube Channels I Like
-date: 2025-05-15 17:11:46-04:00
 author: joshuapsteele
-categories:
-- lists
+categories: personal
+date: 2025-05-15 17:11:46-04:00
+description: A curated collection of DIY, automotive, engineering, and educational
+  YouTube channels for makers, tinkerers, and curious minds.
+draft: false
 tags:
 - youtube
-description: A curated collection of DIY, automotive, engineering, and educational YouTube channels for makers, tinkerers, and curious minds.
+title: 14 Youtube Channels I Like
 url: /14-youtube-channels/
-draft: false
 ---
+
 Here are 14 YouTube channels that I really enjoy. Do you have any other YouTube channels you think I might enjoy?
 
 1. [Budget Mechanic](https://www.youtube.com/@BudgetMechanicHawaii)

@@ -1,19 +1,20 @@
 ---
-title: No Kings
-date: 2025-06-14 10:00:12-04:00
+TocOpen: false
 author: joshuapsteele
-categories:
-- theology
+categories: theology
+date: 2025-06-14 10:00:12-04:00
+description: No kings, save One, the King of Kings, whose kingdom peace and justice
+  brings. No kings, but He who blessed the poor, and binds their wounds forevermore.
+draft: false
+showToc: false
 tags:
 - theology
 - politics
 - poetry
-description: No kings, save One, the King of Kings, whose kingdom peace and justice brings. No kings, but He who blessed the poor, and binds their wounds forevermore.
+title: No Kings
 url: /no-kings/
-draft: false
-showToc: false
-TocOpen: false
 ---
+
 No kings, save One, the King of Kings,  
 whose kingdom peace and justice brings.  
 
@@ -48,4 +49,4 @@ So, kings, so, despots, bend the knee!
 Fear Him who sets your prisoners free.  
 
 No, kings, One saves! His freedom rings!  
-No kings, save One, the King of Kings.  
+No kings, save One, the King of Kings.

@@ -1,13 +1,13 @@
 ---
-title: 'Sermon: The Challenge of Christmas Light'
-date: '2016-01-10T15:53:45Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: There are better preachers out there. So, if you’re short on time, go and listen to them.
+categories: theology
+date: '2016-01-10T15:53:45Z'
+description: There are better preachers out there. So, if you’re short on time, go
+  and listen to them.
+title: 'Sermon: The Challenge of Christmas Light'
 url: /sermon-the-challenge-of-christmas-light/
 ---
+
 There are better preachers out there. So, if you’re short on time, go and listen to them! However, if you’ve got 26 minutes to spare, I offer “The Challenge of Christmas Light” to you, and would love to hear your feedback.
 
 I preached this sermon on December 27, 2015 at [St. Peter’s Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL, as we celebrated the [Feast of St. John the Apostle and Evangelist](http://www.lectionarypage.net/YearABC/HolyDays/John.html).

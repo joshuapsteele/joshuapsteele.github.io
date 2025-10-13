@@ -1,13 +1,14 @@
 ---
-title: My Uncle, Timothy Steele
-date: '2015-04-24T09:15:26Z'
 author: joshuapsteele
-categories:
-- personal
-description: (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.) --- > “It is better to go to a funeral than a feast.
-url: /20150424my-uncle-timothy-steele/
+categories: personal
+date: '2015-04-24T09:15:26Z'
+description: (This post is about my late uncle, Timothy Steele. It’s long, and I swear
+  toward the end. Sorry.) --- > “It is better to go to a funeral than a feast.
 publicize_twitter_user: With some added theological reflection on Death and Hope.
+title: My Uncle, Timothy Steele
+url: /20150424my-uncle-timothy-steele/
 ---
+
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)
 
 ---

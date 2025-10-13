@@ -1,14 +1,16 @@
 ---
-title: Balderdash! 12 Suggestions for Overcoming Writer’s Block (From Andrew T. Le Peau’s “Write Better”)
-date: '2020-05-19T13:29:06Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2020-05-19T13:29:06Z'
+description: Andrew T. Le Peau's 12 practical strategies for overcoming writer's block
+  when dissertation progress stalls.
 tags:
 - writing
-description: Andrew T. Le Peau's 12 practical strategies for overcoming writer's block when dissertation progress stalls.
+title: Balderdash! 12 Suggestions for Overcoming Writer’s Block (From Andrew T. Le
+  Peau’s “Write Better”)
 url: /balderdash-12-suggestions-for-overcoming-writers-block-from-andrew-t-le-peaus-write-better/
 ---
+
 Writer’s block sucks. I’m currently facing it with regard to [my dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) and I’ve decided to hit pause on research and writing until I regain access to my library carrell at Wheaton.
 
 Thankfully, I’ve come across some helpful advice on overcoming writer’s block in Andrew T. Le Peau’s [*Writer Better: A Lifelong Editor on Craft, Art, and Spirituality*](https://amzn.to/2ZuTZC3) (affiliate link).

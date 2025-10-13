@@ -1,12 +1,13 @@
 ---
-title: 'Testimony: A Faith Story, In Brief'
-date: '2017-08-07T07:00:36Z'
 author: joshuapsteele
-categories:
-- personal
-description: The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words.
+categories: personal
+date: '2017-08-07T07:00:36Z'
+description: The following is an attempt to tell my testimony, the story of my Christian
+  faith, in approximately 500 words.
+title: 'Testimony: A Faith Story, In Brief'
 url: /testimony-brief/
 ---
+
 *The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words. It was challenging to do, but also a helpful exercise! I challenge you to write out your own story in approximately 500 words.*
 
 ---

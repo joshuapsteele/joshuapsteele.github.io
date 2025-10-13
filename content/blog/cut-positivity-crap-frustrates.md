@@ -1,14 +1,15 @@
 ---
-title: 'Cut the "Positivity" Crap: What Frustrates You?'
-date: '2018-02-28T17:06:33Z'
 author: joshuapsteele
-categories:
-- ethics
+categories: ethics
+date: '2018-02-28T17:06:33Z'
+description: Tell me what frustrates you—I'm looking for real problems to solve, not
+  toxic positivity. Rant in the comments.
 tags:
 - questions
-description: Tell me what frustrates you—I'm looking for real problems to solve, not toxic positivity. Rant in the comments.
+title: 'Cut the "Positivity" Crap: What Frustrates You?'
 url: /cut-positivity-crap-frustrates/
 ---
+
 I’ll keep this short, sweet, and to the point: **I’m looking for problems that I can help solve, so I need you to rant at me in the comments.**
 
 That’s right, I basically want you to complain to me in the comments section of this post.

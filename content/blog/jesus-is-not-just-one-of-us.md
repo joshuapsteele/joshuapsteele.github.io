@@ -1,13 +1,13 @@
 ---
-title: Jesus is Not Just &quot;One of Us&quot;
-date: '2015-07-09T21:43:51Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: 'NOTE: The audio of the following sermon, preached on July 05, 2015 at St. Peter’s Anglican Church in Mountain Brook, Alabama, can be found here.'
+categories: theology
+date: '2015-07-09T21:43:51Z'
+description: 'NOTE: The audio of the following sermon, preached on July 05, 2015 at
+  St. Peter’s Anglican Church in Mountain Brook, Alabama, can be found here.'
+title: Jesus is Not Just &quot;One of Us&quot;
 url: /jesus-is-not-just-one-of-us/
 ---
+
 **NOTE: The [audio](http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3) of the following sermon, preached on July 05, 2015 at [St. Peter’s Anglican Church in Mountain Brook](http://stpetersbhm.org/), Alabama, can be found [here](http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3). (I began with a bit of a mic issue. Ignore the garbled first 10 seconds or so!)**
 
 —

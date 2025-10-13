@@ -1,13 +1,13 @@
 ---
-title: 'Barth on the Wilderness Temptations: #3, The Leap of False Faith'
-date: '2015-04-24T09:13:36Z'
 author: joshuapsteele
-categories:
-- bible
-- theology
-description: I've been reproducingKarl Barth'smagnificent exegesis of Christ's wilderness temptations in *Church Dogmatics* IV/1.
+categories: theology
+date: '2015-04-24T09:13:36Z'
+description: I've been reproducingKarl Barth'smagnificent exegesis of Christ's wilderness
+  temptations in *Church Dogmatics* IV/1.
+title: 'Barth on the Wilderness Temptations: #3, The Leap of False Faith'
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 ---
+
 I've been reproducing[Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth)magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.
 
 It is a particularly appropriate discussion for this season of[Lent](http://en.wikipedia.org/wiki/Lent), for Jesus was not tempted to break the Law or commit a moral infraction. Instead, he was tempted to abandon his role as the Perfect Penitent. For Barth, if Christ had capitulated to any of the temptations, he would have abandoned God's redemptive mission. Jesus Christ had to persist in penitence in order to be "[the Judge Judged in Our Place](https://books.google.com/books?id=BAzwi9GQHtoC&amp;pg=PA211&lpg=PA211&dq=judge+judged+in+our+place&source=bl&ots=6QQm6gLbOc&sig=T82UORb7xuRT8l8I__5370Dilk0&hl=en&sa=X&ei=SRrtVOTuJK3ksATGrIDoDw&ved=0CCYQ6AEwAQ#v=onepage&q=judge%20judged%20in%20our%20place&f=false)" (Barth's most concise description of the atonement proper).

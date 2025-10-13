@@ -1,14 +1,15 @@
 ---
-title: Mentor Me! 11 Questions I'd Like You to Answer
-date: '2022-04-15T20:24:45Z'
 author: joshuapsteele
-categories:
-- uncategorized
+categories: []
+date: '2022-04-15T20:24:45Z'
+description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions
+  that he asks himself and others.
 tags:
 - questions
-description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions that he asks himself and others.
+title: Mentor Me! 11 Questions I'd Like You to Answer
 url: /mentor-me/
 ---
+
 Say what you will about Tim Ferriss, I’ve always really enjoyed the [questions that he asks himself](https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf) and [others](https://tim.blog/2017/10/03/tribe-of-mentors/).
 
 I also really enjoy LEARNING as much as I can from other people. And so, with that in mind, I’d like to “open source” my search for mentors and **invite you, dear reader, to answer at least one of the questions below.**

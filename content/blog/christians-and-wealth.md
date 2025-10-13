@@ -1,13 +1,15 @@
 ---
-title: 'Christians and Wealth: An Argument for Downward Mobility'
-date: '2016-09-24T01:00:30Z'
 author: joshuapsteele
 categories:
-- theology
 - ethics
-description: Why American Christians should embrace downward mobility, living simply at human flourishing standards and giving excess to the poor.
+- theology
+date: '2016-09-24T01:00:30Z'
+description: Why American Christians should embrace downward mobility, living simply
+  at human flourishing standards and giving excess to the poor.
+title: 'Christians and Wealth: An Argument for Downward Mobility'
 url: /christians-and-wealth/
 ---
+
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:
 
 ---

@@ -1,14 +1,16 @@
 ---
-title: I Need to Develop a Writing Habit. Do You?
-date: '2018-03-19T14:33:39Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2018-03-19T14:33:39Z'
+description: Because good writing = good thinking, I believe that *everyone* could
+  benefit from developing the habit of regular writing. However, because I - Am a
+  Ph.D.
 tags:
 - writing
-description: Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing. However, because I - Am a Ph.D.
+title: I Need to Develop a Writing Habit. Do You?
 url: /i-need-to-develop-a-writing-habit-do-you/
 ---
+
 Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing.
 
 However, because I

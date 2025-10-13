@@ -1,15 +1,17 @@
 ---
-title: You Can't Follow Jesus and Hate Immigrants
-date: '2024-09-13T16:19:56Z'
 author: joshuapsteele
 categories:
-- bible
 - ethics
+- theology
+date: '2024-09-13T16:19:56Z'
+description: You Can't Follow Jesus and Hate Immigrants You can’t follow Jesus and
+  hate immigrants.
 tags:
 - immigration
-description: You Can't Follow Jesus and Hate Immigrants You can’t follow Jesus and hate immigrants.
+title: You Can't Follow Jesus and Hate Immigrants
 url: /you-cant-follow-jesus-and-hate-immigrants/
 ---
+
 ## You Can't Follow Jesus and Hate Immigrants
 
 You can’t follow Jesus and hate immigrants. Of course, this does NOT settle every question of immigration policy! But, if you’re a follower of Jesus, consider your overall posture toward immigrants. If you call yourself a Christian, I want you to think about this seriously.

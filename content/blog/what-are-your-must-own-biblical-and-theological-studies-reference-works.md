@@ -1,13 +1,13 @@
 ---
-title: What are your "must-own" biblical and theological studies reference works?
-date: '2019-04-10T21:30:46Z'
 author: joshuapsteele
-categories:
-- bible
-- theology
-description: It just happened again. I had to consult “BDAG,” A Greek–English Lexicon of the New Testament and Other Early Christian Literature (3rd ed.).
+categories: theology
+date: '2019-04-10T21:30:46Z'
+description: It just happened again. I had to consult “BDAG,” A Greek–English Lexicon
+  of the New Testament and Other Early Christian Literature (3rd ed.).
+title: What are your "must-own" biblical and theological studies reference works?
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/
 ---
+
 It just happened again. I had to consult [“BDAG,” A Greek–English Lexicon of the New Testament and Other Early Christian Literature (3rd ed.)](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed).
 
 I don’t own a copy, so every time I have to consult BDAG I think “I really should buy this.” But for the past decade or so, primarily because of BDAG’s cost ($150 on Logos, $130 used on Amazon, $165 new on Amazon) I’ve held off.

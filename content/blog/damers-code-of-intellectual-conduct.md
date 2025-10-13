@@ -1,16 +1,17 @@
 ---
-title: Damer’s “Code of Intellectual Conduct”
-date: '2019-11-19T15:26:29Z'
 author: joshuapsteele
-categories:
-- ethics
+categories: ethics
+date: '2019-11-19T15:26:29Z'
+description: 'This code of conduct very much relates to Rapoport’s Rules, Adler’s
+  advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T.'
 tags:
 - 8020
-- reading notes
+- reading
 - how to think
-description: 'This code of conduct very much relates to Rapoport’s Rules, Adler’s advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T.'
+title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
 ---
+
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)
 
 SOURCE: T. Edward Damer, *Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments*, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.

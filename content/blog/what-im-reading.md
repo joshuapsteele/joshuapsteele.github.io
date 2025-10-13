@@ -1,12 +1,12 @@
 ---
-title: What I'm Reading
-date: '2016-05-26T14:56:03Z'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2016-05-26T14:56:03Z'
 description: Ah, the joys of summer reading.
+title: What I'm Reading
 url: /what-im-reading/
 ---
+
 Ah, the joys of summer reading.
 
 Here are a few of the books I’m currently diving into:

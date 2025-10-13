@@ -1,12 +1,13 @@
 ---
-title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
-date: '2018-04-02T06:00:45Z'
 author: joshuapsteele
-categories:
-- ethics
-description: The following is a guest post written by my friend and former college roommate, **Zak Weston**.
+categories: ethics
+date: '2018-04-02T06:00:45Z'
+description: The following is a guest post written by my friend and former college
+  roommate, **Zak Weston**.
+title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
 url: /the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/
 ---
+
 *The following is a guest post written by my friend and former college roommate, **Zak Weston**. Zak’s been working in the area of food ethics, and I asked him to write up a post about why Christians should care about these issues. It’s an area in which I need to make some changes in my own life. He delivered this thought-provoking and challenging piece. I hope you enjoy.*
 
 ---

@@ -1,16 +1,16 @@
 ---
-title: Want to Learn More about Women’s Ordination Debates within Anglicanism? Start With These Resources
-date: '2019-01-30T14:31:31Z'
 author: joshuapsteele
-categories:
-- anglicanism
-- ministry
+categories: ministry
+date: '2019-01-30T14:31:31Z'
+description: Maybe you, like me, are coming to Anglicanism from a different tradition.
 tags:
 - anglican compass
 - women's ordination
-description: Maybe you, like me, are coming to Anglicanism from a different tradition.
+title: Want to Learn More about Women’s Ordination Debates within Anglicanism? Start
+  With These Resources
 url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/
 ---
+
 Maybe you, like me, are coming to Anglicanism from a different tradition.
 
 If that’s the case, then one thing you should know is that Anglican debates about women’s ordination can often be quite different from debates about the same topic in other church contexts.

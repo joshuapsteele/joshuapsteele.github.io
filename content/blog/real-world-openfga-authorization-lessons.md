@@ -1,12 +1,19 @@
 ---
-title: "Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them"
-date: 2025-05-05
-draft: false
-url: /real-world-openfga-authorization-lessons/
 author: joshuapsteele
-tags: ["openfga", "zanzibar", "authorization", "rebac", "security"]
-categories: ["software engineering", "architecture"]
-description: "Are you using OpenFGA or a Zanzibar-inspired authorization system in production? I'd love to hear how you're managing models and authorization data at scale."
+categories: productivity
+date: 2025-05-05
+description: Are you using OpenFGA or a Zanzibar-inspired authorization system in
+  production? I'd love to hear how you're managing models and authorization data at
+  scale.
+draft: false
+tags:
+- openfga
+- zanzibar
+- authorization
+- rebac
+- security
+title: Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them
+url: /real-world-openfga-authorization-lessons/
 ---
 
 Are you using [OpenFGA](https://openfga.dev/) or another Google Zanzibar-inspired authorization engine **in the wild**—not just for a side project or proof of concept, but in a production environment with real users and systems?

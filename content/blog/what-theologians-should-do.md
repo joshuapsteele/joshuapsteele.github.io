@@ -1,12 +1,13 @@
 ---
-title: What Theologians (Should) Do
-date: '2018-07-13T14:36:54Z'
 author: joshuapsteele
-categories:
-- theology
-description: Vanhoozer, affectionately known by some as “KJV,” has written one of the best, briefest overviews of what theologians (should) do.
+categories: theology
+date: '2018-07-13T14:36:54Z'
+description: Vanhoozer, affectionately known by some as “KJV,” has written one of
+  the best, briefest overviews of what theologians (should) do.
+title: What Theologians (Should) Do
 url: /what-theologians-should-do/
 ---
+
 Kevin J. Vanhoozer, affectionately known by some as “KJV,” has written [one of the best, briefest overviews of what theologians (should) do](https://www.firstthings.com/article/2018/08/letter-to-an-aspiring-theologian).
 
 The entire piece is filled with gems like the following:

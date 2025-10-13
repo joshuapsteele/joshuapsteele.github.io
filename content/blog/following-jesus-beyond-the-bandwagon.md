@@ -1,13 +1,13 @@
 ---
-title: Following Jesus Beyond the Bandwagon
-date: '2016-09-12T22:34:54Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: '(A chapel message in a Christian school.)* There are a few things you should know about me: - I am a student at a *Christian* seminary.'
+categories: theology
+date: '2016-09-12T22:34:54Z'
+description: '(A chapel message in a Christian school.)* There are a few things you
+  should know about me: - I am a student at a *Christian* seminary.'
+title: Following Jesus Beyond the Bandwagon
 url: /following-jesus-beyond-the-bandwagon/
 ---
+
 *(A chapel message in a Christian school.)*
 
 There are a few things you should know about me:

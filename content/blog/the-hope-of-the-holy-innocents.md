@@ -1,15 +1,16 @@
 ---
-title: The Hope of the Holy Innocents
-date: '2015-04-24T09:16:32Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: 'A December 28 sermon on the Slaughter of the Innocents: finding hope and meaning in Herod''s horrific massacre of Bethlehem''s babies.'
-url: /the-hope-of-the-holy-innocents/
-excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope of the Holy Innocents in this 2014 sermon.
+categories: theology
+date: '2015-04-24T09:16:32Z'
+description: 'A December 28 sermon on the Slaughter of the Innocents: finding hope
+  and meaning in Herod''s horrific massacre of Bethlehem''s babies.'
+excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope
+  of the Holy Innocents in this 2014 sermon.
 publicize_twitter_user: is on December 28. Learn more about the hope of the Holy Innocents.
+title: The Hope of the Holy Innocents
+url: /the-hope-of-the-holy-innocents/
 ---
+
 {{< audio src="/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3" >}}
 
 (PDF: [The Hope of the Holy Innocents](https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))

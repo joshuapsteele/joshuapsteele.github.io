@@ -1,12 +1,14 @@
 ---
-title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican and Anabaptist Approaches'
-date: '2015-12-08T11:53:24Z'
 author: joshuapsteele
-categories:
-- theology
-description: 'INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS From the church’s perspective, is the state a promising offer, or a threatening one.'
+categories: theology
+date: '2015-12-08T11:53:24Z'
+description: 'INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS From the church’s perspective,
+  is the state a promising offer, or a threatening one.'
+title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican and
+  Anabaptist Approaches'
 url: /improvising-church-state/
 ---
+
 ### INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS
 
 From the church’s perspective, is the state a promising offer, or a threatening one? At the risk of breathtaking oversimplification, Anglicans have tended to adopt the former perspective, leading to accommodation, and Anabaptists the latter, resulting in separation.[\[1\]](#_ftn1) Following Samuel Wells in his theological appropriation of terms from theatrical improvisation, the Anglican tradition has tended to respond to the promising *offers* (invitations to respond) of the state by *accepting* – maintaining the premise(s) of the state’s action(s).[\[2\]](#_ftn2) The historical legacy of the Church of England has given Anglicanism, as Anderson notes, an “inheritance of a strong loyalty to the state and a conservatism that has led the church to promote the status quo more often than it agitates for reform.”[\[3\]](#_ftn3) This inheritance from the established Church of England has coincided with a dual tendency to adopt a high *status* (a strategy for getting one’s way), in terms of relative privilege and political optimism, and a low status, in terms of frequent subservience in church-state relations.[\[4\]](#_ftn4)

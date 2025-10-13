@@ -1,17 +1,18 @@
 ---
-title: '14 Characteristics of Fascism: Umberto Eco on Ur-Fascism'
-date: 2025-06-10 11:49:55-04:00
 author: joshuapsteele
-categories:
-- politics
+categories: ethics
+date: 2025-06-10 11:49:55-04:00
+description: Exploring Umberto Eco's 14 characteristics of Ur-Fascism, from the cult
+  of tradition to the impoverishment of language that limits critical thought.
+draft: false
+showToc: true
 tags:
 - fascism
 - authoritarianism
-description: Exploring Umberto Eco's 14 characteristics of Ur-Fascism, from the cult of tradition to the impoverishment of language that limits critical thought.
+title: '14 Characteristics of Fascism: Umberto Eco on Ur-Fascism'
 url: /14-characteristics-of-fascism/
-draft: false
-showToc: true
 ---
+
 Let's try to define (or at least describe) fascism, shall we? 
 
 > Fascism: "a populist political philosophy, movement, or regime (such as that of the Fascisti) that exalts nation and often race above the individual, that is associated with a centralized autocratic government headed by a dictatorial leader, and that is characterized by severe economic and social regimentation and by forcible suppression of opposition" (Merriam-Webster)

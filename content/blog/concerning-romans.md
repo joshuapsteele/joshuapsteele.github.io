@@ -1,15 +1,17 @@
 ---
-title: Concerning Romans
-date: '2014-03-20T11:29:22Z'
 author: joshuapsteele
 categories:
-- bible
 - personal
-description: Setting aside Cedarville chaos to focus on reading Romans with Karl Barth's commentary during my Greek exegesis independent study.
-url: /concerning-romans/
+- theology
+date: '2014-03-20T11:29:22Z'
+description: Setting aside Cedarville chaos to focus on reading Romans with Karl Barth's
+  commentary during my Greek exegesis independent study.
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: Concerning Romans
+url: /concerning-romans/
 ---
+
 ![](http://www.treybailey.net/wp-content/uploads/2012/03/romans_title.jpg)
 
 Well, judging by my blog stats for the past 48 hours — as compared with the past few months — I’d get many more views on this post if it [concerned the chaos at Cedarville University](https://joshuapsteele.com/2014/03/18/cedarville-2/)!

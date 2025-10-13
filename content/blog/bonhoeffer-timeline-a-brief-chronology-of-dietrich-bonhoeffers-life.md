@@ -1,14 +1,15 @@
 ---
-title: 'Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life'
-date: '2019-11-12T15:21:09Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-11-12T15:21:09Z'
+description: 'The *Cambridge Companion to Dietrich Bonhoeffer* SOURCE (Amazon affiliate
+  link): John W.'
 tags:
 - bonhoeffer
-description: 'The *Cambridge Companion to Dietrich Bonhoeffer* SOURCE (Amazon affiliate link): John W.'
+title: 'Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life'
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
 ---
+
 ## The *Cambridge Companion to Dietrich Bonhoeffer*
 
 SOURCE (Amazon affiliate link): John W. de Gruchy, ed., [*The Cambridge Companion to Dietrich Bonhoeffer*](https://www.amazon.com/Cambridge-Companion-Dietrich-Bonhoeffer-Companions/dp/0521587816/ref=as_li_ss_tl?keywords=cambridge+companion+bonhoeffer&qid=1573571187&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=9741ea7f11b81c3e60c2df438c4b6202&language=en_US) (Cambridge: Cambridge University Press, 1999), xxiv–xxvi.

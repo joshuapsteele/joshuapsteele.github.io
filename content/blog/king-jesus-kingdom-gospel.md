@@ -1,14 +1,15 @@
 ---
-title: King Jesus' Kingdom Gospel
-date: '2013-09-18T13:13:58Z'
 author: joshuapsteele
 categories:
-- bible
-- theology
 - ethics
-description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King Jesus Gospel.'
+- theology
+date: '2013-09-18T13:13:58Z'
+description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King
+  Jesus Gospel.'
+title: King Jesus' Kingdom Gospel
 url: /king-jesus-kingdom-gospel/
 ---
+
 I highly encourage the following:
 
 1\. Read Scot McKnight’s [The King Jesus Gospel](http://www.amazon.com/The-King-Jesus-Gospel-Revisited/dp/031049298X).

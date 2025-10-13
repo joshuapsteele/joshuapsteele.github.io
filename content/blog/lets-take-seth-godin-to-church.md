@@ -1,12 +1,13 @@
 ---
-title: Let's Take Seth Godin to Church
-date: '2016-05-28T16:44:59Z'
 author: joshuapsteele
-categories:
-- productivity
-description: I’m not going to lie. My first reaction when I saw the cover of this book.
+categories: productivity
+date: '2016-05-28T16:44:59Z'
+description: I’m not going to lie. My first reaction when I saw the cover of this
+  book.
+title: Let's Take Seth Godin to Church
 url: /lets-take-seth-godin-to-church/
 ---
+
 I’m not going to lie. My first reaction when I saw the cover of this book? [![](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg)](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg)
 
 ##### No! Of course you’re not indispensable. What use could this crap possibly be to the Church, or to me – simultaneously a pastor and a pastor-in-training.

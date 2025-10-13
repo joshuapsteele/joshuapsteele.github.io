@@ -1,15 +1,16 @@
 ---
-title: 'Bonhoeffer''s ''Definition'' of ''Religion'' in Prison: 15 Facets/Aspects'
-date: '2019-01-04T14:59:19Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-01-04T14:59:19Z'
+description: A 15-point summary of Bonhoeffer's prison theology of 'religion' from
+  Letters and Papers from Prison, covering inwardness, metaphysics, and more.
 tags:
 - bonhoeffer
 - research
-description: A 15-point summary of Bonhoeffer's prison theology of 'religion' from Letters and Papers from Prison, covering inwardness, metaphysics, and more.
+title: 'Bonhoeffer''s ''Definition'' of ''Religion'' in Prison: 15 Facets/Aspects'
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
 ---
+
 Based upon my own reading of Bonhoeffer’s [*Letters and Papers from Prison* \[DBWE 8\]](https://amzn.to/2AuzaJj), here is my attempt at a summary list of the facets/aspects of Bonhoeffer’s view of “religion” in prison.
 
 1. Religion emphasizes inwardness. \[DBWE 8:362, 364, 455–57\]

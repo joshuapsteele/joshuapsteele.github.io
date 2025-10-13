@@ -1,18 +1,20 @@
 ---
-title: 'Theology Against Nationalism: 10 Theses from Michael Gorman'
-date: 2025-09-29 17:30:23-04:00
+TocOpen: false
 author: joshuapsteele
 categories:
-- theology
 - ethics
-tags:
-- nationalism
-description: Michael Gorman's 10 theological theses confronting American evangelicalism's dangerous conflation of gospel and nation.
-url: /theology-against-nationalism/
+- theology
+date: 2025-09-29 17:30:23-04:00
+description: Michael Gorman's 10 theological theses confronting American evangelicalism's
+  dangerous conflation of gospel and nation.
 draft: false
 showToc: true
-TocOpen: false
+tags:
+- nationalism
+title: 'Theology Against Nationalism: 10 Theses from Michael Gorman'
+url: /theology-against-nationalism/
 ---
+
 *"My Kingdom is Not of This World" – Jesus*
 
 These words of Christ echo with renewed urgency today as American evangelicalism grapples with a dangerous conflation of gospel and nation. [Theologian Michael Gorman recently shared ten theological affirmations that cut to the heart of this crisis](https://www.facebook.com/michael.gorman.587/posts/pfbid02bFxCKzk8SgssENjnc8dDmQr5pwUfydY5szhv9ZN5qac8hAo3qYsZy3LmYXtvMXrnl). His theses aren't merely academic observations, they're prophetic warnings against a distortion of Christianity that threatens both the integrity of the gospel and the witness of the church.

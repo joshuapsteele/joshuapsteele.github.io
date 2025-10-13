@@ -1,15 +1,16 @@
 ---
-title: 8 Questions to Ask While Reading Theology
-date: '2018-08-16T15:11:12Z'
 author: joshuapsteele
-categories:
-- theology
+categories: theology
+date: '2018-08-16T15:11:12Z'
+description: Beth Felker Jones' practical framework for evaluating theological texts,
+  from identifying key teachings to assessing practical implications.
 tags:
 - questions
 - reading
-description: Beth Felker Jones' practical framework for evaluating theological texts, from identifying key teachings to assessing practical implications.
+title: 8 Questions to Ask While Reading Theology
 url: /8-questions-to-ask-while-reading-theology/
 ---
+
 While reading Beth Felker Jones’ [*Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically*](https://amzn.to/2vLkeEo), I came across the following list of extremely helpful questions to ask while reading theology (on page 29).
 
 > 1. What are the key Christian teachings being articulated? What is the author’s driving concern or main theme?

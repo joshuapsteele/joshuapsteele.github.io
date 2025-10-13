@@ -1,16 +1,17 @@
 ---
-title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
-date: '2016-11-12T20:03:30Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2016-11-12T20:03:30Z'
+description: 'ABROMEIT, Hans-Jürgen. Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene
+  Christologie*.'
 tags:
 - barth
 - bonhoeffer
 - research
-description: 'ABROMEIT, Hans-Jürgen. Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene Christologie*.'
+title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
 url: /works-on-barth-and-bonhoeffer/
 ---
+
 1. ABROMEIT, Hans-Jürgen. *Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene Christologie*. Neukirchener Beiträge zur systemaschen Theologie 8. Neukirchen-Vluyn: Neukirchener Verlag, 1991.
 2. BEINTKER, Michael. “Kontingenz und Gegenständlichkeit: Zu Bonhoeffers Barth-Kritik in ‘Akt und Sein.’” In *Krisis und Gnade: Gesammelte Studien zu Karl Barth*, edited by Stefan Holtmann and Peter Zocher, 29–54. Tübingen: Mohr Siebeck, 2013.
 3. BENKTSON, Benkt-Erik. *Christus Und Die Religion: Der Religionsbegriff Bei Barth, Bonhoeffer Und Tillich*. Arbeiten Zur Theologie, II/9. Stuttgart: Calwer, 1967.

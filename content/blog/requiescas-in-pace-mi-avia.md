@@ -1,12 +1,13 @@
 ---
-title: Requiescas in Pace, Mi Avia
-date: '2013-06-23T17:41:39Z'
 author: joshuapsteele
-categories:
-- personal
-description: 'Rest in peace, grandmother: remembering her departure with the BCP''s prayer for Christian souls leaving this world.'
+categories: personal
+date: '2013-06-23T17:41:39Z'
+description: 'Rest in peace, grandmother: remembering her departure with the BCP''s
+  prayer for Christian souls leaving this world.'
+title: Requiescas in Pace, Mi Avia
 url: /requiescas-in-pace-mi-avia/
 ---
+
 ![](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/996164_10152895104580316_41022478_n.jpg)“Depart, O Christian soul, out of this world;  
 In the Name of God the Father Almighty who created you;  
 In the Name of Jesus Christ who redeemed you;  

@@ -1,14 +1,15 @@
 ---
-title: Diagnostic Toos for Homeowners
-date: '2025-01-17T06:50:09'
 author: joshuapsteele
-categories:
-- diy
+categories: productivity
+date: '2025-01-17T06:50:09'
+description: Since buying our first house about a year ago, I've gotten really into
+  DIY home repair, home improvement, etc.
 tags:
 - tools
-description: Since buying our first house about a year ago, I've gotten really into DIY home repair, home improvement, etc.
+title: Diagnostic Toos for Homeowners
 url: /diagnostic-tools-for-homeowners/
 ---
+
 Since buying our first house about a year ago, I've gotten really into DIY home repair, home improvement, etc. As a software engineer, I find that working with physical tools on physical problems is a refreshing change of pace after staring at a screen all day!
 
 Plus, it's an excuse to buy a bunch of tools!

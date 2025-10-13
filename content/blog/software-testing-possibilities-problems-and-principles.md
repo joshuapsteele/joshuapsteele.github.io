@@ -1,15 +1,16 @@
 ---
-title: 'Software Testing: Possibilities, Problems, and Principles'
-date: '2022-12-21T21:08:05Z'
 author: joshuapsteele
-categories:
-- software engineering
+categories: productivity
+date: '2022-12-21T21:08:05Z'
+description: An overview of software testing principles and practices, drawing on
+  Khorikov's Unit Testing and Aniche's Effective Software Testing.
 tags:
 - software
 - testing
-description: An overview of software testing principles and practices, drawing on Khorikov's Unit Testing and Aniche's Effective Software Testing.
+title: 'Software Testing: Possibilities, Problems, and Principles'
 url: /software-testing-possibilities-problems-and-principles/
 ---
+
 Note: Throughout what follows, I am heavily indebted to two books in particular: [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) by [Vladimir Khorikov](https://twitter.com/vkhorikov?lang=en) (Manning Publications, 2020) and [Effective Software Testing: A Developer’s Guide](https://www.manning.com/books/effective-software-testing) by [Mauricio Aniche](https://twitter.com/mauricioaniche) (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.
 
 ![Khorikov-UT-HI.png](https://res.craft.do/user/full/032236cd-2bcc-fa12-9dfe-e5564a597e07/doc/836657DD-FF3A-4CE5-8565-F6945FE45D6A/21ECE62D-593E-4825-A549-6312F555D284_2/ZCHd2JrecxcxPA1c35H2wTV0FrAzdktnxui31U1rO00z/Khorikov-UT-HI.png)

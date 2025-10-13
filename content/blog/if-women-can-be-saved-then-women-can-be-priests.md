@@ -1,17 +1,20 @@
 ---
-title: 'If Women Can Be Saved, Then Women Can Be Priests: A Critique of the ''in persona Christi'' Argument Against Women''s Ordination'
-date: '2019-09-26T05:00:18Z'
 author: Emily McGowin
 categories:
-- anglicanism
-- opinion
+- ministry
+- personal
 - theology
+date: '2019-09-26T05:00:18Z'
+description: 'Editor’s Note: The piece below represents the opinion of the author.
+  Anglican Pastor does not take a site-wide position for or against women’s ordination.'
 tags:
 - anglican compass
 - women's ordination
-description: 'Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination.'
+title: 'If Women Can Be Saved, Then Women Can Be Priests: A Critique of the ''in persona
+  Christi'' Argument Against Women''s Ordination'
 url: /if-women-can-be-saved-then-women-can-be-priests/
 ---
+
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*
 
 *After reading this piece, please see [Lee Nelson’s response](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) and [Emily McGowin’s rejoinder](http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/).*

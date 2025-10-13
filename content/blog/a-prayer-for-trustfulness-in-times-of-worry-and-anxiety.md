@@ -1,14 +1,15 @@
 ---
-title: A Prayer for Trustfulness in Times of Worry and Anxiety
-date: '2020-08-30T13:03:34Z'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2020-08-30T13:03:34Z'
+description: A BCP prayer for trust amid anxiety, asking God to lift burdens and grant
+  peace to troubled hearts.
 tags:
 - prayer
-description: A BCP prayer for trust amid anxiety, asking God to lift burdens and grant peace to troubled hearts.
+title: A Prayer for Trustfulness in Times of Worry and Anxiety
 url: /a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/
 ---
+
 I needed this prayer this morning, and I plan to return to it often in the days ahead.
 
 > Most loving Father, you will us to give thanks for all things, to dread nothing but the loss of you, and to cast all our care on the One who cares for us. Preserve us from faithless fears and worldly anxieties, and grant that no clouds of this mortal life may hide from us the light of that love which is immortal, and which you have manifested unto us in your Son, Jesus Christ our Lord. Amen.

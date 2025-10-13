@@ -1,15 +1,16 @@
 ---
-title: Home Improvement Roadmap and Roadblocks
-date: '2024-07-14T16:26:44Z'
 author: joshuapsteele
-categories:
-- tools
+categories: productivity
+date: '2024-07-14T16:26:44Z'
+description: We bought our first house in late 2023 and, since moving-in in January
+  2024, I’ve been chipping away at home improvement projects.
 tags:
 - drafts
 - home improvement
-description: We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects.
+title: Home Improvement Roadmap and Roadblocks
 url: /home-improvement-roadmap-and-roadblocks/
 ---
+
 We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.
 
 Now, some upcoming projects will clearly outstrip my capabilities and I plan to hire professionals:

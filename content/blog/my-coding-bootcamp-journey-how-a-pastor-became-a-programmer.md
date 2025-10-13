@@ -1,20 +1,22 @@
 ---
-title: 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
-date: '2023-02-03T17:42:02Z'
+advanced_seo_description: tech via a coding bootcamp (Tech Elevator).
 author: joshuapsteele
 categories:
 - personal
-- software engineering
+- productivity
+date: '2023-02-03T17:42:02Z'
+description: From Bible major to bi-vocational ministry to software engineer—how I
+  made the career transition through coding bootcamp.
+jetpack_seo_html_title: null
 tags:
 - coding
 - coding bootcamp
 - programming
 - software
-description: From Bible major to bi-vocational ministry to software engineer—how I made the career transition through coding bootcamp.
+title: 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 url: /my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/
-advanced_seo_description: tech via a coding bootcamp (Tech Elevator).
-jetpack_seo_html_title: null
 ---
+
 When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.
 
 So, throughout undergrad, seminary, and into a Ph.D. program in theology, the notion of “bi-vocational ministry” (serving the church while also making money outside of the church doing something else) was on my radar screen.

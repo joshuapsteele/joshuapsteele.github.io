@@ -1,17 +1,19 @@
 ---
-title: 'To Be or Not To Be Religious: A Clarification of Karl Barth''s and Dietrich Bonhoeffer''s Divergence and Convergence Regarding Religion'
-date: '2016-12-31T18:15:34Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2016-12-31T18:15:34Z'
+description: Clarifying how Barth and Bonhoeffer both inherited and transformed post-Kantian
+  understandings of religion in Christian theology.
 tags:
 - barth
 - bonhoeffer
 - religion
 - research
-description: Clarifying how Barth and Bonhoeffer both inherited and transformed post-Kantian understandings of religion in Christian theology.
+title: 'To Be or Not To Be Religious: A Clarification of Karl Barth''s and Dietrich
+  Bonhoeffer''s Divergence and Convergence Regarding Religion'
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
 ---
+
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
 
 Christian theologians Karl Barth (1886-1968) and Dietrich Bonhoeffer (1906-1945) inherited a particular understanding of religion. In the broadly post-Kantian milieu, nineteenth-century thinkers such as Friedrich Schleiermacher, Albrecht Ritschl, and Adolf von Harnack defined religion essentially, anthropologically, and subjectively. That is, religion has a particular essence, and is in some manner inalienable from our humanity. The emphasis of this conception is on the experience of the religious subject, instead of the knowledge of religion’s object (let alone its reality).[\[1\]](#_ftn1) It is this notion of religion that both Barth and Bonhoeffer challenged.

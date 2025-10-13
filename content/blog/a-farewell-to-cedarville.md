@@ -1,12 +1,13 @@
 ---
-title: A Farewell to Cedarville
-date: '2013-04-24T06:00:34Z'
 author: joshuapsteele
-categories:
-- personal
-description: Conversations with professors, administrators, and trustees who left or were removed as Cedarville University shifted from future vision to past agenda.
+categories: personal
+date: '2013-04-24T06:00:34Z'
+description: Conversations with professors, administrators, and trustees who left
+  or were removed as Cedarville University shifted from future vision to past agenda.
+title: A Farewell to Cedarville
 url: /a-farewell-to-cedarville/
 ---
+
 ***(Originally posted in [The Ventriloquist](http://www.theventriloquist.us/). Go check out the rest of [Issue 10](http://www.theventriloquist.us/)!)***
 
 **“A Farewell to Cedarville” – Joshua Steele**

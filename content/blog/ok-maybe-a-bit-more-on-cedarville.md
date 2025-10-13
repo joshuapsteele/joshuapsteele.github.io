@@ -1,14 +1,15 @@
 ---
-title: Ok, Maybe a Bit More on Cedarville!
-date: '2014-03-20T11:46:15Z'
 author: joshuapsteele
-categories:
-- personal
-description: 'You’ll notice that the previous post on Cedarville ends with a link to the Course Schedule: “Class Limited to Women” … I know, ludicrous.'
-url: /ok-maybe-a-bit-more-on-cedarville/
+categories: personal
+date: '2014-03-20T11:46:15Z'
+description: 'You’ll notice that the previous post on Cedarville ends with a link
+  to the Course Schedule: “Class Limited to Women” … I know, ludicrous.'
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: Ok, Maybe a Bit More on Cedarville!
+url: /ok-maybe-a-bit-more-on-cedarville/
 ---
+
 You’ll notice that [the previous post on Cedarville](https://joshuapsteele.com/2014/03/18/cedarville-2/) ends with a link to [the Course Schedule](http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm):
 
 [![Image](https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650)](https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png)

@@ -1,16 +1,18 @@
 ---
-title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading List This Fall'
-date: '2016-08-26T20:30:34Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2016-08-26T20:30:34Z'
+description: My directed study reading list exploring Karl Barth and Dietrich Bonhoeffer's
+  theological critique of religion at Beeson.
 tags:
 - barth
 - bonhoeffer
 - research
-description: My directed study reading list exploring Karl Barth and Dietrich Bonhoeffer's theological critique of religion at Beeson.
+title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading List
+  This Fall'
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/
 ---
+
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
 
 This semester — my final one at [Beeson Divinity School](http://www.beesondivinity.com/) — I’m doing a directed study with [Piotr Malysz](http://www.beesondivinity.com/piotrjmalysz) on the topic of “Religion” in Karl Barth and Dietrich Bonhoeffer.

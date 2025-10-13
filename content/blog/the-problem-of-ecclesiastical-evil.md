@@ -1,14 +1,15 @@
 ---
-title: The Problem of Ecclesiastical Evil
-date: '2024-03-08T12:26:14Z'
 author: joshuapsteele
-categories:
-- uncategorized
+categories: []
+date: '2024-03-08T12:26:14Z'
+description: You’ve probably heard of “the problem of evil” (if not, here’s an overview).
+  But there’s a specific version/aspect of it that I find even more devastating.
 tags:
 - drafts
-description: You’ve probably heard of “the problem of evil” (if not, here’s an overview). But there’s a specific version/aspect of it that I find even more devastating.
+title: The Problem of Ecclesiastical Evil
 url: /the-problem-of-ecclesiastical-evil/
 ---
+
 You’ve probably heard of “the problem of evil” (if not, [here’s an overview](https://en.wikipedia.org/wiki/Problem_of_evil)). But there’s a specific version/aspect of it that I find even more devastating.
 
 If God is omnipotent (all-powerful), ommniscient (all-knowing(, and omnibenevolent (completely good)…

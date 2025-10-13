@@ -1,15 +1,17 @@
 ---
-title: 'Essential Reads for New Software Developers: The Effective Engineer and The Missing README'
-date: '2023-07-03T21:08:09Z'
 author: joshuapsteele
-categories:
-- software engineering
+categories: productivity
+date: '2023-07-03T21:08:09Z'
+description: Are you stepping into the exciting world of software engineering, or
+  considering whether to take that leap.
 tags:
 - books
 - reviews
-description: Are you stepping into the exciting world of software engineering, or considering whether to take that leap.
+title: 'Essential Reads for New Software Developers: The Effective Engineer and The
+  Missing README'
 url: /essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/
 ---
+
 Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.
 
 However, it’s essential to understand that coding and programming skills, while crucial, are just one part of a broader equation. Equally important is the bigger picture of how software development fits into the wider professional and business environment.

@@ -1,15 +1,16 @@
 ---
-title: Who really cares about the Trinity in 2020?
-date: '2020-06-07T13:02:06Z'
 author: joshuapsteele
-categories:
-- sermons
+categories: theology
+date: '2020-06-07T13:02:06Z'
+description: 'A Trinity Sunday sermon connecting Father, Son, and Holy Spirit to racial
+  justice: why Trinitarian theology matters in 2020.'
 tags:
 - racism
 - sermons
-description: 'A Trinity Sunday sermon connecting Father, Son, and Holy Spirit to racial justice: why Trinitarian theology matters in 2020.'
+title: Who really cares about the Trinity in 2020?
 url: /who-really-cares-about-the-trinity-in-2020/
 ---
+
 *([To listen to the audio of this sermon as it was preached on June 6, 2020, click here.](https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele/))*
 
 Christians believe that there is one God in three persons—Father, Son, and Holy Spirit.

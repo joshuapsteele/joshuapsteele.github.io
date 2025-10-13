@@ -1,12 +1,13 @@
 ---
-title: 'Systematic Theologies: A List (Help Me Update!)'
-date: '2018-09-19T15:10:18Z'
 author: joshuapsteele
-categories:
-- theology
-description: A curated list of systematic theology works, compiled from Glynn's Commentary and Reference Survey—help me keep it updated!
+categories: theology
+date: '2018-09-19T15:10:18Z'
+description: A curated list of systematic theology works, compiled from Glynn's Commentary
+  and Reference Survey—help me keep it updated!
+title: 'Systematic Theologies: A List (Help Me Update!)'
 url: /systematic-theologies-a-list-help-me-update/
 ---
+
 # SYSTEMATIC THEOLOGIES: A LIST
 
 I put together the following list, using the 10th edition of John Glynn’s *Commentary and Reference Survey* (Kegel, 2007) as a starting point.

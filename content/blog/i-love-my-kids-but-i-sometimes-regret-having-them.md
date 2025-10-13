@@ -1,14 +1,15 @@
 ---
-title: I Love My Kids, But I Sometimes Regret Having Them
-date: '2024-09-24T08:51:00Z'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2024-09-24T08:51:00Z'
+description: I love my kids, but I sometimes regret having them. Pardon the clickbait-y
+  title and opening sentence. But are we parents allowed to say that.
 tags:
 - parenting
-description: I love my kids, but I sometimes regret having them. Pardon the clickbait-y title and opening sentence. But are we parents allowed to say that.
+title: I Love My Kids, But I Sometimes Regret Having Them
 url: /i-love-my-kids-but-i-sometimes-regret-having-them/
 ---
+
 I love my kids, but I sometimes regret having them.
 
 Pardon the clickbait-y title and opening sentence. But are we parents allowed to say that? Are we allowed to feel both of those things at once?

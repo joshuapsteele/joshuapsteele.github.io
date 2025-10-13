@@ -1,16 +1,19 @@
 ---
-title: 'Taking Scripture and Women’s Ordination Seriously: A Response to Blake Johnson and Lee Nelson'
-date: '2019-11-18T15:31:52Z'
 author: Emily McGowin
 categories:
-- opinion
+- personal
 - theology
+date: '2019-11-18T15:31:52Z'
+description: 'Editor’s Note: Thank you to the Rev. Emily McGowin for writing this
+  rejoinder to Fr.'
 tags:
 - anglican compass
 - women's ordination
-description: 'Editor’s Note: Thank you to the Rev. Emily McGowin for writing this rejoinder to Fr.'
+title: 'Taking Scripture and Women’s Ordination Seriously: A Response to Blake Johnson
+  and Lee Nelson'
 url: /taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/
 ---
+
 *Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to [Fr. Blake Johnson’s](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson’s](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) responses to [her original blog post](http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/) about the* in persona Christi *argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.*
 
 ---

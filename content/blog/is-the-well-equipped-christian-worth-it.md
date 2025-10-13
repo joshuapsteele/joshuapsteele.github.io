@@ -1,12 +1,12 @@
 ---
-title: Is The Well-Equipped Christian Worth It?
-date: '2017-01-31T23:13:18Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2017-01-31T23:13:18Z'
 description: Have you ever had a problem finding a reliable resource for recommendations.
+title: Is The Well-Equipped Christian Worth It?
 url: /is-the-well-equipped-christian-worth-it/
 ---
+
 Have you ever had a problem finding a reliable resource for recommendations?
 
 I have.

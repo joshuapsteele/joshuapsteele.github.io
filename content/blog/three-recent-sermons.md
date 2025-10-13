@@ -1,13 +1,13 @@
 ---
-title: Three Recent Sermons
-date: '2016-03-11T20:56:19Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: It’s been a grueling past few weeks at Beeson. Our Spring Break happens to coincide with Holy Week this year, and it can’t come quickly enough.
+categories: theology
+date: '2016-03-11T20:56:19Z'
+description: It’s been a grueling past few weeks at Beeson. Our Spring Break happens
+  to coincide with Holy Week this year, and it can’t come quickly enough.
+title: Three Recent Sermons
 url: /three-recent-sermons/
 ---
+
 It’s been a grueling past few weeks at [Beeson](http://www.beesondivinity.com/). Our Spring Break happens to coincide with Holy Week this year, and it can’t come quickly enough!
 
 Part of the hard work has been preparing to preach three sermons for class. However, the opportunity to study and preach God’s Word is a joy that outweighs the burdens of preparation!

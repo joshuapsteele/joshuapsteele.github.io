@@ -1,14 +1,15 @@
 ---
-title: Back in the Saddle
-date: '2024-03-07T21:24:37Z'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2024-03-07T21:24:37Z'
+description: I know I’m not alone in this, but the past few years have been pretty
+  rough for me. - I’ve gained at least 50 pounds.
 tags:
 - drafts
-description: I know I’m not alone in this, but the past few years have been pretty rough for me. - I’ve gained at least 50 pounds.
+title: Back in the Saddle
 url: /back-in-the-saddle/
 ---
+
 I know I’m not alone in this, but the past few years have been pretty rough for me.
 
 - I’ve gained at least 50 pounds.

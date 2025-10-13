@@ -1,12 +1,13 @@
 ---
-title: Finding a Hat for My Big, Bald Head
-date: '2024-04-26T12:48:48Z'
 author: joshuapsteele
-categories:
-- personal
-description: I’ve been on a lifelong journey to find hats that will fit my big ol’ head.
+categories: personal
+date: '2024-04-26T12:48:48Z'
+description: I’ve been on a lifelong journey to find hats that will fit my big ol’
+  head.
+title: Finding a Hat for My Big, Bald Head
 url: /finding-a-hat-for-my-big-bald-head/
 ---
+
 I’ve been on a lifelong journey to find hats that will fit my big ol’ head. Now that I’m bald, and the summer months are approaching, I figured it would be good to find one or two more hats to add to my rotation.
 
 I’ve narrowed this round down to trying the following hats, in case you’re interested (Amazon affiliate links below):

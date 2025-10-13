@@ -1,13 +1,13 @@
 ---
-title: It is Finished! So, Get to Work! – A Sermon on the Ascension
-date: '2017-06-13T01:29:13Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: The following is an “It is Finished” sermon preached on Ascension Sunday, 2017.
+categories: theology
+date: '2017-06-13T01:29:13Z'
+description: The following is an “It is Finished” sermon preached on Ascension Sunday,
+  2017.
+title: It is Finished! So, Get to Work! – A Sermon on the Ascension
 url: /it-is-finished-so-get-to-work-an-ascension-sermon/
 ---
+
 *The following is an “It is Finished” sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:*
 
 <audio class="wp-audio-shortcode" controls="controls" id="audio-39721-4" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3?_=4" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3></audio>

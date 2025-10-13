@@ -1,12 +1,13 @@
 ---
-title: 6 Things I'm Excited About (2024-08-04)
-date: '2024-09-04T10:51:34Z'
 author: joshuapsteele
-categories:
-- uncategorized
-description: Sweater weather, weight loss with Zepbound, football season, new tools, theological reading, and learning auto repair on a 1999 Dodge Ram.
+categories: []
+date: '2024-09-04T10:51:34Z'
+description: Sweater weather, weight loss with Zepbound, football season, new tools,
+  theological reading, and learning auto repair on a 1999 Dodge Ram.
+title: 6 Things I'm Excited About (2024-08-04)
 url: /6-things-im-excited-about-2024-08-04/
 ---
+
 1. Sweater weather
 2. Losing weight with some help from Zepbound
 3. Football season (pulling for the Detroit Lions and the University of Michigan Wolverines)

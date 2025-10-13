@@ -1,12 +1,13 @@
 ---
-title: Open Letter to Cedarville Admins and Trustees
-date: '2013-01-13T21:22:06Z'
 author: joshuapsteele
-categories:
-- personal
-description: 'To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.'
+categories: personal
+date: '2013-01-13T21:22:06Z'
+description: 'To my sisters and brothers in Christ, entrusted with the arduous task
+  of leading and directing Cedarville University: greetings, grace, and peace.'
+title: Open Letter to Cedarville Admins and Trustees
 url: /open-letter-to-cedarville-admins-and-trustees/
 ---
+
 To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.
 
 Allow me to thank you all for your countless hours of service to this institution. I do not want to underestimate your care and concern for this place. In fact, I want to reassure you that [I share your passion](http://windowinthesky.wordpress.com/2012/09/12/my-unforgettable-cedarville-experience/ "My Unforgettable Cedarville Experience"). Here at Cedarville I have been blessed with the opportunity of meeting, falling in love with, and marrying my wife. Even more importantly, at Cedarville I have fallen in love with the Gospel. Thanks to godly men and women here – whose vision of God, his Word, and his world I’ve been privileged to catch – my eyes have been opened to the richness, complexity, and scope of God’s redemptive mission.

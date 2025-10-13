@@ -1,14 +1,14 @@
 ---
-title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
-date: '2018-03-05T06:00:28Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2018-03-05T06:00:28Z'
+description: Reading is the closest thing that human beings have to a superpower.
 tags:
 - reading
-description: Reading is the closest thing that human beings have to a superpower.
+title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
 url: /one-simple-trick-helps-read-faster-ph-d-student/
 ---
+
 Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.
 
 But, I mean, come on. Who has enough time to read? I don’t know about you, but I’ve got a stack of books a mile high that I’d like to work my way through.

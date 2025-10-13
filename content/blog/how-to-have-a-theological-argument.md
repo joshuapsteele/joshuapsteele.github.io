@@ -1,10 +1,12 @@
 ---
-title: How to Have a Theological Argument Without Hating Each Other
-date: 2025-08-13 09:00:00-04:00
+TocOpen: false
 author: joshuapsteele
-categories:
-- theology
-- discipleship
+categories: theology
+date: 2025-08-13 09:00:00-04:00
+description: Tired of hearing Christians go nuclear over a verse in Revelation or
+  a line from Genesis.
+draft: false
+showToc: true
 tags:
 - theology
 - bible
@@ -12,12 +14,10 @@ tags:
 - church
 - conflict
 - discipleship
-description: Tired of hearing Christians go nuclear over a verse in Revelation or a line from Genesis.
+title: How to Have a Theological Argument Without Hating Each Other
 url: /how-to-have-a-theological-argument/
-draft: false
-showToc: true
-TocOpen: false
 ---
+
 Tired of hearing Christians go nuclear over a verse in Revelation or a line from Genesis? Me too. We can do better. (Note: I've frequently failed at this myself, so consider this a reminder for me as much as for you.)
 
 Here’s how to have a theological argument without losing your cool — or your brother or sister in Christ.

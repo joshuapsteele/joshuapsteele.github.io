@@ -1,18 +1,19 @@
 ---
-title: 'Devs: How Does Your Personal Laptop Compare to Your Work Laptop?'
-date: 2025-04-09 08:49:29-04:00
+TocOpen: false
 author: joshuapsteele
-categories:
-- technology
+categories: productivity
+date: 2025-04-09 08:49:29-04:00
+description: How does your personal machine compare to your work laptop. If you were
+  going to get a new personal computer/laptop today, what would you go with.
+draft: false
+showToc: false
 tags:
 - laptop
 - computer
-description: How does your personal machine compare to your work laptop. If you were going to get a new personal computer/laptop today, what would you go with.
+title: 'Devs: How Does Your Personal Laptop Compare to Your Work Laptop?'
 url: /personal-vs-work-laptop/
-draft: false
-showToc: false
-TocOpen: false
 ---
+
 How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with? 
 
 Just curious as I consider replacing my aging 2016 MacBook Pro as my personal laptop (especially since [costs might go up soon for electronics, due to tariffs](https://www.wired.com/story/tariffs-are-going-to-make-your-electronics-more-expensive/)). 

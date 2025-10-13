@@ -1,14 +1,15 @@
 ---
-title: The Perfect Translation
-date: '2013-12-15T09:20:56Z'
 author: joshuapsteele
-categories:
-- bible
-description: Reviewing Waltke's Dance Between God and Humanity and Goodwin's Translating the English Bible for Liverpool Hope's journal.
-url: /the-perfect-translation/
+categories: theology
+date: '2013-12-15T09:20:56Z'
+description: Reviewing Waltke's Dance Between God and Humanity and Goodwin's Translating
+  the English Bible for Liverpool Hope's journal.
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: The Perfect Translation
+url: /the-perfect-translation/
 ---
+
 Over the break between semesters at [Beeson Divinity School](http://www.beesondivinity.com/), I’m reviewing Bruce Waltke’s [*The Dance Between God and Humanity: Reading the Bible Today as the People of God*](http://www.eerdmans.com/Products/6736/the-dance-between-god-and-humanity.aspx) and Philip Goodwin’s *[Translating the English Bible: From Relevance to Deconstruction](http://www.amazon.com/Translating-English-Bible-Relevance-Deconstruction/dp/0227173910)* for [Liverpool Hope University’s Theological Book Review](http://www.hope.ac.uk/theologicalbookreview/).
 
 ![](http://img1.imagesbn.com/p/9780227173916_p0_v2_s260x420.JPG)I’ve just finished the latter, and hope to write my review in the next day or two. However, I’d like to share the following quotes on *Deconstructive Literalism* and *The Perfect Translation*, because I find the concepts intriguing as a student of [Eugene Nida’s dynamic or functional equivalence](http://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence) (when it comes to both NT Greek and modern Spanish), and a newcomer to [relevance theory](http://en.wikipedia.org/wiki/Relevance_theory), which Goodwin uses to provide a way forward in the shadow of the KJV tradition. More on that later. In the meantime:

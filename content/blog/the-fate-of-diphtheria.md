@@ -1,12 +1,16 @@
 ---
-title: 'The Fate of Diphtheria'
-date: 2025-10-13T08:09:09-04:00
-draft: false
-author: joshuapsteele
-tags: [music, poetry, satire, public health]
-categories: []
-showToc: true
 TocOpen: false
+author: joshuapsteele
+categories: null
+date: 2025-10-13 08:09:09-04:00
+draft: false
+showToc: true
+tags:
+- music
+- poetry
+- satire
+- public health
+title: The Fate of Diphtheria
 url: /the-fate-of-diphtheria/
 ---
 
@@ -109,4 +113,4 @@ The fate of Diphtheria
 The fate of Diphtheria...  
 All because they stopped believing...  
 All because we stopped the healing...  
-The fate of Diphtheria...  
+The fate of Diphtheria...

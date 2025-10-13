@@ -1,14 +1,15 @@
 ---
-title: 'From a Grateful Son: A Mother''s Day Poem'
-date: 2009-05-10
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: 2009-05-10
+description: The following is an original Mother’s Day poem of mine, that I wrote
+  for my mom (the best mom ever, of course) back in 2009.
 tags:
 - poetry
-description: The following is an original Mother’s Day poem of mine, that I wrote for my mom (the best mom ever, of course) back in 2009.
+title: 'From a Grateful Son: A Mother''s Day Poem'
 url: /mothers-day-poem/
 ---
+
 The following is an original Mother’s Day poem of mine, that I wrote for my mom (the best mom ever, of course) back in 2009. It’s called “From a Grateful Son,” and I hope that you enjoy it.
 
 ## From a Grateful Son – A Poem for My Mother

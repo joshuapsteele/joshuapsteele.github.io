@@ -1,12 +1,13 @@
 ---
-title: What is the Best Budget Smart TV?
-date: '2025-01-13T14:36:09-05:00'
 author: joshuapsteele
-categories:
-- reviews
-description: In November 2024, I bought a 55-inch Hisense U6 4K Smart TV on sale for $350. It's been great so far. Definitely an upgrade over our old Samsung.
+categories: productivity
+date: '2025-01-13T14:36:09-05:00'
+description: In November 2024, I bought a 55-inch Hisense U6 4K Smart TV on sale for
+  $350. It's been great so far. Definitely an upgrade over our old Samsung.
+title: What is the Best Budget Smart TV?
 url: /best-budget-smart-tv/
 ---
+
 In November 2024, I bought a [55-inch Hisense U6 4K Smart TV](https://amzn.to/3C4AoOG) on sale for $350. It's been great so far! Definitely an upgrade over our old Samsung.
 
 I'm not a TV expert, but I did a fair bit of research and the consensus seems to be that the Hisense U6 series is a great deal for the money.

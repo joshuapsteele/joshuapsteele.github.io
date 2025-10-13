@@ -1,13 +1,15 @@
 ---
-title: 'Scripture: What The Bible Is And Why It Matters'
-date: '2013-10-02T13:01:12Z'
 author: joshuapsteele
 categories:
-- bible
 - ethics
-description: 'A theological statement: Scripture as the Spirit''s illocutionary act testifying to the Son, accomplishing redemption in God''s people.'
+- theology
+date: '2013-10-02T13:01:12Z'
+description: 'A theological statement: Scripture as the Spirit''s illocutionary act
+  testifying to the Son, accomplishing redemption in God''s people.'
+title: 'Scripture: What The Bible Is And Why It Matters'
 url: /on-scripture/
 ---
+
 ## INTRODUCTION: THE NATURE OF SCRIPTURE
 
 As the [illocutionary act](https://en.wikipedia.org/wiki/Illocutionary_act) which testifies to the Son of God[^1] as the ultimate redemptive and revelatory [locution](https://en.wikipedia.org/wiki/Locutionary_act) of the the triune God, Scripture is used by the Spirit of God to accomplish the [perlocutionary end](https://en.wikipedia.org/wiki/Perlocutionary_act) of redemption *of*, *in*, and *through* the people of God.[^2]

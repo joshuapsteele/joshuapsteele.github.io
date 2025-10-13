@@ -1,14 +1,15 @@
 ---
-title: Questions Worth Asking (Self-Elicitation Questions)
-date: 2022-11-08
 author: joshuapsteele
-categories:
-- uncategorized
+categories: []
+date: 2022-11-08
+description: These are questions that are always worth asking yourself. For a list
+  of questions I'm currently asking and investigating, see my page.
 tags:
 - questions
-description: These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see my page.
+title: Questions Worth Asking (Self-Elicitation Questions)
 url: /questions-worth-asking/
 ---
+
 These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see [my `/questions` page](/questions).
 
 ## Five-Minute Journal Questions
@@ -185,4 +186,4 @@ These are questions that are always worth asking yourself. For a list of questio
 - What happens if I ignore it and do nothing?
 - Should I learn a lesson from this, or just move on?
 - How can I blame no one, and see this as nobody’s fault?
-- How can I be OK no matter what happens? 
+- How can I be OK no matter what happens?

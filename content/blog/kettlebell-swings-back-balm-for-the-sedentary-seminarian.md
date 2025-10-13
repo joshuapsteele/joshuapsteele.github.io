@@ -1,12 +1,12 @@
 ---
-title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
-date: '2016-05-25T23:53:49Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2016-05-25T23:53:49Z'
 description: Books, however, do not like my back.
+title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
 ---
+
 I love books. Books, however, do not like my back.
 
 Can you relate?

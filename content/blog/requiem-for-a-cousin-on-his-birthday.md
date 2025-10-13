@@ -1,14 +1,14 @@
 ---
-title: Requiem for a Cousin on His Birthday
-date: '2024-09-28T09:00:54Z'
-author: joshuapsteele
-categories:
-- personal
-description: Today should have been my cousin Eric's 32nd birthday.
-url: /requiem-for-a-cousin-on-his-birthday/
 activitypub_status: null
+author: joshuapsteele
+categories: personal
+date: '2024-09-28T09:00:54Z'
+description: Today should have been my cousin Eric's 32nd birthday.
 showtoc: false
+title: Requiem for a Cousin on His Birthday
+url: /requiem-for-a-cousin-on-his-birthday/
 ---
+
 Today should have been my cousin Eric's 32nd birthday.
 
 Instead, having lost him earlier this year to some serious health complications after a devastating motorcycle accident, we gathered to remember him and celebrate his life.
@@ -90,4 +90,4 @@ So, put your faith in the risen, wounded Christ. Join Him in the fight against D
 
 And, if you're suffering, then, in memory of my cousin Eric, don't suffer alone. 
 
-Instead, look around and find someone else who needs a friend for tough times. A brother—a cousin, even!—born for adversity. 
+Instead, look around and find someone else who needs a friend for tough times. A brother—a cousin, even!—born for adversity.

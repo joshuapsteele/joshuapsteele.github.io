@@ -1,16 +1,18 @@
 ---
-title: 'What the Bible Says About Poverty: The Book of Proverbs'
-date: 2011-02-10
 author: joshuapsteele
 categories:
-- bible
 - ethics
+- theology
+date: 2011-02-10
+description: 'Introduction: Poverty and Wealth In contrast to the affluence of mainstream
+  American culture, poverty is a harsh and painful reality.'
 tags:
 - poverty
 - proverbs
-description: 'Introduction: Poverty and Wealth In contrast to the affluence of mainstream American culture, poverty is a harsh and painful reality.'
+title: 'What the Bible Says About Poverty: The Book of Proverbs'
 url: /bible-poverty-proverbs
 ---
+
 # Introduction: Poverty and Wealth
 
 In contrast to the affluence of mainstream American culture, poverty is a harsh and painful reality. It can be found in abundance in the urban centers of this country, and in countless other places around the globe.

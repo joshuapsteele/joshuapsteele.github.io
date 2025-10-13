@@ -1,15 +1,16 @@
 ---
-title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
-date: '2013-02-07T07:48:55Z'
+activitypub_status: null
 author: joshuapsteele
 categories:
-- bible
-- theology
 - ethics
-description: Without context, words can mean anything and everything, and therefore mean nothing.
+- theology
+date: '2013-02-07T07:48:55Z'
+description: Without context, words can mean anything and everything, and therefore
+  mean nothing.
+title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
-activitypub_status: null
 ---
+
 Without context, words can mean anything and everything, and therefore mean nothing. It is only through the delimiting influence of context that words, phrases, sentences, and paragraphs have any meaning at all.
 
 Although this seems simple enough, it is often forgotten when interpreting the Bible. Due to influences as simple as our versification of the biblical text and as complex as the historical/theological developments which have dictated how we teach and interpret the Scriptures, many interpreters (wittingly or unwittingly) ignore context when trying to ascertain the meaning of particular biblical texts.

@@ -1,14 +1,15 @@
 ---
-title: Cedarville!
-date: '2014-03-18T17:11:59Z'
 author: joshuapsteele
-categories:
-- personal
-description: Why I can't be proud of Cedarville University anymore, and why prospective students should consider other Christian colleges.
-url: /cedarville-2/
+categories: personal
+date: '2014-03-18T17:11:59Z'
+description: Why I can't be proud of Cedarville University anymore, and why prospective
+  students should consider other Christian colleges.
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: Cedarville!
+url: /cedarville-2/
 ---
+
 ![](http://img2.findthebest.com/sites/default/files/10/media/images/Cedarville_University_220560.gif)I wish I could say I was proud of my alma mater…
 
 Despite my Lenten Facebook fast, I was made aware of **the following post** by my friend [**Marlena Graves**](http://marlenagraves.com/). I thought I’d share it, just in case anyone is considering Cedarville as a choice for college. I’d still strongly recommend you attend another institution, where you can trust the administration. My [previous thoughts](https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/) on[ these matters](https://joshuapsteele.com/2013/02/19/oh-cedarville/) still [stand](http://fiatlux125.wordpress.com/).

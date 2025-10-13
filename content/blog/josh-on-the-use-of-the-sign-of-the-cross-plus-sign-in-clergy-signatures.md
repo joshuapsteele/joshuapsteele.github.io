@@ -1,14 +1,15 @@
 ---
-title: Josh+? On the use of the sign of the cross (plus sign) in clergy signatures
-date: '2020-09-04T13:57:32Z'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2020-09-04T13:57:32Z'
+description: This is, admittedly, a half-baked opinion. However, I need to get back
+  in the habit of blogging/writing regularly, so here goes.
 tags:
 - opinion
-description: This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.
+title: Josh+? On the use of the sign of the cross (plus sign) in clergy signatures
 url: /josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/
 ---
+
 This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.
 
 In my opinion, the use of the sign of the cross in clergy names/signatures—unless it’s done in official ecclesiastical communication or immediately after a blessing or prayer for the recipient—is pretentious. It’s showy. At the very least, it conveys or connotes pretentiousness.

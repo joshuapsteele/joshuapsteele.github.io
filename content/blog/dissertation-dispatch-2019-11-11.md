@@ -1,17 +1,18 @@
 ---
-title: 'Dissertation Dispatch: 2019-11-11'
-date: '2019-11-11T18:58:55Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-11-11T18:58:55Z'
+description: I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. Originally,
+  my dissertation proposal cast a very wide net.
 tags:
 - barth
 - bible
 - bonhoeffer
 - research
-description: I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. Originally, my dissertation proposal cast a very wide net.
+title: 'Dissertation Dispatch: 2019-11-11'
 url: /dissertation-dispatch-2019-11-11/
 ---
+
 ## I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. 
 
 Originally, my dissertation proposal cast a very wide net. I was going to have the following chapters:

@@ -1,16 +1,17 @@
 ---
-title: What's gone wrong with the Digital Karl Barth Library?
-date: '2018-11-14T15:29:55Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2018-11-14T15:29:55Z'
+description: 'Dissertation frustrations: longing for a complete, translated Barth
+  Gesamtausgabe and a fully functional Digital Karl Barth Library.'
 tags:
 - barth
 - bonhoeffer
 - research
-description: 'Dissertation frustrations: longing for a complete, translated Barth Gesamtausgabe and a fully functional Digital Karl Barth Library.'
+title: What's gone wrong with the Digital Karl Barth Library?
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
 ---
+
 As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion”)](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/), I’m longing for the day when:
 
 - Karl Barth’s [*Gesamtausgabe* (Collected Edition)](http://barth.ptsem.edu/research/kb-gesamtausgabe) is finished.

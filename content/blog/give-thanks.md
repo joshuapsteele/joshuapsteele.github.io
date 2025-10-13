@@ -1,14 +1,14 @@
 ---
-title: Give Thanks!
-date: '2015-04-24T09:15:25Z'
 author: joshuapsteele
-categories:
-- ethics
+categories: ethics
+date: '2015-04-24T09:15:25Z'
 description: I'm not the most thankful person.
-url: /give-thanks/
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: Give Thanks!
+url: /give-thanks/
 ---
+
 I'm not the most thankful person.
 
 However, I am a follower of Jesus, and one of the lessons I've been learning this semester is that <u>**praise**</u>, <u>**thanksgiving**</u>, and <u>**gratitude**</u> are closely intertwined. Worship should involve the public proclamation of who God is and what He has done — including specific, personal declarations of thanksgiving for God's grace and good gifts.

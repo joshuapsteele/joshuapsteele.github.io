@@ -1,12 +1,14 @@
 ---
-title: 'An 80/20 Approach to the Christian Life: 2 Reasons Why Christians Should Care About the Pareto Principle'
-date: '2018-01-30T12:48:49Z'
 author: joshuapsteele
-categories:
-- productivity
-description: 'Applying the Pareto Principle to Christian discipleship: how focusing on the vital few can transform your spiritual productivity.'
+categories: productivity
+date: '2018-01-30T12:48:49Z'
+description: 'Applying the Pareto Principle to Christian discipleship: how focusing
+  on the vital few can transform your spiritual productivity.'
+title: 'An 80/20 Approach to the Christian Life: 2 Reasons Why Christians Should Care
+  About the Pareto Principle'
 url: /80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/
 ---
+
 Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?
 
 I’m right there with you! That’s why I’ve made “[Get Your Act Together (Productivity and Time Management)](https://joshuapsteele.com/category/productivity-and-time-management/)” the first of my [Steps to Find Purpose and Meaning in Life](https://joshuapsteele.com/start-here/).

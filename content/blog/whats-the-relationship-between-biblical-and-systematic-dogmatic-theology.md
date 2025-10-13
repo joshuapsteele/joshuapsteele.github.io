@@ -1,16 +1,16 @@
 ---
-title: What's the relationship between biblical and systematic/dogmatic theology?
-date: '2019-01-23T15:18:31Z'
 author: joshuapsteele
-categories:
-- bible
-- theology
+categories: theology
+date: '2019-01-23T15:18:31Z'
+description: This is the question we’re considering this week in our doctoral seminar
+  on biblical and theological integration.
 tags:
 - bible
 - theology
-description: This is the question we’re considering this week in our doctoral seminar on biblical and theological integration.
+title: What's the relationship between biblical and systematic/dogmatic theology?
 url: /whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/
 ---
+
 This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!
 
 *(Note: we’ll have to save the difference(s) between systematic, historical, and dogmatic theology for another post!)*

@@ -1,12 +1,13 @@
 ---
-title: 'Principles: 10 Imperatives for the Good Life'
-date: '2017-10-17T16:18:56Z'
 author: joshuapsteele
-categories:
-- productivity
-description: Why write out a list of principles. For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.
+categories: productivity
+date: '2017-10-17T16:18:56Z'
+description: Why write out a list of principles. For one thing, it’s my birthday.
+  And, although I’m only in my twenties, I’m feeling a bit reflective.
+title: 'Principles: 10 Imperatives for the Good Life'
 url: /principles-10-imperatives-good-life/
 ---
+
 Why write out a list of principles?
 
 For one thing, it’s my birthday. And, although I’m only in my twenties, I’m feeling a bit reflective.

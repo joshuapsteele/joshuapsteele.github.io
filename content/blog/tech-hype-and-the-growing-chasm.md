@@ -1,18 +1,19 @@
 ---
-title: Tech Hype and the Growing Chasm
-date: 2025-07-31 08:11:02-04:00
+TocOpen: false
 author: joshuapsteele
-categories:
-- technology
+categories: productivity
+date: 2025-07-31 08:11:02-04:00
+description: Meredith Whittaker on the growing gap between tech-optimist narratives
+  and our actual tech-encumbered reality.
+draft: false
+showToc: false
 tags:
 - link
 - quote
-description: Meredith Whittaker on the growing gap between tech-optimist narratives and our actual tech-encumbered reality.
+title: Tech Hype and the Growing Chasm
 url: /tech-hype-and-the-growing-chasm
-draft: false
-showToc: false
-TocOpen: false
 ---
+
 Here's Meredith Whittaker on the "key to understanding the growing chasm between the narrative of techno-optimists and the reality of our tech-encumbered world" in [a recent interview with Politico](https://www.politico.com/newsletters/digital-future-daily/2023/12/01/5-questions-for-meredith-whittaker-00129677):
 
 > **What’s a technology that you think is overhyped?**

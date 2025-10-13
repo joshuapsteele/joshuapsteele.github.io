@@ -1,16 +1,17 @@
 ---
-title: Five Questions for Coming to Grips with Your Life
-date: '2024-11-13T16:50:14-05:00'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2024-11-13T16:50:14-05:00'
+description: 'Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver
+  Burkeman 1.'
 tags:
 - 8020
 - questions
-- reading notes
-description: 'Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman 1.'
+- reading
+title: Five Questions for Coming to Grips with Your Life
 url: /five-questions-for-coming-to-grips-with-your-life/
 ---
+
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman
 
 1. Where in your life or your work are you currently pursuing comfort, when what's called for is a little discomfort?

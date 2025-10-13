@@ -1,15 +1,16 @@
 ---
-title: 'Desperate Times, Desperate Measures: Writing My Dissertation vs. Funding Abortion'
-date: '2019-06-28T13:34:51Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-06-28T13:34:51Z'
+description: I’m two years in to my PhD program, and I need to finish writing this
+  dissertation soon, or it’s going to be the death of me. I love Wheaton’s program.
 tags:
 - research
 - writing
-description: I’m two years in to my PhD program, and I need to finish writing this dissertation soon, or it’s going to be the death of me. I love Wheaton’s program.
+title: 'Desperate Times, Desperate Measures: Writing My Dissertation vs. Funding Abortion'
 url: /desperate-times-desperate-measures-writing-my-dissertation-vs-funding-abortion/
 ---
+
 I’m two years in to my PhD program, and I need to finish writing this dissertation soon, or it’s going to be the death of me!
 
 Don’t get me wrong. I love Wheaton’s program. My supervisor and second reader are fantastic. And I think that this Barth, Bonhoeffer, and the Bible project is worthwhile.

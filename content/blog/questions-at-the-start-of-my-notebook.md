@@ -1,14 +1,15 @@
 ---
-title: Questions at the Start of My Notebook
-date: '2025-01-14T17:04:30-05:00'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2025-01-14T17:04:30-05:00'
+description: For the past few years, I've loosely followed the "Bullet Journal" method
+  of note-taking.
 tags:
 - questions
-description: For the past few years, I've loosely followed the "Bullet Journal" method of note-taking.
+title: Questions at the Start of My Notebook
 url: /questions-at-the-start-of-my-notebook/
 ---
+
 For the past few years, I've loosely followed [the "Bullet Journal" method of note-taking](https://bulletjournal.com/). Usually in a [Leuchtturm1917 Hardcover A5 notebook with dotted pages](https://amzn.to/4aiTbCs) (the best!).
 
 Whenever I finish one notebook and start another, among other things, I like to write down some key questions and mental models at the front of the new notebook, so that I can easily refer back to them whenever I need to. 

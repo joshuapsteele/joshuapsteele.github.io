@@ -1,13 +1,13 @@
 ---
-title: Son of Man, Can Your Bones Live?
-date: '2016-03-29T22:07:45Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: What would it have been like, on the first Holy Saturday?** What would it be like, tonight, if Jesus has been dead for almost 33 hours.
+categories: theology
+date: '2016-03-29T22:07:45Z'
+description: What would it have been like, on the first Holy Saturday?** What would
+  it be like, tonight, if Jesus has been dead for almost 33 hours.
+title: Son of Man, Can Your Bones Live?
 url: /son-of-man-can-your-bones-live/
 ---
+
 ### **What would it have been like, on the first Holy Saturday?**
 
 What would it be like, tonight, if Jesus has been dead for almost 33 hours?

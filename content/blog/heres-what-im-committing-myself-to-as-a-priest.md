@@ -1,12 +1,12 @@
 ---
-title: Here's what I'm committing myself to as a priest.
-date: '2019-10-28T19:57:33Z'
 author: joshuapsteele
-categories:
-- uncategorized
+categories: []
+date: '2019-10-28T19:57:33Z'
 description: I’m getting ordained to the priesthood* *this Saturday, November 02**.
+title: Here's what I'm committing myself to as a priest.
 url: /heres-what-im-committing-myself-to-as-a-priest/
 ---
+
 *I’m getting ordained to the priesthood* [*this Saturday, November 02*](https://joshuapsteele.com/ordination/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*
 
 ## The Presentation

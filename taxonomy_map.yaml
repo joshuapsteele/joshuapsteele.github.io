@@ -1,17 +1,64 @@
-# Fill this mapping to consolidate terms.
-# Keys are existing terms; values are the desired canonical terms.
-# All comparisons are case-sensitive to how they appear in front matter
-# but results are normalized to lowercase.
+# Taxonomy Consolidation Map
+# This file defines how to consolidate 24 categories into 6 core categories
 
-tags:
-  # examples:
-  # Bonhoeffer: bonhoeffer
-  # Productivity: productivity
-  # "The Christian Life": "the christian life"
+# Target: 6 Core Categories
+# 1. theology - All theological content, biblical studies, church theology
+# 2. ethics - Ethics, politics, social justice, political theology
+# 3. ministry - Ministry, preaching, pastoral work, church life
+# 4. personal - Personal reflections, family, life updates
+# 5. productivity - Productivity, tools, software, professional development
+# 6. dissertation - Keep separate (cohesive academic series)
 
-categories:
-  # examples:
-  # Uncategorized: misc
-  # "Church and Theology": "church and theology"
-  # Personal: personal
+category_mapping:
+  # THEOLOGY - Consolidate bible, religion, discipleship, sermons
+  bible: theology
+  religion: theology
+  discipleship: theology
+  sermons: theology
+  theology: theology  # Keep existing
 
+  # ETHICS - Consolidate politics, justice, law
+  ethics: ethics  # Keep existing
+  politics: ethics
+  justice: ethics
+  law: ethics
+
+  # MINISTRY - Consolidate anglicanism
+  ministry: ministry  # Keep existing
+  anglicanism: ministry
+
+  # PERSONAL - Keep as-is
+  personal: personal
+  opinion: personal  # Opinion pieces are personal reflections
+
+  # PRODUCTIVITY - Consolidate software engineering, technology, tools
+  productivity: productivity  # Keep existing
+  software engineering: productivity
+  technology: productivity
+  tools: productivity
+  Tools: productivity  # Fix capitalization
+  diy: productivity  # DIY projects fit here
+
+  # DISSERTATION - Keep separate
+  dissertation: dissertation
+
+  # SPECIAL CASES - Need manual review
+  uncategorized: null  # Must manually categorize these 20 posts
+  lists: personal  # List posts are generally personal
+  reviews: productivity  # Product/tool reviews
+  architecture: productivity  # Architecture tools/concepts
+
+# Notes:
+# - "uncategorized" (20 posts) will be manually reviewed and categorized
+# - Special pages (search.md, files.md, archives.md) may not need categories
+# - Posts currently without categories (53 total) will be analyzed by content
+
+# Tag consolidation suggestions
+tag_cleanup:
+  # Merge similar tags
+  reading notes: reading  # Consolidate reading-related tags
+
+  # Keep high-value tags as-is:
+  # - barth, bonhoeffer (expertise/niche)
+  # - women's ordination (topic cluster)
+  # - research, writing, bible, theology

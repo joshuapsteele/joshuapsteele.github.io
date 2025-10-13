@@ -1,16 +1,18 @@
 ---
-title: Want a taste of what my dissertation is about? Read these two passages (Dissertation Dispatch, 2020-04-03)
-date: '2020-04-03T13:38:27Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2020-04-03T13:38:27Z'
+description: Two key passages reveal what Barth and Bonhoeffer meant by 'religion'—the
+  heart of my dissertation challenge.
 tags:
 - barth
 - bonhoeffer
 - religion
-description: Two key passages reveal what Barth and Bonhoeffer meant by 'religion'—the heart of my dissertation challenge.
+title: Want a taste of what my dissertation is about? Read these two passages (Dissertation
+  Dispatch, 2020-04-03)
 url: /want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/
 ---
+
 ## What does “religion” mean? Great question!
 
 I’m writing [my dissertation on Barth, Bonhoeffer, the Bible, and “religion.”](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) However, getting clear on just what Barth and Bonhoeffer meant by “religion” is a huge challenge. It’s what I devoted [my entire writing sample](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/) to examining, and I plan to devote an entire chapter of my dissertation to the topic.

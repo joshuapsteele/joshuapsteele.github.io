@@ -1,15 +1,15 @@
 ---
-title: 3 Questions to Ask When You Study the Bible
-date: '2018-01-31T15:09:33Z'
 author: joshuapsteele
-categories:
-- bible
+categories: theology
+date: '2018-01-31T15:09:33Z'
+description: 'The Problem: Studying the Bible can Quickly Feel Overwhelming Right.'
 tags:
 - bible
 - questions
-description: 'The Problem: Studying the Bible can Quickly Feel Overwhelming Right.'
+title: 3 Questions to Ask When You Study the Bible
 url: /questions-to-ask-when-you-study-bible/
 ---
+
 ## The Problem: Studying the Bible can Quickly Feel Overwhelming
 
 Right? Even with helpful books out there like *[How to Read the Bible for All Its Worth](http://amzn.to/2DQ55nt)* (that’s an affiliate link, by the way, meaning that I get a small commission at no cost to you if you end up buying the book), there are still so many potential questions to ask of any biblical text when we study it.

@@ -1,12 +1,13 @@
 ---
-title: Podcasts You Should Listen To
-date: '2017-07-25T15:46:34Z'
 author: joshuapsteele
-categories:
-- productivity
-description: A guide to podcasts worth listening to during this golden age of the medium, from a seasoned podcast enthusiast.
+categories: productivity
+date: '2017-07-25T15:46:34Z'
+description: A guide to podcasts worth listening to during this golden age of the
+  medium, from a seasoned podcast enthusiast.
+title: Podcasts You Should Listen To
 url: /my-favorite-podcasts/
 ---
+
 # Podcasts: An Introduction
 
 Although podcasts (think “iPod” + “broadcast”) have been around for over a decade, we’re living in a bit of a golden age – or a least a Rennaissance – of the medium. For the uninitiated, here’s a nice video about what podcasts are:

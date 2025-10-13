@@ -1,15 +1,15 @@
 ---
-title: 'My Sermon: Our Help'
-date: '2014-03-31T14:06:33Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: 'Hey internet: I was recently given the chance to preach at my church, St. Peter’s Anglican, on the Second Sunday of Lent. The sermon audio is now online.'
-url: /my-sermon-our-help/
+categories: theology
+date: '2014-03-31T14:06:33Z'
+description: 'Hey internet: I was recently given the chance to preach at my church,
+  St. Peter’s Anglican, on the Second Sunday of Lent. The sermon audio is now online.'
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: 'My Sermon: Our Help'
+url: /my-sermon-our-help/
 ---
+
 Hey internet: I was recently given the chance to preach at my church, [St. Peter’s Anglican](http://stpetersbhm.org/), on the [Second Sunday of Lent](http://lectionary.library.vanderbilt.edu/texts.php?id=25). The [sermon audio is now online](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3). If you’ve got 23 minutes to spare, [give it a listen](http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3)!
 
 First, [here are the passages](http://lectionary.library.vanderbilt.edu/texts.php?id=25):

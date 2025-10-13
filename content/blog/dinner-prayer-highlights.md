@@ -1,14 +1,15 @@
 ---
-title: Dinner Prayer Highlights from Our 4-Year-Old
-date: '2025-01-10T09:23:13-05:00'
 author: joshuapsteele
-categories:
-- personal
+categories: personal
+date: '2025-01-10T09:23:13-05:00'
+description: Our 4-year-old's spontaneous dinner prayers evolved from routine to creative,
+  including 'help us to be nice to people.'
 tags:
 - prayer
-description: Our 4-year-old's spontaneous dinner prayers evolved from routine to creative, including 'help us to be nice to people.'
+title: Dinner Prayer Highlights from Our 4-Year-Old
 url: /dinner-prayer-highlights-from-our-4-year-old/
 ---
+
 Until the past few days, our 4-year-old son, Andrew, has mainly prayed something like the following before dinner: "Dear Jesus, help us to have a good day tomorrow, and help this food to be good."
 
 However, in the past few days, he has started to pray more spontaneously and creatively before dinner. Here are some highlights:

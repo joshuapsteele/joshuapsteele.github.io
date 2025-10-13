@@ -1,14 +1,15 @@
 ---
-title: Who am I to be a theologian?
-date: '2015-04-24T09:13:34Z'
 author: joshuapsteele
-categories:
-- personal
-description: 'For my 20th Century History &amp; Doctrine course at Beeson Divinity School, I''m re-reading through Karl Barth''s *Evangelical Theology: An Introduction*.'
-url: /who-am-i-to-be-a-theologian/
+categories: personal
+date: '2015-04-24T09:13:34Z'
+description: 'For my 20th Century History &amp; Doctrine course at Beeson Divinity
+  School, I''m re-reading through Karl Barth''s *Evangelical Theology: An Introduction*.'
 publicize_facebook_url: null
 publicize_twitter_url: null
+title: Who am I to be a theologian?
+url: /who-am-i-to-be-a-theologian/
 ---
+
 For my 20th Century History &amp; Doctrine course at [Beeson Divinity School](http://www.beesondivinity.com/), I'm re-reading through [Karl Barth](http://en.wikipedia.org/wiki/Karl_Barth)'s *[Evangelical Theology: An Introduction](http://www.amazon.com/Evangelical-Theology-Introduction-Karl-Barth/dp/0802818196)*. If you're involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!
 
 Here's a particularly challenging portion from the chapter on "Wonder," beginning on page 71. I wish the language were gender-inclusive, but Karl's words still ring true:

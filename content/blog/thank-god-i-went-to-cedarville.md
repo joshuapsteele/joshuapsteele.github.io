@@ -1,12 +1,13 @@
 ---
-title: Thank God, I Went to Cedarville
-date: '2016-05-31T20:20:53Z'
 author: joshuapsteele
-categories:
-- personal
-description: Despite everything else, Cedarville prepared me exceptionally well for seminary—gratitude for my undergraduate theological education.
+categories: personal
+date: '2016-05-31T20:20:53Z'
+description: Despite everything else, Cedarville prepared me exceptionally well for
+  seminary—gratitude for my undergraduate theological education.
+title: Thank God, I Went to Cedarville
 url: /thank-god-i-went-to-cedarville/
 ---
+
 As I prepare for my final semester at [Beeson Divinity School](http://www.beesondivinity.com/), it strikes me just how well I was prepared for my seminary education by my undergraduate professors at Cedarville University.
 
 All things considered, my time at CU **exposed me to the riches of biblical and theological studies, and it left me hungry for more**.

@@ -1,16 +1,17 @@
 ---
-title: A Collect for Juneteenth
-date: '2020-06-19T03:06:10Z'
 author: joshuapsteele
-categories:
-- ethics
+categories: ethics
+date: '2020-06-19T03:06:10Z'
+description: A collect prayer for Juneteenth 2020, remembering slavery's abolition
+  while lamenting ongoing racism and praying for repentance and healing.
 tags:
 - collect
 - juneteenth
 - prayer
-description: A collect prayer for Juneteenth 2020, remembering slavery's abolition while lamenting ongoing racism and praying for repentance and healing.
+title: A Collect for Juneteenth
 url: /a-collect-for-juneteenth/
 ---
+
 The following is a “collect” prayer that I composed for Juneteenth in 2020. What’s a “collect” prayer?
 
 > The short form of prayer, constructed (with many varieties of detail) from (1) an invocation, (2) a petition, and (3) a pleading of Christ’s name or an ascription of glory to God; and one of the most characteristic items in the W\[estern\] liturgy.

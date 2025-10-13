@@ -1,14 +1,15 @@
 ---
-title: We switched Anglican Compass over from HostGator Shared to Bluehost VPS Hosting
-date: '2020-05-16T15:28:17Z'
 author: joshuapsteele
-categories:
-- uncategorized
+categories: []
+date: '2020-05-16T15:28:17Z'
+description: Successfully migrated Anglican Compass from HostGator shared hosting
+  to Bluehost VPS—hoping this improves site performance.
 tags:
 - anglican compass
-description: Successfully migrated Anglican Compass from HostGator shared hosting to Bluehost VPS—hoping this improves site performance.
+title: We switched Anglican Compass over from HostGator Shared to Bluehost VPS Hosting
 url: /we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/
 ---
+
 As of this morning, it looks like everything for [Anglican Compass](https://anglicancompass.com/) has been successfully moved over from our HostGator shared hosting to Bluehost VPS hosting.
 
 I’m hoping that this new arrangement works well for us! Although, to be honest, it’s still an open question in my mind whether or not managed WordPress hosting with WPEngine would be a better fit. I just can’t quite tell whether or not it would be worth the extra cost, given our current traffic and budget.

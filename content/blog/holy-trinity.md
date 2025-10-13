@@ -1,13 +1,12 @@
 ---
-title: 'The Holy Trinity: What Is It? (Why) Is It Important?'
-date: '2013-11-04T21:14:47Z'
 author: joshuapsteele
-categories:
-- bible
-- theology
+categories: theology
+date: '2013-11-04T21:14:47Z'
 description: 'Introduction: The Holy Trinity One God.'
+title: 'The Holy Trinity: What Is It? (Why) Is It Important?'
 url: /holy-trinity/
 ---
+
 ## Introduction: The Holy Trinity
 
 One God. Three persons. The Holy Trinity.

@@ -1,16 +1,18 @@
 ---
-title: Are the Beatitudes “Renunciations” (Verzichte)?
-date: '2019-11-27T12:46:52Z'
 author: joshuapsteele
 categories:
-- bible
 - dissertation
+- theology
+date: '2019-11-27T12:46:52Z'
+description: 'Examining Bonhoeffer''s interpretation in Discipleship: Are the Beatitudes
+  fundamentally about renunciation (Verzicht) and want?'
 tags:
 - bonhoeffer
 - sermon on the mount
-description: 'Examining Bonhoeffer''s interpretation in Discipleship: Are the Beatitudes fundamentally about renunciation (Verzicht) and want?'
+title: Are the Beatitudes “Renunciations” (Verzichte)?
 url: /are-the-beatitudes-renunciations-verzichte/
 ---
+
 In *Discipleship* (DBWE 4), Dietrich Bonhoeffer frames all of the Beatitudes in terms of Jesus’ disciples living in *renunciation* (Verzicht) and *want* (Mangel).
 
 Interestingly, for Bonhoeffer, Jesus is only speaking to his disciples in the Beatitudes (he makes this argument on the basis of Luke 6:20ff.). And the disciples’ renunciation and want are *caused* by Jesus’s call to discipleship.

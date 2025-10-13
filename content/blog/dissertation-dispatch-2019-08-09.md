@@ -1,16 +1,17 @@
 ---
-title: 'Dissertation Dispatch: 2019-08-09'
-date: '2019-08-09T15:21:55Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-08-09T15:21:55Z'
+description: This summer, I’ve spent most of my reading/writing time working on a
+  paper on Barth’s Römerbrief reading of Romans 10.
 tags:
 - barth
 - bonhoeffer
 - romans
-description: This summer, I’ve spent most of my reading/writing time working on a paper on Barth’s Römerbrief reading of Romans 10.
+title: 'Dissertation Dispatch: 2019-08-09'
 url: /dissertation-dispatch-2019-08-09/
 ---
+
 This summer, I’ve spent most of my reading/writing time working on a paper on Barth’s Römerbrief reading of Romans 10. This paper is for the 2019 Barth Graduate Student Colloquium, and it has taken *way* longer than I originally anticipated.
 
 Will I get to use this paper in my dissertation? I’m not sure.

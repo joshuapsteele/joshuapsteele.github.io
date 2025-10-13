@@ -1,14 +1,14 @@
 ---
-title: Top 3 Reasons Why I'm an Anglican Christian
-date: '2018-03-01T05:00:03Z'
 author: joshuapsteele
-categories:
-- ethics
+categories: ethics
+date: '2018-03-01T05:00:03Z'
+description: Why am I an Anglican Christian.
 tags:
 - anglican
-description: Why am I an Anglican Christian.
+title: Top 3 Reasons Why I'm an Anglican Christian
 url: /top-3-reasons-im-anglican-christian/
 ---
+
 [![](http://anglicanpastor.com/wp-content/uploads/2017/01/RA-Logo-Black-Transparent-Background-200x167.png)](http://anglicanpastor.com/rookieanglican/)
 
 Why am I an Anglican Christian? Here are 3 reasons.

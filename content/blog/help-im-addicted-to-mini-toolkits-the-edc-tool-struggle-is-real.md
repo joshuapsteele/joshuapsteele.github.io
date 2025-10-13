@@ -1,16 +1,17 @@
 ---
-title: 'Help, I''m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
-date: '2024-09-16T16:09:39Z'
 author: joshuapsteele
-categories:
-- tools
+categories: productivity
+date: '2024-09-16T16:09:39Z'
+description: I don’t know what it is about mini toolkits, but I love them. Actually,
+  scratch that.
 tags:
 - edc
 - reviews
 - tools
-description: I don’t know what it is about mini toolkits, but I love them. Actually, scratch that.
+title: 'Help, I''m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
 ---
+
 I don’t know what it is about mini toolkits, but I love them.
 
 Actually, scratch that. I know why. It’s the same reason I love buying tools and books, more generally: the illusion of control. I like how having tools (and a great personal library) makes me feel like I’m ready for whatever life throws at me (ha!).

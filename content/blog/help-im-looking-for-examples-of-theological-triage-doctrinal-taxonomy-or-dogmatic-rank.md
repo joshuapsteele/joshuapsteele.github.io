@@ -1,14 +1,16 @@
 ---
-title: Help! I'm looking for examples of "theological triage," "doctrinal taxonomy," or "dogmatic rank"
-date: '2019-12-13T16:42:18Z'
 author: joshuapsteele
-categories:
-- theology
+categories: theology
+date: '2019-12-13T16:42:18Z'
+description: 'Research request: looking for examples of theological triage—distinguishing
+  levels of doctrinal importance in Christian theology.'
 tags:
 - research
-description: 'Research request: looking for examples of theological triage—distinguishing levels of doctrinal importance in Christian theology.'
+title: Help! I'm looking for examples of "theological triage," "doctrinal taxonomy,"
+  or "dogmatic rank"
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/
 ---
+
 For a research project, I’m looking for examples of the reasoning that goes into what’s been called, among other things
 
 - “theological triage,”

@@ -1,15 +1,18 @@
 ---
-title: 'Women''s Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003 AMIA Report'
-date: '2019-01-31T14:17:52Z'
 author: joshuapsteele
 categories:
-- theology
 - personal
+- theology
+date: '2019-01-31T14:17:52Z'
+description: I became an “egalitarian” in college, before I became an Anglican in
+  seminary.
 tags:
 - anglican
-description: I became an “egalitarian” in college, before I became an Anglican in seminary.
+title: 'Women''s Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003
+  AMIA Report'
 url: /womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/
 ---
+
 I became an “egalitarian” in college, before I became an Anglican in seminary.
 
 It’s taken some time for me to get used to the different contours of the women’s ordination debate within Anglicanism. Growing up, the debate was all about particular Bible verses and whether or not women could teach and preach. However, in Anglicanism, although those same questions/arguments are present, I hear much more about whether or not women can administer the sacraments as priests.

@@ -1,12 +1,12 @@
 ---
-title: A Ridiculously Helpful Markdown Tutorial
-date: '2016-08-26T14:09:01Z'
 author: joshuapsteele
-categories:
-- productivity
+categories: productivity
+date: '2016-08-26T14:09:01Z'
 description: I’ve been dragging my heels on learning Markdown for awhile now.
+title: A Ridiculously Helpful Markdown Tutorial
 url: /a-ridiculously-helpful-markdown-tutorial/
 ---
+
 I’ve been dragging my heels on learning Markdown for awhile now.
 
 If you don’t know, Markdown is:

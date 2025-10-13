@@ -1,13 +1,13 @@
 ---
-title: 'Karl Barth on the Wilderness Temptations: #1, Stones into Bread'
-date: '2015-04-24T09:13:42Z'
 author: joshuapsteele
-categories:
-- bible
-- theology
-description: Karl Barth's exegesis of Christ's wilderness temptations isperenniallyinspiring, but particularly poignant during this season of Lent.
+categories: theology
+date: '2015-04-24T09:13:42Z'
+description: Karl Barth's exegesis of Christ's wilderness temptations isperenniallyinspiring,
+  but particularly poignant during this season of Lent.
+title: 'Karl Barth on the Wilderness Temptations: #1, Stones into Bread'
 url: /barth-on-the-wilderness-temptations-1-stones-into-bread/
 ---
+
 [Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth) exegesis of [Christ's wilderness temptations](http://postbarthian.com/2013/07/17/karl-barth-on-the-temptation-of-jesus-in-the-wilderness/) isperenniallyinspiring, but particularly poignant during this season of [Lent](http://en.wikipedia.org/wiki/Lent).
 
 What does it mean for Christ to be the Perfect Penitent? And how should this influence our own repentance?

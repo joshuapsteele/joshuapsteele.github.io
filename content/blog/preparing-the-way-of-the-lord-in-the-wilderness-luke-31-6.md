@@ -1,14 +1,15 @@
 ---
-title: 'Preparing the Way of the Lord in the Wilderness: Luke 3:1-6'
-date: '2018-12-09T15:42:08Z'
 author: joshuapsteele
-categories:
-- sermons
+categories: theology
+date: '2018-12-09T15:42:08Z'
+description: 'An Advent sermon on Luke 3:1-6: heeding the prophets'' call to repentance
+  and preparing the way of the Lord.'
 tags:
 - sermons
-description: 'An Advent sermon on Luke 3:1-6: heeding the prophets'' call to repentance and preparing the way of the Lord.'
+title: 'Preparing the Way of the Lord in the Wilderness: Luke 3:1-6'
 url: /preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/
 ---
+
 *(Sermon preached at Church of the Savior in Wheaton, IL.)*
 
 I’d like to pray this week’s collect again:

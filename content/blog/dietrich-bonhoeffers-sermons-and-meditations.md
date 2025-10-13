@@ -1,15 +1,16 @@
 ---
-title: Dietrich Bonhoeffer’s Sermons and Meditations
-date: '2019-06-27T15:04:37Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-06-27T15:04:37Z'
+description: 'SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*,
+  ed.'
 tags:
 - bible
 - bonhoeffer
-description: 'SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*, ed.'
+title: Dietrich Bonhoeffer’s Sermons and Meditations
 url: /dietrich-bonhoeffers-sermons-and-meditations/
 ---
+
 SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*, ed. Victoria J. Barnett et al., vol. 17, Dietrich Bonhoeffer Works (Minneapolis, MN: Fortress Press, 2014), 154–158.
 
 ## Sermons and Meditations

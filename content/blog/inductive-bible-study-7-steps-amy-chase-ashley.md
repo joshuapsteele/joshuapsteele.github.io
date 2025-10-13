@@ -1,13 +1,16 @@
 ---
-title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care," by Amy Chase Ashley'
-date: '2013-06-17T00:34:27Z'
 author: joshuapsteele
 categories:
-- bible
 - ethics
-description: 'Amy Chase Ashley''s guest post on mastering inductive Bible study in seven steps: Scripture, Handle With Care.'
+- theology
+date: '2013-06-17T00:34:27Z'
+description: 'Amy Chase Ashley''s guest post on mastering inductive Bible study in
+  seven steps: Scripture, Handle With Care.'
+title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care," by Amy Chase
+  Ashley'
 url: /inductive-bible-study-7-steps-amy-chase-ashley/
 ---
+
 <address>Update (April 2017): I’ve gone back to update/clean-up the formatting in this wonderful June 2013 guest post on the basics of inductive Bible study from my friend **Amy Elizabeth Chase Ashley,** one of the most gifted students of Scripture with whom I’ve been privileged to study. She blogs at <https://amyechase.wordpress.com/>. </address>---
 
 ## Jeremiah 29:11

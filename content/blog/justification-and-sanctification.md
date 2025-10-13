@@ -1,12 +1,13 @@
 ---
-title: Justification and Sanctification
-date: '2018-11-09T15:27:48Z'
 author: joshuapsteele
-categories:
-- theology
-description: For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.
+categories: theology
+date: '2018-11-09T15:27:48Z'
+description: For my “Pedagogical Experience” requirement at Wheaton, I’m helping to
+  teach a masters-level Christian Theology course.
+title: Justification and Sanctification
 url: /justification-and-sanctification/
 ---
+
 For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.
 
 Yesterday, I got to teach a lesson on justification and sanctification. A lot to cover in a 95-minute class session!

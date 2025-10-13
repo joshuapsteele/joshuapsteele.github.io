@@ -1,12 +1,13 @@
 ---
-title: Take Up Your Tongue and Follow Jesus
-date: '2018-09-28T00:05:20Z'
 author: joshuapsteele
-categories:
-- sermons
-description: 'A sermon on Mark 8:27-38 and James 3:1-12: discipleship means controlling our tongues as we carry our crosses.'
+categories: theology
+date: '2018-09-28T00:05:20Z'
+description: 'A sermon on Mark 8:27-38 and James 3:1-12: discipleship means controlling
+  our tongues as we carry our crosses.'
+title: Take Up Your Tongue and Follow Jesus
 url: /take-up-your-tongue-and-follow-jesus/
 ---
+
 *This sermon, on Mark 8:27-38 and James 3:1-12, was originally preached on September 16, 2018 at [Christ Redeemer Anglican Church in Milwaukee, WI](https://www.christredeemermke.org/).*
 
 ## Introduction

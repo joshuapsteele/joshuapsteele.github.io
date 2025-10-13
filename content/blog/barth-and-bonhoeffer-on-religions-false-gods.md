@@ -1,16 +1,17 @@
 ---
-title: Barth and Bonhoeffer on Religion's False God(s)
-date: '2019-01-18T19:08:38Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-01-18T19:08:38Z'
+description: How Barth and Bonhoeffer critique religion's false image of God that
+  permits unrighteousness rather than redeeming creation.
 tags:
 - barth
 - bonhoeffer
 - research
-description: How Barth and Bonhoeffer critique religion's false image of God that permits unrighteousness rather than redeeming creation.
+title: Barth and Bonhoeffer on Religion's False God(s)
 url: /barth-and-bonhoeffer-on-religions-false-gods/
 ---
+
 In *The Epistle to the Romans*, Barth writes the following concerning the false image of God at the heart of religion:
 
 > What men on this side resurrection name ‘God’ is most characteristically not God. Their ‘God’ does not redeem his creation, but allows free course to the unrighteousness of men; does not declare himself to be God, but is the complete affirmation of the course of the world and of men as it is. This is intolerable, for, in spite of the highest honours we offer him for his adornment, he is, in fact, ‘No-God’. The cry of revolt against such a god is nearer the truth than is the sophistry with which men attempt to justify him (*Romans*, 40).

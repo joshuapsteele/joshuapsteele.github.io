@@ -1,16 +1,17 @@
 ---
-title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
-date: '2019-01-16T22:08:00Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-01-16T22:08:00Z'
+description: 'Two eagerly anticipated 2019 releases from Baker: Barth''s theological
+  exegesis and his relationship with Bonhoeffer.'
 tags:
 - barth
 - bonhoeffer
 - research
-description: 'Two eagerly anticipated 2019 releases from Baker: Barth''s theological exegesis and his relationship with Bonhoeffer.'
+title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
 url: /i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/
 ---
+
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
 
 I’m really looking forward to reading these two Barth (and Bonhoeffer) books coming out from Baker in 2019:

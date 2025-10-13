@@ -1,15 +1,16 @@
 ---
-title: 'Introduction to Christian Theology: A Draft Syllabus'
-date: '2018-12-20T22:42:14Z'
 author: joshuapsteele
-categories:
-- theology
+categories: theology
+date: '2018-12-20T22:42:14Z'
+description: As a part of my “pedagogical experience” at Wheaton College this semester,
+  I was required to draft a syllabus for an introduction to Christian theology.
+format: aside
 tags:
 - theology
-description: As a part of my “pedagogical experience” at Wheaton College this semester, I was required to draft a syllabus for an introduction to Christian theology.
+title: 'Introduction to Christian Theology: A Draft Syllabus'
 url: /introduction-to-christian-theology-a-draft-syllabus/
-format: aside
 ---
+
 *As a part of my “pedagogical experience” at Wheaton College this semester, I was required to draft a syllabus for an introduction to Christian theology. Feel free to let me know what you think in the comments.*
 
 ---

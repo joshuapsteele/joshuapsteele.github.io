@@ -1,14 +1,15 @@
 ---
-title: This Shouldn't Be Controversial
-date: '2025-02-19T09:16:56-05:00'
 author: joshuapsteele
-categories:
-- politics
+categories: ethics
+date: '2025-02-19T09:16:56-05:00'
+description: The following statements should not be controversial, but they sadly
+  are. What would you add to this list. Donald Trump lost the 2020 election.
 tags:
 - politics
-description: The following statements should not be controversial, but they sadly are. What would you add to this list. Donald Trump lost the 2020 election.
+title: This Shouldn't Be Controversial
 url: /this-shouldnt-be-controversial/
 ---
+
 The following statements should not be controversial, but they sadly are. What would you add to this list?
 
 Donald Trump lost the 2020 election.

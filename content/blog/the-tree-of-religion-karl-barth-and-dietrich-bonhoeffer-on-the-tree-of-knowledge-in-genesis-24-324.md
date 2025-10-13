@@ -1,18 +1,20 @@
 ---
-title: 'The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge in Genesis 2:4–3:24'
-date: '2019-05-07T15:51:49Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-05-07T15:51:49Z'
+description: How Barth and Bonhoeffer interpret the tree of knowledge in Genesis 2–3
+  as a critique of religion as idolatry.
 tags:
 - barth
 - bonhoeffer
 - essay
 - research
 - writing
-description: How Barth and Bonhoeffer interpret the tree of knowledge in Genesis 2–3 as a critique of religion as idolatry.
+title: 'The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge
+  in Genesis 2:4–3:24'
 url: /the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/
 ---
+
 *(Here’s a PDF of this paper: [STEELE\_The Tree of Religion Barth and Bonhoeffer on the Tree of Knowledge](https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf).)*
 
 # Introduction

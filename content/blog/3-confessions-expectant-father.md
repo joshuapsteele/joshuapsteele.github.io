@@ -1,12 +1,13 @@
 ---
-title: 3 Confessions of an Expectant Father
-date: '2018-02-27T12:29:34Z'
 author: joshuapsteele
-categories:
-- personal
-description: An honest reflection on fears, uncertainties, and hopes as a first-time father awaits the arrival of 'Lump' in August.
+categories: personal
+date: '2018-02-27T12:29:34Z'
+description: An honest reflection on fears, uncertainties, and hopes as a first-time
+  father awaits the arrival of 'Lump' in August.
+title: 3 Confessions of an Expectant Father
 url: /3-confessions-expectant-father/
 ---
+
 ## We’re Expecting!
 
 In case you haven’t heard the news, my wife Rachel and I are expecting our firstborn child this August! Rachel is currently 16 weeks along, and we won’t find out the gender of the baby (whom I am affectionately calling “Lump”) for another month.

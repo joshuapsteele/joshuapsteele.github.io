@@ -1,13 +1,13 @@
 ---
-title: 'Morning Prayer Homily: Mark 8.11-21'
-date: '2015-09-02T07:00:00Z'
 author: joshuapsteele
-categories:
-- bible
-- sermons
-description: 'A homily on Mark 8:11-21 (ESV): > The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him.'
+categories: theology
+date: '2015-09-02T07:00:00Z'
+description: 'A homily on Mark 8:11-21 (ESV): > The Pharisees came and began to argue
+  with him, seeking from him a sign from heaven to test him.'
+title: 'Morning Prayer Homily: Mark 8.11-21'
 url: /morning-prayer-homily-mark-8-11-21/
 ---
+
 A homily on Mark 8:11-21 (ESV):
 
 > The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. And he sighed deeply in his spirit and said, “Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation.” And he left them, got into the boat again, and went to the other side.

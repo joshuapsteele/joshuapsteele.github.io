@@ -1,12 +1,13 @@
 ---
-title: 'Most Useful Websites: My Favorite Online Resources'
-date: '2022-11-08T19:40:28Z'
 author: joshuapsteele
-categories:
-- productivity
-description: 'My curated collection of favorite online resources: thinking tools, fitness guides, reading aids, design resources, and developer references.'
+categories: productivity
+date: '2022-11-08T19:40:28Z'
+description: 'My curated collection of favorite online resources: thinking tools,
+  fitness guides, reading aids, design resources, and developer references.'
+title: 'Most Useful Websites: My Favorite Online Resources'
 url: /most-useful-websites-my-favorite-online-resources/
 ---
+
 ## General / Thinking
 
 - Untools: <https://untools.co/>

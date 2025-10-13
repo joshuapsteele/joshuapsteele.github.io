@@ -1,15 +1,16 @@
 ---
-title: Karl Barth's Reversal on the "Knowledge of Good and Evil"
-date: '2019-01-17T19:07:23Z'
 author: joshuapsteele
-categories:
-- dissertation
+categories: dissertation
+date: '2019-01-17T19:07:23Z'
+description: How Barth's interpretation of Genesis 2–3 changed from Romans to Church
+  Dogmatics while maintaining his critique of religion as idolatry.
 tags:
 - barth
 - research
-description: How Barth's interpretation of Genesis 2–3 changed from Romans to Church Dogmatics while maintaining his critique of religion as idolatry.
+title: Karl Barth's Reversal on the "Knowledge of Good and Evil"
 url: /karl-barths-reversal-on-the-knowledge-of-good-and-evil/
 ---
+
 I argue that, although Barth’s interpretation of the Genesis passages changed between [*The Epistle to the Romans*](https://amzn.to/2SVxH69) and the [*Church Dogmatics*](https://www.logos.com/product/5758/barths-church-dogmatics), his mature readings of Genesis 2–3 still support his overall theological critique of religion as idolatry, the self-justifying positing of false gods.
 
 Specifically, in *Romans* (240–57, esp. 246–51), Barth interpreted “the knowledge of good and evil” as the divine secret that humans are merely humans.
