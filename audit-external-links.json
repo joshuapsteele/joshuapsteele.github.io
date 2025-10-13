@@ -1,0 +1,3140 @@
+{
+  "total_files": 272,
+  "total_links": 1928,
+  "unique_urls": 1551,
+  "working_links": 1537,
+  "broken_links": 386,
+  "timeout_links": 5,
+  "broken_details": [
+    {
+      "file": "content/blog/two-more-pieces-about-jordan-peterson.md",
+      "type": "markdown",
+      "text": "Nellie Bowles writes",
+      "url": "https://www.nytimes.com/2018/05/18/style/jordan-peterson-12-rules-for-life.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/two-more-pieces-about-jordan-peterson.md",
+      "type": "markdown",
+      "text": "Wesley Yang writes",
+      "url": "http://www.tabletmag.com/jewish-news-and-politics/262280/jordan-peterson",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/requiescas-in-pace-mi-avia.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/996164_10152895104580316_41022478_n.jpg",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "Word &amp; Table",
+      "url": "https://wordandtable.simplecast.fm/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "website",
+      "url": "https://wordandtable.simplecast.fm/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "Stephen Gauthier",
+      "url": "http://www.churchrez.org/staff/profile/stephengauthier",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "Word &amp; Table website",
+      "url": "https://wordandtable.simplecast.fm/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "kettlebells",
+      "url": "https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "Coffee Break German",
+      "url": "https://radiolingua.com/coffeebreakgerman/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "a whole suite of \u201cCoffee Break\u201d languages",
+      "url": "https://radiolingua.com/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-favorite-podcasts.md",
+      "type": "markdown",
+      "text": "Always Forward",
+      "url": "http://www.always-forward.com/category/podcast/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+      "type": "markdown",
+      "text": "[MP3: Getting Ahead in God\u2019s Upside-Down Kingdom",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+      "type": "markdown",
+      "text": "44th March for Life",
+      "url": "https://en.wikipedia.org/wiki/March_for_Life_(Washington,_D.C.",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+      "type": "markdown",
+      "text": "according to the National Safety Council",
+      "url": "http://www.nsc.org/learn/safety-knowledge/Pages/injury-facts-chart.aspx",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/true-christianity-cannot-be-a-private-christianity-barth.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://i0.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png?fit=640%2C360&ssl=1",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+      "type": "markdown",
+      "text": "Saint James the Greater *oil on canvas *92.1 x 74.9 cm *signed b.r.: Rembrandt f. 1661",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+      "type": "markdown",
+      "text": "Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+      "type": "markdown",
+      "text": "Get Your Act Together (Productivity and Time Management)",
+      "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+      "type": "markdown",
+      "text": "Steps to Find Purpose and Meaning in Life",
+      "url": "https://joshuapsteele.com/start-here/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/sacrificing-scripture-on-the-altars-of-our-own-agendas.md",
+      "type": "markdown",
+      "text": "the Answers in Genesis conference coming to Cedarville University on Sept. 23-24",
+      "url": "http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Cedarville-to-Host-Answers-in-Genesis-Conference.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/sacrificing-scripture-on-the-altars-of-our-own-agendas.md",
+      "type": "markdown",
+      "text": "The Evangelical Brain Trust (NYT)",
+      "url": "http://www.nytimes.com/2012/01/08/books/review/the-anointed-evangelical-truth-in-a-secular-age-by-randall-j-stephens-and-karl-w-giberson-book-review.html?pagewanted=all",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/sacrificing-scripture-on-the-altars-of-our-own-agendas.md",
+      "type": "markdown",
+      "text": "Ken Ham is a Con Artist\u2026",
+      "url": "http://www.patheos.com/blogs/exploringourmatrix/2012/06/ken-ham-wants-other-christians-to-be-con-artists-like-he-is.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report.md",
+      "type": "markdown",
+      "text": "the ACNA Report",
+      "url": "http://anglicanpastor.com/wp-content/uploads/2019/01/HolyOrdersTaskForce.pdf",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "type": "markdown",
+      "text": "Leonidas in *The 300*",
+      "url": "http://en.wikipedia.org/wiki/300_(film",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "type": "markdown",
+      "text": "the \u201cgames\u201d of *SAW*",
+      "url": "http://en.wikipedia.org/wiki/Saw_(franchise",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "type": "markdown",
+      "text": "Marshall\u2019s father dying in *How I Met Your Mother*",
+      "url": "http://en.wikipedia.org/wiki/Bad_News_(How_I_Met_Your_Mother",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/honors-grace-and-generosity.md",
+      "type": "markdown",
+      "text": "The Daniel Award.",
+      "url": "http://www.cedarville.edu/financialaid/Daniel+Award",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/honors-grace-and-generosity.md",
+      "type": "markdown",
+      "text": "DSCN0867",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0867.jpg?w=300",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/honors-grace-and-generosity.md",
+      "type": "markdown",
+      "text": "The Contemporary Parallel New Testament",
+      "url": "http://www.oup.com/us/catalog/general/subject/Bibles/ParallelTextBibles/NewInternationalVersion/~~/dmlldz11c2EmY2k9OTc4MDE5NTI4MTM2MQ==",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/honors-grace-and-generosity.md",
+      "type": "markdown",
+      "text": "Image",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0863.jpg?w=650",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/5-books-every-christian-read.md",
+      "type": "markdown",
+      "text": "read and understand",
+      "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-1.md",
+      "type": "markdown",
+      "text": " Cedarville University\u2019s doctrinal statement",
+      "url": "http://www.cedarville.edu/About/Doctrinal-Statement.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-1.md",
+      "type": "markdown",
+      "text": "trustees",
+      "url": "http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-1.md",
+      "type": "markdown",
+      "text": "trustees ",
+      "url": "http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-1.md",
+      "type": "markdown",
+      "text": "Cedarville University\u2019s doctrinal statement",
+      "url": "http://www.cedarville.edu/About/Doctrinal-Statement.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-1.md",
+      "type": "markdown",
+      "text": "trustees",
+      "url": "http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/diagnostic-tools-for-homeowners.md",
+      "type": "markdown",
+      "text": "this one from Harbor Freight",
+      "url": "https://www.harborfreight.com/121-infrared-laser-thermometer-63985.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/diagnostic-tools-for-homeowners.md",
+      "type": "markdown",
+      "text": "the HF96 thermal camera",
+      "url": "https://www.amazon.com/s?k=Thermal+Camera&i=industrial&crid=20QNPPCV22QY5&sprefix=thermal+camera%2Cindustrial%2C161&linkCode=ll2&tag=joshuapsteele-20&linkId=15f72127db1af4702b5c7752725ffa0d&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-need-to-develop-a-writing-habit-do-you.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "http://charlesduhigg.com/how-habits-work/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-need-to-develop-a-writing-habit-do-you.md",
+      "type": "markdown",
+      "text": "this helpful flowchart",
+      "url": "http://charlesduhigg.com/wp-content/uploads/2014/04/Flowchart-How-to-Change-a-Habit.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-need-to-develop-a-writing-habit-do-you.md",
+      "type": "markdown",
+      "text": "this helpful flowchart",
+      "url": "http://charlesduhigg.com/wp-content/uploads/2014/04/Flowchart-How-to-Create-a-Habit.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/jesus-is-not-just-one-of-us.md",
+      "type": "markdown",
+      "text": "audio",
+      "url": "http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/jesus-is-not-just-one-of-us.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-brokenhearted-god.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-to-make-of-jordan-peterson-some-takes-then-my-own.md",
+      "type": "markdown",
+      "text": "David Brooks hits the nail on the head here",
+      "url": "https://www.nytimes.com/2018/01/25/opinion/jordan-peterson-moment.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-on-the-wilderness-temptations-1-stones-into-bread.md",
+      "type": "markdown",
+      "text": "IV",
+      "url": "http://www.foundationrt.org/outlines/Barth_Dogmatics_Volume_IV.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-on-the-wilderness-temptations-1-stones-into-bread.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Dictionary of Scripture and Ethics",
+      "url": "https://www.amazon.com/s?k=Dictionary+of+Scripture+and+Ethics&linkCode=ll2&tag=joshuapsteele-20&linkId=fe86bbace8a5c59f7354c6bde6fc84eb&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Christians at the Border: Immigration, the Church, and the Bible",
+      "url": "https://www.amazon.com/s?k=Christians+at+the+Border%3A+Immigration%2C+the+Church%2C+and+the+Bible&crid=32MV5KEGRWYR2&sprefix=christians+at+the+border+immigration%2C+the+church%2C+and+the+bible%2Caps%2C124&linkCode=ll2&tag=joshuapsteele-20&linkId=a8ce589e7b8f5e2125749678778e8cde&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "A Promised Land, a Perilous Journey: Theological Perspectives on Migration",
+      "url": "https://www.amazon.com/s?k=A+Promised+Land%2C+a+Perilous+Journey%3A+Theological+Perspectives+on+Migration&linkCode=ll2&tag=joshuapsteele-20&linkId=8c9b33c40387d2d71b96e96a65713f08&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Beyond Christendom: Globalization, African Migration and the Transformation of the West",
+      "url": "https://www.amazon.com/s?k=Beyond+Christendom%3A+Globalization%2C+African+Migration+and+the+Transformation+of+the+West&crid=38OIWY4STEBQ6&sprefix=beyond+christendom+globalization%2C+african+migration+and+the+transformation+of+the+west%2Caps%2C673&linkCode=ll2&tag=joshuapsteele-20&linkId=178a4a4633ddd5301321234bf602c21c&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "The Immigration Crisis: Immigrants, Aliens, and the Bible",
+      "url": "https://www.amazon.com/s?k=The+Immigration+Crisis%3A+Immigrants%2C+Aliens%2C+and+the+Bible&crid=13TZXIB2DU4RA&sprefix=the+immigration+crisis+immigrants%2C+aliens%2C+and+the+bible%2Caps%2C120&linkCode=ll2&tag=joshuapsteele-20&linkId=3e0b0dbfe1d2dbd481e0567c7d25fc0b&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Israelite Religion and Biblical Theology: Collected Essays",
+      "url": "https://www.amazon.com/s?k=Israelite+Religion+and+Biblical+Theology%3A+Collected+Essays&crid=145DSSZTE5ND6&sprefix=israelite+religion+and+biblical+theology+collected+essays%2Caps%2C190&linkCode=ll2&tag=joshuapsteele-20&linkId=6d6f1d1724384c9477dd5574fa34b2a9&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Responding to Strangers: Insights from the Christian Tradition",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0953946806062287",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Character Ethics and the Old Testament: Moral Dimensions of Scripture",
+      "url": "https://www.amazon.com/s?k=Character+Ethics+and+the+Old+Testament%3A+Moral+Dimensions+of+Scripture&i=stripbooks&crid=34829867BOH7H&sprefix=character+ethics+and+the+old+testament+moral+dimensions+of+scripture%2Cstripbooks%2C164&linkCode=ll2&tag=joshuapsteele-20&linkId=b3b0e3fd17b6cf98ae2c7b668f1aaf93&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "A Biblical Theology of Exile",
+      "url": "https://www.amazon.com/s?k=A+Biblical+Theology+of+Exile&i=stripbooks&crid=3I3GTYYYNMGKG&sprefix=a+biblical+theology+of+exile%2Cstripbooks%2C129&linkCode=ll2&tag=joshuapsteele-20&linkId=29c3b70bc2d70885233a11b32565b929&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "Welcoming the Stranger: Justice, Compassion, and Truth in the Immigration Debate",
+      "url": "https://www.amazon.com/s?k=Welcoming+the+Stranger%3A+Justice%2C+Compassion%2C+and+Truth+in+the+Immigration+Debate&i=stripbooks&crid=1WRXSCMO496VJ&sprefix=welcoming+the+stranger+justice%2C+compassion%2C+and+truth+in+the+immigration+debate%2Cstripbooks%2C189&linkCode=ll2&tag=joshuapsteele-20&linkId=087500d1ab68a09c911379f9f43c620d&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "type": "markdown",
+      "text": "The New Americans: A Guide to Immigration since 1965",
+      "url": "https://www.amazon.com/s?k=The+New+Americans%3A+A+Guide+to+Immigration+since+1965&i=stripbooks&crid=2N3PT4EQRVX3L&sprefix=the+new+americans+a+guide+to+immigration+since+1965%2Cstripbooks%2C168&linkCode=ll2&tag=joshuapsteele-20&linkId=da3fcf14437d7adf247477a032177eab&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/but-what-about-the-riots-and-lawlessness.md",
+      "type": "markdown",
+      "text": "the entire interview series that Ed Stetzer recently did with Esau McCaulley",
+      "url": "https://www.christianitytoday.com/edstetzer/2020/june/race-in-america-interview-with-esau-mccaulley-part-one.html",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/but-what-about-the-riots-and-lawlessness.md",
+      "type": "markdown",
+      "text": "read the whole interview",
+      "url": "https://www.christianitytoday.com/edstetzer/2020/june/racism-in-america-interview-with-esau-mccaulley-part-four.html",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-sermon-our-help.md",
+      "type": "markdown",
+      "text": "Second Sunday of Lent",
+      "url": "http://lectionary.library.vanderbilt.edu/texts.php?id=25",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-sermon-our-help.md",
+      "type": "markdown",
+      "text": "sermon audio is now online",
+      "url": "http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-sermon-our-help.md",
+      "type": "markdown",
+      "text": "give it a listen",
+      "url": "http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-sermon-our-help.md",
+      "type": "markdown",
+      "text": "here are the passages",
+      "url": "http://lectionary.library.vanderbilt.edu/texts.php?id=25",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-sermon-our-help.md",
+      "type": "markdown",
+      "text": " in the audio",
+      "url": "http://stpetersbhm.org/wp-content/podcast/03-16-14JoshSteele.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-bonhoeffer-and-the-bible.md",
+      "type": "markdown",
+      "text": "\u2018\u201cIn the Shadow of Biblical Work:\u201d Barth and Bonhoeffer on Reading the Bible,\u2019",
+      "url": "https://www.utpjournals.press/doi/abs/10.3138/tjt.17.1.75",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-are-your-must-own-biblical-and-theological-studies-reference-works.md",
+      "type": "markdown",
+      "text": "Logos sells them as a bundle",
+      "url": "https://www.logos.com/product/5228/bdag-halot-bundle",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md",
+      "type": "markdown",
+      "text": "come find me @joshuapsteele on LinkedIn",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-2.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://img2.findthebest.com/sites/default/files/10/media/images/Cedarville_University_220560.gif",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-2.md",
+      "type": "markdown",
+      "text": "previous thoughts",
+      "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-2.md",
+      "type": "markdown",
+      "text": " these matters",
+      "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/who-am-i-to-be-a-theologian.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+      "type": "markdown",
+      "text": "Print Library Catalog feature",
+      "url": "https://www.logos.com/features/print-library-catalog",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+      "type": "markdown",
+      "text": "Church History Themes",
+      "url": "https://www.logos.com/features/church-history",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+      "type": "markdown",
+      "text": "Auto Translation feature",
+      "url": "https://www.logos.com/features/auto-translation",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/if-women-can-be-saved-then-women-can-be-priests.md",
+      "type": "markdown",
+      "text": "Lee Nelson\u2019s response",
+      "url": "http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/if-women-can-be-saved-then-women-can-be-priests.md",
+      "type": "markdown",
+      "text": "Emily McGowin\u2019s rejoinder",
+      "url": "http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/if-women-can-be-saved-then-women-can-be-priests.md",
+      "type": "markdown",
+      "text": "The Woman at the Altar: Cosmological Disturbance or Gender Subversion?",
+      "url": "http://www.anglicantheologicalreview.org/read/issue/13/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/if-women-can-be-saved-then-women-can-be-priests.md",
+      "type": "markdown",
+      "text": "Want to learn more about women\u2019s ordination debates within Anglicanism? Check out these resources.",
+      "url": "http://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "*Anglican Church in North America*",
+      "url": "http://www.anglicanchurch.net/index.php/main/Staff_Directory/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "*Anglican Church in North America*",
+      "url": "http://www.anglicanchurch.net/index.php/main/Staff_Directory/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "*Diocese of Churches for the Sake of Others*",
+      "url": "https://www.c4so.org/our-team/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "*The Diocese of Churches for the Sake of Others*",
+      "url": "https://www.c4so.org/our-team/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "*Holy Cross Anglican Church, Lake Villa, IL*",
+      "url": "http://www.holycross-anglican.org/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "ACNA-Clergy-Sign-the-Anti-Racism-Letter\\_2022-08-15",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "Download",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here\\_2022-08-15",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+      "type": "markdown",
+      "text": "Download",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/deuteronomy-61-15-1.md",
+      "type": "markdown",
+      "text": "my essay on Philemon",
+      "url": "https://joshuapsteele.com/2013/12/13/the-epistle-to-philemon/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/deuteronomy-61-15-1.md",
+      "type": "markdown",
+      "text": "Amy Chase Ashley\u2019s Scripture: Handle With Care",
+      "url": "https://joshuapsteele.com/2013/06/17/amy-chase-scripture-handle-with-care/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "pablo (10)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "some crazy things went down",
+      "url": "https://storify.com/fiatlux125/cedarville-2012-2013/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "on",
+      "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "my",
+      "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "blog",
+      "url": "https://joshuapsteele.com/2012/09/22/an-explanation/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "a local newspaper",
+      "url": "http://www.daytondailynews.com/news/news/cedarville-plays-professor-on-leave/nSwDJ/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "read it here if you\u2019re interested",
+      "url": "https://storify.com/fiatlux125/cedarville-2012-2013/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "original blogpost",
+      "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "final farewell,",
+      "url": "https://joshuapsteele.com/2013/04/24/a-farewell-to-cedarville/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "type": "markdown",
+      "text": "The New York Times",
+      "url": "http://www.nytimes.com/2013/02/16/us/a-christian-college-struggles-to-define-itself.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/learn-more-about-rublevs-trinity-icon-video.md",
+      "type": "markdown",
+      "text": "Andrei Rublev\u2019s famous icon of the Trinity",
+      "url": "https://en.wikipedia.org/wiki/Trinity_(Andrei_Rublev",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "Fr. Lee Nelson\u2019s",
+      "url": "http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "her original blog post",
+      "url": "http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "Fr. Lee Nelson",
+      "url": "http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "\u201cIf Women Can Be Saved, Then Women Can Be Priests.\u201d",
+      "url": "http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "women were assumed to be physically, intellectually, emotionally, and spiritually inferior to men. Then, the argument would be moot, as it was for many years of the church\u2019s history",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+      "type": "markdown",
+      "text": "Start with these resources",
+      "url": "http://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/only-the-suffering-god-can-help.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/a-crucicentric-credo.md",
+      "type": "markdown",
+      "text": "\u201cSon Of Man, Can Your Bones Live?\u201d",
+      "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": "The End of Apologetics: Christian Witness in a Postmodern Context",
+      "url": "http://bakerpublishinggroup.com/books/the-end-of-apologetics/285611",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "http://assets.bakerpublishinggroup.com/processed/books/covers/original/9781441251091.jpg?1372396212",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": "Terje Oestigaard\u2019s",
+      "url": "http://www.nai.uu.se/research/researchers/terje-oestigaard/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": " Liverpool Hope University\u2019s *Theological Book Review*",
+      "url": "http://www.hope.ac.uk/theologicalbookreview/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": "Pentateuch textbook",
+      "url": "http://bakerpublishinggroup.com/books/from-paradise-to-the-promised-land-3rd-edition/230932",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/alabama-update.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "http://www.ibtauris.com/~/media/Images/Book%20Covers/Christianity/9781780760667.ashx",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/heres-what-im-committing-myself-to-as-a-priest.md",
+      "type": "markdown",
+      "text": "*this Saturday, November 02*",
+      "url": "https://joshuapsteele.com/ordination/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me.md",
+      "type": "markdown",
+      "text": "Truth\u2019s Table",
+      "url": "https://www.truthstable.com/podcast",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md",
+      "type": "markdown",
+      "text": "here\u2019s my LinkedIn profile",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    },
+    {
+      "file": "content/blog/a-valediction.md",
+      "type": "markdown",
+      "text": "\u201cA Valediction: Forbidding Mourning",
+      "url": "https://www.poetryfoundation.org/poems/44131/a-valediction-forbidding-mourning",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-unforgettable-cedarville-experience-pt-2-2.md",
+      "type": "markdown",
+      "text": "previous post",
+      "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-unforgettable-cedarville-experience-pt-2-2.md",
+      "type": "markdown",
+      "text": "Storify overview",
+      "url": "https://storify.com/fiatlux125/cedarville-2012-2013/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/romans-13.md",
+      "type": "markdown",
+      "text": "my sermon on Romans 1:1-17",
+      "url": "https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/romans-13.md",
+      "type": "markdown",
+      "text": "my summary of the book\u2019s argument/story",
+      "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/dont-stir-the-pot.md",
+      "type": "markdown",
+      "text": "the \u201cdual integrities\u201d diocesan-level division on women's ordination that currently characterizes the ACNA.",
+      "url": "https://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/concerning-romans.md",
+      "type": "markdown",
+      "text": "concerned the chaos at Cedarville University",
+      "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/concerning-romans.md",
+      "type": "markdown",
+      "text": " my previous post",
+      "url": "https://joshuapsteele.com/2014/03/07/my-regional-ets-presentation-reconciliation-and-the-lack-thereof/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/concerning-romans.md",
+      "type": "markdown",
+      "text": "Romans. Revisited.",
+      "url": "https://joshuapsteele.com/2012/06/28/romans-revisited-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/concerning-romans.md",
+      "type": "markdown",
+      "text": "\u201cThe Argument-Story of Romans\u201d",
+      "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/creation-and-doxology-pt-3.md",
+      "type": "markdown",
+      "text": "Pt. 1",
+      "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/creation-and-doxology-pt-3.md",
+      "type": "markdown",
+      "text": "Pt. 2 ",
+      "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/open-letter-to-cedarville-admins-and-trustees.md",
+      "type": "markdown",
+      "text": "omniscience",
+      "url": "http://www.cedarville.edu/~/media/Files/PDF/Shared/Omniscience-White-Paper.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/open-letter-to-cedarville-admins-and-trustees.md",
+      "type": "markdown",
+      "text": "justification",
+      "url": "http://www.cedarville.edu/~/media/Files/PDF/Shared/Forensic-Justification.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/open-letter-to-cedarville-admins-and-trustees.md",
+      "type": "markdown",
+      "text": "creation",
+      "url": "http://www.cedarville.edu/~/media/Files/PDF/Shared/Creation-White-Paper.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide2-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide11-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide10-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide9-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide8-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide7-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide6-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide5-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide4-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide3-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2017/04/Slide12-150x150.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/tech-hype-and-the-growing-chasm.md",
+      "type": "markdown",
+      "text": "a recent interview with Politico",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2023/12/01/5-questions-for-meredith-whittaker-00129677",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "ICON 1/4 in. Drive Compact Socket and Bit Set, 52-Piece",
+      "url": "https://www.harborfreight.com/14-in-drive-compact-socket-and-bit-set-52-piece-70695.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "ICON 1/4 in. Drive Mini Ratchet and Socket Set, 45-Piece",
+      "url": "https://www.harborfreight.com/14-in-drive-mini-ratchet-and-socket-set-45-piece-70696.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "ICON Locking Flex Head Ratchet and Bit Set, 35-Piece",
+      "url": "https://www.harborfreight.com/locking-flex-head-ratchet-and-bit-set-35-piece-58074.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "GORDON 20-in-1 Multi-Tool",
+      "url": "https://www.harborfreight.com/20-in-1-multi-tool-59617.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "one of those modified ICAN\u2019T cases from the absolute genius on Etsy",
+      "url": "https://www.etsy.com/shop/jaahwnsstuff/?etsrc=sdt",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "type": "markdown",
+      "text": "ICON 1/4 in. Drive Compact Socket and Bit Set, 52-Piece",
+      "url": "https://www.harborfreight.com/14-in-drive-compact-socket-and-bit-set-52-piece-70695.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/son-of-man-can-your-bones-live.md",
+      "type": "markdown",
+      "text": "see here",
+      "url": "http://lectionary.library.vanderbilt.edu/texts.php?id=131",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/3-confessions-expectant-father.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/saw-updates.md",
+      "type": "markdown",
+      "text": "Hercules Miter Saw from Harbor Freight Tools",
+      "url": "https://www.harborfreight.com/power-tools/power-saws/miter/12-in-dual-bevel-sliding-compound-miter-saw-with-precision-led-shadow-guide-56682.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/saw-updates.md",
+      "type": "markdown",
+      "text": "Bauer brushless cordless circular saw",
+      "url": "https://www.harborfreight.com/20v-brushless-cordless-7-14-in-circular-saw-tool-only-59281.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Me and my big head",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat\u00a0(Charcoal Gray, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat\u00a0(Charcoal Gray, One Size)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "type": "markdown",
+      "text": "Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/creation-and-doxology-pt-2.md",
+      "type": "markdown",
+      "text": "(Read Pt. 1 First!)",
+      "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/creation-and-doxology-pt-2.md",
+      "type": "markdown",
+      "text": "CONTINUE TO PART 3 \u2013&gt;",
+      "url": "https://joshuapsteele.com/2012/09/18/creation-and-doxology-pt-3/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-are-you-afraid-of.md",
+      "type": "markdown",
+      "text": "Blue Like Jazz",
+      "url": "http://www.imdb.com/title/tt1758575/quotes?item=qt1678309",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-are-you-afraid-of.md",
+      "type": "markdown",
+      "text": "Seth Godin",
+      "url": "http://sethgodin.typepad.com/seths_blog/2015/10/the-power-of-fear.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-are-you-afraid-of.md",
+      "type": "markdown",
+      "text": "The power of fear",
+      "url": "http://sethgodin.typepad.com/seths_blog/2015/10/the-power-of-fear.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/pentecost-songs-and-scripture.md",
+      "type": "markdown",
+      "text": "LectioCast",
+      "url": "http://www.jrdkirk.com/2015/05/14/lectiocast-a-lectionary-commentary-podcast/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/pentecost-songs-and-scripture.md",
+      "type": "markdown",
+      "text": "tomorrow\u2019s readings",
+      "url": "http://lectionary.library.vanderbilt.edu/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/government-kidnap-without-trial.md",
+      "type": "markdown",
+      "text": "Fifth Amendment",
+      "url": "https://constitution.congress.gov/constitution/amendment-5/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/government-kidnap-without-trial.md",
+      "type": "markdown",
+      "text": "Fourteenth Amendment",
+      "url": "https://constitution.congress.gov/constitution/amendment-14/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/government-kidnap-without-trial.md",
+      "type": "markdown",
+      "text": "Article I, Section 9, Clause 2",
+      "url": "https://constitution.congress.gov/constitution/article-1/#article-1-section-9-clause-2",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/down-with-the-pacifists.md",
+      "type": "markdown",
+      "text": "\u201cJohn Howard Yoder and the Violent Power of Pacifism\u201d",
+      "url": "http://www.firstthings.com/onthesquare/2013/10/john-howard-yoder-and-the-violent-power-of-pacifism",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
+      "type": "markdown",
+      "text": "Baker",
+      "url": "http://bakerpublishinggroup.com/books/freedom-under-the-word/385600",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
+      "type": "markdown",
+      "text": "Baker",
+      "url": "http://bakerpublishinggroup.com/books/karl-barth-and-dietrich-bonhoeffer/376181",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/presenting-on-barth-at-2015-southeastern-ets.md",
+      "type": "markdown",
+      "text": "2015 Southeast Regional Meeting of the Evangelical Theological Society",
+      "url": "https://lru.hobsonsradius.com/ssc/eform/N70x7m7aEx6G0x67128L.ssc",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/presenting-on-barth-at-2015-southeastern-ets.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/creation-and-doxology-pt-1.md",
+      "type": "markdown",
+      "text": "CONTINUE TO PART 2 \u2013&gt;",
+      "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/top-3-reasons-im-anglican-christian.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "http://anglicanpastor.com/wp-content/uploads/2017/01/RA-Logo-Black-Transparent-Background-200x167.png",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "this very helpful blogpost: \u201cHow to: Ruck on a Budget.\u201d",
+      "url": "http://www.mettleforger.com/how-to-ruck-on-a-budget/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "this piece at The Simple Dollar: A Guide to Rucking, My Favorite Low-Cost Exercise Activity.",
+      "url": "https://www.thesimpledollar.com/a-guide-to-rucking-my-favorite-low-cost-frugal-exercise-activity/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4031",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4031.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4032",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4032.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4036",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4036.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4037",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4037.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4033",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4033.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4034",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4034.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "a helpful guide to wrapping bricks from GoRuck",
+      "url": "http://news.goruck.com/event-news/wrapping-bricks-explained/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/hate-running-try-rucking-instead.md",
+      "type": "markdown",
+      "text": "IMG 4035",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4035.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/frustrated-with-church-youre-the-problem.md",
+      "type": "markdown",
+      "text": "to join the Church if you, like me, are frustrated with the Church",
+      "url": "http://frustrated",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/know-thyself-unveiling-your-unique-strengths-and-personality-traits.md",
+      "type": "markdown",
+      "text": "DISC Personality Testing",
+      "url": "https://www.discprofile.com/what-is-disc",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/know-thyself-unveiling-your-unique-strengths-and-personality-traits.md",
+      "type": "markdown",
+      "text": "DISC Personality Testing",
+      "url": "https://www.discprofile.com/what-is-disc",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/wedding-vows.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "https://joshuapsteele.com/category/personal/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/take-up-your-tongue-and-follow-jesus.md",
+      "type": "markdown",
+      "text": "Christ Redeemer Anglican Church in Milwaukee, WI",
+      "url": "https://www.christredeemermke.org/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/disunity-in-the-church-absurd.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/8-questions-to-ask-while-reading-theology.md",
+      "type": "markdown",
+      "text": "4 questions to ask while reading a book",
+      "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/christians-and-wealth.md",
+      "type": "markdown",
+      "text": "my topical study on what the book of Proverbs has to teach us about poverty",
+      "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/christians-and-wealth.md",
+      "type": "markdown",
+      "text": "a separate paper",
+      "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/peru-2014.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "http://afc726434ed5e9fb25d7-167fb5fa80ab95bdc8384d427ef6a062.r6.cf1.rackcdn.com/e1a5366a-4bc0-410e-b2a7-f7c40c65b852_profile.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/peru-2014.md",
+      "type": "markdown",
+      "text": "the Stone families",
+      "url": "http://www.abweperu.org/page_family/pagefamily.php?id=12",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/peru-2014.md",
+      "type": "markdown",
+      "text": "Luz del Camino Iglesia",
+      "url": "http://luzdelcaminosb.wix.com/luzdelcamino/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-perfect-translation.md",
+      "type": "markdown",
+      "text": "*The Dance Between God and Humanity: Reading the Bible Today as the People of God*",
+      "url": "http://www.eerdmans.com/Products/6736/the-dance-between-god-and-humanity.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-perfect-translation.md",
+      "type": "markdown",
+      "text": "Liverpool Hope University\u2019s Theological Book Review",
+      "url": "http://www.hope.ac.uk/theologicalbookreview/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://www.beesondivinity.com/assets/1346/11_cs070900557.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "type": "markdown",
+      "text": "Daniel J. Treier",
+      "url": "http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "type": "markdown",
+      "text": "my previous series of posts ",
+      "url": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "type": "markdown",
+      "text": "Here\u2019s the full schedule",
+      "url": "http://www.beesondivinity.com/assets/1346/ets_southeast_2014_schedule_1_page.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/its-time-for-another-social-media-fast.md",
+      "type": "markdown",
+      "text": "the Blinkist summary of Cal Newport\u2019s *Deep Work*",
+      "url": "https://www.blinkist.com/en/books/deep-work-en",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-uncle-timothy-steele.md",
+      "type": "markdown",
+      "text": "![Image",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2015/10/image.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-uncle-timothy-steele.md",
+      "type": "markdown",
+      "text": "my sermon: \u201cSon of Man, Can Your Bones Live?\u201d",
+      "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "The congregation/membership/attendance data comes from this 2018 report.",
+      "url": "http://s3.amazonaws.com/acna/Congregational_Report_to_Provincial_Council_2018.pdf",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u201cA Report of the Study Concerning the Ordination of Women Undertaken by the Anglican Mission in America: A survey of the Leading Theological Convictions,\u201d",
+      "url": "http://www.paludavia.com/anglican/w.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u201cThe Doctrine of the Trinity and Its Bearing on the Relationship of Men and Women,\u201d",
+      "url": "http://enit-syd.sds.asn.au/Site/104629.asp?ph=cp",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u201cWomen, Ordination and the Bible\u201d,",
+      "url": "http://www.tsm.edu/2014/09/03/women_ordination_and_the_bible/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u2018The *Icon Christi* and Eucharistic Theology.\u2019",
+      "url": "http://journals.sagepub.com/doi/abs/10.1177/0040571X9209500206",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u2018Women and the Priesthood of the Church.\u2019",
+      "url": "http://www.womenpriests.org/ecumenism/women-and-the-priesthood-of-the-church-by-e-l-mascall-from-why-not-priesthood-and-the-ministry-of-women/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u201cMan, Woman, and the Priesthood of Christ,\u201d pp. 68-90 in *Man, Woman, and Priesthood*",
+      "url": "http://www.womenpriests.org/articles-books/man-woman-and-the-priesthood-of-christ-by-kallistos-ware-from-man-woman-and-priesthood/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&language=en_US&l=li3&o=1&a=B001BKZVWU",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md",
+      "type": "markdown",
+      "text": "this JetPens guide to the best wooden pencils",
+      "url": "https://www.jetpens.com/blog/the-best-wooden-pencils/pt/633",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md",
+      "type": "markdown",
+      "text": "JetPens\u2019 recommendations for the best pencil sharpeners",
+      "url": "https://www.jetpens.com/blog/the-best-pencil-sharpeners/pt/710",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/testimony-brief.md",
+      "type": "markdown",
+      "text": "\u201cWhat Do I Believe? A Cross-Centered Credo.\u201d",
+      "url": "https://joshuapsteele.com/2015/12/08/a-crucicentric-credo/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/testimony-brief.md",
+      "type": "markdown",
+      "text": "college",
+      "url": "https://joshuapsteele.com/tag/cedarville/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/testimony-brief.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "https://joshuapsteele.com/2012/08/14/wedding-vows/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/testimony-brief.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "https://joshuapsteele.com/category/personal/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/one-simple-trick-helps-read-faster-ph-d-student.md",
+      "type": "markdown",
+      "text": "my posts about productivity and time management",
+      "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/black-friday-book-recommendation-the-economy-of-desire.md",
+      "type": "markdown",
+      "text": "lethal one",
+      "url": "http://blackfridaydeathcount.com/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/black-friday-book-recommendation-the-economy-of-desire.md",
+      "type": "markdown",
+      "text": "\u201cReconciliation and the Lack Thereof\u201d:",
+      "url": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/church_and_state.md",
+      "type": "markdown",
+      "text": "Improvising Church and State",
+      "url": "https://joshuapsteele.com/2015/12/08/improvising-church-state/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/mental-models-helpful-model-theology.md",
+      "type": "markdown",
+      "text": "Eisenhower Decision Matrix",
+      "url": "https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md",
+      "type": "markdown",
+      "text": "Tom Greggs",
+      "url": "http://www.abdn.ac.uk/sdhp/people/profiles/t.greggs",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md",
+      "type": "markdown",
+      "text": "Tom Greggs",
+      "url": "http://www.abdn.ac.uk/sdhp/people/profiles/t.greggs",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/lets-take-seth-godin-to-church.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/lets-take-seth-godin-to-church.md",
+      "type": "markdown",
+      "text": "Seth Godin",
+      "url": "http://www.sethgodin.com/sg/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/mothers-day-poem-2.md",
+      "type": "markdown",
+      "text": "\u201cA Valediction.\u201d",
+      "url": "https://joshuapsteele.com/2009/06/06/a-valediction/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "the White Papers",
+      "url": "http://www.cedarville.edu/About/Doctrinal-Statement.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "Open Apology",
+      "url": "https://joshuapsteele.com/2013/02/22/open-apology/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "<span style=\"line-height:14px;\">Cedarville, Let there be Light (pt 1)</span>",
+      "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "Cedarville, Let there be Light (pt 2)",
+      "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "An Explanation",
+      "url": "https://joshuapsteele.com/2012/09/22/an-explanation/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "Open Letter to CU Trustees and Admins",
+      "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "Oh Cedarville\u2026",
+      "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/let-there-be-light-my-resignation.md",
+      "type": "markdown",
+      "text": "Open Apology",
+      "url": "https://joshuapsteele.com/2013/02/22/open-apology/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://rlv.zcache.com/jeremiah_29_11_i_know_the_plans_bible_verse_denim_keychain-r143db7130dbe4fb3a239db30a4aeef88_x7j3z_8byvr_512.jpg",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+      "type": "markdown",
+      "text": "- this is not a bag of trail mix you cant just pick out the p",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://nourish.org/wp-content/uploads/2011/10/trail-mix-nancy-mueller.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
+      "type": "markdown",
+      "text": "Our small kettlebell family",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
+      "type": "markdown",
+      "text": "http://https://www.youtube.com/watch?v=0\\_XjJjLc7NE",
+      "url": "http://https://www.youtube.com/watch?v=0_XjJjLc7NE",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/an-explanation.md",
+      "type": "markdown",
+      "text": "Matt 18:15-22",
+      "url": "https://net.bible.org/#!l/bible%3AMatthew%2018%3A15-net_strongs__notes%3AMatthew%2018",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/an-explanation.md",
+      "type": "markdown",
+      "text": "David\u2019s cries for vengeance in Psalm 54",
+      "url": "https://net.bible.org/#!l/bible%3APsalms%2054%3A0-net_strongs__search%3APsalm%2054",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/an-explanation.md",
+      "type": "markdown",
+      "text": "Paul\u2019s calls for peace in Romans 12:14, 17a?",
+      "url": "https://net.bible.org/#!l/bible%3ARomans%2012%3A9-net_strongs__search%3ARomans%2012%3A9",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/they-laughed-when-i-became-an-anglican-but-when-i-started-to-pray-27-anglican-headline-ideas.md",
+      "type": "markdown",
+      "text": "due to my work at AnglicanCompass.com",
+      "url": "https://anglicanpastor.com/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/ok-maybe-a-bit-more-on-cedarville.md",
+      "type": "markdown",
+      "text": "the previous post on Cedarville",
+      "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/ok-maybe-a-bit-more-on-cedarville.md",
+      "type": "markdown",
+      "text": "![Image",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/ok-maybe-a-bit-more-on-cedarville.md",
+      "type": "markdown",
+      "text": "Miroslav Volf",
+      "url": "https://joshuapsteele.com/2013/11/10/volf-on-gender/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/following-christ-as-a-hermeneutical-problem.md",
+      "type": "markdown",
+      "text": "*Discipleship*",
+      "url": "https://ref.ly/logosres/dbw04?ref=DBW.DBW+4:74&off=794&ctx=r+those+who+follow.%0a~Fundamentally+elimin",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/following-christ-as-a-hermeneutical-problem.md",
+      "type": "markdown",
+      "text": "*Discipleship*",
+      "url": "https://ref.ly/logosres/dbw04?ref=DBW.DBW+4:74&off=794&ctx=r+those+who+follow.%0a~Fundamentally+elimin",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/following-christ-as-a-hermeneutical-problem.md",
+      "type": "markdown",
+      "text": "*Discipleship*",
+      "url": "https://ref.ly/logosres/dbw04?ref=DBW.DBW+4:74&off=794&ctx=r+those+who+follow.%0a~Fundamentally+elimin",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/following-christ-as-a-hermeneutical-problem.md",
+      "type": "markdown",
+      "text": "*Discipleship*",
+      "url": "https://ref.ly/logosres/dbw04?ref=DBW.DBW+4:74&off=794&ctx=r+those+who+follow.%0a~Fundamentally+elimin",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/12-prayers-for-tough-days.md",
+      "type": "markdown",
+      "text": "download a Word document containing all of the Occasional Prayers here",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "Image",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "![",
+      "url": "https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "I got angry. I spoke up",
+      "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "one commentator puts it",
+      "url": "https://net.bible.org/#!bible/Nahum+1:3",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "my university",
+      "url": "http://storify.com/fiatlux125/cedarville-2012-2013/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+      "type": "markdown",
+      "text": "in addition to many others this year within the Cedarville community",
+      "url": "http://storify.com/fiatlux125/cedarville-2012-2013/",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-hope-of-the-holy-innocents.md",
+      "type": "markdown",
+      "text": "Today is December 28",
+      "url": "http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/give-thanks.md",
+      "type": "markdown",
+      "text": "blogwith",
+      "url": "http://blogwith.co",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://i1.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png?fit=640%2C504&ssl=1",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://i2.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png?fit=640%2C432&ssl=1",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/software-testing-possibilities-problems-and-principles.md",
+      "type": "markdown",
+      "text": "Parameterized testing",
+      "url": "https://www.baeldung.com/parameterized-tests-junit-5",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/software-testing-possibilities-problems-and-principles.md",
+      "type": "markdown",
+      "text": "jsteelepfpt",
+      "url": "https://github.com/jsteelepfpt",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/software-testing-possibilities-problems-and-principles.md",
+      "type": "markdown",
+      "text": "joshuapsteele",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics.md",
+      "type": "markdown",
+      "text": "<span style=\"font-weight: 400;\">vast majority</span>",
+      "url": "https://farmforward.com/ending-factory-farming/#easy-footnote-3",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics.md",
+      "type": "markdown",
+      "text": "<span style=\"font-weight: 400;\">emits more greenhouse gases</span>",
+      "url": "http://www.fao.org/news/story/en/item/197623/icode/",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-grain-of-the-gospel-why-christians-should-care-about-food-ethics.md",
+      "type": "markdown",
+      "text": "<span style=\"font-weight: 400;\">this piece from PETA LAMBS</span>",
+      "url": "https://www.petalambs.com/scripture-and-testimonies/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "The Bible, Dogmatic Rank, and a Statement of Faith: Part 1",
+      "url": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the\\_bible\\_dogmatic\\_rank\\_and\\_a\\_statement\\_of\\_faith\\_-\\_introduction\\_0.pdf",
+      "url": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the\\_bible\\_dogmatic\\_rank\\_and\\_a\\_statement\\_of\\_faith\\_-\\_introduction\\_0.pdf",
+      "url": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "Drawing Doctrinal Lines: Where? And How?: How do we distinguish between the Essentials and the Non-essentials of the Faith?",
+      "url": "https://www.efca.org/sites/default/files/resources/docs/2019/02/drawing_doctrinal_lines_forum_presentation.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "The Bible, Dogmatic Rank, and a Statement of Faith: How do we determine what is a major doctrine?",
+      "url": "https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_election.pdf",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "Article 10 of the Formula of Concord",
+      "url": "http://bookofconcord.org/fc-ep.php#X.%20Church%20Rites",
+      "status": 502,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "A Call for Theological Triage and Christian Maturity.",
+      "url": "https://albertmohler.com/2005/07/12/a-call-for-theological-triage-and-christian-maturity/",
+      "status": 502,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "Charles Raith II\u2019s review of this volume in IJST",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ijst.12178",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "type": "markdown",
+      "text": "A Call for Theological Triage and Christian Maturity",
+      "url": "https://albertmohler.com/2004/05/20/a-call-for-theological-triage-and-christian-maturity-2/",
+      "status": 502,
+      "error": null
+    },
+    {
+      "file": "content/blog/im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate.md",
+      "type": "markdown",
+      "text": "noted",
+      "url": "https://esaumccaulley.com/2020/01/26/come-let-us-read-together-a-hopefully-warm-invitation-to-think-the-best-of-each-other-in-the-womens-ordination-discussion/?fbclid=IwAR2Aafb_9UCW8j0W-F-DTzH-p2BvWfmszuPIQp0Yx6zLgjklU8u7cGFzkcs",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "I love this place.",
+      "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "I\u2019ve written about this before",
+      "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "http://www.mulberrycommunity.com/2012/10/is-that-so-cedarville.html",
+      "status": 500,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "here",
+      "url": "http://www.cedarville.edu/About/Doctrinal-Statement.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/Michael-Pahl.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://www.cedarville.edu/~/media/Images/Campus-News/News/2012/Carl-Ruby-13_001.jpg?w=250",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "SGA Town Hall meeting last month",
+      "url": "http://cedars.cedarville.edu/article/585/SGA-Town-Hall-Meeting-Jan-22/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "Cedarville Alumni and Family Questions and Answers",
+      "url": "http://www.cedarville.edu/Alumni/FAQ.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "<span style=\"color:#000000;\">announced to the University family</span>",
+      "url": "http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Ruby-Legacy-Built-at-Cedarville-University.aspx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "Dayton Daily News\u2019 most recent piece on Cedarville",
+      "url": "http://www.daytondailynews.com/news/news/cedarville-students-alumni-question-universitys-di/nWQgS/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "New York Times piece on the Cedarville controversy",
+      "url": "http://www.nytimes.com/2013/02/16/us/a-christian-college-struggles-to-define-itself.html?_r=0",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/oh-cedarville.md",
+      "type": "markdown",
+      "text": "",
+      "url": "http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/chris-williamson-fall-bible-conference.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/birthday-wishlist-2025.md",
+      "type": "markdown",
+      "text": "WORKPRO Mini Water Pump Pliers, 4-Inch",
+      "url": "https://amzn.to/4807rB5",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/birthday-wishlist-2025.md",
+      "type": "markdown",
+      "text": "Cool Tools",
+      "url": "https://kk.org/cooltools/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/blog/birthday-wishlist-2025.md",
+      "type": "markdown",
+      "text": "JetPens",
+      "url": "https://www.jetpens.com/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
+      "type": "markdown",
+      "text": "Poverty in the book of Proverbs",
+      "url": "https://joshuapsteele.com/20110210proverbs-topical-study-poverty/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "Hoping to be able to read German with a dictionary by the end of the summer!",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "Karl Barth\u2019s theological bombshell.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "I\u2019m trying the Slow-Carb Diet and kettlebell swings.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "I\u2019ve wanted to get my hands on a copy of the Homilies for some time.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "Finally getting around to reading this classic!",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "My very first Seth Godin book.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/what-im-reading.md",
+      "type": "markdown",
+      "text": "What has Barth to do with Plantinga? I\u2019m hoping Diller can tell me.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/citizens-manifesto.md",
+      "type": "markdown",
+      "text": "constitutional framework in the United States of America",
+      "url": "https://constitution.congress.gov/constitution/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://i1.wp.com/joshuapsteele.com/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png?fit=700%2C373&ssl=1",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures.md",
+      "type": "markdown",
+      "text": "most people just think it\u2019s a plus sign",
+      "url": "https://qr.ae/pNA4ts",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/death-in-his-grave.md",
+      "type": "markdown",
+      "text": "An icon of \"the harrowing of Hell,\" depicting Christ rescuing Adam, Eve, and others from Hell.",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/morning-prayer-homily-mark-8-11-21.md",
+      "type": "markdown",
+      "text": "Catholic scholar Mary Healy ",
+      "url": "http://www.catholiccommentaryonsacredscripture.com/volumes-authors/mary-healy/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/home-gym-upgrades.md",
+      "type": "markdown",
+      "text": "Valor Fitness BD-9 Squat Stands",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/home-gym-upgrades.md",
+      "type": "markdown",
+      "text": "Rep Fitness PR-1100 Power Rack",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/home-gym-upgrades.md",
+      "type": "markdown",
+      "text": "Rep Fitness PR-1100 Power Rack",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-love-my-kids-but-i-sometimes-regret-having-them.md",
+      "type": "markdown",
+      "text": "read all the parenting books",
+      "url": "https://www.amazon.com/s?k=parenting+books&crid=3QVJIF4D7G2D7&sprefix=parenting%2Caps%2C183&linkCode=ll2&tag=joshuapsteele-20&linkId=e2dc22d364345a0d1e9b31822e628163&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "error": null
+    },
+    {
+      "file": "content/blog/i-love-my-kids-but-i-sometimes-regret-having-them.md",
+      "type": "markdown",
+      "text": "\u201cParents Should Ignore Their Children More Often.\u201d",
+      "url": "https://www.nytimes.com/2024/09/15/opinion/parenting-helicopter-ignoring.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3663.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3743.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/justification-and-sanctification.md",
+      "type": "markdown",
+      "text": "Justification and Sanctification Handout  ",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/justification-and-sanctification.md",
+      "type": "markdown",
+      "text": "Download",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again.md",
+      "type": "markdown",
+      "text": "Digital Karl Barth Library",
+      "url": "https://alexanderstreet.com/products/digital-karl-barth-library",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/blog/cedarville-let-there-be-light-pt-2.md",
+      "type": "markdown",
+      "text": "(CONTINUED: An Explanation)",
+      "url": "https://joshuapsteele.com/2012/09/22/an-explanation/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/volf-on-divine-violence.md",
+      "type": "markdown",
+      "text": "posts",
+      "url": "https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/eva-joy-steele-a-birth-story.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/eva-joy-steele-a-birth-story.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/eva-joy-steele-a-birth-story.md",
+      "type": "markdown",
+      "text": "",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "\u201cnon-theological argument against the ordination of women.\u201d",
+      "url": "http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning the Ordination of Women: Preliminaries",
+      "url": "http://willgwitt.org/theology/concerning-the-ordination-of-women/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Non-theological Arguments Against the Ordination of Women",
+      "url": "http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: The Argument \u201cFrom Tradition\u201d is not the \u201cTraditional\u201d Argument",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Hierarchy and Hermeneutics",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-hierarchy-and-hermeneutics/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Beginning with Genesis",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-beginning-with-genesis/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Disciples of Jesus",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-disciples-of-jesus/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Mutual Submission",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-mutual-submission/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Women in Worship and \u201cHeadship\u201d",
+      "url": "http://willgwitt.org/theology/concerning-women%E2%80%99s-ordination-women-in-worship/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Speaking and Teaching",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-speaking-and-teaching/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: A Presbytera is not a \u201cPriestess\u201d (Part 1: Old Testament Priesthood)",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-a-presbytera-is-not-a-priestess-part-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Women\u2019s Ordination and the Priesthood of Christ (Biblical and Patristic Background)",
+      "url": "http://willgwitt.org/theology/womens-ordination-and-the-priesthood-of-christ-biblical-and-patristic-background/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Women\u2019s Ordination and the Priesthood of Christ (in persona Christi)",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: The Argument From Symbolism Part 1 (God, Christ, Apostles)",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-symbolism-part-1/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: The Argument From Symbolism (Part 2: Transcendence, Immanence and Sexual Typology)",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-symbolism-part-2/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Women\u2019s Ministry in the New Testament (Office)",
+      "url": "http://willgwitt.org/theology/womens-ordination-office/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Concerning Women\u2019s Ordination: Women\u2019s Ministry in the New Testament (Bishops, Presbyters, Deacons) or a Presbytera is not a \u201cPriestess\u201d (Part 2)",
+      "url": "http://willgwitt.org/theology/concerning-womens-ordination-womens-ministry-in-the-new-testament-bishops-presbyters-deacons/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+      "type": "markdown",
+      "text": "Conclusion",
+      "url": "http://willgwitt.org/theology/womens-ordination/concerning-womens-ordination-conclusion/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/into-the-far-country.md",
+      "type": "markdown",
+      "text": "Karl Barth Quote Blue",
+      "url": "https://joshuapsteele.com/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination.md",
+      "type": "markdown",
+      "text": "the topic of women\u2019s ordination",
+      "url": "http://anglicancompass.com/tag/womens-ordination/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination.md",
+      "type": "markdown",
+      "text": "Dr. McGowin\u2019s first piece on Anglican Compass",
+      "url": "http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/blog/tidbits-2025-09-19.md",
+      "type": "markdown",
+      "text": "ICON Magnetic Tool Mat",
+      "url": "https://www.harborfreight.com/collections/new-tools/tool-storage-organization/magnetic-tool-mat-70077.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "Guide One Foundation Scholarship",
+      "url": "https://www.guideone.com/giving-back/guideone-foundation/scholarship/",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "The Daniel Award",
+      "url": "http://www.cedarville.edu/financialaid/Daniel+Award",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "Dr. Donald Tyler Scholarship",
+      "url": "http://www.cedarville.edu/financialaid/Dr.+Donald+Tyler+Scholarship",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "Alumni Honors Scholarship",
+      "url": "http://www.cedarville.edu/financialaid/Alumni+Honors+Scholarship",
+      "status": 404,
+      "error": null
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "National Merit Scholar",
+      "url": "http://www.nationalmerit.org/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/sermons.md",
+      "type": "markdown",
+      "text": "Easter Vigil Readings",
+      "url": "http://lectionary.library.vanderbilt.edu/texts.php?id=131",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/blogroll.md",
+      "type": "markdown",
+      "text": "The Economist",
+      "url": "https://www.economist.com/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/blogroll.md",
+      "type": "markdown",
+      "text": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": 401,
+      "error": null
+    },
+    {
+      "file": "content/pages/resist.md",
+      "type": "markdown",
+      "text": "The Economist",
+      "url": "https://www.economist.com/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/resist.md",
+      "type": "markdown",
+      "text": "Reuters",
+      "url": "https://www.reuters.com/",
+      "status": 401,
+      "error": null
+    },
+    {
+      "file": "content/pages/bookmarks.md",
+      "type": "markdown",
+      "text": "12ft",
+      "url": "https://12ft.io/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/pages/bookmarks.md",
+      "type": "markdown",
+      "text": "Cool Tools",
+      "url": "https://kk.org/cooltools/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/pages/bookmarks.md",
+      "type": "markdown",
+      "text": "Hacker Laws",
+      "url": "https://hacker-laws.com/",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/pages/wish-list.md",
+      "type": "markdown",
+      "text": "Hand truck",
+      "url": "https://www.harborfreight.com/material-handling/hand-trucks-carts-dollies/800-lb-capacity-hand-truck-58294.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/wish-list.md",
+      "type": "markdown",
+      "text": "Floor jack",
+      "url": "https://www.harborfreight.com/automotive/jacks-jack-stands/floor-jacks/3-ton-low-profile-floor-jack-with-rapid-pump-red-56617.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/wish-list.md",
+      "type": "markdown",
+      "text": "Jack stands",
+      "url": "https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/wish-list.md",
+      "type": "markdown",
+      "text": "Yamaha GigMaker set",
+      "url": "https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/follow.md",
+      "type": "markdown",
+      "text": "LinkedIn",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    },
+    {
+      "file": "content/pages/carry.md",
+      "type": "markdown",
+      "text": "Harbor Freight's Gordon 20-in-1 Multitool",
+      "url": "https://www.harborfreight.com/20-in-1-multi-tool-59617.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/recommended-tools-and-resources.md",
+      "type": "markdown",
+      "text": "_Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems_",
+      "url": "https://amzn.to/3U6FOhr",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/pages/recommended-tools-and-resources.md",
+      "type": "markdown",
+      "text": "https://www.baeldung.com/",
+      "url": "https://www.baeldung.com/",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/recommended-tools-and-resources.md",
+      "type": "markdown",
+      "text": "OXO 9-Cup Coffee Maker",
+      "url": "https://www.oxo.com/barista-brain-9-cup-coffee-maker.html",
+      "status": 403,
+      "error": null
+    },
+    {
+      "file": "content/pages/about.md",
+      "type": "markdown",
+      "text": "social.joshuapsteele.com",
+      "url": "https://social.joshuapsteeele.com",
+      "status": null,
+      "error": "Connection error"
+    },
+    {
+      "file": "content/pages/about.md",
+      "type": "markdown",
+      "text": "my LinkedIn profile",
+      "url": "https://www.linkedin.com/in/joshuapsteele/",
+      "status": 999,
+      "error": null
+    }
+  ],
+  "timeout_details": [
+    {
+      "file": "content/blog/what-blogs-are-you-reading.md",
+      "type": "markdown",
+      "text": "The Appademic \u00bb Technology, productivity and workflows for academics, students and other nerds",
+      "url": "https://appademic.tech",
+      "status": null,
+      "error": "Timeout"
+    },
+    {
+      "file": "content/blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "type": "markdown",
+      "text": "\u2018Women Priests?\u2019",
+      "url": "http://trushare.com/Mascall%20Women%20Priests.htm",
+      "status": null,
+      "error": "Timeout"
+    },
+    {
+      "file": "content/blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md",
+      "type": "markdown",
+      "text": "Michael DeJonge",
+      "url": "http://religious-studies.usf.edu/faculty/mdejonge/",
+      "status": null,
+      "error": "Timeout"
+    },
+    {
+      "file": "content/blog/barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall.md",
+      "type": "markdown",
+      "text": "Paul Dafydd Jones",
+      "url": "http://religiousstudies.virginia.edu/faculty/profile/pdj5c",
+      "status": null,
+      "error": "Timeout"
+    },
+    {
+      "file": "content/pages/cv.md",
+      "type": "markdown",
+      "text": "Cincinnatus Presidential Scholarship",
+      "url": "http://financialaid.uc.edu/sfao/cincinnatus.html",
+      "status": null,
+      "error": "Timeout"
+    }
+  ]
+}
