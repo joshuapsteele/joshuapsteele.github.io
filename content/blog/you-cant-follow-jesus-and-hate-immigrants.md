@@ -7,7 +7,11 @@ date: '2024-09-13T16:19:56Z'
 description: You Can't Follow Jesus and Hate Immigrants You can’t follow Jesus and
   hate immigrants.
 tags:
+- bible
+- christian ethics
 - immigration
+- matthew 25
+- refugees
 title: You Can't Follow Jesus and Hate Immigrants
 url: /you-cant-follow-jesus-and-hate-immigrants/
 ---

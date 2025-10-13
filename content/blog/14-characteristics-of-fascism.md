@@ -9,6 +9,9 @@ showToc: true
 tags:
 - fascism
 - authoritarianism
+- politics
+- ethics
+- umberto eco
 title: '14 Characteristics of Fascism: Umberto Eco on Ur-Fascism'
 url: /14-characteristics-of-fascism/
 ---

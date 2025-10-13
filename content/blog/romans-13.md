@@ -7,6 +7,12 @@ categories:
 date: '2013-02-07T07:48:55Z'
 description: Without context, words can mean anything and everything, and therefore
   mean nothing.
+tags:
+- romans 13
+- bible
+- politics
+- government
+- political theology
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
 ---

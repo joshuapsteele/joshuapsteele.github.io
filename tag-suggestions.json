@@ -1,0 +1,80 @@
+[
+  {
+    "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+    "title": "You Can't Follow Jesus and Hate Immigrants",
+    "current_tags": [
+      "immigration"
+    ],
+    "suggested_tags": [
+      "bible"
+    ],
+    "all_scores": {
+      "immigration": 34,
+      "bible": 2
+    }
+  },
+  {
+    "file": "content/blog/romans-13.md",
+    "title": "You're Reading Romans 13 Wrong! Here's How to Read It Correctly",
+    "current_tags": [],
+    "suggested_tags": [
+      "romans 13",
+      "bible",
+      "books",
+      "theology",
+      "church"
+    ],
+    "all_scores": {
+      "romans 13": 16,
+      "bible": 8,
+      "books": 4,
+      "theology": 2,
+      "church": 2,
+      "immigration": 2,
+      "politics": 2,
+      "ministry": 2,
+      "preaching": 2
+    }
+  },
+  {
+    "file": "content/blog/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life.md",
+    "title": "Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer\u2019s Life",
+    "current_tags": [
+      "bonhoeffer"
+    ],
+    "suggested_tags": [
+      "theology",
+      "barth",
+      "research",
+      "family",
+      "church"
+    ],
+    "all_scores": {
+      "bonhoeffer": 46,
+      "theology": 10,
+      "barth": 6,
+      "research": 4,
+      "family": 4,
+      "church": 2
+    }
+  },
+  {
+    "file": "content/blog/14-characteristics-of-fascism.md",
+    "title": "14 Characteristics of Fascism: Umberto Eco on Ur-Fascism",
+    "current_tags": [
+      "fascism",
+      "authoritarianism"
+    ],
+    "suggested_tags": [
+      "politics",
+      "ethics",
+      "racism"
+    ],
+    "all_scores": {
+      "fascism": 24,
+      "politics": 2,
+      "ethics": 2,
+      "racism": 2
+    }
+  }
+]
