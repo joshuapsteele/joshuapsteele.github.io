@@ -27,7 +27,7 @@ Right before the truth got quiet
 **[Chorus]**  
 All that time  
 We lived in herd immunity  
-Now we’ve got lost opportunity  
+Now we’ve lost opportunity  
 Now I can see it all (See it all)  
 Late one night  
 You crawled up out of the past and  
@@ -89,7 +89,7 @@ All because of apathy...
 **[Chorus]**  
 All that time  
 We lived in herd immunity  
-Now we’ve got lost opportunity  
+Now we’ve lost opportunity  
 Now I can see it all (I can see it all)  
 Late one night  
 You crawled up out of the past and  
