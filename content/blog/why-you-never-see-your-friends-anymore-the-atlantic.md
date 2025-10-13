@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: personal
 date: '2019-10-16T16:38:20Z'
 description: Judith Shulevitz offers up a (depressing) eye-opening analysis of our
   overbusy lives. There is another way.

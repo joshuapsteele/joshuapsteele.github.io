@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: ministry
 date: '2019-11-02T02:35:27Z'
 description: Reflections on the eve of priestly ordination, transitioning from deacon
   to priest in service of Christ's Church.

@@ -1,11 +1,13 @@
 ---
-title: How to Resist Tyranny
-author: joshuapsteele
-description: 'Resources and strategies for resisting tyranny and defending democracy.'
-url: /resist
-showtoc: true
 TocOpen: false
+author: joshuapsteele
+categories: ethics
+description: Resources and strategies for resisting tyranny and defending democracy.
+showtoc: true
+title: How to Resist Tyranny
+url: /resist
 ---
+
 Friends, in light of recent political developments in the United States and around the world (rising authoritarianism and, yes, [fascism](/14-characteristics-of-fascism/)), I've compiled a list of resources and strategies for resisting tyranny and defending democracy. This is by no means exhaustive, but it's a good starting point for anyone looking to get involved.
 
 First and foremost, **we must know and want to know the truth**. Mainstream media and social media have let us down by seeking to keep us angry, divided, and misinformed. We must seek out reliable sources of information and be willing to change our minds when presented with new evidence.

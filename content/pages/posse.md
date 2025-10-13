@@ -1,13 +1,15 @@
 ---
-title: POSSE
-description: 'Here is my current personal tech stack.'
-url: /posse
-draft: false
-showtoc: false
 aliases:
 - /tech-stack
 - /techstack
+categories: personal
+description: Here is my current personal tech stack.
+draft: false
+showtoc: false
+title: POSSE
+url: /posse
 ---
+
 {{< callout "note" >}}
 This `/posse` (AKA "Publish Own Site, Syndicate Everywhere") or `/tech-stack` or `/techstack` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}

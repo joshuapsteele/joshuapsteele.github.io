@@ -1,10 +1,12 @@
 ---
-title: Questions
 author: joshuapsteele
-description: 'This is a page, where I keep track of the questions I am asking.'
-url: /questions/
+categories: personal
+description: This is a page, where I keep track of the questions I am asking.
 showtoc: true
+title: Questions
+url: /questions/
 ---
+
 {{< callout "note" >}}
 This `/questions` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}

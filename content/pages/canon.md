@@ -1,10 +1,12 @@
 ---
-title: Canon
-description: 'Things that have most shaped me.'
-url: /canon
+categories: theology
+description: Things that have most shaped me.
 draft: false
 showtoc: false
+title: Canon
+url: /canon
 ---
+
 Things that have most shaped me:
 
 - Jesus of Nazareth

@@ -1,10 +1,12 @@
 ---
-title: AI
-description: 'How I use (and don''t use) AI tools.'
-url: /ai
+categories: productivity
+description: How I use (and don't use) AI tools.
 draft: false
 showtoc: false
+title: AI
+url: /ai
 ---
+
 ## How I Use AI
 
 - To code. I use the following tools:

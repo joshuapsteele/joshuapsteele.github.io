@@ -1,13 +1,16 @@
 ---
-title: My Story
-author: joshuapsteele
-description: 'My journey from conservative evangelicalism through Anglicanism to where I am now has been painful and disorienting. But it has also been honest.'
-url: /my-story
-guid: https://joshuapsteele.com/?page_id=42475
 aliases:
 - /portfolio/my-story
+author: joshuapsteele
+categories: theology
+description: My journey from conservative evangelicalism through Anglicanism to where
+  I am now has been painful and disorienting. But it has also been honest.
+guid: https://joshuapsteele.com/?page_id=42475
 showtoc: false
+title: My Story
+url: /my-story
 ---
+
 {{< callout "note" >}}
 **More About Me:** [About](/about) • [CV/Resume](/cv) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}

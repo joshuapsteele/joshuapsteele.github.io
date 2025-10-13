@@ -1,10 +1,12 @@
 ---
-title: Portfolio (About Me)
 author: joshuapsteele
-description: 'A collection of my work, writings, and websites.'
+categories: ministry
+description: A collection of my work, writings, and websites.
 draft: true
 guid: https://joshuapsteele.com/?page_id=4204
+title: Portfolio (About Me)
 ---
+
 ## [CV](/portfolio/cv/)
 
 [Read my _curriculum vitae_](/portfolio/cv/) to learn more about my education and experience.

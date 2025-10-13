@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: theology
 date: '2019-10-28T19:36:59Z'
 description: A Book of Common Prayer petition for God's grace, protection, and blessing
   upon relatives and friends in daily life.

@@ -1,14 +1,16 @@
 ---
-title: CV
-author: joshuapsteele
-description: 'My curriculum vitae (CV) and resume.'
-url: /cv/
-guid: https://joshuapsteele.com/?page_id=4007
-showtoc: true
 aliases:
 - /portfolio/cv
 - /resume
+author: joshuapsteele
+categories: productivity
+description: My curriculum vitae (CV) and resume.
+guid: https://joshuapsteele.com/?page_id=4007
+showtoc: true
+title: CV
+url: /cv/
 ---
+
 _(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
 
 * * *

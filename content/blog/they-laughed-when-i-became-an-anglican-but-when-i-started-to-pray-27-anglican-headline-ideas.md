@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: ministry
 date: '2020-04-16T14:06:29Z'
 description: I’m reading my way through the new (4th) edition of Robert Bly’s classic
   *The Copywriter’s Handbook*.

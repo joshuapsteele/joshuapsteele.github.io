@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: ministry
 date: '2019-11-16T16:54:14Z'
 description: Challenging the false claim that mutualists ignore Scripture and tradition
   in women's ordination debates.

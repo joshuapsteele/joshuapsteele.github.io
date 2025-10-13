@@ -1,10 +1,12 @@
 ---
-title: Death
-description: 'Instructions for family and friends in case of my death.'
-url: /death
+categories: personal
+description: Instructions for family and friends in case of my death.
 draft: false
 showtoc: false
+title: Death
+url: /death
 ---
+
 Yes, yes, I know it's a bit morbid, but here are some instructions for family and friends in case of my death:
 
 - If possible, I'd like to be buried, in a simple, inexpensive casket.

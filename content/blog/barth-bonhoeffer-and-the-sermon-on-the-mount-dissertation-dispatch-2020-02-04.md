@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: theology
 date: '2020-02-04T18:53:48Z'
 description: I’m still very much in the weeds, taking a closer look at how Bonhoeffer
   and Barth read the Sermon on the Mount.

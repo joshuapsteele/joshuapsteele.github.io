@@ -1,10 +1,12 @@
 ---
-title: Defaults
-description: 'This is a list of apps and software tools I use daily.'
-url: /defaults
+categories: productivity
+description: This is a list of apps and software tools I use daily.
 draft: false
 showtoc: false
+title: Defaults
+url: /defaults
 ---
+
 You can find other people's `/defaults` pages at [defaults.rknight.me](https://defaults.rknight.me/).
 
 Here are the apps I use for various tasks:

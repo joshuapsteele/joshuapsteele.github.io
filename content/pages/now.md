@@ -1,11 +1,13 @@
 ---
-title: Now
 author: joshuapsteele
-description: 'What I am doing these days.'
-url: /now/
+categories: productivity
+description: What I am doing these days.
 guid: https://joshuapsteele.com/?page_id=41441
 showtoc: false
+title: Now
+url: /now/
 ---
+
 {{< callout "note" >}}
 This `/now` page is just one of [my many "slash pages."](/slashes)
 

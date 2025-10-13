@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: ministry
 date: '2020-05-16T15:28:17Z'
 description: Successfully migrated Anglican Compass from HostGator shared hosting
   to Bluehost VPS—hoping this improves site performance.

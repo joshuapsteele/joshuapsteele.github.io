@@ -1,12 +1,15 @@
 ---
-title: Bookmarks
-description: 'This is a list of interesting and/or useful websites and posts I have bookmarked.'
-url: /bookmarks
-draft: false
-showtoc: false
 aliases:
 - /save
+categories: productivity
+description: This is a list of interesting and/or useful websites and posts I have
+  bookmarked.
+draft: false
+showtoc: false
+title: Bookmarks
+url: /bookmarks
 ---
+
 ## Websites: Interesting and/or Useful
 
 - [12ft](https://12ft.io/)

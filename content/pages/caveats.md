@@ -1,10 +1,12 @@
 ---
-title: Caveats
 author: joshuapsteele
-description: 'You can add these caveats to everything I write online.'
-url: /caveats
+categories: productivity
+description: You can add these caveats to everything I write online.
 showtoc: false
+title: Caveats
+url: /caveats
 ---
+
 You can add the following caveats to everything I write online.
 
 - **If it doesn't directly apply to you, feel free to move along**  

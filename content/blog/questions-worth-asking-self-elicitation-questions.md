@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: productivity
 date: 2022-11-08
 description: These are questions that are always worth asking yourself. For a list
   of questions I'm currently asking and investigating, see my page.

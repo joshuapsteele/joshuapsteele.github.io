@@ -1,14 +1,16 @@
 ---
-title: Birthday Wishlist 2025
-date: 2025-09-24 09:24:17-04:00
-author: joshuapsteele
-description: It's that time of year again. All the best people were born in October.
-url: /birthday-wishlist-2025/
-draft: false
-showToc: false
 aliases:
 - /blog/birthday-wishlist-2025/
+author: joshuapsteele
+categories: productivity
+date: 2025-09-24 09:24:17-04:00
+description: It's that time of year again. All the best people were born in October.
+draft: false
+showToc: false
+title: Birthday Wishlist 2025
+url: /birthday-wishlist-2025/
 ---
+
 It's that time of year again! All the best people were born in October! :) 
 
 As my birthday approaches, I've put together a wishlist of items that I've been eyeing. If you're looking for gift ideas (or if you just want to snag some cool tools for yourself!), here's what I'm hoping for this year:

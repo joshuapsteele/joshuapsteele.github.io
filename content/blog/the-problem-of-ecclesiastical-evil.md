@@ -1,6 +1,6 @@
 ---
 author: joshuapsteele
-categories: []
+categories: theology
 date: '2024-03-08T12:26:14Z'
 description: You’ve probably heard of “the problem of evil” (if not, here’s an overview).
   But there’s a specific version/aspect of it that I find even more devastating.

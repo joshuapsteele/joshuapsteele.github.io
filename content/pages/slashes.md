@@ -1,10 +1,12 @@
 ---
-title: Slashes
-description: 'This is a meta-page listing all the slash pages on my website.'
-url: /slashes
+categories: personal
+description: This is a meta-page listing all the slash pages on my website.
 draft: false
 showtoc: false
+title: Slashes
+url: /slashes
 ---
+
 {{< callout "note" >}}
 You can find out more about "slash pages" at [slashpages.net](https://slashpages.net/), which is maintained by [Robb Knight](https://rknight.me/).
 {{< /callout >}}

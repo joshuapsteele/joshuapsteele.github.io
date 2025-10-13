@@ -1,11 +1,13 @@
 ---
-title: Lists
-author: joshuapsteele
-description: 'This is a page, where I keep track of the lists I am working on.'
-url: /lists/
-showtoc: true
 TocOpen: true
+author: joshuapsteele
+categories: ethics
+description: This is a page, where I keep track of the lists I am working on.
+showtoc: true
+title: Lists
+url: /lists/
 ---
+
 {{< callout "note" >}}
 This `/lists` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}

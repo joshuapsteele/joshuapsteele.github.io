@@ -1,15 +1,18 @@
 ---
-title: Wish List
-author: joshuapsteele
-description: Here's a wish list I regularly update. I also keep my Amazon wish list updated here.
-url: /wishlist/
-guid: https://joshuapsteele.com/?page_id=41418
 aliases:
 - /wish/
 - /wish-list/
 - /what-i-want/
+author: joshuapsteele
+categories: productivity
+description: Here's a wish list I regularly update. I also keep my Amazon wish list
+  updated here.
+guid: https://joshuapsteele.com/?page_id=41418
 showtoc: false
+title: Wish List
+url: /wishlist/
 ---
+
 Here's a wish list I regularly update. I also keep [my Amazon wish list updated here](https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share).
 
 

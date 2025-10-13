@@ -1,12 +1,14 @@
 ---
-title: Essays
-author: joshuapsteele
-description: 'A collection of my academic essays.'
-url: /essays
-guid: https://joshuapsteele.com/?page_id=4016
 aliases:
 - /portfolio/essays
+author: joshuapsteele
+categories: theology
+description: A collection of my academic essays.
+guid: https://joshuapsteele.com/?page_id=4016
+title: Essays
+url: /essays
 ---
+
 _(Note: Since writing the essays below, I've left the academy and now work as a software engineer. Nevertheless, I'm keeping these around for posterity.)_
 
 ## Wheaton College Graduate School (2017 - )

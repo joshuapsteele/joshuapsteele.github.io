@@ -1,12 +1,14 @@
 ---
-title: Sermons
-author: joshuapsteele
-description: 'A collection of sermons I have preached.'
-url: /sermons
-guid: https://joshuapsteele.com/?page_id=3453
 aliases:
 - /portfolio/sermons
+author: joshuapsteele
+categories: theology
+description: A collection of sermons I have preached.
+guid: https://joshuapsteele.com/?page_id=3453
+title: Sermons
+url: /sermons
 ---
+
 {{< callout "note" >}}
 **More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}

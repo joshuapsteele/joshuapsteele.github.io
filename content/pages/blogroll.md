@@ -1,10 +1,13 @@
 ---
-title: Blogroll
-description: 'This is a curated list of blogs, websites, and other online publications that I recommend.'
-url: /blogroll
+categories: personal
+description: This is a curated list of blogs, websites, and other online publications
+  that I recommend.
 draft: false
 showtoc: false
+title: Blogroll
+url: /blogroll
 ---
+
 This is a curated list of blogs, websites, and other online publications that I recommend.
 
 ## News

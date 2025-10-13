@@ -1,12 +1,14 @@
 ---
-title: Carry
-description: 'Every Day Carry (EDC) items I find useful.'
-url: /carry
-draft: false
-showtoc: false
 aliases:
 - /edc
+categories: productivity
+description: Every Day Carry (EDC) items I find useful.
+draft: false
+showtoc: false
+title: Carry
+url: /carry
 ---
+
 Every Day Carry Items:
 
 - Keys/Keychain: [EXOTAC FreeKey System](https://www.amazon.com/FreeKey-2825-System/dp/B00AQ664H6?crid=13RAFZV88K3AM&dib=eyJ2IjoiMSJ9.hRQKHTMHMq536Sk7nMc4dbMHe3k74bBessRi6w74qVGQV7AGNohTjJeu4tNS6IOnj6BsiIJPaMTXE7_OXJ8cDnbpjV0HpEDCBw5vK8L44UJ_YLgMjcRXKr3T0iuhumT0apBAK7_5YWOtYsGIRkHuSvcF4mBFgekiRlWbp35X4gzUhLfwbxguATcwb2Vn8JbJh55v8u08vhc0tnTOoqZSQXEXqLaHxgCDC_t_RdBotJyzhSkGM4pvWQK143QbvhKoI5o937bDY3VN_zw3HXXrz8CeNzmfRx4bcx-6y34ta6s.E6d1RRFeqb7jMEt550j_zgVu1uY0LmsQmZ9It_mL6Po&dib_tag=se&keywords=keychain+free&qid=1753964902&sprefix=keychain+free%2Caps%2C162&sr=8-2&linkCode=ll1&tag=joshuapsteele-20&linkId=42e3ede891415b80e649e1394d7674b8&language=en_US&ref_=as_li_ss_tl)
