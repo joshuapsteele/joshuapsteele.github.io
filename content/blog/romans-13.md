@@ -1,5 +1,4 @@
 ---
-activitypub_status: null
 author: joshuapsteele
 categories:
 - ethics
@@ -68,6 +67,10 @@ His audience then (and readers of the epistle today) would not, therefore, be ex
 > \[P\]recisely because of all the counter-imperial hints Paul has given not only in this letter and elsewhere but indeed by his entire gospel, it is vital that he steer Christians away from the assumption that loyalty to Jesus would mean the kind of civil disobedience and revolution that merely reshuffles the political cards into a different order. \[…\] The main thing Paul wants to emphasize is that, *even though Christians are servants of the Messiah, the true lord, this does not give them carte blanche to ignore the temporary subordinates whose appointed task, whether (like Cyrus) they know it or not, is to bring at least a measure of God’s order and justice to the world. The church must live as a sign of the kingdom yet to come, but since that kingdom is characterized by justice, peace, and joy in the Spirit \[14.17\], it cannot be inaugurated in the present by violence and hatred*.[\[9\]](#_ftn9)
 
 These sentiments and those outlined above will now be augmented by a brief examination of Roman 13:1-7 within the overarching context of Romans 12:9-13:10.[\[10\]](#_ftn10)
+
+{{< callout "note" >}}
+Wondering how to apply Romans 13 to contemporary immigration debates? See: [When Romans 13 Meets Matthew 25: Immigration Ethics](/when-romans-13-meets-matthew-25-immigration-ethics/).
+{{< /callout >}}
 
 ## Scriptural Context: Romans 12:9-13:10
 

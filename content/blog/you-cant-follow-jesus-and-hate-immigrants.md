@@ -76,6 +76,10 @@ As followers of Jesus, we are called to reflect His love and compassion in every
 
 Let’s commit to being voices of love, grace, and justice in a world that so desperately needs them.
 
+{{< callout "note" >}}
+For a deeper exploration of how to hold biblical hospitality in tension with Romans 13's teaching on government authority, read: [When Romans 13 Meets Matthew 25: Immigration Ethics](/when-romans-13-meets-matthew-25-immigration-ethics/).
+{{< /callout >}}
+
 ## Resources on Scripture and Immigration
 
 The following bibliography is from M. Daniel Carroll R., “Aliens, Immigration, and Refugees,” *Dictionary of Scripture and Ethics* (Grand Rapids, MI: Baker Academic, 2011), 58. (Again, [the PDF is here](/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf))
