@@ -12,7 +12,7 @@ url: /the-fate-of-diphtheria/
 
 *(to the tune of [“The Fate of Ophelia” by Taylor Swift](https://www.youtube.com/watch?v=ko70cExuzZM))*
 
-**[Verse 1]**
+**[Verse 1]**  
 I heard you whisper on the megaphone  
 You said the shots were all a hoax  
 As legend has it, you were nearly gone  
