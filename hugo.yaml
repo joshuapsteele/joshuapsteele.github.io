@@ -120,6 +120,8 @@ params:
   socialIcons: # optional
     - name: BlueSky
       url: "https://bsky.app/profile/joshuapsteele.bsky.social"
+    - name: Mastodon
+      url: "https://mastodon.social/@joshuapsteele"
     - name: GitHub
       url: "https://github.com/joshuapsteele/"
     - name: LinkedIn
@@ -199,7 +201,6 @@ minify:
 # Build performance
 build:
   writeStats: true
-  buildStats: true
   noJSConfigInAssets: false
   useResourceCacheWhen: "fallback"
 
@@ -220,12 +221,7 @@ caches:
 imaging:
   resampleFilter: "CatmullRom"
   quality: 75
-  anchor: "smart"
-  formats: [webp, jpg]
-  processing:
-    fill: "600x400"
-    fit: "600x400"
-    resize: "600x"
+  anchor: "Smart"
 
 # services:
 #   disqus:
