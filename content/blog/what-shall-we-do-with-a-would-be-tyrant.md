@@ -25,6 +25,12 @@ Put him in the court and read the charges,
 Put him in the court and read the charges,  
 Early in the morning!  
   
+Refrain (Optional):  
+Way, hay, and count the ballots,  
+Way, hay, and count the ballots,  
+Way, hay, and count the ballots,  
+Early in the morning!
+
 Verse 2:  
 What shall we do with a corrupt Justice,  
 What shall we do with a corrupt Justice,  
@@ -72,9 +78,3 @@ Hold the press to higher standards,
 Hold the press to higher standards,  
 Hold the press to higher standards,  
 Early in the morning!  
-  
-Optional Refrain:  
-Way, hay, and count the ballots,  
-Way, hay, and count the ballots,  
-Way, hay, and count the ballots,  
-Early in the morning!
