@@ -13,6 +13,8 @@ url: /roll-the-old-republic-along/
 *A Sea Shanty for Democracy*  
 *(Traditional tune: “Roll the Old Chariot”)*
 
+Here's the original, in case you don't know it:
+
 {{< youtube 49FWp7WLYKw >}}
 
 ---
@@ -102,5 +104,5 @@ We’ll roll the old Republic along —
 **And we won’t be ruled by kings!**  
   
 ---  
-*Words by Joshua P. Steele, 2025*  
-A shanty for all who keep the faith, stand their ground, and love the Republic still.  
+
+HT: [Josiah Hawthorne on Bluesky](https://bsky.app/profile/josiahhawthorne.bsky.social/post/3m3cphfo6yc2l) for the idea.
