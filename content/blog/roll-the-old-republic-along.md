@@ -13,6 +13,8 @@ url: /roll-the-old-republic-along/
 *A Sea Shanty for Democracy*  
 *(Traditional tune: “Roll the Old Chariot”)*
 
+{{< youtube 49FWp7WLYKw >}}
+
 ---
 
 **Verse 1**  
