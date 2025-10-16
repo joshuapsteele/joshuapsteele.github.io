@@ -26,7 +26,7 @@ In my free time (what's that?), I buy books and tools...and then try to find eve
 
 This is my main personal website, powered by [Hugo](https://gohugo.io) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod), and hosted on [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io). 
 
-You can also follow my shorter posts on micro.blog over at [social.joshuapsteele.com](https://social.joshuapsteeele.com), which get cross-posted to [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social).
+You can also follow my shorter posts on micro.blog over at [social.joshuapsteele.com](https://social.joshuapsteeele.com), which get cross-posted to [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social) and [Mastodon](https://mastodon.social/@joshuapsteele).
 
 If you'd like to learn more about me, check out:
 
