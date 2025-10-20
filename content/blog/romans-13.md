@@ -26,15 +26,25 @@ For example, consider Romans 13:1-7, a text that has been used to justify everyt
 
 In Romans 13:1-7, Paul exhorts the Roman believers to apply his previous commands toward love (12:9), harmony (12:16), and peace (12:18) in the context of obedience to government (13:1-5) and the payment of taxes (13:6-7).
 
+{{< callout "note" >}}
 Here's the full passage (NRSVUE):
 
 > 1 Let every person be subject to the governing authorities, for there is no authority except from God, and those authorities that exist have been instituted by God. 2 Therefore whoever resists authority resists what God has appointed, and those who resist will incur judgment. 3 For rulers are not a terror to good conduct but to bad. Do you wish to have no fear of the authority? Then do what is good, and you will receive its approval, 4 for it is God’s agent for your good. But if you do what is wrong, you should be afraid, for the authority does not bear the sword in vain! It is the agent of God to execute wrath on the wrongdoer. 5 Therefore one must be subject, not only because of wrath but also because of conscience. 6 For the same reason you also pay taxes, for the authorities are God’s agents, busy with this very thing. 7 Pay to all what is due them: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.
+{{< /callout >}}
 
 Far from being a comprehensive condensation of the apostle’s beliefs regarding any and all governments past and present, this passage is a specific and historically-conditioned pastoral address to the Roman believers, discouraging them from political unrest, disobedience, and rebellion in order to protect their testimony and the effectiveness of the Roman church in the gospel mission.
 
 This thesis will be “proven” by appealing to the historical context of the original audience and the overarching context of Romans 12:9-13:10 in which this passage rests.
 
-(For more on the book of Romans, check out [my sermon on Romans 1:1-17](https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!)
+{{< callout "note" >}}
+For more on the book of Romans, check out [my sermon on Romans 1:1-17](https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!
+
+Also, you should take the time to watch the BibleProject's summary videos on Romans.
+
+{{< youtube ej_6dVdJSIU >}}
+
+{{< youtube 0SVTl4Xa5fY >}}
+{{< /callout >}}
 
 ## Historical Context
 
@@ -124,6 +134,10 @@ This returns the Roman Christians’ focus to love as the central virtue of Chri
 
 (For more on the book of Romans, check out [my summary of the book’s argument/story](https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/).)
 
+{{< callout "note" >}}
+Here's N.T. Wright on Romans 13 and the question of Christian submission to government:
+{{< youtube kWSdR3VscY4 >}}
+{{< /callout >}}
 ## Conclusion
 
 Through the ignorance of the historical background of Paul’s epistle to the Romans as a whole and his instructions in Romans 13:1-7 in particular, the passage at hand has been grossly mis-read and mis-applied in numerous ways since its original composition. Instead of an argument for unthinking obedience to, approval of, and participation in governments past and present, Paul here argues for the Christians in Rome not to revolt against the empire in an attempt to fully usher in God’s kingdom, but to submit humbly to the Roman authorities as they sought to overcome evil with good.
