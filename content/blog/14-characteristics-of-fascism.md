@@ -44,3 +44,7 @@ For more on fascism, see:
 - [_How Fascism Works: The Politics of Us and Them_ by Jason Stanley](https://amzn.to/3KcXB4W)
 - [_On Tyranny: Twenty Lessons from the Twentieth Century_ by Timothy Snyder](https://amzn.to/4nGLrQ7)
 - [_How to Spot a Fascist_ by Umberto Eco](https://amzn.to/4ngkenL) (includes the essay above, as well as two other essays by Eco)
+
+Also check out this "The 10 tactics of fascism" video by Big Think and Jason Stanley:
+
+{{< youtube CpCKkWMbmXU >}}
