@@ -53,21 +53,21 @@ God is revealed in Scripture to be the firmest advocate for human flourishing. T
 
 Things like hunger and poverty are on the chopping block in this redemptive mission. The standard to which everything is being drawn is not an eternally unsatisfying state of Spartan living and ascetic suffering. It is the eternally satisfying and rich state of glorifying God like creation was intended to.
 
-I am advocating for a ***return*** to standards of living necessary for human flourishing, realizing that this standard will vary greatly from person to person and culture to culture.[\[1\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn1) The problem is that **what appears to be the standard of human flourishing to us is often quite damaging**.
+I am advocating for a ***return*** to standards of living necessary for human flourishing, realizing that this standard will vary greatly from person to person and culture to culture.[^1] The problem is that **what appears to be the standard of human flourishing to us is often quite damaging**.
 
 ## False Wealth: The Dangers of Materialism
 
 The Bible pulls no punches in describing the dangers of a materialistic pursuit of wealth.
 
-While money is nowhere declared to be intrinsically evil, Scripture makes it clear that we are all sin-stained creatures prone to greed and self-justification, and that an abundance of wealth and possessions makes it very hard to rise above our idolatrous inclinations and serve God well.[\[2\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn2)
+While money is nowhere declared to be intrinsically evil, Scripture makes it clear that we are all sin-stained creatures prone to greed and self-justification, and that an abundance of wealth and possessions makes it very hard to rise above our idolatrous inclinations and serve God well.[^2]
 
-In addition, although it exceeds the scope of this essay, a strong argument can be made that our society’s pragmatic commitment to “getting ahead” is destroying our ability to experience genuine delight in the small things in life which do not increase our bottom line.[\[3\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn3)
+In addition, although it exceeds the scope of this essay, a strong argument can be made that our society’s pragmatic commitment to “getting ahead” is destroying our ability to experience genuine delight in the small things in life which do not increase our bottom line.[^3]
 
 Despite our initial reactions, it appears as though what our culture is encouraging us to pursue is actually quite destructive to our ability to serve God well and genuinely enjoy life.
 
 ## Downward Mobility
 
-While the culture around us is calling us towards a lifestyle of upward financial mobility, “the emphasis of the New Testament lies not on the acquisition side of things…but on sacrifice and divestiture”.[\[4\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn4)
+While the culture around us is calling us towards a lifestyle of upward financial mobility, “the emphasis of the New Testament lies not on the acquisition side of things…but on sacrifice and divestiture”.[^4]
 
 The incarnation of Jesus is a clear example of the kind of God we serve, one who emptied himself of the riches of heaven in order to take on human flesh and demonstrate a fiercely sacrificial obedience that took him all the way to the cross. Although there is a big gap between *kenosis* and a Christian’s obligation to give to the poor, it nonetheless serves as an example of the kind of living we are called to by the gospel.
 
@@ -79,7 +79,7 @@ Again, keep in mind that we are not all called to live ascetically and to spurn 
 
 At this point, we are all tempted to rebuff and claim that we have every right to keep all of what we have “earned” and do as we wish with our excess funds.
 
-However, the Bible presents us with the uncomfortable truth that **everything we “own” is in fact owned by God and has been given to us to steward well**.[\[5\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn5)
+However, the Bible presents us with the uncomfortable truth that **everything we “own” is in fact owned by God and has been given to us to steward well**.[^5]
 
 A prosperous Christian is not an intrinsic oxymoron, and there are examples in Scripture of wealthy people who seem to have genuinely loved God and served him well. However, there is no example of a person who selfishly viewed their possessions as their own, lived a lifestyle of extravagant wealth, and honored God by doing so.
 
@@ -89,18 +89,18 @@ Even more uncomfortable is the fact that, if God expects us to follow his exampl
 
 In my own experience, our culture’s stereotype of the poor consigns their condition to ***laziness***. Evangelical Christians seem to use this stereotype to effectively avoid giving generously to the poor under the pretense of good stewardship and not wanting their giving to be taken advantage of by lazy individuals.
 
-With regards to being taken advantage of, **Christians should perhaps be the most willing people to be taken advantage of in their giving**. After all, we frequently take advantage of God’s grace in our own lives, and if he modeled the same attitude to us that we display to the poor, we would be in a sorry state of affairs.[\[6\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn6)
+With regards to being taken advantage of, **Christians should perhaps be the most willing people to be taken advantage of in their giving**. After all, we frequently take advantage of God’s grace in our own lives, and if he modeled the same attitude to us that we display to the poor, we would be in a sorry state of affairs.[^6]
 
-However, **the biblical picture of the poor emphasizes their destitution, need, lack of resources, and suffering under oppression.**[\[7\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn7)
+However, **the biblical picture of the poor emphasizes their destitution, need, lack of resources, and suffering under oppression.**[^7]
 
-In contrast to our frequently apathetic response, God seems to have a bias to the poor. Karl Barth claimed that “***God always takes his stand unconditionally and passionately on this side and this side alone: against the lofty and on behalf of the lowly; against those who enjoy right and privilege and on behalf of those who are denied it and deprived of it***”.[\[8\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn8)
+In contrast to our frequently apathetic response, God seems to have a bias to the poor. Karl Barth claimed that “***God always takes his stand unconditionally and passionately on this side and this side alone: against the lofty and on behalf of the lowly; against those who enjoy right and privilege and on behalf of those who are denied it and deprived of it***”.[^8]
 
 Consider the biblical account.
 
-- God intervened to save his people from the oppression and poverty they suffered in at the hands of the Egyptians.[\[9\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn9)
-- He made his frustration at his people’s improper treatment of the impoverished known through the prophets.[\[10\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn10)
-- Jesus the Messiah cited his own mission as one that was inextricably tied to the poor and oppressed.[\[11\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn11)
-- The final judgment will be executed (at least partially so) with regards to the treatment (or mistreatment) of the poor.[\[12\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftn12)
+- God intervened to save his people from the oppression and poverty they suffered in at the hands of the Egyptians.[^9]
+- He made his frustration at his people’s improper treatment of the impoverished known through the prophets.[^10]
+- Jesus the Messiah cited his own mission as one that was inextricably tied to the poor and oppressed.[^11]
+- The final judgment will be executed (at least partially so) with regards to the treatment (or mistreatment) of the poor.[^12]
 
 Scripture makes it abundantly clear that **God’s heart is for the impoverished, destitute, and oppressed**.
 
@@ -122,44 +122,42 @@ Then, and only then, will we be able to reduce our extravagant standards of livi
 
 ## Bibliography
 
-Sider, Ronald. “God and the Poor.” Sider, Ronald. <u>Rich Christians in an Age of Hunger.</u> Word Publishing, 1997.
+Sider, Ronald. "God and the Poor." Sider, Ronald. *Rich Christians in an Age of Hunger.* Word Publishing, 1997.
 
-—. “Toward a Simpler Lifestyle: The Graduated Tithe and Other Modest Proposals.” Sider, Ronald. <u>Rich Christians in an Age of Hunger.</u> Word Publishing, 1997.
+—. "Toward a Simpler Lifestyle: The Graduated Tithe and Other Modest Proposals." Sider, Ronald. *Rich Christians in an Age of Hunger.* Word Publishing, 1997.
 
-Wirzba, Norman. “The Decline of Delight.” Wirzba, Norman. <u>Living the Sabbath: Discovering the Rhythms of Rest and Delight.</u> Brazos, 2006. 64-75.
+Wirzba, Norman. "The Decline of Delight." Wirzba, Norman. *Living the Sabbath: Discovering the Rhythms of Rest and Delight.* Brazos, 2006. 64-75.
 
-Witherington, Ben. “Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 153-169.
+Witherington, Ben. "Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification." Witherington, Ben. *Jesus and Money: A Guide for Times of Financial Crisis.* Brazos, 2010. 153-169.
 
-—. “Ten Christian Myths about Money.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 165-169.
+—. "Ten Christian Myths about Money." Witherington, Ben. *Jesus and Money: A Guide for Times of Financial Crisis.* Brazos, 2010. 165-169.
 
-—. “Towards a New Testament Theology of Money, Stewardship, and Giving.” Witherington, Ben. <u>Jesus and Money: A Guide for Times of Financial Crisis.</u> Brazos, 2010. 141-152.
+—. "Towards a New Testament Theology of Money, Stewardship, and Giving." Witherington, Ben. *Jesus and Money: A Guide for Times of Financial Crisis.* Brazos, 2010. 141-152.
 
-<div># Notes
+# Notes
 
 ---
 
-<div>[\[1\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref1) Providing a calculus for ascertaining where this standard lies on an individual basis exceeds the scope of this essay. In general terms, I am advocating for a standard of living that allows people to enjoy life with dignity within their particular context while avoiding extravagant excesses that come at the expense of others.
+[^1]: Providing a calculus for ascertaining where this standard lies on an individual basis exceeds the scope of this essay. In general terms, I am advocating for a standard of living that allows people to enjoy life with dignity within their particular context while avoiding extravagant excesses that come at the expense of others.
 
-</div><div>[\[2\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref2) Witherington, *Towards a New Testament Theology of Money, Stewardship, and Giving*
+[^2]: Witherington, *Towards a New Testament Theology of Money, Stewardship, and Giving*
 
-</div><div>[\[3\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref3) Wirzba, *The Decline of Delight*
+[^3]: Wirzba, *The Decline of Delight*
 
-</div><div>[\[4\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref4) Witherington, *Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification*
+[^4]: Witherington, *Deprogramming Ourselves from a Lifestyle of Conspicuous Consumption and Self-Gratification*
 
-</div><div>[\[5\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref5) Witherington, *Ten Christian Myths about Money*
+[^5]: Witherington, *Ten Christian Myths about Money*
 
-</div><div>[\[6\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref6) This same point was said better and more emphatically by Professor John White (Cedarville University) in BEGE-3760 Christian Worldview Integration.
+[^6]: This same point was said better and more emphatically by Professor John White (Cedarville University) in BEGE-3760 Christian Worldview Integration.
 
-</div><div>[\[7\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref7) Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).
+[^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).
 
-</div><div>[\[8\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref8) Barth, *Church Dogmatics* II/1 (T.&amp;T. Clark, 1957), p. 387
+[^8]: Barth, *Church Dogmatics* II/1 (T.&amp;T. Clark, 1957), p. 387
 
-</div><div>[\[9\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref9) cf. Exodus 3:7-9
+[^9]: cf. Exodus 3:7-9
 
-</div><div>[\[10\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref10) cf. Isaiah 10:1-3; Jeremiah 5:26-29; 7:5-7; Amos 2:7; 4:1; 5:10-15; 6:4-7; Micah 2:2
+[^10]: cf. Isaiah 10:1-3; Jeremiah 5:26-29; 7:5-7; Amos 2:7; 4:1; 5:10-15; 6:4-7; Micah 2:2
 
-</div><div>[\[11\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref11) cf. Luke 4:16-21
+[^11]: cf. Luke 4:16-21
 
-</div><div>[\[12\]](/Documents%20and%20Settings/Steele/My%20Documents/Downloads/WEALTH%20ESSAY.docx#_ftnref12) cf. Matthew 25:31-46
-
-</div></div>
+[^12]: cf. Matthew 25:31-46
