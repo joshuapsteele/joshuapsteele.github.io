@@ -4,8 +4,8 @@ categories:
 - ethics
 - theology
 date: '2013-02-07T07:48:55Z'
-description: Without context, words can mean anything and everything, and therefore
-  mean nothing.
+description: A contextual reading of Romans 13:1-7, correcting common misinterpretations
+  and abuses of this oft-misunderstood passage.
 tags:
 - romans 13
 - bible
@@ -25,6 +25,10 @@ For example, consider Romans 13:1-7, a text that has been used to justify everyt
 (Want to read an excellent, recent treatment of Romans 13:1-14? Here's [a PDF of Doug Moo's 2018 exegesis of the text](/files/Moo_2018_Romans_13.1-14.pdf).)
 
 In Romans 13:1-7, Paul exhorts the Roman believers to apply his previous commands toward love (12:9), harmony (12:16), and peace (12:18) in the context of obedience to government (13:1-5) and the payment of taxes (13:6-7).
+
+Here's the full passage (NRSVUE):
+
+> 1 Let every person be subject to the governing authorities, for there is no authority except from God, and those authorities that exist have been instituted by God. 2 Therefore whoever resists authority resists what God has appointed, and those who resist will incur judgment. 3 For rulers are not a terror to good conduct but to bad. Do you wish to have no fear of the authority? Then do what is good, and you will receive its approval, 4 for it is God’s agent for your good. But if you do what is wrong, you should be afraid, for the authority does not bear the sword in vain! It is the agent of God to execute wrath on the wrongdoer. 5 Therefore one must be subject, not only because of wrath but also because of conscience. 6 For the same reason you also pay taxes, for the authorities are God’s agents, busy with this very thing. 7 Pay to all what is due them: taxes to whom taxes are due, revenue to whom revenue is due, respect to whom respect is due, honor to whom honor is due.
 
 Far from being a comprehensive condensation of the apostle’s beliefs regarding any and all governments past and present, this passage is a specific and historically-conditioned pastoral address to the Roman believers, discouraging them from political unrest, disobedience, and rebellion in order to protect their testimony and the effectiveness of the Roman church in the gospel mission.
 
