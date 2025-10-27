@@ -25,7 +25,7 @@ Gorman's opening salvo strikes at the fundamental error underlying Christian nat
 
 > **Thesis 1:** "The United States is not the kingdom of God that was proclaimed and inaugurated by Jesus; in fact, the kingdom of God is not about the United States."
 
-This isn't merely a geographical distinction, it's a theological earthquake. When American Christians begin to view their nation as uniquely blessed or divinely appointed, they've already stepped onto dangerous ground. The kingdom Jesus proclaimed transcends all national boundaries and political systems. It operates by different rules, pursues different ends, and employs radically different means.
+When American Christians begin to view their nation as uniquely blessed or divinely appointed, they've already stepped onto dangerous ground. The kingdom Jesus proclaimed transcends all national boundaries and political systems. It operates by different rules, pursues different ends, and employs radically different means.
 
 ## The Myth of Divine Favoritism
 
@@ -79,7 +79,7 @@ Gorman carefully avoids the trap of simply swinging the pendulum to the opposite
 
 > **Thesis 9:** "These theological points are in no way an endorsement of Democrat or liberal policies and perspectives as the will of God. In fact, many of these points are also implicit critiques of all political parties and all places on the political spectrum. The kingdom of God is not about making America great again, or Republican or conservative. Neither is it about making America Democrat or liberal. The kingdom of God is a worldwide reality whose values and practices challenge every ideology. Its values and practices are not the values and practices of any political entity."
 
-This is crucial: rejecting Christian nationalism doesn't mean embracing political progressivism. The kingdom of God transcends and critiques all human political systems. It's neither red nor blue, it operates on an entirely different spectrum.
+This is crucial: rejecting Christian nationalism doesn't mean embracing political progressivism (although, [consider Phil Christman's arguments on "Why Christians Should Be Leftists"](https://amzn.to/4hyp2mi)). The kingdom of God transcends and critiques all human political systems. It's neither red nor blue, it operates on an entirely different spectrum.
 
 ## The Call to Discernment
 
@@ -99,8 +99,6 @@ American evangelicals stand at a crossroads. We can continue down the path of Ch
 
 The choice we make will determine not just our political influence but our spiritual integrity. Will we be known as the people who confused Caesar's throne with Christ's kingdom? Or will we be known as those who, like our Lord, insisted: "My kingdom is not of this world"?
 
-Gorman's theses aren't just theological abstractions, they're a prophetic call to repentance and renewal. The question is: will we have ears to hear?
-
 ---
 
-*The [original 10 theses were shared by Michael Gorman on Facebook]() as "a set of starter theological affirmations for an alternative turning point." They deserve our careful consideration, prayerful reflection, and courageous application.*
+The [original 10 theses were shared by Michael Gorman on Facebook](https://www.facebook.com/michael.gorman.587/posts/pfbid02bFxCKzk8SgssENjnc8dDmQr5pwUfydY5szhv9ZN5qac8hAo3qYsZy3LmYXtvMXrnl) as "a set of starter theological affirmations for an alternative turning point."
