@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2024-09-16T16:09:39Z'
-description: I don’t know what it is about mini toolkits, but I love them. Actually,
-  scratch that.
+description: I love mini toolkits for EDC (everyday carry) because they give me the illusion of control and readiness for any situation. Here’s my experience with some popular mini toolkits and my ongoing search for the perfect one.
 tags:
 - edc
 - reviews
