@@ -17,17 +17,17 @@ I’d like to show you a series of photographs. These photographs, except for th
 I don't want to belabor the artwork with my commentary, so I'll give you a few seconds to take each slide in.
 
 {{< gallery >}}
-![](/wp-content/uploads/2017/04/Slide2.jpg)
-![](/wp-content/uploads/2017/04/Slide11.jpg)
-![](/wp-content/uploads/2017/04/Slide10.jpg)
-![](/wp-content/uploads/2017/04/Slide9.jpg)
-![](/wp-content/uploads/2017/04/Slide8.jpg)
-![](/wp-content/uploads/2017/04/Slide7.jpg)
-![](/wp-content/uploads/2017/04/Slide6.jpg)
-![](/wp-content/uploads/2017/04/Slide5.jpg)
-![](/wp-content/uploads/2017/04/Slide4.jpg)
-![](/wp-content/uploads/2017/04/Slide3.jpg)
-![](/wp-content/uploads/2017/04/Slide12.jpg)
+![](/wp-content/uploads/2017/04/Slide2-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide11-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide10-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide9-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide8-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide7-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide6-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide5-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide4-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide3-150x150.jpg)
+![](/wp-content/uploads/2017/04/Slide12-150x150.jpg)
 {{< /gallery >}}
 
 Now, I don't know about you, but those pictures affect me deeply. The whole idea of a criminal’s last meal affects me deeply. Why?
