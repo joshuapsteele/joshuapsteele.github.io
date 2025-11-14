@@ -12,8 +12,6 @@ url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 
 Like so many other feast days – scheduled, as they are, on the days of the namesakes' deaths – the feast day of St. James the Apostle is **a strong rebuke to our aspirations**. To our aspirations as human beings, and especially to our aspirations as ministers of Christ's Church.
 
-{{< figure src="/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg" caption="Saint James the Greater, by Rembrandt" >}}
-
 ## James &amp; John: Fishermen No More?
 
 You see, **James started off as a mere fisherman**. An admirable one, to be sure, because he and his brother John answered Jesus’ call in Mark 1. They left behind their father, their family, and – they grew to hope! – their family’s fishing profession.
@@ -76,7 +74,9 @@ Are we thankful, are we satisfied with our roles as servants within Christ’s C
 
 Are we willing to be “just” fishermen, even if it costs us our ambitions? Even if it costs us our lives?
 
-![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)By God’s grace, **I hope so**.
+![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)
+
+By God’s grace, **I hope so**.
 
 By God’s grace, may we – with the Apostle James – be able to confess the final words of Psalm 34 with open eyes, and open hearts. Perhaps it will help to imagine the following words on the dying Apostle’s lips:
 
