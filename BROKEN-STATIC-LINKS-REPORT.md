@@ -1,157 +1,128 @@
 # Broken Static File Links Report
 
-**Generated:** 2025-11-14
+**Generated:** 2025-11-14 (Updated after wp-content-cleanup merge)
 **Script:** `check-static-files.py`
 
 ## Executive Summary
 
-This report catalogs all broken links to images and files in your `/content` directory that reference missing files in your `/static` directory. At some point in this repository's history, files were removed from `/static` that are still referenced in content.
+After merging the wp-content-cleanup branch, broken links decreased from **60 to just 12** (80% improvement!). The remaining broken links are concentrated in only 2 blog posts and involve missing full-size versions of images where only thumbnails exist.
 
 ### Summary Statistics
 
 - **Total content files scanned:** 352
 - **Files with file references:** 69
-- **Working local links:** 49
-- **Broken local links:** 60
+- **Working local links:** 97 (was 49)
+- **Broken local links:** 12 (was 60)
 - **External links (not checked):** 71
 
-## Broken Links by File Type
+## Progress Since Initial Analysis
 
-### DOCX Files (2 broken)
+| Metric | Before Merge | After Merge | Improvement |
+|--------|--------------|-------------|-------------|
+| Broken Links | 60 | 12 | 80% reduction |
+| Working Links | 49 | 97 | 98% increase |
+| Affected Posts | 20 | 2 | 90% reduction |
 
-1. **content/blog/justification-and-sanctification.md**
-   - Missing: `wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx`
-   - Reference: `[Justification and Sanctification Handout (Word)](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx)`
+## Remaining Broken Links (12 total)
 
-2. **content/blog/12-prayers-for-tough-days.md**
-   - Missing: `wp-content/uploads/2020/03/56-Occasional-Prayers.docx`
-   - Reference: `[download a Word document containing all of the Occasional Prayers here](https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx)`
+### 1. Maundy Thursday Sermon (11 broken links)
 
-### MP3 Files (1 broken)
+**File:** `content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md`
 
-1. **content/blog/getting-ahead-in-gods-upside-down-kingdom.md**
-   - Missing: `wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3`
-   - Reference: `[[MP3: Getting Ahead in God's Upside-Down Kingdom](https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3)`
+**Issue:** Content references full-size sermon slide images, but only thumbnail versions (`-150x150.jpg`) were restored.
 
-### JPEG Files (4 broken)
+Missing files (full-size versions):
+- `wp-content/uploads/2017/04/Slide2.jpg`
+- `wp-content/uploads/2017/04/Slide3.jpg`
+- `wp-content/uploads/2017/04/Slide4.jpg`
+- `wp-content/uploads/2017/04/Slide5.jpg`
+- `wp-content/uploads/2017/04/Slide6.jpg`
+- `wp-content/uploads/2017/04/Slide7.jpg`
+- `wp-content/uploads/2017/04/Slide8.jpg`
+- `wp-content/uploads/2017/04/Slide9.jpg`
+- `wp-content/uploads/2017/04/Slide10.jpg`
+- `wp-content/uploads/2017/04/Slide11.jpg`
+- `wp-content/uploads/2017/04/Slide12.jpg`
 
-1. **content/blog/with-baby-2-on-the-way-im-looking-for-work.md**
-   - Missing: `wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg`
+Available (thumbnail versions):
+- All slides exist as `Slide#-150x150.jpg` (150x150px thumbnails)
 
-2. **content/blog/home-gym-upgrades.md** (3 images)
-   - Missing: `wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg`
-   - Missing: `wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg`
-   - Missing: `wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg`
+### 2. St. James the Apostle (1 broken link)
 
-### PNG Files (11 broken)
+**File:** `content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md`
 
-1. **content/blog/thank-god-i-went-to-cedarville.md**
-   - Missing: `wp-content/uploads/2016/05/pablo-10-300x300.png`
+**Issue:** Missing Rembrandt painting image.
 
-2. **content/blog/an-outline-of-karl-barths-church-dogmatics.md**
-   - Missing: `wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png`
+Missing file:
+- `wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg`
 
-3. **content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md**
-   - Missing: `wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png`
+Note: A different painting by Guido Reni exists in the same directory: `Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg`
 
-4. **content/blog/barth-timeline-a-chronology-of-karl-barths-life.md** (5 screenshots)
-   - Missing: `wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png`
-   - Missing: `wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png`
-   - Missing: `wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png`
-   - Missing: `wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png`
-   - Missing: `wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png`
+## Fix Options
 
-5. **content/blog/my-uncle-timothy-steele.md**
-   - Missing: `wp-content/uploads/2015/10/image.png`
+### Option 1: Update Content to Use Thumbnail Images (Quick Fix for Slides)
 
-6. **content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md** (2 screenshots)
-   - Missing: `wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png`
-   - Missing: `wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png`
+For the sermon slides, update the post to reference the existing `-150x150.jpg` versions. These are small but functional.
 
-### JPG Files (42 broken)
+**Pros:** Immediate fix, no file recovery needed
+**Cons:** Images will be very small (150x150px), may not be legible
 
-#### Most Affected Posts:
+### Option 2: Recover Full-Size Images from WordPress Backup
 
-1. **content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md** (11 slide images)
-   - Missing: `wp-content/uploads/2017/04/Slide2.jpg` through `Slide12.jpg`
-   - These appear to be sermon slide images
+If you have a WordPress backup, extract the full-size versions of:
+- `Slide2.jpg` through `Slide12.jpg` (sermon slides)
+- `Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg` (Rembrandt painting)
 
-2. **content/blog/finding-a-hat-for-my-big-bald-head.md** (9 images)
-   - Missing: Multiple images from `wp-content/uploads/2024/04/IMG_*.jpg`
-   - Hat review photos
+**Pros:** Best quality, preserves original content
+**Cons:** Requires access to WordPress backup
 
-3. **content/blog/what-im-reading.md** (7 images)
-   - Missing: Multiple images from `wp-content/uploads/2016/05/IMG_*.jpg`
-   - Book photos
+### Option 3: Remove or Replace Broken References
 
-4. **content/blog/barth-timeline-a-chronology-of-karl-barths-life.md** (included in PNG section)
+**For sermon slides:**
+- Remove the individual slide images and add a note that slides are no longer available
+- Or create a PDF from the slides and link to that instead
 
-5. **content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md** (4 images)
-   - Missing: `wp-content/uploads/2018/03/IMG_3618-1024x768.jpg`
-   - Missing: `wp-content/uploads/2018/03/IMG_3626-1024x768.jpg`
-   - Missing: `wp-content/uploads/2018/03/IMG_3663.jpg`
-   - Missing: `wp-content/uploads/2018/03/IMG_3743.jpg`
+**For Rembrandt image:**
+- Use the existing Guido Reni image instead (different artist but same subject - St. James)
+- Find a public domain Rembrandt St. James image online
+- Remove the image reference entirely
 
-6. **content/blog/eva-joy-steele-a-birth-story.md** (3 images)
-   - Missing: `wp-content/uploads/2018/08/Cook-Catheter.jpg`
-   - Missing: `wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg`
-   - Missing: `wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg`
+**Pros:** Clean solution, no broken links
+**Cons:** Loses original visual content
 
-7. **content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md** (2 images)
-   - Missing: `wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg`
-   - Missing: `wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg`
+### Option 4: Do Nothing (Recommended for Now)
 
-8. **content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md** (2 screenshots - included in PNG section)
+With only 12 broken links across 2 posts (down from 60 across 20 posts), the issue is largely resolved. Consider addressing these on a case-by-case basis if/when you revisit these posts.
 
-9. Other single-image posts:
-   - **white-noise-bhopal-and-the-hyperreal-fear-of-death.md**: `wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg`
-   - **kettlebell-swings-back-balm-for-the-sedentary-seminarian.md**: `wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg`
-   - **lets-take-seth-godin-to-church.md**: `wp-content/uploads/2016/05/img_0502-225x300.jpg`
-   - **death-in-his-grave.md**: `wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg`
-   - **only-the-suffering-god-can-help.md**: `wp-content/uploads/2019/04/img_0297.jpg`
-   - **3-confessions-expectant-father.md**: `wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg`
+**Pros:** 80% of the problem is already solved
+**Cons:** 2 posts still have broken image links
 
-## Complete List of Broken Links
+## Files Successfully Restored
 
-All 60 broken links are documented in the `broken-static-links.json` file with:
-- Source file path
-- Original reference
-- Normalized file path
-- Context (the exact match in the file)
-
-## Recommendations
-
-### Option 1: Recover from Git History
-Check if these files exist in your git history and can be restored:
-```bash
-git log --all --full-history -- "static/wp-content/uploads/**"
-```
-
-### Option 2: Remove References
-For files that are no longer available or needed, remove the broken references from content files.
-
-### Option 3: Replace with Alternatives
-For important images (like those in high-traffic posts), consider:
-- Finding alternative images
-- Using placeholder images with appropriate attribution
-- Creating new diagrams/screenshots where applicable
-
-### Option 4: Add Missing Content Notes
-For posts with multiple missing images, consider adding a note at the top:
-```markdown
-*Note: Some images from this post are no longer available.*
-```
+The wp-content-cleanup merge successfully restored:
+- 9 hat review photos (`finding-a-hat-for-my-big-bald-head.md`)
+- 7 book photos (`what-im-reading.md`)
+- 5 Barth timeline screenshots (`barth-timeline-a-chronology-of-karl-barths-life.md`)
+- 4 travel photos (`dangerous-beauty-phoenix-grand-canyon-trip-2018.md`)
+- 3 birth story images (`eva-joy-steele-a-birth-story.md`)
+- 3 home gym photos (`home-gym-upgrades.md`)
+- Multiple DOCX, MP3, and PDF files
+- And many more!
 
 ## Next Steps
 
-1. **Prioritize by Impact**: Focus first on posts with multiple broken links (see "Most Affected Files" list above)
-2. **Check Git History**: Attempt to recover recently deleted files
-3. **Decide on Strategy**: Determine which files to recover, which to replace, and which references to remove
-4. **Update Content**: Make systematic updates to affected files
-5. **Re-run Check**: Run `python3 check-static-files.py` after fixes to verify
+1. **Decide on strategy** for the remaining 12 broken links
+2. **Consider Option 4** (do nothing) - 80% improvement is excellent
+3. **If fixing sermon slides:** Update references to use `-150x150.jpg` thumbnails or recover full-size from backup
+4. **If fixing Rembrandt image:** Update to use Guido Reni image or find alternative
+5. **Re-run check:** `python3 check-static-files.py` after any fixes
 
 ## Files Generated
 
-- `broken-static-links.json` - Machine-readable catalog of all broken links
-- `check-static-files.py` - Python script to check for broken links
-- `BROKEN-STATIC-LINKS-REPORT.md` - This human-readable report
+- `check-static-files.py` - Python script to scan for broken references
+- `broken-static-links.json` - Machine-readable catalog of all issues (updated)
+- `BROKEN-STATIC-LINKS-REPORT.md` - This human-readable report (updated)
+
+---
+
+**Conclusion:** The wp-content-cleanup merge was highly successful, resolving 48 of 60 broken links (80%). The remaining 12 broken links are isolated to 2 posts and involve missing full-size images where only thumbnails exist.
