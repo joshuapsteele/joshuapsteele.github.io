@@ -33,7 +33,7 @@ I hope you’re catching my sarcasm.
 
 ![- this is not a bag of trail mix you cant just pick out the p](https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png)
 
-I saw a meme on the internet the other day. It was an image of the Bible, and the text said: “This is not a bag of trail mix. You can’t just pick out the pieces you like and ignore the rest.” I’m afraid that the widespread use of Jeremiah 29:11 demonstrates a bigger problem: we really are guilty of treating the Bible like a bag of trail mix. Jeremiah 29:11 is an M&amp;M that we pull out time and time again while we ignore all the peanuts and raisins and cashews and granola all around it.
+I saw a meme on the internet the other day. It was an image of the Bible, and the text said: “This is not a bag of trail mix. You can’t just pick out the pieces you like and ignore the rest.” I’m afraid that the widespread use of Jeremiah 29:11 demonstrates a bigger problem: we really are guilty of treating the Bible like a bag of trail mix. Jeremiah 29:11 is an M&M that we pull out time and time again while we ignore all the peanuts and raisins and cashews and granola all around it.
 
 Christians claim to have a high view of Scripture—that is, we say that the Bible is the authoritative, divinely inspired Word of God. We are quick to use it to tell the world what they’re doing wrong whether that be gay marriage or murder or how to raise children. We say that we live by what the Bible says, but I’m afraid that we’re often guilty of not even knowing what the Bible says. For me, the widespread use of Jeremiah 29:11 proves this.
 

@@ -30,17 +30,17 @@ This is the first podcast I listen to every weekday while making coffee. I love 
 
 Sure, the egalitarian in me wishes there were a show out there called “The Art of Humanity” – about how to be a *Mensch.* However, in the meantime, Brett McKay has a solid podcast going about “reviving the lost art of manliness.” I enjoy the podcast (and t[he Art of Manliness website](http://www.artofmanliness.com/)) because it includes so many helpful how-to guides – for everything from weightlifting to men’s fashion.
 
-## [Word &amp; Table](https://wordandtable.simplecast.fm/)
+## [Word & Table](https://wordandtable.simplecast.fm/)
 
-I created [Rookie Anglican](http://anglicanpastor.com/rookieanglican/) as a way of making Anglicanism more accessible. This podcast, Word &amp; Table, has much the same mission, although it’s focus is not just on Anglicanism, but rather on the rich Christian tradition of liturgical worship. As I wrote about the podcast [over at Rookie Anglican](http://anglicanpastor.com/listen-to-the-word-table-podcast-to-learn-more-about-liturgical-and-sacramental-christian-worship/):
+I created [Rookie Anglican](http://anglicanpastor.com/rookieanglican/) as a way of making Anglicanism more accessible. This podcast, Word & Table, has much the same mission, although it’s focus is not just on Anglicanism, but rather on the rich Christian tradition of liturgical worship. As I wrote about the podcast [over at Rookie Anglican](http://anglicanpastor.com/listen-to-the-word-table-podcast-to-learn-more-about-liturgical-and-sacramental-christian-worship/):
 
-> According to their [website](https://wordandtable.simplecast.fm/), Word &amp; Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”
+> According to their [website](https://wordandtable.simplecast.fm/), Word & Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”
 > 
 > The podcast was started back in October 2016, and it’s hosted by [Alex Wilgus](http://www.greenhousemovement.com/team/alex-wilgus/) and Fr. [Stephen Gauthier](http://www.churchrez.org/staff/profile/stephengauthier), the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.
 > 
-> You can subscribe to the podcast via [iTunes](https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2), listen to episodes via the [Word &amp; Table website](https://wordandtable.simplecast.fm/), or simply search for “Word and Table” in your podcast player/manager of choice.
+> You can subscribe to the podcast via [iTunes](https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2), listen to episodes via the [Word & Table website](https://wordandtable.simplecast.fm/), or simply search for “Word and Table” in your podcast player/manager of choice.
 
-If you’ve got questions about anything related to the Christian tradition, check out the Word &amp; Table podcast to see if they have an episode on the topic!
+If you’ve got questions about anything related to the Christian tradition, check out the Word & Table podcast to see if they have an episode on the topic!
 
 ## [The Tim Ferriss Show](https://tim.blog/podcast/)
 

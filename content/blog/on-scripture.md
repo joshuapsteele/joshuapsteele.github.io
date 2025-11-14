@@ -88,7 +88,7 @@ Christologically, the illocutionary acts of the written Word of God bear witness
 
 [^7]: Cf. the discussion of παράδοσις in Malysz, 2.
 
-[^8]: Book III. 2:2, from “Selections from Irenaeus of Lyons, The Refutation and Overthrow of the Knowledge Falsely So Called (Adversus Haereses)” in Early Christian Fathers (ed. Cyril C. Richardson; New York: Simon &amp; Schuster, 1996), 358-97. Hereafter, Adversus Haereses will be cited in the following form: “Irenaeus, I.1:1” or “Irenaeus, I. ch. 1”
+[^8]: Book III. 2:2, from “Selections from Irenaeus of Lyons, The Refutation and Overthrow of the Knowledge Falsely So Called (Adversus Haereses)” in Early Christian Fathers (ed. Cyril C. Richardson; New York: Simon & Schuster, 1996), 358-97. Hereafter, Adversus Haereses will be cited in the following form: “Irenaeus, I.1:1” or “Irenaeus, I. ch. 1”
 
 [^9]: Irenaeus, III. 1:1; chs. 2-3. In scripturis is noted by Richardson, Early Christian Fathers, 370 n.47.
 

@@ -32,7 +32,7 @@ Whether Barth and Bonhoeffer share a common theological critique of religion has
 
 [^1]: See Christine Axt-Piscalar, “Liberal Theology in Germany,” in *The Blackwell Companion to Nineteenth-Century Theology*, ed. David Fergusson (Malden, MA: Wiley-Blackwell, 2010), 468–85; Ernst Feil et al., “Religion,” in *Religion Past and Present: Encyclopedia of Theology and Religion*, vol. 11 (Leiden: Brill, 2012), 31–55; James C. Livingston, *Modern Christian Thought: The Enlightenment and the Nineteenth Century*, 2nd ed., vol. 1 (Minneapolis: Fortress, 2006).
 
-[^2]: See Karl Barth, *On Religion: The Revelation of God as the Sublimation of Religion*, trans. Garrett Green (London; New York: T&amp;T Clark, 2006). This is a new translation of §17 in Karl Barth, *Church Dogmatics*, vol. I/2 (Edinburgh: T&amp;T Clark, 1956), 280–361. Henceforth, all references to the *Church Dogmatics* will appear in the following form: *CD* I/1, 1.
+[^2]: See Karl Barth, *On Religion: The Revelation of God as the Sublimation of Religion*, trans. Garrett Green (London; New York: T&T Clark, 2006). This is a new translation of §17 in Karl Barth, *Church Dogmatics*, vol. I/2 (Edinburgh: T&T Clark, 1956), 280–361. Henceforth, all references to the *Church Dogmatics* will appear in the following form: *CD* I/1, 1.
 
 [^3]: *CD* IV/1, 483.
 

@@ -156,7 +156,7 @@ Carter, T. L. “The Irony of Romans 13.” *Novum Testamentum* (BRILL) Vol. 46,
 
 Dunn, James D. G. *Romans 9-16.* Nashville: Thomas Nelson Publishers, 1988.
 
-Ehrensperger, Kathy. “A Subversive Reading of Paul: A Response to Stubbs, ‘Subjection, Reflection, Resistance’.” In *Navigating Romans Through Cultures: Challenging Readings by Charting a New Course*, edited by Yeo Khiok-khng (K.K.), 198-202. New York: T &amp; T Clark International, 2004.
+Ehrensperger, Kathy. “A Subversive Reading of Paul: A Response to Stubbs, ‘Subjection, Reflection, Resistance’.” In *Navigating Romans Through Cultures: Challenging Readings by Charting a New Course*, edited by Yeo Khiok-khng (K.K.), 198-202. New York: T & T Clark International, 2004.
 
 Kim, Seyoon. *Christ and Caesar: The Gospel and the Roman Empire in the Writings of Paul and Luke.* Grand Rapids: William B. Eerdmans Publishing Company, 2008.
 
@@ -170,7 +170,7 @@ Schreiner, Thomas R. *Romans.* Grand Rapids: Baker Books, 1998.
 
 Stein, Robert H. “The Argument of Romans 13:1-7.” *Novum Testamentum* (BRILL) Vol. 31, no. Fasc. 4 (October 1989): 325-343.
 
-Stubbs, Monya A. “Subjection, Reflection, Resistance: An African American Reading of the Three-Dimensional Process of Empowerment in Romans 13 and the Free-Market Economy.” In *Navigating Romans Through Cultures: Challenging Readings by Charting a New Course*, edited by Yeo Khiok-khng (K.K.), 171-197. New York: T &amp; T Clark International, 2004.
+Stubbs, Monya A. “Subjection, Reflection, Resistance: An African American Reading of the Three-Dimensional Process of Empowerment in Romans 13 and the Free-Market Economy.” In *Navigating Romans Through Cultures: Challenging Readings by Charting a New Course*, edited by Yeo Khiok-khng (K.K.), 171-197. New York: T & T Clark International, 2004.
 
 Witherington III, Ben. *Paul’s Letter to the Romans: A Socio-Rhetorical Commentary.* Grand Rapids: William B. Eerdmans Publishing Company, 2004.
 

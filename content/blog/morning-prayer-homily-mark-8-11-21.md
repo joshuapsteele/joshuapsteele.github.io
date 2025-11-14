@@ -46,7 +46,7 @@ I am here reminded of the twin-error of fundamentalism and liberalism when it co
 
 Sure, OK, but <u>we’re</u> not fundamentalists or liberals, at least not on our *good* days. But, following the example of the disciples in the second half of our passage, *don’t we often pine for various other kinds of bread while we misunderstand and ignore the true bread of heaven among us*?
 
-Will we be satisfied by God’s faithful provision of Word and Sacrament to nourish our faith? Or will we long for the more extraordinary manifestations? (As if Word &amp; Sacrament were ordinary!)
+Will we be satisfied by God’s faithful provision of Word and Sacrament to nourish our faith? Or will we long for the more extraordinary manifestations? (As if Word & Sacrament were ordinary!)
 
 Now, can we, should we long for miracles, for healing?
 

@@ -26,7 +26,7 @@ Here are the articles we were assigned to read for this week:
 
 Other than that, for the rest of the semester, we’re reading at least selections from the following works. The goal is to learn from examples of biblical and theological integration.
 
-- Richard Bauckham, Monotheism &amp; Christology in the New Testament (Grand Rapids: Eerdmans, 1998).
+- Richard Bauckham, Monotheism & Christology in the New Testament (Grand Rapids: Eerdmans, 1998).
 - Walter Brueggemann, Theology of the Old Testament: Testimony, Dispute, Advocacy (Minneapolis: Augsburg Fortress, 1997).
 - Graham A. Cole, The God who became Human: A biblical theology of incarnation (NSBT; Downers Grove: IVP, 1995).
 - C. John Collins, The God of Miracles: An Exegetical Examination of God’s Action in the World (Wheaton: Crossway, 2000).

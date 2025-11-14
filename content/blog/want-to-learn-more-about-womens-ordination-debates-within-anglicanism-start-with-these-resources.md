@@ -112,14 +112,14 @@ Note that I’m still trying to find links to everything. Amazon links below are
 
 #### Collections of Essays
 
-- Mickelsen, Alvera (editor), [*Women, Authority &amp; the Bible.*](http://amzn.to/2UrIUf9) InterVarsity Press, 1986.
+- Mickelsen, Alvera (editor), [*Women, Authority & the Bible.*](http://amzn.to/2UrIUf9) InterVarsity Press, 1986.
 - Pierce, Ronald W. and Rebecca Merrill Groothius (editors), [*Discovering Biblical Equality: Complementarity Without Hierarchy,*](http://amzn.to/2ShMk6H) Second Edition (InterVarsity Press, 2005).
 
 #### General Works on Women in the New Testament and the Early Church
 
 - Bauckham, Richard, [*Gospel Women: Studies of the Named Women in the Gospels.*](http://amzn.to/2TlNrPZ) Eerdmans, 2002.
 - Cooper, Kate, [*Band of Angels: The Forgotten World of Early Christian Women.*](http://amzn.to/2WvkZx5) The Overlook Press, 2013.
-- Keener, Craig S., [*Paul, Women &amp; Wives: Marriage and Women’s Ministry in the Letters of Paul.*](http://amzn.to/2WoeFaC) Hendrickson Publishers,1992.
+- Keener, Craig S., [*Paul, Women & Wives: Marriage and Women’s Ministry in the Letters of Paul.*](http://amzn.to/2WoeFaC) Hendrickson Publishers,1992.
 - Macy, Gary, [*The Hidden History of Women’s Ordination: Female Clergy in the Medieval West.*](http://amzn.to/2Uqfi1C) Oxford University Press, 2008.
 - Payne, Philip B., [*Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters.*](http://amzn.to/2DJ9Txf) Zondervan, 2009
 - Witherington, Ben III, [*Women and the Genesis of Christianity.*](http://amzn.to/2DLQI5R) Cambridge University Press, 1990.
@@ -128,13 +128,13 @@ Note that I’m still trying to find links to everything. Amazon links below are
 
 - Peppiatt, Lucy, [*Women and Worship at Corinth: Paul’s Rhetorical Arguments in I Corinthians.*](http://amzn.to/2GdKAVt) Cascade Books, 2015.
 - Thiselton, Anthony C., [*The First Epistle to the Corinthians.*](http://amzn.to/2Wuf3V7) Eerdmans, 2000: in The New International Greek Testament Commentary).
-- Witherington, Ben III, [*Conflict &amp; Community in Corinth: A Socio-Rhetorical Commentary on I and II Corinthians.*](http://amzn.to/2CU5ANV) Eerdmans, 1995.
+- Witherington, Ben III, [*Conflict & Community in Corinth: A Socio-Rhetorical Commentary on I and II Corinthians.*](http://amzn.to/2CU5ANV) Eerdmans, 1995.
 
 #### Commentaries on I Timothy 2: 8-8-15
 
-- Fee, Gordon D., [*1 &amp; 2 Timothy, Titus.*](http://amzn.to/2SfZO2O) Baker Books, 2011.
+- Fee, Gordon D., [*1 & 2 Timothy, Titus.*](http://amzn.to/2SfZO2O) Baker Books, 2011.
 - Kroeger, Catherine Clark and Richard Clark Kroeger, [*I Suffer Not a Woman: Rethinking I Timothy 2:11-15 in Light of Ancient Evidence.*](http://amzn.to/2DLEhal) Baker Book House, 1992.
-- Wright, N.T., *1 &amp; 2 Timothy and Titus.* InterVarsity Press, 2009 \[Here’s [the commentary](http://amzn.to/2GgEl3c). Here’s [the study guide](http://amzn.to/2Ga7zky).\]
+- Wright, N.T., *1 & 2 Timothy and Titus.* InterVarsity Press, 2009 \[Here’s [the commentary](http://amzn.to/2GgEl3c). Here’s [the study guide](http://amzn.to/2Ga7zky).\]
 
 ---
 

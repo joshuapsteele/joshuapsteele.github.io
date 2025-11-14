@@ -148,11 +148,11 @@ Yet with God, I am enabled to receive my humanity in the midst of divine discour
 
 11 Robert W. Jenson, *A Religion Against Itself* (Richmond, VA: John Knox, 1967), 18.
 
-12 Eberhard Jüngel, “On Becoming Truly Human,” in *Theological Essays II*, ed. J.B. Webster, trans. Arnold Neufeld-Fast and J.B. Webster (Edinburgh: T&amp;T Clark, 1995), 223.
+12 Eberhard Jüngel, “On Becoming Truly Human,” in *Theological Essays II*, ed. J.B. Webster, trans. Arnold Neufeld-Fast and J.B. Webster (Edinburgh: T&T Clark, 1995), 223.
 
 13 Karl Barth, *The Epistle to the Romans*, trans. Edwyn C. Hoskyns, 6th ed. (London: Oxford University Press, 1933), 51.
 
-14 Karl Barth, *Church Dogmatics* (Edinburgh: T &amp; T Clark, 1936-77; repr., Peabody, MA: Hendrickson, 2010), II/1: 285. Henceforth all references to the *Dogmatics* will be in the following form: “CD I/1, 1.”
+14 Karl Barth, *Church Dogmatics* (Edinburgh: T & T Clark, 1936-77; repr., Peabody, MA: Hendrickson, 2010), II/1: 285. Henceforth all references to the *Dogmatics* will be in the following form: “CD I/1, 1.”
 
 15 Barth, *Romans*, 247.
 

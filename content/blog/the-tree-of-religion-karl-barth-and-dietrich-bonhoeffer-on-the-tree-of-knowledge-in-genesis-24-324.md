@@ -129,11 +129,11 @@ Given these adjustments and a moral autonomy view of the KGE, (3) can the TK be 
 
 Baez, Enrique. “Tree of Knowledge.” In *The Lexham Bible Dictionary*, edited by John D. Barry et al. Bellingham, WA: Lexham Press, 2016.
 
-Barth, Karl. *Church Dogmatics*. Edited by G. W. Bromiley and T. F. Torrance. 4 vols. in 14 parts. Edinburgh: T&amp;T Clark, 1956–1975.
+Barth, Karl. *Church Dogmatics*. Edited by G. W. Bromiley and T. F. Torrance. 4 vols. in 14 parts. Edinburgh: T&T Clark, 1956–1975.
 
 ———. *The Epistle to the Romans*. Translated from the 6th ed. by Edwyn C. Hoskyns. Oxford: Oxford University Press, 1968.
 
-———. *On Religion: The Revelation of God as the Sublimation of Religion*. Translated by Garrett Green. London: T&amp;T Clark, 2006.
+———. *On Religion: The Revelation of God as the Sublimation of Religion*. Translated by Garrett Green. London: T&T Clark, 2006.
 
 Bonhoeffer, Dietrich. *Barcelona, Berlin, New York: 1928-1931*. Edited by Clifford J. Green. Translated by Douglas W. Stott. DBWE 10. Minneapolis: Fortress, 2008.
 
@@ -147,7 +147,7 @@ Cassuto, Umberto. *A Commentary on the Book of Genesis: Part One, from Adam to N
 
 Clark, W. A. M. “A Legal Background to the Yahwist’s Use of ‘Good and Evil’ in Genesis 2–3,” *JBL* 88 (1969), 266–78.
 
-Collins, C. John. *Genesis 1–4: A Linguistic, Literary, and Theological Commentary.* Phillipsburg, NJ: P&amp;R, 2006.
+Collins, C. John. *Genesis 1–4: A Linguistic, Literary, and Theological Commentary.* Phillipsburg, NJ: P&R, 2006.
 
 Day, John. *From Creation to Babel: Studies in Genesis 1–11*. London: Bloomsbury Academic, 2013.
 
@@ -213,7 +213,7 @@ Wüstenberg, Ralf K. *A Theology of Life: Dietrich Bonhoeffer’s Religionless C
 
 1. 1. For the TL elsewhere, see Gen. 2:9; 3:22, 24; Prov. 3:18; 11:30; 13:12; 15:4; 2 Esdr. 2:12; 8:52; 4 Macc. 18:16; Rev. 2:7; 22:2, 14, 19. For an overview of the TL in modern theological thought, including Barth’s and Bonhoeffer’s treatments, see Daniel J. Treier, Dustyn E. Keepers, and Ty D. Kieser, “The Tree of Life in Modern Theological Thought,” in *The Tree of Life*, ed. Douglas Estes (Leiden: Brill, Forthcoming). The identity of the tree in question in Gen. 3 is debated. However, the prohibition from eating of the TK in Gen. 2:17 makes it very likely that the TK is the tree that is in view from 3:3–21. [↑](#post-41779-footnote-ref-2)
 
-1. 1. See Karl Barth, *The Epistle to the Romans*, trans. from the 6th ed. Edwyn C. Hoskyns. (Oxford: Oxford University Press, 1968); idem, *On Religion: The Revelation of God as the Sublimation of Religion*, trans. Garrett Green. London: T&amp;T Clark, 2006); Joseph A. DiNoia, O.P., “Religion and the Religions,” in *The Cambridge Companion to Karl Barth*, ed. John Webster (Cambridge: Cambridge University Press, 2000), 243–57; Clifford J. Green, “Bonhoeffer’s Concept of Religion,” *USQR* 19 (1963): 11–21; Ralf K. Wüstenberg, *A Theology of Life: Dietrich Bonhoeffer’s Religionless Christianity*, trans. Doug Stott (Grand Rapids: Eerdmans, 1998). [↑](#post-41779-footnote-ref-3)
+1. 1. See Karl Barth, *The Epistle to the Romans*, trans. from the 6th ed. Edwyn C. Hoskyns. (Oxford: Oxford University Press, 1968); idem, *On Religion: The Revelation of God as the Sublimation of Religion*, trans. Garrett Green. London: T&T Clark, 2006); Joseph A. DiNoia, O.P., “Religion and the Religions,” in *The Cambridge Companion to Karl Barth*, ed. John Webster (Cambridge: Cambridge University Press, 2000), 243–57; Clifford J. Green, “Bonhoeffer’s Concept of Religion,” *USQR* 19 (1963): 11–21; Ralf K. Wüstenberg, *A Theology of Life: Dietrich Bonhoeffer’s Religionless Christianity*, trans. Doug Stott (Grand Rapids: Eerdmans, 1998). [↑](#post-41779-footnote-ref-3)
 
 1. 1. Barth, *On Religion*, 33; idem, *Church Dogmatics* \[*CD*\] I/2, 280; “\[der\] Bereich der Versuche des Menschen sich vor einem eigensinnig und eigenmächtig entworfenen Bilde Gottes selber zu rechtfertigen und zu heiligen.” idem, *Kirkliche Dogmatik* \[*KD*\] I/2, 304. This adequately summarizes what Barth meant by “religion” earlier in *Romans.* Arguably, the only new element in *CD* §17 is Barth’s willingness to consider how, despite its religious idolatry, Christianity is “the true religion.” [↑](#post-41779-footnote-ref-4)
 

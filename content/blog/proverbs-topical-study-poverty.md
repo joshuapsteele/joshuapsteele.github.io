@@ -148,7 +148,7 @@ This gives a glimpse into a thematic truth of Scripture that has been called God
 
 > “The human righteousness required by God and established in obedience – the righteousness which according to Amos 5:24 should pour down as a mighty stream – has necessarily the character of a vindication of right in favour of the threatened innocent, the oppressed poor, widows, orphans, and aliens.
 > 
-> For this reason, in the relations and events in the life of his people, God always takes his stand unconditionally and passionately on this side and this side alone: against the lofty and on behalf of the lowly; against those who enjoy right and privilege and on behalf of those who are denied it and deprived of it” (1996, 111-112, cf. Barth, *Church Dogmatics* II/1 \[T.&amp;T. Clark, 1957\], p. 387)
+> For this reason, in the relations and events in the life of his people, God always takes his stand unconditionally and passionately on this side and this side alone: against the lofty and on behalf of the lowly; against those who enjoy right and privilege and on behalf of those who are denied it and deprived of it” (1996, 111-112, cf. Barth, *Church Dogmatics* II/1 \[T.&T. Clark, 1957\], p. 387)
 
 **God’s heart for and even bias toward the poor extends well beyond the book of Proverbs**. If one pays close attention, it is readily apparent that Scripture is saturated with it.
 

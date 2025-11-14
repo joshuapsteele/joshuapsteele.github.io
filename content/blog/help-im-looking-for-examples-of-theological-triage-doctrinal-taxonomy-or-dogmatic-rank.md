@@ -133,7 +133,7 @@ Finally, note that *this* EFCA document references an earlier one and a later on
 
 ## Stanley J. Grenz and Roger E. Olson, *Who Needs Theology? An Invitation to the Study of God* (IVP, 1996), 70–77.
 
-- The chapter is titled “Theology’s Tasks &amp; Traditions.” The section is titled “Theology’s Critical Task.”
+- The chapter is titled “Theology’s Tasks & Traditions.” The section is titled “Theology’s Critical Task.”
 - “Theology’s critical task is to examine beliefs and teachings about God, ourselves and the world in light of Christian sources, especially the primary norm of the biblical message” (70).
 - After a belief is determined to be valid, then we categorize it based upon relative importance.
 - “Over the centuries theologians have developed three main categories of Christian beliefs: *dogma*, *doctrine*, and *opinion*.

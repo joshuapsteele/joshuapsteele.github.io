@@ -23,7 +23,7 @@ Not to discount Dietrich’s other biblical material, but Genesis 1–3, Psalms,
 
 I’ll confess that I’m not entirely sure what to do with Psalms at this point, but handling *at least* both Genesis 1–3 and Matthew 5–7 is one of my main goals. I’m currently exploring Bonhoeffer’s discussion of Pharisees in *Ethics* as a possible organic connection between the two passages.
 
-Another possibility, if I double-down on the theological critique of religion as a focus, is to restructure the project. Instead of each chapter being devoted to a passage of Scripture, I could have a chapter on (1) how Barth used the Bible to critique religion, (2) how Bonhoeffer used the Bible to critique religion, (3) similarities/differences between the two, and (4) how *I* would use the Bible to critique religion, building on B&amp;B’s work.
+Another possibility, if I double-down on the theological critique of religion as a focus, is to restructure the project. Instead of each chapter being devoted to a passage of Scripture, I could have a chapter on (1) how Barth used the Bible to critique religion, (2) how Bonhoeffer used the Bible to critique religion, (3) similarities/differences between the two, and (4) how *I* would use the Bible to critique religion, building on B&B’s work.
 
 So, as you can tell, two years in, and it feels like several things are still up in the air! Thankfully, there’s plenty to think and write about when it comes to using the Bible to help explain the Barth-Bonhoeffer relationship!
 

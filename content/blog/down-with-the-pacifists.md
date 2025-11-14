@@ -28,4 +28,4 @@ Exactly one week later, [Mark Driscoll](http://theresurgence.com/authors/mark-dr
 
 “Those who want to portray Jesus as a pansy or a pacifist are prone to be very selective in the parts of the Bible they quote. But the God of the bloody Old Testament is Jesus Christ. When he became a man, he walked the earth as a working-class carpenter. The European, long-haired, dress-wearing, hippie Jesus is a bad myth from a bad artist who mistook Jesus for a community college humanities professor. But if we want to learn all about Jesus we have to read all that the Bible says about him. Here’s how Jesus will appear one day:” \[Proceeds to quote his favorite Bible passage, [Revelation 14:14-20](http://biblia.com/bible/esv/Rev.%2014.14%E2%80%9320).\]
 
-**What about you? What’s your take on pacifism? And, if you’re going to critique it, please do a better job than Driscoll &amp; Co.!**
+**What about you? What’s your take on pacifism? And, if you’re going to critique it, please do a better job than Driscoll & Co.!**

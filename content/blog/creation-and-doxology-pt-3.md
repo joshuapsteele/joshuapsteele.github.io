@@ -40,7 +40,7 @@ In light of these things, to relegate the manifold and rich uses of creation the
 
 [^7]: With regards to “Eikon” language, I am indebted to Scot McKnight, who uses the terminology frequently in his writing. Consider his discussion of humans as Eikons and Christ as the perfect Eikon who redeems in Scot McKnight, *A Community Called Atonement*. Living Theology. (Nashville: Abingdon, 2007), especially pp. 15-24.
 
-[^8]: Cf. Rom 8:18-23. See Richard Bauckham, “The Story of the Earth According to Paul: Romans 8:18-23.” *Review &amp; Expositor* 108, no. 1 (12/01, 2011): 91-97 and also Michael W. Pahl, *From Resurrection to New Creation: A First Journey in Christian Theology*. (Eugene, OR: Cascade Books, 2010), 88-92.
+[^8]: Cf. Rom 8:18-23. See Richard Bauckham, “The Story of the Earth According to Paul: Romans 8:18-23.” *Review & Expositor* 108, no. 1 (12/01, 2011): 91-97 and also Michael W. Pahl, *From Resurrection to New Creation: A First Journey in Christian Theology*. (Eugene, OR: Cascade Books, 2010), 88-92.
 
 [^9]: Cf. passages such as Rom 5-8; 2 Cor 5:17; Eph 1:10. While the wording of the last two sentences in this paragraph is my own, some credit must be given to Pahl’s remarkably clear summary and explanation of resurrection, redemption, and new creation in his final chapter on Creation. See Pahl *From Resurrection to New Creation*, 85-92.
 

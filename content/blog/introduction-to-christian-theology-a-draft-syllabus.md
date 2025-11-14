@@ -91,7 +91,7 @@ Total cost: ~$75.
 
 # Course Requirements
 
-## Participation &amp; Assigned Reading – 20%
+## Participation & Assigned Reading – 20%
 
 Participation will be based on class discussions, which will require students to come to class prepared by having read thoughtfully the assigned readings.
 
@@ -334,7 +334,7 @@ Reading:
 
 Assignment:
 
-- **Submit the Outline &amp; Abstract for your Final Paper.**
+- **Submit the Outline & Abstract for your Final Paper.**
 - **Reading Presentations** (Summary; 1 Positive; 1 Critique): 
     - Mirandola
     - Edwards
@@ -676,7 +676,7 @@ I wanted us to read a brief book that (1) showcased a theologian *doing* theolog
 
 Speaking of papers, Kibbe’s book is an excellent primer for theological research and writing. Because people come into this course from different academic backgrounds, some kind of introduction to what research and writing should look like in theology is necessary. I know of no better bang for the buck (and for the page) than this recent book from Kibbe.
 
-### McGrath, *Theology: The Basics* &amp; *Theology: The Basic Readings*
+### McGrath, *Theology: The Basics* & *Theology: The Basic Readings*
 
 I’ll admit that it was difficult to choose between these two shorter books and McGrath’s longer offerings, *Christian Theology: An Introduction* and *The Christian Theology Reader.*
 
@@ -706,7 +706,7 @@ This work isn’t a classic, yet! I do suspect, however, that it will gain in po
 
 This book is a wonderful resource for finding out what the consensus teaching of the Church, emphasis on the early Church, has been on the various main topics of Christian theology—“classic consensual ecumenical teaching,” as Oden puts it. It reads almost like a systematically-categorized catalogue of quotations from the early Church. I think it deserves a place on your bookshelf alongside another more “standard” systematic theology like Erickson or van der Kooi and van den Brink. However, at just over 900 pages, it’s too long to work well as a main text for this course.
 
-### Van der Kooi &amp; van den Brink, *Christian Dogmatics*
+### Van der Kooi & van den Brink, *Christian Dogmatics*
 
 This is another resource that isn’t a classic yet, at least not in the USA, because it’s only been available in English translation since 2017. However, it’s already a classic work in Dutch since it came out in the Netherlands in 2012. Just like Erickson and Grudem above, this is a pedagogically useful and comprehensive systematic theology. However, just like Erickson and Grudem, at 800 pages, this book is also too long to serve as our main text.
 

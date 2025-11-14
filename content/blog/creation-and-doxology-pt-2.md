@@ -24,13 +24,13 @@ The creation theology of the whirlwind speeches shows that “humanity has a pla
 
 ---
 
-[^1]: Kathry M. Schifferdecker, “Of Stars and Sea Monsters: Creation Theology in the Whirlwind Speeches,” *Word &amp; World* 31, no. 4 (09/01, 2011): 359, 361.
+[^1]: Kathry M. Schifferdecker, “Of Stars and Sea Monsters: Creation Theology in the Whirlwind Speeches,” *Word & World* 31, no. 4 (09/01, 2011): 359, 361.
 
 [^2]: Cf. Gen 1-2; Pss 8; 104.
 
 [^3]: Schifferdecker 2011, 361-2.
 
-[^4]: Catherine Keller, “”Be this Fish”: A Theology of Creation Out of Chaos.” *Word &amp; World* 32, no. 1 (12/01, 2012): 17.
+[^4]: Catherine Keller, “”Be this Fish”: A Theology of Creation Out of Chaos.” *Word & World* 32, no. 1 (12/01, 2012): 17.
 
 [^5]: Cf. Ps 29; 74; 89; 114; Isa 51:9-10; Job 9:8; 26:12-13. Cited by Schifferdecker 2011, 362.
 

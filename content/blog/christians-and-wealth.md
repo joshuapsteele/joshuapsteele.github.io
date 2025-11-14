@@ -152,7 +152,7 @@ Witherington, Ben. "Deprogramming Ourselves from a Lifestyle of Conspicuous Cons
 
 [^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).
 
-[^8]: Barth, *Church Dogmatics* II/1 (T.&amp;T. Clark, 1957), p. 387
+[^8]: Barth, *Church Dogmatics* II/1 (T.&T. Clark, 1957), p. 387
 
 [^9]: cf. Exodus 3:7-9
 

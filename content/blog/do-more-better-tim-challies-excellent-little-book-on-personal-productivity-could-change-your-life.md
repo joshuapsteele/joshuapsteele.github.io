@@ -29,7 +29,7 @@ As far as explicitly Christian approaches to personal productivity go, Challies�
 
 ## Answer the Call
 
-In **chapter two, Answer the Call**, Challies discusses the “Producitivity Thieves” of Laziness, Busyness, “BusyLazy,” and Thorns &amp; Thistles. He also places personal productivity in its proper context in the Christian life, rightly stating that:
+In **chapter two, Answer the Call**, Challies discusses the “Producitivity Thieves” of Laziness, Busyness, “BusyLazy,” and Thorns & Thistles. He also places personal productivity in its proper context in the Christian life, rightly stating that:
 
 > “God calls you to productivity, but he calls you to the right kind of productivity. He calls you to be productive for his sake, not your own. While this book will emphasize tools and systems and other important elements of productivity, nothing is more important than your own holiness and your own godliness. No amount of organization and time management will compensate for a lack of Christian character, not when it comes to this great calling of glory through good — bringing glory to God by doing good to others” (25).
 

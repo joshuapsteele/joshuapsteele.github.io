@@ -74,21 +74,21 @@ Then, take a look at the following resources (although many more could be added 
 - Clouse, Bonnidell and Robert G., eds., [*Women in Ministry: Four Views.*](https://amzn.to/2UtANyq) Downers Grove: IVP, 1989.
 - Cohick, Lynn H. and Amy Brown Hughes, [*Christian Women in the Patristic World: Their Influence, Authority, and Legacy in the Second through Fifth Centuries*](https://amzn.to/2Wu90Qp), Baker Academic, 2017.
 - Cooper, Kate, [*Band of Angels: The Forgotten World of Early Christian Women.*](https://amzn.to/2WvkZx5) The Overlook Press, 2013.
-- Fee, Gordon D., [*1 &amp; 2 Timothy, Titus.*](https://amzn.to/2SfZO2O) Baker Books, 2011.
-- Keener, Craig S., [*Paul, Women &amp; Wives: Marriage and Women’s Ministry in the Letters of Paul.*](https://amzn.to/2WoeFaC) Hendrickson Publishers,1992.
+- Fee, Gordon D., [*1 & 2 Timothy, Titus.*](https://amzn.to/2SfZO2O) Baker Books, 2011.
+- Keener, Craig S., [*Paul, Women & Wives: Marriage and Women’s Ministry in the Letters of Paul.*](https://amzn.to/2WoeFaC) Hendrickson Publishers,1992.
 - Kroeger, Catherine Clark and Richard Clark Kroeger, [*I Suffer Not a Woman: Rethinking I Timothy 2:11-15 in Light of Ancient Evidence.*](https://amzn.to/2DLEhal) Baker Book House, 1992.
 - Macy, Gary, [*The Hidden History of Women’s Ordination: Female Clergy in the Medieval West.*](https://amzn.to/2Uqfi1C) Oxford University Press, 2008.
-- Mickelsen, Alvera (editor), [*Women, Authority &amp; the Bible.*](https://amzn.to/2UrIUf9) InterVarsity Press, 1986.
+- Mickelsen, Alvera (editor), [*Women, Authority & the Bible.*](https://amzn.to/2UrIUf9) InterVarsity Press, 1986.
 - Payne, Philip B., [*Man and Woman, One in Christ: An Exegetical and Theological Study of Paul’s Letters.*](https://amzn.to/2DJ9Txf) Zondervan, 2009
 - Peppiatt, Lucy, [*Women and Worship at Corinth: Paul’s Rhetorical Arguments in I Corinthians.*](https://amzn.to/2GdKAVt) Cascade Books, 2015.
 - Peppiatt, Lucy, *[Rediscovering Scripture’s Vision for Women: Fresh Perspectives on Disputed Texts](https://amzn.to/359WBol)*. IVP, 2019.
 - Thiselton, Anthony C., [*The First Epistle to the Corinthians.*](https://amzn.to/2Wuf3V7) Eerdmans, 2000: in The New International Greek Testament Commentary).
 - Westfall, Cynthia Long, [*Paul and Gender: Reclaiming the Apostle’s Vision for Men and Women in Christ*](https://amzn.to/2RYQyRp), Baker Academic, 2016.
 - Witherington, Ben (III), [*Women in the Earliest Churches (Society for New Testament Studies Monograph Series)*](https://amzn.to/2WsBLNj), Cambridge, 1991.
-- Witherington, Ben III, [*Conflict &amp; Community in Corinth: A Socio-Rhetorical Commentary on I and II Corinthians.*](https://amzn.to/2CU5ANV) Eerdmans, 1995.
+- Witherington, Ben III, [*Conflict & Community in Corinth: A Socio-Rhetorical Commentary on I and II Corinthians.*](https://amzn.to/2CU5ANV) Eerdmans, 1995.
 - Witherington, Ben III, [*Women and the Genesis of Christianity.*](https://amzn.to/2DLQI5R) Cambridge University Press, 1990.
 - Wright, N.T., [“Women’s Service in the Church: The Biblical Basis”](http://ntwrightpage.com/2016/07/12/womens-service-in-the-church-the-biblical-basis/)
-- Wright, N.T., *1 &amp; 2 Timothy and Titus.* InterVarsity Press, 2009 \[Here’s [the commentary](https://amzn.to/2GgEl3c). Here’s [the study guide](https://amzn.to/2Ga7zky).\]
+- Wright, N.T., *1 & 2 Timothy and Titus.* InterVarsity Press, 2009 \[Here’s [the commentary](https://amzn.to/2GgEl3c). Here’s [the study guide](https://amzn.to/2Ga7zky).\]
 
 Furthermore, [Will Witt’s series of blogposts on the topic of women’s ordination](http://willgwitt.org/a-guide-to-my-essays-about-womens-ordination/) cannot be ignored.
 
