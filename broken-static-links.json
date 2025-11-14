@@ -8,6 +8,12 @@
   },
   "broken_links": [
     {
+      "file": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+      "original": "/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
+      "normalized": "wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
+      "match": "{{< figure src=\"/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg\" caption=\"Saint James the Greater, by Rembrandt\" >}}"
+    },
+    {
       "file": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
       "original": "/wp-content/uploads/2017/04/Slide2.jpg",
       "normalized": "wp-content/uploads/2017/04/Slide2.jpg",
@@ -72,99 +78,23 @@
       "original": "/wp-content/uploads/2017/04/Slide12.jpg",
       "normalized": "wp-content/uploads/2017/04/Slide12.jpg",
       "match": "![](/wp-content/uploads/2017/04/Slide12.jpg)"
-    },
-    {
-      "file": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
-      "original": "/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
-      "normalized": "wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg",
-      "match": "{{< figure src=\"/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_\u00c4ltere-247x300.jpg\" caption=\"Saint James the Greater, by Rembrandt\" >}}"
     }
   ],
   "working_links": [
     {
-      "file": "content/pages/sermons.md",
-      "original": "/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf",
-      "found_at": "static/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf"
+      "file": "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
+      "original": "/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg",
+      "found_at": "static/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg"
     },
     {
-      "file": "content/pages/cv.md",
-      "original": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
+      "file": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg",
+      "found_at": "static/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg"
     },
     {
-      "file": "content/pages/cv.md",
-      "original": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
+      "file": "content/blog/hermeneutical-implications-scriptures-theological-location.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
       "found_at": "static/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/On_Scripture.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/On_Scripture.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf"
-    },
-    {
-      "file": "content/pages/essays.md",
-      "original": "/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf",
-      "found_at": "static/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf"
     },
     {
       "file": "content/blog/justification-and-sanctification.md",
@@ -175,6 +105,86 @@
       "file": "content/blog/justification-and-sanctification.md",
       "original": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
       "found_at": "static/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx"
+    },
+    {
+      "file": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg",
+      "found_at": "static/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg"
+    },
+    {
+      "file": "content/blog/romans-13.md",
+      "original": "/files/Moo_2018_Romans_13.1-14.pdf",
+      "found_at": "static/files/Moo_2018_Romans_13.1-14.pdf"
+    },
+    {
+      "file": "content/blog/romans-13.md",
+      "original": "/files/Moo_2018_Romans_13.1-14.pdf",
+      "found_at": "static/files/Moo_2018_Romans_13.1-14.pdf"
+    },
+    {
+      "file": "content/blog/only-the-suffering-god-can-help.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg",
+      "found_at": "static/wp-content/uploads/2019/04/img_0297.jpg"
+    },
+    {
+      "file": "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf",
+      "found_at": "static/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf"
+    },
+    {
+      "file": "content/blog/lets-take-seth-godin-to-church.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/img_0502-225x300.jpg"
+    },
+    {
+      "file": "content/blog/thank-god-i-went-to-cedarville.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png",
+      "found_at": "static/wp-content/uploads/2016/05/pablo-10-300x300.png"
+    },
+    {
+      "file": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf",
+      "found_at": "static/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf"
+    },
+    {
+      "file": "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf",
+      "found_at": "static/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf"
+    },
+    {
+      "file": "content/blog/3-confessions-expectant-father.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg",
+      "found_at": "static/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg"
+    },
+    {
+      "file": "content/blog/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
+      "found_at": "static/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
+    },
+    {
+      "file": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+      "original": "/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png",
+      "found_at": "static/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png"
+    },
+    {
+      "file": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+      "original": "/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png",
+      "found_at": "static/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png"
+    },
+    {
+      "file": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3",
+      "found_at": "static/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3"
+    },
+    {
+      "file": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf",
+      "found_at": "static/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf"
+    },
+    {
+      "file": "content/blog/12-prayers-for-tough-days.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx",
+      "found_at": "static/wp-content/uploads/2020/03/56-Occasional-Prayers.docx"
     },
     {
       "file": "content/blog/vintage-craftsman-table-saw.md",
@@ -202,94 +212,44 @@
       "found_at": "static/files/craftsman_table_saw_motor_manual.pdf"
     },
     {
-      "file": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png",
-      "found_at": "static/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0493-300x225.jpg"
     },
     {
-      "file": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
-      "found_at": "static/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0492-300x225.jpg"
     },
     {
-      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg",
-      "found_at": "static/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0494-300x225.jpg"
     },
     {
-      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg",
-      "found_at": "static/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0500-300x225.jpg"
     },
     {
-      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3663.jpg",
-      "found_at": "static/wp-content/uploads/2018/03/IMG_3663.jpg"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0495-300x225.jpg"
     },
     {
-      "file": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3743.jpg",
-      "found_at": "static/wp-content/uploads/2018/03/IMG_3743.jpg"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0499-300x225.jpg"
     },
     {
-      "file": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
-      "found_at": "static/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png"
+      "file": "content/blog/what-im-reading.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg",
+      "found_at": "static/wp-content/uploads/2016/05/IMG_0496-300x225.jpg"
     },
     {
-      "file": "content/blog/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
-      "found_at": "static/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf"
-    },
-    {
-      "file": "content/blog/saw-updates.md",
-      "original": "/refurbished-table-saw.jpeg",
-      "found_at": "static/refurbished-table-saw.jpeg"
-    },
-    {
-      "file": "content/blog/saw-updates.md",
-      "original": "/rip-fence-handle-epoxy.jpeg",
-      "found_at": "static/rip-fence-handle-epoxy.jpeg"
-    },
-    {
-      "file": "content/blog/saw-updates.md",
-      "original": "/new-rip-fence-handle.jpeg",
-      "found_at": "static/new-rip-fence-handle.jpeg"
-    },
-    {
-      "file": "content/blog/saw-updates.md",
-      "original": "/new-rip-fence-handle-2.jpeg",
-      "found_at": "static/new-rip-fence-handle-2.jpeg"
-    },
-    {
-      "file": "content/blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf",
-      "found_at": "static/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf"
-    },
-    {
-      "file": "content/blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf",
-      "found_at": "static/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf"
-    },
-    {
-      "file": "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
-      "original": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf",
-      "found_at": "static/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf"
-    },
-    {
-      "file": "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
-      "original": "/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg",
-      "found_at": "static/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg"
-    },
-    {
-      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
-      "original": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
-      "found_at": "static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
-    },
-    {
-      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
-      "original": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
-      "found_at": "static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
+      "file": "content/blog/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america.md",
+      "original": "/Joshua_Steele_ACNA_Resignation_2023-11-07.jpg",
+      "found_at": "static/Joshua_Steele_ACNA_Resignation_2023-11-07.jpg"
     },
     {
       "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
@@ -330,6 +290,46 @@
       "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
       "original": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg",
       "found_at": "static/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg"
+    },
+    {
+      "file": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg",
+      "found_at": "static/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg"
+    },
+    {
+      "file": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png",
+      "found_at": "static/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png"
+    },
+    {
+      "file": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
+      "found_at": "static/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf"
+    },
+    {
+      "file": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
+      "found_at": "static/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png"
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "original": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
+      "found_at": "static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
+    },
+    {
+      "file": "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "original": "/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf",
+      "found_at": "static/files/Carroll_Immigration_DictionaryOfScriptureAndEthics.pdf"
+    },
+    {
+      "file": "content/blog/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks.md",
+      "original": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
+      "found_at": "static/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf"
+    },
+    {
+      "file": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "original": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png",
+      "found_at": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png"
     }
   ]
 }
