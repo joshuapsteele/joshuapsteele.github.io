@@ -33,4 +33,6 @@ However, it’s pretty frustrating not to be able to see the correct English pag
 
 OK, end of rant. Back to research and writing…
 
-<figure class="wp-block-image">![](https://joshuapsteele.com/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png)<figcaption>A screen shot of my problem.</figcaption></figure><figure class="wp-block-image">![](https://i1.wp.com/joshuapsteele.com/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png?fit=700%2C373&ssl=1)<figcaption>Another screen shot of my problem.</figcaption></figure>
+{{< figure src="/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png" caption="A screen shot of my problem." >}}
+
+{{< figure src="/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png" caption="Another screen shot of my problem." >}}

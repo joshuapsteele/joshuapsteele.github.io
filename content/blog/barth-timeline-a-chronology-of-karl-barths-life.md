@@ -14,18 +14,21 @@ I really like the [timelines of Bonhoeffer’s life](https://joshuapsteele.com/b
 
 However, I’m having a much harder time finding comparable timelines for the life of Karl Barth. The information is all there, but there’s no comparable table/list of dates in either *[The Cambridge Companion to Karl Barth](https://www.amazon.com/Cambridge-Companion-Barth-Companions-Religion/dp/0521585600/ref=as_li_ss_tl?keywords=cambridge+companion+barth&qid=1573573918&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=29693cd488e72a6b6cfdbc3d6cff2890&language=en_US)* or [Busch’s ](https://www.amazon.com/Karl-Barth-Letters-Autobiographical-English/dp/0800604857/ref=as_li_ss_tl?keywords=busch+karl+barth&qid=1573573945&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=b036e293c7204f86ef793b1a161fdfeb&language=en_US)*[Karl Barth: His Life from Letters and Autobiographical Texts](https://www.amazon.com/Karl-Barth-Letters-Autobiographical-English/dp/0800604857/ref=as_li_ss_tl?keywords=busch+karl+barth&qid=1573573945&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=b036e293c7204f86ef793b1a161fdfeb&language=en_US)*. (Again, Amazon affiliate links.)
 
-The closest thing that I’ve been able to find is the following [“Karl Barth Timeline” over on the blog, “Out of Bounds: Theology in the Far Country.”](https://theologyoutofbounds.wordpress.com/karl-barth-timeline/) As you can see in the screenshots below, this timeline focuses on Barth’s major works.
+The closest thing that I've been able to find is the following ["Karl Barth Timeline" over on the blog, "Out of Bounds: Theology in the Far Country."](https://theologyoutofbounds.wordpress.com/karl-barth-timeline/) As you can see in the screenshots below, this timeline focuses on Barth's major works.
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png)</figure>
-- <figure>![](https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png)</figure>
-- <figure>![](https://joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png)</figure>
+{{< figure src="/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png" >}}
 
-<a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>There’s also [this helpful “Biography” page over at the Center for Barth Studies (Princeton Theological Seminary) website](http://barth.ptsem.edu/karl-barth/biography).
+{{< figure src="/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png" >}}
 
-<div class="wp-block-jetpack-slideshow aligncenter" data-effect="slide"><div class="wp-block-jetpack-slideshow_container swiper-container">- <figure>![](https://i1.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png?fit=640%2C504&ssl=1)</figure>
-- <figure>![](https://i2.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png?fit=640%2C432&ssl=1)</figure>
+{{< figure src="/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png" >}}
 
-<a class="wp-block-jetpack-slideshow_button-prev swiper-button-prev swiper-button-white" role="button"></a><a class="wp-block-jetpack-slideshow_button-next swiper-button-next swiper-button-white" role="button"></a><a aria-label="Pause Slideshow" class="wp-block-jetpack-slideshow_button-pause" role="button"></a><div class="wp-block-jetpack-slideshow_pagination swiper-pagination swiper-pagination-white"></div></div></div>Of course, Busch does provide the following chronological list of Barth’s major works:
+There's also [this helpful "Biography" page over at the Center for Barth Studies (Princeton Theological Seminary) website](http://barth.ptsem.edu/karl-barth/biography).
+
+{{< figure src="/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png" >}}
+
+{{< figure src="/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png" >}}
+
+Of course, Busch does provide the following chronological list of Barth's major works:
 
 ## Chronological list of Barth’s Major Works (Busch, *Karl Barth*, 509–12)
 

@@ -11,9 +11,13 @@ title: An Outline of Karl Barth's Church Dogmatics
 url: /an-outline-of-karl-barths-church-dogmatics/
 ---
 
-<figure class="wp-block-image">![](https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png)<figcaption class="wp-element-caption">[Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/).</figcaption></figure>If you’re trying to grasp the contours and contents of Karl Barth’s massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here’s a helpful PDF version, with subheadings included, from Princeton’s [Center for Barth Studies](http://barth.ptsem.edu).
+{{< figure src="https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png" caption="[Karl Barth's Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/)." >}}
 
-<div class="wp-block-file aligncenter">[Barth\_Outline of Church Dogmatics](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)[Download](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)</div>Below is a version that I’ve created from my Logos edition of *Church Dogmatics*. It’s the version found in the Index (CD V/1, 1–13).
+If you're trying to grasp the contours and contents of Karl Barth's massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here's a helpful PDF version, with subheadings included, from Princeton's [Center for Barth Studies](http://barth.ptsem.edu).
+
+[Barth\_Outline of Church Dogmatics](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)
+
+Below is a version that I've created from my Logos edition of *Church Dogmatics*. It's the version found in the Index (CD V/1, 1–13).
 
 (Want to learn more about Karl Barth, but not quite ready to dive into the *Church Dogmatics*? Check out Keith Johnson’s extremely helpful *[The Essential Karl Barth: A Reader and Commentary](https://amzn.to/45IDpg5)* \[affiliate link\].)
 

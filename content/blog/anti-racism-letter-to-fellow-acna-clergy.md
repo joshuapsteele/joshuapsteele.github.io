@@ -200,8 +200,12 @@ Rev. Jon Ziegler
 
 ### ACNA Clergy
 
-<div class="wp-block-file">[ACNA-Clergy-Sign-the-Anti-Racism-Letter\_2022-08-15](https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv)[Download](https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv)</div>\[signaturelist id=”2″\]
+[ACNA-Clergy-Sign-the-Anti-Racism-Letter\_2022-08-15 (CSV)](https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv)
+
+\[signaturelist id="2″\]
 
 ### All Other Supporters
 
-<div class="wp-block-file">[Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here\_2022-08-15](https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv)[Download](https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv)</div>\[signaturelist id=”3″\]
+[Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here\_2022-08-15 (CSV)](https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv)
+
+\[signaturelist id="3″\]

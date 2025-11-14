@@ -13,11 +13,11 @@ After a lengthy induction and labor, our beautiful daughter, Eva Joy Steele, was
 
 If that’s all you’d like to know, great! If you’d like to know more about what went down, keep reading.
 
-Here’s a cute picture/tweet for your troubles.
+Here's a cute picture/tweet for your troubles.
 
 (NOTE: The Twitter embeds/links below no longer work. Apologies! But I'm keeping them in for posterity.)
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020479447953301504 </figure>
+https://twitter.com/joshuapsteele/status/1020479447953301504
 
 ## It all started on Tuesday, July 17, 2018.
 
@@ -89,15 +89,15 @@ The induction process started around 12:30 am with the insertion of a medicine c
 
 Despite our hopes that things would start to progress rather quickly, Wednesday was a looooooong day. Looking back, I can tell that this was the case because I had time to tweet.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019570011952861184 </figure>
+https://twitter.com/joshuapsteele/status/1019570011952861184
 
 Also, I figured that now was as good a time as any to ask for some last-minute parenting advice.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019606474115420160 </figure>
+https://twitter.com/joshuapsteele/status/1019606474115420160
 
 By the way, my friend Ryan Clevenger wins the award for best dad advice given in response to my tweet.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/Nazianzenus/status/1019641823030112261 </figure>
+https://twitter.com/Nazianzenus/status/1019641823030112261
 
 Anyways, the first round of Cervidil lasted 12 hours. After they took the Cervidil out, they checked and Rachel was barely dilated.
 
@@ -127,7 +127,7 @@ After talking with our doula, Teri, on the phone, we decided to start Pitocin on
 
 So, they started Pitocin at around 4:00pm on Wednesday. Just like Cervidil, the first round lasted approximately 12 hours.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019780168326565889 </figure>
+https://twitter.com/joshuapsteele/status/1019780168326565889
 
 ### To Eat, or Not to Eat
 
@@ -165,11 +165,11 @@ Unfortunately, what also started around this time was *vomiting* (Rachel, not me
 
 ## Back on Pitocin (10:30 am, Thursday)
 
-Things were progressing, but they didn’t exactly take off after the Cook catheter was in. So, it was back on Pitocin.
+Things were progressing, but they didn't exactly take off after the Cook catheter was in. So, it was back on Pitocin.
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1019982256037859329 </figure>
+https://twitter.com/joshuapsteele/status/1019982256037859329
 
-Rachel’s contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.
+Rachel's contractions were getting more and more painful. Specifically, she was complaining about pain/tension in her lower back.
 
 What’s more, she was getting to the point where she had to stop talking during contractions. This despite her insistence that, while she *could* talk through the contractions if she really wanted to, it was easier not to talk…
 
@@ -201,9 +201,9 @@ However, that nurse eventually left. Also, Rachel was able to get a decent nap i
 
 ## Removed Cook Catheter (8:00pm, Thursday)
 
-<figure class="wp-block-embed-twitter wp-block-embed is-type-rich is-provider-twitter">https://twitter.com/joshuapsteele/status/1020115308634361857 </figure>
+https://twitter.com/joshuapsteele/status/1020115308634361857
 
-There’s something about 12 hour rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
+There's something about 12 hour rounds of things during induction/labor. So, at 8:00pm or so, they took out the Cook catheter.
 
 After a pretty intense afternoon, Rachel was dilated to (\*drumroll\*) … 3cm!
 

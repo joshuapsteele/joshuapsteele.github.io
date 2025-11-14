@@ -13,7 +13,9 @@ url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
 
 *Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.*
 
-<figure class="wp-block-audio"><audio controls="" src="https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3"></audio></figure>---
+{{< audio src="https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3" >}}
+
+---
 
 ## If there are two things I hate, they are waiting and staying awake.
 

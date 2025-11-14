@@ -20,7 +20,7 @@ You can read the sermon manuscript here: [The Challenge of Christmas Light Sermo
 
 And you can listen to the audio here (note: it begins just as I finish reading the collect for the Feast of St. John and the collect for the First Sunday after Christmas):
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-3536-1" preload="none" style="width: 100%;"><source src="http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3?_=1" type="audio/mpeg"></source><http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3></audio>
+{{< audio src="http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3" >}}
 
 Finally, [you can read/listen to my other sermons here](https://joshuapsteele.com/sermons/).
 
