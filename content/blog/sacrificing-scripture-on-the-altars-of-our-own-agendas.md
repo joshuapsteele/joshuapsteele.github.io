@@ -32,7 +32,7 @@ People like Ken Ham and AiG claim to have a **high** view of Scripture and to ho
 
 For those of you still reading who don’t think I’m a crazy liberal yet (I can assure you, I’m not), consider the following resources as first steps in moving beyond Ken Ham, AiG, and the vitriolic debate between Young Earth Creationism and Neo-Darwinism, to what Scripture actually has to say about creation!
 
-\[youtube=http://youtu.be/5bKa92eLkQM\]
+{{< youtube 5bKa92eLkQM >}}
 
 Check out [my blog post on Biblical Creation Theology](http://windowinthesky.wordpress.com/2012/09/15/biblical-creation-theology/ "Biblical Creation Theology").
 

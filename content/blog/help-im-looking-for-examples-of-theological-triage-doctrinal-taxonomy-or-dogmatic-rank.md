@@ -310,9 +310,11 @@ Taylor highlights and quotes from:
 > 3\. *opinions* are less-clear issues that generally are not worth dividing over; and  
 > 4\. *questions* are currently unsettled issues.
 > 
-> These categories can be best visualized as concentric circles, similar to those on a dart board, with the absolutes as the “bull’s-eye”:
+> These categories can be best visualized as concentric circles, similar to those on a dart board, with the absolutes as the "bull's-eye":
 
-<div class="wp-block-image"><figure class="aligncenter">![](http://blogs.thegospelcoalition.org/justintaylor/files/2010/03/diagram-doctrine-01-300x298.png)<figcaption>Diagram is from Crossway.</figcaption></figure></div>> Where an issue falls within these categories should be determined by weighing the cumulative force of at least seven considerations:
+{{< figure src="http://blogs.thegospelcoalition.org/justintaylor/files/2010/03/diagram-doctrine-01-300x298.png" caption="Diagram is from Crossway." >}}
+
+> Where an issue falls within these categories should be determined by weighing the cumulative force of at least seven considerations:
 > 
 > 1\. biblical clarity;  
 > 2\. relevance to the character of God;  
@@ -328,11 +330,13 @@ Taylor highlights and quotes from:
 
 > Michael Wittmer, professor of theology and historical theology at Grand Rapids Theological Seminary, wrote a helpful book entitled, *[Don’t Stop Believing: Why Living Like Jesus Is Not Enough](http://www.amazon.com/Dont-Stop-Believing-Living-Enough/dp/0310281164/bettwowor-20/?tag=bettwowor0e-20)*. He classifies Christian beliefs into three categories:
 > 
-> 1\. what you *must* believe  
-> 2\. what you must not *reject*  
+> 1\. what you *must* believe
+> 2\. what you must not *reject*
 > 3\. what you *should* believe
 
-<div class="wp-block-image"><figure class="aligncenter is-resized">![Screen Shot 2015-09-29 at 2.42.25 PM](http://blogs.thegospelcoalition.org/justintaylor/files/2015/09/Screen-Shot-2015-09-29-at-2.42.25-PM1.png)<figcaption>Diagram from Zondervan.</figcaption></figure></div>### Here’s Taylor interviewing Wittmer:
+{{< figure src="http://blogs.thegospelcoalition.org/justintaylor/files/2015/09/Screen-Shot-2015-09-29-at-2.42.25-PM1.png" caption="Diagram from Zondervan." >}}
+
+### Here's Taylor interviewing Wittmer:
 
 In a 2008 [interview with Dr. Wittmer](http://blogs.thegospelcoalition.org/justintaylor/2008/12/08/interview-with-michael-wittmer/), I asked him to explain these categories:
 

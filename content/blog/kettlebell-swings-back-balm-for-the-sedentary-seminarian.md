@@ -13,9 +13,9 @@ Can you relate?
 
 Maybe it’s not sitting around reading books all day, but I imagine plenty of you out there suffer from back pain/fatigue.
 
-Let me share a time-saving solution I’ve recently found: [***two-handed kettlebell*** ](http://breakingmuscle.com/kettlebells/how-to-do-the-perfect-kettlebell-swing)***swings.***
+Let me share a time-saving solution I've recently found: [***two-handed kettlebell*** ](http://breakingmuscle.com/kettlebells/how-to-do-the-perfect-kettlebell-swing)***swings.***
 
-<figure aria-describedby="caption-attachment-3810" class="wp-caption aligncenter" id="attachment_3810" style="width: 300px">![Our small kettlebell family](https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3810">Our small kettlebell family</figcaption></figure>
+{{< figure src="/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg" caption="Our small kettlebell family" >}}
 
 How can these cannonballs with handles help your back?
 

@@ -9,7 +9,7 @@ title: 'Getting Ahead in God''s Upside-Down Kingdom: An Appeal for a Consistentl
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-4174-2" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3?_=2" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3></audio>
+{{< audio src="/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3" >}}
 
 \[[MP3: Getting Ahead in God’s Upside-Down Kingdom](https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3)\]
 

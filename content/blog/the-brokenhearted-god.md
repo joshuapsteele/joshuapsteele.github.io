@@ -70,7 +70,7 @@ Let's not let our emphasis on God as King make him seem like a distant despot, o
 
 **and like a dove from the land of Assyria;***
 
-**and I will return them to their homes, says the****Lord****.*** ([Hosea 11:1-4; 9-11, CEB](https://www.biblegateway.com/passage/?search=Hosea+11&amp;amp;version=CEB))
+**and I will return them to their homes, says the****Lord****.*** ([Hosea 11:1-4; 9-11, CEB](https://www.biblegateway.com/passage/?search=Hosea+11&version=CEB))
 
 —
 
@@ -80,7 +80,7 @@ Let's not let our emphasis on God as King make him seem like a distant despot, o
 
 ***“‘Then I passed by you and watched you, noticing that you had reached the age for love. I spread my cloak over you and covered your nakedness. I swore a solemn oath to you and entered into a marriage covenant with you, declares the sovereign****Lord****, and you became mine.***
 
-***“‘Then I bathed you in water, washed the blood off you, and anointed you with fragrant oil.****I dressed you in embroidered clothing and put fine leather sandals on your feet. I wrapped you with fine linen and covered you with silk.****I adorned you with jewelry. I put bracelets on your hands and a necklace around your neck.****I put a ring in your nose, earrings on your ears, and a beautiful crown on your head.****You were adorned with gold and silver, while your clothing was of fine linen, silk, and embroidery. You ate the finest flour, honey, and olive oil. You became extremely beautiful and attained the position of royalty.****Your fame spread among the nations because of your beauty; your beauty was perfect because of the splendor which I bestowed on you, declares the sovereign****Lord****.*** ([Ezekiel 16:4-14, NET](https://www.biblegateway.com/passage/?search=Ezekiel%2016&amp;amp;version=NET))
+***“‘Then I bathed you in water, washed the blood off you, and anointed you with fragrant oil.****I dressed you in embroidered clothing and put fine leather sandals on your feet. I wrapped you with fine linen and covered you with silk.****I adorned you with jewelry. I put bracelets on your hands and a necklace around your neck.****I put a ring in your nose, earrings on your ears, and a beautiful crown on your head.****You were adorned with gold and silver, while your clothing was of fine linen, silk, and embroidery. You ate the finest flour, honey, and olive oil. You became extremely beautiful and attained the position of royalty.****Your fame spread among the nations because of your beauty; your beauty was perfect because of the splendor which I bestowed on you, declares the sovereign****Lord****.*** ([Ezekiel 16:4-14, NET](https://www.biblegateway.com/passage/?search=Ezekiel%2016&version=NET))
 
 —
 
@@ -88,8 +88,8 @@ Notice that God's immanence, his willingness to suffer alongside us (and in our 
 
 This rambling post was inspired by the following two songs, which capture the above ideas beautifully. The first is ["Ezekiel," by Gungor](http://open.spotify.com/track/4xyARNLYUCYc0HubY88IX8), based on the text of Ezekiel 16. The second is ["Not Your Type" by Noah James](http://open.spotify.com/track/78BUC2TstlFmGvI1pvNhTT). Give both a listen if you have the time!
 
-\[vimeo url="http://vimeo.com/79250768"\]
+{{< vimeo 79250768 >}}
 
-\[youtube url="https://www.youtube.com/watch?v=D\_wSEMAu2sA"\]
+{{< youtube D_wSEMAu2sA >}}
 
 Posted via [blogwith](http://blogwith.co)

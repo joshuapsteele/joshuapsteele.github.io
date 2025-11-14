@@ -8,27 +8,29 @@ title: The Lasting Supper – Luke 22:14-30
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
 ---
 
-<audio class="wp-audio-shortcode" controls="controls" id="audio-4235-3" preload="none" style="width: 100%;"><source src="https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3?_=3" type="audio/mpeg"></source><https://joshuapsteele.com/wp-content/uploads/2017/04/04-13-17JS.mp3></audio>
+{{< audio src="/wp-content/uploads/2017/04/04-13-17JS.mp3" >}}
 
 There is something special about last meals, isn’t there?
 
-I'd like to show you a series of photographs. These photographs, except for the last one – which I added, are from [a piece called "No Seconds," and they were put together by Henry Hargreaves](http://henryhargreaves.com/no-seconds).
+I’d like to show you a series of photographs. These photographs, except for the last one – which I added, are from [a piece called “No Seconds,” and they were put together by Henry Hargreaves](http://henryhargreaves.com/no-seconds).
 
 I don't want to belabor the artwork with my commentary, so I'll give you a few seconds to take each slide in.
 
-![](/wp-content/uploads/2017/04/Slide2-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide11-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide10-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide9-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide8-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide7-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide6-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide5-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide4-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide3-150x150.jpg)
-![](/wp-content/uploads/2017/04/Slide12-150x150.jpg)
+{{< gallery >}}
+![](/wp-content/uploads/2017/04/Slide2.jpg)
+![](/wp-content/uploads/2017/04/Slide11.jpg)
+![](/wp-content/uploads/2017/04/Slide10.jpg)
+![](/wp-content/uploads/2017/04/Slide9.jpg)
+![](/wp-content/uploads/2017/04/Slide8.jpg)
+![](/wp-content/uploads/2017/04/Slide7.jpg)
+![](/wp-content/uploads/2017/04/Slide6.jpg)
+![](/wp-content/uploads/2017/04/Slide5.jpg)
+![](/wp-content/uploads/2017/04/Slide4.jpg)
+![](/wp-content/uploads/2017/04/Slide3.jpg)
+![](/wp-content/uploads/2017/04/Slide12.jpg)
+{{< /gallery >}}
 
-Now, I don't know about you, but those pictures affect me deeply. The whole idea of a criminal's last meal affects me deeply. Why?
+Now, I don't know about you, but those pictures affect me deeply. The whole idea of a criminal’s last meal affects me deeply. Why?
 
 I think it’s because these last meals combine the familiar with the unfamiliar. They combine the expected and the unexpected. I mean, on one hand, you’ve got comfort food. On the other hand, heinous crimes. The stuff of life right next to life’s untimely end.
 
