@@ -10,9 +10,9 @@ url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 
 *Readings: [Psalm 34; Jeremiah 16:14-21; Mark 1:14-20](https://www.biblegateway.com/passage/?search=Psalm+34%3B+Jeremiah+16%3A14-21%3B+Mark+1%3A14-20&version=NIV)*
 
-Like so many other feast days – scheduled, as they are, on the days of the namesakes’ deaths – the feast day of St. James the Apostle is **a strong rebuke to our aspirations**. To our aspirations as human beings, and especially to our aspirations as ministers of Christ’s Church.
+Like so many other feast days – scheduled, as they are, on the days of the namesakes' deaths – the feast day of St. James the Apostle is **a strong rebuke to our aspirations**. To our aspirations as human beings, and especially to our aspirations as ministers of Christ's Church.
 
-<figure aria-describedby="caption-attachment-3910" class="wp-caption aligncenter" id="attachment_3910" style="width: 247px">![Saint James the Greater *oil on canvas *92.1 x 74.9 cm *signed b.r.: Rembrandt f. 1661](https://joshuapsteele.com/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg)<figcaption class="wp-caption-text" id="caption-attachment-3910">Saint James the Greater, by Rembrandt</figcaption></figure>
+{{< figure src="/wp-content/uploads/2016/07/Rembrandt_-_Sankt_Jakobus_der_Ältere-247x300.jpg" caption="Saint James the Greater, by Rembrandt" >}}
 
 ## James &amp; John: Fishermen No More?
 

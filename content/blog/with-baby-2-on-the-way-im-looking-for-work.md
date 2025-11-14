@@ -18,9 +18,11 @@ I’m also:
 
 In May 2020, my full-time residential obligations to Wheaton’s Ph.D. program will come to an end. I’ll still need to finish my dissertation in the following 1-2 years (the sooner, the better!), but I will no longer have to work on campus as a teaching/research assistant.
 
-## There’s something else: in July 2020, we’re expecting Baby Steele #2 to arrive! We’re very excited!
+## There's something else: in July 2020, we're expecting Baby Steele #2 to arrive! We're very excited!
 
-<figure class="wp-block-image size-large">![](https://joshuapsteele.com/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg)</figure>Since we got married in 2012, Rachel has worked full-time (first as a Registered Nurse, and then as a Family Nurse Practitioner), making many sacrifices so that I could be a full-time student (first as a seminarian, and then as a doctoral student).
+{{< figure src="/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg" >}}
+
+Since we got married in 2012, Rachel has worked full-time (first as a Registered Nurse, and then as a Family Nurse Practitioner), making many sacrifices so that I could be a full-time student (first as a seminarian, and then as a doctoral student).
 
 ## With our second child on the way, and the upcoming opportunity to go part-time with the Ph.D., I’m looking for full-time work starting in May 2020.
 

@@ -12,8 +12,6 @@ For my “Pedagogical Experience” requirement at Wheaton, I’m helping to tea
 
 Yesterday, I got to teach a lesson on justification and sanctification. A lot to cover in a 95-minute class session!
 
-If you’re interested in what I covered, here are my slides (in PDF format).
+If you're interested in what I covered, here are my slides: [Justification and Sanctification Slides (PDF)](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf)
 
-<div class="wp-block-file">[Justification and Sanctification Slides  ](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf)[Download](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf)</div>And here is the handout (Word document).
-
-<div class="wp-block-file">[Justification and Sanctification Handout  ](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx)[Download](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx)</div>
+And here is the handout: [Justification and Sanctification Handout (Word)](https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx)
