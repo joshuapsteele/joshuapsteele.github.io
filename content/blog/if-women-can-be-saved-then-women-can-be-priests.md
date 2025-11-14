@@ -146,7 +146,7 @@ But it is by virtue of those very distinctions that women offer a powerful sacra
 
 The argument offered here is inspired, in part, by the following resources. I recommend them to you for further reading:
 
-- Thomas F. Torrance, [*Royal Priesthood: A Theology of Ordained Ministry*](http://amzn.to/2mVXCiM), 2nd Edition (London: T &amp; T Clark, 2003).
+- Thomas F. Torrance, [*Royal Priesthood: A Theology of Ordained Ministry*](http://amzn.to/2mVXCiM), 2nd Edition (London: T & T Clark, 2003).
 - Sarah Coakley, “[The Woman at the Altar: Cosmological Disturbance or Gender Subversion?](http://www.anglicantheologicalreview.org/read/issue/13/)” *Anglican Theological Review*, 86.1 (2004): 75-93.
 - William G. Witt, “Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ”, accessed September 12, 2019: <http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/>.
 

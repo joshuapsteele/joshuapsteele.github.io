@@ -212,7 +212,7 @@ Finally, I have argued that, given the enormity and importance of Scripture’s 
 
 # ===NOTES===
 
-[^1]: Or, as Vanhoozer puts it, “the subject matter of the Bible, and hence of Christian faith and thought, is intrinsically dramatic.” Kevin J. Vanhoozer, “A Drama-of-Redemption Model: Always Performing?,” in *Four Views on Moving Beyond the Bible to Theology*, ed. Gary T. Meadors, Counterpoints: Bible &amp; Theology (Grand Rapids: Zondervan, 2009), 155. Indeed, as will be seen throughout this paper, I am heavily indebted to Vanhoozer’s “theodrama” model.
+[^1]: Or, as Vanhoozer puts it, “the subject matter of the Bible, and hence of Christian faith and thought, is intrinsically dramatic.” Kevin J. Vanhoozer, “A Drama-of-Redemption Model: Always Performing?,” in *Four Views on Moving Beyond the Bible to Theology*, ed. Gary T. Meadors, Counterpoints: Bible & Theology (Grand Rapids: Zondervan, 2009), 155. Indeed, as will be seen throughout this paper, I am heavily indebted to Vanhoozer’s “theodrama” model.
 
 [^2]: Rusch notes that the binitarian NT formulas are: Rom. 8:11; 2 Cor. 4:1; Gal. 1:1; Eph. 1:20; 1 Tim. 1:2; 1 Pet. 1:21; and 2 John 1:13. The trinitarian NT formulas are: Matt 28:19; 1 Cor. 6:11; 12:4ff.; Gal. 3:11-14; Heb. 10:29; 1 Pet. 1:2. William G. Rusch, ed., *The Trinitarian Controversy*, Sources of Early Christian Thought (Philadelphia, PA: Fortress, 1980), 2. Without denying the importance of such passages, Jenson rightly laments those who “scrabble around in the Bible for bits and pieces of language to cobble together into a sort of Trinity-doctrine – usually with intellectually lamentable and indeed sometimes heretical results.” Robert W. Jenson, “The Trinity in the Bible,” *Concordia Theological Quarterly* 68, no. 3–4 (2004): 196.
 

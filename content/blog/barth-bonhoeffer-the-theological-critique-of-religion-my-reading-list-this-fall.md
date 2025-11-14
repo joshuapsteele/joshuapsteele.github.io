@@ -39,7 +39,7 @@ Anyway, with the help of [Michael DeJonge](http://religious-studies.usf.edu/facu
 
 ### **Primary Sources:** 
 
-- BARTH, Karl. *[On Religion: The Revelation of God as the Sublimation of Religion](http://amzn.to/2bMQOwU).*Translated by Garrett Green. New York: T&amp;T Clark, 2007.
+- BARTH, Karl. *[On Religion: The Revelation of God as the Sublimation of Religion](http://amzn.to/2bMQOwU).*Translated by Garrett Green. New York: T&T Clark, 2007.
 - *—. [The Epistle to the Romans](http://amzn.to/2bmyhJt)*. Translated by Edwyn C. Hoskyns. Oxford: OUP, 1968.
 - BONHOEFFER, Dietrich. [*Letters and Papers from Prison*](http://amzn.to/2bTBmwo). Translated by Isabel Best, Lisa E. Dahill, Reinhard Krauss and Nancy Lukens. Edited by John W. de Gruchy. DBWE Vol. 8. Minneapolis: Fortress, 2009.
 - —. “The Center of the Earth (Gen. 2:8-17)” In [*Creation and Fall: A Theological Exposition of Genesis 1-3*](https://www.amazon.com/Creation-Fall-Theological-Exposition-Genesis/dp/0800683234/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1472242354&sr=1-2&keywords=bonhoeffer+creation+and+fall&linkCode=ll1&tag=joshuapsteele-20&linkId=cb5c752d992a19a11e6fe851343e4b89), translated by Douglas Stephen Bax, edited by John W. de Gruchy, 80-93. DBWE Vol. 3. Minneapolis: Fortress, 1997.
@@ -50,7 +50,7 @@ Anyway, with the help of [Michael DeJonge](http://religious-studies.usf.edu/facu
 - DEJONGE, Michael P. [*Bonhoeffer’s Theological Formation: Berlin, Barth, and Protestant Theology*](http://amzn.to/2bqkwna). Oxford: OUP, 2012.
 - FEIL, Ernst. “Part Three: Religionless Christianity in a World Come of Age.” Chapters 4-5 in [*The Theology of Dietrich Bonhoeffer*](http://amzn.to/2bn3LMS), translated by Martin Rumscheidt, 99-202. Philadelphia: Fortress, 1985.
 - GREEN, Clifford J. “The Prison Letters and the Theology of Sociality.” Chapter 6 in [*Bonhoeffer: A Theology of Sociality*](http://amzn.to/2bWdYyc). Revised Edition, 247-300. Grand Rapids: Eerdmans, 1999.
-- GREGGS, Tom. [*Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth*](http://amzn.to/2bqmuUJ). New York: T&amp;T Clark, 2011.
+- GREGGS, Tom. [*Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth*](http://amzn.to/2bqmuUJ). New York: T&T Clark, 2011.
 - MCCORMACK, Bruce L. [*Karl Barth’s Critically Realistic Dialectical Theology*](http://amzn.to/2bWeQ60). Oxford: Clarendon, 1995.
 - PANGRITZ, Andreas. [*Karl Barth in the Theology of Dietrich Bonhoeffer*](http://amzn.to/2bWeUmg). Translated by Barbara Rumscheidt and Martin Rumscheidt. Grand Rapids: Eerdmans, 2000.
 - SLOT, Edward van ‘t. [*Negativism of Revelation?: Bonhoeffer and Barth on Faith and Actualism*](http://amzn.to/2bTArwj). Dogmatik in der Moderne 12. Tübingen: Mohr Siebeck, 2015.

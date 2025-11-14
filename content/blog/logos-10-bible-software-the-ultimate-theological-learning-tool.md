@@ -19,7 +19,7 @@ url: /logos-10-bible-software-the-ultimate-theological-learning-tool/
 
 ---
 
-If I could go back in time and chat with Joshua Steele when he was a Bible &amp; Spanish major in college, there are a few things I’d tell my younger self:
+If I could go back in time and chat with Joshua Steele when he was a Bible & Spanish major in college, there are a few things I’d tell my younger self:
 
 1. Quit laughing at *How to Read a Book* by Mortimer J. Adler and READ the thing.
 2. Baba ghanoush is superior to hummus.

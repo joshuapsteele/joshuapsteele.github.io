@@ -90,7 +90,7 @@ My “Holland Code”: I like to spend time and work with the following kinds of
 4. Habits and productivity
 5. Leadership
 
-## Responsibility &amp; Salary
+## Responsibility & Salary
 
 - I’d like to work as the head of a team.
 - Salary Range: $60K-90K/year + healthcare, sick leave, vacation, and retirement/401K

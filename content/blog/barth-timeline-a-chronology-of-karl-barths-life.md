@@ -32,7 +32,7 @@ Of course, Busch does provide the following chronological list of Barth's major 
 
 ## Chronological list of Barth’s Major Works (Busch, *Karl Barth*, 509–12)
 
-SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical Texts*, trans. John Bowden (Eugene, OR: Wipf &amp; Stock Publishers, 2005), 509–512.
+SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical Texts*, trans. John Bowden (Eugene, OR: Wipf & Stock Publishers, 2005), 509–512.
 
 - ‘Was sollen wir tun?’, *Christliche Welt* 23, 1909, 236f.
 - ‘Moderne Theologie und Reichgottesarbeit’, *Zeitschrift für Theologie und Kirche* 19, 1909, 317–21
@@ -47,7 +47,7 @@ SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical 
 - *Das Wort Gottes und die Theologie*, Christian Kaiser Verlag 1924; 
     - ET *The Word of God and the Word of Man*, Hodder 1928, reissued Harper Torchbooks, New York 1957 (lectures 1916–1924)
 - *Komm, Schöpfer Geist!*, Christian Kaiser Verlag 1924; 
-    - ET *Come, Holy Spirit*, T. &amp; T. Clark and Round Table Press, New York 1935 (with Eduard Thurneysen)
+    - ET *Come, Holy Spirit*, T. & T. Clark and Round Table Press, New York 1935 (with Eduard Thurneysen)
 - *Die Auferstehung der Toten*, Christian Kaiser Verlag 1924; 
     - ET *The Resurrection of the Dead*, Hodder and F. H. Revell Company, New York 1933
 - *Erklärung des Philipperbriefes*, Christian Kaiser Verlag 1927; 
@@ -59,24 +59,24 @@ SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical 
     - ET *Anselm: Fides quaerens intellectum*, SCM Press and John Knox Press, Richmond, Va 1960
 - *Briefwechsel Karl Barth-Eduard Thurneysen, 1921–1930*, Evangelischer Verlag 1974
 - *Die Kirchliche Dogmatik* I, 1, *Die Lehre vom Wort Gottes*, Christian Kaiser Verlag 1932; 
-    - ET *Church Dogmatics* I, 1, *The Doctrine of the Word of God*, T. &amp; T. Clark and Scribner, New York 1936, revd edn 1975
+    - ET *Church Dogmatics* I, 1, *The Doctrine of the Word of God*, T. & T. Clark and Scribner, New York 1936, revd edn 1975
 - *Theologische Existenz heute*, Christian Kaiser Verlag 1933; 
     - ET *Theological Existence Today*, Hodder 1933
 - *Offenbarung, Kirche, Theologie*, Theologische Existenz heute 9, 1934; 
-    - ET *God in Action*, T. &amp; T. Clark and Round Table Press, New York 1936
+    - ET *God in Action*, T. & T. Clark and Round Table Press, New York 1936
 - *Nein! Antwort am Emil Brunner*, Theologische Existenz heute 14, 1934; 
     - ET in *Natural Theology*, Bles 1946, which also contains Brunner’s article
 - *Credo*, Christian Kaiser Verlag 1935; 
     - ET *Credo*, Hodder and Scribner, New York 1936
 - *Die grosse Barmherzigkeit*, Christian Kaiser Verlag 1935; 
-    - ET *God’s Search for Man*, T. &amp; T. Clark and Round Table Press, New York 1935 (with Eduard Thurneysen)
+    - ET *God’s Search for Man*, T. & T. Clark and Round Table Press, New York 1935 (with Eduard Thurneysen)
 - *Karl Barth zum Kirchenkampf, Beteiligung-Mahnung-Zuspruch*, Theologische Existenz heute (new series) 49, 1956; 
     - ET of pp. 1–60, *The German Church Conflict*, John Knox Press, Richmond, Va and Lutterworth Press 1965 (a collection of Barth’s statements on the German church struggle)
 - *Theologische Fragen und Antworten*, Evangelischer Verlag 1957 (collected articles)
 - *Gotteserkenntnis und Gottesdienst*, Evangelischer Verlag 1938; 
     - ET *The* *Knowledge of God and the Service of God*, Hodder 1938
 - *Die Kirchliche Dogmatik* I, 2, *Die Lehre vom Wort Gottes*, Evangelischer Verlag 1939; 
-    - ET *Church Dogmatics* I, 2, *The Doctrine of the Word of God*, T. &amp; T. Clark and Scribner, New York 1956 (publishers remain the same for further volumes of the *Dogmatics* and are not therefore cited)
+    - ET *Church Dogmatics* I, 2, *The Doctrine of the Word of God*, T. & T. Clark and Scribner, New York 1956 (publishers remain the same for further volumes of the *Dogmatics* and are not therefore cited)
 - *Die Kirchliche Dogmatik* II, 1, *Die Lehre von Gott*, 1940; 
     - ET *Church Dogmatics* II, 1, *The Doctrine of God*, 1957
 - *La Confession de la Foi de l’Église*, Delachaux et Niestlé 1940; 
@@ -105,7 +105,7 @@ SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical 
 - *Rudolf Bultmann: Ein Versuch, ihm zu Verstehen*, Evangelischer Verlag p 512 1952; 
     - ET ‘Rudolf Bultmann—An Attempt to Understand Him’, in *Kerygma and Myth* II, SPCK 1962, 83–162
 - *Christus und Adam*, Evangelischer Verlag 1952; 
-    - ET *Christ and Adam*, Harper &amp; Row, New York 1957
+    - ET *Christ and Adam*, Harper & Row, New York 1957
 - *Die Kirchliche Dogmatik* IV, 1, *Die Lehre von der Versöhnung*, 1953; 
     - ET *Church Dogmatics* IV, 1, *The Doctrine of Reconciliation*, 1956
 - *Die Kirchliche Dogmatik* IV, 2, *Die Lehre von der Versöhnung*, 1955; 
@@ -113,19 +113,19 @@ SOURCE: Eberhard Busch, *Karl Barth: His Life from Letters and Autobiographical 
 - *Die Menschlichkeit Gottes*, Theologische Studien 48, 1956; 
     - ET *The Humanity of God*, Collins and John Knox Press, Richmond, Va 1961 (which also contains translations of *Evangelische Theologie im 19. Jahrhundert*, Theologische Studien 49, and *Das Geschenk der Freiheit*, Theologische Studien 39)
 - *W. A. Mozart 1756–1956*, Evangelischer Verlag, 1956; 
-    - ET in *Religion and Culture: Essays in Honour of Paul Tillich*, Harper &amp; Row, New York and SCM Press 1959, 61–78
+    - ET in *Religion and Culture: Essays in Honour of Paul Tillich*, Harper & Row, New York and SCM Press 1959, 61–78
 - *Brief an einen Pfarrer in der DDR*, Evangelischer Verlag 1958
 - *Den Gefangenen Befreiung*, Evangelischer Verlag 1959; 
-    - ET *Deliverance to the Captives*, SCM Press and Harper &amp; Row, New York 1961
+    - ET *Deliverance to the Captives*, SCM Press and Harper & Row, New York 1961
 - *Die Kirchliche Dogmatik* IV, 3, 1, *Die Lehre von der Versöhnung*, 1959; 
     - ET *Church Dogmatics* IV, 3, 1, *The Doctrine of Reconciliation*, 1963
 - *Die Kirchliche Dogmatik* IV, 3, 2, was published in 1960; 
     - ET 1965
 - *Der Götze wackelt*, Evangelischer Verlag 1961 (collected articles)
 - *Einführung in die evangelische Theologie*, Evangelischer Verlag 1962; 
-    - ET *Evangelical Theology*, Weidenfeld &amp; Nicholson 1963
+    - ET *Evangelical Theology*, Weidenfeld & Nicholson 1963
 - *Rufe mich an!*, Evangelischer Verlag 1965; 
-    - ET *Call for God*, SCM Press and Harper &amp; Row, New York 1967
+    - ET *Call for God*, SCM Press and Harper & Row, New York 1967
 - *Ad limina apostolorum*, Evangelischer Verlag 1967
 - *Die Kirchliche Dogmatik* IV, 4 (fragment), 1968; 
     - ET *Church Dogmatics* IV, 4, 1969

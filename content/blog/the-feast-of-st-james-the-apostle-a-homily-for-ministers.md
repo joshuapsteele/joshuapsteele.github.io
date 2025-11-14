@@ -12,7 +12,7 @@ url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 
 Like so many other feast days – scheduled, as they are, on the days of the namesakes' deaths – the feast day of St. James the Apostle is **a strong rebuke to our aspirations**. To our aspirations as human beings, and especially to our aspirations as ministers of Christ's Church.
 
-## James &amp; John: Fishermen No More?
+## James & John: Fishermen No More?
 
 You see, **James started off as a mere fisherman**. An admirable one, to be sure, because he and his brother John answered Jesus’ call in Mark 1. They left behind their father, their family, and – they grew to hope! – their family’s fishing profession.
 

@@ -18,7 +18,7 @@ I’m reading my way through [the new (4th) edition of Robert Bly’s classic *T
 2. How do I use the Book of Common Prayer?
 3. How can I become an Anglican?
 4. What do Anglicans believe?
-5. Why “Clarity &amp; Charity” is the best way forward for the Church in a pluralistic age
+5. Why “Clarity & Charity” is the best way forward for the Church in a pluralistic age
 6. Announcing an ancient way to reclaim your days and years for God
 7. Don’t become an Anglican!
 8. You can now do the Daily Office with just this booklet and a Bible
@@ -33,7 +33,7 @@ I’m reading my way through [the new (4th) edition of Robert Bly’s classic *T
 17. We’re looking for people who want to leave Anglicanism better than they found it
 18. It’s never too late to start doing the Daily Office
 19. Sick of iChurch and McChurch? Give Anglicanism a try
-20. Will your church pass the Word &amp; Sacrament test?
+20. Will your church pass the Word & Sacrament test?
 21. 3 reasons why you should NOT become an Anglican Christian
 22. Why most people leave the Church—and what you can do about it
 23. Crazy as it sounds, the Daily Office could save your marriage

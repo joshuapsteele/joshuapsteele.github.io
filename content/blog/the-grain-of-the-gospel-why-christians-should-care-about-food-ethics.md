@@ -141,7 +141,7 @@ The wolf shall dwell with the lamb,
 - **Global poverty reduction**<span style="font-weight: 400;">: Food costs would decrease as less crops would be used for meat production and instead fed directly to humans</span>
 - **Reduced animal suffering**<span style="font-weight: 400;">: Fewer animals would be bred and raised in terrible conditions</span>
 - **Improved public health**<span style="font-weight: 400;">: Risks for cardiovascular disease and cancer – together responsible for 50% of U.S. deaths – would be reduced</span>
-- **Healthier planet**<span style="font-weight: 400;">: Air &amp; water pollution would be reduced and far fewer resources would be needed to produce our food</span>
+- **Healthier planet**<span style="font-weight: 400;">: Air & water pollution would be reduced and far fewer resources would be needed to produce our food</span>
 
 <span style="font-weight: 400;">Eating is an agricultural, economic, and spiritual act.</span>
 

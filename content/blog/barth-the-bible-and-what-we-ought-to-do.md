@@ -17,4 +17,4 @@ Came across this Barth quote in Church Dogmatics II/2 this morning. I really lik
 
 (**Emphasis added**.)
 
-Source: Karl Barth, Church Dogmatics: The Doctrine of God, Part 2, vol. 2 (London; New York: T&amp;T Clark, 2004), 661.
+Source: Karl Barth, Church Dogmatics: The Doctrine of God, Part 2, vol. 2 (London; New York: T&T Clark, 2004), 661.

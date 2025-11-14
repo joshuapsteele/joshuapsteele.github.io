@@ -56,7 +56,7 @@ Plus, Fee and Stuart include an appendix about how to evaluate and use Bible com
 
 As Shelley notes in the prologue to this volume, “Many Christians today suffer from historical amnesia. The time between the apostles and their own day is one giant blank. That is hardly what God had in mind” (xi). Shelley wrote this book to address this problem.
 
-Now, in seminary, I had to take a “History &amp; Doctrine” sequence of 4 courses that covered the Patristic era through 20th-century Church history and theology. It was amazing, but who’s got that kind of time, right?! So, I asked around, including some of my former college and seminary theology profs, searching for the best, accessible, single-volume overview of the history of the Christian Church.
+Now, in seminary, I had to take a “History & Doctrine” sequence of 4 courses that covered the Patristic era through 20th-century Church history and theology. It was amazing, but who’s got that kind of time, right?! So, I asked around, including some of my former college and seminary theology profs, searching for the best, accessible, single-volume overview of the history of the Christian Church.
 
 This book received the most votes by far. And I can see why.
 

@@ -49,7 +49,7 @@ We commit to partnering with these friends, and with organizations like
 
 - the[ Anglican Multiethnic Network (AMEN)](https://anglicanmultiethnic.org/),
 - [Caminemos Juntos](https://www.caminemos-juntos.com/),
-- [Asian &amp; Multicultural Ministries in Canada](http://www.ammic.ca/), and
+- [Asian & Multicultural Ministries in Canada](http://www.ammic.ca/), and
 - the[ Every Tribe and Nation Network](http://etnn.org/)
 
 that are working to promote, support, and invest in a more diverse and just Anglicanism.
@@ -84,13 +84,13 @@ Rev. Seth Richardson
 [*The Telos Collective*](https://www.teloscollective.com/)
 
 Rev. Dr. J.R. Rozko  
-*National Director,* [*Missio Alliance*](https://www.missioalliance.org/) *&amp; Co-Lead Pastor,* [*First Church of the Resurrection*](http://www.firstchurchcanton.com/)
+*National Director,* [*Missio Alliance*](https://www.missioalliance.org/) *& Co-Lead Pastor,* [*First Church of the Resurrection*](http://www.firstchurchcanton.com/)
 
 Rev. Ben Sternke  
-*Co-Rector,* [*The Table Indianapolis*](https://www.thetableindy.org/) *&amp; Co-Founder,* [*Gravity Leadership*](https://gravityleadership.com/)
+*Co-Rector,* [*The Table Indianapolis*](https://www.thetableindy.org/) *& Co-Founder,* [*Gravity Leadership*](https://gravityleadership.com/)
 
 Rev. Matt Tebbe  
-*Co-Rector,* [*The Table Indianapolis* ](https://www.thetableindy.org/)*&amp; Co-Founder,* [*Gravity Leadership*](https://gravityleadership.com/)
+*Co-Rector,* [*The Table Indianapolis* ](https://www.thetableindy.org/)*& Co-Founder,* [*Gravity Leadership*](https://gravityleadership.com/)
 
 Rev. Erik Willits  
 *Host of* [*The Intersection Podcast*](https://www.teloscollective.com/podcast/) *Special Projects,* [*Diocese of Churches for the Sake of Others*](https://www.c4so.org/)

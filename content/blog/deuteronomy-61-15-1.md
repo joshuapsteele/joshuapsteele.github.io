@@ -92,7 +92,7 @@ Janzen, J. Gerald. “On the Most Important Word in the Shema (Deuteronomy 6:4-5
 
 McConville, J.G. *Deuteronomy*. Apollos Old Testament Commentary 5. Downers Grove, IL: IVP, 2002.
 
-Merrill, Eugene H. *Deuteronomy*. New American Commentary 4. Nashville: Broadman &amp; Holman, 1994.
+Merrill, Eugene H. *Deuteronomy*. New American Commentary 4. Nashville: Broadman & Holman, 1994.
 
 Rad, Gerhard von. *Deuteronomy: A Commentary*. Translated by D. Barton. Philadelphia: Westminster, 1966.
 
@@ -106,7 +106,7 @@ Wenham, Gordon J. [*A Guide to the Pentateuch*. Vol. 1 of *Exploring the Old Tes
 
 [^2]: Throughout this study, I assume Mosaic authorship of Deuteronomy. Furthermore, I assume that the passage at hand was originally composed just prior to Moses’ death and the subsequent conquest of Canaan. With regards to setting, Carpenter places Moses in the plains of Moab on the eastern side of the Jordan River in either 1406 or 1229 B.C. The earliest extra-biblical account of the Israelites in Canaan, a stele erected by Merneptah in western Thebes, mentions them already in the land in 1209 B.C (Cf. Carpenter, 420).
 
-[^3]: J.G. McConville, *Deuteronomy* (Apollos 5; Downers Grove, IL: IVP, 2002), 140. On *mitzvah*, *khuqqim*, and *mishpatim*, Eugene H. Merrill notes this as the standard reference to the covenant stipulations as opposed to the Decalogue or the law as a whole (*Deuteronomy* (NAC 4; Nashville: Broadman &amp; Holman, 1994), 160). Cf. Deut 4:1-8 for an example of how this phrase and its permutations are used as a reference and structural marker.
+[^3]: J.G. McConville, *Deuteronomy* (Apollos 5; Downers Grove, IL: IVP, 2002), 140. On *mitzvah*, *khuqqim*, and *mishpatim*, Eugene H. Merrill notes this as the standard reference to the covenant stipulations as opposed to the Decalogue or the law as a whole (*Deuteronomy* (NAC 4; Nashville: Broadman & Holman, 1994), 160). Cf. Deut 4:1-8 for an example of how this phrase and its permutations are used as a reference and structural marker.
 
 [^4]: Merrill, 161.
 

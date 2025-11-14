@@ -25,7 +25,7 @@ url: /works-on-barth-and-bonhoeffer/
 11. ———. *The Theology of Dietrich Bonhoeffer*. Philadelphia, PA: Westminster, 1960.
 12. GREEN, Clifford J. *Bonhoeffer: A Theology of Sociality*. Revised. Grand Rapids: Eerdmans, 1999.
 13. ———. “Trinity and Christology in Bonhoeffer and Barth.” *Union Seminary Quarterly Review* 60, no. 1–2 (2006): 1–22.
-14. GREGGS, Tom. *Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth*. London; New York: T&amp;T Clark, 2011.
+14. GREGGS, Tom. *Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth*. London; New York: T&T Clark, 2011.
 15. ———. “The Influence of Dietrich Bonhoeffer on Karl Barth.” In *Engaging Bonhoeffer: The Impact and Influence and Impact of Bonhoeffer’s Life and Thought*, edited by Matthew Kirkpatrick. Minneapolis: Fortress, 2016.
 16. KAMPHUIS, Barend. *Boven En Beneden: Het Uitgangspunt van de Christologie En de Problematiek van de Openbaring Nagegaan Aan de Hand van de Ontwikkelingen Bij Karl Barth, Dietrich Bonhoeffer En Wolfhart Pannenberg*. Kampen: Kok, 1999.
 17. KARTTUNEN, Tomi. *Die Polyphonie Der Wirklichkeit: Erkenntnistheorie Und Ontologie in Der Theologie Dietrich Bonhoeffers*. University of Joensuu Publications in Theology 11. Joensuu: University of Joensuu, 2004.

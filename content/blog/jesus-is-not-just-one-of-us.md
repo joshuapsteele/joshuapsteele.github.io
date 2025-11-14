@@ -20,7 +20,7 @@ The “hometown,” “home court” advantage is a very real occurrence in many
 
 There is very seldom a home court advantage in preaching!
 
-Family and close friends may inspire us to make the game-winning shot, or hit the highest note, but when it comes to the intimate affair of preaching God’s Word — of transcending the divide between *there &amp; then* and *here &amp; now*, making it clear how the words of Scripture should enlighten, encourage, confront, and challenge us — when it comes to preaching to family and friends, it’s ***hard***.
+Family and close friends may inspire us to make the game-winning shot, or hit the highest note, but when it comes to the intimate affair of preaching God’s Word — of transcending the divide between *there & then* and *here & now*, making it clear how the words of Scripture should enlighten, encourage, confront, and challenge us — when it comes to preaching to family and friends, it’s ***hard***.
 
 Granted, it might be easier to impress, to invigorate, to lay on the rhetorical relish with grandiose gestures, dazzling diction, and absolutely awesome alliteration.
 

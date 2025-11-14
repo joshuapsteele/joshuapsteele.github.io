@@ -135,7 +135,7 @@ This brief letter thus coheres with the biblical theme of **unity**. Because God
 
 [^16]: Bruce, *Colossians, Philemon, and Ephesians*, 208.
 
-[^17]: Wright, *Colossians and Philemon*, 175-6; cf. 2 Cor 1:6-7; 4:10-15; Col 1:24; T.G. Gombis*, Paul: A Guide for the Perplexed* (New York: T&amp;T Clark, 2010) 40; *pace* suggestions of κοινωνία here as evangelism (so NIV, Philem 6) or vague generosity (so Bruce, *Colossians, Philemon, and Ephesians*, 208-9; and Lightfoot, *Colossians and Philemon*, 335). The concept of Christian mutual belonging can be seen to have its roots in the “fellow Israelite” laws of the Pentateuch – the example par excellence being Leviticus 19:18’s injunction to “love your neighbor as yourself.”
+[^17]: Wright, *Colossians and Philemon*, 175-6; cf. 2 Cor 1:6-7; 4:10-15; Col 1:24; T.G. Gombis*, Paul: A Guide for the Perplexed* (New York: T&T Clark, 2010) 40; *pace* suggestions of κοινωνία here as evangelism (so NIV, Philem 6) or vague generosity (so Bruce, *Colossians, Philemon, and Ephesians*, 208-9; and Lightfoot, *Colossians and Philemon*, 335). The concept of Christian mutual belonging can be seen to have its roots in the “fellow Israelite” laws of the Pentateuch – the example par excellence being Leviticus 19:18’s injunction to “love your neighbor as yourself.”
 
 [^18]: Aune, *New Testament*, 211. The theme of mutual belonging is also expressed in the use of fellowship terminology in the epistle’s opening and conclusion: ἀδελφὸς (1), συνεργῷ (1), ἀδελφῇ (2), συστρατιώτῃ (2), συναιχμάλωτός (23), and συνεργοί (24).
 
@@ -145,7 +145,7 @@ This brief letter thus coheres with the biblical theme of **unity**. Because God
 
 [^21]: Aune, *New Testament*, 211-2.
 
-[^22]: By “the gospel,” I am primarily referring to the atonement as ****the act in which God fulfills his creative purposes by bringing his attributes to bear on our sinful condition through the life, death, and resurrection of Jesus the Messiah in order to save a people to robust unity with himself, each other, and the entire creation.**** See A.J. Johnson, *God’s Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth.* (New York: T&amp;T Clark, 2012).
+[^22]: By “the gospel,” I am primarily referring to the atonement as ****the act in which God fulfills his creative purposes by bringing his attributes to bear on our sinful condition through the life, death, and resurrection of Jesus the Messiah in order to save a people to robust unity with himself, each other, and the entire creation.**** See A.J. Johnson, *God’s Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth.* (New York: T&T Clark, 2012).
 
 [^23]: Wright, *Colossians and Philemon*, 181, 186-7; cf. Paul’s use of sonship as a metaphor regarding conversion: 1 Cor 4:14-15; 2 Cor 6:13; Gal 4:19; Phil 2:22.
 

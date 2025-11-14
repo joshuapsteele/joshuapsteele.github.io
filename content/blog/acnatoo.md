@@ -2,8 +2,8 @@
 author: Whitney Evans Harrison
 categories: ministry
 date: '2021-10-07T06:52:40Z'
-description: '#ACNAtoo is a movement of survivors of ACNA-related abuse &amp; their
-  supporters seeking justice, repentance, healing &amp; a healthier ACNA.'
+description: '#ACNAtoo is a movement of survivors of ACNA-related abuse & their
+  supporters seeking justice, repentance, healing & a healthier ACNA.'
 tags:
 - abuse
 - churches
@@ -14,7 +14,7 @@ title: '#ACNAtoo: What you can do to hear, to support, and to respond to abuse s
 url: /acnatoo/
 ---
 
-*#ACNAtoo is a movement of survivors of ACNA-related abuse &amp; their supporters seeking justice, repentance, healing &amp; a healthier ACNA. This is an overview of the movement including what you can do to hear, to support, and to respond. By Whitney Evans Harrison and Conor Hanson.*
+*#ACNAtoo is a movement of survivors of ACNA-related abuse & their supporters seeking justice, repentance, healing & a healthier ACNA. This is an overview of the movement including what you can do to hear, to support, and to respond. By Whitney Evans Harrison and Conor Hanson.*
 
 ## Why we are here
 

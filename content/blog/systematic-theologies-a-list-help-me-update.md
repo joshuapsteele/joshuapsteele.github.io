@@ -18,7 +18,7 @@ I’ll be updating this list in the future, but I could use your help. If there�
 
 ## Systematic Theologies
 
-- Barth, Karl. Church Dogmatics, 5 vols. In 14 parts. (T&amp;T Clark, \[1932–1967\] 1936–1969).
+- Barth, Karl. Church Dogmatics, 5 vols. In 14 parts. (T&T Clark, \[1932–1967\] 1936–1969).
 - Bavinck, Herman. Reformed Dogmatics, ed. John Bolt (Baker, 2003-).
 - Berkhof, Louis. Combined Systematic Theology, 4th ed. (Eerdmans, 1939) and
 - Berkhof, Louis. Systematic Theology (Eerdmans, 1996).
@@ -35,7 +35,7 @@ I’ll be updating this list in the future, but I could use your help. If there�
 - Erickson, Millard. Christian Theology, 2d ed. (Baker, 1998).
 - Finger, Thomas. A Contemporary Anabaptist Theology (IVP, 2004).
 - Finger, Thomas. Christian Theology, 2 vols. (Herald, 1985, 1989).
-- Frame, John. Systematic Theology: An Introduction to Christian Belief. (P&amp;R, 2013).
+- Frame, John. Systematic Theology: An Introduction to Christian Belief. (P&R, 2013).
 - Fries, Heinrich. Fundamental Theology (Catholic University of America, 1996).
 - Garrett, James. Systematic Theology, 1 vols. (Eerdmans, 1990, 1995).
 - Geisler, Norman. Systematic Theology, 4 vols. (Bethany House, 2002-). Arminian.
@@ -47,7 +47,7 @@ I’ll be updating this list in the future, but I could use your help. If there�
 - Guthrie, Shirley C., Jr. Christian Doctrine. (WJK, 1994). Revised edition.
 - Henry, Carl. God, Revelation, and Authority, 6 vols. (Word, 1976-83; Crossway, 1999).
 - Hodge, Charles. Systematic Theology, 3 vols. (Hendrickson, 1997).
-- Hodge, Charles. Systematic Theology, abridged 1-vol. ed. (Presbyterian &amp; Reformed, 1997).
+- Hodge, Charles. Systematic Theology, abridged 1-vol. ed. (Presbyterian & Reformed, 1997).
 - Horton, Michael. The Christian Faith. (Zondervan, 2011).
 - Horton, Stanley, ed. Systematic Theology, rev. ed. (Logion, 1995). Pentecostal.
 - Jenson, Robert. Systematic Theology, 2 vols. (Oxford University Press, 1997-99).
@@ -67,14 +67,14 @@ I’ll be updating this list in the future, but I could use your help. If there�
 - Ratzinger, John. Principles of Catholic Theology (Ignatius, 1987).
 - Rausch, Thomas P. Systematic Theology: A Roman Catholic Approach. (Liturgical Press, 2016).
 - Reymond, Robert. A New Systematic Theology of the Christian Faith (Thomas Nelson, 1998). Reformed introduction.
-- Shedd, William. Dogmatic Theology, 3d ed. (Presbyterian &amp; Reformed, 2003).
+- Shedd, William. Dogmatic Theology, 3d ed. (Presbyterian & Reformed, 2003).
 - Sonderegger, Katherine. Systematic Theology, 3 vols. (Fortress, 2015-).
 - Strong, Augustus. Systematic Theology (Judson, 1907).
 - Tanner, Kathryn. Jesus, Humanity and the Trinity: A Brief Systematic Theology. (Fortress, 2001).
 - Thiessen, Henry. Lectures in Systematic Theology, rev. ed. (Eerdmans, 1977).
 - Thiselton, Anthony C. Systematic Theology. (Eerdmans, 2015).
 - Tillich, Paul. Systematic Theology, 3 vols. (University of Chicago, 1963).
-- Turretin, Francis. Institutes of Elenctic Theology, 3 vols. (P&amp;R, \[1679–85\] 1997).
+- Turretin, Francis. Institutes of Elenctic Theology, 3 vols. (P&R, \[1679–85\] 1997).
 - van der Kooi, Cornelis, and Gijsbert van den Brink. Christian Dogmatics: An Introduction. (Eerdmans, 2017). Translation of 2012 Dutch original.
 - Vos, Geerhardus J. Reformed Dogmatics, 5 vols. (Lexham, 2014-16).
 - Wiley, H. Orton. Christian Theology, 3 vols. (Nazarene Publishing, 1940-43). Arminian perspective.
@@ -130,5 +130,5 @@ I’ll be updating this list in the future, but I could use your help. If there�
 - Schillebeeckx, Edward. Church (Crossroad, 1990).
 - Tracy, David. Plurality and Ambiguity (Harper, 1987).
 - Van Beeck, Frans. God Encountered, 6 vols. (Liturgical, 1993-).
-- Von Balthasar, Hans Urs. Mysterium Paschale (T &amp; T dark, 1990).
+- Von Balthasar, Hans Urs. Mysterium Paschale (T & T dark, 1990).
 - Warfield, Benjamin. Works, 10 vols. (Baker, 1991).

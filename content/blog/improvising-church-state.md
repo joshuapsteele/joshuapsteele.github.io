@@ -103,7 +103,7 @@ Due to length requirements, my analysis of these two Christian traditions will b
 
 [^22]: Joireman, 77. This is her summary of the contemporary position of Mennonites, the largest branch within the Anabaptist movement.
 
-[^23]: Cavanaugh, 404. This is similar to the approach advocated by John Howard Yoder in *The Christian Witness to the State* (Eugene, OR: Wipf &amp; Stock, 1997).
+[^23]: Cavanaugh, 404. This is similar to the approach advocated by John Howard Yoder in *The Christian Witness to the State* (Eugene, OR: Wipf & Stock, 1997).
 
 [^24]: Bernd Wannenwetsch, “Liturgy,” in *The Blackwell Companion to Political Theology*, eds. Peter Scott and William T. Cavanaugh (Malden, MA: Blackwell, 2004), 87.
 

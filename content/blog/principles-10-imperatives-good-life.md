@@ -24,7 +24,7 @@ No, this is not an exhaustive list. And no, I don’t always do an excellent job
 
 ---
 
-# 1. Go to Church: Word &amp; Sacraments
+# 1. Go to Church: Word & Sacraments
 
 This principle, and the following one, are purposefully at the top of the list. Why? Because they will place you in a context where your desires, your view of reality, and therefore your principles will be formed in the right direction.
 
@@ -54,7 +54,7 @@ However, I’m going to devote the next eight principles to various pragmatic co
 - [Five-Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
 - [Morning Pages](http://juliacameronlive.com/basic-tools/morning-pages/)
 
-# 4. Read More &amp; Take Notes
+# 4. Read More & Take Notes
 
 - [*How to Read a Book: The Classic Guide to Intelligent Reading*](http://amzn.to/2yuCZ0M) by Mortimer J. Adler
 - [Scientific Speed Reading: How to Read 300% Faster in 20 Minutes](https://tim.blog/2009/07/30/speed-reading-and-accelerated-learning/) – Tim Ferriss
@@ -65,16 +65,16 @@ However, I’m going to devote the next eight principles to various pragmatic co
 
 - [*A More Beautiful Question: The Power of Inquiry to Spark Breakthrough Ideas*](http://amzn.to/2yPWaDy) by Warren Berger
 - [Testing The “Impossible”: 17 Questions That Changed My Life](https://tim.blog/2016/12/07/testing-the-impossible-17-questions-that-changed-my-life/) – Tim Ferriss
-- *[The Coaching Habit: Say Less, Ask More &amp; Change the Way You Lead Forever](http://amzn.to/2zvFSwv)* by Michael Bungay Stanier
+- *[The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever](http://amzn.to/2zvFSwv)* by Michael Bungay Stanier
 - [The Art and Science of Learning Anything Faster](https://tim.blog/2016/10/06/the-art-and-science-of-learning-anything-faster/) – Tim Ferriss
 
-# 6. Sit Less &amp; Move Heavier Objects
+# 6. Sit Less & Move Heavier Objects
 
 - [Staying Fit With No Gym in Sight](http://www.mrmoneymustache.com/2016/12/13/staying-fit-with-no-gym-in-sight/) – Mr. Money Mustache
 - [*Starting Strength: Basic Barbell Training*](http://amzn.to/2zvvwg8) by Mark Rippetoe
 - [Stronglifts 5×5: The Simplest, Most Effective Workout to Build Muscle, Gain Strength and Get Ripped](http://amzn.to/2zvvwg8)
 
-# 7. Eat Less Sugar &amp; More Vegetables
+# 7. Eat Less Sugar & More Vegetables
 
 - [Everything You Need to Know About the Slow-Carb Diet](https://medium.com/@erinfrey/everything-you-need-to-know-about-the-slow-carb-diet-a67062761d92) – Medium
 - *[In Defense of Food](https://www.amazon.com/Defense-Food-Michael-Pollan/dp/1594133328)* by Michael Pollan (also a [documentary](https://www.netflix.com/title/80097071) \[available on Netflix\], which is worth watching!!)
