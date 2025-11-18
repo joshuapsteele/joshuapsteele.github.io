@@ -5,8 +5,7 @@ categories:
 - personal
 - theology
 date: '2019-09-26T05:00:18Z'
-description: 'Editor's Note: The piece below represents the opinion of the author.
-  Anglican Pastor does not take a site-wide position for or against women's ordination.'
+description: 'Emily McGowin argues against the ''in persona Christi'' argument against women''s ordination.'
 tags:
 - anglican compass
 - women's ordination

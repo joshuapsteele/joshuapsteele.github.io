@@ -4,8 +4,7 @@ categories:
 - personal
 - theology
 date: '2019-11-18T15:31:52Z'
-description: 'Editor’s Note: Thank you to the Rev. Emily McGowin for writing this
-  rejoinder to Fr.'
+description: 'Emily McGowin responds to her critics regaring women''s ordination.'
 tags:
 - anglican compass
 - women's ordination
