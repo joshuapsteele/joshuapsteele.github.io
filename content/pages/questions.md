@@ -19,6 +19,7 @@ Last Updated: 2025-07-02
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
+- Where can one buy Madeira wine in NW Ohio?
 - What are the most helpful resources (books, podcasts, shows, exercises, etc.) for teaching young children how to have good manners?
 - What's the best, easiest workflow for sharing links online?
 - What's a good "budget" version of a [Veto Pro Pac TP-LC tool bag](https://www.amazon.com/Veto-TP-LC-Compact-Zippered-Service/dp/B09TPZKBDP?crid=1GMT9CXVFGOKD&keywords=veto+pro+pac+tp-lc+toolbag&qid=1671342063&sprefix=veta+pro+pac+tp-lc+toolbag%2Caps%2C107&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=91591755d9deffe180a33ac4195d2fac&language=en_US&ref_=as_li_ss_tl)?

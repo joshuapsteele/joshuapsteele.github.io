@@ -21,7 +21,9 @@ These days, I'm:
 - Trying to lose weight (current weight: 215lbs; goal: 200lbs)
 - Working on home repair projects
 - Buying too many books and tools
+- Playing on a coed rec soccer team
+- Trying to get into smoking meats (just bought an Oklahoma Joe's Bronco smoker!)
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
 
-Last updated: 2025-07-02
+Last updated: 2025-11-21

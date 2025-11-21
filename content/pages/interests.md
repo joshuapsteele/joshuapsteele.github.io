@@ -21,6 +21,8 @@ Here are some of my interests, hobbies, and things I like to do in my free time.
 - Home repair
 - Auto repair
 - DIY projects
+- Soccer
+- Rucking
 - Writing instruments (pens, pencils, etc.)
 - Stationery (notebooks, paper, etc.)
 - Language learning

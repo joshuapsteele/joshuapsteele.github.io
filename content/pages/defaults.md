@@ -31,8 +31,8 @@ Here are the apps I use for various tasks:
 - **📊 Presentations:** I avoid Microsoft PowerPoint whenever possible
 - **🛒 Shopping Lists:** Apple Reminders
 - **🥘 Meal Planning:** n/a
-- **💸 Budgeting & Personal Finance:** n/a (have used You Need a Budget in the past)
-- **🗞️ News:** The Economist, The Atlantic, Washington Post, New York Times
+- **💸 Budgeting & Personal Finance:** Rocket Money
+- **🗞️ News:** Ground News
 - **🎹 Music:** Spotify
 - **🎙️ Podcasts:** Apple Podcasts
 - **🔑 Password Management:** 1Password
