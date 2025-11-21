@@ -15,8 +15,6 @@ url: /wishlist/
 
 Here's a wish list I regularly update. I also keep [my Amazon wish list updated here](https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share).
 
-
-
 ## Health & Fitness
 
 - ✅ Power rack with a pull-up bar (like the [REP Fitness PR–1100](https://repfitness.com/collections/power-racks/products/pr-1100-power-rack) or [Rogue R–3](https://www.roguefitness.com/rogue-r-3-power-rack); Went with the REP Fitness PR-1100!)
@@ -41,7 +39,6 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 - [Knipex Forged Wirestripper, 8-inch](https://amzn.to/3InnRJe)
 - [Wera Kraftform Kompakt 26 RA-R ratcheting screwdriver](https://amzn.to/41WmQyt) with onboard bit storage
 - [Veto Pro Pac SP-MC tool bag](https://amzn.to/4n59hW3)
-- [Hands-free, slip-on work boots (Skechers, size 11 wide)](https://amzn.to/41WEzWp)
 - [Leatherman ARC multitool](https://www.leatherman.com/products/arc)
 - Planer
 - Jointer
@@ -81,4 +78,4 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 
 * * *
 
-Last updated 2025-09-15
+Last updated 2025-11-21
