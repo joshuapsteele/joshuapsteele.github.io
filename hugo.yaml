@@ -95,6 +95,8 @@ params:
         url: "/now/"
       - name: Pages 📄
         url: "/slashes/"
+      - name: Popular 🔥
+        url: "/popular/"
       - name: POSSE 🌐
         url: "/posse/"
       - name: Questions 🤨

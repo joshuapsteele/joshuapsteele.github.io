@@ -1,0 +1,73 @@
+{{- /*
+  Popular Posts Shortcode
+
+  Displays a list of popular posts from Tinylytics analytics.
+
+  Usage:
+    {{< popular-posts >}}
+    {{< popular-posts limit="10" >}}
+    {{< popular-posts limit="10" showHits="true" >}}
+
+  Parameters:
+    - limit: Maximum number of posts to show (default: 5)
+    - showHits: Whether to show hit counts (default: false)
+*/ -}}
+
+{{- $limit := .Get "limit" | default "5" | int -}}
+{{- $showHits := eq (.Get "showHits") "true" -}}
+
+{{- with site.Data.popular -}}
+  {{- if .posts -}}
+    {{- $posts := first $limit .posts -}}
+    {{- if $posts -}}
+    <div class="popular-posts-page">
+      <p class="popular-posts-period">Based on traffic from the past {{ site.Data.popular.period_days }} days.</p>
+      <ol class="popular-posts-list-numbered">
+        {{- range $index, $item := $posts -}}
+          {{- $path := $item.path -}}
+          {{- $hits := $item.hits -}}
+          {{- $page := site.GetPage $path -}}
+          {{- if not $page -}}
+            {{- $blogPath := printf "/blog%s" $path -}}
+            {{- $page = site.GetPage $blogPath -}}
+          {{- end -}}
+          {{- if not $page -}}
+            {{- $page = site.GetPage (strings.TrimSuffix "/" $path) -}}
+          {{- end -}}
+          {{- if $page -}}
+          <li class="popular-post-item-numbered">
+            <a href="{{ $page.Permalink }}" class="popular-post-link">
+              {{ $page.Title }}
+            </a>
+            {{- if $showHits -}}
+            <span class="popular-post-hits">({{ $hits }} views)</span>
+            {{- end -}}
+            {{- if $page.Description -}}
+            <p class="popular-post-description">{{ $page.Description }}</p>
+            {{- end -}}
+          </li>
+          {{- else -}}
+          <li class="popular-post-item-numbered">
+            <a href="{{ $path }}" class="popular-post-link">
+              {{ $path | replaceRE "^/|/$" "" | replaceRE "-" " " | title }}
+            </a>
+            {{- if $showHits -}}
+            <span class="popular-post-hits">({{ $hits }} views)</span>
+            {{- end -}}
+          </li>
+          {{- end -}}
+        {{- end -}}
+      </ol>
+      <p class="popular-posts-updated">
+        <small>Last updated: {{ .generated | time.Format "January 2, 2006" }}</small>
+      </p>
+    </div>
+    {{- else -}}
+    <p>No popular posts data available yet.</p>
+    {{- end -}}
+  {{- else -}}
+  <p>No popular posts data available yet.</p>
+  {{- end -}}
+{{- else -}}
+<p>Popular posts data not found. Please run <code>python3 fetch_popular_posts.py</code> to generate data.</p>
+{{- end -}}

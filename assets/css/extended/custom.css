@@ -146,3 +146,89 @@ body:not(.dark) #home-logo {
 .dark .callout-caution {
     background-color: rgba(191, 135, 0, 0.15);
 }
+
+/* Popular Posts styles */
+.popular-posts {
+    margin: 2em 0;
+    padding: 1.5em;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--code-bg);
+}
+
+.popular-posts-heading {
+    margin: 0 0 0.5em 0;
+    font-size: 1.2em;
+    color: var(--primary);
+}
+
+.popular-posts-period {
+    margin: 0 0 1em 0;
+    font-size: 0.85em;
+    color: var(--secondary);
+}
+
+.popular-posts-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.popular-post-item {
+    padding: 0.5em 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.popular-post-item:last-child {
+    border-bottom: none;
+}
+
+.popular-post-link {
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.popular-post-link:hover {
+    text-decoration: underline;
+}
+
+.popular-post-hits {
+    margin-left: 0.5em;
+    font-size: 0.85em;
+    color: var(--secondary);
+}
+
+.popular-posts-link {
+    margin: 1em 0 0 0;
+    font-size: 0.9em;
+}
+
+/* Popular Posts page styles */
+.popular-posts-page {
+    margin: 1em 0;
+}
+
+.popular-posts-list-numbered {
+    padding-left: 1.5em;
+    margin: 1em 0;
+}
+
+.popular-post-item-numbered {
+    padding: 0.75em 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.popular-post-item-numbered:last-child {
+    border-bottom: none;
+}
+
+.popular-post-description {
+    margin: 0.5em 0 0 0;
+    font-size: 0.9em;
+    color: var(--secondary);
+}
+
+.popular-posts-updated {
+    margin-top: 2em;
+    color: var(--secondary);
+}

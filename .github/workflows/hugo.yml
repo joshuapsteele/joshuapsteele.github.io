@@ -67,6 +67,16 @@ jobs:
         run: npm ci
         if: hashFiles('package-lock.json') != ''
 
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Fetch popular posts from Tinylytics
+        env:
+          TINYLYTICS_API_KEY: ${{ secrets.TINYLYTICS_API_KEY }}
+        run: python3 fetch_popular_posts.py
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production

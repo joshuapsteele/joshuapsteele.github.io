@@ -58,4 +58,5 @@
         {{- end }}
     </div>
     {{- end}}
+    {{- partial "popular_posts.html" (dict "context" $ "limit" 5 "showHits" true "heading" "Popular Posts") -}}
 </div>
