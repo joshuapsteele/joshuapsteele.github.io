@@ -151,9 +151,11 @@ body:not(.dark) #home-logo {
 .popular-posts {
     margin: 2em 0;
     padding: 1.5em;
-    border: 1px solid var(--border);
+    border: 5px solid var(--border);
     border-radius: 8px;
     background: var(--code-bg);
+    clear: both;
+    width: 100%;
 }
 
 .popular-posts-heading {
@@ -231,4 +233,53 @@ body:not(.dark) #home-logo {
 .popular-posts-updated {
     margin-top: 2em;
     color: var(--secondary);
+}
+
+/* More Buttons Toggle */
+.more-buttons-section {
+    margin-top: 1em;
+}
+
+.more-button-toggle {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5em;
+    padding: 0.5em 1em;
+    background: var(--tertiary);
+    border: 5px solid var(--border);
+    border-radius: 10px;
+    color: var(--primary);
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: all 0.3s ease;
+}
+
+.more-button-toggle:hover {
+    background: var(--border);
+    transform: translateY(-1px);
+}
+
+.more-button-icon {
+    transition: transform 0.3s ease;
+    font-size: 0.8em;
+}
+
+.more-button-toggle[aria-expanded="true"] .more-button-icon {
+    transform: rotate(180deg);
+}
+
+.more-buttons {
+    margin-top: 1em;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
 }

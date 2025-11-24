@@ -146,3 +146,19 @@
     });
 </script>
 {{- end }}
+
+<script>
+    function toggleMoreButtons() {
+        const moreButtons = document.getElementById('more-buttons');
+        const toggleButton = document.querySelector('.more-button-toggle');
+        const isExpanded = toggleButton.getAttribute('aria-expanded') === 'true';
+
+        if (isExpanded) {
+            moreButtons.style.display = 'none';
+            toggleButton.setAttribute('aria-expanded', 'false');
+        } else {
+            moreButtons.style.display = 'flex';
+            toggleButton.setAttribute('aria-expanded', 'true');
+        }
+    }
+</script>

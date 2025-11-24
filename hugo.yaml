@@ -63,10 +63,27 @@ params:
     imageWidth: 120 # custom size
     imageHeight: 120 # custom size
     buttons:
+      # Primary buttons (always visible)
       - name: About 👤
         url: "/about/"
       - name: Blog 📝
         url: "/blog/"
+      - name: Contact 📬
+        url: "/contact/"
+      - name: CV 📋
+        url: "/cv/"
+      - name: Now ⏳
+        url: "/now/"
+      - name: Popular 🔥
+        url: "/popular/"
+      - name: Resources 📚
+        url: "/resources/"
+      - name: Search 🔎
+        url: "/search/"
+      - name: Uses 🧰
+        url: "/uses/"
+    moreButtons:
+      # Secondary buttons (hidden by default)
       - name: Blogroll 📇
         url: "/blogroll/"
       - name: Bookmarks 📚
@@ -75,10 +92,6 @@ params:
         url: "/carry/"
       - name: Chipotle 🌯
         url: "/chipotle/"
-      - name: Contact 📬
-        url: "/contact/"
-      - name: CV 📋
-        url: "/cv/"
       - name: Defaults ⚙️
         url: "/defaults/"
       - name: Follow 👣
@@ -91,12 +104,8 @@ params:
         url: "/lists/"
       - name: Nope 🚫
         url: "/nope/"
-      - name: Now ⏳
-        url: "/now/"
       - name: Pages 📄
         url: "/slashes/"
-      - name: Popular 🔥
-        url: "/popular/"
       - name: POSSE 🌐
         url: "/posse/"
       - name: Questions 🤨
@@ -105,14 +114,10 @@ params:
         url: "/resist/"
       - name: Save 💾
         url: "/save/"
-      - name: Search 🔎
-        url: "/search/"
       - name: Someday 🗓️
         url: "/someday/"
       - name: TIL 🆕
         url: "/til/"
-      - name: Uses 🧰
-        url: "/uses/"
       - name: Why ❓
         url: "/why/"
       - name: Wish List 🎁
