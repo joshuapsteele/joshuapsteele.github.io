@@ -1,21 +1,25 @@
 ---
 author: joshuapsteele
 categories:
-- ethics
-- theology
-date: '2014-03-21T09:01:05Z'
-description: If you’re interested, here’s the latest version of the Regional ETS paper
-  I will present today at 5:00pm at Beeson Divinity School, room S009.
-publicize_facebook_url: null
-publicize_twitter_url: null
-title: 'My 2014 Regional ETS Paper: Reconciliation and the Lack Thereof'
-url: /my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof/
+  - theology
+  - ethics
+date: 2014-03-21
+description: "Presenting my ETS paper on reconciliation, atonement, ecclesiology, and the unity of God at Beeson Divinity School today."
+tags:
+  - atonement
+  - church-unity
+  - conferences
+  - Karl-Barth
+title: "My 2014 Regional ETS Paper: Reconciliation and the Lack Thereof"
 ---
 
-If you’re interested, here’s [the latest version of the Regional ETS paper](https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf) I will present today at 5:00pm at Beeson Divinity School, room S009.
+If you're interested, I'm presenting my Regional ETS paper today at 5:00pm at Beeson Divinity School, room S009.
 
-If you’re able to attend the presentation, that’s great! If not, feel free to give [my paper](https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf) a read and get back to me with any questions, comments, or suggestions. Atonement theology and the unity of the Church are two things about which I am very passionate, and intend to devote further study to these areas in the future.
+**"Reconciliation and the Lack Thereof: Atonement, Ecclesiology, and the Unity of God"**
 
-Thanks
+If you're able to attend the presentation, that's great! If not, you can:
 
-~Josh
+- Read the [full essay on my blog](/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god/)
+- Download the [complete thesis PDF](/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf)
+
+Atonement theology and the unity of the Church are two areas I'm very passionate about and intend to devote further study to in the future. I'd love to hear any questions, comments, or suggestions you might have!
