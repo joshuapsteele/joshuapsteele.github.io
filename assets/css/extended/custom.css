@@ -2,6 +2,16 @@ body:not(.dark) #home-logo {
     filter: invert(1);
 }
 
+/* Profile button overrides for better layout control */
+.profile .buttons {
+    max-width: 600px; /* Increased from theme's 400px */
+    gap: 4px; /* Better control of spacing */
+}
+
+.profile .button {
+    margin: 4px; /* Reduced from theme's 8px for tighter layout */
+}
+
 /* Let's Talk section styles */
 .lets-talk-section {
     margin: 4em 0;
@@ -235,33 +245,60 @@ body:not(.dark) #home-logo {
     color: var(--secondary);
 }
 
-/* More Buttons Toggle */
+/* More Buttons Accordion */
 .more-buttons-section {
-    margin-top: 1em;
+    margin-top: 2em;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .more-button-toggle {
-    display: inline-flex;
+    display: flex;
     align-items: center;
-    gap: 0.5em;
-    padding: 0.5em 1em;
-    background: var(--tertiary);
-    border: 5px solid var(--border);
-    border-radius: 10px;
-    color: var(--primary);
+    justify-content: center;
+    gap: 1em;
+    width: 100%;
+    padding: 0.5em 0;
+    background: transparent;
+    border: none;
+    color: var(--secondary);
     cursor: pointer;
-    font-size: 0.9em;
+    font-size: 0.85em;
+    font-weight: 400;
     transition: all 0.3s ease;
+    position: relative;
+}
+
+.more-button-toggle::before,
+.more-button-toggle::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+    transition: background 0.3s ease;
 }
 
 .more-button-toggle:hover {
-    background: var(--border);
-    transform: translateY(-1px);
+    color: var(--primary);
+}
+
+.more-button-toggle:hover::before,
+.more-button-toggle:hover::after {
+    background: var(--primary);
+}
+
+.more-button-text {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    white-space: nowrap;
 }
 
 .more-button-icon {
     transition: transform 0.3s ease;
-    font-size: 0.8em;
+    font-size: 0.85em;
 }
 
 .more-button-toggle[aria-expanded="true"] .more-button-icon {
