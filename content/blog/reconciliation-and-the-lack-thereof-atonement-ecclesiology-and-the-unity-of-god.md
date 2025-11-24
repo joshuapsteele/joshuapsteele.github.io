@@ -9,7 +9,7 @@ tags:
   - atonement
   - church-unity
   - ecclesiology
-  - Karl-Barth
+  - Barth
   - reconciliation
 description: "An exploration of church unity through the lens of atonement theology, arguing that God's divine perfection of unity provides the theological framework for understanding both Christ's reconciling work and the church's calling to be one."
 ---
