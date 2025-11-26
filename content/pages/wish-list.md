@@ -76,6 +76,12 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 
 - TBD, working on reading the books I already own!
 
+## Other, Someday/Maybe
+
+- Toyota Tacoma truck
+- Dedicated workshop shed
+- At least a couple acres of land
+
 * * *
 
-Last updated 2025-11-21
+Last updated 2025-11-26
