@@ -27,7 +27,7 @@ params:
   # Social and Open Graph parameters
   images: ["/images/default-social.png"] # Default social sharing image
   defaultImage: "/images/default-social.png" # Fallback image for social sharing
-  title: "Joshua P. Steele" # Default title for social sharing
+  title: "Josh Thinks You Should See This" # Default title for social sharing
   author: "Joshua P. Steele" # Author name for social sharing
   showPostNavLinks: true
   showCodeCopyButtons: true
@@ -56,8 +56,8 @@ params:
     keys: ["title", "permalink", "summary", "content"]
   profileMode:
     enabled: true
-    title: "The Rev. Dev. Joshua P. Steele"
-    subtitle: "I solve problems with a pastor's heart for people and a programmer's eye for detail."
+    title: "Joshua P. Steele"
+    subtitle: "I solve problems with a heart for people and an eye for detail."
     imageUrl: "/images/headshot.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
     imageWidth: 120 # custom size
