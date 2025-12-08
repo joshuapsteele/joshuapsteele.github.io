@@ -10,7 +10,7 @@ title: About
 url: /about
 ---
 
-"The Rev. Dev." I'm Josh Steele, a pastor-turned-programmer ("Rev\[erend\]"-to-"Dev\[eloper\]") who solves problems with a programmer's eye for detail and a pastor's heart for people.
+I'm Josh Steele, a pastor-turned-programmer who solves problems with a heart for people and an eye for detail.
 
 As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with three degrees in theology.
 
