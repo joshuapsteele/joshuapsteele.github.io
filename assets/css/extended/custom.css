@@ -7,6 +7,13 @@ body:not(.dark) .footer-logo {
     filter: invert(1);
 }
 
+/* Footer logo centering */
+.footer > div:first-of-type {
+    text-align: center !important;
+    display: block;
+    width: 100%;
+}
+
 /* Profile button overrides for better layout control */
 .profile .buttons {
     max-width: 600px; /* Increased from theme's 400px */
