@@ -185,12 +185,9 @@ menu:
     - name: Resources
       url: /resources/
       weight: 4
-    - name: Social
-      url: https://social.joshuapsteele.com
-      weight: 5
     - name: Search
       url: /search?
-      weight: 6
+      weight: 5
 # Performance optimizations
 minify:
   tdewolff:
