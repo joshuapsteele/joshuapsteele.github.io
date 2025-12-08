@@ -19,6 +19,10 @@ params:
   mainSections:
   - blog
   disableThemeToggle: false
+  label:
+    text: Joshua P. Steele
+    icon: /images/JPS-hex-logo-white.png
+    iconHeight: 35
   showShareButtons: true
   showReadingTime: true
   showToc: true

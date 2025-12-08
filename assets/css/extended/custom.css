@@ -1,3 +1,12 @@
+/* Logo theme switching - invert white logo to black in light mode */
+body:not(.dark) .logo img {
+    filter: invert(1);
+}
+
+body:not(.dark) .footer-logo {
+    filter: invert(1);
+}
+
 /* Profile button overrides for better layout control */
 .profile .buttons {
     max-width: 600px; /* Increased from theme's 400px */
