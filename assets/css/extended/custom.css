@@ -10,8 +10,20 @@ body:not(.dark) .footer-logo {
 /* Footer logo centering */
 .footer > div:first-of-type {
     text-align: center !important;
-    display: block;
-    width: 100%;
+    display: block !important;
+    width: 100% !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.footer > div:first-of-type a {
+    display: inline-block !important;
+    margin: 0 auto !important;
+}
+
+.footer-logo {
+    display: block !important;
+    margin: 0 auto !important;
 }
 
 /* Profile button overrides for better layout control */
