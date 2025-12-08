@@ -175,12 +175,13 @@ def process_hits_data(data, top_n=5):
 
         # Handle different field names for hit count
         hits = (
+            item.get("views") or
             item.get("hit_count") or
             item.get("hits") or
             item.get("total_hits") or
             item.get("count", 0)
         )
-        unique = item.get("unique") or item.get("unique_hits") or hits
+        unique = item.get("unique_views") or item.get("unique") or item.get("unique_hits") or hits
 
         posts.append({
             "path": path,

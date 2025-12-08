@@ -1,31 +1,31 @@
 {
-  "generated": "2025-11-24T11:02:37.211807",
+  "generated": "2025-12-08T13:51:57.072987",
   "period_days": 30,
   "posts": [
     {
+      "path": "/14-characteristics-of-fascism/",
+      "hits": 324,
+      "unique": 284
+    },
+    {
       "path": "/romans-13/",
-      "hits": 296,
-      "unique": 296
+      "hits": 282,
+      "unique": 272
     },
     {
       "path": "/what-color-is-my-parachute-the-flower-petal-exercise/",
-      "hits": 283,
-      "unique": 283
+      "hits": 240,
+      "unique": 229
     },
     {
-      "path": "/14-characteristics-of-fascism/",
-      "hits": 271,
-      "unique": 271
-    },
-    {
-      "path": "/theology-against-nationalism/",
-      "hits": 127,
-      "unique": 127
+      "path": "/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/",
+      "hits": 201,
+      "unique": 175
     },
     {
       "path": "/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/",
-      "hits": 96,
-      "unique": 96
+      "hits": 99,
+      "unique": 87
     }
   ]
 }
