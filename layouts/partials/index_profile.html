@@ -26,8 +26,6 @@
             <img draggable="false" src="{{ $img.Permalink }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
                 height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- else }}
-        <img id="home-logo" src="/images/JPS-hex-logo-white.png" alt="Rev Dev logo" title="Rev Dev logo"
-            width="300" style="border-radius: 0%; margin-left: 2.5%; margin-bottom: 12px" />
         <img draggable="false" src="{{ .imageUrl | absURL }}" alt="{{ .imageTitle | default "profile image" }}" title="{{ .imageTitle }}"
             height="{{ .imageHeight | default 150 }}" width="{{ .imageWidth | default 150 }}" />
         {{- end }}
