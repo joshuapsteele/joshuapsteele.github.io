@@ -73,7 +73,7 @@ The `deploy.sh` script simplifies local deployment workflow:
 - All blog posts are in `content/blog/` as individual markdown files
 - Posts use YAML front matter with fields: title, date, tags, categories, draft
 - File naming convention: `my-post.md` (kebab-case, no date prefixes)
-- Use `rename_blog_files.sh` script to rename dated posts if needed
+- Use `scripts/rename_blog_files.sh` script to rename dated posts if needed
 
 ### Pages
 - Static pages in `content/pages/`
@@ -127,44 +127,44 @@ The `deploy.sh` script simplifies local deployment workflow:
 The site uses a taxonomy consolidation system to maintain consistent categories and tags:
 
 ### Taxonomy Files
-- `taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
-- `taxonomy_map.suggested.yaml` - AI-generated suggestions (review before using)
-- `taxonomy_map.generated.yaml` - Generated mapping results from processing
+- `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
+- `scripts/data/taxonomy_map.suggested.yaml` - AI-generated suggestions (review before using)
+- `scripts/data/taxonomy_map.generated.yaml` - Generated mapping results from processing
 
 ### Taxonomy Scripts
-- `apply-taxonomy.py` - Apply taxonomy consolidation based on `taxonomy_map.yaml`
-- `suggest-tags.py` - Generate tag suggestions for posts
-- `categorize-uncategorized.py` - Suggest categories for uncategorized posts
+- `scripts/apply-taxonomy.py` - Apply taxonomy consolidation based on `taxonomy_map.yaml`
+- `scripts/suggest-tags.py` - Generate tag suggestions for posts
+- `scripts/categorize-uncategorized.py` - Suggest categories for uncategorized posts
 
 ## Maintenance Scripts
 
 ### Shell Scripts
-- `deploy.sh` - Commits all changes with timestamp (or custom message) and pushes to main
-- `cleanup_images.sh` - Removes legacy/external images (DANGEROUS: review before running)
-- `rename_blog_files.sh` - Renames dated blog posts to remove date prefixes (review before running)
-- `apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
-- `review_changes.sh` - Review staged changes before committing
+- `scripts/deploy.sh` - Commits all changes with timestamp (or custom message) and pushes to main
+- `scripts/cleanup_images.sh` - Removes legacy/external images (DANGEROUS: review before running)
+- `scripts/rename_blog_files.sh` - Renames dated blog posts to remove date prefixes (review before running)
+- `scripts/apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
+- `scripts/review_changes.sh` - Review staged changes before committing
 
 ### Python Audit & Analysis Scripts
-- `audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs `audit-frontmatter.json`)
-- `check-internal-links.py` - Check for broken internal links (outputs `audit-internal-links.json`)
-- `check-external-links.py` - Check for broken external links (outputs `audit-external-links.json`)
-- `analyze_website_stats.py` - Analyze traffic statistics
-- `cleanup_frontmatter.py` - Clean up and standardize front matter fields
-- `fix_malformed_yaml.py` - Fix malformed YAML front matter
-- `generate_descriptions.py` - Generate descriptions for posts missing them
-- `update_descriptions.py` - Update existing descriptions
-- `categorize_page_changes.py` - Categorize and analyze page changes
-- `show_posts_batch.py` - Display posts in batches for review
+- `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/`)
+- `scripts/check-internal-links.py` - Check for broken internal links (outputs to `scripts/data/`)
+- `scripts/check-external-links.py` - Check for broken external links (outputs to `scripts/data/`)
+- `scripts/analyze_website_stats.py` - Analyze traffic statistics
+- `scripts/cleanup_frontmatter.py` - Clean up and standardize front matter fields
+- `scripts/fix_malformed_yaml.py` - Fix malformed YAML front matter
+- `scripts/generate_descriptions.py` - Generate descriptions for posts missing them
+- `scripts/update_descriptions.py` - Update existing descriptions
+- `scripts/categorize_page_changes.py` - Categorize and analyze page changes
+- `scripts/show_posts_batch.py` - Display posts in batches for review
 
 ### Documentation Files
 - `CLAUDE.md` - This file - AI assistant guidance
-- `AGENTS.md` - Repository guidelines and conventions
-- `AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
-- `AUDIT-MASTER-REPORT.md` - Consolidated audit findings
-- `CLEANUP-CHECKLIST.md` - Checklist for site maintenance
-- `AUDIENCE_GROWTH_STRATEGY.md` - Strategy document
-- `WARP.md` - Additional documentation
+- `docs/AGENTS.md` - Repository guidelines and conventions
+- `docs/AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
+- `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings
+- `docs/CLEANUP-CHECKLIST.md` - Checklist for site maintenance
+- `docs/AUDIENCE_GROWTH_STRATEGY.md` - Strategy document
+- `docs/WARP.md` - Additional documentation
 
 ## Common Workflows
 
@@ -191,15 +191,15 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 6. Build and check for errors with `npm run build`
 
 ### Running Audits
-1. Front matter audit: `python3 audit-frontmatter.py`
-2. Internal links: `python3 check-internal-links.py`
-3. External links: `python3 check-external-links.py` (may take time)
-4. Review generated JSON files for issues
+1. Front matter audit: `python3 scripts/audit-frontmatter.py`
+2. Internal links: `python3 scripts/check-internal-links.py`
+3. External links: `python3 scripts/check-external-links.py` (may take time)
+4. Review generated JSON files in `scripts/data/` for issues
 5. Fix issues incrementally and re-run audits
 
 ### Applying Taxonomy Changes
-1. Review/edit `taxonomy_map.yaml` for consolidation rules
-2. Run `python3 apply-taxonomy.py` to apply changes
+1. Review/edit `scripts/data/taxonomy_map.yaml` for consolidation rules
+2. Run `python3 scripts/apply-taxonomy.py` to apply changes
 3. Review changes in git diff before committing
 4. Test with `npm run build` to ensure no errors
 5. Deploy changes carefully
@@ -221,22 +221,22 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - Don't commit without testing locally first
 - Don't change file naming conventions without asking
 - Don't remove or modify front matter fields without understanding their purpose
-- Don't run destructive scripts (`cleanup_images.sh`, `rename_blog_files.sh`) without explicit confirmation
+- Don't run destructive scripts (`scripts/cleanup_images.sh`, `scripts/rename_blog_files.sh`) without explicit confirmation
 - Don't push directly to `main` in production without testing
 
 ### Safety Checks
 - Before modifying multiple files: run relevant audit scripts first
 - Before deploying: check `git status` and `git diff`
-- Before taxonomy changes: backup `taxonomy_map.yaml`
-- Before link changes: run `check-internal-links.py` afterwards
-- Before front matter changes: run `audit-frontmatter.py` afterwards
+- Before taxonomy changes: backup `scripts/data/taxonomy_map.yaml`
+- Before link changes: run `scripts/check-internal-links.py` afterwards
+- Before front matter changes: run `scripts/audit-frontmatter.py` afterwards
 
 ## Troubleshooting
 
 ### Build Failures
 - **Error: "Hugo not found"**: Ensure Hugo extended is installed and in PATH
 - **Error: "template error"**: Check layout files for syntax errors in Go templates
-- **YAML parsing errors**: Run `python3 fix_malformed_yaml.py` to fix front matter
+- **YAML parsing errors**: Run `python3 scripts/fix_malformed_yaml.py` to fix front matter
 - **Image processing errors**: Check image paths and formats in content files
 
 ### Local Development Issues
@@ -245,10 +245,10 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - **Theme not loading**: Ensure theme submodule is initialized: `git submodule update --init`
 
 ### Content Issues
-- **Broken internal links**: Run `python3 check-internal-links.py` and fix reported issues
-- **Missing descriptions**: Run `python3 generate_descriptions.py` to auto-generate
-- **Inconsistent taxonomy**: Review and apply `taxonomy_map.yaml` with `apply-taxonomy.py`
-- **Malformed front matter**: Run `python3 fix_malformed_yaml.py`
+- **Broken internal links**: Run `python3 scripts/check-internal-links.py` and fix reported issues
+- **Missing descriptions**: Run `python3 scripts/generate_descriptions.py` to auto-generate
+- **Inconsistent taxonomy**: Review and apply `scripts/data/taxonomy_map.yaml` with `scripts/apply-taxonomy.py`
+- **Malformed front matter**: Run `python3 scripts/fix_malformed_yaml.py`
 
 ### Deployment Issues
 - **GitHub Actions build failing**: Check workflow logs at `.github/workflows/hugo.yml`

@@ -1,76 +1,64 @@
-# Welcome to Joshua P. Steele's Source Code
+# Scripts
 
-This repository contains the source code for my personal website, [joshuapsteele.com](https://joshuapsteele.com). It is built using [Hugo](https://gohugo.io/), a popular static site generator.
+This directory contains maintenance, audit, and deployment scripts for the joshuapsteele.com Hugo website.
 
-## Taxonomy Cleanup Guide
+## Structure
 
-Prereqs
+- **Root scripts** (`.py` and `.sh` files) - Executable maintenance and utility scripts
+- **`data/`** - Generated data files, audit results, and configuration files
 
-- In repo root, on a fresh branch.
-- Ensure Python 3 is available.
-- Your preferences are preserved: the tools won’t touch url, aliases, guid, or id.
+## Main Scripts
 
-1) Inventory Current Terms
+### Deployment
+- `deploy.sh` - Deploy site to GitHub (commits with timestamp and pushes)
+- `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
 
-- Command: scripts/taxonomy_tools.py inventory
-- Purpose: Get a count of all unique tags and categories to see what needs consolidation.
+### Content Maintenance
+- `cleanup_frontmatter.py` - Clean up and standardize YAML front matter
+- `fix_malformed_yaml.py` - Fix malformed YAML in post front matter
+- `generate_descriptions.py` - Auto-generate descriptions for posts
+- `update_descriptions.py` - Update existing post descriptions
+- `categorize-uncategorized.py` - Suggest categories for uncategorized posts
 
-2) Generate a Mapping Skeleton
+### Auditing & Analysis
+- `audit-frontmatter.py` - Analyze front matter for issues (outputs to `data/`)
+- `check-internal-links.py` - Check for broken internal links (outputs to `data/`)
+- `check-external-links.py` - Check for broken external links (outputs to `data/`)
+- `analyze_website_stats.py` - Analyze website traffic statistics
 
-- Command: scripts/taxonomy_tools.py export-map taxonomy_map.generated.yaml
-- Purpose: Write all current terms to a YAML you can edit.
-- Tip: Copy it to a working file you’ll maintain: cp taxonomy_map.generated.yaml taxonomy_map.yaml
+### Taxonomy Management
+- `apply-taxonomy.py` - Apply taxonomy consolidation rules from `data/taxonomy_map.yaml`
+- `suggest-tags.py` - Generate tag suggestions for posts
+- `apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
 
-3) Curate Your Mapping
+### Utilities
+- `cleanup_images.sh` - Remove legacy/external images (**DANGEROUS**)
+- `rename_blog_files.sh` - Rename dated blog posts to remove date prefixes
+- `review_changes.sh` - Review staged git changes before committing
+- `show_posts_batch.py` - Display posts in batches for review
+- `categorize_page_changes.py` - Categorize and analyze page changes
 
-- Edit taxonomy_map.yaml:
-    - Under tags: and categories:, set each existing term (left) to a canonical term (right).
-    - Map to an empty string to drop a term.
-    - Terms are normalized to lowercase and deduped automatically.
-- Examples:
-    - tags:
-    - `'Bonhoeffer': 'bonhoeffer'`
-    - `'Reading Notes': 'reading notes'`
-    - `'to-remove': ''`
-- categories:
-    - `'Church and Theology': 'church and theology'`
-    - `'Uncategorized': 'misc'`
+## Usage
 
-4) Dry‑Run the Changes
+All scripts should be run from the repository root directory:
 
-- Command: scripts/taxonomy_tools.py apply-map taxonomy_map.yaml
-- Purpose: See exactly which files would change without writing.
+\`\`\`bash
+# Example: Run front matter audit
+python3 scripts/audit-frontmatter.py
 
-5) Apply the Changes
+# Example: Deploy site
+./scripts/deploy.sh "Commit message"
 
-- Command: scripts/taxonomy_tools.py apply-map taxonomy_map.yaml --write
-- Effect: Updates all posts’ front matter with your canonical terms, removing duplicates and empty lists.
+# Example: Fetch popular posts (requires TINYLYTICS_API_KEY)
+export TINYLYTICS_API_KEY='your_key_here'
+python3 scripts/fetch_popular_posts.py
+\`\`\`
 
-6) Validate Locally
+## Data Directory
 
-- Build: npm run build:fast
-- Spot‑check:
-    - Taxonomy pages render correctly.
-    - Posts show expected tags/categories in lowercase.
-    - Old content and URLs unaffected (we didn’t change url or aliases).
+The `data/` subdirectory contains:
+- **Audit results** - JSON files from audit scripts
+- **Taxonomy configuration** - `taxonomy_map.yaml` and related files
+- **Generated data** - CSV stats and other output files
 
-7) Optional: Preserve Old Taxonomy URLs
-
-- If you want old taxonomy slugs to redirect (e.g., /tags/Old-Tag/ → /tags/new-tag/), we can generate stub _index.md files with aliases for those old terms. Say the word and I’ll add a helper to emit those.
-
-8) Re‑Inventory to Confirm
-
-- Command: scripts/taxonomy_tools.py inventory
-- Purpose: Verify that only your canonical terms remain.
-
-9) Commit + PR
-
-- Commit with a concise summary (e.g., “Consolidate tags/categories per taxonomy_map.yaml”).
-- If you changed high‑visibility terms, include a brief note in the PR.
-
-Notes
-
-- Lists are written in block form for consistency.
-- Lowercasing is automatic after mapping.
-- Dropping a term: map it to '' (empty string).
-- The process is reversible via Git if you want to tweak mappings and reapply.
+See the main repository [CLAUDE.md](../CLAUDE.md) for detailed documentation.
