@@ -64,8 +64,8 @@ params:
     subtitle: "I solve problems with a heart for people and an eye for detail."
     imageUrl: "/images/headshot.jpg" # optional
     imageTitle: "Joshua P. Steele" # optional
-    imageWidth: 120 # custom size
-    imageHeight: 120 # custom size
+    imageWidth: 160 # custom size
+    imageHeight: 160 # custom size
     buttons:
       # Primary buttons (always visible)
       - name: About 👤
