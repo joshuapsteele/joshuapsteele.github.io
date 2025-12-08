@@ -1,5 +1,5 @@
 {{- /* Extend head for custom social sharing metadata and performance */ -}}
-{{- $defaultImage := "/images/headshot.jpg" -}}
+{{- $defaultImage := "/images/default-social.png" -}}
 {{- $siteTitle := site.Title -}}
 {{- $title := printf "%s | %s" .Title $siteTitle -}}
 {{- with .Params.title }}{{ $title = printf "%s | %s" . $siteTitle }}{{ end -}}
