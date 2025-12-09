@@ -536,3 +536,76 @@ body:not(.dark) .footer-logo {
 .webmention-mention a:hover {
     text-decoration: underline;
 }
+
+/* Reply context styles */
+.reply-context {
+    margin: 2em 0;
+    padding: 1.5em;
+    border-left: 4px solid var(--primary);
+    background: var(--code-bg);
+    border-radius: 8px;
+}
+
+.reply-context-header {
+    font-size: 0.9em;
+    color: var(--secondary);
+    margin-bottom: 1em;
+    font-weight: 600;
+}
+
+.reply-context-header a {
+    color: var(--primary);
+    text-decoration: none;
+    word-break: break-all;
+}
+
+.reply-context-header a:hover {
+    text-decoration: underline;
+}
+
+.reply-context-content .loading {
+    color: var(--secondary);
+    font-style: italic;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.5; }
+}
+
+.reply-context-card {
+    padding: 0;
+}
+
+.reply-author {
+    margin-bottom: 0.5em;
+    font-size: 0.95em;
+    color: var(--content);
+}
+
+.reply-title {
+    font-weight: 600;
+    margin-bottom: 0.5em;
+    font-size: 1.1em;
+}
+
+.reply-excerpt {
+    color: var(--secondary);
+    line-height: 1.6;
+    font-size: 0.95em;
+}
+
+.reply-context-fallback {
+    color: var(--secondary);
+    font-style: italic;
+}
+
+.reply-context-fallback a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.reply-context-fallback a:hover {
+    text-decoration: underline;
+}

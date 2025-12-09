@@ -1,0 +1,91 @@
+{{- /* Reply context for IndieWeb reply posts */ -}}
+{{- with .Params.in_reply_to -}}
+<div class="reply-context">
+  <div class="reply-context-header">
+    ↩️ In reply to: <a href="{{ . }}" class="u-in-reply-to" rel="in-reply-to">{{ . }}</a>
+  </div>
+  <div class="reply-context-content" data-reply-url="{{ . }}">
+    <p class="loading">Loading reply context...</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  const replyUrl = '{{ . }}';
+  const container = document.querySelector('.reply-context-content[data-reply-url="' + replyUrl + '"]');
+
+  if (!container) return;
+
+  // Try to fetch the page using a CORS proxy or direct fetch
+  fetch(replyUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Failed to fetch');
+      return response.text();
+    })
+    .then(html => {
+      const parser = new DOMParser();
+      const doc = parser.parseFromString(html, 'text/html');
+
+      // Try to find microformats h-entry content
+      const hEntry = doc.querySelector('.h-entry');
+
+      if (hEntry) {
+        // Extract the relevant parts
+        const author = hEntry.querySelector('.p-author, .h-card');
+        const authorName = author ? (author.querySelector('.p-name')?.textContent || author.textContent) : 'Unknown';
+
+        const title = hEntry.querySelector('.p-name');
+        const titleText = title ? title.textContent.trim() : '';
+
+        const content = hEntry.querySelector('.e-content, .p-summary');
+        const contentText = content ? content.textContent.trim().substring(0, 280) : '';
+
+        const published = hEntry.querySelector('.dt-published');
+        const publishedText = published ? published.getAttribute('datetime') || published.textContent : '';
+
+        // Build the reply context display
+        let contextHtml = '<div class="reply-context-card">';
+
+        if (authorName) {
+          contextHtml += '<div class="reply-author"><strong>' + escapeHtml(authorName) + '</strong>';
+          if (publishedText) {
+            const date = new Date(publishedText);
+            if (!isNaN(date)) {
+              contextHtml += ' · ' + date.toLocaleDateString();
+            }
+          }
+          contextHtml += '</div>';
+        }
+
+        if (titleText && titleText !== contentText) {
+          contextHtml += '<div class="reply-title">' + escapeHtml(titleText) + '</div>';
+        }
+
+        if (contentText) {
+          contextHtml += '<div class="reply-excerpt">' + escapeHtml(contentText);
+          if (content && content.textContent.length > 280) {
+            contextHtml += '...';
+          }
+          contextHtml += '</div>';
+        }
+
+        contextHtml += '</div>';
+        container.innerHTML = contextHtml;
+      } else {
+        // Fallback: just show the link
+        container.innerHTML = '<p class="reply-context-fallback">View the original post at <a href="' + replyUrl + '">' + replyUrl + '</a></p>';
+      }
+    })
+    .catch(error => {
+      // If fetch fails (CORS, etc.), show a simple fallback
+      container.innerHTML = '<p class="reply-context-fallback">View the original post at <a href="' + replyUrl + '">' + replyUrl + '</a></p>';
+    });
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+})();
+</script>
+{{- end -}}
