@@ -1,0 +1,19 @@
+{
+  "subject": "acct:joshuapsteele@mastodon.social",
+  "aliases": [
+    "https://mastodon.social/@joshuapsteele",
+    "https://mastodon.social/users/joshuapsteele"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mastodon.social/@joshuapsteele"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mastodon.social/users/joshuapsteele"
+    }
+  ]
+}

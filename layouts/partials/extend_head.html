@@ -26,6 +26,10 @@
 {{- /* IndieWeb: Webmention support */ -}}
 {{- partial "webmentions.html" . -}}
 
+{{- /* IndieWeb: IndieAuth support - sign in with your domain */ -}}
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
