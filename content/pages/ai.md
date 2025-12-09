@@ -10,11 +10,11 @@ url: /ai
 ## How I Use AI
 
 - To code. I use the following tools:
-    - Claude Code,
-    - Windsurf IDE,
-    - ChatGPT,
-    - GitHub Copilot, and
-    - Zed IDE
+    - Claude Code
+    - Windsurf IDE
+    - GitHub Copilot
+- To brainstorm
+- To clean-up text
 
 {{< callout "note" >}}
 This `/ai` page is just one of [my many "slash pages."](/slashes)
@@ -22,5 +22,5 @@ This `/ai` page is just one of [my many "slash pages."](/slashes)
 
 ## How I Do Not Use AI
 
-- To replace my own critical thinking.
-- To get any factual information that's important.
+- To replace my own critical thinking
+- To get any factual information that's important

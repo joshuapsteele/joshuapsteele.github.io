@@ -43,7 +43,3 @@ This `/blogroll` page is just one of [my many "slash pages."](/slashes)
 - [Stumpy Nubs](https://www.youtube.com/@StumpyNubs)
 - [This Old House](https://www.youtube.com/@thisoldhouse)
 - [Veritasium](https://www.youtube.com/@veritasium)
-
----
-
-*This blogroll is a way to share sites I find valuable and to support the creators and thinkers whose work I appreciate.*
