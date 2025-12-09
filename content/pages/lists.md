@@ -2,7 +2,8 @@
 TocOpen: true
 author: joshuapsteele
 categories: ethics
-description: This is a page, where I keep track of the lists I am working on.
+description: A collection of lists I maintain
+draft: false
 showtoc: true
 title: Lists
 url: /lists/

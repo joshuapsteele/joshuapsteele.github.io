@@ -3,10 +3,10 @@ aliases:
 - /tech-stack
 - /techstack
 categories: personal
-description: Here is my current personal tech stack.
+description: My current personal tech stack
 draft: false
 showtoc: false
-title: POSSE
+title: My POSSE (Publish Own Site, Syndicate Everywhere) Tech Stack
 url: /posse
 ---
 

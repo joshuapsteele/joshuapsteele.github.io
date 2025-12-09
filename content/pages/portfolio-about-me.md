@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories: ministry
-description: A collection of my work, writings, and websites.
+description: A collection of my work, writings, and websites
 draft: true
 guid: https://joshuapsteele.com/?page_id=4204
 title: Portfolio (About Me)

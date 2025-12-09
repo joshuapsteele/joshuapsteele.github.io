@@ -3,7 +3,7 @@ aliases:
 - /portfolio/essays
 author: joshuapsteele
 categories: theology
-description: A collection of my academic essays.
+description: A collection of my academic essays
 guid: https://joshuapsteele.com/?page_id=4016
 title: Essays
 url: /essays

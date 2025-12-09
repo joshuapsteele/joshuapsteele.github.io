@@ -1,13 +1,11 @@
 ---
 categories: productivity
-description: Here are all the ways you can follow my work and receive updates.
+description: All the ways you can follow my work and receive updates
 draft: false
 showtoc: false
 title: Follow
 url: /follow
 ---
-
-Here are all the ways you can follow my work and receive updates.
 
 - [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
 - [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)

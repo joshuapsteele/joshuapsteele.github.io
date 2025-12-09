@@ -1,13 +1,11 @@
 ---
 title: Someday
-description: 'Here are some things I want to do someday.'
+description: Some things I want to do someday
 url: /someday
 draft: false
 showtoc: false
 ---
-{{< callout "note" >}}
-This `/someday` page is just one of [my many "slash pages."](/slashes)
-{{< /callout >}}
+(Related: [My Wish List page](/wishlist).)
 
 - Buy at least 5 acres of land in a beautiful location.
 - Write a book
@@ -16,3 +14,7 @@ This `/someday` page is just one of [my many "slash pages."](/slashes)
 - Travel to Asia
 - Travel to Africa
 - Travel to Ireland, Scotland, Wales, and England
+
+{{< callout "note" >}}
+This `/someday` page is just one of [my many "slash pages."](/slashes)
+{{< /callout >}}

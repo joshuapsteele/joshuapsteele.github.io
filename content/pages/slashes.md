@@ -1,6 +1,6 @@
 ---
 categories: personal
-description: This is a meta-page listing all the slash pages on my website.
+description: A meta-page listing all the slash pages on my website
 draft: false
 showtoc: false
 title: Slashes
@@ -36,13 +36,13 @@ This is a meta-page listing all the slash pages available on my website.
 - [/now](/now) - What I'm focusing on currently
 - [/posse](/posse) - My strategy for cross-posting content
 - [/questions](/questions) - Questions I've asked
-- [/sale](/sale) - Indie web yard sale items
-- [/save](/save) - Referral links and discount codes
+- ~~[/sale](/sale) - Indie web yard sale items~~ (draft)
+- ~~[/save](/save) - Referral links and discount codes~~ (draft)
 - [/sermons](/sermons) - Sermons I've preached
 - [/slashes](/slashes) - This meta-page listing all slash pages
 - [/someday](/someday) - Future aspirations and goals
 - [/til](/til) - Today I Learned snippets
-- [/tip](/tip) - Ways to tip me or buy me a coffee
+- ~~[/tip](/tip) - Ways to tip me or buy me a coffee~~ (draft)
 - [/uses](/uses) - Tools and gear I use
 - [/verify](/verify) - Verify my online identities
 - [/why](/why) - My purpose, direction, and values

@@ -1,6 +1,6 @@
 ---
-title: "Popular Posts"
-description: "The most-read posts on joshuapsteele.com based on the last 30 days of traffic."
+title: Popular Posts
+description: The most-read posts on joshuapsteele.com based on the last 30 days of traffic
 url: /popular/
 ---
 

@@ -5,8 +5,7 @@ aliases:
 - /what-i-want/
 author: joshuapsteele
 categories: productivity
-description: Here's a wish list I regularly update. I also keep my Amazon wish list
-  updated here.
+description: My wish list of things I want to get or do
 guid: https://joshuapsteele.com/?page_id=41418
 showtoc: false
 title: Wish List
@@ -14,6 +13,8 @@ url: /wishlist/
 ---
 
 Here's a wish list I regularly update. I also keep [my Amazon wish list updated here](https://www.amazon.com/hz/wishlist/ls/BW0P3RTT6XVG?ref_=wl_share).
+
+(Related: [My Someday page](/someday).)
 
 ## Health & Fitness
 

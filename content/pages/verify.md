@@ -1,6 +1,6 @@
 ---
 categories: personal
-description: A system of record for my online identity.
+description: A system of record for my online identity
 draft: false
 showtoc: false
 title: Verify

@@ -1,7 +1,7 @@
 ---
 categories: personal
 description: A curated list of blogs, websites, and other online publications
-  that I recommend.
+  that I recommend
 draft: false
 showtoc: false
 title: Blogroll

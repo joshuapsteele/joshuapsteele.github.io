@@ -1,6 +1,6 @@
 ---
 categories: theology
-description: Some ideas I have for future projects and writings.
+description: Some ideas I have for future projects and writings
 draft: false
 showtoc: false
 title: Ideas

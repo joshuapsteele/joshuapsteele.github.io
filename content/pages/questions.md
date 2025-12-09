@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories: personal
-description: This is a page, where I keep track of the questions I am asking.
+description: A page to keep track of the questions I'm asking
 showtoc: true
 title: Questions
 url: /questions/
@@ -10,8 +10,6 @@ url: /questions/
 {{< callout "note" >}}
 This `/questions` page is just one of [my many "slash pages."](/slashes)
 {{< /callout >}}
-
-This is a `/questions` page, where I keep track of the questions I'm asking!
 
 Last Updated: 2025-07-02
 

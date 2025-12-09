@@ -3,7 +3,7 @@ aliases:
 - /portfolio/sermons
 author: joshuapsteele
 categories: theology
-description: A collection of sermons I have preached.
+description: A collection of sermons I have preached
 guid: https://joshuapsteele.com/?page_id=3453
 title: Sermons
 url: /sermons

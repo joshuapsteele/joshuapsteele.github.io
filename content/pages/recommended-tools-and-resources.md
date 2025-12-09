@@ -4,7 +4,7 @@ aliases:
 - /uses
 author: joshuapsteele
 categories: productivity
-description: Tools and resources I recommend.
+description: Tools and resources I recommend
 guid: https://joshuapsteele.com/?page_id=40911
 title: Recommended Tools and Resources
 url: /resources/

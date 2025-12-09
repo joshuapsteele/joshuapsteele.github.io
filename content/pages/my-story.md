@@ -3,8 +3,7 @@ aliases:
 - /portfolio/my-story
 author: joshuapsteele
 categories: theology
-description: My journey from conservative evangelicalism through Anglicanism to where
-  I am now has been painful and disorienting. But it has also been honest.
+description: My personal journey of faith from childhood to the present
 guid: https://joshuapsteele.com/?page_id=42475
 showtoc: false
 title: My Story

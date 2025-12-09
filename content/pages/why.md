@@ -1,14 +1,12 @@
 ---
 categories: personal
 description: What I care about, what direction I'm heading, and how I hope to exist
-  in the world.
+  in the world
 draft: true
 showtoc: false
 title: Why
 url: /why
 ---
-
-What I care about, what direction I'm heading, and how I hope to exist in the world.
 
 What I want:
 

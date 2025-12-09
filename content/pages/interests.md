@@ -1,7 +1,7 @@
 ---
 categories: productivity
-description: Here are some of my interests, hobbies, and things I like to do in my
-  free time.
+description: Some of my interests, hobbies, and things I like to do in my
+  free time
 draft: false
 showtoc: false
 title: Interests

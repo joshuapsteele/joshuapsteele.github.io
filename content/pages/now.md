@@ -1,7 +1,7 @@
 ---
 author: joshuapsteele
 categories: productivity
-description: What I am doing these days.
+description: What I am doing these days
 guid: https://joshuapsteele.com/?page_id=41441
 showtoc: false
 title: Now
