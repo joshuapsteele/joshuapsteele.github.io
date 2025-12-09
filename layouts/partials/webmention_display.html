@@ -1,0 +1,200 @@
+{{/* Webmention display section - shows received webmentions via JavaScript */}}
+<div class="webmentions-section" id="webmentions">
+  <h3>Webmentions</h3>
+  <div id="webmentions-loading" class="webmentions-loading">
+    Loading mentions...
+  </div>
+  <div id="webmentions-error" class="webmentions-error" style="display: none;">
+    Unable to load webmentions. <a href="https://webmention.io/{{ .Site.BaseURL | replaceRE "^https?://" "" }}/webmention/{{ .Permalink | urlize }}">View on webmention.io</a>
+  </div>
+  <div id="webmentions-container">
+    <!-- Webmentions will be inserted here by JavaScript -->
+  </div>
+  <div id="webmentions-none" style="display: none;">
+    <p>No webmentions yet. Be the first to <a href="https://webmention.rocks/">send a webmention</a>!</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  const targetUrl = '{{ .Permalink }}';
+  const apiUrl = `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`;
+
+  const container = document.getElementById('webmentions-container');
+  const loading = document.getElementById('webmentions-loading');
+  const error = document.getElementById('webmentions-error');
+  const none = document.getElementById('webmentions-none');
+
+  // Fetch webmentions from webmention.io
+  fetch(apiUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Network response was not ok');
+      return response.json();
+    })
+    .then(data => {
+      loading.style.display = 'none';
+
+      if (!data.children || data.children.length === 0) {
+        none.style.display = 'block';
+        return;
+      }
+
+      // Group mentions by type
+      const mentions = {
+        likes: [],
+        reposts: [],
+        replies: [],
+        mentions: []
+      };
+
+      data.children.forEach(mention => {
+        const type = mention['wm-property'];
+        if (type === 'like-of') {
+          mentions.likes.push(mention);
+        } else if (type === 'repost-of') {
+          mentions.reposts.push(mention);
+        } else if (type === 'in-reply-to') {
+          mentions.replies.push(mention);
+        } else {
+          mentions.mentions.push(mention);
+        }
+      });
+
+      // Render each type
+      let html = '';
+
+      // Likes
+      if (mentions.likes.length > 0) {
+        html += '<div class="webmention-type-section">';
+        html += `<h4>❤️ Likes (${mentions.likes.length})</h4>`;
+        html += '<div class="webmention-facepile">';
+        mentions.likes.slice(0, 20).forEach(like => {
+          const author = like.author || {};
+          const name = author.name || 'Someone';
+          const photo = author.photo || '';
+          const url = author.url || like.url;
+
+          if (photo) {
+            html += `<a href="${url}" title="${name}" rel="nofollow noopener" target="_blank">`;
+            html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
+            html += `</a>`;
+          }
+        });
+        html += '</div></div>';
+      }
+
+      // Reposts
+      if (mentions.reposts.length > 0) {
+        html += '<div class="webmention-type-section">';
+        html += `<h4>🔁 Reposts (${mentions.reposts.length})</h4>`;
+        html += '<div class="webmention-facepile">';
+        mentions.reposts.slice(0, 20).forEach(repost => {
+          const author = repost.author || {};
+          const name = author.name || 'Someone';
+          const photo = author.photo || '';
+          const url = author.url || repost.url;
+
+          if (photo) {
+            html += `<a href="${url}" title="${name}" rel="nofollow noopener" target="_blank">`;
+            html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
+            html += `</a>`;
+          }
+        });
+        html += '</div></div>';
+      }
+
+      // Replies
+      if (mentions.replies.length > 0) {
+        html += '<div class="webmention-type-section">';
+        html += `<h4>💬 Replies (${mentions.replies.length})</h4>`;
+        html += '<div class="webmention-replies">';
+        mentions.replies.forEach(reply => {
+          html += renderReply(reply);
+        });
+        html += '</div></div>';
+      }
+
+      // General mentions
+      if (mentions.mentions.length > 0) {
+        html += '<div class="webmention-type-section">';
+        html += `<h4>🔗 Mentions (${mentions.mentions.length})</h4>`;
+        html += '<div class="webmention-mentions">';
+        mentions.mentions.forEach(mention => {
+          html += renderMention(mention);
+        });
+        html += '</div></div>';
+      }
+
+      container.innerHTML = html;
+    })
+    .catch(err => {
+      console.error('Error loading webmentions:', err);
+      loading.style.display = 'none';
+      error.style.display = 'block';
+    });
+
+  // Render a reply
+  function renderReply(reply) {
+    const author = reply.author || {};
+    const name = author.name || 'Someone';
+    const photo = author.photo || '';
+    const url = reply.url || '';
+    const content = reply.content ? (reply.content.html || reply.content.text || '') : '';
+    const published = reply.published ? new Date(reply.published).toLocaleDateString() : '';
+
+    let html = '<div class="webmention-reply">';
+    html += '<div class="webmention-author">';
+    if (photo) {
+      html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
+    }
+    html += '<div class="webmention-author-info">';
+    html += `<a href="${author.url || url}" class="webmention-author-name" rel="nofollow noopener" target="_blank">${name}</a>`;
+    if (published) {
+      html += `<time class="webmention-published">${published}</time>`;
+    }
+    html += '</div></div>';
+    if (content) {
+      html += `<div class="webmention-content">${sanitizeContent(content)}</div>`;
+    }
+    if (url) {
+      html += `<div class="webmention-link"><a href="${url}" rel="nofollow noopener" target="_blank">View original →</a></div>`;
+    }
+    html += '</div>';
+    return html;
+  }
+
+  // Render a mention
+  function renderMention(mention) {
+    const author = mention.author || {};
+    const name = author.name || 'Someone';
+    const url = mention.url || '';
+    const published = mention.published ? new Date(mention.published).toLocaleDateString() : '';
+
+    let html = '<div class="webmention-mention">';
+    html += `<span class="webmention-mention-author">${name}</span> mentioned this `;
+    if (published) {
+      html += `on ${published}`;
+    }
+    if (url) {
+      html += ` - <a href="${url}" rel="nofollow noopener" target="_blank">View →</a>`;
+    }
+    html += '</div>';
+    return html;
+  }
+
+  // Basic content sanitization
+  function sanitizeContent(html) {
+    // Remove script tags and limit allowed tags
+    const temp = document.createElement('div');
+    temp.innerHTML = html;
+
+    // Remove script tags
+    const scripts = temp.getElementsByTagName('script');
+    while(scripts.length > 0) {
+      scripts[0].parentNode.removeChild(scripts[0]);
+    }
+
+    return temp.innerHTML;
+  }
+})();
+</script>

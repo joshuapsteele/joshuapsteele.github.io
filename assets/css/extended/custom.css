@@ -379,3 +379,160 @@ body:not(.dark) .footer-logo {
 .profile h1 a.p-name:hover {
     text-decoration: none;
 }
+
+/* Webmentions display styles */
+.webmentions-section {
+    margin: 3em 0;
+    padding: 2em;
+    border: 2px solid var(--border);
+    border-radius: 8px;
+    background: var(--code-bg);
+}
+
+.webmentions-section h3 {
+    margin-top: 0;
+    margin-bottom: 1em;
+    color: var(--primary);
+}
+
+.webmentions-loading,
+.webmentions-error {
+    color: var(--secondary);
+    font-style: italic;
+}
+
+.webmentions-error {
+    color: var(--content);
+}
+
+.webmentions-error a {
+    color: var(--primary);
+}
+
+.webmention-type-section {
+    margin: 2em 0;
+}
+
+.webmention-type-section h4 {
+    margin: 0 0 1em 0;
+    color: var(--primary);
+    font-size: 1.1em;
+}
+
+/* Facepile (likes and reposts) */
+.webmention-facepile {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.webmention-avatar {
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    border: 2px solid var(--border);
+    transition: transform 0.2s;
+}
+
+.webmention-avatar:hover {
+    transform: scale(1.1);
+    border-color: var(--primary);
+}
+
+/* Replies */
+.webmention-replies {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.webmention-reply {
+    padding: 1em;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--theme);
+}
+
+.webmention-author {
+    display: flex;
+    align-items: center;
+    gap: 0.75em;
+    margin-bottom: 0.75em;
+}
+
+.webmention-author .webmention-avatar {
+    width: 40px;
+    height: 40px;
+}
+
+.webmention-author-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25em;
+}
+
+.webmention-author-name {
+    font-weight: 600;
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.webmention-author-name:hover {
+    text-decoration: underline;
+}
+
+.webmention-published {
+    font-size: 0.85em;
+    color: var(--secondary);
+}
+
+.webmention-content {
+    margin: 0.75em 0;
+    line-height: 1.6;
+    color: var(--content);
+}
+
+.webmention-content p:last-child {
+    margin-bottom: 0;
+}
+
+.webmention-link {
+    margin-top: 0.75em;
+    font-size: 0.9em;
+}
+
+.webmention-link a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.webmention-link a:hover {
+    text-decoration: underline;
+}
+
+/* Mentions */
+.webmention-mentions {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75em;
+}
+
+.webmention-mention {
+    padding: 0.75em;
+    border-left: 3px solid var(--border);
+    color: var(--content);
+}
+
+.webmention-mention-author {
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.webmention-mention a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.webmention-mention a:hover {
+    text-decoration: underline;
+}
