@@ -1,6 +1,6 @@
 ---
 categories: productivity
-description: This is a list of apps and software tools I use daily.
+description: A list of apps and software tools I use daily
 draft: false
 showtoc: false
 title: Defaults

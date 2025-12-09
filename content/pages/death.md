@@ -1,6 +1,6 @@
 ---
 categories: personal
-description: Instructions for family and friends in case of my death.
+description: Instructions for family and friends in case of my death
 draft: false
 showtoc: false
 title: Death

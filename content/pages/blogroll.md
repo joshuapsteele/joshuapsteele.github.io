@@ -1,14 +1,12 @@
 ---
 categories: personal
-description: This is a curated list of blogs, websites, and other online publications
+description: A curated list of blogs, websites, and other online publications
   that I recommend.
 draft: false
 showtoc: false
 title: Blogroll
 url: /blogroll
 ---
-
-This is a curated list of blogs, websites, and other online publications that I recommend.
 
 ## News
 

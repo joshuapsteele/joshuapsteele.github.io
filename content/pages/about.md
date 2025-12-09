@@ -3,7 +3,7 @@ aliases:
 - /portfolio
 author: joshuapsteele
 categories: ministry
-description: Learn more about Joshua P. Steele, a pastor-turned-programmer.
+description: Learn more about Joshua P. Steele, a pastor-turned-programmer
 guid: https://joshuapsteele.com/?page_id=40142
 showtoc: false
 title: About

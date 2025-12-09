@@ -1,11 +1,10 @@
 ---
 title: Chipotle
-description: 'My Chipotle order.'
+description: My go-to Chipotle order
 url: /chipotle
 draft: false
 showtoc: false
 ---
-My Chipotle order:
 
 TL;DR: "Chicken burrito bowl, w/extra tortilla and chips on the side, and basically all toppings except for sour cream, lettuce, queso blanco, and guacamole."
 

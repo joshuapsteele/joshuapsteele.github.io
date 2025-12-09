@@ -1,11 +1,12 @@
 ---
 title: Contact
 author: joshuapsteele
-description: 'How to get in touch with me.'
+description: How to get in touch with me
 url: /contact/
 guid: https://joshuapsteele.com/?page_id=2619
 showtoc: false
 ---
+
 If you'd like to ask if I'm interested in guest content on my blog, please don't. I'm not interested.
 
 For all other matters, the best way to contact me is to send an email. You can use the word "blog," followed by the "at" symbol, followed by the domain of my website. 

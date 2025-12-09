@@ -2,8 +2,8 @@
 aliases:
 - /save
 categories: productivity
-description: This is a list of interesting and/or useful websites and posts I have
-  bookmarked.
+description: A list of interesting and/or useful websites and posts I have
+  bookmarked
 draft: false
 showtoc: false
 title: Bookmarks

@@ -1,13 +1,13 @@
 ---
 author: joshuapsteele
 categories: productivity
-description: You can add these caveats to everything I write online.
+description: You can add these caveats to everything I write online
 showtoc: false
 title: Caveats
 url: /caveats
 ---
 
-You can add the following caveats to everything I write online.
+Whenever I write something online (whether it's a blog post, a social media update, a comment, or an email), please keep the following caveats in mind:
 
 - **If it doesn't directly apply to you, feel free to move along**  
   I'm usually writing for a broad audience and just trying to get people thinking. If I'm interested in starting a debate or argument with a specific individual, I will say so directly.

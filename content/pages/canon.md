@@ -1,13 +1,13 @@
 ---
 categories: theology
-description: Things that have most shaped me.
+description: The things that have most shaped me
 draft: false
 showtoc: false
 title: Canon
 url: /canon
 ---
 
-Things that have most shaped me:
+Here are some of the books, people, and resources that have most shaped me as a person:
 
 - Jesus of Nazareth
 - The Bible

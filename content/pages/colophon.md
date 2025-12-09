@@ -1,11 +1,10 @@
 ---
 title: Colophon
-description: 'This page describes how this website is made.'
+description: This page describes how this website is made
 url: /colophon
 draft: false
 showtoc: false
 ---
-This page describes how this website is made.
 
 - Domain registrar: [Porkbun](https://porkbun.com/)
 - Hosting: [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io)

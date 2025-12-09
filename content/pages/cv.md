@@ -4,7 +4,7 @@ aliases:
 - /resume
 author: joshuapsteele
 categories: productivity
-description: My curriculum vitae (CV) and resume.
+description: My curriculum vitae (CV) and resume
 guid: https://joshuapsteele.com/?page_id=4007
 showtoc: true
 title: CV
