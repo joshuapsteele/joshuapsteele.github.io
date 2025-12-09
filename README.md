@@ -1,7 +1,8 @@
 # Joshua P. Steele's Personal Website
 
 [![Hugo](https://img.shields.io/badge/Hugo-0.147.3-blue.svg)](https://gohugo.io/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-yellow.svg)](LICENSE-CODE)
+[![Content License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Content%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-CONTENT)
 [![Deploy Hugo site to Pages](https://github.com/joshuapsteele/joshuapsteele.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/joshuapsteele/joshuapsteele.github.io/actions/workflows/hugo.yml)
 
 This is the source code for my personal website and blog, built with Hugo and deployed via GitHub Pages.
@@ -174,7 +175,31 @@ This is a personal website, but if you notice any issues or have suggestions:
 
 ## License
 
-MIT License - see [LICENSE](LICENSE) file for details
+This repository uses a dual-license structure:
+
+### Code and Configuration (MIT License)
+
+The code, scripts, layouts, configuration files, and other technical implementations in this repository are licensed under the **MIT License** - see [LICENSE-CODE](LICENSE-CODE) file for details.
+
+This includes but is not limited to:
+- Hugo configuration (`hugo.yaml`)
+- Layout templates and partials (`layouts/`)
+- Custom shortcodes
+- Build scripts and automation tools
+- CSS and JavaScript files
+- GitHub Actions workflows
+
+### Content (CC BY-NC-SA 4.0)
+
+All original written content, including blog posts, articles, and pages in the `content/` directory, is licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License** - see [LICENSE-CONTENT](LICENSE-CONTENT) file for details.
+
+This means:
+- ✅ You can share and adapt the content with attribution
+- ❌ You cannot use it for commercial purposes
+- 🔄 Derivative works must use the same license
+- 📝 You must provide proper attribution and indicate changes
+
+**In summary**: Feel free to learn from and use the site's code and configuration, but please don't republish my writing without permission.
 
 ## Contact
 
