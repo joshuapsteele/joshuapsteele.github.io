@@ -44,6 +44,21 @@ This site is built with Hugo (PaperMod theme) and deployed via GitHub Pages. Use
   - Links to related issues/notes.
 - Optional: `./deploy.sh "Your message"` to commit/push when merging directly.
 
+## IndieWeb Features
+This site is IndieWeb-enabled. Key implementations:
+- **Microformats2**: h-card (homepage), h-entry (posts), h-feed (lists)
+- **Webmentions**: Receiving via webmention.io; display via JavaScript
+- **Reply Context**: Posts with `in_reply_to` front matter show original post context
+- **Identity**: rel="me" links, IndieAuth endpoints, WebFinger for Fediverse
+- **POSSE**: Publish here first, syndicate to Micro.blog → Bluesky/Mastodon
+
+When creating reply posts, add to front matter:
+```yaml
+in_reply_to: "https://example.com/original-post"
+```
+
+See CLAUDE.md "IndieWeb Features" section for full technical details.
+
 ## Notes & Maintenance
 - Housekeeping scripts: `cleanup_images.sh` (removes legacy/external images) and `rename_blog_files.sh` (renames dated posts). Both assume local paths—review before running.
 - Avoid editing `public/`. Prefer config, content, and overrides.

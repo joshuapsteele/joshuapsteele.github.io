@@ -27,6 +27,14 @@ This is the source code for my personal website and blog, built with Hugo and de
 - 💬 Comment system integration (Disqus)
 - 📈 Analytics integration (Google Analytics, Tinylytics)
 - ⚡ Optimized build with minification and caching
+- 🌐 **IndieWeb Integration**:
+  - Microformats2 markup (h-card, h-entry, h-feed)
+  - Webmention support for receiving interactions
+  - Reply context display for reply posts
+  - IndieAuth for domain-based authentication
+  - WebFinger for Fediverse discovery
+  - rel="me" identity verification
+  - POSSE workflow (Publish Own Site, Syndicate Everywhere)
 
 ## Quick Start
 
@@ -120,6 +128,60 @@ Your content here...
 - **CSS**: Edit `assets/css/extended/custom.css` (do not edit theme files directly)
 - **Layouts**: Create overrides in `layouts/` mirroring theme paths
 - **Shortcodes**: Add custom shortcodes in `layouts/shortcodes/`
+
+## IndieWeb Features
+
+This site is part of the [IndieWeb](https://indieweb.org/), a community effort to keep the web independent and user-controlled.
+
+### Identity & Discovery
+
+- **h-card**: Machine-readable identity information on the homepage
+- **rel="me"**: Verified links to other profiles (Micro.blog, Bluesky, Mastodon)
+- **WebFinger**: Fediverse discovery at `/.well-known/webfinger`
+- **IndieAuth**: Sign in with your domain at `https://joshuapsteele.com`
+
+### Content Markup
+
+- **h-entry**: Blog posts marked up with microformats2 for machine readability
+- **h-feed**: Blog list pages formatted as feeds for IndieWeb readers
+- **Semantic classes**: `p-name`, `e-content`, `dt-published`, `p-author`, `p-category`
+
+### Social Interactions
+
+- **Webmentions**: Receive likes, replies, and mentions from across the web
+  - Powered by [webmention.io](https://webmention.io/)
+  - JavaScript-based display of webmentions on each post
+  - Grouped by type: likes, reposts, replies, mentions
+- **Bridgy**: Backfeed social media interactions as webmentions
+  - [brid.gy](https://brid.gy/) integration for Bluesky and Mastodon
+
+### Reply Posts
+
+Create reply posts by adding `in_reply_to` to your front matter:
+
+```yaml
+---
+title: "My Reply"
+date: 2025-12-09
+in_reply_to: "https://example.com/original-post"
+---
+```
+
+The site will automatically:
+- Display a reply context card showing the original post
+- Mark up the post with `u-in-reply-to` for proper webmention threading
+- Attempt to fetch and show the original author, title, and excerpt
+
+### IndieWeb Webring
+
+This site is part of the [IndieWeb Webring](https://xn--sr8hvo.ws/) - a collection of IndieWeb sites linked together. Find the webring navigation in the footer.
+
+### POSSE Workflow
+
+Posts are published on this site first, then syndicated to:
+- [Micro.blog](https://social.joshuapsteele.com/)
+- [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)
+- [Mastodon](https://mastodon.social/@joshuapsteele)
 
 ## Deployment
 

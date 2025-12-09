@@ -17,9 +17,12 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 - **Layouts**: Custom Hugo layouts in `layouts/` directory
   - Custom shortcodes: `audio`, `callout`, `figure`, `files-list`, and `gallery`
   - Partials for comments, analytics (`google_analytics`, `tinylytics_kudos`), and site components
+  - IndieWeb partials: `webmentions.html`, `webmention_display.html`, `reply_context.html`
   - Custom blockquote rendering (`layouts/_default/_markup/render-blockquote.html`)
   - Custom 404 page (`layouts/404.html`)
-  - Profile and home info customizations
+  - Profile and home info customizations with h-card microformats
+  - List template override with h-feed markup
+  - Single post template with h-entry markup
 - **Static Assets**: Images and files in `static/` directory (served as-is, includes favicons, PDFs, logos)
 - **Processed Assets**: `assets/css/extended/custom.css` for theme CSS extensions
 - **Configuration**: `hugo.yaml` (main site configuration)
@@ -121,6 +124,69 @@ The `deploy.sh` script simplifies local deployment workflow:
 - Syntax highlighting with Monokai style, code fences enabled
 - Goldmark renderer with unsafe HTML enabled
 - Git info enabled for last modified dates
+
+## IndieWeb Features
+
+This site is fully IndieWeb-enabled with comprehensive support for decentralized social web features.
+
+### Microformats2
+- **h-card**: Homepage profile marked up with identity information (`layouts/partials/index_profile.html`)
+  - Classes: `h-card`, `p-name`, `u-url`, `u-photo`, `p-note`
+- **h-entry**: Blog posts marked up for machine readability (`layouts/_default/single.html`)
+  - Classes: `h-entry`, `p-name`, `e-content`, `dt-published`, `p-author`, `p-category`, `u-url`
+- **h-feed**: Blog list pages marked up as feeds (`layouts/_default/list.html`)
+  - Wraps collections of h-entry posts for feed readers
+
+### Identity & Authentication
+- **rel="me"**: Verified identity links in footer and social icons
+  - Links to Micro.blog, Bluesky, Mastodon (bidirectional verification)
+- **IndieAuth**: Domain-based authentication endpoints (`layouts/partials/extend_head.html`)
+  - Authorization endpoint: `https://indieauth.com/auth`
+  - Token endpoint: `https://tokens.indieauth.com/token`
+- **WebFinger**: Fediverse discovery support (`static/.well-known/webfinger`)
+  - Enables Mastodon account lookup via domain
+
+### Webmentions
+- **Receiving**: Webmention.io integration (`layouts/partials/webmentions.html`)
+  - Webmention endpoint: `https://webmention.io/joshuapsteele.com/webmention`
+  - Pingback endpoint: `https://webmention.io/joshuapsteele.com/xmlrpc`
+- **Display**: JavaScript-based webmention display (`layouts/partials/webmention_display.html`)
+  - Fetches from webmention.io API on page load
+  - Groups by type: likes (facepile), reposts (facepile), replies (full cards), mentions (list)
+  - Styled with extensive CSS (`assets/css/extended/custom.css` lines 383-538)
+- **Bridgy**: Backfeed social media interactions as webmentions
+  - Integration with Bluesky and Mastodon via brid.gy
+
+### Reply Context
+- **Reply Posts**: Support for replying to other posts with context (`layouts/partials/reply_context.html`)
+  - Activated by `in_reply_to` parameter in front matter
+  - Displays original post with author, title, excerpt
+  - JavaScript-based fetching with graceful fallback for CORS issues
+  - Marked up with `u-in-reply-to` microformat class
+  - Styled with CSS (`assets/css/extended/custom.css` lines 540-611)
+
+### Creating Reply Posts
+Add this to your post's front matter to create a reply:
+```yaml
+---
+title: "My Reply"
+date: 2025-12-09
+in_reply_to: "https://example.com/original-post"
+---
+```
+
+### POSSE Workflow
+- Posts published on joshuapsteele.com first
+- Syndicated to Micro.blog, which cross-posts to Bluesky and Mastodon
+- Social interactions backfed as webmentions via Bridgy
+
+### IndieWeb Testing
+Validate implementations with:
+- https://indiewebify.me/ - General IndieWeb validation
+- https://indiewebify.me/validate-h-entry/ - h-entry validator
+- https://indiewebify.me/validate-h-card/ - h-card validator
+- https://indiewebify.me/validate-h-feed/ - h-feed validator
+- https://webmention.rocks/ - Webmention testing tools
 
 ## Taxonomy Management
 
