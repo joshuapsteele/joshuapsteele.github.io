@@ -1,0 +1,16 @@
+{{/* h-card microformat for IndieWeb identity */}}
+{{- with site.Params.profileMode }}
+<div class="h-card" style="display: none;">
+  {{- if .imageUrl }}
+  <img class="u-photo" src="{{ .imageUrl | absURL }}" alt="{{ site.Title }}">
+  {{- end }}
+  <a class="p-name u-url" href="{{ site.BaseURL }}">{{ site.Title }}</a>
+  {{- if .subtitle }}
+  <p class="p-note">{{ .subtitle }}</p>
+  {{- end }}
+  <a class="u-email" href="mailto:blog@joshuapsteele.com">blog@joshuapsteele.com</a>
+  {{- range site.Params.socialIcons }}
+  <a class="u-url" rel="me" href="{{ trim .url " " }}">{{ .name }}</a>
+  {{- end }}
+</div>
+{{- end }}

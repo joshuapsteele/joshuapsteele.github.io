@@ -369,3 +369,13 @@ body:not(.dark) .footer-logo {
         transform: translateY(0);
     }
 }
+
+/* h-card microformat styles - keep visible h-card natural looking */
+.profile h1 a.p-name {
+    color: inherit;
+    text-decoration: none;
+}
+
+.profile h1 a.p-name:hover {
+    text-decoration: none;
+}
