@@ -47,8 +47,6 @@ params:
     URL: "https://github.com/joshuapsteele/joshuapsteele.github.io/tree/main/content"
     Text: "View Source Code on GitHub" # edit text
     appendFilePath: true # to append file path to Edit link
-  footer:
-    text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
   fuseOpts:
     isCaseSensitive: false
     shouldSort: true
@@ -72,6 +70,10 @@ params:
         url: "/about/"
       - name: Blog 📝
         url: "/blog/"
+      - name: Categories 🗂️
+        url: "/categories/"
+      - name: Tags 🏷️
+        url: "/tags/"
       - name: Contact 📬
         url: "/contact/"
       - name: CV 📋
