@@ -609,3 +609,94 @@ body:not(.dark) .footer-logo {
 .reply-context-fallback a:hover {
     text-decoration: underline;
 }
+
+/* Micro.blog posts section */
+.microblog-section {
+    margin: 3em 0;
+}
+
+.microblog-section h2 {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: var(--content);
+}
+
+.microblog-posts .loading,
+.microblog-posts .error,
+.microblog-posts .no-posts {
+    color: var(--secondary);
+    font-style: italic;
+    padding: 1em;
+}
+
+.microblog-posts .error {
+    color: var(--tertiary);
+}
+
+.microblog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5em;
+}
+
+.microblog-post {
+    padding: 1.5em;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--entry);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.microblog-post:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.microblog-title {
+    margin: 0 0 0.5em 0;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+.microblog-title a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.microblog-title a:hover {
+    text-decoration: underline;
+}
+
+.microblog-content {
+    margin: 0.5em 0;
+    color: var(--content);
+    line-height: 1.6;
+}
+
+.microblog-content a {
+    color: var(--content);
+    text-decoration: none;
+}
+
+.microblog-content a:hover {
+    color: var(--primary);
+}
+
+.microblog-meta {
+    margin-top: 0.75em;
+    font-size: 0.9em;
+    color: var(--secondary);
+}
+
+.microblog-meta time {
+    margin-right: 0.5em;
+}
+
+.microblog-meta a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.microblog-meta a:hover {
+    text-decoration: underline;
+}

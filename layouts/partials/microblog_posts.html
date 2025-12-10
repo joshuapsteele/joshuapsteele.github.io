@@ -1,0 +1,106 @@
+{{- /* Display recent posts from Micro.blog */ -}}
+<div class="microblog-section">
+  <h2>Recent Micro.blog Posts</h2>
+  <div id="microblog-posts" class="microblog-posts">
+    <p class="loading">Loading recent posts from Micro.blog...</p>
+  </div>
+</div>
+
+<script>
+(function() {
+  // Micro.blog JSON feed URL
+  const feedUrl = 'https://social.joshuapsteele.com/feed.json';
+  const container = document.getElementById('microblog-posts');
+  const maxPosts = 5;
+
+  fetch(feedUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Failed to fetch feed');
+      return response.json();
+    })
+    .then(data => {
+      if (!data.items || data.items.length === 0) {
+        container.innerHTML = '<p class="no-posts">No recent posts found.</p>';
+        return;
+      }
+
+      // Take the first 5 posts
+      const posts = data.items.slice(0, maxPosts);
+      let html = '<div class="microblog-list">';
+
+      posts.forEach(post => {
+        const title = post.title || '';
+        const content = post.content_html || post.content_text || '';
+        const url = post.url || '';
+        const date = post.date_published ? new Date(post.date_published) : null;
+
+        html += '<article class="microblog-post">';
+
+        // Post title (if it exists)
+        if (title) {
+          html += '<h3 class="microblog-title"><a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + escapeHtml(title) + '</a></h3>';
+        }
+
+        // Post content (truncated)
+        if (content) {
+          // Strip HTML tags and get plain text
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = content;
+          let text = tempDiv.textContent || tempDiv.innerText || '';
+
+          // Truncate to 200 characters
+          if (text.length > 200) {
+            text = text.substring(0, 200) + '...';
+          }
+
+          if (!title) {
+            // If no title, make the content itself a link
+            html += '<p class="microblog-content"><a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">' + escapeHtml(text) + '</a></p>';
+          } else {
+            html += '<p class="microblog-content">' + escapeHtml(text) + '</p>';
+          }
+        }
+
+        // Post metadata
+        html += '<div class="microblog-meta">';
+        if (date) {
+          html += '<time datetime="' + date.toISOString() + '">' + formatDate(date) + '</time>';
+        }
+        html += ' · <a href="' + escapeHtml(url) + '" target="_blank" rel="noopener">View on Micro.blog →</a>';
+        html += '</div>';
+
+        html += '</article>';
+      });
+
+      html += '</div>';
+      container.innerHTML = html;
+    })
+    .catch(error => {
+      console.error('Error fetching Micro.blog posts:', error);
+      container.innerHTML = '<p class="error">Unable to load recent posts. <a href="https://social.joshuapsteele.com/" target="_blank" rel="noopener">Visit Micro.blog →</a></p>';
+    });
+
+  function escapeHtml(text) {
+    if (!text) return '';
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function formatDate(date) {
+    const now = new Date();
+    const diffTime = Math.abs(now - date);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+    if (diffDays === 0) {
+      return 'Today';
+    } else if (diffDays === 1) {
+      return 'Yesterday';
+    } else if (diffDays < 7) {
+      return diffDays + ' days ago';
+    } else {
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+  }
+})();
+</script>
