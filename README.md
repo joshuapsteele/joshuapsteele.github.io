@@ -9,6 +9,8 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 **Live Site**: [joshuapsteele.com](https://joshuapsteele.com)
 
+**Colophon**: [joshuapsteele.com/colophon](https://joshuapsteele.com/colophon) - Detailed information about how this site is built
+
 ## Tech Stack
 
 - **Static Site Generator**: [Hugo](https://gohugo.io/) 0.147.3 (Extended)
