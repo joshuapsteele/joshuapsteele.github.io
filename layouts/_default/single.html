@@ -85,6 +85,8 @@
 
   {{- partial "webmention_display.html" . -}}
 
+  {{- partial "connected_notes.html" . -}}
+
   {{- partial "popular_posts.html" (dict "context" . "limit" 5 "showHits" false "heading" "Popular Posts" "currentPath" .RelPermalink) -}}
 
   {{- if (.Param "comments") }}

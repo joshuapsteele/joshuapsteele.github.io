@@ -1,0 +1,31 @@
+{{- /* Connected Notes - shows related posts based on shared tags/categories */ -}}
+{{- $related := .Site.RegularPages.Related . | first 6 -}}
+{{- with $related -}}
+<div class="connected-notes-section">
+  <h3>🌿 Connected Notes</h3>
+  <p class="connected-notes-intro">Other notes growing in this area of the garden:</p>
+  <div class="connected-notes-grid">
+    {{- range . -}}
+    <article class="connected-note">
+      <h4 class="connected-note-title">
+        <a href="{{ .Permalink }}">{{ .Title }}</a>
+      </h4>
+      {{- with .Params.description -}}
+      <p class="connected-note-description">{{ . }}</p>
+      {{- else -}}
+      <p class="connected-note-description">{{ .Summary | plainify | htmlUnescape | truncate 120 }}</p>
+      {{- end -}}
+      <div class="connected-note-meta">
+        {{- with .Params.tags -}}
+        <span class="connected-note-tags">
+          {{- range first 3 . -}}
+          <span class="tag">{{ . }}</span>
+          {{- end -}}
+        </span>
+        {{- end -}}
+      </div>
+    </article>
+    {{- end -}}
+  </div>
+</div>
+{{- end -}}
