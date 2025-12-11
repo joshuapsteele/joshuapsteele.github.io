@@ -21,3 +21,4 @@
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
+{{- partial "webmention_counter.html" . -}}

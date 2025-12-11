@@ -1,0 +1,74 @@
+{{/* Webmention counter - shows interaction summary at top of post */}}
+<span id="webmention-counter" class="webmention-counter" style="display: none;">
+  <span class="separator">·</span>
+  <a href="#webmentions" class="webmention-counter-link" title="Jump to conversations">
+    <span id="webmention-counter-text">Loading interactions...</span>
+  </a>
+</span>
+
+<script>
+(function() {
+  const targetUrl = '{{ .Permalink }}';
+  const apiUrl = `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`;
+  const counter = document.getElementById('webmention-counter');
+  const counterText = document.getElementById('webmention-counter-text');
+
+  // Fetch webmentions count
+  fetch(apiUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Network response was not ok');
+      return response.json();
+    })
+    .then(data => {
+      if (!data.children || data.children.length === 0) {
+        counter.style.display = 'none';
+        return;
+      }
+
+      // Group and count by type
+      const counts = {
+        likes: 0,
+        reposts: 0,
+        replies: 0,
+        mentions: 0
+      };
+
+      data.children.forEach(mention => {
+        const type = mention['wm-property'];
+        if (type === 'like-of') {
+          counts.likes++;
+        } else if (type === 'repost-of') {
+          counts.reposts++;
+        } else if (type === 'in-reply-to') {
+          counts.replies++;
+        } else {
+          counts.mentions++;
+        }
+      });
+
+      // Build counter text
+      const parts = [];
+      if (counts.replies > 0) {
+        parts.push(`💬 ${counts.replies} ${counts.replies === 1 ? 'reply' : 'replies'}`);
+      }
+      if (counts.likes > 0) {
+        parts.push(`❤️ ${counts.likes}`);
+      }
+      if (counts.reposts > 0) {
+        parts.push(`🔁 ${counts.reposts}`);
+      }
+      if (counts.mentions > 0) {
+        parts.push(`🔗 ${counts.mentions}`);
+      }
+
+      if (parts.length > 0) {
+        counterText.textContent = parts.join(' · ');
+        counter.style.display = 'inline';
+      }
+    })
+    .catch(err => {
+      console.error('Error loading webmention count:', err);
+      counter.style.display = 'none';
+    });
+})();
+</script>

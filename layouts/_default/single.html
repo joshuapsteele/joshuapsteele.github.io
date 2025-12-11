@@ -68,14 +68,15 @@
   <div class="lets-talk-section">
     <hr>
     <h2>Let's Talk</h2>
+    <p class="lets-talk-intro">I'd love to hear your thoughts! Responses from <strong>Bluesky</strong>, <strong>Mastodon</strong>, and <strong>Micro.blog</strong> will appear below.</p>
     <div class="post-reply-buttons">
       <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
         📧 Reply via email
       </a>
-      <a href="https://bsky.app/intent/compose?text={{ printf "@joshuapsteele.bsky.social Re: %s %s" .Title .Permalink | urlquery }}" class="reply-button">
+      <a href="https://bsky.app/intent/compose?text={{ printf "@joshuapsteele.bsky.social Re: %s %s" .Title .Permalink | urlquery }}" class="reply-button" target="_blank" rel="noopener">
         🦋 Reply via Bluesky
       </a>
-      <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button">
+      <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button" target="_blank" rel="noopener">
         🌐 Reply via Micro.blog
       </a>
     </div>

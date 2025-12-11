@@ -380,19 +380,49 @@ body:not(.dark) .footer-logo {
     text-decoration: none;
 }
 
+/* Webmention counter in post meta */
+.webmention-counter {
+    display: inline;
+}
+
+.webmention-counter .separator {
+    margin: 0 0.3em;
+}
+
+.webmention-counter-link {
+    color: var(--secondary);
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.webmention-counter-link:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+/* Let's Talk section enhancements */
+.lets-talk-intro {
+    margin-bottom: 1.5em;
+    color: var(--secondary);
+    font-size: 0.95em;
+    line-height: 1.6;
+}
+
 /* Webmentions display styles */
 .webmentions-section {
     margin: 3em 0;
     padding: 2em;
-    border: 2px solid var(--border);
-    border-radius: 8px;
+    border: 3px solid var(--primary);
+    border-radius: 12px;
     background: var(--code-bg);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .webmentions-section h3 {
     margin-top: 0;
     margin-bottom: 1em;
     color: var(--primary);
+    font-size: 1.5em;
 }
 
 .webmentions-loading,
@@ -534,6 +564,40 @@ body:not(.dark) .footer-logo {
 }
 
 .webmention-mention a:hover {
+    text-decoration: underline;
+}
+
+/* Enhanced empty state for webmentions */
+.webmentions-empty-state {
+    padding: 1.5em;
+    text-align: center;
+}
+
+.empty-state-message {
+    font-size: 1.1em;
+    color: var(--content);
+    margin-bottom: 1em;
+    font-weight: 600;
+}
+
+.empty-state-explanation {
+    color: var(--secondary);
+    line-height: 1.7;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.empty-state-explanation strong {
+    color: var(--content);
+    font-weight: 600;
+}
+
+.empty-state-explanation a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.empty-state-explanation a:hover {
     text-decoration: underline;
 }
 

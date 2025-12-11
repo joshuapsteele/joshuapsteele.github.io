@@ -1,8 +1,8 @@
 {{/* Webmention display section - shows received webmentions via JavaScript */}}
 <div class="webmentions-section" id="webmentions">
-  <h3>Webmentions</h3>
+  <h3 id="webmentions-heading">💬 Join the Conversation</h3>
   <div id="webmentions-loading" class="webmentions-loading">
-    Loading mentions...
+    Loading interactions...
   </div>
   <div id="webmentions-error" class="webmentions-error" style="display: none;">
     Unable to load webmentions. <a href="https://webmention.io/{{ .Site.BaseURL | replaceRE "^https?://" "" }}/webmention/{{ .Permalink | urlize }}">View on webmention.io</a>
@@ -10,8 +10,11 @@
   <div id="webmentions-container">
     <!-- Webmentions will be inserted here by JavaScript -->
   </div>
-  <div id="webmentions-none" style="display: none;">
-    <p>No webmentions yet. Be the first to <a href="https://webmention.rocks/">send a webmention</a>!</p>
+  <div id="webmentions-none" class="webmentions-empty-state" style="display: none;">
+    <p class="empty-state-message">No interactions yet. Be the first to respond!</p>
+    <p class="empty-state-explanation">
+      When you reply to this post on <strong>Bluesky</strong>, <strong>Mastodon</strong>, or <strong>Micro.blog</strong>, your response will automatically appear here via <a href="https://indieweb.org/Webmention" target="_blank" rel="noopener">webmentions</a>. You can also write a blog post response or email me directly using the buttons above.
+    </p>
   </div>
 </div>
 
@@ -59,6 +62,13 @@
           mentions.mentions.push(mention);
         }
       });
+
+      // Update heading with count
+      const totalCount = mentions.likes.length + mentions.reposts.length + mentions.replies.length + mentions.mentions.length;
+      const heading = document.getElementById('webmentions-heading');
+      if (heading && totalCount > 0) {
+        heading.textContent = `💬 Conversations (${totalCount})`;
+      }
 
       // Render each type
       let html = '';
