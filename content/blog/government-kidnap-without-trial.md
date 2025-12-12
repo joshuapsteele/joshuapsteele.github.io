@@ -5,14 +5,14 @@ date: 2025-04-18
 description: If the government can take people without due process, none of our rights
   are safe. Why habeas corpus and due process matter for all of us.
 draft: false
-tags:
-- civil rights
-- due process
-- habeas corpus
-- immigration
-- constitutional law
 title: When the Government Can Kidnap Without Trial, None of Us Are Safe
 url: /government-kidnap-without-trial/
+tags:
+  - civil-rights
+  - due-process
+  - habeas-corpus
+  - immigration
+  - constitutional-law
 ---
 
 Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.

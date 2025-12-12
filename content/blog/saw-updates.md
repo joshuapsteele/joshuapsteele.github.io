@@ -6,12 +6,12 @@ description: The Table Saw I know you've all been waiting for (lol) updates on m
   vintage 1947 Craftsman 113 table saw.
 draft: false
 showToc: false
-tags:
-- home improvement
-- diy
-- tools
 title: Saw Updates
 url: /saw-updates/
+tags:
+  - home-improvement
+  - diy
+  - tools
 ---
 
 ## The Table Saw

@@ -4,15 +4,15 @@ categories: productivity
 date: '2023-03-23T12:29:48Z'
 description: Dale Carnegie's timeless principles for mastering interpersonal relationships
   have helped millions excel in personal and professional life.
-tags:
-- communication
-- friendship
-- leadership
-- relationships
-- soft skills
 title: Master the Art of Interpersonal Relationships with "How to Win Friends and
   Influence People"
 url: /master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people/
+tags:
+  - communication
+  - friendship
+  - leadership
+  - relationships
+  - soft-skills
 ---
 
 Dale Carnegie’s timeless classic, *[How to Win Friends and Influence People](https://amzn.to/3K0VcaM)*, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.

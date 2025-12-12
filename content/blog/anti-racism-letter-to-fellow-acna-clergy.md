@@ -4,13 +4,13 @@ categories: ministry
 date: '2020-06-01T07:00:51Z'
 description: 'NOTE**: As is our policy with *all* Anglican Compass content, we ask
   that you please submit a request before republishing content.'
-tags:
-- anglican compass
-- race
-- racism
 title: 'A Letter to Fellow ACNA Clergy: On Anti-Racism and a More Diverse and Just
   Anglicanism'
 url: /anti-racism-letter-to-fellow-acna-clergy/
+tags:
+  - anglican-compass
+  - race
+  - racism
 ---
 
 **NOTE**: As is our policy with *all* Anglican Compass content, we ask that you [please submit a request before republishing content](https://anglicancompass.com/republishing-guidelines/).

@@ -8,13 +8,13 @@ date: '2023-02-03T17:42:02Z'
 description: From Bible major to bi-vocational ministry to software engineer—how I
   made the career transition through coding bootcamp.
 jetpack_seo_html_title: null
-tags:
-- coding
-- coding bootcamp
-- programming
-- software
 title: 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 url: /my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/
+tags:
+  - coding
+  - coding-bootcamp
+  - programming
+  - software
 ---
 
 When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.

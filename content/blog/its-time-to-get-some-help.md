@@ -4,10 +4,10 @@ categories: personal
 date: '2020-09-02T17:19:39Z'
 description: Due to increased symptoms of depression and anxiety in recent weeks,
   I’ve decided to try out a combination of counseling and medication.
-tags:
-- mental health
 title: It's Time to Get Some Help
 url: /its-time-to-get-some-help/
+tags:
+  - mental-health
 ---
 
 Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.

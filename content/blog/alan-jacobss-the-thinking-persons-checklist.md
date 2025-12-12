@@ -4,12 +4,12 @@ categories: ethics
 date: '2019-11-18T15:03:16Z'
 description: Alan Jacobs' practical checklist for critical thinking, charitable discourse,
   and resisting tribal reflexes in polarized times.
-tags:
-- 8020
-- reading
-- how to think
 title: Alan Jacobs’s “The Thinking Person’s Checklist”
 url: /alan-jacobss-the-thinking-persons-checklist/
+tags:
+  - 8020
+  - reading
+  - how-to-think
 ---
 
 The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, [*How to Think: A Survival Guide for a World at Odds*](https://amzn.to/33TtBRv) (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, [“Help me come up with ‘rules for conversation’!”](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/)).

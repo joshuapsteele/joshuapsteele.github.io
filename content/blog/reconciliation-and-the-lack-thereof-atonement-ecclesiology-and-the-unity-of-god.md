@@ -5,13 +5,13 @@ date: 2012-12-10
 categories:
   - theology
   - ethics
+description: "An exploration of church unity through the lens of atonement theology, arguing that God's divine perfection of unity provides the theological framework for understanding both Christ's reconciling work and the church's calling to be one."
 tags:
   - atonement
   - church-unity
   - ecclesiology
-  - Barth
+  - barth
   - reconciliation
-description: "An exploration of church unity through the lens of atonement theology, arguing that God's divine perfection of unity provides the theological framework for understanding both Christ's reconciling work and the church's calling to be one."
 ---
 
 (NOTE: I wrote this essay for my Senior Seminar/Capstone at Cedarville University. You can download the [original undergraduate thesis PDF](/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf).)

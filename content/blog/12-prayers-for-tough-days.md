@@ -3,11 +3,11 @@ author: joshuapsteele
 categories: ethics
 date: 2020-03-02T21:35:28Z
 description: Twelve occasional prayers from the 2019 Book of Common Prayer for times of trouble, bereavement, anxiety, and spiritual struggle.
-tags:
-  - book of common prayer
-  - prayer
 title: 12 Prayers for Tough Days
 url: /12-prayers-for-tough-days/
+tags:
+  - book-of-common-prayer
+  - prayer
 ---
 
 The “Occasional Prayers” section of the Book of Common Prayer is a goldmine, particularly when the going gets tough.

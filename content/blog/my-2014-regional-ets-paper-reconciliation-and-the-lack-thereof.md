@@ -5,12 +5,12 @@ categories:
   - ethics
 date: 2014-03-21
 description: "Presenting my ETS paper on reconciliation, atonement, ecclesiology, and the unity of God at Beeson Divinity School today."
+title: "My 2014 Regional ETS Paper: Reconciliation and the Lack Thereof"
 tags:
   - atonement
   - church-unity
   - conferences
-  - Karl-Barth
-title: "My 2014 Regional ETS Paper: Reconciliation and the Lack Thereof"
+  - barth
 ---
 
 If you're interested, I'm presenting my Regional ETS paper today at 5:00pm at Beeson Divinity School, room S009.

@@ -4,12 +4,12 @@ categories: productivity
 date: '2023-03-09T14:10:31Z'
 description: I’m posting my answers to these software engineering questions here,
   just in case anyone else finds them helpful.
-tags:
-- software
-- software engineering
-- technology
 title: 'Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student'
 url: /ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/
+tags:
+  - software
+  - software-engineering
+  - technology
 ---
 
 I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)

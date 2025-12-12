@@ -6,10 +6,10 @@ categories:
 date: '2019-11-21T22:04:08Z'
 description: I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon
   on the Mount.
-tags:
-- sermon on the mount
 title: Interpretive Approaches to the Sermon on the Mount
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
+tags:
+  - sermon-on-the-mount
 ---
 
 I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.

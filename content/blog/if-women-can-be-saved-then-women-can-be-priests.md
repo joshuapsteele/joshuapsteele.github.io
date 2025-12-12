@@ -6,14 +6,14 @@ categories:
 - theology
 date: '2019-09-26T05:00:18Z'
 description: 'Emily McGowin argues against the ''in persona Christi'' argument against women''s ordination.'
-tags:
-- anglican compass
-- women's ordination
 title: 'If Women Can Be Saved, Then Women Can Be Priests: A Critique of the ''in persona
   Christi'' Argument Against Women''s Ordination'
 url: /if-women-can-be-saved-then-women-can-be-priests/
 layout: redirect
 redirect_to: https://inchristus.com/2025/11/17/if-women-can-be-saved-then-women-can-be-priests-a-critique-of-the-in-persona-christi-argument-against-womens-ordination/
+tags:
+  - anglican-compass
+  - womens-ordination
 ---
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*

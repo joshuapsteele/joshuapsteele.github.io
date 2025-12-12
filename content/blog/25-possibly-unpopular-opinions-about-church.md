@@ -5,11 +5,11 @@ author: joshuapsteele
 categories:
 - ethics
 - theology
-tags:
-- local churches
-- worship styles
 description: Candid thoughts on American church culture, from worship styles and political engagement to leadership practices and theological priorities.
 url: /25-possibly-unpopular-opinions-about-church/
+tags:
+  - local-churches
+  - worship-styles
 ---
 The following are some of my opinions, held with varying levels of intensity, about church/churches.
 

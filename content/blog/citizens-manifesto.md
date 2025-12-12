@@ -9,13 +9,13 @@ description: Democracy is not a finished product but an ongoing experiment that 
   constant deliberation, refinement, and renewal.
 draft: false
 showToc: true
-tags:
-- democracy
-- constitutionalism
-- civic virtue
-- civic engagement
 title: 'A Citizen''s Manifesto: Working Principles for Democratic Renewal'
 url: /citizens-manifesto/
+tags:
+  - democracy
+  - constitutionalism
+  - civic-virtue
+  - civic-engagement
 ---
 
 Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue. 

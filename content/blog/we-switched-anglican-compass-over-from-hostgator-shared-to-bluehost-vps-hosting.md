@@ -4,10 +4,10 @@ categories: ministry
 date: '2020-05-16T15:28:17Z'
 description: Successfully migrated Anglican Compass from HostGator shared hosting
   to Bluehost VPS—hoping this improves site performance.
-tags:
-- anglican compass
 title: We switched Anglican Compass over from HostGator Shared to Bluehost VPS Hosting
 url: /we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/
+tags:
+  - anglican-compass
 ---
 
 As of this morning, it looks like everything for [Anglican Compass](https://anglicancompass.com/) has been successfully moved over from our HostGator shared hosting to Bluehost VPS hosting.

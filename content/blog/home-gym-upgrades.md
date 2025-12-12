@@ -4,11 +4,11 @@ categories: personal
 date: '2024-03-11T21:15:17Z'
 description: I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the
   gym. So, I’ve long wanted a nice home gym.
-tags:
-- home gym
-- weightlifting
 title: Home Gym Upgrades
 url: /home-gym-upgrades/
+tags:
+  - home-gym
+  - weightlifting
 ---
 
 I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.

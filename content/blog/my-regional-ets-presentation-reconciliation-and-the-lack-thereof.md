@@ -5,12 +5,12 @@ categories:
   - ethics
 date: 2014-03-07
 description: "Invitation to my 2014 ETS Southeastern Regional Meeting presentation on reconciliation, atonement, ecclesiology, and the unity of God at Beeson Divinity School."
+title: "My Regional ETS Presentation: Reconciliation and the Lack Thereof"
 tags:
   - atonement
   - church-unity
   - conferences
-  - Karl-Barth
-title: "My Regional ETS Presentation: Reconciliation and the Lack Thereof"
+  - barth
 ---
 
 If you're in the Birmingham area from March 21-22, 2014, and you're interested in evangelical theology, please consider attending the [Evangelical Theological Society's Southeastern Regional Meeting at Beeson Divinity School](http://www.beesondivinity.com/ets)! This year's theme is "the theological interpretation of Scripture," and the plenary speaker is Wheaton's [Daniel J. Treier](http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier) (incidentally, Dr. Treier and I are both alumni of Cedarville).

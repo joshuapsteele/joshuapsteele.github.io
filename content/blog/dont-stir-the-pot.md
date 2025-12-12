@@ -4,12 +4,12 @@ categories: theology
 date: '2020-05-21T20:21:06Z'
 description: On the predictable 'don't stir the pot' reaction whenever Anglican Compass
   publishes anything favoring women's ordination.
-tags:
-- anglican
-- anglican compass
-- women's ordination
 title: Don't Stir the Pot?
 url: /dont-stir-the-pot/
+tags:
+  - anglican
+  - anglican-compass
+  - womens-ordination
 ---
 
 I'm pondering the "don't stir the pot" reaction that reliably happens every time we publish something on women's ordination—most especially anything in *favor* of women's ordination—[over at Anglican Compass](https://anglicancompass.com/), where I'm the Managing Editor.
