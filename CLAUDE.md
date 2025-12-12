@@ -27,6 +27,7 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 - **Processed Assets**: `assets/css/extended/custom.css` for theme CSS extensions
 - **Configuration**: `hugo.yaml` (main site configuration)
 - **Build Output**: `public/` directory (generated, git-ignored, never edit directly)
+- **Templates**: Obsidian blog post templates in `templates/` directory (for use with Obsidian editor)
 
 ## Development Commands
 
@@ -235,6 +236,35 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 ## Common Workflows
 
 ### Adding a New Blog Post
+
+**Option 1: Using Obsidian Templates (Recommended)**
+1. Open Obsidian vault (set to repo root or use symlink to `content/blog/`)
+2. Create new note in `content/blog/`
+3. Insert template (Cmd+P → "Insert template" → choose template):
+   - `blog-post-full.md` - Complete article with metadata
+   - `blog-post-quick.md` - Simple post
+   - `blog-post-micro.md` - Quick note without title
+   - `blog-post-reply.md` - Reply to another post
+   - `blog-post-draft.md` - Work in progress
+   - `blog-post-with-image.md` - Post with cover image
+4. Fill in content and metadata
+5. Save file with kebab-case name (e.g., `my-new-post.md`)
+6. Commit and push (via Obsidian Git plugin, Working Copy, or command line)
+
+See `templates/README.md` for detailed template documentation.
+
+**Option 2: Using Drafts App (Mobile)**
+1. Write post in Drafts app (first line = title, rest = body)
+2. Run one of the Drafts actions:
+   - "Quick Blog Post" - Fast publishing
+   - "Full Blog Post" - Prompts for metadata
+   - "Micro Post" - No title needed
+3. Post is automatically committed to GitHub
+4. GitHub Actions builds site in 2-3 minutes
+
+See `DRAFTS-ACTIONS.md` for Drafts setup and usage.
+
+**Option 3: Manual Creation**
 1. Create new markdown file in `content/blog/` with kebab-case name (e.g., `my-new-post.md`)
 2. Add YAML front matter with required fields: `title`, `date`, `tags`, `categories`
 3. Optional fields: `description`, `draft: true`, `featured_image`
