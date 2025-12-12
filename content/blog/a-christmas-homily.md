@@ -1,11 +1,13 @@
 ---
 author: joshuapsteele
 categories: theology
-date: '2016-12-28T14:38:54Z'
-description: A Christmas homily reflecting on disappointment, shattered expectations,
-  and finding hope when God doesn't meet our timing or plans.
+date: 2016-12-28T14:38:54Z
+description: A Christmas homily reflecting on disappointment, shattered expectations, and finding hope when God doesn't meet our timing or plans.
 title: A Disappointing Christmas Homily
 url: /a-christmas-homily/
+tags:
+  - sermons
+  - christmas
 ---
 
 Good morning! And Merry Christmas!

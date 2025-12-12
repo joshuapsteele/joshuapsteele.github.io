@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2024-09-26T11:39:54Z'
-description: A dad's heartwarming list of what makes his three kids special, from
-  baptizing them as babies to their love of books and Bible stories.
+date: 2024-09-26T11:39:54Z
+description: A dad's heartwarming list of what makes his three kids special, from baptizing them as babies to their love of books and Bible stories.
 tags:
-- kids
-- parenting
+  - kids
+  - parenting
+  - list
 title: 10 Things I Love About My Kids
 url: /10-things-i-love-about-my-kids/
 ---

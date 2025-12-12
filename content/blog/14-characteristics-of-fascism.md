@@ -1,18 +1,19 @@
 ---
 author: joshuapsteele
-categories: ethics
+categories:
+  - ethics
 date: 2025-06-10 11:49:55-04:00
-description: Exploring Umberto Eco's 14 characteristics of Ur-Fascism, from the cult
-  of tradition to the impoverishment of language that limits critical thought.
+description: Exploring Umberto Eco's 14 characteristics of Ur-Fascism, from the cult of tradition to the impoverishment of language that limits critical thought.
 draft: false
 showToc: true
 tags:
-- fascism
-- authoritarianism
-- politics
-- ethics
-- umberto eco
-title: '14 Characteristics of Fascism: Umberto Eco on Ur-Fascism'
+  - fascism
+  - authoritarianism
+  - politics
+  - ethics
+  - umberto-eco
+  - list
+title: "14 Characteristics of Fascism: Umberto Eco on Ur-Fascism"
 url: /14-characteristics-of-fascism/
 ---
 

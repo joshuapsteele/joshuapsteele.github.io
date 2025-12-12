@@ -1,10 +1,10 @@
 ---
 author: joshuapsteele
-categories: personal
-date: '2015-12-08T11:45:35Z'
-description: A seminary student's theological outline centering on Christ's cross
-  as the heart of Christian faith, from creation to consummation.
-title: 'Theology in Outline: What Do I Believe?'
+categories:
+  - theology
+date: 2015-12-08T11:45:35Z
+description: A seminary student's theological outline centering on Christ's cross as the heart of Christian faith, from creation to consummation.
+title: "Theology in Outline: What Do I Believe?"
 url: /theology-outline/
 ---
 

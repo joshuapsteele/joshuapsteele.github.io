@@ -3,14 +3,14 @@ TocOpen: true
 author: joshuapsteele
 categories: ethics
 date: 2025-06-09 09:49:40-04:00
-description: Gene Sharp's comprehensive guide to nonviolent resistance, from symbolic
-  protests and economic boycotts to political noncooperation and intervention.
+description: Gene Sharp's comprehensive guide to nonviolent resistance, from symbolic protests and economic boycotts to political noncooperation and intervention.
 draft: false
 showToc: true
 tags:
-- tyranny
-- authoritarianism
-title: '198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp'
+  - tyranny
+  - authoritarianism
+  - list
+title: "198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp"
 url: /198-ways-to-fight-tyranny/
 ---
 

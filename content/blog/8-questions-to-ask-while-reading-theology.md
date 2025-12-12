@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories: theology
-date: '2018-08-16T15:11:12Z'
-description: Beth Felker Jones' practical framework for evaluating theological texts,
-  from identifying key teachings to assessing practical implications.
+date: 2018-08-16T15:11:12Z
+description: Beth Felker Jones' practical framework for evaluating theological texts, from identifying key teachings to assessing practical implications.
 tags:
-- questions
-- reading
+  - questions
+  - reading
+  - list
 title: 8 Questions to Ask While Reading Theology
 url: /8-questions-to-ask-while-reading-theology/
 ---

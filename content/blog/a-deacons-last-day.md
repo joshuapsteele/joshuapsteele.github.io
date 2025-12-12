@@ -1,9 +1,10 @@
 ---
 author: joshuapsteele
-categories: ministry
-date: '2019-11-02T02:35:27Z'
-description: Reflections on the eve of priestly ordination, transitioning from deacon
-  to priest in service of Christ's Church.
+categories:
+  - ministry
+  - personal
+date: 2019-11-02T02:35:27Z
+description: Reflections on the eve of priestly ordination, transitioning from deacon to priest in service of Christ's Church.
 title: A Deacon's Last Day
 url: /a-deacons-last-day/
 ---

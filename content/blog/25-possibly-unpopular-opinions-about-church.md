@@ -1,15 +1,17 @@
 ---
 title: 25 Possibly Unpopular Opinions about Church
-date: '2024-02-27T13:42:02Z'
+date: 2024-02-27T13:42:02Z
 author: joshuapsteele
 categories:
-- ethics
-- theology
+  - ethics
+  - theology
 description: Candid thoughts on American church culture, from worship styles and political engagement to leadership practices and theological priorities.
 url: /25-possibly-unpopular-opinions-about-church/
 tags:
   - local-churches
   - worship-styles
+  - church
+  - list
 ---
 The following are some of my opinions, held with varying levels of intensity, about church/churches.
 

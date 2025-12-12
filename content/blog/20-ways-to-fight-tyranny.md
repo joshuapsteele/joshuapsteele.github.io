@@ -3,14 +3,14 @@ TocOpen: true
 author: joshuapsteele
 categories: ethics
 date: 2025-06-09 09:49:40-04:00
-description: Timothy Snyder's 20 essential lessons from the twentieth century on resisting
-  authoritarianism and defending freedom in dark times.
+description: Timothy Snyder's 20 essential lessons from the twentieth century on resisting authoritarianism and defending freedom in dark times.
 draft: false
 showToc: true
 tags:
-- tyranny
-- authoritarianism
-title: '20 Ways to Fight Tyranny: Lessons from Timothy Snyder'
+  - tyranny
+  - authoritarianism
+  - list
+title: "20 Ways to Fight Tyranny: Lessons from Timothy Snyder"
 url: /20-ways-to-fight-tyranny/
 ---
 

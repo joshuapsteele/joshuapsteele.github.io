@@ -1,10 +1,13 @@
 ---
 author: joshuapsteele
-categories: theology
-date: '2024-09-04T10:51:34Z'
+categories:
+  - personal
+date: 2024-09-04T10:51:34Z
 description: Six things I'm excited about in August 2024.
 title: 6 Things I'm Excited About (2024-08-04)
 url: /6-things-im-excited-about-2024-08-04/
+tags:
+  - list
 ---
 
 1. Sweater weather

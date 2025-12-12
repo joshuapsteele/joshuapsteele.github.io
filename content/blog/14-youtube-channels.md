@@ -2,11 +2,11 @@
 author: joshuapsteele
 categories: personal
 date: 2025-05-15 17:11:46-04:00
-description: A curated collection of DIY, automotive, engineering, and educational
-  YouTube channels for makers, tinkerers, and curious minds.
+description: A curated collection of DIY, automotive, engineering, and educational YouTube channels for makers, tinkerers, and curious minds.
 draft: false
 tags:
-- youtube
+  - youtube
+  - list
 title: 14 Youtube Channels I Like
 url: /14-youtube-channels/
 ---

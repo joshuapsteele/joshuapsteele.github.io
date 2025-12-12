@@ -8,6 +8,7 @@ url: /3-confessions-expectant-father/
 tags:
   - parenting
   - kids
+  - list
 ---
 
 ## We’re Expecting!
