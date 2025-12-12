@@ -29,22 +29,11 @@ These templates are designed for use with Obsidian to create blog posts for this
 
 **Best for**: Short thoughts, announcements, simple posts
 
----
-
-### 3. Micro Post (`blog-post-micro.md`)
-**Use for**: Twitter-style quick notes without titles
-
-**Contains**:
-- Full ISO timestamp (date + time)
-- Auto-tagged as "micro"
-- Auto-categorized as "Notes"
-- No title field
-
-**Best for**: Quick thoughts, links, brief observations
+**Note**: For Twitter-style micro posts, use [Micro.blog](https://micro.blog/) instead - it's designed for that workflow!
 
 ---
 
-### 4. Reply Post (`blog-post-reply.md`)
+### 3. Reply Post (`blog-post-reply.md`)
 **Use for**: Responding to others' blog posts
 
 **Contains**:
@@ -59,7 +48,7 @@ These templates are designed for use with Obsidian to create blog posts for this
 
 ---
 
-### 5. Draft Post (`blog-post-draft.md`)
+### 4. Draft Post (`blog-post-draft.md`)
 **Use for**: Work-in-progress posts
 
 **Contains**:
@@ -135,11 +124,8 @@ These templates are designed for use with Obsidian to create blog posts for this
 
 ## Filename Conventions
 
-**For titled posts**: Use kebab-case matching the title
+Use kebab-case matching the title:
 - Example: `my-awesome-post.md`
-
-**For micro posts**: Use first few words + timestamp
-- Example: `thinking-about-indieweb-1430.md`
 
 **Hugo will generate URLs** from filenames:
 - `my-awesome-post.md` → `joshuapsteele.com/blog/my-awesome-post`
@@ -227,7 +213,6 @@ Keep categories broad:
 - Writing
 - Theology
 - Personal
-- Notes (for micro posts)
 
 ### Descriptions
 - Keep to 1-2 sentences

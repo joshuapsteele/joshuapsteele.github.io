@@ -63,27 +63,7 @@ The body of your post starts here.
 
 **Best for**: Polished posts where you want to set all metadata upfront
 
----
-
-### 3. Micro Post (`drafts-action-micro-post.js`)
-
-**Purpose**: Quick notes and thoughts without titles
-
-**Format**:
-```
-Just write your thought here. No title needed.
-Can be multiple lines.
-```
-
-**Features**:
-- No title required
-- Auto-generates filename from first 40 chars + timestamp
-- Uses full ISO timestamp in front matter
-- Auto-tags as `["micro"]`
-- Auto-categorizes as `["Notes"]`
-- Timestamp ensures unique filenames
-
-**Best for**: Twitter-style quick thoughts, links, photos with captions
+**Note**: For quick micro-blog style posts, use [Micro.blog](https://micro.blog/) instead - it's designed for that workflow and cross-posts to social media automatically.
 
 ---
 
@@ -118,14 +98,6 @@ Can be multiple lines.
    - Paste into script editor
    - Save
 
-   **For Micro Post**:
-   - Tap action menu (⚡️ icon) → "+"
-   - Name: `Micro Post`
-   - Add "Script" step
-   - Copy contents of `drafts-action-micro-post.js`
-   - Paste into script editor
-   - Save
-
 ### Using the Actions
 
 1. Create a new draft in Drafts app
@@ -156,8 +128,7 @@ Can be multiple lines.
 - Re-authorize if needed
 
 ### "Could not generate filename"
-- For titled posts: First line must contain alphanumeric characters
-- For micro posts: Content must have at least some alphanumeric characters
+- First line must contain alphanumeric characters to generate a valid filename
 
 ### "Failed to publish" (403)
 - Token may have expired - generate new one at https://github.com/settings/tokens

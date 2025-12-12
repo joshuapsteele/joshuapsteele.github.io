@@ -861,3 +861,19 @@ body:not(.dark) .footer-logo {
         grid-template-columns: 1fr;
     }
 }
+
+/* ====================================
+   Micro Posts
+   ==================================== */
+
+/* Style for titleless micro posts in list view */
+.micro-post-title {
+    font-style: italic;
+    opacity: 0.85;
+    font-weight: 500;
+}
+
+.micro-post-title::before {
+    content: "💬 ";
+    opacity: 0.5;
+}

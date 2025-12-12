@@ -74,7 +74,12 @@
   {{- partial "cover.html" (dict "cxt" . "IsSingle" false "isHidden" $isHidden) }}
   <header class="entry-header">
     <h2 class="entry-hint-parent p-name">
-      {{- .Title }}
+      {{- if .Title -}}
+        {{- .Title }}
+      {{- else -}}
+        {{- /* For micro posts without titles, show truncated content */ -}}
+        <span class="micro-post-title">{{ .Summary | plainify | htmlUnescape | truncate 80 }}</span>
+      {{- end -}}
       {{- if .Draft }}
       <span class="entry-hint" title="Draft">
         <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">

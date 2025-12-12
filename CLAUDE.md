@@ -243,7 +243,6 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 3. Insert template (Cmd+P → "Insert template" → choose template):
    - `blog-post-full.md` - Complete article with metadata
    - `blog-post-quick.md` - Simple post
-   - `blog-post-micro.md` - Quick note without title
    - `blog-post-reply.md` - Reply to another post
    - `blog-post-draft.md` - Work in progress
    - `blog-post-with-image.md` - Post with cover image
@@ -258,11 +257,12 @@ See `templates/README.md` for detailed template documentation.
 2. Run one of the Drafts actions:
    - "Quick Blog Post" - Fast publishing
    - "Full Blog Post" - Prompts for metadata
-   - "Micro Post" - No title needed
 3. Post is automatically committed to GitHub
 4. GitHub Actions builds site in 2-3 minutes
 
 See `DRAFTS-ACTIONS.md` for Drafts setup and usage.
+
+**Note**: For micro-blog style posts without titles, use [Micro.blog](https://micro.blog/) instead - it integrates better with social media.
 
 **Option 3: Manual Creation**
 1. Create new markdown file in `content/blog/` with kebab-case name (e.g., `my-new-post.md`)

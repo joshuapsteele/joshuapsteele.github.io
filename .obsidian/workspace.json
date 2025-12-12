@@ -11,10 +11,14 @@
             "id": "d006105824340ed2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/testing-my-full-post-to-hugo-drafts-action.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "testing-my-full-post-to-hugo-drafts-action"
             }
           }
         ]
@@ -189,6 +193,17 @@
   },
   "active": "d006105824340ed2",
   "lastOpenFiles": [
+    "public/tags/zanzibar/feed.xml",
+    "public/tags/writing/feed.xml",
+    "public/tags/youtube/feed.xml",
+    "public/tags/worship-styles/feed.xml",
+    "public/tags/womens-ordination/feed.xml",
+    "public/tags/weightlifting/feed.xml",
+    "public/tags/umberto-eco/feed.xml",
+    "public/tags/tyranny/feed.xml",
+    "public/tags/song/feed.xml",
+    "public/tags/tools/feed.xml",
+    "public/tags/theology/feed.xml",
     "content/blog/testing-my-micro-post-to-hugo-drafts-act-1615.md",
     "content/blog/testing-my-full-post-to-hugo-drafts-action.md",
     "templates/blog-post-with-image.md",
@@ -205,7 +220,6 @@
     "content/blog/10-things-i-love-about-my-kids.md",
     "content/blog/8-questions-to-ask-while-reading-theology.md",
     "content/blog/6-things-im-excited-about-2024-08-04.md",
-    "templates",
     "content/blog/5-books-every-christian-read.md",
     "README.md"
   ]
