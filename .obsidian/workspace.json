@@ -11,14 +11,10 @@
             "id": "d006105824340ed2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/testing-my-full-post-to-hugo-drafts-action.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "testing-my-full-post-to-hugo-drafts-action"
+              "title": "New tab"
             }
           }
         ]
