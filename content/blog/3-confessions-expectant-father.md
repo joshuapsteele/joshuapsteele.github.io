@@ -1,10 +1,12 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2018-02-27T12:29:34Z'
+date: 2018-02-27T12:29:34Z
 description: An honest reflection on fears, uncertainties, and hopes as a first-time father awaits the arrival of baby 'Lump' in August.
 title: 3 Confessions of an Expectant Father
 url: /3-confessions-expectant-father/
+tags:
+  - parenting
 ---
 
 ## We’re Expecting!

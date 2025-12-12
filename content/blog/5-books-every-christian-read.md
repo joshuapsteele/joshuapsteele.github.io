@@ -1,11 +1,13 @@
 ---
 author: joshuapsteele
 categories: productivity
-date: '2018-01-31T03:59:33Z'
-description: Essential reading recommendations covering the Bible, theology, church
-  history, ethics, and Christian living for busy believers.
+date: 2018-01-31T03:59:33Z
+description: Essential reading recommendations covering the Bible, theology, church history, ethics, and Christian living for busy believers.
 title: 5 Books Every Christian Should Read
 url: /5-books-every-christian-read/
+tags:
+  - books
+  - reading
 ---
 
 OK, OK. I get it. Claiming that every Christian should read these 5 books is a bold claim.
