@@ -1,11 +1,11 @@
 ---
 author: joshuapsteele
 categories: ethics
-date: '2020-03-02T21:35:28Z'
-description: Twelve occasional prayers from the 2019 Book of Common Prayer for times
-  of trouble, bereavement, anxiety, and spiritual struggle.
+date: 2020-03-02T21:35:28Z
+description: Twelve occasional prayers from the 2019 Book of Common Prayer for times of trouble, bereavement, anxiety, and spiritual struggle.
 tags:
-- book of common prayer
+  - book of common prayer
+  - prayer
 title: 12 Prayers for Tough Days
 url: /12-prayers-for-tough-days/
 ---

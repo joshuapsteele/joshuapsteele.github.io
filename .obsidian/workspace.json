@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f826bbc4a0e88290",
+        "id": "1da9394984171af8",
         "type": "tabs",
         "children": [
           {
-            "id": "fa8d3a920f3f1acc",
+            "id": "d006105824340ed2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/6-things-im-excited-about-2024-08-04.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6-things-im-excited-about-2024-08-04"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/blog/6-things-im-excited-about-2024-08-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6-things-im-excited-about-2024-08-04"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/blog/6-things-im-excited-about-2024-08-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6-things-im-excited-about-2024-08-04"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/blog/6-things-im-excited-about-2024-08-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6-things-im-excited-about-2024-08-04"
+              "title": "Outline"
             }
           },
           {
@@ -194,11 +187,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f529731350d6380b",
+  "active": "d006105824340ed2",
   "lastOpenFiles": [
+    "content/blog/14-youtube-channels.md",
+    "templates/blog-post-quick.md",
+    "templates/blog-post-full.md",
+    "content/blog/14-characteristics-of-fascism.md",
+    "content/blog/12-prayers-for-tough-days.md",
+    "content/blog/3-confessions-expectant-father.md",
+    "content/blog/10-things-i-love-about-my-kids.md",
+    "content/blog/8-questions-to-ask-while-reading-theology.md",
+    "content/blog/6-things-im-excited-about-2024-08-04.md",
     "templates",
     "content/blog/5-books-every-christian-read.md",
-    "content/blog/3-confessions-expectant-father.md",
     "README.md"
   ]
 }

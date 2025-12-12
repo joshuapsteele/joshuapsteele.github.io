@@ -7,6 +7,7 @@ title: 3 Confessions of an Expectant Father
 url: /3-confessions-expectant-father/
 tags:
   - parenting
+  - kids
 ---
 
 ## We’re Expecting!
