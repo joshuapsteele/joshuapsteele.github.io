@@ -3,8 +3,10 @@ title: 'Roll the Old Republic Along: A Sea Shanty for Democracy'
 date: 2025-10-16T09:27:57-04:00
 draft: false
 author: joshuapsteele
-tags: [sea shanty, democracy, politics, protest, song, poetry]
+tags: [sea-shanty, democracy, politics, protest, song, poetry]
+
 categories: [ethics]
+
 showToc: true
 TocOpen: false
 url: /roll-the-old-republic-along/

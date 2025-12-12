@@ -3,8 +3,10 @@ title: 'What Shall We Do With a Would-Be Tyrant? A Sea Shanty for Democracy'
 date: 2025-10-16T10:12:58-04:00
 draft: false
 author: joshuapsteele
-tags: [sea shanty, democracy, politics, protest, song, poetry]
+tags: [sea-shanty, democracy, politics, protest, song, poetry]
+
 categories: [ethics]
+
 showToc: true
 TocOpen: false
 url: /what-shall-we-do-with-a-would-be-tyrant/

@@ -1,5 +1,11 @@
 # Taxonomy Consolidation Map
 # This file defines how to consolidate 24 categories into 6 core categories
+#
+# IMPORTANT: All tags and categories must use kebab-case (lowercase with hyphens)
+# - Good: theology, biblical-studies, karl-barth
+# - Bad: Theology, Biblical Studies, Karl Barth
+#
+# This ensures compatibility with Obsidian and cleaner URLs
 
 # Target: 6 Core Categories
 # 1. theology - All theological content, biblical studies, church theology
@@ -31,12 +37,11 @@ category_mapping:
   personal: personal
   opinion: personal  # Opinion pieces are personal reflections
 
-  # PRODUCTIVITY - Consolidate software engineering, technology, tools
+  # PRODUCTIVITY - Consolidate software-engineering, technology, tools
   productivity: productivity  # Keep existing
-  software engineering: productivity
+  software-engineering: productivity  # Note: kebab-case
   technology: productivity
   tools: productivity
-  Tools: productivity  # Fix capitalization
   diy: productivity  # DIY projects fit here
 
   # DISSERTATION - Keep separate
@@ -55,10 +60,13 @@ category_mapping:
 
 # Tag consolidation suggestions
 tag_cleanup:
-  # Merge similar tags
-  reading notes: reading  # Consolidate reading-related tags
+  # Merge similar tags (all kebab-case)
+  reading-notes: reading  # Consolidate reading-related tags
+  sea-shanty: sea-shanty  # Already converted to kebab-case
 
   # Keep high-value tags as-is:
   # - barth, bonhoeffer (expertise/niche)
-  # - women's ordination (topic cluster)
+  # - womens-ordination (topic cluster, use kebab-case)
   # - research, writing, bible, theology
+  #
+  # All new tags MUST use kebab-case format

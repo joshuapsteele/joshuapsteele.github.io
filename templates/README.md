@@ -202,17 +202,30 @@ Use kebab-case matching the title:
 ## Tips & Best Practices
 
 ### Tags
+**IMPORTANT: Always use kebab-case (lowercase with hyphens)**
+
 Maintain consistency - check existing tags before creating new ones:
-- Common tags: `hugo`, `blogging`, `tech`, `theology`, `writing`
-- Use lowercase for tags
+- ✅ Good: `hugo`, `blogging`, `biblical-studies`, `karl-barth`
+- ❌ Bad: `Biblical Studies`, `Karl Barth`, `bible studies`
+- Common tags: `hugo`, `blogging`, `theology`, `writing`, `research`
+- Multi-word tags: `biblical-studies`, `church-history`, `womens-ordination`
 - Be specific but not too granular
 
+**Why kebab-case?**
+- No Obsidian warnings
+- Cleaner URLs (`/tags/biblical-studies` vs `/tags/Biblical%20Studies`)
+- Consistent with filenames
+- Easier to type (no shift key, no quotes)
+
 ### Categories
+**IMPORTANT: Always use kebab-case (lowercase with hyphens)**
+
 Keep categories broad:
-- Tech
-- Writing
-- Theology
-- Personal
+- `theology` - Theological content, biblical studies
+- `ethics` - Ethics, politics, social justice
+- `ministry` - Ministry, preaching, pastoral work
+- `personal` - Personal reflections, life updates
+- `productivity` - Tools, software, professional development
 
 ### Descriptions
 - Keep to 1-2 sentences

@@ -2,8 +2,8 @@
 title: "{{title}}"
 date: {{date:YYYY-MM-DD}}
 description: ""
-tags: []
-categories: []
+tags: []  # Use kebab-case: [theology, biblical-studies]
+categories: []  # Use kebab-case: [theology, ethics, ministry]
 draft: false
 cover:
   image: "/images/your-image.jpg"

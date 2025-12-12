@@ -2,8 +2,8 @@
 title: "Re: {{title}}"
 date: {{date:YYYY-MM-DD}}
 in_reply_to: ""
-tags: []
-categories: []
+tags: []  # Use kebab-case: [theology, biblical-studies]
+categories: []  # Use kebab-case: [theology, ethics, ministry]
 draft: false
 ---
 
