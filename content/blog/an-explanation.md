@@ -1,11 +1,12 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2012-09-22T13:04:53Z'
-description: If you haven’t read my previous two blog posts, “Cedarville, Let there
-  be Light.
+date: 2012-09-22T13:04:53Z
+description:
 title: An Explanation
 url: /an-explanation/
+tags:
+  - college
 ---
 
 **If you haven’t read my previous two blog posts, [“Cedarville, Let there be Light. (pt. 1](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)") and [pt. 2)](http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)"),” please go do so before reading this post.**

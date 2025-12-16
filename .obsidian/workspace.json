@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1da9394984171af8",
+        "id": "c1e8fa884b93ed5a",
         "type": "tabs",
         "children": [
           {
-            "id": "d006105824340ed2",
+            "id": "1b4ae3716b31707f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/AUDIT-02-frontmatter.md",
+                "file": "content/blog/are-the-beatitudes-good-works-matt-51316.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AUDIT-02-frontmatter"
+              "title": "are-the-beatitudes-good-works-matt-51316"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "8020",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,34 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d006105824340ed2",
+  "active": "1b4ae3716b31707f",
   "lastOpenFiles": [
+    "content/blog/anyone-can-use-ai-tools-heres-how.md",
+    "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+    "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+    "content/blog/an-explanation.md",
+    "content/blog/alan-jacobss-the-thinking-persons-checklist.md",
+    "content/blog/against-christian-misanthropy.md",
+    "content/blog/acnatoo.md",
+    "content/blog/a-valediction.md",
+    "content/blog/a-shameless-request-help-me-buy-more-books.md",
+    "content/blog/8-questions-to-ask-while-reading-theology.md",
+    "content/blog/6-things-im-excited-about-2024-08-04.md",
+    "content/blog/5-books-every-christian-read.md",
+    "content/blog/a-collect-for-juneteenth.md",
+    "content/blog/198-ways-to-fight-tyranny.md",
+    "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+    "content/blog/a-christmas-homily.md",
+    "content/blog/20-ways-to-fight-tyranny.md",
+    "archetypes/default.md",
+    "archetypes/blog.md",
+    "docs/AUDIT-02-frontmatter.md",
     "docs/AUDIT-05-taxonomy.md",
     "content/blog/use-rapoports-rules-for-better-conversations-and-disagreements.md",
     "content/blog/ten-tools-for-embracing-finitude.md",
     "content/blog/help-me-come-up-with-rules-for-conversation.md",
     "content/blog/five-questions-for-coming-to-grips-with-your-life.md.md",
     "content/blog/damers-code-of-intellectual-conduct.md",
-    "content/blog/alan-jacobss-the-thinking-persons-checklist.md",
-    "content/blog/an-explanation.md",
-    "content/blog/alabama-update.md",
-    "content/blog/against-christian-misanthropy.md",
-    "content/blog/acnatoo.md",
-    "content/blog/a-valediction.md",
-    "content/blog/a-shameless-request-help-me-buy-more-books.md",
-    "content/blog/a-ridiculously-helpful-markdown-tutorial.md",
-    "content/blog/a-prayer-of-confession.md",
-    "content/blog/a-prayer-for-trustfulness-in-times-of-worry-and-anxiety.md",
-    "content/blog/a-prayer-for-relatives-and-friends.md",
-    "content/blog/a-list-of-karl-barths-sermons.md",
-    "content/blog/a-farewell-to-cedarville.md",
-    "content/blog/a-deacons-last-day.md",
-    "content/blog/a-crucicentric-credo.md",
-    "content/blog/a-collect-for-juneteenth.md",
-    "content/blog/a-christmas-homily.md",
-    "content/blog/198-ways-to-fight-tyranny.md",
-    "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
-    "content/blog/25-possibly-unpopular-opinions-about-church.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

@@ -410,6 +410,8 @@ The Holy Spirit is the enlightening power of the living Lord Jesus Christ in whi
 
 The Holy Spirit is the enlightening power in which Jesus Christ, overcoming the falsehood and condemnation of sinful man, causes him as a member of His community to become one who may move towards his final and yet also his immediate future in hope in Him, i.e., in confident, patient and cheerful expectation of His new coming to consummate the revelation of the will of God fulfilled in Him.
 
+## IV/4 The Christian Life
+
 ### THE FOUNDATION OF THE CHRISTIAN LIFE
 
 A man’s turning to faithfulness to God, and consequently to calling upon Him, is the work of this faithful God which, perfectly accomplished in the history of Jesus Christ, in virtue of the awakening, quickening and illuminating power of this history, becomes a new beginning of life as his baptism with the Holy Spirit.
