@@ -1,11 +1,11 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2020-08-30T13:03:34Z'
-description: A BCP prayer for trust amid anxiety, asking God to lift burdens and grant
-  peace to troubled hearts.
+date: 2020-08-30T13:03:34Z
+description: A BCP prayer for trust amid anxiety, asking God to lift burdens and grant peace to troubled hearts.
 tags:
-- prayer
+  - prayer
+  - book-of-common-prayer
 title: A Prayer for Trustfulness in Times of Worry and Anxiety
 url: /a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/
 ---

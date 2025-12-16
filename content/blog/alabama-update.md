@@ -1,14 +1,12 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-07-19T09:26:03Z'
-description: Settling into Birmingham, Alabama in our first month before starting
-  seminary at Beeson Divinity School—humidity and all.
-publicize_twitter_user: AL! I'm getting ready to start coursework at Beeson Divinity
-  School.
-tagazine-media: 13:26:03";} 13:26:03";}
+date: 2013-07-19T09:26:03Z
+description: Settling into Birmingham, Alabama in our first month before starting seminary at Beeson Divinity School—humidity and all.
 title: Alabama Update
 url: /20130719alabama-update/
+tags:
+  - seminary
 ---
 
 Rachel and I are in the middle of our second month of calling Birmingham, Alabama “home.”

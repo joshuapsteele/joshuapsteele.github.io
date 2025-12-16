@@ -2,16 +2,16 @@
 author: joshuapsteele
 categories: theology
 date: 2025-08-06 08:48:28-04:00
-description: 'Exploring Christian humanism with David Gushee: why following Jesus
-  means affirming human flourishing, not embracing misanthropy.'
+description: "Exploring Christian humanism with David Gushee: why following Jesus means affirming human flourishing, not embracing misanthropy."
 draft: false
 showToc: false
-title: 'Against Christian Misanthropy: Why Following Jesus Means Embracing Human Flourishing'
+title: "Against Christian Misanthropy: Why Following Jesus Means Embracing Human Flourishing"
 url: /against-christian-misanthropy
 tags:
   - humanism
   - misanthropy
   - christian-nationalism
+  - essay
 ---
 
 According to David Gushee in [*After Evangelicalism*](https://www.amazon.com/After-Evangelicalism-Path-New-Christianity/dp/0664266118?crid=3VQY2QA0WWFZX&dib=eyJ2IjoiMSJ9.tU7qLGpdCf-Be5DbhVNd-IZIV8nBgbd4EyUjFYDjuA-_66IcKOHozbJnIPdlrhQOdgKkY6dsN32R8EAyEzBj0YhAwnazYS10jlT3PkID9iC3AwAKkLEgEBYAr-XgAsr9ZF5edRFT5iu3r49MA7ooXllaZobqXgtUhQzTU3_MAvu2FglC5x1xLUU1WoWQ99gdXESPBSijAz5oqnlJqEd6MiDqWTjqZNBR9Wgoam0-LDQ.TFuTnwSuCUm64f4_bCukeu2n4aSx66yCXAZHzx3dUbE&dib_tag=se&keywords=after+evangelicalism&qid=1754485524&sprefix=after+evangelicalism%2Caps%2C123&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=5c164e76e20e8f73886e83039213d84c&language=en_US&ref_=as_li_ss_tl), "Christian humanism" basically means

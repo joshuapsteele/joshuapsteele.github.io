@@ -1,12 +1,11 @@
 ---
 author: joshuapsteele
 categories: productivity
-date: '2024-11-13T16:40:14-05:00'
-description: 'Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver
-  Burkeman 1.'
+date: 2024-11-13T16:40:14-05:00
+description: "Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman 1."
 tags:
-- 8020
-- reading
+  - reading
+  - 80-20
 title: Ten Tools for Embracing Finitude
 url: /ten-tools-for-embracing-finitude/
 ---
