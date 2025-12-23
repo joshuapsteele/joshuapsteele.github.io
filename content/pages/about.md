@@ -12,7 +12,7 @@ url: /about
 
 I'm Josh Steele, a pastor-turned-programmer who solves problems with a heart for people and an eye for detail.
 
-As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. 
+As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. (Here's my [LinkedIn](https://www.linkedin.com/in/joshuapsteele/) and my [CV](/cv), if you'd like to learn more about me professionally.)
 
 But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with my Holy Orders and three degrees in theology.
 
