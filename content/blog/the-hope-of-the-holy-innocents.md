@@ -17,7 +17,9 @@ url: /the-hope-of-the-holy-innocents/
 
 [Today is December 28](http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
 
-The Church’s regard for this day as a feast day is quite early, going back [to at least the fifth century](http://www.newadvent.org/cathen/07419a.htm). In the fourth century, [Chromatius](http://en.wikipedia.org/wiki/Chromatius) described these babies as the first martyrs of Christ – the first counted worthy to die on Christ’s behalf. Around the same time, St. [Augustine](http://en.wikipedia.org/wiki/Augustine_of_Hippo) claimed that these nameless victims, “***whom Herod’s cruelty tore as sucklings from their mothers’ bosom are justly hailed as the infant martyr flowers, the first buds of the church killed by the frost of persecution. They died not only for Christ but in his stead***.”
+The Church’s regard for this day as a feast day is quite early, going back [to at least the fifth century](http://www.newadvent.org/cathen/07419a.htm). In the fourth century, [Chromatius](http://en.wikipedia.org/wiki/Chromatius) described these babies as the first martyrs of Christ – the first counted worthy to die on Christ’s behalf. Around the same time, St. [Augustine](http://en.wikipedia.org/wiki/Augustine_of_Hippo) claimed that these nameless victims, 
+
+> “whom Herod’s cruelty tore as sucklings from their mothers’ bosom are justly hailed as the infant martyr flowers, the first buds of the church killed by the frost of persecution. They died not only for Christ but in his stead.”
 
 What if we knew the names of the victims of Herod’s infamous, paranoid rage?
 
@@ -41,7 +43,7 @@ May it never, ever be.
 
 But what if such a tragedy took place inside our community?
 
-Bright young lives, cut short by darkness. A deafening silence replaces the cries of the young.The tears of the parents a lingering reminder of the tears of their lost children.
+Bright young lives, cut short by darkness. A deafening silence replaces the cries of the young. The tears of the parents a lingering reminder of the tears of their lost children.
 
 May it never, ever be.
 
@@ -64,13 +66,13 @@ You do not have to look far to spot evil. You do not have to look much further t
 
 This is not an ancient Egyptian or Judean issue, it is an issue for today – an issue for eternity. If it is not happening today in our community, it IS happening right now in some community.
 
-Consider this, today, as we commemorate the “Holy Innocents” of Bethlehem– nameless to us,but called by name by both their parents and their God.
+Consider this, today, as we commemorate the “Holy Innocents” of Bethlehem – nameless to us,but called by name by both their parents and their God.
 
 Consider this, today, as we contemplate **how the Incarnation unveils both the source of and the desperate need for hope**…the brilliant light of Christ against the dark backdrop of intense evil and incomprehensible suffering.
 
 Let us pray…
 
-> O ALMIGHTY God, who out of the mouths of babes and sucklings hast ordained strength, and madest infants to glorify thee by their deaths: Mortify and kill all vices in us, and so strengthen us by thy grace, that by the innocency of our lives, and constancy of our faith even unto death, we may glorify thy holy Name; through Jesus Christ our Lord. Amen.
+> “O ALMIGHTY God, who out of the mouths of babes and sucklings hast ordained strength, and madest infants to glorify thee by their deaths: Mortify and kill all vices in us, and so strengthen us by thy grace, that by the innocency of our lives, and constancy of our faith even unto death, we may glorify thy holy Name; through Jesus Christ our Lord. Amen.”
 
 I’ve said that the Incarnation unveils both the source of and the desperate need for hope. Let us consider both together as we turn to [today’s Gospel text, Matthew 2:13–18](http://www.lectionarypage.net/YearABC/HolyDays/HolyInno.html#GOSPEL).
 
@@ -235,7 +237,7 @@ Although it does not lessen the tragedies we face, our God does not escape evil 
 
 Sure, he escaped Herod once…in order to make it to the <u>Cross</u>,where he took Sin and Death to their bitter end in our stead.
 
-He went into the furthest and fullest exile – the grave –in order to bring us back from our exile.
+He went into the furthest and fullest exile – the grave – in order to bring us back from our exile.
 
 This return will look a bit different from the [return](http://en.wikipedia.org/wiki/Return_to_Zion) in 538 BC, for it will be full and final.
 
