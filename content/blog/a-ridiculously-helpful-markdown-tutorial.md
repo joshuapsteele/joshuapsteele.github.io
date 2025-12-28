@@ -1,10 +1,11 @@
 ---
 author: joshuapsteele
 categories: productivity
-date: '2016-08-26T14:09:01Z'
+date: 2016-08-26T14:09:01Z
 description: I’ve been dragging my heels on learning Markdown for awhile now.
 title: A Ridiculously Helpful Markdown Tutorial
 url: /a-ridiculously-helpful-markdown-tutorial/
+tags:
 ---
 
 I’ve been dragging my heels on learning Markdown for awhile now.

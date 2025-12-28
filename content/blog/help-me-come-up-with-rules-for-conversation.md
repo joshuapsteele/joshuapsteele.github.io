@@ -1,12 +1,11 @@
 ---
 author: joshuapsteele
 categories: ethics
-date: '2019-11-17T20:26:42Z'
-description: Crowdsourcing rules for constructive conversation in polarized times—what
-  guidelines help us talk across differences?
+date: 2019-11-17T20:26:42Z
+description: Crowdsourcing rules for constructive conversation in polarized times—what guidelines help us talk across differences?
 tags:
-- 8020
-- reading
+  - reading
+  - 80-20
 title: Help me come up with “rules for conversation”!
 url: /help-me-come-up-with-rules-for-conversation/
 ---

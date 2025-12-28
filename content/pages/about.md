@@ -3,7 +3,7 @@ aliases:
 - /portfolio
 author: joshuapsteele
 categories: ministry
-description: Learn more about Joshua P. Steele, a pastor-turned-programmer
+description: Learn more about Joshua P. Steele
 guid: https://joshuapsteele.com/?page_id=40142
 showtoc: false
 title: About
@@ -12,7 +12,9 @@ url: /about
 
 I'm Josh Steele, a pastor-turned-programmer who solves problems with a heart for people and an eye for detail.
 
-As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with three degrees in theology.
+As a software engineer, I work mainly on backend development in Java, SQL, and Python for a cybersecurity company. (Here's my [LinkedIn](https://www.linkedin.com/in/joshuapsteele/) and my [CV](/cv), if you'd like to learn more about me professionally.)
+
+But I'm also an ordained Anglican priest (currently [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/)), trying to figure out what, if anything, to do with my Holy Orders and three degrees in theology.
 
 After a long time away (for those theology degrees), I'm back in Ohio, where I live with my wife and three young children.
 

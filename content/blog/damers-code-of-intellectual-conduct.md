@@ -1,15 +1,14 @@
 ---
 author: joshuapsteele
 categories: ethics
-date: '2019-11-19T15:26:29Z'
-description: 'This code of conduct very much relates to Rapoport’s Rules, Adler’s
-  advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T.'
+date: 2019-11-19T15:26:29Z
+description: "This code of conduct very much relates to Rapoport’s Rules, Adler’s advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T."
 title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
 tags:
-  - 8020
   - reading
   - how-to-think
+  - 80-20
 ---
 
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)

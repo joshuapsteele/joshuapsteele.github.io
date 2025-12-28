@@ -1,11 +1,13 @@
 ---
 author: joshuapsteele
 categories: theology
-date: '2019-10-28T19:36:59Z'
-description: A Book of Common Prayer petition for God's grace, protection, and blessing
-  upon relatives and friends in daily life.
+date: 2019-10-28T19:36:59Z
+description: A Book of Common Prayer petition for God's grace, protection, and blessing upon relatives and friends in daily life.
 title: A Prayer for Relatives and Friends
 url: /a-prayer-for-relatives-and-friends/
+tags:
+  - prayer
+  - book-of-common-prayer
 ---
 
 > O Loving Father, we commend to your gracious keeping all who are near and dear to us.

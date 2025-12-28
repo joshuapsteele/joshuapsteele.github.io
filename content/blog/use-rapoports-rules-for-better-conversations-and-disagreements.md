@@ -1,15 +1,14 @@
 ---
 author: joshuapsteele
 categories:
-- ethics
-- personal
-- productivity
-date: '2019-02-23T17:06:02Z'
-description: 'I’m reading Walter Sinnott-Armstrong’s excellent book, *Think Again:
-  How to Reason and Argue*.'
+  - ethics
+  - personal
+  - productivity
+date: 2019-02-23T17:06:02Z
+description: "I’m reading Walter Sinnott-Armstrong’s excellent book, *Think Again: How to Reason and Argue*."
 tags:
-- 8020
-- reading
+  - reading
+  - 80-20
 title: Use Rapoport's Rules for Better Conversations and Disagreements
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
 ---

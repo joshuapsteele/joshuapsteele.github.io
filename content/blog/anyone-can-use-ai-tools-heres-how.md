@@ -1,12 +1,11 @@
 ---
 author: joshuapsteele
 categories: productivity
-date: '2023-08-24T19:39:18Z'
-description: Are you drowning in tasks, yearning for more hours in a day, or simply
-  itching to supercharge your creativity.
+date: 2023-08-24T19:39:18Z
+description:
 tags:
-- ai
-title: 'Anyone Can Use AI Tools: Here''s How'
+  - ai
+title: "Anyone Can Use AI Tools: Here's How"
 url: /anyone-can-use-ai-tools-heres-how/
 ---
 

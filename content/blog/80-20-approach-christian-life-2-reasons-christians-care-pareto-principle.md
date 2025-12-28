@@ -8,6 +8,7 @@ url: /80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/
 tags:
   - list
   - pareto
+  - 80-20
 ---
 
 Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?

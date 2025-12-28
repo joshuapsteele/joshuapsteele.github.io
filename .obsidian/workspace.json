@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1da9394984171af8",
+        "id": "fb23f9bf051632fe",
         "type": "tabs",
         "children": [
           {
-            "id": "d006105824340ed2",
+            "id": "6a7ca20f33f12aa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/a-list-of-karl-barths-sermons.md",
+                "file": "content/pages/interests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "a-list-of-karl-barths-sermons"
+              "title": "interests"
             }
           }
         ]
@@ -191,25 +191,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d006105824340ed2",
+  "active": "6a7ca20f33f12aa1",
   "lastOpenFiles": [
-    "content/blog/a-farewell-to-cedarville.md",
-    "content/blog/a-deacons-last-day.md",
-    "content/blog/a-crucicentric-credo.md",
-    "content/blog/a-collect-for-juneteenth.md",
-    "content/blog/a-christmas-homily.md",
-    "content/blog/198-ways-to-fight-tyranny.md",
-    "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
-    "content/blog/25-possibly-unpopular-opinions-about-church.md",
-    "content/blog/20-ways-to-fight-tyranny.md",
-    "content/blog/14-youtube-channels.md",
-    "content/blog/14-characteristics-of-fascism.md",
-    "content/blog/12-prayers-for-tough-days.md",
-    "content/blog/10-things-i-love-about-my-kids.md",
+    "content/pages/about.md",
+    "content/pages/cv.md",
+    "CLAUDE.md",
+    "cv.md",
+    "content/blog/are-the-beatitudes-good-works-matt-51316.md",
+    "content/blog/anyone-can-use-ai-tools-heres-how.md",
+    "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+    "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+    "content/blog/an-explanation.md",
+    "content/blog/alan-jacobss-the-thinking-persons-checklist.md",
+    "content/blog/against-christian-misanthropy.md",
+    "content/blog/acnatoo.md",
+    "content/blog/a-valediction.md",
+    "content/blog/a-shameless-request-help-me-buy-more-books.md",
     "content/blog/8-questions-to-ask-while-reading-theology.md",
     "content/blog/6-things-im-excited-about-2024-08-04.md",
     "content/blog/5-books-every-christian-read.md",
-    "content/blog/3-confessions-expectant-father.md",
+    "content/blog/a-collect-for-juneteenth.md",
+    "content/blog/198-ways-to-fight-tyranny.md",
+    "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+    "content/blog/a-christmas-homily.md",
+    "content/blog/20-ways-to-fight-tyranny.md",
+    "archetypes/default.md",
+    "archetypes/blog.md",
+    "docs/AUDIT-02-frontmatter.md",
+    "docs/AUDIT-05-taxonomy.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
@@ -219,15 +228,6 @@
     "public/tags/umberto-eco/feed.xml",
     "public/tags/tyranny/feed.xml",
     "public/tags/song/feed.xml",
-    "public/tags/tools/feed.xml",
-    "content/blog/testing-my-micro-post-to-hugo-drafts-act-1615.md",
-    "content/blog/testing-my-full-post-to-hugo-drafts-action.md",
-    "templates/blog-post-with-image.md",
-    "templates/README.md",
-    "templates/blog-post-draft.md",
-    "templates/blog-post-reply.md",
-    "templates/blog-post-micro.md",
-    "templates/blog-post-quick.md",
-    "templates/blog-post-full.md"
+    "public/tags/tools/feed.xml"
   ]
 }

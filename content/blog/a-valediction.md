@@ -2,10 +2,12 @@
 author: joshuapsteele
 categories: personal
 date: 2009-06-06
-description: My Valedictorian Address, a Poem The following is my valedictorian speech,
-  delivered at my high school graduation in 2009.
+description: My Valedictorian Address, a Poem The following is my valedictorian speech, delivered at my high school graduation in 2009.
 title: My High School Graduation Valedictorian Speech was a Poem
 url: /a-valediction/
+tags:
+  - poetry
+  - high-school
 ---
 
 # My Valedictorian Address, a Poem
