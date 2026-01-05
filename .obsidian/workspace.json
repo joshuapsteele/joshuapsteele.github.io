@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b46481351843e3ea",
+        "id": "2c7521d40ccb83e3",
         "type": "tabs",
         "children": [
           {
-            "id": "398c9a46f4f0b22c",
+            "id": "e8501d0e02a38f68",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/dont-stir-the-pot.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "dont-stir-the-pot"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Most Christians",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,9 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "398c9a46f4f0b22c",
+  "active": "e8501d0e02a38f68",
   "lastOpenFiles": [
     "content/blog/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life.md",
+    "content/blog/down-with-the-pacifists.md",
+    "content/blog/dont-stir-the-pot.md",
     "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
     "content/pages/interests.md",
     "content/pages/about.md",
@@ -217,8 +215,6 @@
     "content/blog/198-ways-to-fight-tyranny.md",
     "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
     "content/blog/a-christmas-homily.md",
-    "content/blog/20-ways-to-fight-tyranny.md",
-    "archetypes/default.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
