@@ -1,11 +1,13 @@
 ---
 author: joshuapsteele
 draft: false
-categories: theology
-date: 2026-01-05
-description: 'An examination of the New Testament\'s teachings on eternal hell and universal salvation.'
 title: 'Does the New Testament Teach an Eternal Hell?'
 url: /does-the-new-testament-teach-eternal-hell/
+date: 2026-01-05
+categories: [theology]
+tags: [hell, universalism]
+showToc: true
+TocOpen: false
 ---
 
 Most Christians assume that the New Testament clearly and consistently teaches eternal conscious torment in hell. But when you actually go looking for this doctrine in the text, the picture becomes far more complicated than you might expect.
