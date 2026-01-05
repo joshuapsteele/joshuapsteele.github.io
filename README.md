@@ -85,18 +85,25 @@ npm run clean
 ```
 .
 ├── content/
-│   ├── blog/          # Blog posts (309 markdown files)
-│   ├── pages/         # Static pages (about, contact, cv, etc.)
+│   ├── blog/          # Blog posts (300+ markdown files)
+│   ├── pages/         # Static pages (about, contact, cv, now, uses, etc.)
 │   └── search.md      # Search page
 ├── layouts/           # Custom Hugo layouts and overrides
-│   ├── shortcodes/    # Custom shortcodes (audio, callout, figure, etc.)
-│   ├── partials/      # Partial templates
-│   └── _default/      # Default layouts
+│   ├── shortcodes/    # Custom shortcodes (audio, callout, figure, gallery)
+│   ├── partials/      # Partial templates (webmentions, analytics, etc.)
+│   └── _default/      # Default layouts (h-entry, h-feed markup)
 ├── static/            # Static assets (images, PDFs, favicons)
 ├── assets/            # Processed assets (CSS extensions)
+├── scripts/           # Maintenance and automation scripts
+│   ├── data/          # Configuration files and audit outputs
+│   ├── *.py           # Python scripts for auditing and content management
+│   └── *.sh           # Shell scripts for deployment and utilities
+├── templates/         # Obsidian blog post templates
 ├── themes/            # PaperMod theme (git submodule)
-├── public/            # Generated site (git-ignored)
+├── docs/              # Additional documentation and audit reports
+├── public/            # Generated site (git-ignored, never edit)
 ├── hugo.yaml          # Main site configuration
+├── CLAUDE.md          # AI assistant guidance
 └── .github/
     └── workflows/
         └── hugo.yml   # GitHub Actions deployment workflow
@@ -202,16 +209,77 @@ npm run deploy
 
 ## Maintenance Tools
 
-### Audit Scripts (Python)
-- `audit-frontmatter.py` - Check front matter consistency
-- `check-internal-links.py` - Verify internal links
-- `check-external-links.py` - Check external links
-- `apply-taxonomy.py` - Apply taxonomy consolidation
+The `scripts/` directory contains various automation tools for maintaining and analyzing the site. All scripts should be run from the repository root directory.
 
-### Utility Scripts (Shell)
-- `deploy.sh` - Automated deployment to main branch
-- `review_changes.sh` - Review staged changes
-- `apply-high-traffic-tags.sh` - Tag management
+### Shell Scripts
+
+- **[deploy.sh](scripts/deploy.sh)** - Commits all changes with timestamp (or custom message) and pushes to main branch
+  ```bash
+  ./scripts/deploy.sh "Optional commit message"
+  ```
+- **[review_changes.sh](scripts/review_changes.sh)** - Review staged git changes before committing
+- **[apply-high-traffic-tags.sh](scripts/apply-high-traffic-tags.sh)** - Apply tags to high-traffic posts
+- **[rename_blog_files.sh](scripts/rename_blog_files.sh)** - Rename dated blog posts to remove date prefixes ⚠️ Review before running
+- **[cleanup_images.sh](scripts/cleanup_images.sh)** - Remove legacy/external images ⚠️ DANGEROUS: Review carefully before running
+
+### Python Audit & Analysis Scripts
+
+**Content Auditing:**
+- **[audit-frontmatter.py](scripts/audit-frontmatter.py)** - Analyze front matter for missing fields and inconsistencies
+  ```bash
+  python3 scripts/audit-frontmatter.py
+  ```
+  Outputs: `scripts/data/audit-frontmatter.json`
+
+- **[check-internal-links.py](scripts/check-internal-links.py)** - Check for broken internal links
+  ```bash
+  python3 scripts/check-internal-links.py
+  ```
+  Outputs: `scripts/data/audit-internal-links.json`
+
+- **[check-external-links.py](scripts/check-external-links.py)** - Check for broken external links (may take time)
+  ```bash
+  python3 scripts/check-external-links.py
+  ```
+  Outputs: `scripts/data/audit-external-links.json`
+
+**Content Management:**
+- **[cleanup_frontmatter.py](scripts/cleanup_frontmatter.py)** - Clean up and standardize front matter fields
+- **[cleanup_posts.py](scripts/cleanup_posts.py)** - General post cleanup utilities
+- **[fix_malformed_yaml.py](scripts/fix_malformed_yaml.py)** - Fix malformed YAML front matter
+- **[generate_descriptions.py](scripts/generate_descriptions.py)** - Generate descriptions for posts missing them
+- **[update_descriptions.py](scripts/update_descriptions.py)** - Update existing descriptions
+- **[show_posts_batch.py](scripts/show_posts_batch.py)** - Display posts in batches for review
+
+**Taxonomy & Categorization:**
+- **[apply-taxonomy.py](scripts/apply-taxonomy.py)** - Apply taxonomy consolidation based on `scripts/data/taxonomy_map.yaml`
+  ```bash
+  python3 scripts/apply-taxonomy.py
+  ```
+- **[suggest-tags.py](scripts/suggest-tags.py)** - Generate tag suggestions for posts
+- **[categorize-uncategorized.py](scripts/categorize-uncategorized.py)** - Suggest categories for uncategorized posts
+- **[convert-taxonomy-to-kebab-case.py](scripts/convert-taxonomy-to-kebab-case.py)** - Convert taxonomy terms to kebab-case
+- **[taxonomy_tools.py](scripts/taxonomy_tools.py)** - Shared taxonomy utilities
+
+**Analytics:**
+- **[analyze_website_stats.py](scripts/analyze_website_stats.py)** - Analyze traffic statistics
+- **[fetch_popular_posts.py](scripts/fetch_popular_posts.py)** - Fetch and analyze popular posts
+- **[categorize_page_changes.py](scripts/categorize_page_changes.py)** - Categorize and analyze page changes
+
+### Taxonomy Configuration
+
+The site uses a taxonomy consolidation system with configuration files in `scripts/data/`:
+
+- **[taxonomy_map.yaml](scripts/data/taxonomy_map.yaml)** - Master configuration defining category/tag consolidation rules
+- **taxonomy_map.suggested.yaml** - AI-generated suggestions (review before using)
+- **taxonomy_map.generated.yaml** - Generated mapping results from processing
+
+### Best Practices for Scripts
+
+- Always run audit scripts before bulk changes to understand current state
+- Review git diff after running cleanup/modification scripts
+- Test with `npm run dev` and `npm run build` after script-based changes
+- Back up important configuration files before running destructive scripts
 
 ## Configuration
 
