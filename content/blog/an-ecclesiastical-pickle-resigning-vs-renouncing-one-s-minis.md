@@ -15,14 +15,19 @@ It's been brought to my attention that the description of how I [resigned from o
 In November 2023, here's how I put it (emphasis added to highlight the parts now in question):
 
 > in accordance with Title III, Canon 6, Section 4 of the ACNA Canons ("Concerning Voluntary Resignation from the Ordained Ministry of this Church"), I have tendered my voluntary resignation from the ordained ministry of the Anglican Church in North America, effective on 2023-11-01.
+> 
 > As of 2023-11-07, my bishop and diocese have confirmed that I am a Presbyter in good standing, not under discipline as defined in Title IV of the ACNA Canons, and that my resignation is not occasioned by misconduct or irregularity, but is voluntary and for causes which do not affect my moral character.
+> 
 > My resignation has therefore been accepted. This means that I am released from the obligations of the Ministerial office. I relinquish the right to exercise the gifts and spiritual authority as a Minister of God's Word and Sacraments in the Anglican Church in North America.
+> 
 > Lastly, I'd like to clarify that **the ACNA Canons differentiate between (A) resigning from the ordained ministry of the ACNA and (B) renouncing one's Holy Orders as such.**
+> 
 > While I currently have no plans to pursue ordained ministry within another Christian denomination or jurisdiction, **I am solely (A) resigning from the ordained ministry in the ACNA, not (B) renouncing my Holy Orders. This distinction leaves the door ajar for potential ordained ministry elsewhere, should the Lord call me back to such in the future.**
 
 In response to my request to resign, my Bishop and Diocese gave me a letter of good standing that read, in part (emphasis added, again, to highlight the parts now in question):
 
 > Because of your prior and current status of “being in good standing” as a clergyperson in the Diocese of Churches for the Sake of Others (C4SO), our Executive Team (Standing Committee) has approved your request **to resign from ministerial duties while remaining in Holy Orders**. C4SO accepts your decision to relinquish the right to exercise the gifts and spiritual authority as a Minister of God's Word and Sacraments in the Anglican Church in North America. 
+> 
 > I confirm for all whom it may concern that you are not now, nor have ever been, under discipline and that your resignation is not due to any irregularity and casts no doubt on your moral character.
 
 It's now being claimed that [the ACNA Canons](https://anglicanchurch.net/wp-content/uploads/2025/07/ACNA-Constitution-and-Canons_2025.pdf) do not, in fact, differentiate between (1) resigning from the ordained ministry of the ACNA and (2) renouncing one's Holy Orders as such. That those are, in fact, the same thing.
