@@ -1,10 +1,11 @@
 ---
 title: "An Ecclesiastical Pickle: Resigning vs. Renouncing One's Ministry"
 date: 2026-01-08
-draft: true
+draft: false
 description: "Is there a difference between resigning from ministry and renouncing Holy Orders?"
-tags: []
-categories: []
+tags: [ordination, ministry]
+categories: [personal]
+url: /an-ecclesiastical-pickle/
 ---
 
 It's been brought to my attention that the description of how I [resigned from ordained ministry in the Anglican Church in North America](https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023 might not be canonically accurate. 
