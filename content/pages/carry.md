@@ -45,6 +45,11 @@ Every Day Carry (EDC) Items:
 
 What are you carrying these days?
 
+Also, for what it's worth, I love EDC and I find this video very funny:
+
+{{< youtube eLrYpMuZQqw >}}
+
+
 {{< callout "note" >}}
 This `/carry` page is just one of [my many "slash pages."](/slashes). It's similar to my [`/defaults`](/defaults) and [`/uses`](/uses) pages, but focuses on the everyday carry (EDC) items I find useful.
 {{< /callout >}}

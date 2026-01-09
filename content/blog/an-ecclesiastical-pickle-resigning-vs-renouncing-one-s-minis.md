@@ -38,8 +38,7 @@ Put differently, the argument is that the phrase "resignation or renunciation of
 
 Here's the full text of the canon in question. Let me know how you interpret it.
 
----START---
-
+{{< callout "note" >}}
 TITLE III: Of Ministers, Their Recruitment, Preparation, Ordination, Office, Practice and Transfer
 
 Canon 6: Of the Acceptance and Dismissal of Clergy in this Church
@@ -50,8 +49,7 @@ Section 3: Concerning Voluntary Resignation from the Ordained Ministry of this C
 2. The Bishop's declaration shall state that the resignation was for causes which do not affect the Deacon or Presbyter's moral character, and shall, if requested, give a certificate to this effect to the person so removed from the ministry of this Church. In all other cases of resignation or renunciation of the ordained ministry, where there may be a question of misconduct or irregularity, the Bishop shall follow the procedures outlined in Canon IV.7.
 3. Any Deacon or Presbyter whose resignation has been accepted under this canon may request that the Bishop write a commendatory letter to another Christian denomination or jurisdiction.
 4. A Deacon or Presbyter having voluntarily resigned from the ordained ministry of this Church and not under the discipline of any ecclesial body may petition the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned to restore the right to exercise in this Church the gifts and spiritual authority as a Minister of God's Word and Sacraments conferred in ordination. The terms and conditions of such restoration shall be entirely within the discretion of the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned, with the advice and consent of the Standing Committee or its equivalent.
-
----END---
+{{< /callout >}}
 
 ## My Options
 
