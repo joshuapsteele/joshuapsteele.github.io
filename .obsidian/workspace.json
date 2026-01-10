@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/an-ecclesiastical-pickle-resigning-vs-renouncing-one-s-minis.md",
+                "file": "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "an-ecclesiastical-pickle-resigning-vs-renouncing-one-s-minis"
+              "title": "when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Most Christians",
+                "query": "dissertation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 647.5
   },
   "right": {
     "id": "75a397c9b49ffabf",
@@ -193,6 +193,20 @@
   },
   "active": "e8501d0e02a38f68",
   "lastOpenFiles": [
+    "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+    "content/blog/who-am-i-to-be-a-theologian.md",
+    "content/blog/who-really-cares-about-the-trinity-in-2020.md",
+    "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md",
+    "content/blog/why-is-the-word-systemic-a-flashpoint-for-certain-christians.md",
+    "content/blog/why-you-never-see-your-friends-anymore-the-atlantic.md",
+    "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
+    "content/blog/works-on-barth-and-bonhoeffer.md",
+    "content/blog/are-the-beatitudes-good-works-matt-51316.md",
+    "content/blog/a-list-of-karl-barths-sermons.md",
+    "content/blog/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology.md",
+    "content/blog/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report.md",
+    "content/blog/you-cant-follow-jesus-and-hate-immigrants.md",
+    "content/blog/an-ecclesiastical-pickle-resigning-vs-renouncing-one-s-minis.md",
     "content/blog/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life.md",
     "content/blog/down-with-the-pacifists.md",
     "content/blog/dont-stir-the-pot.md",
@@ -202,23 +216,9 @@
     "content/pages/cv.md",
     "CLAUDE.md",
     "cv.md",
-    "content/blog/are-the-beatitudes-good-works-matt-51316.md",
     "content/blog/anyone-can-use-ai-tools-heres-how.md",
     "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
     "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
-    "content/blog/an-explanation.md",
-    "content/blog/alan-jacobss-the-thinking-persons-checklist.md",
-    "content/blog/against-christian-misanthropy.md",
-    "content/blog/acnatoo.md",
-    "content/blog/a-valediction.md",
-    "content/blog/a-shameless-request-help-me-buy-more-books.md",
-    "content/blog/8-questions-to-ask-while-reading-theology.md",
-    "content/blog/6-things-im-excited-about-2024-08-04.md",
-    "content/blog/5-books-every-christian-read.md",
-    "content/blog/a-collect-for-juneteenth.md",
-    "content/blog/198-ways-to-fight-tyranny.md",
-    "content/blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
-    "content/blog/a-christmas-homily.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

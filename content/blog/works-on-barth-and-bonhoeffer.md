@@ -1,13 +1,12 @@
 ---
 author: joshuapsteele
 categories: dissertation
-date: '2016-11-12T20:03:30Z'
-description: 'ABROMEIT, Hans-Jürgen. Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene
-  Christologie*.'
+date: 2016-11-12T20:03:30Z
+description: A reading list of works about Karl Barth and Dietrich Bonhoeffer
 tags:
-- barth
-- bonhoeffer
-- research
+  - barth
+  - bonhoeffer
+  - research
 title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
 url: /works-on-barth-and-bonhoeffer/
 ---

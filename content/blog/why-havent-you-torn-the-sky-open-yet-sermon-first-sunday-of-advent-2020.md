@@ -1,12 +1,12 @@
 ---
 author: joshuapsteele
 categories: theology
-date: '2020-11-28T00:22:13Z'
-description: 'An Advent sermon for those who hate waiting: Why haven''t you torn the
-  sky open yet, God? Wrestling with Isaiah''s cry.'
+date: 2020-11-28T00:22:13Z
+description: An Advent sermon for those who hate waiting.
 tags:
-- advent
-- isaiah
+  - advent
+  - isaiah
+  - sermons
 title: Why Haven’t You Torn The Sky Open Yet?
 url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
 ---

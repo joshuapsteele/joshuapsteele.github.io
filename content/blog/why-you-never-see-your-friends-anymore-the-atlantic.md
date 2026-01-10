@@ -1,9 +1,8 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2019-10-16T16:38:20Z'
-description: Judith Shulevitz offers up a (depressing) eye-opening analysis of our
-  overbusy lives. There is another way.
+date: 2019-10-16T16:38:20Z
+description: A short post on the demise of friendship.
 title: '"Why You Never See Your Friends Anymore" (The Atlantic)'
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
 ---

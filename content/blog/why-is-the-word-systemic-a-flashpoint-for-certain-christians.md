@@ -1,8 +1,8 @@
 ---
 author: joshuapsteele
 categories: ethics
-date: '2020-06-03T20:13:43Z'
-description: Certainly, the Bible has much to say about *individual* sin and redemption.
+date: 2020-06-03T20:13:43Z
+description: Christians should not be freaked out by the word "systemic."
 title: Why is the word “systemic” a flashpoint for certain Christians?
 url: /why-is-the-word-systemic-a-flashpoint-for-certain-christians/
 ---

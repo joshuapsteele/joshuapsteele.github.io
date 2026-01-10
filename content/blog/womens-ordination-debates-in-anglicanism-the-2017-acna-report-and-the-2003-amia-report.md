@@ -1,15 +1,13 @@
 ---
 author: joshuapsteele
 categories:
-- personal
-- theology
-date: '2019-01-31T14:17:52Z'
-description: I became an “egalitarian” in college, before I became an Anglican in
-  seminary.
+  - personal
+  - theology
+date: 2019-01-31T14:17:52Z
+description: A summary and reading list about women's ordination debates within Anglicanism.
 tags:
-- anglican
-title: 'Women''s Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003
-  AMIA Report'
+  - anglican
+title: "Women's Ordination Debates in Anglicanism: The 2017 ACNA Report and the 2003 AMIA Report"
 url: /womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report/
 ---
 
