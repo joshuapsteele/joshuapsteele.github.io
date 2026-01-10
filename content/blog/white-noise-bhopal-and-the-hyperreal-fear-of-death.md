@@ -11,11 +11,11 @@ The following essay deals with the theme of the fear of death in [*White Noise*,
 
 ---
 
-> *It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart.<sup>**<sup>\[1\]</sup>**</sup>*
+> *It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart.**\[1\]***
 
-Don DeLillo’s *White Noise*, “a paradigm of postmodern literature,”<sup><sup>\[2\]</sup></sup> yields the kind of cognitive dissonance that makes you wonder whether the author simply missed the mark, or if you are only confused because you suffer from the postmodern condition which DeLillo adroitly analyzes.
+Don DeLillo’s *White Noise*, “a paradigm of postmodern literature,”\[2\] yields the kind of cognitive dissonance that makes you wonder whether the author simply missed the mark, or if you are only confused because you suffer from the postmodern condition which DeLillo adroitly analyzes.
 
-I agree with Pico Iyer when he evaluates DeLillo as “that rarest of birds, a novelist on fire with ideas – and an outlaw epistemologist to boot – he uses his fictional excursions as occasions to think aloud in shadowed sentences, speak in modern tongues, plumb mysteries, fathom depths.”<sup><sup>\[3\]</sup></sup>
+I agree with Pico Iyer when he evaluates DeLillo as “that rarest of birds, a novelist on fire with ideas – and an outlaw epistemologist to boot – he uses his fictional excursions as occasions to think aloud in shadowed sentences, speak in modern tongues, plumb mysteries, fathom depths.”\[3\]
 
 One such depth is the **fear of death**, echoing throughout the pages of *White Noise* in the perennial question: *who will die first?*
 
@@ -27,33 +27,33 @@ In this essay, I endeavor to analyze the Baudrillardian concept of hyperreality 
 
 Jack Gladney, the novel’s protagonist, is the chairman of the department of Hitler studies at the College-on-the-Hill in a nondescript anytown called Blacksmith. He and his wife, Babette, are the heads of a hodgepodge family filled with an assortment of children from various marriages.
 
-After these core details, however, it gets difficult to summarize the novel’s plot. According to Sol Yurick, this is because, “in a sense, *White Noise* doesn’t really have a plot: It is about the intrusion of a plot into life, a stringing-together of random events into some kind of meaningful schema.”<sup><sup>\[4\]</sup></sup>
+After these core details, however, it gets difficult to summarize the novel’s plot. According to Sol Yurick, this is because, “in a sense, *White Noise* doesn’t really have a plot: It is about the intrusion of a plot into life, a stringing-together of random events into some kind of meaningful schema.”\[4\]
 
 The first twenty chapters, taking up just over one hundred pages of text, bombard the reader with an assortment of episodes. From the home, to the car, to the supermarket, to the College-on-the-Hill, an assault of misinformation and profundity fades all signals to flat – from the ever-present voice of the television to random interpolations of intense emotion.
 
 We are left with white noise.
 
-And yet, plot slowly invades. In Gladney’s own words: “All plots tend to move deathward. This is the nature of plots. Political plots, terrorist plots, lovers’ plots, narrative plots, plots that are part of children’s games. We edge nearer death every time we plot. It is like a contract that all must sign, the plotters as well as those who are the targets of the plot.”<sup><sup>\[5\]</sup></sup>
+And yet, plot slowly invades. In Gladney’s own words: “All plots tend to move deathward. This is the nature of plots. Political plots, terrorist plots, lovers’ plots, narrative plots, plots that are part of children’s games. We edge nearer death every time we plot. It is like a contract that all must sign, the plotters as well as those who are the targets of the plot.”\[5\]
 
 Out of the static emerges one of the novel’s central themes: the fear of death.
 
 (Note: I have written elsewhere about death. See “[Son of Man, Can Your Bones Live?](https://joshuapsteele.com/son-of-man-can-your-bones-live/)” and “[My Uncle, Timothy Steele](https://joshuapsteele.com/20150424my-uncle-timothy-steele/).”)
 
-According to Albert Mobilio, *White Noise* explores “the narcissist’s inevitable trap: a preoccupation with dying.”<sup><sup>\[6\]</sup></sup> And DeLillo explores this theme masterfully.
+According to Albert Mobilio, *White Noise* explores “the narcissist’s inevitable trap: a preoccupation with dying.”\[6\] And DeLillo explores this theme masterfully.
 
-“Writing of death,” Iyer notes, “Don DeLillo takes one’s breath away.”<sup><sup>\[7\]</sup></sup>The question “who will die first?” first appears in chapter four, as Jack wonders to himself whether this “thought itself is part of the nature of physical love, a reverse Darwinism that awards sadness and fear to the survivor.”<sup><sup>\[8\]</sup></sup>
+“Writing of death,” Iyer notes, “Don DeLillo takes one’s breath away.”\[7\]The question “who will die first?” first appears in chapter four, as Jack wonders to himself whether this “thought itself is part of the nature of physical love, a reverse Darwinism that awards sadness and fear to the survivor.”\[8\]
 
-As the novel progresses, Gladney emerges as a narcissist on a quest for meaning in order to escape death, or rather his fear of it.<sup><sup>\[9\]</sup></sup> According to DeLillo, “\[Gladney\] feels that Hitler is not only bigger than life, as we say of many famous figures, but bigger than death. Our sense of fear – we avoid it because we feel it so deeply, so there is an intense conflict at work. I brought this conflict to the surface in the shape of Jack Gladney.”<sup><sup>\[10\]</sup></sup>
+As the novel progresses, Gladney emerges as a narcissist on a quest for meaning in order to escape death, or rather his fear of it.\[9\] According to DeLillo, “\[Gladney\] feels that Hitler is not only bigger than life, as we say of many famous figures, but bigger than death. Our sense of fear – we avoid it because we feel it so deeply, so there is an intense conflict at work. I brought this conflict to the surface in the shape of Jack Gladney.”\[10\]
 
 In Derridean terms, Gladney’s search for *center*, whether in Babette’s stability, Wilder’s silence, or Hitler studies, is driven by his fear of death.
 
-The same chapter closes with Jack’s admission that he is crafting an identity for himself in his Hitler studies endeavors. He wears dark lens glasses and renders his academic self J. A. K. Gladney, via the fabrication of an extra initial. By his own admission, Jack Gladney is “the false character that follows the name around.”<sup><sup>\[11\]</sup></sup>
+The same chapter closes with Jack’s admission that he is crafting an identity for himself in his Hitler studies endeavors. He wears dark lens glasses and renders his academic self J. A. K. Gladney, via the fabrication of an extra initial. By his own admission, Jack Gladney is “the false character that follows the name around.”\[11\]
 
 In the final chapter of the book’s first section, another confession emerges:
 
-***The truth is I don’t want to die first. Given a choice between loneliness and death, it would take me a fraction of a second to decide. But I don’t want to be alone either. Everything I say to Babette about holes and gaps is true. Her death would leave me scattered, talking to chairs and pillows. Don’t let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light. Let us both live forever, in sickness and in health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating. Who decides these things? What is out there? Who are you?<sup><sup>\[12\]</sup></sup>***
+***The truth is I don’t want to die first. Given a choice between loneliness and death, it would take me a fraction of a second to decide. But I don’t want to be alone either. Everything I say to Babette about holes and gaps is true. Her death would leave me scattered, talking to chairs and pillows. Don’t let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light. Let us both live forever, in sickness and in health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating. Who decides these things? What is out there? Who are you?\[12\]***
 
-Jack Gladney wants to be somebody, and <u>he desperately does not want to die</u>.
+Jack Gladney wants to be somebody, and he desperately does not want to die.
 
 The second of three sections in *White Noise* is solely comprised of the twenty-first chapter. At fifty-four pages long, it is roughly the length of the first twelve chapters combined. This is because it is devoted to the “Airborne Toxic Event” (ATE), the novel’s main incident.
 
@@ -69,7 +69,7 @@ When Jack tries to ascertain if his exposure will cause any health risks, he has
 
 ***“We know that. But we thought we could use it as a model.”***
 
-***“A form of practice? Are you saying you saw a chance to use the real event in order to rehearse the simulation?”<sup><sup>\[13\]</sup></sup>***
+***“A form of practice? Are you saying you saw a chance to use the real event in order to rehearse the simulation?”\[13\]***
 
 The answer is yes. Unfortunately for Gladney, though, his exposure to the Nyodene D was (presumably) real enough. As his fear of death increases as a result of this news, even a specific death sentence eludes him.
 
@@ -111,7 +111,7 @@ The final scene is devoted to the supermarket, the transcendental temple of the 
 
 *Fame* and *death*. Searching for center, gripped by thanatophobia. White noise.
 
-# [**The Bhopal Disaster**](http://en.wikipedia.org/wiki/Bhopal_disaster)**<sup>**<sup>\[20\]</sup>**</sup>**
+# [**The Bhopal Disaster**](http://en.wikipedia.org/wiki/Bhopal_disaster)****\[20\]****
 
 *White Noise* was first published in January 1985, not long after a disastrous chemical leak in Bhopal, central India.
 
@@ -143,11 +143,11 @@ BLACKSMITH. BHOPAL. BENGAY. BRILLO. Which death should we fear?
 
 ![WikipediaBaudrillard20040612-cropped.png](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WikipediaBaudrillard20040612-cropped.png/220px-WikipediaBaudrillard20040612-cropped.png)
 
-According to Jean Baudrillard, **hyperreality** is “***the generation by models of a real without origin or reality***.”<sup><sup>\[25\]</sup></sup>
+According to Jean Baudrillard, **hyperreality** is “***the generation by models of a real without origin or reality***.”\[25\]
 
 When our simulations of reality become indistinguishable from the reality itself, we have entered into the realm of the hyperreal. Not only is it difficult (some would say impossible) to reach beyond the simulations, but we often prefer the simulations to reality itself.
 
-Examples of this abound throughout *White Noise*. Consider “the most photographed barn in America,” which has been so thoroughly eclipsed by its own simulacra that it remains impossible to be seen. In Murray’s words: “they are taking pictures of taking pictures.”<sup><sup>\[26\]</sup></sup> Mentioned above, Jack’s search for center in Hitler studies and the SIMUVAC procedure are further significant examples of the hyperreal in *White Noise*.
+Examples of this abound throughout *White Noise*. Consider “the most photographed barn in America,” which has been so thoroughly eclipsed by its own simulacra that it remains impossible to be seen. In Murray’s words: “they are taking pictures of taking pictures.”\[26\] Mentioned above, Jack’s search for center in Hitler studies and the SIMUVAC procedure are further significant examples of the hyperreal in *White Noise*.
 
 Not even (the fear of) death escapes the influences of hyperreality. Although at first glance death seems a weighty enough subject to break through the simulacra and connect humanity with reality, under closer examination, death evades our grasp.
 
@@ -163,7 +163,7 @@ The second strategy is ***embrace***, subversively trying to strip death of its 
 
 A third strategy is ***examination***. This is best illustrated within *White Noise* by Murray, whose quote to Jack during the ATE merits quotation at length:
 
-*“This is the nature of modern death,” Murray said. “It has a life independent of us. It is growing in prestige and dimension. It has a sweep it never had before. We study it objectively. We can predict its appearance, trace its path in the body. We can take cross-section pictures of it, tape its tremors and waves. We’ve never been so close to it, so familiar with its habits and attitudes. **We know it intimately. But it continues to grow, to acquire breadth and scope, new outlets, new passages and means. The more we learn, the more it grows.** Is this some law of physics? Every advance in knowledge and technique is matched by a new kind of death, a new strain. **Death adapts, like a viral agent**.”<sup><sup>\[29\]</sup></sup>*
+*“This is the nature of modern death,” Murray said. “It has a life independent of us. It is growing in prestige and dimension. It has a sweep it never had before. We study it objectively. We can predict its appearance, trace its path in the body. We can take cross-section pictures of it, tape its tremors and waves. We’ve never been so close to it, so familiar with its habits and attitudes. **We know it intimately. But it continues to grow, to acquire breadth and scope, new outlets, new passages and means. The more we learn, the more it grows.** Is this some law of physics? Every advance in knowledge and technique is matched by a new kind of death, a new strain. **Death adapts, like a viral agent**.”\[29\]*
 
 If we embrace death to strip it of fear, we examine death and attempt to fight it in order to strip it of mystery. However, this is an unsuccessful endeavor. Death eludes our grasp and overpowers our assaults.
 

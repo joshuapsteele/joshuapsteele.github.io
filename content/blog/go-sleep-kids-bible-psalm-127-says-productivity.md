@@ -15,10 +15,10 @@ I love Psalm 127. Not because it makes me feel great, necessarily, but because i
 
 Here’s how the Psalm opens:
 
-> <span class="text Ps-127-1">Unless the <span class="small-caps">Lord</span> builds the house,</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-1">the builders labor in vain.</span></span>  
-> <span class="text Ps-127-1">Unless the <span class="small-caps">Lord</span> watches over the city,</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-1">the guards stand watch in vain.</span></span>
+> Unless the Lord builds the house,  
+>  the builders labor in vain.  
+> Unless the Lord watches over the city,  
+>  the guards stand watch in vain.
 
 I don’t know about you, but it’s easy for me to think that my success or lack thereof completely depends on me and the intensity of my efforts.
 
@@ -32,10 +32,10 @@ However, it does have implications for when we go to bed!
 
 Verse 2 reads:
 
-> <span class="text Ps-127-2" id="en-NIV-16124">In vain you rise early</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-2">and stay up late,</span></span>  
-> <span class="text Ps-127-2">toiling for food to eat—</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-2">for he grants sleep to those he loves.</span></span>
+> In vain you rise early  
+>  and stay up late,  
+> toiling for food to eat—  
+>  for he grants sleep to those he loves.
 
 Thankfully, personal productivity advice these days has come around to recognizing the vital importance of sleep for your health.
 
@@ -51,14 +51,14 @@ The second part of the Psalm hits close to home as well! (See my previous post: 
 
 Verses 3-5 read:
 
-> <span class="text Ps-127-3" id="en-NIV-16125">Children are a heritage from the <span class="small-caps">Lord</span>,</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-3">offspring a reward from him.</span></span>  
-> <span class="text Ps-127-4" id="en-NIV-16126">Like arrows in the hands of a warrior</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-4">are children born in one’s youth.</span></span>  
-> <span class="text Ps-127-5" id="en-NIV-16127">Blessed is the man</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-5">whose quiver is full of them.</span></span>  
-> <span class="text Ps-127-5">They will not be put to shame</span>  
-> <span class="indent-1"><span class="indent-1-breaks"> </span><span class="text Ps-127-5">when they contend with their opponents in court.</span></span>
+> Children are a heritage from the Lord,  
+>  offspring a reward from him.  
+> Like arrows in the hands of a warrior  
+>  are children born in one’s youth.  
+> Blessed is the man  
+>  whose quiver is full of them.  
+> They will not be put to shame  
+>  when they contend with their opponents in court.
 
 DISCLAIMER: I don’t have space here to address the complicated issue of infertility or other things that get in the way of having children. Just know that these verses don’t negate the fact that God loves and draws near to people going through such things in their times of pain.
 

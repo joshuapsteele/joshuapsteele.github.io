@@ -260,7 +260,7 @@ However, as Aniche (2022) notes, because the complexity of our production code i
 
 - **Branch coverage** takes into account all the `true` and `false` branches of the program’s logic (coverage of `if(a && b)` must test for both `a && b == true` and `a && b == false`)
 - **Condition and branch coverage** builds upon branch coverage to consider each condition that’s a part of a `true` or `false` branch (coverage of `if(a || b)` must test for `a == true`/`b == false`, `a == false`/`b == true`, and `a == false`/`b == false`)
-- **Path coverage** is the strictest criteria, considering each and every possible path through the program’s logic (coverage of a program with 10 independent `true/false` conditions would require 2<sup>10</sup> = 1024 test cases)
+- **Path coverage** is the strictest criteria, considering each and every possible path through the program’s logic (coverage of a program with 10 independent `true/false` conditions would require 2[^10] = 1024 test cases)
 
 In a perfect world, we might always want to shoot for 100% path coverage. But, realistically, achieving full path coverage for complicated production code is far too time-consuming to be valuable.
 
@@ -287,7 +287,7 @@ As Aniche (2022) summarizes it, MC/DC
 
 To achieve MC/DC, you list all possible test cases (those required if you were going for path coverage), before searching for “independence pairs” of test cases where (1) a single condition change (2) independently changes the outcome of the code in question. After finding these independence pairs for all of the conditions, you can reduce the list of test cases down to at least one independence pair for each condition under test.
 
-If we’re just considering binary true/false conditions, then MC/DC requires N + 1 test cases vs path coverage’s 2<sup>N</sup> test cases (Aniche 2022, citing [Chilenski 2001](https://www.google.com/books/edition/An_Investigation_of_Three_Forms_of_the_M/8ibStgAACAAJ?hl=en)).
+If we’re just considering binary true/false conditions, then MC/DC requires N + 1 test cases vs path coverage’s 2N test cases (Aniche 2022, citing [Chilenski 2001](https://www.google.com/books/edition/An_Investigation_of_Three_Forms_of_the_M/8ibStgAACAAJ?hl=en)).
 
 While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.
 

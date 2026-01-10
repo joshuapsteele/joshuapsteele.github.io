@@ -20,7 +20,7 @@ I found out about these a year ago, when I had no idea of the storm that was bre
 
 This seems like a shameful attempt of reigning in the “creeping liberalism” of Cedarville’s Bible department. First, if you know any of the conservative evangelical CU Bible faculty, you’ll realize that this is some sort of sick joke. Second, at least proofread your documents to the standards of good scholarship! Even if I agreed with the White Papers’ attempts to silence debate and discussion on matters related to creation, justification, and omniscience, I would still be ashamed of their poor quality.
 
-If you haven’t read Cedarville’s White Papers, they can *finally* be found [here](http://www.cedarville.edu/About/Doctrinal-Statement.aspx) (to the right), on the University website. We had to petition and then wait <u>**a couple months**</u> before the Administration publicly posted the White Papers, even though they are supposed to describe the University’s ***official position*** on three important areas of doctrine!!! Did Cedarville ever intend on releasing these documents if students hadn’t petitioned Dr. Gredy and Dr. Cornman? Or were the White Papers just supposed to be a secret weapon to cleanse the Bible faculty? Apparently they were important enough to be used in the firing of Dr. Michael Pahl.
+If you haven’t read Cedarville’s White Papers, they can *finally* be found [here](http://www.cedarville.edu/About/Doctrinal-Statement.aspx) (to the right), on the University website. We had to petition and then wait **a couple months** before the Administration publicly posted the White Papers, even though they are supposed to describe the University’s ***official position*** on three important areas of doctrine!!! Did Cedarville ever intend on releasing these documents if students hadn’t petitioned Dr. Gredy and Dr. Cornman? Or were the White Papers just supposed to be a secret weapon to cleanse the Bible faculty? Apparently they were important enough to be used in the firing of Dr. Michael Pahl.
 
 ## Michael Pahl![](http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/Michael-Pahl.jpg)
 
@@ -32,7 +32,7 @@ Thankfully, he’s remained on the school’s payroll this academic year, so tha
 
 “Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is his commitment to Scripture’s inspiration, authority and infallibility. He is a promising scholar and a dedicated teacher, and he will be missed by his colleagues and students. Nevertheless, the University has determined this decision to be in the best interests of its constituency at this time.”
 
-What a <u>shameful way to treat a gracious and godly immigrant family.</u>
+What a shameful way to treat a gracious and godly immigrant family.
 
 ## Carl Ruby![](http://www.cedarville.edu/~/media/Images/Campus-News/News/2012/Carl-Ruby-13_001.jpg?w=250)
 
@@ -40,27 +40,27 @@ As if the previous two concerns weren’t enough, the University quickly got rid
 
 What’s the other option? Moral or legal failure, right? Well, Dr. Gredy (acting CU President) himself denied this at the [SGA Town Hall meeting last month](http://cedars.cedarville.edu/article/585/SGA-Town-Hall-Meeting-Jan-22/), saying that Ruby’s resignation was not due to a personal/moral failure.
 
-What’s left, then? Well, despite my University’s urging to “not connect the dots” on these matters, the unavoidable conclusion is that <u>***Dr. Ruby was FIRED*** </u>and that CU Admins/Trustees are hesitant (and deceptively so) to admit that.
+What’s left, then? Well, despite my University’s urging to “not connect the dots” on these matters, the unavoidable conclusion is that ***Dr. Ruby was FIRED*** and that CU Admins/Trustees are hesitant (and deceptively so) to admit that.
 
 Compare this “official” answer from the [Cedarville Alumni and Family Questions and Answers](http://www.cedarville.edu/Alumni/FAQ.aspx) page:
 
-<span style="color:#000000;">“Why did Dr. Carl Ruby leave? </span>
+“Why did Dr. Carl Ruby leave? 
 
-<span style="color:#000000;">“Dr. John Gredy, Provost, [<span style="color:#000000;">announced to the University family</span>](http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Ruby-Legacy-Built-at-Cedarville-University.aspx) on January 10 that he and Dr. Ruby had come to <u>a mutual understanding</u> and that <u>Dr. Ruby would conclude his service to Cedarville University</u>. His last day in the office was shortly thereafter, although Dr. Ruby’s administrative contract continues through June 30. <u>The University is committed to protecting the privacy of its employees so is not commenting publicly on the reasons for the decision</u>.</span>
+“Dr. John Gredy, Provost, [announced to the University family](http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Ruby-Legacy-Built-at-Cedarville-University.aspx) on January 10 that he and Dr. Ruby had come to a mutual understanding and that Dr. Ruby would conclude his service to Cedarville University. His last day in the office was shortly thereafter, although Dr. Ruby’s administrative contract continues through June 30. The University is committed to protecting the privacy of its employees so is not commenting publicly on the reasons for the decision.
 
-<span style="color:#000000;">“Sadly, much speculation and questions have arisen. The Board of Trustees at its January 25 meeting carefully reviewed the events surrounding the announcement that Dr. Carl Ruby would conclude his service. The Board acknowledged and expressed regret that the lack of clarity had made this transition even more difficult for the Cedarville University family. Nonetheless, the Board of Trustees supported <u>the understanding between Dr. Ruby and the administration</u>. The Board of Trustees expressed its gratitude to Dr. Ruby for his service.</span>
+“Sadly, much speculation and questions have arisen. The Board of Trustees at its January 25 meeting carefully reviewed the events surrounding the announcement that Dr. Carl Ruby would conclude his service. The Board acknowledged and expressed regret that the lack of clarity had made this transition even more difficult for the Cedarville University family. Nonetheless, the Board of Trustees supported the understanding between Dr. Ruby and the administration. The Board of Trustees expressed its gratitude to Dr. Ruby for his service.
 
-<span style="color:#000000;">“Dr. Ruby built a legacy at Cedarville, and he will be missed by many. The passions Dr. Ruby embraced were not simply his personal interests, but rather reflect core values of the Cedarville family. The University is committed to continuing these priorities.”</span>
+“Dr. Ruby built a legacy at Cedarville, and he will be missed by many. The passions Dr. Ruby embraced were not simply his personal interests, but rather reflect core values of the Cedarville family. The University is committed to continuing these priorities.”
 
 <div>with this excerpt from the [Dayton Daily News’ most recent piece on Cedarville](http://www.daytondailynews.com/news/news/cedarville-students-alumni-question-universitys-di/nWQgS/):
 
-“Tennessee Pastor Chris Williamson said he resigned from the school’s board of trustees after being “blindsided” by what he called **<u>the administration’s “mistreatment” of the vice president for student life, Carl Ruby</u>**, a popular 25-year veteran of Cedarville who resigned last month. \[…\]
+“Tennessee Pastor Chris Williamson said he resigned from the school’s board of trustees after being “blindsided” by what he called **the administration’s “mistreatment” of the vice president for student life, Carl Ruby**, a popular 25-year veteran of Cedarville who resigned last month. \[…\]
 
-“And then, on Jan. 10, it was announced Ruby would “step down” effective June 30. But his last day on campus was Jan. 15, and hundreds of students showed their support by wearing red and lining his walk from his office to his car. <u>**Ruby’s departure was publicly called a resignation. But Williamson said he learned at a January trustees’ meeting, “it was a termination of employment.”**</u>
+“And then, on Jan. 10, it was announced Ruby would “step down” effective June 30. But his last day on campus was Jan. 15, and hundreds of students showed their support by wearing red and lining his walk from his office to his car. **Ruby’s departure was publicly called a resignation. But Williamson said he learned at a January trustees’ meeting, “it was a termination of employment.”**
 
 and with this excerpt from the [New York Times piece on the Cedarville controversy](http://www.nytimes.com/2013/02/16/us/a-christian-college-struggles-to-define-itself.html?_r=0):
 
-“The Rev. Chris Williamson of Franklin, Tenn., who last month resigned from the Cedarville board of trustees, said that <u>**both the president and Dr. Ruby were considered problematic by the faction of trustees fearful of what they perceive as a creeping liberalism. “They were threatened by Carl’s approach not to theology but to ministry,”**</u> Mr. Williamson said, <u>**“in terms of his ministry to people struggling with gender identification, how he ministers to people on the margins.”**</u>
+“The Rev. Chris Williamson of Franklin, Tenn., who last month resigned from the Cedarville board of trustees, said that **both the president and Dr. Ruby were considered problematic by the faction of trustees fearful of what they perceive as a creeping liberalism. “They were threatened by Carl’s approach not to theology but to ministry,”** Mr. Williamson said, **“in terms of his ministry to people struggling with gender identification, how he ministers to people on the margins.”**
 
 It would be frustrating enough if it were a secular organization committing these injustices. But to watch an organization which claims the name of Christ behave in such despicable ways? It’s intolerable.
 
@@ -72,11 +72,11 @@ But **it’s the leadership here I’m worried about**. And as often as the Bibl
 
 ![](http://www.cedarville.edu/~/media/Images/Campus-News/News/2011/chris-williamson-fall-bible-conference.jpg)As Chris Williamson put it on his Twitter account:
 
-<u><u>**“There’s nothing more dangerous to the cause of Christ than religious people with an ungodly agenda. [<u><s>\#</s>cedarville</u>](https://twitter.com/search?q=%23cedarville&src=hash)”**</u></u>
+**“There’s nothing more dangerous to the cause of Christ than religious people with an ungodly agenda. [<s>\#</s>cedarville](https://twitter.com/search?q=%23cedarville&src=hash)”**
 
 ([@gdk\_chris](https://twitter.com/gdk_chris); 12:49 PM – 1 Feb 13).
 
-I couldn’t agree more. And that is why <u>**I’m calling the leadership of my University to repent, or to quit claiming to be Christ-centered in these matters.**</u>
+I couldn’t agree more. And that is why **I’m calling the leadership of my University to repent, or to quit claiming to be Christ-centered in these matters.**
 
 God will not be mocked.
 

@@ -35,7 +35,7 @@ And likewise, the Fall of Genesis 3 broke relationships. It separated us from Go
 
 The call back to Genesis 1-2 therefore involves much more than right doctrine and moral purity. God is in the process of redeeming everything. And every time we cut his redemptive mission in half (or sometimes smaller), we do so at our own peril.
 
-> …toward the administration of the fullness of the times, to head up<sup> </sup>***all things*** in Christ – the things in *heaven<sup> </sup>*and the things on *earth.* (Ephesians 1:10 NET)
+> …toward the administration of the fullness of the times, to head up ***all things*** in Christ – the things in *heaven *and the things on *earth.* (Ephesians 1:10 NET)
 
 I believe that God’s heart breaks over the lack of unity in his Church today. Is he pleased with the individual moral sins we love to emphasize? By no means. Is he pleased with bad theology? No way. But something is seriously amiss if we do not think that God’s heart breaks over the fragmentation within the Body of Christ.
 

@@ -75,7 +75,7 @@ The world is a different context. The world follows different rules. And the wor
 
 In fact, and here’s my main point if you want to write it down:
 
-**Because God’s Kingdom is an “upside-down” Kingdom, getting ahead in the Kingdom of God will frequently look <u>foolish</u> in the eyes of the world.**
+**Because God’s Kingdom is an “upside-down” Kingdom, getting ahead in the Kingdom of God will frequently look foolish in the eyes of the world.**
 
 ## God’s Upside-Down Kingdom – 1 Corinthians 1:18-31
 
@@ -85,7 +85,7 @@ Now, this is the message of all of our readings for today, but I’d like to sta
 
 ***For the word of the cross is folly to those who are perishing*** (that’s what I’m calling “the world,” by the way – those who are perishing), ***but to us who are being saved*** (that is, to us who are a part of God’s Kingdom) ***it is the power of God.***
 
-You see, **<u>God’s not against getting ahead</u>**. In fact, you could even say that God is on a mission to “Make Creation Great Again”!
+You see, **God’s not against getting ahead**. In fact, you could even say that God is on a mission to “Make Creation Great Again”!
 
 I’m not kidding! He made it great in the first place – a perfect universe with perfect relationships between God, humanity, and all of creation.
 
@@ -97,9 +97,9 @@ So why is Paul saying that the good news of God’s rescue mission is ***foolish
 
 Because God makes creation great again in a totally unexpected way!
 
-**This is what I mean by “<u>God’s upside-down kingdom</u>.”**
+**This is what I mean by “God’s upside-down kingdom.”**
 
-In order to make the world right again, God shows up and **reverses** the ways the world has gotten used to working. And the greatest reversal of all in God’s upside-down kingdom is when **the eternal Son of God becomes <u>human</u> and gets himself <u>killed</u> for the sins of the entire world.**
+In order to make the world right again, God shows up and **reverses** the ways the world has gotten used to working. And the greatest reversal of all in God’s upside-down kingdom is when **the eternal Son of God becomes human and gets himself killed for the sins of the entire world.**
 
 The world expects
 
@@ -118,23 +118,23 @@ and we receive instead a
 
 We receive a ***bloody example*** for those who would dare challenge the kingdoms of this world.
 
-We receive a ***Crucified*** ***Savior***. And the world calls that absolutely ***<u>RIDICULOUS</u>***.
+We receive a ***Crucified*** ***Savior***. And the world calls that absolutely ***RIDICULOUS***.
 
-Because, to the world, you don’t get ahead by **laying your life down** (like Jesus did). You get ahead by *<u>taking what’s yours</u>*.
+Because, to the world, you don’t get ahead by **laying your life down** (like Jesus did). You get ahead by *taking what’s yours*.
 
-You don’t get ahead by **hanging out with the wrong crowd** (like Jesus did). You’re supposed to *<u>rub shoulders with the rich and the famous</u>*, not the **poor** and the **homeless**.
+You don’t get ahead by **hanging out with the wrong crowd** (like Jesus did). You’re supposed to *rub shoulders with the rich and the famous*, not the **poor** and the **homeless**.
 
 You’re not supposed to **focus on the people at the bottom and at the border** (like Jesus did)!
 
-For crying out loud, you’re supposed to get out there and *<u>hustle</u>*!
+For crying out loud, you’re supposed to get out there and *hustle*!
 
-- *<u>Climb the ladder! </u>*
-- *<u>Make deals! </u>*
-- *<u>Take no prisoners! </u>*
-- *<u>Make demands! </u>*
-- *<u>Get ahead!</u>*
+- *Climb the ladder! *
+- *Make deals! *
+- *Take no prisoners! *
+- *Make demands! *
+- *Get ahead!*
 
-…And get right back where we need to be saved ***<u>FROM</u>***!
+…And get right back where we need to be saved ***FROM***!
 
 ***That’s where the world’s ways get us.***
 
@@ -145,7 +145,7 @@ Where every human is
 - alienating other humans,
 - and abusing creation.
 
-Thankfully, as Paul tells us in **\[<u>1 Cor 1:25</u>\]**,
+Thankfully, as Paul tells us in **\[1 Cor 1:25\]**,
 
 > the foolishness of God is wiser than men, and the weakness of God is stronger than men.
 
@@ -155,9 +155,9 @@ Why? So that we would not boast in our pathetic “wisdom” and “strength.”
 
 Instead, we are to boast only in the true wisdom and strength of God.
 
-Paul continues in **\[<u>1 Cor. 1:27</u>\]**:
+Paul continues in **\[1 Cor. 1:27\]**:
 
-> **But God chose what is <u>foolish</u> in the world to shame the <u>wise</u>; God chose what is <u>weak</u> in the world to shame the <u>strong</u>; <sup>28 </sup>God chose what is <u>low</u> and <u>despised</u> in the world, even things that are not, to bring to nothing things that are, <sup>29 </sup>so that no human being might boast in the presence of God.**
+> **But God chose what is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong; 28 God chose what is low and despised in the world, even things that are not, to bring to nothing things that are, 29 so that no human being might boast in the presence of God.**
 
 This, then, is the **upside-down Kingdom of God**.
 
@@ -167,18 +167,18 @@ And it’s the exact same Kingdom that we find in the Beatitudes of Matthew 5.
 
 (FYI: We call them the “Beatitudes” because of the Latin word for “blessed/happy” – *beatus*.)
 
-Now, remember: **God isn’t against getting ahead. He really does want what’s <u>best</u> for us.**
+Now, remember: **God isn’t against getting ahead. He really does want what’s best for us.**
 
-But the danger is that we’ll try to get ahead on our own, in our own way. And if we do that, **<u>we’ll miss the point in at least two ways. </u>**
+But the danger is that we’ll try to get ahead on our own, in our own way. And if we do that, **we’ll miss the point in at least two ways. **
 
 1. First, we won’t realize that **we desperately need a Savior**, and that **we cannot save ourselves**.
 2. Second, we will **ignore** the very **people** that God wants us to **care for** in order to really get ahead in his Kingdom!
 
-That is, <u>on our own</u>, we’re going to focus on those at the **center** and **height** of **power**. You know, “The Winners.”
+That is, on our own, we’re going to focus on those at the **center** and **height** of **power**. You know, “The Winners.”
 
-But <u>God focuses</u> on those at the **bottom** and at the **borders**, the **edges** of society. You know, “The Losers.”
+But God focuses on those at the **bottom** and at the **borders**, the **edges** of society. You know, “The Losers.”
 
-*These* are the people who will experience God’s favor in his Upside-Down Kingdom. Take a look at \[**<u>Matthew 5:3-12</u>**\].
+*These* are the people who will experience God’s favor in his Upside-Down Kingdom. Take a look at \[**Matthew 5:3-12**\].
 
 Notice how Jesus declares God’s favor, His blessing, to what the world would call the “wrong kind of people.”
 
@@ -194,11 +194,11 @@ Notice how Jesus declares God’s favor, His blessing, to what the world would c
 
 And notice as well, that the blessings frequently involve **reversals**. The world is giving them one thing, but God is going to give them another.
 
-Now, this is important: these famous words are a **<u>mixture</u>** of **encouragement** and **instruction**.
+Now, this is important: these famous words are a **mixture** of **encouragement** and **instruction**.
 
 That is, Jesus isn’t just giving us a TO-DO LIST in order to get as much blessing as possible. He’s not saying “Go out there and try harder to be poor, persecuted, hungry, mourners.”
 
-Now, Jesus IS **instructing**, more on that in a second. **But** he is first offering divine **encouragement** to those who are ***<u>already</u>*** in those situations.
+Now, Jesus IS **instructing**, more on that in a second. **But** he is first offering divine **encouragement** to those who are ***already*** in those situations.
 
 ## The Beatitudes: An Interpretive Translation
 
@@ -217,7 +217,7 @@ Jesus is saying:
 
 Friends, if you’re here today and you’re at the bottom of this world, then I **encourage** you to **cling** to the divine **promises** of **blessing** in the Beatitudes.
 
-God is in the process of making all things new – **reversing** every wrong in this world. ***<u>Take heart.</u>***
+God is in the process of making all things new – **reversing** every wrong in this world. ***Take heart.***
 
 However, and perhaps this is uncomfortable to talk about, **what if we’re NOT on this list?**
 
@@ -245,7 +245,7 @@ How should we respond to the Beatitudes?
 
 While I **DON’T** think that the Beatitudes should be read like a **TO-DO list**,
 
-**I DO think that the Beatitudes are an <u>instructive</u> <u>challenge</u> to followers of Jesus.**
+**I DO think that the Beatitudes are an instructive challenge to followers of Jesus.**
 
 There is a reason why the Beatitudes are at the beginning of Jesus’ quintessential sermon.
 
@@ -257,9 +257,9 @@ It’s almost like Jesus is saying,
 > 
 > It’s not going to be the kind of Kingdom you’re used to in this world.
 > 
-> You know, the kind of kingdom where the **wealthy**, **wise**, and **powerful** get <u>rewarded</u>.
+> You know, the kind of kingdom where the **wealthy**, **wise**, and **powerful** get rewarded.
 > 
-> Instead, in MY Kingdom, **the people who get <u>chewed up</u> and <u>spit out</u> by the kingdoms of this world will be <u>rewarded</u> and <u>honored</u>.**
+> Instead, in MY Kingdom, **the people who get chewed up and spit out by the kingdoms of this world will be rewarded and honored.**
 > 
 > SO,
 > 
@@ -303,7 +303,7 @@ We must show concrete concern for the powerless. And two recent issues come to m
 
 ### Abortion
 
-**<u>First</u>**, in light of the [44th March for Life](https://en.wikipedia.org/wiki/March_for_Life_(Washington,_D.C.)) held this past weekend, **I’d be remiss if I didn’t remind you that we must continue to stand up for the unborn.**
+**First**, in light of the [44th March for Life](https://en.wikipedia.org/wiki/March_for_Life_(Washington,_D.C.)) held this past weekend, **I’d be remiss if I didn’t remind you that we must continue to stand up for the unborn.**
 
 **Abortion** is a gruesome **evil**. And like other forms of evil, it is complex – not easily eradicated.
 
@@ -319,9 +319,9 @@ If you’re passionate about this issue, I encourage you to check out the organi
 
 ### Refugees
 
-**<u>Second</u>**, given [President Trump’s recent executive actions](https://www.theatlantic.com/news/archive/2017/01/trump-immigration-order-muslims/514844/) to halt the acceptance of all refugees to the USA, including a temporary moratorium on seven predominantly Muslim countries,
+**Second**, given [President Trump’s recent executive actions](https://www.theatlantic.com/news/archive/2017/01/trump-immigration-order-muslims/514844/) to halt the acceptance of all refugees to the USA, including a temporary moratorium on seven predominantly Muslim countries,
 
-**I’d be remiss if I didn’t remind you that, if we are to be consistently pro-life, we must also stand up for the <u>refugees</u>.**
+**I’d be remiss if I didn’t remind you that, if we are to be consistently pro-life, we must also stand up for the refugees.**
 
 Next to the unborn, refugees around the world – but especially from Syria – are among the most **vulnerable** and **powerless** people in the world.
 
@@ -333,7 +333,7 @@ However, many Christians in this country are **falling prey to the fear excuse**
 
 We’re being tempted to turn away these vulnerable people because of the **supposed risk of a terrorist attack**.
 
-**<u>**I’m here this morning to plead with you: Do not fall prey to this nonsense.** </u>**
+****I’m here this morning to plead with you: Do not fall prey to this nonsense.** **
 
 Even if the fear were ***legitimate***, it is no **excuse** for Christians not to show concrete love to the powerless.
 
@@ -351,7 +351,7 @@ According to [a September 2016 **Policy Analysis** from the **CATO** institute](
 
 For comparison: [according to the National Safety Council](http://www.nsc.org/learn/safety-knowledge/Pages/injury-facts-chart.aspx), **your chance of dying from a lightning strike is 1 in 174,426**.
 
-***<u>**That means it’s about 20,868 times more likely that you will get killed by lightning than by a refugee terrorist attack.**</u>***
+*****That means it’s about 20,868 times more likely that you will get killed by lightning than by a refugee terrorist attack.*****
 
 While we’re worried about astronomical odds, these people are dying. The death toll from the Syrian conflict is approaching half a million, including 50 thousand children.
 

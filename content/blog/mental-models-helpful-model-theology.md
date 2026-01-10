@@ -73,9 +73,9 @@ Also, consider the following Trinitarian theological mental models:
 
 # 4 Reasons why mental models might be useful for theology
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Again, here’s my idea: Mental models could provide a helpful model for theology. </span>
+Again, here’s my idea: Mental models could provide a helpful model for theology. 
 
-<span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;">Why? </span>
+Why? 
 
 ## 1. Mental Models could help keep theologians humble
 

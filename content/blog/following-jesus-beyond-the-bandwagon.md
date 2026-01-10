@@ -35,7 +35,7 @@ I’m from Toledo, OH, which is on the border with Michigan, so the fan split wa
 
 And each year, on the day after the big game, you could tell who the true fans were…
 
-It was the people still cheering for the team that <u>***lost***</u>.
+It was the people still cheering for the team that ***lost***.
 
 Why not the winning fans? Weren’t they just as legit?
 
@@ -62,7 +62,7 @@ We ride the bandwagon when it comes to:
 
 We ride bandwagons when it comes to our friends. Our hobbies.
 
-And, if we’re really honest with ourselves, our <u>faith</u>.
+And, if we’re really honest with ourselves, our faith.
 
 ## We are Bandwagon Christians
 
@@ -98,7 +98,7 @@ And Jesus is about to drop a truth-bomb on all of us, that he is not interested 
 
 What does he want? Let’s read to find out. Verse 25 begins:
 
-> <sup>25 </sup>Now great crowds accompanied him, and he turned and said to them,<sup>26 </sup>“If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple.
+> 25 Now great crowds accompanied him, and he turned and said to them,26 “If anyone comes to me and does not hate his own father and mother and wife and children and brothers and sisters, yes, and even his own life, he cannot be my disciple.
 
 ### Jesus doesn’t want bandwagon followers. Instead, he wants your ultimate loyalty.
 
@@ -124,7 +124,7 @@ Jesus doesn’t want bandwagon followers; he wants your **ultimate loyalty**.
 
 Let’s read verse 27:
 
-> <sup>27 </sup>Whoever does not bear his own cross and come after me cannot be my disciple.
+> 27 Whoever does not bear his own cross and come after me cannot be my disciple.
 
 Jesus is saying that his followers are to live as if they’re condemned to die. Pick up your electric chair and follow Jesus!
 
@@ -146,9 +146,9 @@ But Jesus wants our **loyalty**, and he wants our **lives**.
 
 Let’s read verses 28-32:
 
-> <sup>28 </sup>For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it? <sup>29 </sup>Otherwise, when he has laid a foundation and is not able to finish, all who see it begin to mock him, <sup>30 </sup>saying, ‘This man began to build and was not able to finish.’
+> 28 For which of you, desiring to build a tower, does not first sit down and count the cost, whether he has enough to complete it? 29 Otherwise, when he has laid a foundation and is not able to finish, all who see it begin to mock him, 30 saying, ‘This man began to build and was not able to finish.’
 > 
-> <sup>31 </sup>Or what king, going out to encounter another king in war, will not sit down first and deliberate whether he is able with ten thousand to meet him who comes against him with twenty thousand? <sup>32 </sup>And if not, while the other is yet a great way off, he sends a delegation and asks for terms of peace.
+> 31 Or what king, going out to encounter another king in war, will not sit down first and deliberate whether he is able with ten thousand to meet him who comes against him with twenty thousand? 32 And if not, while the other is yet a great way off, he sends a delegation and asks for terms of peace.
 
 If Jesus wants our loyalty and our lives, then it’s a good idea to stop and consider what we’re getting ourselves into before we claim to be his followers!
 
@@ -164,7 +164,7 @@ What a motivational chapel message this is turning out to be! Hate your family a
 
 Let’s read one more verse, verse 33:
 
-> <sup>33 </sup>So therefore, any one of you who does not renounce all that he has cannot be my disciple.
+> 33 So therefore, any one of you who does not renounce all that he has cannot be my disciple.
 
 Friends, it might not feel like it, but we’ve actually arrived at the good news. Remember, the bad news is that we’re all riding the bandwagon, and that Jesus doesn’t want bandwagon followers.
 
@@ -224,7 +224,7 @@ Are we willing to risk our athletic accomplishments?
 
 Are we willing to risk our everyday comfort?
 
-### What risk is Jesus asking you to take for him right now, today?<u> </u>
+### What risk is Jesus asking you to take for him right now, today? 
 
 Maybe it’s a conversation you need to have.
 
