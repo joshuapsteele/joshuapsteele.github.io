@@ -1,11 +1,10 @@
 ---
 author: joshuapsteele
 categories: theology
+tags: [essay, bible]
 date: '2013-10-30T22:24:35Z'
 description: (Here’s my paper on Psalm 2, submitted to Dr. Sydney Park in partial
   fulfillment of my Biblical Interpretation course here at Beeson Divinity School.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: 'Psalm 2: Quare Fremuerunt Gentes? (Why Do the Nations Rage?)'
 url: /psalm-2-quare-fremuerunt-gentes/
 ---
@@ -76,7 +75,7 @@ The uniqueness of Jesus’ fulfillment of the second psalm is further accentuate
 
 [^19]: VanGemeren, *Psalms*, 90,8; cf. Pss 19:13; 25:7, 18; 31:10; 32:3-5; 38:3-4, 18; 39:1, 8; 40:12; 41:4; 51:1-2.
 
-[^20]: Mays notes both aspects of Psalm 2’s uniqueness. The OT/NT assumption is my own. Mays, *Psalms*, 40,7. According to the *UBS Greek New Testament*, 4th Rev. Ed. (Stuttgart: Deutsche Bibelgesellschaft, 2001) 887,95, Psalm 2 is quoted in the NT at Acts 4:25-26 (Ps 2:1-2); 13:33; Heb 1:5, and 5:5 (Ps 2:7). Furthermore, there are allusions and verbal parallels to Psalm 2 at Mt 3:17; 17:5; Mk 1:11; 9:7; Lk 3:22; 9:35; Jn 1:49 (Ps 2:7); Heb 1:2 (Ps 2:8); Rev 11:18 (Ps 2:1); and 19:19 (Ps 2:2). Gunn notes that “based on New Testament quotations, allusions, and verbal parallels, Psalm 2 is one of the most frequently referred to of all the psalms.” Gunn, “Psalm 2,” 427.
+[^20]: Mays notes both aspects of Psalm 2’s uniqueness. The OT/NT assumption is my own. Mays, *Psalms*, 40,7. According to the *UBS Greek New Testament*, 4<sup>th</sup> Rev. Ed. (Stuttgart: Deutsche Bibelgesellschaft, 2001) 887,95, Psalm 2 is quoted in the NT at Acts 4:25-26 (Ps 2:1-2); 13:33; Heb 1:5, and 5:5 (Ps 2:7). Furthermore, there are allusions and verbal parallels to Psalm 2 at Mt 3:17; 17:5; Mk 1:11; 9:7; Lk 3:22; 9:35; Jn 1:49 (Ps 2:7); Heb 1:2 (Ps 2:8); Rev 11:18 (Ps 2:1); and 19:19 (Ps 2:2). Gunn notes that “based on New Testament quotations, allusions, and verbal parallels, Psalm 2 is one of the most frequently referred to of all the psalms.” Gunn, “Psalm 2,” 427.
 
 [^21]: Ross, *Psalms*, 213, fn. 31, citing J. Clifford, *Psalms 1-72* (Nashville: Abingdon Press, 2002) 46.
 

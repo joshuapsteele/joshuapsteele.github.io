@@ -12,7 +12,7 @@ I’ve been dragging my heels on learning Markdown for awhile now.
 
 If you don’t know, Markdown is:
 
-> [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language "Lightweight markup language") with plain text formatting syntax designed so that it can be converted to [HTML](https://en.wikipedia.org/wiki/HTML "HTML") and many other formats using a tool by the same name.[^8] Markdown is often used to format [readme files](https://en.wikipedia.org/wiki/README "README"), for writing messages in online discussion forums, and to create [rich text](https://en.wikipedia.org/wiki/Formatted_text "Formatted text") using a [plain text](https://en.wikipedia.org/wiki/Plain_text "Plain text") [editor](https://en.wikipedia.org/wiki/Text_editor "Text editor"). \[Source: [Wikipedia](https://en.wikipedia.org/wiki/Markdown)\]
+> [lightweight markup language](https://en.wikipedia.org/wiki/Lightweight_markup_language "Lightweight markup language") with plain text formatting syntax designed so that it can be converted to [HTML](https://en.wikipedia.org/wiki/HTML "HTML") and many other formats using a tool by the same name. Markdown is often used to format [readme files](https://en.wikipedia.org/wiki/README "README"), for writing messages in online discussion forums, and to create [rich text](https://en.wikipedia.org/wiki/Formatted_text "Formatted text") using a [plain text](https://en.wikipedia.org/wiki/Plain_text "Plain text") [editor](https://en.wikipedia.org/wiki/Text_editor "Text editor"). \[Source: [Wikipedia](https://en.wikipedia.org/wiki/Markdown)\]
 
 That is, get the benefits of HTML and/or rich text, without \[as steep of\] a learning curve!
 

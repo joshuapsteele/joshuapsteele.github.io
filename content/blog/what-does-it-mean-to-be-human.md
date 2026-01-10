@@ -1,11 +1,9 @@
 ---
 author: joshuapsteele
 categories: theology
+tags: [essay]
 date: '2015-05-07T22:38:13Z'
-description: The act of asking 'what does it mean to be human?' reveals our self-transcendence—a
-  dialectic between subject and object.
-publicize_twitter_user: desires. However, theology can ground anthropology. God personifies
-  us.
+description: 'An essay on what it means to be a human being.'
 title: What does it mean to be human?
 url: /what-does-it-mean-to-be-human/
 ---

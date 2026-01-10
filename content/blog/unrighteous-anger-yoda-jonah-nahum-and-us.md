@@ -1,10 +1,10 @@
 ---
 author: joshuapsteele
 categories: theology
+tags: [sermons]
 date: '2013-05-18T21:18:39Z'
 description: A sermon exploring righteous versus unrighteous anger through Yoda's
   wisdom, Jonah's fury, Nahum's prophecy, and our own responses.
-publicize_twitter_user: null
 title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
 url: /unrighteous-anger-yoda-jonah-nahum-and-us/
 ---
