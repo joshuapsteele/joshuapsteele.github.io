@@ -10,6 +10,7 @@ tags:
 - barth
 - bible
 - romans
+- essay
 title: 'The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading
   of Romans 9:30–10:21'
 url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/
