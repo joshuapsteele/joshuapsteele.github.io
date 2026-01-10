@@ -2,14 +2,21 @@
 title: "An Ecclesiastical Pickle: Resigning vs. Renouncing One's Ministry"
 date: 2026-01-08
 draft: false
-description: "Is there a difference between resigning from ministry and renouncing Holy Orders?"
-tags: [ordination, ministry]
-categories: [personal]
+description: Is there a difference between resigning from ministry and renouncing Holy Orders?
+tags:
+  - ordination
+  - ministry
+  - anglican
+categories:
+  - personal
 url: /an-ecclesiastical-pickle/
 ---
 
 It's been brought to my attention that the description of how I [resigned from ordained ministry in the Anglican Church in North America](https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023 might not be canonically accurate. 
 
+{{< callout "important" >}}
+UDPATE: As of 2026-01-09, I've asked that we clarify my November 2023 resignation from ministry in the ACNA by just sticking to the exact wording of the ACNA Canons. No extra "this is/isn't different from renouncing Holy Orders" qualifications needed.
+{{< /callout >}}
 ## The Problem: Resigning is Renouncing?
 
 In November 2023, here's how I put it (emphasis added to highlight the parts now in question):
@@ -36,7 +43,9 @@ Put differently, the argument is that the phrase "resignation or renunciation of
 
 ## The Canon in Question
 
-Here's the full text of the canon in question. Let me know how you interpret it.
+Here's the full text of the canon in question. Let me know how you interpret it. I've put the most important language (in my opinion) in **bold**. 
+
+Note the usage of "[in] this Church" language, which is what mainly convinces me that this is describing jurisdictional release. That and the fact that what is relinquished is "the right to exercise in this Church" the gifts and spiritual authority conferred in ordination. **Not** the gifts and spiritual authority themselves, mind you, but the right to exercise them in the ACNA.
 
 {{< callout "note" >}}
 TITLE III: Of Ministers, Their Recruitment, Preparation, Ordination, Office, Practice and Transfer
@@ -45,10 +54,10 @@ Canon 6: Of the Acceptance and Dismissal of Clergy in this Church
 
 Section 3: Concerning Voluntary Resignation from the Ordained Ministry of this Church
 
-1. Any Deacon or Presbyter in good standing may resign from the Ordained Ministry of this Church by sending a resignation in writing to the Bishop with jurisdiction. The Bishop or other Ecclesiastical Authority shall record the declaration and request so made, and shall determine that the Deacon or Presbyter is not under discipline as defined in Title IV of these canons, and that the resignation is not occasioned by misconduct or irregularity, but is voluntary and for causes which do not affect the moral character of the Deacon or Presbyter. Upon making this determination, the Bishop or other Ecclesiastical Authority shall defer formal action upon the declaration for two months, and meanwhile shall lay the matter before the Standing Committee or its equivalent for advice and consent. With its advice and consent, the Bishop or other Ecclesiastical Authority may pronounce that such resignation is accepted and that the Deacon or Presbyter is released from the obligations of the Ministerial office, and that the Deacon or Presbyter relinquishes the right to exercise in this Church the gifts and spiritual authority as a Minister of God's Word and Sacraments conferred in ordination.
+1. Any Deacon or Presbyter in good standing may resign from the Ordained Ministry of this Church by sending a resignation in writing to the Bishop with jurisdiction. The Bishop or other Ecclesiastical Authority shall record the declaration and request so made, and shall determine that the Deacon or Presbyter is not under discipline as defined in Title IV of these canons, and that the resignation is not occasioned by misconduct or irregularity, but is voluntary and for causes which do not affect the moral character of the Deacon or Presbyter. Upon making this determination, the Bishop or other Ecclesiastical Authority shall defer formal action upon the declaration for two months, and meanwhile shall lay the matter before the Standing Committee or its equivalent for advice and consent. With its advice and consent, the Bishop or other Ecclesiastical Authority may pronounce that such resignation is accepted and that the Deacon or Presbyter is **released from the obligations of the Ministerial office**, and that the Deacon or Presbyter **relinquishes the right to exercise in this Church the gifts and spiritual authority as a Minister of God's Word and Sacraments conferred in ordination**.
 2. The Bishop's declaration shall state that the resignation was for causes which do not affect the Deacon or Presbyter's moral character, and shall, if requested, give a certificate to this effect to the person so removed from the ministry of this Church. In all other cases of resignation or renunciation of the ordained ministry, where there may be a question of misconduct or irregularity, the Bishop shall follow the procedures outlined in Canon IV.7.
 3. Any Deacon or Presbyter whose resignation has been accepted under this canon may request that the Bishop write a commendatory letter to another Christian denomination or jurisdiction.
-4. A Deacon or Presbyter having voluntarily resigned from the ordained ministry of this Church and not under the discipline of any ecclesial body may petition the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned to restore the right to exercise in this Church the gifts and spiritual authority as a Minister of God's Word and Sacraments conferred in ordination. The terms and conditions of such restoration shall be entirely within the discretion of the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned, with the advice and consent of the Standing Committee or its equivalent.
+4. A Deacon or Presbyter having voluntarily resigned from the ordained ministry of this Church and not under the discipline of any ecclesial body may petition the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned to **restore the right to exercise in this Church the gifts and spiritual authority as a Minister of God's Word and Sacraments conferred in ordination**. The terms and conditions of such restoration shall be entirely within the discretion of the Bishop having jurisdiction in the diocese from which the Deacon or Presbyter resigned, with the advice and consent of the Standing Committee or its equivalent.
 {{< /callout >}}
 
 ## My Options
@@ -60,5 +69,9 @@ If resigning and renouncing are one and the same, then my options are:
 3. Resign/renounce ordained ministry (dropping the "not renouncing my Holy Orders" from my request and "while remaining in Holy Orders" from my bishop's response)
 
 I'm still trying to think through things before making a decision. I don't want to do 1. I don't think I'm ready to do 2. And, until today, I didn't think I was ready to do 3.
+
+{{< callout "important" >}}
+UDPATE: As of 2026-01-09, I've asked that we clarify my November 2023 resignation from ministry in the ACNA by just sticking to the exact wording of the ACNA Canons. No extra "this is/isn't different from renouncing Holy Orders" qualifications needed.
+{{< /callout >}}
 
 What are your thoughts? Any counsel you'd offer? Any specific questions I should consider as I weigh my options? Let me know.
