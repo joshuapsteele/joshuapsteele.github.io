@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kingdom of God, Dictionary of Scripture and Ethics.md",
+                "file": "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eca512196cdfa58",
+  "active": "e54d7be14501a38b",
   "lastOpenFiles": [
     "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
-    "The Kingdom of God, Dictionary of Scripture and Ethics.md",
+    "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
     "content/files.md",
     "content/blog/psalm-2-quare-fremuerunt-gentes.md",
     "content/blog/proverbs-topical-study-poverty.md",
