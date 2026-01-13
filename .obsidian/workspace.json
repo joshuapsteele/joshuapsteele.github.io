@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dissertation",
+                "query": "youtube",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0eca512196cdfa58",
+  "active": "249e5504d79a875d",
   "lastOpenFiles": [
     "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
     "content/blog/american-freedom-isnt-biblical-freedom.md",

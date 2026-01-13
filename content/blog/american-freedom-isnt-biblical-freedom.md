@@ -21,7 +21,7 @@ This matters because American Christians have fused two very different ideas of 
 
 They're not. And the confusion has cost us.
 
-## The American Version
+## American Freedom: Freedom FROM
 
 The dominant American understanding of freedom is simple: I am free when no one can tell me what to do.
 
@@ -31,7 +31,7 @@ This understanding has shaped American life in countless ways, many of them genu
 
 But this is not what Scripture means by freedom.
 
-## The Biblical Version
+## Biblical Freedom: Freedom FOR
 
 Scripture consistently presents freedom not as the absence of constraint but as the presence of a particular orientation. Biblical freedom always has a direction. It's freedom _from_ something _for_ something else.
 
@@ -42,6 +42,12 @@ Freedom from Pharaoh was always freedom for Torah.
 This pattern runs throughout Scripture. Psalm 119:134 captures it: "Redeem me from human oppression, that I may keep your precepts." The psalmist doesn't ask to be freed from oppression so he can finally be his own boss. He asks to be freed so he can live according to God's ways.
 
 The purpose of liberation is faithfulness, not autonomy.
+
+{{< callout "note" >}}
+For more on what the Bible means by "redemption", watch [this helpful video from the BibleProject](https://www.youtube.com/watch?v=uib2G8GkG60) and its associated [guide on Redemption](https://bibleproject.com/redemption/):
+
+{{< youtube uib2G8GkG60 >}}
+{{< /callout >}}
 
 ## Paul's Outrageous Claim
 
