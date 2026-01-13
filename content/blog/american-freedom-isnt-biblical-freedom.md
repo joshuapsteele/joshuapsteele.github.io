@@ -1,7 +1,7 @@
 ---
 title: American Freedom Isn't Biblical Freedom
 date: 2026-01-13
-draft: true
+draft: false
 tags:
   - freedom
   - politics
