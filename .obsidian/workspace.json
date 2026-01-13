@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
+                "file": "content/blog/american-freedom-isnt-biblical-freedom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kingdom of God, Dictionary of Scripture and Ethics"
+              "title": "american-freedom-isnt-biblical-freedom"
             }
           }
         ],
@@ -208,8 +208,10 @@
   },
   "active": "0eca512196cdfa58",
   "lastOpenFiles": [
-    "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
     "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
+    "content/blog/american-freedom-isnt-biblical-freedom.md",
+    "content/blog/american-freedom-isn-t-biblical-freedom.md",
+    "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
     "content/files.md",
     "content/blog/psalm-2-quare-fremuerunt-gentes.md",
     "content/blog/proverbs-topical-study-poverty.md",
@@ -232,8 +234,6 @@
     "content/blog/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life.md",
     "content/blog/down-with-the-pacifists.md",
     "content/blog/dont-stir-the-pot.md",
-    "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
-    "content/pages/interests.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

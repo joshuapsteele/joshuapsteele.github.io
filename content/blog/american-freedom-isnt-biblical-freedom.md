@@ -1,9 +1,14 @@
 ---
-title: "American Freedom Isn't Biblical Freedom"
+title: American Freedom Isn't Biblical Freedom
 date: 2026-01-13
 draft: true
-tags: []
-categories: []
+tags:
+  - freedom
+  - politics
+categories:
+  - theology
+  - ethics
+url: /american-freedom-vs-biblical-freedom/
 ---
 
 "Give me liberty or give me death."
