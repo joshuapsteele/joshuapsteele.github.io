@@ -26,9 +26,11 @@ This `/about` page is just one of [my many "slash pages."](/slashes)
 
 In my free time (what's that?), I buy books and tools...and then try to find even more time to use them. Recently, DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I'm trying to become competent in as many different practical skills as possible. (You know, since I studied *theology* in school! Haha.)
 
-This is my main personal website, powered by [Hugo](https://gohugo.io) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod), and hosted on [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io). 
+This is my main personal website, powered by [Hugo](https://gohugo.io) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod), and hosted on [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io).
 
 You can also follow my shorter posts on micro.blog over at [social.joshuapsteele.com](https://social.joshuapsteeele.com), which get cross-posted to [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social) and [Mastodon](https://mastodon.social/@joshuapsteele).
+
+If you'd like to stay updated with my work, [visit my Follow page](/follow) to subscribe to my email newsletter or connect on social media.
 
 If you'd like to learn more about me, check out:
 

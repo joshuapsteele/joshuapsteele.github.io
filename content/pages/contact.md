@@ -19,7 +19,7 @@ I'll do my best to read and reply as soon as possible!
 
 ---
 
-If you'd like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on [my homepage here](/).
+If you'd like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on [my homepage here](/). You can also [follow my work and subscribe to my email newsletter here](/follow).
 
 Cheers,
 Josh
