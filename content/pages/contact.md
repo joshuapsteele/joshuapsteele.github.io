@@ -9,9 +9,15 @@ showtoc: false
 
 If you'd like to ask if I'm interested in guest content on my blog, please don't. I'm not interested.
 
-For all other matters, the best way to contact me is to send an email. You can use the word "blog," followed by the "at" symbol, followed by the domain of my website. 
+For all other matters, you can use the contact form below or send an email to the word "blog," followed by the "at" symbol, followed by the domain of my website.
 
 I'll do my best to read and reply as soon as possible!
+
+## Contact Form
+
+<script data-letterbirduser="joshua" src="https://letterbird.co/embed/v1.js"></script>
+
+---
 
 If you'd like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on [my homepage here](/).
 
