@@ -31,7 +31,7 @@ In Matthew 25:35, Jesus says: "I was a stranger and you invited me in." The Gree
 
 This isn't a minor detail in the parable. The judgment hinges on it. Those who enter the kingdom are those who welcomed the stranger. Those who are cast out are those who didn't. Jesus makes the stakes crystal clear: **how you treat the foreigner is how you treat Christ himself**.
 
-Now, before we go further, let me be clear about what I'm not saying. I'm not claiming that [you can follow Jesus and support open borders](/you-cant-follow-jesus-and-hate-immigrants/) without any restrictions whatsoever. I'm not suggesting that nations have no right to manage immigration. I'm not pretending that immigration policy is simple or that there are easy answers to complex questions about security, resources, and integration.
+Now, before we go further, let me be clear about what I'm not saying. I'm not claiming that, [if you follow Jesus, you must support open borders](/you-cant-follow-jesus-and-hate-immigrants/) without any restrictions whatsoever. I'm not suggesting that nations have no right to manage immigration. I'm not pretending that immigration policy is simple or that there are easy answers to complex questions about security, resources, and integration.
 
 But I am saying this: **Christians cannot use Romans 13 as a blank check to endorse policies that treat immigrants with cruelty, fear, or contempt**. We cannot read Paul's instruction about governing authorities as permission to ignore Jesus' identification with the stranger. We cannot claim to follow Jesus while harboring hatred toward immigrants in our hearts.
 
