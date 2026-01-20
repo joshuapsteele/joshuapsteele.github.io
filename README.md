@@ -21,7 +21,8 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 ## Features
 
-- 📝 Blog with 300+ posts organized by categories and tags
+- 📝 Blog with 310+ posts organized by categories and tags
+- 📧 **"Steele Notes" email newsletter** via [Buttondown](https://buttondown.com/joshuapsteele)
 - 🔍 Full-text search functionality
 - 📱 Responsive design with dark mode support
 - 📊 RSS and JSON feeds
@@ -85,7 +86,7 @@ npm run clean
 ```
 .
 ├── content/
-│   ├── blog/          # Blog posts (300+ markdown files)
+│   ├── blog/          # Blog posts (310+ markdown files)
 │   ├── pages/         # Static pages (about, contact, cv, now, uses, etc.)
 │   └── search.md      # Search page
 ├── layouts/           # Custom Hugo layouts and overrides
@@ -337,6 +338,7 @@ This means:
 
 - **Website**: [joshuapsteele.com](https://joshuapsteele.com)
 - **Blog**: [joshuapsteele.com/blog](https://joshuapsteele.com/blog)
+- **Newsletter**: [Steele Notes](https://buttondown.com/joshuapsteele) - Subscribe at [joshuapsteele.com/follow](https://joshuapsteele.com/follow)
 - **Contact**: [joshuapsteele.com/contact](https://joshuapsteele.com/contact)
 
 ## Acknowledgments

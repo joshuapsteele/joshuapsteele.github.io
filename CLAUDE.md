@@ -11,9 +11,12 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 - **Static Site Generator**: Hugo 0.147.3 extended (Node 20 in CI, Node 18+ locally)
 - **Theme**: PaperMod (in `themes/` directory, override via `layouts/` and `assets/`)
 - **Content Structure**:
-  - `content/blog/` - Blog posts (309 markdown files with YAML front matter)
-  - `content/pages/` - Static pages (40 files including about, contact, cv, now, uses, etc.)
+  - `content/blog/` - Blog posts (314 markdown files with YAML front matter)
+  - `content/pages/` - Static pages (42 files including about, contact, cv, now, uses, follow, etc.)
   - `content/search.md` - Search functionality page
+- **Newsletter**: "Steele Notes" email newsletter via [Buttondown](https://buttondown.com/joshuapsteele)
+  - Subscription forms on homepage (`layouts/partials/index_profile.html`) and `/follow` page
+  - Powered by Buttondown API embed
 - **Layouts**: Custom Hugo layouts in `layouts/` directory
   - Custom shortcodes: `audio`, `callout`, `figure`, `files-list`, and `gallery`
   - Partials for comments, analytics (`google_analytics`, `tinylytics_kudos`), and site components
@@ -108,6 +111,12 @@ The `deploy.sh` script simplifies local deployment workflow:
 - Search functionality with Fuse.js (configurable in `hugo.yaml` under `fuseOpts`)
 - RSS and JSON feeds enabled (custom output formats: `/feed.xml`, `/feed.json`)
 - Full content in RSS feeds enabled
+
+### Newsletter
+- **"Steele Notes"** email newsletter via Buttondown
+- Subscription form embedded on homepage and `/follow` page
+- Subscribe URL: https://buttondown.com/joshuapsteele
+- Form uses Buttondown's embed API (`https://buttondown.com/api/emails/embed-subscribe/joshuapsteele`)
 
 ### Content Features
 - Table of contents enabled by default on posts
@@ -364,4 +373,5 @@ See `DRAFTS-ACTIONS.md` for Drafts setup and usage.
 - PaperMod Theme: https://github.com/adityatelange/hugo-PaperMod
 - GitHub Pages: https://docs.github.com/en/pages
 - Fuse.js Search: https://fusejs.io/
+- Buttondown (Newsletter): https://buttondown.com/
 - Repository: https://github.com/joshuapsteele/joshuapsteele.github.io
