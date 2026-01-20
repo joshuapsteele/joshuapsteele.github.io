@@ -1,7 +1,7 @@
 ---
 title: "Romans 13 Is Not a Blank Check for Cruelty"
-date: 2026-01-20
-draft: true
+date: '2026-01-20T14:00:00Z'
+draft: false
 description: "The Bible is clear about how we treat immigrants and the poor. Romans 13 doesn't change that."
 tags:
   - immigration
