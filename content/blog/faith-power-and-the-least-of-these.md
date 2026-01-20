@@ -1,16 +1,31 @@
 ---
-title: "Faith, Power, and the Least of These"
+title: "Romans 13 Is Not a Blank Check for Cruelty"
 date: 2026-01-20
 draft: true
-tags: []
-categories: []
+description: "The Bible is clear about how we treat immigrants and the poor. Romans 13 doesn't change that."
+tags:
+  - immigration
+  - romans-13
+  - fascism
+  - authoritarianism
+  - politics
+  - bible
+  - matthew-25
+categories:
+  - ethics
+  - theology
+url: /romans-13-is-not-a-blank-check-for-cruelty/
 ---
 
-Like many of you, I've watched the USA's recent slide into authoritarianism and fascism with horror. And the fact that many "evangelical" Christians in the USA support these things makes me sick to my stomach.
+ICE agents [shot and killed Renée Good](https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html), a US citizen and mother of three, on a Minneapolis street earlier this month. Video shows her steering away from the agent who killed her. DHS immediately labelled her a "domestic terrorist." ICE continues to terrorize neighborhoods and abduct citizens and non-citizens alike. 
+
+Meanwhile, the president [launched a military strike on Venezuela](https://www.pbs.org/newshour/politics/fact-checking-trumps-claims-after-u-s-strike-on-venezuela-and-capture-of-maduro) without congressional approval. He's [threatening NATO allies with tariffs and won't rule out military force](https://abcnews.go.com/International/trumps-greenland-threats-prompt-extraordinary-meeting-european-leaders/story?id=129340526) to seize Greenland—explicitly [because he didn't get a Nobel Peace Prize](https://www.npr.org/2026/01/19/nx-s1-5682038/trump-greenland-nobel-peace-prize). And the Epstein files he promised to release? [Less than 1% have come out](https://www.cnn.com/2026/01/06/politics/epstein-files-justice-department-review), with documents connecting him to Epstein mysteriously disappearing from government websites before public backlash forced their restoration.
+
+This is what authoritarianism looks like. And the fact that many "evangelical" Christians support these things—or look the other way—makes me sick to my stomach.
 
 The Bible's witness on immigrants, the poor, and the powerless is consistent from Leviticus through Matthew 25: God stands with the vulnerable, and his people are commanded to do the same. 
 
-Yet many American Christians invoke Romans 13 to justify compliance with policies that separate families and demonize refugees, as if Paul wrote a blank check for whatever governments decide to do. 
+Yet many American Christians invoke Romans 13 to justify compliance with policies that separate families, demonize refugees, and now kill US citizens on American streets. As if Paul wrote a blank check for whatever governments decide to do. 
 
 He didn't. Romans 13 was pastoral counsel to a specific church in a specific moment, sandwiched between commands to love enemies and overcome evil with good. Read alongside Matthew 25, where Jesus says nations will be judged by how they treated "the least of these," the picture becomes clear: submission to authority never trumps our obligation to the stranger, the hungry, the prisoner. 
 
