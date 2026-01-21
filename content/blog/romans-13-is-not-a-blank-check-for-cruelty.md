@@ -33,10 +33,10 @@ Christ identifies with the vulnerable. Our treatment of immigrants is our treatm
 
 I've written about these themes before. Here's where to dig deeper:
 
-- **[A Citizen's Manifesto](https://joshuapsteele.com/citizens-manifesto/):** Working principles for democratic renewal, including: no one above the law, leaders accountable to the people, and civic obligations that match our rights.
-- **[How to Resist Tyranny](https://joshuapsteele.com/resist/):** Practical resources for defending democracy, including Timothy Snyder's 20 lessons, Gene Sharp's 198 methods of nonviolent action, and reliable information sources.
+- **[You're Reading Romans 13 Wrong](https://joshuapsteele.com/romans-13/):** Paul wrote to discourage rebellion that would damage the church's witness, not to provide comprehensive political theology justifying every government action.
+- **[When Romans 13 Meets Matthew 25](https://joshuapsteele.com/when-romans-13-meets-matthew-25-immigration-ethics/):** Romans 13 cannot be a blank check for cruelty. Christ identifies with the stranger, and our response to immigrants is our response to him.
 - **[You Can't Follow Jesus and Hate Immigrants](https://joshuapsteele.com/you-cant-follow-jesus-and-hate-immigrants/):** Scripture consistently commands love for foreigners. Check your gut reaction to the word "immigrant" and ask if it reflects Christ.
 - **[What the Bible Says About Poverty: Proverbs](https://joshuapsteele.com/bible-poverty-proverbs/):** God has a bias toward the poor, standing against the powerful on behalf of the powerless. Oppressing the poor insults their Maker.
 - **[Christians and Wealth](https://joshuapsteele.com/christians-and-wealth/):** American Christians should reduce living standards to what's necessary for flourishing and give the excess. We will be held accountable for how we treat the poor.
-- **[You're Reading Romans 13 Wrong](https://joshuapsteele.com/romans-13/):** Paul wrote to discourage rebellion that would damage the church's witness, not to provide comprehensive political theology justifying every government action.
-- **[When Romans 13 Meets Matthew 25](https://joshuapsteele.com/when-romans-13-meets-matthew-25-immigration-ethics/):** Romans 13 cannot be a blank check for cruelty. Christ identifies with the stranger, and our response to immigrants is our response to him.
+- **[A Citizen's Manifesto](https://joshuapsteele.com/citizens-manifesto/):** Working principles for democratic renewal, including: no one above the law, leaders accountable to the people, and civic obligations that match our rights.
+- **[How to Resist Tyranny](https://joshuapsteele.com/resist/):** Practical resources for defending democracy, including Timothy Snyder's 20 lessons, Gene Sharp's 198 methods of nonviolent action, and reliable information sources.
