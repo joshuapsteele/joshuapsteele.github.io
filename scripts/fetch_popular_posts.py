@@ -43,6 +43,7 @@ def api_request(endpoint, api_key):
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Accept": "application/json",
+        "User-Agent": "joshuapsteele-hugo-site/1.0",
     }
 
     try:
