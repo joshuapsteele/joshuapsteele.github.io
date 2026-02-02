@@ -23,3 +23,7 @@ Icon
 .hugo_build.lock
 hugo_stats.json
 
+# Private datasets (never commit)
+data-private/
+Retail.OrderHistory*.csv
+*.zip
