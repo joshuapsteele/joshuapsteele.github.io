@@ -1,0 +1,58 @@
+{{- /*
+  Amazon Purchases Table Shortcode
+
+  Usage:
+    {{< amazon-purchases-table >}}
+
+  Params:
+    - showCategory: "true" or "false" (default: true)
+    - showNotes: "true" or "false" (default: true)
+*/ -}}
+
+{{- $showCategory := ne (.Get "showCategory") "false" -}}
+{{- $showNotes := ne (.Get "showNotes") "false" -}}
+
+{{- with site.Data.amazon_purchases_public -}}
+  {{- if gt (len .) 0 -}}
+  <div class="amazon-purchases">
+    <table class="amazon-purchases-table">
+      <thead>
+        <tr>
+          <th>Product</th>
+          {{- if $showCategory -}}
+          <th>Category</th>
+          {{- end -}}
+          {{- if $showNotes -}}
+          <th>Notes</th>
+          {{- end -}}
+        </tr>
+      </thead>
+      <tbody>
+        {{- range sort . "product_name" -}}
+        <tr>
+          <td>
+            {{- $name := .product_name -}}
+            {{- $url := .affiliate_url -}}
+            {{- if $url -}}
+              <a href="{{ $url }}" rel="sponsored nofollow" target="_blank">{{ $name }}</a>
+            {{- else -}}
+              {{ $name }}
+            {{- end -}}
+          </td>
+          {{- if $showCategory -}}
+          <td>{{ .category }}</td>
+          {{- end -}}
+          {{- if $showNotes -}}
+          <td>{{ .notes }}</td>
+          {{- end -}}
+        </tr>
+        {{- end -}}
+      </tbody>
+    </table>
+  </div>
+  {{- else -}}
+  <p>No purchases found.</p>
+  {{- end -}}
+{{- else -}}
+<p>Public purchases data not found. Run <code>python scripts/amazon/build_public.py</code> to generate data.</p>
+{{- end -}}
