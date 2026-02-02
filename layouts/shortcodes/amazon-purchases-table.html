@@ -44,8 +44,20 @@
   {{- if lt (len $items) 1 -}}
     <p>No purchases found.</p>
   {{- else -}}
-    <div class="amazon-purchases">
-      <table class="amazon-purchases-table">
+  <div class="amazon-purchases" data-amazon-purchases>
+    <div class="amazon-purchases-controls">
+      <label class="amazon-purchases-search-label" for="amazon-purchases-search">Search</label>
+      <input
+        id="amazon-purchases-search"
+        class="amazon-purchases-search"
+        data-amazon-purchases-search
+        type="search"
+        placeholder="Search products, categories, notes..."
+        autocomplete="off"
+      />
+      <span class="amazon-purchases-count" data-amazon-purchases-count></span>
+    </div>
+    <table class="amazon-purchases-table">
         <thead>
           <tr>
             <th>Product</th>
@@ -76,9 +88,10 @@
             <td>{{ .notes }}</td>
             {{- end -}}
           </tr>
-          {{- end -}}
-        </tbody>
-      </table>
-    </div>
+        {{- end -}}
+      </tbody>
+    </table>
+  </div>
+  <script src="/js/amazon-purchases.js" defer></script>
   {{- end -}}
 {{- end -}}
