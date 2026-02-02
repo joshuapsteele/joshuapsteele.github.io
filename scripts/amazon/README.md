@@ -5,8 +5,8 @@ This keeps your private purchase history out of the Hugo data directory while st
 ## Files
 
 - `data-private/amazon_purchases_full.csv` (private, gitignored)
-- `data/amazon_purchases_allowlist.csv` (public, committed)
-- `data/amazon_purchases_public.csv` (public, committed)
+- `data-public/amazon_purchases_allowlist.csv` (public, committed)
+- `assets/amazon/amazon_purchases_public.csv` (public, committed)
 
 ## Build full private dataset
 
@@ -24,7 +24,7 @@ python scripts/amazon/build_public.py
 
 ## Allow-list format
 
-`data/amazon_purchases_allowlist.csv`
+`data-public/amazon_purchases_allowlist.csv`
 
 ```csv
 asin,category,notes
@@ -34,7 +34,7 @@ B08XYZ123,home-office,Best charger I've owned
 
 ## Public dataset format
 
-`data/amazon_purchases_public.csv`
+`assets/amazon/amazon_purchases_public.csv`
 
 ```csv
 product_name,asin,affiliate_url,category,notes

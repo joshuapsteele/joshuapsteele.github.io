@@ -12,47 +12,73 @@
 {{- $showCategory := ne (.Get "showCategory") "false" -}}
 {{- $showNotes := ne (.Get "showNotes") "false" -}}
 
-{{- with site.Data.amazon_purchases_public -}}
-  {{- if gt (len .) 0 -}}
-  <div class="amazon-purchases">
-    <table class="amazon-purchases-table">
-      <thead>
-        <tr>
-          <th>Product</th>
-          {{- if $showCategory -}}
-          <th>Category</th>
-          {{- end -}}
-          {{- if $showNotes -}}
-          <th>Notes</th>
-          {{- end -}}
-        </tr>
-      </thead>
-      <tbody>
-        {{- range sort . "product_name" -}}
-        <tr>
-          <td>
-            {{- $name := .product_name -}}
-            {{- $url := .affiliate_url -}}
-            {{- if $url -}}
-              <a href="{{ $url }}" rel="sponsored nofollow" target="_blank">{{ $name }}</a>
-            {{- else -}}
-              {{ $name }}
-            {{- end -}}
-          </td>
-          {{- if $showCategory -}}
-          <td>{{ .category }}</td>
-          {{- end -}}
-          {{- if $showNotes -}}
-          <td>{{ .notes }}</td>
-          {{- end -}}
-        </tr>
-        {{- end -}}
-      </tbody>
-    </table>
-  </div>
-  {{- else -}}
-  <p>No purchases found.</p>
-  {{- end -}}
+{{- $resource := resources.Get "amazon/amazon_purchases_public.csv" -}}
+{{- if not $resource -}}
+  <p>Public purchases data not found. Run <code>python scripts/amazon/build_public.py</code> to generate data.</p>
 {{- else -}}
-<p>Public purchases data not found. Run <code>python scripts/amazon/build_public.py</code> to generate data.</p>
+  {{- $data := $resource | transform.Unmarshal -}}
+  {{- $items := slice -}}
+
+  {{- if gt (len $data) 0 -}}
+    {{- if reflect.IsMap (index $data 0) -}}
+      {{- $items = $data -}}
+    {{- else -}}
+      {{- $header := index $data 0 -}}
+      {{- $colIndex := dict -}}
+      {{- range $i, $name := $header -}}
+        {{- $colIndex = merge $colIndex (dict $name $i) -}}
+      {{- end -}}
+
+      {{- range $row := after 1 $data -}}
+        {{- $item := dict
+          "product_name" (index $row (index $colIndex "product_name"))
+          "affiliate_url" (index $row (index $colIndex "affiliate_url"))
+          "category" (index $row (index $colIndex "category"))
+          "notes" (index $row (index $colIndex "notes"))
+        -}}
+        {{- $items = $items | append $item -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if lt (len $items) 1 -}}
+    <p>No purchases found.</p>
+  {{- else -}}
+    <div class="amazon-purchases">
+      <table class="amazon-purchases-table">
+        <thead>
+          <tr>
+            <th>Product</th>
+            {{- if $showCategory -}}
+            <th>Category</th>
+            {{- end -}}
+            {{- if $showNotes -}}
+            <th>Notes</th>
+            {{- end -}}
+          </tr>
+        </thead>
+        <tbody>
+          {{- range sort $items "product_name" -}}
+          <tr>
+            <td>
+              {{- $name := .product_name -}}
+              {{- $url := .affiliate_url -}}
+              {{- if $url -}}
+                <a href="{{ $url }}" rel="sponsored nofollow" target="_blank">{{ $name }}</a>
+              {{- else -}}
+                {{ $name }}
+              {{- end -}}
+            </td>
+            {{- if $showCategory -}}
+            <td>{{ .category }}</td>
+            {{- end -}}
+            {{- if $showNotes -}}
+            <td>{{ .notes }}</td>
+            {{- end -}}
+          </tr>
+          {{- end -}}
+        </tbody>
+      </table>
+    </div>
+  {{- end -}}
 {{- end -}}

@@ -16,12 +16,12 @@ def main() -> None:
     )
     parser.add_argument(
         "--allow",
-        default="data/amazon_purchases_allowlist.csv",
+        default="data-public/amazon_purchases_allowlist.csv",
         help="Path to allow-list CSV",
     )
     parser.add_argument(
         "--out",
-        default="data/amazon_purchases_public.csv",
+        default="assets/amazon/amazon_purchases_public.csv",
         help="Output path for public CSV",
     )
     args = parser.parse_args()
