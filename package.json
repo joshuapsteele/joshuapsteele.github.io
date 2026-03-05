@@ -8,7 +8,7 @@
     "build": "hugo --gc --minify --cleanDestinationDir",
     "build:fast": "hugo --gc",
     "build:stats": "hugo --gc --minify --templateMetrics --templateMetricsHints",
-    "deploy": "./deploy.sh",
+    "deploy": "./scripts/deploy.sh",
     "clean": "rm -rf public resources",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

@@ -29,10 +29,11 @@ Stay updated with my latest posts and thoughts delivered straight to your inbox:
 ## Other Ways to Follow
 
 - [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
-- [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)
 - [GitHub](https://github.com/joshuapsteele/)
 - [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
+- [Mastodon](https://mastodon.social/@joshuapsteele)
 - [Micro.Blog](https://social.joshuapsteele.com/)
+- [Threads](https://www.threads.com/@joshuapsteele)
 
 ---
 

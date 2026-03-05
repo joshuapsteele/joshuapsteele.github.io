@@ -50,7 +50,7 @@ This site is IndieWeb-enabled. Key implementations:
 - **Webmentions**: Receiving via webmention.io; display via JavaScript
 - **Reply Context**: Posts with `in_reply_to` front matter show original post context
 - **Identity**: rel="me" links, IndieAuth endpoints, WebFinger for Fediverse
-- **POSSE**: Publish here first, syndicate to Micro.blog → Bluesky/Mastodon
+- **POSSE**: Publish here first, syndicate to Micro.blog → Mastodon/Threads
 
 When creating reply posts, add to front matter:
 ```yaml

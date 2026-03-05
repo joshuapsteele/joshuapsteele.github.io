@@ -146,7 +146,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
 ### Identity & Discovery
 
 - **h-card**: Machine-readable identity information on the homepage
-- **rel="me"**: Verified links to other profiles (Micro.blog, Bluesky, Mastodon)
+- **rel="me"**: Verified links to other profiles (Micro.blog, Mastodon)
 - **WebFinger**: Fediverse discovery at `/.well-known/webfinger`
 - **IndieAuth**: Sign in with your domain at `https://joshuapsteele.com`
 
@@ -163,7 +163,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
   - JavaScript-based display of webmentions on each post
   - Grouped by type: likes, reposts, replies, mentions
 - **Bridgy**: Backfeed social media interactions as webmentions
-  - [brid.gy](https://brid.gy/) integration for Bluesky and Mastodon
+  - [brid.gy](https://brid.gy/) integration for Mastodon
 
 ### Reply Posts
 
@@ -190,8 +190,8 @@ This site is part of the [IndieWeb Webring](https://xn--sr8hvo.ws/) - a collecti
 
 Posts are published on this site first, then syndicated to:
 - [Micro.blog](https://social.joshuapsteele.com/)
-- [Bluesky](https://bsky.app/profile/joshuapsteele.bsky.social)
 - [Mastodon](https://mastodon.social/@joshuapsteele)
+- [Threads](https://www.threads.com/@joshuapsteele)
 
 ## Deployment
 
@@ -288,7 +288,7 @@ Main configuration is in `hugo.yaml`. Key settings include:
 
 - **Profile Mode**: Custom homepage with profile buttons
 - **Navigation**: Top menu and footer customization
-- **Social**: BlueSky, Mastodon, GitHub, LinkedIn, RSS
+- **Social**: Mastodon, Threads, GitHub, LinkedIn, RSS
 - **Search**: Fuse.js configuration
 - **Feeds**: RSS and JSON output formats
 - **Build**: Image optimization, caching, minification

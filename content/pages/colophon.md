@@ -41,7 +41,7 @@ I'm part of the [IndieWeb](https://indieweb.org/), a community effort to keep th
   - [Webmentions](https://webmention.io/) for receiving interactions from across the web
   - [Bridgy](https://brid.gy/) for backfeeding social media interactions
   - Reply context display when responding to others' posts
-  - Integration with Bluesky, Mastodon, and Micro.blog
+  - Integration with Mastodon, Threads, and Micro.blog
 
 - **Content Ownership**
   - [POSSE](https://indieweb.org/POSSE) workflow (Publish Own Site, Syndicate Everywhere)

@@ -102,7 +102,7 @@ The `deploy.sh` script simplifies local deployment workflow:
 - Footer text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
 
 ### Social & Sharing
-- Social icons: BlueSky, Mastodon, GitHub, LinkedIn, microblog, RSS
+- Social icons: Mastodon, Threads, GitHub, LinkedIn, microblog, RSS
 - Default social sharing image: `/images/headshot.jpg`
 - Share buttons enabled on posts
 - Disqus comments configured but disabled by default
@@ -149,7 +149,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
 
 ### Identity & Authentication
 - **rel="me"**: Verified identity links in footer and social icons
-  - Links to Micro.blog, Bluesky, Mastodon (bidirectional verification)
+  - Links to Micro.blog and Mastodon (bidirectional verification)
 - **IndieAuth**: Domain-based authentication endpoints (`layouts/partials/extend_head.html`)
   - Authorization endpoint: `https://indieauth.com/auth`
   - Token endpoint: `https://tokens.indieauth.com/token`
@@ -165,7 +165,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
   - Groups by type: likes (facepile), reposts (facepile), replies (full cards), mentions (list)
   - Styled with extensive CSS (`assets/css/extended/custom.css` lines 383-538)
 - **Bridgy**: Backfeed social media interactions as webmentions
-  - Integration with Bluesky and Mastodon via brid.gy
+  - Integration with Mastodon via brid.gy
 
 ### Reply Context
 - **Reply Posts**: Support for replying to other posts with context (`layouts/partials/reply_context.html`)
@@ -187,7 +187,7 @@ in_reply_to: "https://example.com/original-post"
 
 ### POSSE Workflow
 - Posts published on joshuapsteele.com first
-- Syndicated to Micro.blog, which cross-posts to Bluesky and Mastodon
+- Syndicated to Micro.blog, which cross-posts to Mastodon and Threads
 - Social interactions backfed as webmentions via Bridgy
 
 ### IndieWeb Testing
