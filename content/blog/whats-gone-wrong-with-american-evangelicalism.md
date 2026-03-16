@@ -10,12 +10,16 @@ categories:
 draft: false
 url: /whats-gone-wrong-with-american-evangelicalism/
 ---
-I was born and raised in conservative/fundamentalist USA evangelicalism. I went to Cedarville University for undergrad, where I studied Bi
+I've been trying to put my thoughts together on what, precisely, grieves me about American evangelicalism. Here's what I have, so far.
+
+I was born and raised in conservative/fundamentalist USA evangelicalism. I went to Cedarville University for undergrad, where I studied Bible and Spanish. Then, I went to Beeson Divinity School. Then, I went to Wheaton College Graduate School.
+
+My first misgivings about the evangelicalism started in college. In 2012 or so, I couldn't help but notice some concerning parallels between the German churches in 1920s-30s and American evangelical Christianity. I stopped calling myself an evangelical in 2016 when it became clear just how many evangelicals voted for Trump.
 ## Some caveats up front
 
 This is not an accusation against every evangelical, pastor, or church. Exceptions exist on every point. I'm speaking in aggregate, about historical trends and institutional patterns. The evangelical leaders responsible for shaping these trends bear the most responsibility.
 
-I'm not writing from superiority. I held many of these positions. I grew up in this world and still love many of the people in it.
+I'm not writing from superiority. I previously held many of these positions. I grew up in this world and still love many of the people in it.
 
 ## 1. Evangelicals allied themselves with the Republican Party in exchange for political power, and it cost them their prophetic independence.
 
