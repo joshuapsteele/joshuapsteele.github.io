@@ -108,7 +108,7 @@ I'm not writing from superiority. I previously held many of these positions. I g
 - Today, evangelicals say the same thing about CRT (Critical Race Theory), DEI (Diversity, Equity, and Inclusion), social justice, and systemic racism. The vocabulary has updated. The reflex has not. And in both cases, the people saying "this is a distraction from the gospel" are not the ones bearing the cost of the status quo.
 - You don't need to think CRT is the answer to see the problem. The instinct to reject any structural analysis of race as "un-gospel" has been tested before, on one of the biggest moral questions of the twentieth century, and it failed.
 
-### The evidence that nothing has fundamentally changed:
+### The evidence that nothing much has fundamentally changed:
 
 - American evangelicalism remains one of the most racially segregated spaces in American life.
 - The SBC took 150 years to apologize for slavery. When its 2019 annual meeting passed a carefully hedged resolution acknowledging that CRT and intersectionality could be used in a limited way as analytical tools under Scripture's authority, the backlash was immediate, and within about 18 months the seminary presidents had publicly declared CRT "incompatible" with the denomination's statement of faith. The denomination didn't need 150 years to respond to a framework for analyzing racism. It needed less than two.
