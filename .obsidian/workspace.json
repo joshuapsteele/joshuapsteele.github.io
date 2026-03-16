@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,11 +193,12 @@
   },
   "active": "0613d0230ba075db",
   "lastOpenFiles": [
+    "content/blog/the-problem-of-ecclesiastical-evil.md",
+    "content/blog/whats-gone-wrong-with-american-evangelicalism.md",
     "content/blog/a-christmas-homily.md",
     "templates/blog-post-quick.md",
     "templates/blog-post-full.md",
     "templates/blog-post-draft.md",
-    "content/blog/whats-gone-wrong-with-american-evangelicalism.md",
     "content/blog/american-freedom-isnt-biblical-freedom.md",
     "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
     "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
@@ -219,7 +219,6 @@
     "content/blog/are-the-beatitudes-good-works-matt-51316.md",
     "content/blog/a-list-of-karl-barths-sermons.md",
     "content/blog/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology.md",
-    "content/blog/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

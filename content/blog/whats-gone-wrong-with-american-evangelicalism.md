@@ -1,5 +1,5 @@
 ---
-title: What's Gone Wrong with American Evangelicalism
+title: "What's Gone Wrong with American Evangelicalism: Some Notes"
 date: 2026-03-16
 description: ""
 tags:
@@ -10,8 +10,8 @@ categories:
 draft: false
 url: /whats-gone-wrong-with-american-evangelicalism/
 ---
-
-## Some Caveats Up Front
+I was born and raised in conservative/fundamentalist USA evangelicalism. I went to Cedarville University for undergrad, where I studied Bi
+## Some caveats up front
 
 This is not an accusation against every evangelical, pastor, or church. Exceptions exist on every point. I'm speaking in aggregate, about historical trends and institutional patterns. The evangelical leaders responsible for shaping these trends bear the most responsibility.
 
@@ -96,7 +96,10 @@ I'm not writing from superiority. I held many of these positions. I grew up in t
 
 ### The theological move that keeps repeating:
 
-- Evangelicalism's individualistic framework means that sin is personal, salvation is personal, and the gospel is about your individual relationship with God. If sin is only personal, then racism can only be individual prejudice in individual hearts. If racism is only individual, then the solution is only individual repentance and personal relationships. And if the solution is individual, then any framework that looks at systems, institutions, or policies looks like a distraction from the "real" gospel.
+- Evangelicalism's individualistic framework means that sin is personal, salvation is personal, and the gospel is about your individual relationship with God. 
+	- If sin is only personal, then racism can only be individual prejudice in individual hearts. 
+	- If racism is only individual, then the solution is only individual repentance and personal relationships. 
+	- And if the solution is individual, then any framework that looks at systems, institutions, or policies looks like a distraction from the "real" gospel.
 - During the civil rights movement, white evangelicals used exactly this logic. Racial discrimination was a heart problem. The gospel, not legislation, was the answer. Christians who pushed for structural change were dismissed as theological liberals who had lost sight of the church's real mission.
 - Today, evangelicals say the same thing about CRT (Critical Race Theory), DEI (Diversity, Equity, and Inclusion), social justice, and systemic racism. The vocabulary has updated. The reflex has not. And in both cases, the people saying "this is a distraction from the gospel" are not the ones bearing the cost of the status quo.
 - You don't need to think CRT is the answer to see the problem. The instinct to reject any structural analysis of race as "un-gospel" has been tested before, on one of the biggest moral questions of the twentieth century, and it failed.
@@ -105,10 +108,10 @@ I'm not writing from superiority. I held many of these positions. I grew up in t
 
 - American evangelicalism remains one of the most racially segregated spaces in American life.
 - The SBC took 150 years to apologize for slavery. When its 2019 annual meeting passed a carefully hedged resolution acknowledging that CRT and intersectionality could be used in a limited way as analytical tools under Scripture's authority, the backlash was immediate, and within about 18 months the seminary presidents had publicly declared CRT "incompatible" with the denomination's statement of faith. The denomination didn't need 150 years to respond to a framework for analyzing racism. It needed less than two.
-- When Black leaders have risen to prominence within evangelicalism and then spoken about racial justice, they have consistently been pushed out or marginalized. This is not one or two anecdotes. It is a structural pattern.
+- When Black leaders have risen to prominence within conservative evangelicalism and then spoken about racial justice, they have consistently been pushed out or marginalized.
 
 ## Where this leaves me.
 
-- None of this has driven me away from Jesus. The more I see the institutional church distort the gospel, the more compelling the actual gospel becomes.
-- I can't pretend the movement hasn't lost its way, and I can't stay silent while the name of Jesus is used to justify indifference or even hostility toward the people he came to serve.
-- I'm not asking for agreement on every point above. I'm asking: look at the social and political fruit of USA evangelicalism.
+- None of this has driven me away from Jesus. The more I see the institutional church distort the gospel, the more compelling the actual gospel becomes. That being said, the [problem of ecclesiastical evil](/the-problem-of-ecclesiastical-evil/) is quite serious.
+- I stopped calling myself an evangelical in 2016. I can't pretend the evangelical movement hasn't lost its way, and I can't stay silent while the name of Jesus is used to justify indifference or even hostility toward the people he came to serve.
+- I'm not asking for agreement on every point above. I'm asking: look at the social and political fruit of USA evangelicalism. Is it good? For the least of these?
