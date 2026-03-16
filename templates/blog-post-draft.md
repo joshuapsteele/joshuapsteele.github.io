@@ -1,10 +1,12 @@
 ---
 title: "{{title}}"
-date: {{date:YYYY-MM-DD}}
+date:
+  "{ date:YYYY-MM-DD }":
 description: ""
-tags: []  # Use kebab-case: [theology, biblical-studies]
-categories: []  # Use kebab-case: [theology, ethics, ministry]
+tags: []
+categories: []
 draft: true
+url:
 ---
 
 ## Notes
