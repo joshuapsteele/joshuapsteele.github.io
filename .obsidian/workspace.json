@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "efe1f69083f0e789",
+        "id": "45e63de9802b2645",
         "type": "tabs",
         "children": [
           {
-            "id": "e23df4789c76fc58",
+            "id": "0613d0230ba075db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
+                "file": "content/blog/a-christmas-homily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Authority and Power, Dictionary of Scripture and Ethics"
-            }
-          },
-          {
-            "id": "0eca512196cdfa58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/blog/american-freedom-isnt-biblical-freedom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "american-freedom-isnt-biblical-freedom"
+              "title": "a-christmas-homily"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,12 +191,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "249e5504d79a875d",
+  "active": "e54d7be14501a38b",
   "lastOpenFiles": [
-    "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
     "content/blog/american-freedom-isnt-biblical-freedom.md",
-    "content/blog/american-freedom-isn-t-biblical-freedom.md",
     "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
+    "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
+    "content/blog/american-freedom-isn-t-biblical-freedom.md",
     "content/files.md",
     "content/blog/psalm-2-quare-fremuerunt-gentes.md",
     "content/blog/proverbs-topical-study-poverty.md",
