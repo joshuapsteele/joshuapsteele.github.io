@@ -49,7 +49,7 @@ Several forces undermined this early millennialism. The Montanists gave it a bad
 
 The Protestant Reformers generally followed Augustine on this point. Both Luther and Calvin were suspicious of millennial speculation. Calvin declared that those who engaged in calculations based on apocalyptic portions of Scripture were "ignorant" and "malicious." The major confessional statements of the Reformation era, including the Augsburg Confession, the Thirty-Nine Articles, and the Westminster Confession, profess faith in Christ's return but do not support apocalyptic millennial speculation.
 
-Gregory Boyd and Paul Eddy's [*Across the Spectrum*](https://amzn.to/3Nzc2Cb) (3rd edition, 2022) lays out the three main evangelical positions on the millennium clearly and fairly: premillennialism, postmillennialism, and amillennialism. So do the preterist, idealist, and futurist approaches to Revelation more broadly. The point is not that one of these is obviously correct and the rest are obviously wrong. The point is that the dispensational futurist reading, which dominates American evangelical culture, is one option among several, and it happens to be the youngest one in the room.
+Gregory Boyd and Paul Eddy's [*Across the Spectrum*](https://amzn.to/3Nzc2Cb) (3rd edition, 2022) lays out the three main evangelical positions on the millennium clearly and fairly: premillennialism, postmillennialism, and amillennialism. It also covers the preterist, idealist, and futurist approaches to Revelation more broadly. The point is not that one of these is obviously correct and the rest are obviously wrong. The point is that the dispensational futurist reading, which dominates American evangelical culture, is one option among several, and it happens to be the youngest one in the room.
 
 ## What Revelation actually says about itself
 
@@ -65,17 +65,17 @@ The book opens with a statement of purpose: it records "what must soon take plac
 
 The dispensational futurist reading has to work around these opening statements. It typically argues that the letters to the seven churches (chapters 2-3) address first-century readers but that everything from chapter 4 onward leaps over nearly two millennia to describe events still in our future. This is a lot of interpretive weight to place on a single reading of Revelation 1:19.
 
-And the genre matters. No one reads the twenty-four elders with gold crowns, or the four creatures covered with eyes, or the woman clothed with the sun as literal descriptions of things someone will see in the sky someday. Almost everyone acknowledges that these are symbols. The question is why the thousand-year reign, the binding of Satan with a literal chain and key, and the lake of fire get exempted from symbolic reading and treated as journalism from the future.
-
 {{< youtube 5nvVVcYD-0w >}}
 
 {{< youtube QpnIrbq2bKo >}}
 
 ## The Lamb, not the Lion, is the key
 
-One of the most important things about Revelation, and something the dispensational framework tends to obscure, is how the book redefines power.
+One of the most important things about Revelation, and something the dispensational framework tends to obscure, is how the book **redefines power**.
 
-In Revelation 5, John hears about "the Lion of the tribe of Judah," the classic Old Testament image of a messianic king who conquers through military power. But when he turns to look, he sees not a lion but a slaughtered lamb, standing alive. The BibleProject captures this: "John is saying that the Old Testament promise of God's future Kingdom was inaugurated through the crucified Messiah. Jesus died for his enemies as the true Passover lamb so that others could be redeemed. His death on the cross was his enthronement and his 'conquering' of evil."
+In Revelation 5, John hears about "the Lion of the tribe of Judah," the classic Old Testament image of a messianic king who conquers through military power. But when he turns to look, he sees not a lion but a slaughtered lamb, standing alive. The BibleProject captures this: 
+
+> "John is saying that the Old Testament promise of God's future Kingdom was inaugurated through the crucified Messiah. Jesus died for his enemies as the true Passover lamb so that others could be redeemed. His death on the cross was his enthronement and his 'conquering' of evil."
 
 This pattern repeats throughout the book. In chapter 7, John hears the number of God's army: 144,000, a military census. But when he turns to look, he sees a multinational multitude redeemed by the Lamb's blood. They conquer not by killing their enemies but by suffering and bearing witness like the lamb. In chapter 19, Jesus rides out to the final battle already covered in blood (his own), and his only weapon is "the sword of his mouth," an image from Isaiah 11.
 
@@ -87,13 +87,27 @@ When we turn Revelation into a decoded map of geopolitical events, we lose the t
 
 If the dispensational reading were simply one way of making sense of a difficult book, I wouldn't spend this much energy on it. The problem is that this reading has generated an entire political theology, one that has shaped American foreign policy and continues to shape how millions of Christians engage (or refuse to engage) with the world.
 
-Consider what follows from the dispensational framework. If the world is destined to get worse until Jesus returns, why invest serious effort in addressing systemic injustice, poverty, or environmental destruction? The twentieth-century shift from postmillennial optimism (which fueled abolitionism, women's suffrage, and other reform movements) to premillennial pessimism correlates closely with American evangelicals' retreat from social engagement. As Boyd and Eddy note in *Across the Spectrum*, premillennialism's expectation that things will "generally get worse and worse" before Christ's return can undercut motivation for the kind of kingdom work that characterized nineteenth-century evangelicals like Charles Finney.
+Consider what follows from the dispensational framework. If the world is destined to get worse until Jesus returns, why invest serious effort in addressing systemic injustice, poverty, or environmental destruction? The twentieth-century shift from postmillennial optimism (which fueled abolitionism, women's suffrage, and other reform movements) to premillennial pessimism correlates closely with American evangelicals' retreat from social engagement. 
 
-Then there's Christian Zionism, perhaps the most consequential political product of dispensational theology. The *Evangelical Dictionary of Theology* describes Christian Zionism as "a political theology with roots in the nineteenth century" that "took on its full form following the birth of modern Israel in 1948." It identifies four motifs present in most Christian Zionist theologies: Israel's birth marked the final human era; the chaos in the Middle East is part of God's unfolding plan; God's covenant with Israel is eternal and unconditional, so promises of land given to Abraham will never be overturned; and Christians are obligated to apply Genesis 12:3 ("I will bless those who bless you") to the modern state of Israel, such that "failing to support Israel's political survival today will incur divine judgment."
+As Boyd and Eddy note in *Across the Spectrum*, premillennialism's expectation that things will "generally get worse and worse" before Christ's return can undercut motivation for the kind of kingdom work that characterized nineteenth-century evangelicals like Charles Finney.
 
-The *EDT* also notes extensive criticism of this framework from within evangelicalism. "Reformed theologians often wonder if Christian Zionism demotes the importance of Christ's covenant." Old Testament scholars are "troubled when the prophets' ethical demands are ignored in favor of uncertain predictive texts." New Testament scholars "complain that the movement neglects the NT's reframing of land, promise, and identity." And ethicists, both Jewish and Christian, have criticized Christian Zionism's "tendency to see in Israel's political activity a divine purpose," which "has led to political exceptionalism for Israel and has muted the church's ability to promote justice and peacemaking in the Middle East."
+Then there's Christian Zionism, perhaps the most consequential political product of dispensational theology. The *Evangelical Dictionary of Theology* describes Christian Zionism as "a political theology with roots in the nineteenth century" that "took on its full form following the birth of modern Israel in 1948." It identifies four motifs present in most Christian Zionist theologies: 
 
-This matters because actual people live under the consequences of policies that American evangelicals support for reasons rooted in a nineteenth-century reading of Revelation. When Hal Lindsey identified Mao Zedong as one of the "Kings of the East" and the Soviet Union as Gog in 1970, he was using Revelation to construct a geopolitical framework that shaped how millions of Americans understood the Cold War. Those identifications turned out to be wrong, as such identifications always do. But the underlying habit of reading Revelation as a decoded map of current events persists, redirected toward new targets in each generation.
+1. Israel's birth marked the final human era; 
+2. the chaos in the Middle East is part of God's unfolding plan; 
+3. God's covenant with Israel is eternal and unconditional, so promises of land given to Abraham will never be overturned; 
+4. and Christians are obligated to apply Genesis 12:3 ("I will bless those who bless you") to the modern state of Israel, such that "failing to support Israel's political survival today will incur divine judgment."
+
+The *EDT* also notes extensive criticism of this framework from within evangelicalism. 
+
+- "Reformed theologians often wonder if Christian Zionism demotes the importance of Christ's covenant." 
+- Old Testament scholars are "troubled when the prophets' ethical demands are ignored in favor of uncertain predictive texts." 
+- New Testament scholars "complain that the movement neglects the NT's reframing of land, promise, and identity." 
+- And ethicists, both Jewish and Christian, have criticized Christian Zionism's "tendency to see in Israel's political activity a divine purpose," which "has led to political exceptionalism for Israel and has muted the church's ability to promote justice and peacemaking in the Middle East."
+
+This matters because actual people live under the consequences of policies that American evangelicals support for reasons rooted in a nineteenth-century reading of Revelation. 
+
+When Hal Lindsey identified Mao Zedong as one of the "Kings of the East" and the Soviet Union as Gog in 1970, he was using Revelation to construct a geopolitical framework that shaped how millions of Americans understood the Cold War. Those identifications turned out to be wrong, as such identifications always do. But the underlying habit of reading Revelation as a decoded map of current events persists, redirected toward new targets in each generation.
 
 ## Reading Revelation as it was meant to be read
 
@@ -101,7 +115,11 @@ None of this means Revelation is irrelevant or unimportant. Far from it. But its
 
 Revelation was written to churches under pressure from the Roman Empire, churches tempted to compromise with imperial power for the sake of economic security and social acceptance. Its central message is that the Lamb who was slain, not Caesar, is Lord. The empires of this world, no matter how powerful and permanent they appear, are passing away. Those who remain faithful, even unto death, will share in Christ's victory.
 
-The BibleProject captures this well when it describes Babylon in Revelation not as a code name for one specific future nation but as an archetype: "Nations that exalt their own economic and military security to divine status aren't limited to the past or the future. Babylons will come and go, leading up to the day when Jesus returns to replace them all with his Kingdom." That framing should make American Christians uncomfortable, not because America is necessarily Babylon, but because the shoe fits more often than we'd like to admit.
+The BibleProject captures this well when it describes Babylon in Revelation not as a code name for one specific future nation but as an archetype: 
+
+> "Nations that exalt their own economic and military security to divine status aren't limited to the past or the future. Babylons will come and go, leading up to the day when Jesus returns to replace them all with his Kingdom." 
+
+That framing should make American Christians uncomfortable, not because America is necessarily Babylon, but because the shoe fits more often than we'd like to admit.
 
 That message gets obscured when Revelation is turned into a code to be cracked, a timeline to be charted, or a justification for specific foreign policy positions. The book that was written to challenge the idolatry of empire gets conscripted into the service of a different empire. The book that promises God's victory over every form of human oppression gets used to argue that oppression is inevitable and even necessary until Jesus comes back.
 
