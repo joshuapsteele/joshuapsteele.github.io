@@ -18,7 +18,7 @@ It took me years to realize that this confident framework for reading Revelation
 The way most American evangelicals read Revelation today comes from a system called dispensationalism.
 
 {{< callout "note" >}}
-**Dispensationalism:** A view of God's activities in history expounded in the Scofield Reference Bible and traced to John Nelson Darby (1800--1882). Each dispensation is a different time period in which humans are tested in responding to God's will. Seven dispensations cover creation to judgment. (Donald K. McKim, *The Westminster Dictionary of Theological Terms*, 2nd ed.)
+**Dispensationalism:** A view of God's activities in history expounded in the Scofield Reference Bible and traced to John Nelson Darby (1800--1882). Each dispensation is a different time period in which humans are tested in responding to God's will. Seven dispensations cover creation to judgment. (Donald K. McKim, [*The Westminster Dictionary of Theological Terms*](https://amzn.to/41h1qLu), 2nd ed.)
 {{< /callout >}}
 
 Darby, an Anglo-Irish preacher in the Plymouth Brethren movement, divided all of biblical history into these distinct periods. He taught that Christ's second coming consisted of two stages: first a secret rapture that would remove the church before a seven-year tribulation, and then a visible return with his saints to rule on earth for a thousand years.
@@ -27,11 +27,11 @@ Darby, an Anglo-Irish preacher in the Plymouth Brethren movement, divided all of
 **Rapture** (Lat. *raptus*, "carried off"): In premillennialism, the view that when Christ returns to the earth, believers will be raised from the earth to meet him in the air and thus be spared the tribulation (1 Thess. 4:17). (McKim, *Westminster Dictionary of Theological Terms*, 2nd ed.)
 {{< /callout >}}
 
-Darby also taught that the church and Israel are entirely separate entities in God's plan, and that the church was a parenthesis in God's program for Israel. As the *Evangelical Dictionary of Theology* puts it, classical dispensationalists "radicalized the difference between Israel and the church as two separate redemptive programs," one earthly and political, the other heavenly and spiritual. They even attributed much of Jesus's teaching in the Gospels, including the Sermon on the Mount and the Lord's Prayer, to God's earthly program for Israel rather than to the church.
+Darby also taught that the church and Israel are entirely separate entities in God's plan, and that the church was a parenthesis in God's program for Israel. As the [*Evangelical Dictionary of Theology*](https://amzn.to/4uUd9NU) puts it, classical dispensationalists "radicalized the difference between Israel and the church as two separate redemptive programs," one earthly and political, the other heavenly and spiritual. They even attributed much of Jesus's teaching in the Gospels, including the Sermon on the Mount and the Lord's Prayer, to God's earthly program for Israel rather than to the church.
 
 Darby's ideas crossed the Atlantic through Bible conferences and eventually through the Scofield Reference Bible (1909), which embedded dispensational interpretations directly into the margins of Scripture. The Scofield Bible became, for many American evangelicals, inseparable from the biblical text itself. Its notes taught readers how to interpret Revelation before they'd even finished reading it. The *EDT* notes that the Scofield Reference Bible "made the new eschatological interpretation an integral part of an elaborate system of notes printed on the same pages as the text" and sold millions of copies. Bible schools and seminaries like Biola, Moody Bible Institute, and Dallas Theological Seminary spread this interpretation among millions of conservative Protestants.
 
-By the mid-twentieth century, dispensationalism had become so dominant that when George Ladd restated historic premillennialism (the older, non-dispensational form), it "seemed like a novelty to many evangelicals." Daniel Hummel's *The Rise and Fall of Dispensationalism* (2023) traces how this system moved from Darby through D.L. Moody and Scofield into mass culture through Hal Lindsey's *The Late Great Planet Earth* (1970) and eventually Tim LaHaye and Jerry Jenkins's *Left Behind* novels. Each iteration moved further from careful exegesis and closer to pop-culture spectacle, but each claimed to be simply reading the Bible "literally."
+By the mid-twentieth century, dispensationalism had become so dominant that when George Ladd restated historic premillennialism (the older, non-dispensational form), it "seemed like a novelty to many evangelicals." Daniel Hummel's [*The Rise and Fall of Dispensationalism*](https://amzn.to/4cY1x62) (2023) traces how this system moved from Darby through D.L. Moody and Scofield into mass culture through Hal Lindsey's *The Late Great Planet Earth* (1970) and eventually Tim LaHaye and Jerry Jenkins's *Left Behind* novels. Each iteration moved further from careful exegesis and closer to pop-culture spectacle, but each claimed to be simply reading the Bible "literally."
 
 The *EDT* is worth quoting on the rapture doctrine specifically: "Until the early nineteenth century those believers who discussed the rapture believed that it would occur in conjunction with Christ's return at the end of the tribulation period." In other words, the pretribulation rapture, the idea that Christians will be secretly removed from the earth before the tribulation, has no precedent before Darby. The concept rests primarily on one passage, 1 Thessalonians 4:15-17. Its origins are debated even among scholars sympathetic to dispensationalism. Some trace it to a charismatic service conducted by Edward Irving in 1832; others to a prophetic vision given to a young Scottish woman named Margaret MacDonald in 1830.
 
@@ -40,9 +40,7 @@ The *EDT* is worth quoting on the rapture doctrine specifically: "Until the earl
 The futurist approach to Revelation, where chapters 4 through 22 describe events still in our future, is almost without precedent before the nineteenth century. That's worth sitting with for a moment. For roughly 1,800 years, the church read Revelation and did not come away with rapture timelines and tribulation charts.
 
 {{< callout "note" >}}
-
 **Millennialism** (Lat. *mille*, "thousand," and *annus*, "year"): Views about the "thousand-year" reign of Christ (Rev. 20:1--7) on earth that ends the present age. The three chief positions have been premillennialism, postmillennialism, and amillennialism. Also called "chiliasm" (Gr. *chilioi*, "thousand"). (McKim, *Westminster Dictionary of Theological Terms*, 2nd ed.)
-
 {{< /callout >}}
 
 The early church fathers did hold a variety of views. The *EDT*'s article on the millennium confirms that historic premillennialism "seems to have been the prevailing eschatology during the first three centuries of the Christian era," found in the writings of Papias, Irenaeus, Justin Martyr, Tertullian, and others. But this early premillennialism was different from Darby's dispensational version. They did not teach a secret rapture, a sharp distinction between Israel and the church, or a seven-year tribulation period.
@@ -51,13 +49,15 @@ Several forces undermined this early millennialism. The Montanists gave it a bad
 
 The Protestant Reformers generally followed Augustine on this point. Both Luther and Calvin were suspicious of millennial speculation. Calvin declared that those who engaged in calculations based on apocalyptic portions of Scripture were "ignorant" and "malicious." The major confessional statements of the Reformation era, including the Augsburg Confession, the Thirty-Nine Articles, and the Westminster Confession, profess faith in Christ's return but do not support apocalyptic millennial speculation.
 
-Gregory Boyd and Paul Eddy's *Across the Spectrum* (3rd edition, 2022) lays out the three main evangelical positions on the millennium clearly and fairly: premillennialism, postmillennialism, and amillennialism. So do the preterist, idealist, and futurist approaches to Revelation more broadly. The point is not that one of these is obviously correct and the rest are obviously wrong. The point is that the dispensational futurist reading, which dominates American evangelical culture, is one option among several, and it happens to be the youngest one in the room.
+Gregory Boyd and Paul Eddy's [*Across the Spectrum*](https://amzn.to/3Nzc2Cb) (3rd edition, 2022) lays out the three main evangelical positions on the millennium clearly and fairly: premillennialism, postmillennialism, and amillennialism. So do the preterist, idealist, and futurist approaches to Revelation more broadly. The point is not that one of these is obviously correct and the rest are obviously wrong. The point is that the dispensational futurist reading, which dominates American evangelical culture, is one option among several, and it happens to be the youngest one in the room.
 
 ## What Revelation actually says about itself
 
 Before we ask what Revelation means, we should ask what it claims to be.
 
 The BibleProject, a resource that many evangelicals trust, [puts it well](https://bibleproject.com/guides/book-of-revelation/): Revelation is an *apokalypsis*, a type of literature found in the Hebrew Scriptures and other Jewish texts. Jewish apocalypses "recounted a prophet's symbolic visions that revealed God's heavenly perspective on history so that the present could be viewed in light of history's final outcome." The imagery is symbolic, and nearly all of it is drawn from the Old Testament. John expected his readers to interpret by looking up the texts he was alluding to, not by scanning tomorrow's headlines.
+
+{{< youtube UNDX4tUdj1Y >}}
 
 Revelation is also a prophecy, which in biblical terms means a word from God spoken through a prophet to comfort or challenge God's people. And it's a letter, sent to seven actual churches in the Roman province of Asia. As the BibleProject notes, "the fact that The Revelation is a letter means that John was specifically addressing these first century churches. While this book has a lot to say to Christians of later generations, its meaning must first be anchored in the historical context of John's time and place."
 
@@ -66,6 +66,10 @@ The book opens with a statement of purpose: it records "what must soon take plac
 The dispensational futurist reading has to work around these opening statements. It typically argues that the letters to the seven churches (chapters 2-3) address first-century readers but that everything from chapter 4 onward leaps over nearly two millennia to describe events still in our future. This is a lot of interpretive weight to place on a single reading of Revelation 1:19.
 
 And the genre matters. No one reads the twenty-four elders with gold crowns, or the four creatures covered with eyes, or the woman clothed with the sun as literal descriptions of things someone will see in the sky someday. Almost everyone acknowledges that these are symbols. The question is why the thousand-year reign, the binding of Satan with a literal chain and key, and the lake of fire get exempted from symbolic reading and treated as journalism from the future.
+
+{{< youtube 5nvVVcYD-0w >}}
+
+{{< youtube QpnIrbq2bKo >}}
 
 ## The Lamb, not the Lion, is the key
 
