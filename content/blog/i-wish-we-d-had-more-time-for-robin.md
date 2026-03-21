@@ -59,7 +59,7 @@ Still, for the time being, at least, we live with each other in the land of the 
 
 I miss my cousin Robin. Until I see him again, I'll try to speak more words of encouragement, even to those I disagree with. To care about people deeply, and to let them know I care.
 
-And, in defiance of Death (the bastard), I close with John Donne:
+And, in defiance of Death (the bastard), I close with [John Donne](https://www.poetryfoundation.org/poems/44107/holy-sonnets-death-be-not-proud):
 
 > Death, be not proud, though some have called thee  
 > Mighty and dreadful, for thou art not so;  
