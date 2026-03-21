@@ -1,9 +1,10 @@
 ---
 title: "I Wish We'd Had More Time (For Robin)"
-date: 2026-03-21
-draft: true
-tags: []
-categories: []
+date: 2026-03-21T16:30:00Z
+draft: false
+tags: ["death", "grief", "family"]
+categories: ["personal"]
+url: /i-wish-we-had-more-time-for-robin/
 ---
 
 I come from a family of many cousins. As a kid, I even remember thinking there were too many cousins! Not even recognizing everyone at a family reunion. That kind of thing.
