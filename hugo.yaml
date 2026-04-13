@@ -78,6 +78,8 @@ params:
         url: "/contact/"
       - name: CV 📋
         url: "/cv/"
+      - name: Links 🔗
+        url: "https://links.joshuapsteele.com"
       - name: Now ⏳
         url: "/now/"
       - name: Popular 🔥
