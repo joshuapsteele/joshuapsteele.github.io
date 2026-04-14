@@ -12,7 +12,6 @@ url: /bookmarks
 
 ## Websites: Interesting and/or Useful
 
-- [12ft](https://12ft.io/)
 - [BlueSky Profile Cleanup](https://bsky.jazco.dev/cleanup)
 - [City Guesser](https://virtualvacation.us/guess)
 - [Cool Tools](https://kk.org/cooltools/)
