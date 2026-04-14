@@ -23,6 +23,15 @@ Here's my current personal tech stack. For other recommended tools and resources
 - Static website generator: [Hugo](https://gohugo.io/)
 - Hugo theme: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 
+## Saved Links: [links.joshuapsteele.com](https://links.joshuapsteele.com)
+
+- Link blog app: [LinkLog](https://github.com/joshuapsteele/linklog)
+- Runtime: Go
+- Database: SQLite
+- Hosting: DigitalOcean droplet behind Caddy
+- Capture workflow: Drafts on iOS
+- Feeds: [RSS](https://links.joshuapsteele.com/feed.xml) and [JSON Feed](https://links.joshuapsteele.com/feed.json)
+
 ## Email: [Fastmail](https://fastmail.com)
 
 - Email provider: [Fastmail](https://fastmail.com)

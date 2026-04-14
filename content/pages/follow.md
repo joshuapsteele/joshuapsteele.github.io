@@ -29,6 +29,8 @@ Stay updated with my latest posts and thoughts delivered straight to your inbox:
 ## Other Ways to Follow
 
 - [Blog RSS Feed](https://joshuapsteele.com/blog/feed.xml)
+- [Saved Links RSS Feed](https://links.joshuapsteele.com/feed.xml)
+- [Saved Links JSON Feed](https://links.joshuapsteele.com/feed.json)
 - [GitHub](https://github.com/joshuapsteele/)
 - [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
 - [Mastodon](https://mastodon.social/@joshuapsteele)

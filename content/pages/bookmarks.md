@@ -12,6 +12,8 @@ url: /bookmarks
 
 ## Websites: Interesting and/or Useful
 
+For newer saved links, see my [LinkLog](https://links.joshuapsteele.com), which has its own [RSS feed](https://links.joshuapsteele.com/feed.xml) and [JSON Feed](https://links.joshuapsteele.com/feed.json).
+
 - [BlueSky Profile Cleanup](https://bsky.jazco.dev/cleanup)
 - [City Guesser](https://virtualvacation.us/guess)
 - [Cool Tools](https://kk.org/cooltools/)

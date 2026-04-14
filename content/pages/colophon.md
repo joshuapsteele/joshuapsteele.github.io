@@ -22,6 +22,7 @@ This page describes the technical details, design philosophy, and tools behind t
 - **Node.js**: 18+ (local development) / 20 (CI)
 - **Search**: [Fuse.js](https://fusejs.io/) for client-side full-text search
 - **Feeds**: RSS and JSON Feed formats
+- **Saved links**: [LinkLog](https://links.joshuapsteele.com), a small Go and SQLite app hosted separately at `links.joshuapsteele.com`
 
 ## Design Philosophy
 
@@ -66,6 +67,7 @@ This site incorporates [digital garden](https://maggieappleton.com/garden-histor
 - 🌿 **Connected notes** showing related posts by topic
 - 📊 **RSS and JSON feeds** for syndication
 - 🌐 **Micro.blog integration** showing recent posts on homepage
+- 🔗 **LinkLog integration** showing recent saved links on homepage
 
 ## Content & Licensing
 
@@ -116,6 +118,7 @@ This site is continuously evolving. Recent additions include:
 - Connected notes for digital garden navigation
 - Reply context for threaded conversations
 - Micro.blog feed integration on homepage
+- LinkLog feed integration on homepage
 - Comprehensive microformats2 markup
 
 The full history of changes is available in the [Git commit log](https://github.com/joshuapsteele/joshuapsteele.github.io/commits/main).

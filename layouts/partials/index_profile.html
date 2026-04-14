@@ -103,4 +103,5 @@
     {{- end}}
 </div>
 {{- partial "popular_posts.html" (dict "context" $ "limit" 5 "showHits" true "heading" "Popular Posts") -}}
+{{- partial "linklog_posts.html" . -}}
 {{- partial "microblog_posts.html" . -}}
