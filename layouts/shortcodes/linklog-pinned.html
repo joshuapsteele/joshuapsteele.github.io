@@ -1,0 +1,99 @@
+{{- /* Display recommended saved links from LinkLog with a static fallback. */ -}}
+<div class="linklog-section linklog-pinned-section">
+  <h2>Recommended Saved Links</h2>
+  <div id="linklog-pinned-posts" class="linklog-posts">
+    <p class="loading">Loading recommended saved links...</p>
+    <p class="linklog-fallback"><a href="https://links.joshuapsteele.com/pinned">Browse pinned links on LinkLog</a>.</p>
+  </div>
+  <p class="linklog-more">
+    <a href="https://links.joshuapsteele.com/pinned">Browse all pinned links</a>
+  </p>
+</div>
+
+<script>
+(function() {
+  const feedUrl = 'https://links.joshuapsteele.com/pinned/feed.json';
+  const container = document.getElementById('linklog-pinned-posts');
+  const maxLinks = 8;
+
+  if (!container) return;
+
+  fetch(feedUrl)
+    .then(response => {
+      if (!response.ok) throw new Error('Failed to fetch pinned LinkLog feed');
+      return response.json();
+    })
+    .then(data => {
+      if (!data.items || data.items.length === 0) {
+        container.innerHTML = '<p class="no-posts">No pinned links found. <a href="https://links.joshuapsteele.com/pinned">Browse LinkLog</a>.</p>';
+        return;
+      }
+
+      const links = data.items.slice(0, maxLinks);
+      let html = '<div class="linklog-list">';
+
+      links.forEach(item => {
+        const title = item.title || item.external_url || item.url || 'Untitled link';
+        const externalUrl = item.external_url || item.url || '';
+        const permalink = item.url || externalUrl;
+        const content = item.summary || item.content_html || item.content_text || '';
+        const date = item.date_published ? new Date(item.date_published) : null;
+
+        html += '<article class="linklog-post">';
+        html += '<h3 class="linklog-title"><a href="' + escapeHtml(externalUrl) + '" target="_blank" rel="noopener">' + escapeHtml(title) + '</a></h3>';
+
+        if (content) {
+          const tempDiv = document.createElement('div');
+          tempDiv.innerHTML = content;
+          let text = tempDiv.textContent || tempDiv.innerText || '';
+
+          if (text.length > 220) {
+            text = text.substring(0, 220).trim() + '...';
+          }
+
+          html += '<p class="linklog-content">' + escapeHtml(text) + '</p>';
+        }
+
+        html += '<div class="linklog-meta">';
+        if (date && !Number.isNaN(date.valueOf())) {
+          html += '<time datetime="' + date.toISOString() + '">' + formatDate(date) + '</time>';
+        }
+        if (permalink) {
+          html += '<a href="' + escapeHtml(permalink) + '">Permalink</a>';
+        }
+        html += '</div>';
+        html += '</article>';
+      });
+
+      html += '</div>';
+      container.innerHTML = html;
+    })
+    .catch(error => {
+      console.error('Error fetching pinned LinkLog feed:', error);
+      container.innerHTML = '<p class="error">Unable to load recommended saved links right now. <a href="https://links.joshuapsteele.com/pinned">Browse pinned links on LinkLog</a>.</p>';
+    });
+
+  function escapeHtml(text) {
+    if (!text) return '';
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
+  }
+
+  function formatDate(date) {
+    const now = new Date();
+    const diffTime = Math.abs(now - date);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+
+    if (diffDays === 0) {
+      return 'Today';
+    } else if (diffDays === 1) {
+      return 'Yesterday';
+    } else if (diffDays < 7) {
+      return diffDays + ' days ago';
+    } else {
+      return date.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+    }
+  }
+})();
+</script>

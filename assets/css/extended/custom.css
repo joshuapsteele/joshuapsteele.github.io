@@ -788,6 +788,11 @@ body:not(.dark) .footer-logo {
     color: var(--tertiary);
 }
 
+.linklog-fallback {
+    color: var(--secondary);
+    padding: 0 1em 1em;
+}
+
 .linklog-list {
     display: flex;
     flex-direction: column;

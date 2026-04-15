@@ -14,6 +14,8 @@ url: /bookmarks
 
 For newer saved links, see my [LinkLog](https://links.joshuapsteele.com). The [pinned links](https://links.joshuapsteele.com/pinned) are the ones I especially recommend. LinkLog also has its own [RSS feed](https://links.joshuapsteele.com/feed.xml) and [JSON Feed](https://links.joshuapsteele.com/feed.json).
 
+{{< linklog-pinned >}}
+
 - [BlueSky Profile Cleanup](https://bsky.jazco.dev/cleanup)
 - [City Guesser](https://virtualvacation.us/guess)
 - [Cool Tools](https://kk.org/cooltools/)
