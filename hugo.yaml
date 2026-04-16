@@ -36,7 +36,7 @@ params:
   showPostNavLinks: true
   showCodeCopyButtons: true
   showFullTextInRSS: true
-  showFullTestInJSONFeed: true
+  showFullTextInJSONFeed: true
   showAllPagesInArchive: true
   comments: false
   hideFooter: false
