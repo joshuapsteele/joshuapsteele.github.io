@@ -20,9 +20,9 @@ if (content && content.length > 0) {
     if (filename && filename.length > 0) {
       filename = filename.substring(0, 60) + '.md';
 
-      // Get current date in ISO format (YYYY-MM-DD)
+      // Get current date in ISO format (YYYY-MM-DDTHH:MM:SSZ)
       const now = new Date();
-      const date = now.toISOString().split('T')[0];
+      const date = now.toISOString();
 
       // Create post content with front matter
       const postContent = `---
