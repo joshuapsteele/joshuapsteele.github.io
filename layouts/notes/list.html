@@ -1,19 +1,33 @@
 {{- define "main" }}
 
-<header class="page-header">
+<header class="page-header notes-page-header">
   {{ partial "breadcrumbs.html" . }}
   <h1>{{ .Title }}</h1>
   {{- if .Description }}
   <div class="post-description">{{ .Description }}</div>
   {{- end }}
+  <div class="notes-page-meta">
+    <span>{{ len .RegularPages }} notes</span>
+    <span>Newest first</span>
+  </div>
 </header>
 
 <div class="notes-stream h-feed">
-  {{- $pages := .RegularPages }}
+  <a href="{{ .Permalink }}" class="u-url" style="display:none;">{{ .Permalink }}</a>
+  {{- $pages := .RegularPages.ByDate.Reverse }}
   {{- $paginator := .Paginate $pages }}
   {{- range $paginator.Pages }}
-  <article class="note-stream-item h-entry" id="note-{{ .File.ContentBaseName }}">
+  <article class="note-stream-item h-entry{{ if eq .Params.syndicate false }} is-local-only{{ end }}" id="note-{{ .File.ContentBaseName }}">
     <header class="note-stream-header">
+      <a href="{{ .Permalink }}" class="note-stream-date u-url" rel="bookmark">
+        <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          <span class="note-stream-day">{{ .Date.Format "Jan 2, 2006" }}</span>
+          <span class="note-stream-time">{{ .Date.Format "3:04pm" }}</span>
+        </time>
+      </a>
+      {{- if eq .Params.syndicate false }}
+      <span class="note-stream-badge">Local only</span>
+      {{- end }}
       {{- if .Title }}
       <h2 class="note-stream-title p-name">
         <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
@@ -21,17 +35,11 @@
       {{- else }}
       <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
       {{- end }}
-      <p class="note-stream-date">
-        <a href="{{ .Permalink }}" class="u-url" rel="bookmark">
-          <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-            {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
-          </time>
-        </a>
-      </p>
     </header>
     <div class="note-stream-content e-content">
       {{ .Content }}
     </div>
+    <a class="note-stream-permalink" href="{{ .Permalink }}" rel="bookmark" aria-label="Permalink for {{ if .Title }}{{ .Title | plainify }}{{ else }}note from {{ .Date.Format "Jan 2, 2006 at 3:04pm" }}{{ end }}">Permalink</a>
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     {{- with (.GetTerms $tags) }}
     <footer class="note-stream-footer">
@@ -46,6 +54,8 @@
       <a class="u-url p-name" href="{{ site.BaseURL }}">{{ site.Params.author }}</a>
     </div>
   </article>
+  {{- else }}
+  <p class="notes-empty">Fresh notes will land here.</p>
   {{- end }}
 
   {{- if gt $paginator.TotalPages 1 }}
@@ -60,8 +70,10 @@
   {{- end }}
 </div>
 
-<p class="note-feed-hint">
-  Subscribe: <a href="{{ .Permalink }}feed.xml">RSS</a> · <a href="{{ .Permalink }}feed.json">JSON Feed</a>
-</p>
+<div class="note-feed-hint">
+  <span>Subscribe</span>
+  <a href="{{ .Permalink }}feed.xml">RSS</a>
+  <a href="{{ .Permalink }}feed.json">JSON Feed</a>
+</div>
 
 {{- end }}{{/* end main */}}

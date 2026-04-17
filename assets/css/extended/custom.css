@@ -765,6 +765,244 @@ body:not(.dark) .footer-logo {
     text-decoration: underline;
 }
 
+/* Notes stream */
+.notes-page-header {
+    margin-bottom: 2rem;
+}
+
+.notes-page-header h1 {
+    margin-bottom: 0.35em;
+}
+
+.notes-page-header .post-description {
+    max-width: 46rem;
+    line-height: 1.7;
+}
+
+.notes-page-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
+    color: var(--secondary);
+    font-size: 0.9rem;
+}
+
+.notes-page-meta span {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0 0.75rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--code-bg);
+}
+
+.notes-stream {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+.note-stream-item {
+    position: relative;
+    padding: 1.25rem 1.35rem;
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--tertiary);
+    border-radius: 8px;
+    background: var(--entry);
+    transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.note-stream-item:hover {
+    border-left-color: var(--secondary);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+.dark .note-stream-item:hover {
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.22);
+}
+
+.note-stream-header {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.45rem 0.65rem;
+    margin-bottom: 0.65rem;
+}
+
+.note-stream-date {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 0.45rem;
+    color: var(--secondary);
+    font-size: 0.9rem;
+    font-weight: 650;
+    line-height: 1.4;
+    text-decoration: none;
+}
+
+.note-stream-date:hover {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.note-stream-day,
+.note-stream-time {
+    display: inline-block;
+}
+
+.note-stream-time {
+    color: var(--secondary);
+    font-weight: 500;
+}
+
+.note-stream-badge {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.6rem;
+    padding: 0 0.55rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--secondary);
+    background: var(--code-bg);
+    font-size: 0.78rem;
+    font-weight: 650;
+}
+
+.note-stream-title {
+    width: 100%;
+    margin: 0.1rem 0 0;
+    font-size: 1.25rem;
+    line-height: 1.35;
+}
+
+.note-stream-title a {
+    color: var(--primary);
+    text-decoration: none;
+}
+
+.note-stream-title a:hover {
+    text-decoration: underline;
+}
+
+.note-stream-content {
+    color: var(--content);
+    font-size: 1rem;
+    line-height: 1.75;
+}
+
+.note-stream-content > :first-child {
+    margin-top: 0;
+}
+
+.note-stream-content > :last-child {
+    margin-bottom: 0;
+}
+
+.note-stream-content p {
+    margin: 0.25rem 0 0.75rem;
+}
+
+.note-stream-content a {
+    color: var(--primary);
+    box-shadow: 0 1px 0 var(--secondary);
+}
+
+.note-stream-content a:hover {
+    box-shadow: 0 2px 0 var(--primary);
+}
+
+.note-stream-permalink {
+    display: inline-flex;
+    margin-top: 0.85rem;
+    color: var(--secondary);
+    font-size: 0.85rem;
+    text-decoration: none;
+}
+
+.note-stream-permalink:hover {
+    color: var(--primary);
+    text-decoration: underline;
+}
+
+.note-stream-footer {
+    margin-top: 0.85rem;
+}
+
+.note-stream-footer .post-tags {
+    gap: 0.45rem;
+}
+
+.note-stream-footer .post-tags a {
+    min-height: 1.8rem;
+    padding: 0 0.65rem;
+    font-size: 0.82rem;
+    line-height: 1.75rem;
+}
+
+.notes-empty {
+    padding: 1.25rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--secondary);
+    background: var(--entry);
+}
+
+.note-feed-hint {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.55rem;
+    margin: 1.5rem 0 0;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    color: var(--secondary);
+    font-size: 0.95rem;
+}
+
+.note-feed-hint a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0 0.8rem;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    color: var(--primary);
+    background: var(--entry);
+    text-decoration: none;
+}
+
+.note-feed-hint a:hover {
+    background: var(--code-bg);
+}
+
+@media (max-width: 520px) {
+    .note-stream-item {
+        padding: 1rem;
+    }
+
+    .note-stream-date {
+        width: 100%;
+    }
+
+    .note-feed-hint a {
+        flex: 1 1 auto;
+        justify-content: center;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .note-stream-item {
+        transition: none;
+    }
+
+    .note-stream-item:hover {
+        transform: none;
+    }
+}
+
 /* LinkLog saved links section */
 .linklog-section {
     margin: 3em 0;
