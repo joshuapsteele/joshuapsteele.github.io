@@ -5,7 +5,7 @@ date: 2026-04-17
 
 # Publish Action Group
 
-Six Drafts actions that replace your current Hugo / LinkLog / Buttondown scripts, add a new shortform `Publish: Note` action for the POSSE pivot, and wrap everything behind a single unified `Publish` router. Micro.Blog stops being an authoring surface; shortform notes are authored at joshuapsteele.com first (via `Publish: Note`) and Micro.Blog syndicates them outward by subscribing to `/notes/feed.json`.
+Six core Drafts actions replace your current Hugo / LinkLog / Buttondown scripts, add a new shortform `Publish: Note` action for the POSSE pivot, and wrap everything behind a single unified `Publish` router. There is also one optional helper action, `Publish: Help`, that creates starter drafts and copies a format cheat sheet. Micro.Blog stops being an authoring surface; shortform notes are authored at joshuapsteele.com first (via `Publish: Note`) and Micro.Blog syndicates them outward by subscribing to `/notes/feed.json`.
 
 ## Files in this folder
 
@@ -17,6 +17,7 @@ Six Drafts actions that replace your current Hugo / LinkLog / Buttondown scripts
 | `03-publish-link.js` | `Publish: Link` | Link post → links.joshuapsteele.com. |
 | `04-publish-newsletter.js` | `Publish: Newsletter` | Buttondown issue, always created as a draft. |
 | `05-publish-note.js` | `Publish: Note` | Hugo shortform → `content/notes/` on joshuapsteele.com. Micro.Blog polls the feed and crossposts to Mastodon + Threads. |
+| `06-publish-help.js` | `Publish: Help` | Optional helper. Creates starter drafts for each format or copies a cheat sheet. Does not publish. |
 
 Not created here, retained as a manual fast path:
 - `Post to Micro.blog` (Drafts built-in). After the POSSE pivot this action bypasses Hugo and posts directly to Micro.Blog, so its content only lives at social.joshuapsteele.com. Use it sparingly, only when you need something on Mastodon/Threads in the next minute and are OK with it not being on joshuapsteele.com.
@@ -47,6 +48,7 @@ Create the destination actions first, then create the router last:
 3. `Publish: Newsletter` from `04-publish-newsletter.js`
 4. `Publish: Note` from `05-publish-note.js`
 5. `Publish` from `01-publish-router.js`
+6. Optional: `Publish: Help` from `06-publish-help.js`
 
 For each action:
 
@@ -59,6 +61,7 @@ For each action:
 Recommended settings per action:
 
 - `Publish`: show in action bar, optionally assign a keyboard shortcut (I use ⌃⌘P).
+- `Publish: Help`: show in action bar until the formats feel automatic.
 - `Publish: Blog`, `Publish: Link`, `Publish: Note`, `Publish: Newsletter`: include in action bar for the rare case you want to force a destination without touching frontmatter or tags.
 
 ## Routing signals
@@ -106,48 +109,59 @@ You currently have no workspaces configured. These four cover most of the workfl
 
 Create them via Drafts → Workspaces → New.
 
-## Templates (optional, via the Templates action step)
+## Starter Drafts
 
-Three starter templates save you from typing boilerplate. Drafts doesn't have first-class templates built in, but the "New Draft with Template" action step does the job.
+The easiest memory aid is the optional `Publish: Help` action. It does not publish anything. It gives you buttons for:
+
+- New note
+- New link
+- New blog draft
+- New newsletter draft
+- Copy cheat sheet
+
+If the current draft is empty, it fills that draft. If the current draft already has content, it creates a new draft and loads it.
+
+You can also create separate Drafts template actions if you prefer one-button starters. Use the "New Draft with Template" action step and these templates.
 
 **Link post template**
 
-```
-<cursor>
+```text
+https://example.com/article
 
-<!-- Commentary here. Use inline #tags. -->
+Why this is worth saving. #tag
 ```
 
 **Blog post template** (matches the minimal frontmatter your recent posts use)
 
-```
+```yaml
 ---
 destination: post
-title: "<cursor>"
+title: "Working title"
+draft: true
 tags: []
 categories: []
 ---
 
-
+Write the post here.
 ```
 
 **Note template** (shortform, typically untitled)
 
-```
-<cursor>
+```text
+Write the note here. #tag
 ```
 
 That's it. No frontmatter required; the `Publish: Note` action supplies everything from the current date. Add `#hashtags` inline if you want taxonomy.
 
 **Newsletter template**
 
-```
+```yaml
 ---
 destination: newsletter
-subject: "<cursor>"
+subject: "Subject line"
 ---
 
-
+Write the newsletter here.
 ```
 
 Save each as a Drafts action: "New Draft with Template" step, paste the template text into the "Template" field. Name them "Template: Link", "Template: Blog", "Template: Note", "Template: Newsletter".
@@ -167,15 +181,16 @@ You can delete or just stop using these once the new ones are working:
 ## First-run checklist
 
 1. Hugo `/notes/` section committed, pushed, deployed, and visible at `https://joshuapsteele.com/notes/feed.json`.
-2. Actions 01–05 installed with exact names as above. Credentials are auto-created on first run of each action.
-3. Test each action end to end with a throwaway draft:
-   - Blog: write a 3-sentence post with a title, run `Publish: Blog`, choose the draft option when prompted, confirm it commits to the repo and the GitHub Action runs.
-   - Link: paste a URL on line 1, blank line, a sentence of commentary with `#test` somewhere, run `Publish: Link`, confirm it appears at links.joshuapsteele.com.
-   - Note: type a short sentence, run `Publish: Note`, confirm `content/notes/{timestamp}.md` appears in the repo and the page renders at `/notes/{timestamp}/` after the rebuild.
-   - Newsletter: write a subject line and a body, run `Publish: Newsletter`, confirm it shows as a draft in Buttondown (NOT sent).
-4. Run the router against a tagged draft to verify dispatch (try `note`, `post`, `link`, `newsletter`).
-5. Check that the draft is tagged `published` and archived after each success.
-6. Subscribe Micro.Blog to `/notes/feed.json` (see POSSE-SETUP step 7). Verify that a newly published note shows up on your Mastodon timeline within 20 minutes.
+2. Actions 01–05 installed with exact names as above. Optional: install `Publish: Help`.
+3. Use `Publish: Help` to create starter drafts, or create them by hand.
+4. Test each action end to end:
+   - Blog: create a short post and keep `draft: true`, run `Publish: Blog`, confirm it commits to the repo and the GitHub Action runs. It will be in public Git history but not on the live site.
+   - Newsletter: write a subject line and a body, run `Publish: Newsletter`, confirm it shows as a draft in Buttondown (NOT sent), then delete the Buttondown draft if it was only a test.
+   - Note: write a real short note you are comfortable making public, run `Publish: Note`, confirm `content/notes/{timestamp}.md` appears in the repo and the page renders at `/notes/{timestamp}/` after the rebuild.
+   - Link: save a real link you are comfortable keeping, or use a known duplicate URL to test the duplicate path without creating a new LinkLog item.
+5. Run the router against an untagged draft first and press Cancel on the confirmation prompt. That verifies detection without side effects. Then run one real router publish.
+6. Check that the draft is tagged `published` and archived after each success.
+7. Subscribe Micro.Blog to `/notes/feed.json` (see POSSE-SETUP step 7). Verify that a newly published note shows up on your Mastodon timeline within 20 minutes.
 
 ## Known limitations
 
