@@ -103,5 +103,7 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
+        env:
+          NODE_OPTIONS: --no-deprecation
         # Pin the Node 24 update until actions/deploy-pages publishes the next tag.
         uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
