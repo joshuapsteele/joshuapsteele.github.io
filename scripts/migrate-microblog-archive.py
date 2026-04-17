@@ -25,6 +25,8 @@ What it does:
       into static/notes/images/.
     - Preserves original dates so Hugo's chronological ordering matches
       what's visible today at social.joshuapsteele.com.
+    - Marks imported posts `syndicate: false` by default so they are visible
+      on joshuapsteele.com but omitted from /notes/feed.json.
     - Idempotent: re-running skips posts that already exist in content/notes/.
 
 Requires: Python 3.8+, `pyyaml`, `requests`.
@@ -172,13 +174,15 @@ def filename_for_post(date: datetime) -> str:
     return date.astimezone().strftime("%Y-%m-%d-%H%M") + ".md"
 
 
-def render_hugo_note(fm: PostFrontmatter, body: str) -> str:
+def render_hugo_note(fm: PostFrontmatter, body: str, syndicate: bool) -> str:
     """Emit the Hugo frontmatter + body for content/notes/*.md."""
     lines = ["---"]
     if fm.title:
         lines.append(f"title: {yaml.safe_dump(fm.title, default_flow_style=False).strip()}")
     lines.append(f"date: {fm.date.strftime('%Y-%m-%dT%H:%M:%S%z')[:-2]}:00")
     lines.append("draft: false")
+    if not syndicate:
+        lines.append("syndicate: false")
     tags_yaml = "[" + ", ".join(f'"{t}"' for t in fm.tags) + "]"
     lines.append(f"tags: {tags_yaml}")
     # Preserve the original Micro.Blog URL so webmentions + existing links still resolve.
@@ -197,7 +201,7 @@ def iter_archive_posts(archive_dir: Path) -> Iterable[Path]:
         yield p
 
 
-def migrate(archive: Path, hugo_repo: Path, download_images: bool, dry_run: bool) -> None:
+def migrate(archive: Path, hugo_repo: Path, download_images: bool, dry_run: bool, syndicate: bool) -> None:
     notes_dir = hugo_repo / "content" / "notes"
     images_dir = hugo_repo / "static" / "notes" / "images"
     notes_dir.mkdir(parents=True, exist_ok=True)
@@ -233,7 +237,7 @@ def migrate(archive: Path, hugo_repo: Path, download_images: bool, dry_run: bool
             continue
         seen.add(fname)
 
-        rendered = render_hugo_note(fm, body)
+        rendered = render_hugo_note(fm, body, syndicate=syndicate)
         dest = notes_dir / fname
         if dry_run:
             print(f"DRY {src.name} → content/notes/{fname}")
@@ -253,6 +257,11 @@ def main() -> int:
     ap.add_argument("--archive", required=True, type=Path, help="Path to unzipped Micro.Blog archive")
     ap.add_argument("--hugo-repo", required=True, type=Path, help="Path to joshuapsteele.github.io repo")
     ap.add_argument("--download-images", action="store_true", help="Download Micro.Blog-hosted images into static/notes/images/")
+    ap.add_argument(
+        "--syndicate",
+        action="store_true",
+        help="Allow imported posts into /notes/feed.json. Default is to write syndicate: false.",
+    )
     ap.add_argument("--dry-run", action="store_true", help="Print actions without writing files")
     args = ap.parse_args()
 
@@ -261,7 +270,7 @@ def main() -> int:
     if not (args.hugo_repo / "hugo.yaml").is_file() and not (args.hugo_repo / "config.yaml").is_file():
         sys.exit(f"--hugo-repo does not look like a Hugo site: {args.hugo_repo}")
 
-    migrate(args.archive, args.hugo_repo, args.download_images, args.dry_run)
+    migrate(args.archive, args.hugo_repo, args.download_images, args.dry_run, args.syndicate)
     return 0
 
 

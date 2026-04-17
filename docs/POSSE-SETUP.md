@@ -98,6 +98,8 @@ python3 scripts/migrate-microblog-archive.py \
 
 `--download-images` fetches every Micro.Blog-hosted image into `static/notes/images/` and rewrites the URLs. Depending on how many posts have images, this could take a few minutes.
 
+Imported posts are marked `syndicate: false` by default. They will render on joshuapsteele.com, but `layouts/notes/list.jsonfeed.json` omits them from `/notes/feed.json`, so Micro.Blog will not treat the historical archive as fresh cross-post material. If you ever intentionally want imported notes in the syndication feed, pass `--syndicate`.
+
 When it finishes, `git status` in the Hugo repo will show a lot of new files. Build locally (`hugo server`), browse `/notes/`, spot-check ten or twenty imported posts at random, pay attention to any with images or code blocks.
 
 Commit and push when satisfied:
@@ -108,7 +110,7 @@ git commit -m "Import Micro.Blog archive into /notes/"
 git push
 ```
 
-The GitHub Action rebuild will take longer than usual because it's generating a page per note. Wait for it to finish; the `/notes/feed.json` will now include all of your imported history (capped to the most recent N, configurable via `services.rss.limit` in `hugo.yaml`).
+The GitHub Action rebuild will take longer than usual because it's generating a page per note. Wait for it to finish; the imported archive will be browsable at `/notes/`, while `/notes/feed.json` will continue to include only notes that are eligible for syndication.
 
 ## Step 7 — Subscribe Micro.Blog to the new feed
 
@@ -116,7 +118,7 @@ In Micro.Blog: Account → Edit Feeds (or "Feeds" in some versions of the UI). A
 
     URL: https://joshuapsteele.com/notes/feed.json
 
-Micro.Blog will do an initial poll right away and then re-poll every 5–20 minutes. Your imported archive will appear in the Micro.Blog timeline.
+Micro.Blog will do an initial poll right away and then re-poll every 5–20 minutes. New Hugo-authored notes will appear in the Micro.Blog timeline. Imported archive notes with `syndicate: false` will not.
 
 Critically: at this point Micro.Blog is reading posts it *already knows about* (because they originated there) and will happily duplicate them in the timeline if you don't disable the old side.
 
@@ -201,6 +203,34 @@ If something goes wrong and you want to revert:
 - The Micro.Blog feed subscription: Account → Feeds → remove the joshuapsteele.com feed.
 
 No data is lost. Your Micro.Blog archive remains whole even after Step 4 (you exported a copy, not moved the originals).
+
+## Maintenance — List or prune notes
+
+Use `scripts/manage-notes.py` when you want to audit or remove batches of notes by date/time, tag, draft status, or syndication flag.
+
+List notes:
+
+```bash
+python3 scripts/manage-notes.py list --before 2026-05-01
+python3 scripts/manage-notes.py list --syndicate false
+python3 scripts/manage-notes.py list --tag test
+```
+
+Preview a deletion:
+
+```bash
+python3 scripts/manage-notes.py delete \
+    --from 2026-04-17T10:00:00-04:00 \
+    --to 2026-04-17T11:00:00-04:00
+```
+
+Actually remove the matching notes from Hugo:
+
+```bash
+python3 scripts/manage-notes.py delete --tag test --before 2026-05-01 --yes
+```
+
+By default, `delete --yes` moves files into `attic/deleted-notes/` instead of unlinking them. That keeps the content in Git history and out of the generated site. Add `--permanent --yes` only when you truly want the files removed.
 
 ## What's left on the table (future work)
 

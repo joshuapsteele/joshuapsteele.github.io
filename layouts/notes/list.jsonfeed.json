@@ -4,10 +4,11 @@
   JSON Feed 1.1: https://www.jsonfeed.org/version/1.1/
   Design notes:
     - items[].title is OMITTED for title-less notes (spec-compliant; Micro.Blog renders them as content-only).
+    - notes with `syndicate: false` are omitted from this feed but still render on the site.
     - content_html is full body (Hugo's rendered .Content).
     - id is the permalink — stable across rebuilds and globally unique.
 */ -}}
-{{- $pages := .RegularPages -}}
+{{- $pages := where .RegularPages "Params.syndicate" "ne" false -}}
 {{- $limit := site.Config.Services.RSS.Limit -}}
 {{- if ge $limit 1 -}}
 {{- $pages = $pages | first $limit -}}
