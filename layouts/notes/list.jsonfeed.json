@@ -1,0 +1,52 @@
+{{- /*
+  Notes JSON Feed — served at /notes/feed.json
+  This is the canonical feed Micro.Blog subscribes to.
+  JSON Feed 1.1: https://www.jsonfeed.org/version/1.1/
+  Design notes:
+    - items[].title is OMITTED for title-less notes (spec-compliant; Micro.Blog renders them as content-only).
+    - content_html is full body (Hugo's rendered .Content).
+    - id is the permalink — stable across rebuilds and globally unique.
+*/ -}}
+{{- $pages := .RegularPages -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
+{{- if ge $limit 1 -}}
+{{- $pages = $pages | first $limit -}}
+{{- end -}}
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": {{ print "Notes — " .Site.Title | jsonify }},
+  "home_page_url": {{ .Permalink | jsonify }},
+  {{- with .OutputFormats.Get "jsonfeed" }}
+  "feed_url": {{ .Permalink | jsonify }},
+  {{- end }}
+  "description": {{ (.Description | default "Short posts from Joshua P. Steele") | jsonify }},
+  "language": "en-US",
+  "authors": [
+    {
+      "name": {{ .Site.Params.author | jsonify }},
+      "url": {{ .Site.BaseURL | jsonify }}
+    }
+  ],
+  "items": [
+    {{- range $index, $page := $pages }}
+    {{- if $index }},{{ end }}
+    {
+      "id": {{ .Permalink | jsonify }},
+      "url": {{ .Permalink | jsonify }},
+      {{- with .Title }}
+      "title": {{ . | jsonify }},
+      {{- end }}
+      "content_html": {{ .Content | jsonify }},
+      "date_published": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }}
+      {{- $tags := .Language.Params.Taxonomies.tag | default "tags" -}}
+      {{- with ($page.GetTerms $tags) }},
+      "tags": [
+        {{- range $i, $t := . -}}
+        {{- if $i }},{{ end }}{{ $t.LinkTitle | jsonify }}
+        {{- end -}}
+      ]
+      {{- end }}
+    }
+    {{- end }}
+  ]
+}

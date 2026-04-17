@@ -1,0 +1,61 @@
+{{- define "main" }}
+
+<article class="note-single h-entry">
+  <header class="note-header">
+    {{ partial "breadcrumbs.html" . }}
+    {{- if .Title }}
+    <h1 class="note-title p-name">{{ .Title }}</h1>
+    {{- else }}
+    {{- /* Title-less note: hide a p-name for microformat parsers, show date as the heading */ -}}
+    <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
+    <p class="note-date-heading">
+      <a href="{{ .Permalink }}" rel="bookmark">
+        <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+        </time>
+      </a>
+    </p>
+    {{- end }}
+    {{- if and .Title (not (.Param "hideMeta")) }}
+    <div class="note-meta">
+      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+      </time>
+    </div>
+    {{- end }}
+  </header>
+
+  {{- partial "reply_context.html" . -}}
+
+  {{- if .Content }}
+  <div class="note-content e-content">
+    {{ .Content }}
+  </div>
+  {{- end }}
+
+  {{- /* Hidden author microformat so parsers can attribute the note */ -}}
+  <div class="p-author h-card" style="display:none;">
+    <a class="u-url p-name" href="{{ site.BaseURL }}">{{ site.Params.author }}</a>
+  </div>
+  <a class="u-url" href="{{ .Permalink }}" style="display:none;" rel="bookmark">{{ .Permalink }}</a>
+
+  <footer class="note-footer">
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    {{- with ($.GetTerms $tags) }}
+    <ul class="post-tags">
+      {{- range . }}
+      <li><a href="{{ .Permalink }}" class="p-category">{{ .LinkTitle }}</a></li>
+      {{- end }}
+    </ul>
+    {{- end }}
+  </footer>
+
+  <div class="lets-talk-section">
+    <hr>
+    <p class="lets-talk-intro">Reply on <a href="https://mastodon.social/@joshuapsteele" rel="me">Mastodon</a> or via email — replies show up below.</p>
+  </div>
+
+  {{- partial "webmention_display.html" . -}}
+</article>
+
+{{- end }}{{/* end main */}}

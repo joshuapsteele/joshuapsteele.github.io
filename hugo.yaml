@@ -68,7 +68,7 @@ params:
       # Primary buttons (always visible)
       - name: About 👤
         url: "/about/"
-      - name: Blog 📝
+      - name: Blog ✍️
         url: "/blog/"
       - name: Categories 🗂️
         url: "/categories/"
@@ -80,6 +80,8 @@ params:
         url: "/cv/"
       - name: Links 🔗
         url: "https://links.joshuapsteele.com"
+      - name: Notes 📝
+        url: "/notes/"
       - name: Now ⏳
         url: "/now/"
       - name: Popular 🔥
@@ -183,18 +185,21 @@ menu:
     - name: About
       url: /about/
       weight: 1
+    - name: Notes
+      url: /notes/
+      weight: 2
     - name: Blog
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Contact
       url: /contact/
-      weight: 3
+      weight: 4
     - name: Resources
       url: /resources/
-      weight: 4
+      weight: 5
     - name: Search
       url: /search?
-      weight: 5
+      weight: 6
 # Performance optimizations
 minify:
   tdewolff:
@@ -221,10 +226,6 @@ build:
 
 # Caching configuration
 caches:
-  getjson:
-    maxAge: "1h"
-  getcsv:
-    maxAge: "1h"
   images:
     maxAge: "24h"
   assets:

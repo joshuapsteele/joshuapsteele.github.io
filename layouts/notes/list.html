@@ -1,0 +1,67 @@
+{{- define "main" }}
+
+<header class="page-header">
+  {{ partial "breadcrumbs.html" . }}
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <div class="post-description">{{ .Description }}</div>
+  {{- end }}
+</header>
+
+<div class="notes-stream h-feed">
+  {{- $pages := .RegularPages }}
+  {{- $paginator := .Paginate $pages }}
+  {{- range $paginator.Pages }}
+  <article class="note-stream-item h-entry" id="note-{{ .File.ContentBaseName }}">
+    <header class="note-stream-header">
+      {{- if .Title }}
+      <h2 class="note-stream-title p-name">
+        <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
+      </h2>
+      {{- else }}
+      <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
+      {{- end }}
+      <p class="note-stream-date">
+        <a href="{{ .Permalink }}" class="u-url" rel="bookmark">
+          <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+            {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+          </time>
+        </a>
+      </p>
+    </header>
+    <div class="note-stream-content e-content">
+      {{ .Content }}
+    </div>
+    {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
+    {{- with (.GetTerms $tags) }}
+    <footer class="note-stream-footer">
+      <ul class="post-tags">
+        {{- range . }}
+        <li><a href="{{ .Permalink }}" class="p-category">{{ .LinkTitle }}</a></li>
+        {{- end }}
+      </ul>
+    </footer>
+    {{- end }}
+    <div class="p-author h-card" style="display:none;">
+      <a class="u-url p-name" href="{{ site.BaseURL }}">{{ site.Params.author }}</a>
+    </div>
+  </article>
+  {{- end }}
+
+  {{- if gt $paginator.TotalPages 1 }}
+  <nav class="pagination">
+    {{- if $paginator.HasPrev }}
+    <a class="prev" href="{{ $paginator.Prev.URL }}">« Newer</a>
+    {{- end }}
+    {{- if $paginator.HasNext }}
+    <a class="next" href="{{ $paginator.Next.URL }}">Older »</a>
+    {{- end }}
+  </nav>
+  {{- end }}
+</div>
+
+<p class="note-feed-hint">
+  Subscribe: <a href="{{ .Permalink }}feed.xml">RSS</a> · <a href="{{ .Permalink }}feed.json">JSON Feed</a>
+</p>
+
+{{- end }}{{/* end main */}}
