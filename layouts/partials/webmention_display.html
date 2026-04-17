@@ -72,6 +72,9 @@
   function fetchMentions(source) {
     return fetch(source.url)
       .then(response => {
+        if (source.name === "micro.blog" && response.status === 404) {
+          return { type: "feed", name: "Conversation", children: [] };
+        }
         if (!response.ok) throw new Error(`${source.name} returned ${response.status}`);
         return response.json();
       })

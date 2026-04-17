@@ -14,6 +14,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 - `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
 - `fetch_syndication_links.py` - Fetch Micro.blog syndication URLs for Hugo response links
 - `send_webmentions.py` - Discover and send outgoing Webmentions for recently built reply posts
+- `check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
 
 ### Content Maintenance
 - `cleanup_frontmatter.py` - Clean up and standardize YAML front matter
@@ -57,6 +58,9 @@ python3 scripts/fetch_popular_posts.py
 
 # Example: Fetch Micro.blog cross-post URLs for response links
 python3 scripts/fetch_syndication_links.py
+
+# Example: Check whether Join the Conversation has anything to load
+python3 scripts/check_conversation_sources.py https://joshuapsteele.com/notes/2026-04-17-1204/
 
 # Example: Preview outgoing Webmentions after a local build
 hugo --gc --destination /tmp/jps-public

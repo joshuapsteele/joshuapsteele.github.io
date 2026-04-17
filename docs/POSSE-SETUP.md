@@ -183,6 +183,14 @@ For IndieWeb-style replies via Micro.Blog, check both the public note page and:
 https://micro.blog/webmention?target=https%3A%2F%2Fjoshuapsteele.com%2Fnotes%2FYOUR-NOTE%2F&format=jf2
 ```
 
+Or run both conversation-source checks at once:
+
+```bash
+python3 scripts/check_conversation_sources.py https://joshuapsteele.com/notes/YOUR-NOTE/
+```
+
+Micro.Blog returns "Post not found" for URLs it cannot associate with a Micro.Blog conversation. The site treats that as an empty Micro.Blog conversation, not an error.
+
 Mastodon replies may appear when Micro.Blog can connect the downstream post back to the source note. Threads replies should be treated as outbound-only unless testing proves otherwise.
 
 Bridgy Fed is not the right promise to make here unless joshuapsteele.com itself becomes the Fediverse actor. Bridgy classic may still be useful later if you decide to add direct Bridgy Publish / `u-syndication` support, but this setup does not depend on it.
