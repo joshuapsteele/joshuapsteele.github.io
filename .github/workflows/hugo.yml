@@ -12,6 +12,7 @@ on:
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
   contents: read
+  actions: read
   pages: write
   id-token: write
 
@@ -74,10 +75,24 @@ jobs:
             --limit 5 \
             --since-days 30
 
+      - name: Archive Pages artifact
+        run: |
+          tar \
+            --dereference --hard-dereference \
+            --directory "public" \
+            -cf "$RUNNER_TEMP/artifact.tar" \
+            --exclude=.git \
+            --exclude=.github \
+            --exclude=".[^/]*" \
+            .
+
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
-          path: ./public
+          name: github-pages
+          path: ${{ runner.temp }}/artifact.tar
+          retention-days: 1
+          if-no-files-found: error
 
   # Deployment job
   deploy:
