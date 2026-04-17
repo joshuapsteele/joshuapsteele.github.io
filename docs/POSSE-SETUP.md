@@ -208,6 +208,8 @@ No data is lost. Your Micro.Blog archive remains whole even after Step 4 (you ex
 
 Use `scripts/manage-notes.py` when you want to audit or remove batches of notes by date/time, tag, draft status, or syndication flag.
 
+See `docs/NOTES-TOOLS.md` for the fuller maintenance guide, including bulk archive import instructions.
+
 List notes:
 
 ```bash

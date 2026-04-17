@@ -47,13 +47,13 @@ from urllib.parse import urlparse
 
 try:
     import yaml
-except ImportError:
-    sys.exit("pyyaml not installed. Run: pip install --break-system-packages pyyaml requests")
+except ImportError:  # Deferred so --help still works without optional deps.
+    yaml = None
 
 try:
     import requests
-except ImportError:
-    sys.exit("requests not installed. Run: pip install --break-system-packages pyyaml requests")
+except ImportError:  # Deferred so --help still works without optional deps.
+    requests = None
 
 
 IMG_URL_RE = re.compile(
@@ -63,6 +63,13 @@ HTML_IMG_RE = re.compile(
     r'<img\s+[^>]*src="(?P<url>https?://[^"]+)"[^>]*>',
     re.IGNORECASE,
 )
+
+
+def require_dependencies(download_images: bool) -> None:
+    if yaml is None:
+        sys.exit("pyyaml not installed. Run: pip install --break-system-packages pyyaml requests")
+    if download_images and requests is None:
+        sys.exit("requests not installed. Run: pip install --break-system-packages pyyaml requests")
 
 
 @dataclass
@@ -270,6 +277,7 @@ def main() -> int:
     if not (args.hugo_repo / "hugo.yaml").is_file() and not (args.hugo_repo / "config.yaml").is_file():
         sys.exit(f"--hugo-repo does not look like a Hugo site: {args.hugo_repo}")
 
+    require_dependencies(download_images=args.download_images)
     migrate(args.archive, args.hugo_repo, args.download_images, args.dry_run, args.syndicate)
     return 0
 
