@@ -765,6 +765,20 @@ body:not(.dark) .footer-logo {
     text-decoration: underline;
 }
 
+.microblog-more {
+    margin-top: 1.25em;
+}
+
+.microblog-more a {
+    color: var(--primary);
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.microblog-more a:hover {
+    text-decoration: underline;
+}
+
 /* Notes stream */
 .notes-page-header {
     margin-bottom: 2rem;

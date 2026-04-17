@@ -114,6 +114,7 @@ Create them via Drafts → Workspaces → New.
 The easiest memory aid is the optional `Publish: Help` action. It does not publish anything. It gives you buttons for:
 
 - New note
+- New reply note
 - New link
 - New blog draft
 - New newsletter draft
@@ -152,6 +153,20 @@ Write the note here. #tag
 ```
 
 That's it. No frontmatter required; the `Publish: Note` action supplies everything from the current date. Add `#hashtags` inline if you want taxonomy.
+
+**Reply note template** (shortform reply with IndieWeb markup)
+
+```yaml
+---
+destination: note
+in_reply_to: "https://example.com/original-post"
+tags: []
+---
+
+Write your reply here.
+```
+
+`Publish: Note` preserves `in_reply_to` in the Hugo frontmatter. The note page renders a visible reply context, the JSON Feed includes the reply link, and the deploy workflow tries to send an outgoing Webmention to the original post when that post advertises a Webmention endpoint.
 
 **Newsletter template**
 

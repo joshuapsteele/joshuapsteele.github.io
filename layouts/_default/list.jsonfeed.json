@@ -29,7 +29,7 @@
     {{- if (or .Site.Params.author .Site.Params.author_url) }}
     "authors": [{
       {{- if .Site.Params.author }}
-        "name": {{ .Site.Params.author | jsonify }},
+        "name": {{ .Site.Params.author | jsonify }}{{ if .Site.Params.author_url }},{{ end }}
       {{- end }}
       {{- if .Site.Params.author_url }}
         "url": {{ .Site.Params.author_url | jsonify }}
@@ -41,12 +41,17 @@
         {{- range $index, $element := $pages }}
         {{- with $element }}
         {{- if $index }},{{end}} {
+            {{- $contentHTML := .Content -}}
+            {{- with .Params.in_reply_to -}}
+            {{- $replyHTML := printf "<p><a class=\"u-in-reply-to\" href=\"%s\">In reply to</a></p>" (. | htmlEscape) -}}
+            {{- $contentHTML = printf "%s\n%s" $replyHTML $contentHTML -}}
+            {{- end }}
             "title": {{ .Title | jsonify }},
             "id": {{ .Permalink | jsonify }},
             "url": {{ .Permalink | jsonify }},
             {{- if .Site.Params.showFullTextinJSONFeed }}
             "summary": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | jsonify }}{{ end -}},
-            "content_html": {{ .Content | jsonify }},
+            "content_html": {{ $contentHTML | jsonify }},
             {{- else }}
             "content_text": {{ with .Description }}{{ . | jsonify }}{{ else }}{{ .Summary | jsonify }}{{ end -}},
             {{- end }}

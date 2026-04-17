@@ -161,11 +161,11 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
   - Webmention endpoint: `https://webmention.io/joshuapsteele.com/webmention`
   - Pingback endpoint: `https://webmention.io/joshuapsteele.com/xmlrpc`
 - **Display**: JavaScript-based webmention display (`layouts/partials/webmention_display.html`)
-  - Fetches from webmention.io API on page load
+  - Fetches from webmention.io and Micro.blog's JF2 endpoint on page load
   - Groups by type: likes (facepile), reposts (facepile), replies (full cards), mentions (list)
   - Styled with extensive CSS (`assets/css/extended/custom.css` lines 383-538)
-- **Bridgy**: Backfeed social media interactions as webmentions
-  - Integration with Mastodon via brid.gy
+- **Outgoing**: `scripts/send_webmentions.py` runs after the Hugo build in GitHub Actions
+  - By default it sends only explicit `u-in-reply-to` links, keeping regular post links quiet
 
 ### Reply Context
 - **Reply Posts**: Support for replying to other posts with context (`layouts/partials/reply_context.html`)
@@ -188,7 +188,7 @@ in_reply_to: "https://example.com/original-post"
 ### POSSE Workflow
 - Posts published on joshuapsteele.com first
 - Syndicated to Micro.blog, which cross-posts to Mastodon and Threads
-- Social interactions backfed as webmentions via Bridgy
+- Conversations are displayed from webmention.io and Micro.blog when those services can connect replies back to the canonical URL
 
 ### IndieWeb Testing
 Validate implementations with:

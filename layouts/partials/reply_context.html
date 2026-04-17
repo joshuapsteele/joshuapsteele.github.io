@@ -11,8 +11,8 @@
 
 <script>
 (function() {
-  const replyUrl = '{{ . }}';
-  const container = document.querySelector('.reply-context-content[data-reply-url="' + replyUrl + '"]');
+  const replyUrl = {{ . | jsonify }};
+  const container = document.querySelector(".reply-context-content[data-reply-url]");
 
   if (!container) return;
 
@@ -43,48 +43,58 @@
         const published = hEntry.querySelector('.dt-published');
         const publishedText = published ? published.getAttribute('datetime') || published.textContent : '';
 
-        // Build the reply context display
-        let contextHtml = '<div class="reply-context-card">';
+        const card = document.createElement("div");
+        card.className = "reply-context-card";
 
         if (authorName) {
-          contextHtml += '<div class="reply-author"><strong>' + escapeHtml(authorName) + '</strong>';
+          const authorEl = document.createElement("div");
+          authorEl.className = "reply-author";
+          const strong = document.createElement("strong");
+          strong.textContent = authorName;
+          authorEl.appendChild(strong);
           if (publishedText) {
             const date = new Date(publishedText);
             if (!isNaN(date)) {
-              contextHtml += ' · ' + date.toLocaleDateString();
+              authorEl.appendChild(document.createTextNode(" · " + date.toLocaleDateString()));
             }
           }
-          contextHtml += '</div>';
+          card.appendChild(authorEl);
         }
 
         if (titleText && titleText !== contentText) {
-          contextHtml += '<div class="reply-title">' + escapeHtml(titleText) + '</div>';
+          const titleEl = document.createElement("div");
+          titleEl.className = "reply-title";
+          titleEl.textContent = titleText;
+          card.appendChild(titleEl);
         }
 
         if (contentText) {
-          contextHtml += '<div class="reply-excerpt">' + escapeHtml(contentText);
-          if (content && content.textContent.length > 280) {
-            contextHtml += '...';
-          }
-          contextHtml += '</div>';
+          const excerptEl = document.createElement("div");
+          excerptEl.className = "reply-excerpt";
+          excerptEl.textContent = contentText + (content && content.textContent.length > 280 ? "..." : "");
+          card.appendChild(excerptEl);
         }
 
-        contextHtml += '</div>';
-        container.innerHTML = contextHtml;
+        container.replaceChildren(card);
       } else {
         // Fallback: just show the link
-        container.innerHTML = '<p class="reply-context-fallback">View the original post at <a href="' + replyUrl + '">' + replyUrl + '</a></p>';
+        renderFallback(container, replyUrl);
       }
     })
     .catch(error => {
       // If fetch fails (CORS, etc.), show a simple fallback
-      container.innerHTML = '<p class="reply-context-fallback">View the original post at <a href="' + replyUrl + '">' + replyUrl + '</a></p>';
+      renderFallback(container, replyUrl);
     });
 
-  function escapeHtml(text) {
-    const div = document.createElement('div');
-    div.textContent = text;
-    return div.innerHTML;
+  function renderFallback(parent, url) {
+    const p = document.createElement("p");
+    p.className = "reply-context-fallback";
+    p.appendChild(document.createTextNode("View the original post at "));
+    const a = document.createElement("a");
+    a.href = url;
+    a.textContent = url;
+    p.appendChild(a);
+    parent.replaceChildren(p);
   }
 })();
 </script>

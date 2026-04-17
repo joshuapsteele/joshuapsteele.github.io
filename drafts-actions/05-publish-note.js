@@ -20,6 +20,7 @@
 //   slug: custom-slug
 //   tags: [quotes, watching]
 //   date: 2026-04-17T18:30:00-04:00
+//   in_reply_to: https://example.com/original-post
 //   ---
 //
 //   Body.
@@ -165,6 +166,7 @@ if (!raw) {
     const fmTags = normalizeTags(fm.tags);
     const inlineTags = extractHashtags(body);
     const allTags = normalizeTags(fmTags.concat(inlineTags));
+    const inReplyTo = fm.in_reply_to || fm.reply_to || "";
 
     body = body.trim();
     if (!body && !title) {
@@ -176,6 +178,8 @@ if (!raw) {
         if (title) fmOut += "title: " + yamlEscape(title) + "\n";
         fmOut += "date: " + dateISO + "\n";
         fmOut += "draft: false\n";
+        if (inReplyTo) fmOut += "in_reply_to: " + yamlEscape(inReplyTo) + "\n";
+        if (fm.syndicate === false) fmOut += "syndicate: false\n";
         fmOut += "tags: [" + allTags.map(yamlDoubleQuote).join(", ") + "]\n";
         fmOut += "---\n\n";
         const noteContent = fmOut + body + "\n";

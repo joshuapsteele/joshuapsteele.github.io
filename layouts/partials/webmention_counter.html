@@ -8,67 +8,109 @@
 
 <script>
 (function() {
-  const targetUrl = '{{ .Permalink }}';
-  const apiUrl = `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`;
-  const counter = document.getElementById('webmention-counter');
-  const counterText = document.getElementById('webmention-counter-text');
+  const targetUrl = {{ .Permalink | jsonify }};
+  const sources = [
+    `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`,
+    `https://micro.blog/webmention?target=${encodeURIComponent(targetUrl)}&format=jf2`
+  ];
+  const counter = document.getElementById("webmention-counter");
+  const counterText = document.getElementById("webmention-counter-text");
 
-  // Fetch webmentions count
-  fetch(apiUrl)
-    .then(response => {
-      if (!response.ok) throw new Error('Network response was not ok');
-      return response.json();
-    })
-    .then(data => {
-      if (!data.children || data.children.length === 0) {
-        counter.style.display = 'none';
+  if (!counter || !counterText) return;
+
+  Promise.all(sources.map(fetchMentionSource))
+    .then(results => {
+      const mentions = dedupeMentions(results.flat());
+      if (mentions.length === 0) {
+        counter.style.display = "none";
         return;
       }
 
-      // Group and count by type
-      const counts = {
-        likes: 0,
-        reposts: 0,
-        replies: 0,
-        mentions: 0
-      };
+      const counts = mentions.reduce((acc, mention) => {
+        const type = mention["wm-property"] || "mention-of";
+        if (type === "like-of") acc.likes++;
+        else if (type === "repost-of") acc.reposts++;
+        else if (type === "in-reply-to") acc.replies++;
+        else acc.mentions++;
+        return acc;
+      }, { likes: 0, reposts: 0, replies: 0, mentions: 0 });
 
-      data.children.forEach(mention => {
-        const type = mention['wm-property'];
-        if (type === 'like-of') {
-          counts.likes++;
-        } else if (type === 'repost-of') {
-          counts.reposts++;
-        } else if (type === 'in-reply-to') {
-          counts.replies++;
-        } else {
-          counts.mentions++;
-        }
-      });
-
-      // Build counter text
       const parts = [];
-      if (counts.replies > 0) {
-        parts.push(`💬 ${counts.replies} ${counts.replies === 1 ? 'reply' : 'replies'}`);
-      }
-      if (counts.likes > 0) {
-        parts.push(`❤️ ${counts.likes}`);
-      }
-      if (counts.reposts > 0) {
-        parts.push(`🔁 ${counts.reposts}`);
-      }
-      if (counts.mentions > 0) {
-        parts.push(`🔗 ${counts.mentions}`);
-      }
+      if (counts.replies > 0) parts.push(`💬 ${counts.replies} ${counts.replies === 1 ? "reply" : "replies"}`);
+      if (counts.likes > 0) parts.push(`❤️ ${counts.likes}`);
+      if (counts.reposts > 0) parts.push(`🔁 ${counts.reposts}`);
+      if (counts.mentions > 0) parts.push(`🔗 ${counts.mentions}`);
 
       if (parts.length > 0) {
-        counterText.textContent = parts.join(' · ');
-        counter.style.display = 'inline';
+        counterText.textContent = parts.join(" · ");
+        counter.style.display = "inline";
       }
     })
     .catch(err => {
-      console.error('Error loading webmention count:', err);
-      counter.style.display = 'none';
+      console.error("Error loading webmention count:", err);
+      counter.style.display = "none";
     });
+
+  function fetchMentionSource(url) {
+    return fetch(url)
+      .then(response => {
+        if (!response.ok) throw new Error(`Webmention source returned ${response.status}`);
+        return response.json();
+      })
+      .then(normalizeMentions)
+      .catch(err => {
+        console.error("Error loading webmention source:", err);
+        return [];
+      });
+  }
+
+  function normalizeMentions(data) {
+    const rawMentions = Array.isArray(data.children)
+      ? data.children
+      : (Array.isArray(data.items) ? data.items.map(jsonFeedItemToMention) : []);
+
+    return rawMentions.map(mention => {
+      const normalized = Object.assign({}, mention);
+      if (!normalized["wm-property"]) {
+        if (normalized["like-of"]) normalized["wm-property"] = "like-of";
+        else if (normalized["repost-of"]) normalized["wm-property"] = "repost-of";
+        else if (normalized["in-reply-to"]) normalized["wm-property"] = "in-reply-to";
+        else normalized["wm-property"] = "mention-of";
+      }
+      return normalized;
+    });
+  }
+
+  function jsonFeedItemToMention(item) {
+    return {
+      url: item.url || item.external_url || item.id,
+      published: item.date_published,
+      content: {
+        html: item.content_html || "",
+        text: item.content_text || item.summary || ""
+      },
+      author: item.author || (Array.isArray(item.authors) ? item.authors[0] : null),
+      "wm-property": "in-reply-to"
+    };
+  }
+
+  function dedupeMentions(mentions) {
+    const seen = new Set();
+    return mentions.filter(mention => {
+      const author = mention.author || {};
+      const content = mention.content || {};
+      const key = [
+        mention["wm-property"] || "",
+        mention.url || mention["wm-source"] || mention.id || "",
+        author.url || author.name || "",
+        mention.published || "",
+        (content.text || content.html || "").slice(0, 160)
+      ].join("|");
+
+      if (seen.has(key)) return false;
+      seen.add(key);
+      return true;
+    });
+  }
 })();
 </script>

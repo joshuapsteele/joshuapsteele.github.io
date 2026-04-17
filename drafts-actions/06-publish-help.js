@@ -14,6 +14,15 @@ const cheatSheet = [
     "Note -> joshuapsteele.com/notes/",
     "Just write the note. Inline #tags become Hugo tags.",
     "",
+    "Reply note -> joshuapsteele.com/notes/",
+    "---",
+    "destination: note",
+    "in_reply_to: \"https://example.com/original-post\"",
+    "tags: []",
+    "---",
+    "",
+    "Write your reply here.",
+    "",
     "Link -> links.joshuapsteele.com",
     "https://example.com/article",
     "",
@@ -52,6 +61,21 @@ const templates = {
             "Write the note here. #tag",
             "",
             "<!-- Run Publish or Publish: Note when ready. -->"
+        ].join("\n")
+    },
+    reply: {
+        label: "Reply Note",
+        tags: ["note", "drafting"],
+        content: [
+            "---",
+            "destination: note",
+            "in_reply_to: \"https://example.com/original-post\"",
+            "tags: []",
+            "---",
+            "",
+            "Write your reply here.",
+            "",
+            "<!-- Run Publish or Publish: Note when ready. The in_reply_to URL is preserved in Hugo and the feed. -->"
         ].join("\n")
     },
     link: {
@@ -123,6 +147,7 @@ const p = Prompt.create();
 p.title = "Publish: Help";
 p.message = "Create a starter draft, or copy the quick format cheat sheet.";
 p.addButton("New note", "note");
+p.addButton("New reply note", "reply");
 p.addButton("New link", "link");
 p.addButton("New blog draft", "post");
 p.addButton("New newsletter draft", "newsletter");

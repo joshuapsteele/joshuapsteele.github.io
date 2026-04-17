@@ -31,46 +31,22 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.147.3
+      HUGO_VERSION: 0.160.1
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           submodules: recursive
           fetch-depth: 0
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: '${{ env.HUGO_VERSION }}'
-          extended: true
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Cache Hugo modules
-        uses: actions/cache@v4
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
-
-      - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
-      - name: Install dependencies
-        run: npm ci
-        if: hashFiles('package-lock.json') != ''
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
+      - name: Install Hugo
+        run: |
+          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -o /tmp/hugo.tar.gz
+          mkdir -p /tmp/hugo
+          tar -xzf /tmp/hugo.tar.gz -C /tmp/hugo hugo
+          echo "/tmp/hugo" >> "$GITHUB_PATH"
+          /tmp/hugo/hugo version
 
       - name: Fetch popular posts from Tinylytics
         env:
@@ -86,10 +62,20 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://joshuapsteele.com/"
+
+      - name: Send outgoing Webmentions
+        continue-on-error: true
+        run: |
+          python3 scripts/send_webmentions.py \
+            --public-dir public \
+            --feed public/notes/feed.json \
+            --feed public/blog/feed.json \
+            --limit 5 \
+            --since-days 30
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 

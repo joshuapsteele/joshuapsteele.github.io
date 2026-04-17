@@ -12,6 +12,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ### Deployment
 - `deploy.sh` - Deploy site to GitHub (commits with timestamp and pushes)
 - `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
+- `send_webmentions.py` - Discover and send outgoing Webmentions for recently built reply posts
 
 ### Content Maintenance
 - `cleanup_frontmatter.py` - Clean up and standardize YAML front matter
@@ -42,7 +43,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 
 All scripts should be run from the repository root directory:
 
-\`\`\`bash
+```bash
 # Example: Run front matter audit
 python3 scripts/audit-frontmatter.py
 
@@ -52,7 +53,11 @@ python3 scripts/audit-frontmatter.py
 # Example: Fetch popular posts (requires TINYLYTICS_API_KEY)
 export TINYLYTICS_API_KEY='your_key_here'
 python3 scripts/fetch_popular_posts.py
-\`\`\`
+
+# Example: Preview outgoing Webmentions after a local build
+hugo --gc --destination /tmp/jps-public
+python3 scripts/send_webmentions.py --public-dir /tmp/jps-public --feed /tmp/jps-public/notes/feed.json --dry-run
+```
 
 ## Data Directory
 

@@ -14,6 +14,7 @@
 //   categories: [personal]
 //   draft: true
 //   description: A short summary
+//   in_reply_to: https://example.com/original-post
 //   ---
 //   # Optional H1 ignored if title in frontmatter
 //
@@ -160,6 +161,7 @@ else {
             const tagsArr       = normalizeTags(tags);
             const categoriesArr = normalizeTags(categories);
             const slug          = fm.slug ? slugify(fm.slug) : slugify(title);
+            const inReplyTo     = fm.in_reply_to || fm.reply_to || "";
             if (!slug) { app.displayErrorMessage("Could not derive a slug."); context.cancel(); }
             else {
                 const filename = slug + ".md";
@@ -173,6 +175,7 @@ else {
                 fmOut += "date: "       + dateISO + "\n";
                 fmOut += "draft: "      + (isDraft ? "true" : "false") + "\n";
                 if (description)        fmOut += "description: " + yamlEscape(description) + "\n";
+                if (inReplyTo)          fmOut += "in_reply_to: " + yamlEscape(inReplyTo) + "\n";
                 fmOut += "tags: ["       + tagsArr.map(yamlDoubleQuote).join(", ") + "]\n";
                 fmOut += "categories: [" + categoriesArr.map(yamlDoubleQuote).join(", ") + "]\n";
                 fmOut += "url: /"        + slug + "/\n";

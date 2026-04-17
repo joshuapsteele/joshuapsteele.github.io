@@ -13,7 +13,7 @@ Total time if you don't hit surprises: 60–90 minutes, most of it waiting for H
 
 joshuapsteele.com is the canonical home for everything you write: long posts at `/blog/`, short posts at `/notes/` (new), and saved links at `links.joshuapsteele.com` via LinkLog. The new `/notes/` section publishes a full-content JSON Feed at `/notes/feed.json` that Micro.Blog polls every few minutes.
 
-Micro.Blog stops being an authoring surface. It becomes a syndicator: it reads `/notes/feed.json`, cross-posts each new note to Mastodon (@joshuapsteele@mastodon.social) and Threads (@joshuapsteele), and supplies reply collection via its own feed + webmention.io (already wired up on your site).
+Micro.Blog stops being an authoring surface. It becomes a syndicator: it reads `/notes/feed.json` and cross-posts each new note to Mastodon (@joshuapsteele@mastodon.social) and Threads (@joshuapsteele). Conversation backfeed is best treated as "supported when the pieces can connect," not as a hard guarantee: the site reads from webmention.io and Micro.Blog's Webmention endpoint, but Mastodon and Threads replies may not always map back to the canonical note URL.
 
 The `Post to Micro.blog` Drafts action stays installed as a manual fast path. Use it only when you want a near-instant Mastodon/Threads post and are OK with it living only on Micro.Blog, not on joshuapsteele.com.
 
@@ -136,14 +136,11 @@ If you previously had an older `Publish` action installed, open Drafts, open the
 
 Now `Publish` on a short draft writes to Hugo by default. The built-in `Post to Micro.blog` action is still there and still works — use it directly (from the action bar) for the manual fast path.
 
-## Step 9 — Update the homepage Micro.Blog widget
+## Step 9 — Verify the homepage recent-notes widget
 
-`layouts/partials/microblog_posts.html` is currently a client-side widget that fetches `https://social.joshuapsteele.com/feed.json`. After the migration, this is showing the downstream version of content you already authored locally.
+`layouts/partials/microblog_posts.html` used to be a client-side widget that fetched `https://social.joshuapsteele.com/feed.json`. It now renders recent local `/notes/` entries at build time, so the homepage points back to the canonical copies on joshuapsteele.com.
 
-Two cleanup options:
-
-- **Delete the widget call.** Find where it's included (likely `home_info.html` or a profileMode partial) and remove the line. Simplest.
-- **Replace it with a server-rendered recent-notes widget.** Inside `layouts/partials/microblog_posts.html`, replace the whole file with something like:
+It deliberately keeps the old partial filename so the existing homepage include continues to work. The rendered markup looks like this:
 
 ```html
 {{- /* Recent notes from the local Hugo /notes/ section */ -}}
@@ -169,19 +166,51 @@ Two cleanup options:
 </div>
 ```
 
-No JavaScript, no external fetch, no race with page load. Rename the partial to `recent_notes.html` if you want the filename to match the new meaning; just update the one `partial` call that includes it.
+No JavaScript, no external fetch, no race with page load. Rename the partial to `recent_notes.html` later if you want the filename to match the new meaning; just update the one `partial` call that includes it.
 
 ## Step 10 — Webmentions for shortform
 
-webmention.io is already wired up via `layouts/partials/webmentions.html`, and `layouts/notes/single.html` calls `partial "webmention_display.html" .`, so reply collection works out of the box once the notes are live.
+webmention.io is already wired up via `layouts/partials/webmentions.html`, and `layouts/notes/single.html` calls `partial "webmention_display.html" .`.
 
-For Mastodon replies to reach your notes, set up **Brid.gy Fed**:
+The display script checks two places:
 
-1. Go to https://fed.brid.gy and sign in with the Mastodon account (@joshuapsteele@mastodon.social).
-2. Authorize it. Brid.gy will now relay Mastodon replies to joshuapsteele.com → webmention.io.
-3. Verify by replying to your test note from Step 3 from your Mastodon account. Within 5 minutes the reply should show up in the webmention display on the note page.
+1. webmention.io's JF2 API for Webmentions sent directly to joshuapsteele.com.
+2. Micro.Blog's `format=jf2` Webmention endpoint for conversations Micro.Blog can associate with the canonical URL.
 
-For IndieWeb-style replies via Micro.Blog (someone using Micro.Blog's reply UI), the existing `webmention_display.html` already handles that — Micro.Blog sends webmentions for replies.
+For IndieWeb-style replies via Micro.Blog, check both the public note page and:
+
+```text
+https://micro.blog/webmention?target=https%3A%2F%2Fjoshuapsteele.com%2Fnotes%2FYOUR-NOTE%2F&format=jf2
+```
+
+Mastodon replies may appear when Micro.Blog can connect the downstream post back to the source note. Threads replies should be treated as outbound-only unless testing proves otherwise.
+
+Bridgy Fed is not the right promise to make here unless joshuapsteele.com itself becomes the Fediverse actor. Bridgy classic may still be useful later if you decide to add direct Bridgy Publish / `u-syndication` support, but this setup does not depend on it.
+
+Hugo-authored replies use `in_reply_to` frontmatter:
+
+```yaml
+---
+destination: note
+in_reply_to: "https://example.com/original-post"
+tags: []
+---
+
+Your reply.
+```
+
+`Publish: Note` and `Publish: Blog` preserve `in_reply_to`. The note/post page renders a visible reply context, the JSON Feed includes a `u-in-reply-to` link for feed consumers, and the GitHub Actions deploy runs `scripts/send_webmentions.py` after the Hugo build. By default that script only sends Webmentions to explicit reply targets, which keeps regular links from becoming surprise notifications.
+
+Local dry-run:
+
+```bash
+hugo --gc --destination /tmp/jps-public
+python3 scripts/send_webmentions.py \
+    --public-dir /tmp/jps-public \
+    --feed /tmp/jps-public/notes/feed.json \
+    --feed /tmp/jps-public/blog/feed.json \
+    --dry-run
+```
 
 ## Step 11 — Delete or park the old actions
 
@@ -238,7 +267,7 @@ By default, `delete --yes` moves files into `attic/deleted-notes/` instead of un
 
 A few IndieWeb-ish niceties that are cheap to add later but not critical:
 
-- **Reply-context**: add frontmatter like `reply_to: "https://example.com/post"` on notes that are replies, and render a quoted preview via `layouts/partials/reply_context.html` (already present in the repo — designed for this).
+- **Reply-context**: use `in_reply_to: "https://example.com/post"` on notes or posts that are replies. The reply preview partial and outgoing Webmention script are now wired up; the remaining work is mostly testing against real target sites.
 - **Location/geo** on notes via frontmatter.
 - **Note types** — Micro.Blog has `photo` / `reply` / `bookmark` / `like` as semantic categories. If you want parity, add a `post_type` frontmatter field and render it on the note page.
 - **Cross-post status indicator**: fetch Micro.Blog's own feed periodically in CI and annotate each note with its downstream Mastodon URL.

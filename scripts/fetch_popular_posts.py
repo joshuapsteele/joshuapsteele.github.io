@@ -25,7 +25,7 @@ from urllib.error import HTTPError, URLError
 API_BASE = "https://tinylytics.app/api/v1"
 DEFAULT_DAYS = 30
 TOP_N = 10  # Fetch more than needed to filter out non-blog posts
-OUTPUT_FILE = Path(__file__).parent / "data" / "popular.json"
+OUTPUT_FILE = Path(__file__).resolve().parent.parent / "data" / "popular.json"
 
 
 def get_api_key():

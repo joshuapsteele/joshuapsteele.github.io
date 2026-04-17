@@ -160,10 +160,9 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
 
 - **Webmentions**: Receive likes, replies, and mentions from across the web
   - Powered by [webmention.io](https://webmention.io/)
-  - JavaScript-based display of webmentions on each post
+  - JavaScript-based display of webmentions and Micro.blog conversations on each post
   - Grouped by type: likes, reposts, replies, mentions
-- **Bridgy**: Backfeed social media interactions as webmentions
-  - [brid.gy](https://brid.gy/) integration for Mastodon
+- **Outgoing Webmentions**: Recent reply posts are checked during deploy and notify the original post when it advertises a Webmention endpoint
 
 ### Reply Posts
 
@@ -181,6 +180,7 @@ The site will automatically:
 - Display a reply context card showing the original post
 - Mark up the post with `u-in-reply-to` for proper webmention threading
 - Attempt to fetch and show the original author, title, and excerpt
+- Include the reply link in JSON Feed output and attempt an outgoing Webmention during deploy
 
 ### IndieWeb Webring
 

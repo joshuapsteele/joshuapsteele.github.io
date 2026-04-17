@@ -37,7 +37,12 @@
       {{- with .Title }}
       "title": {{ . | jsonify }},
       {{- end }}
-      "content_html": {{ .Content | jsonify }},
+      {{- $contentHTML := .Content -}}
+      {{- with .Params.in_reply_to -}}
+      {{- $replyHTML := printf "<p><a class=\"u-in-reply-to\" href=\"%s\">In reply to</a></p>" (. | htmlEscape) -}}
+      {{- $contentHTML = printf "%s\n%s" $replyHTML $contentHTML -}}
+      {{- end }}
+      "content_html": {{ $contentHTML | jsonify }},
       "date_published": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }}
       {{- $tags := .Language.Params.Taxonomies.tag | default "tags" -}}
       {{- with ($page.GetTerms $tags) }},

@@ -1,11 +1,11 @@
-{{/* Webmention display section - shows received webmentions via JavaScript */}}
+{{/* Webmention display section - shows received conversations via JavaScript */}}
 <div class="webmentions-section" id="webmentions">
   <h3 id="webmentions-heading">💬 Join the Conversation</h3>
   <div id="webmentions-loading" class="webmentions-loading">
     Loading interactions...
   </div>
   <div id="webmentions-error" class="webmentions-error" style="display: none;">
-    Unable to load webmentions. <a href="https://webmention.io/{{ .Site.BaseURL | replaceRE "^https?://" "" }}/webmention/{{ .Permalink | urlize }}">View on webmention.io</a>
+    Unable to load every conversation source right now.
   </div>
   <div id="webmentions-container">
     <!-- Webmentions will be inserted here by JavaScript -->
@@ -13,198 +13,393 @@
   <div id="webmentions-none" class="webmentions-empty-state" style="display: none;">
     <p class="empty-state-message">No interactions yet. Be the first to respond!</p>
     <p class="empty-state-explanation">
-      When you reply to this post on <strong>Mastodon</strong> or <strong>Micro.blog</strong>, your response will automatically appear here via <a href="https://indieweb.org/Webmention" target="_blank" rel="noopener">webmentions</a>. You can also write a blog post response or email me directly using the buttons above.
+      Replies from Micro.blog and supported webmention sources will appear here. Mastodon replies may also appear when Micro.blog can connect them to this post.
     </p>
   </div>
 </div>
 
 <script>
 (function() {
-  const targetUrl = '{{ .Permalink }}';
-  const apiUrl = `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`;
+  const targetUrl = {{ .Permalink | jsonify }};
+  const sources = [
+    {
+      name: "webmention.io",
+      url: `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`
+    },
+    {
+      name: "micro.blog",
+      url: `https://micro.blog/webmention?target=${encodeURIComponent(targetUrl)}&format=jf2`
+    }
+  ];
 
-  const container = document.getElementById('webmentions-container');
-  const loading = document.getElementById('webmentions-loading');
-  const error = document.getElementById('webmentions-error');
-  const none = document.getElementById('webmentions-none');
+  const container = document.getElementById("webmentions-container");
+  const loading = document.getElementById("webmentions-loading");
+  const error = document.getElementById("webmentions-error");
+  const none = document.getElementById("webmentions-none");
+  const heading = document.getElementById("webmentions-heading");
 
-  // Fetch webmentions from webmention.io
-  fetch(apiUrl)
-    .then(response => {
-      if (!response.ok) throw new Error('Network response was not ok');
-      return response.json();
-    })
-    .then(data => {
-      loading.style.display = 'none';
+  if (!container || !loading || !error || !none) return;
 
-      if (!data.children || data.children.length === 0) {
-        none.style.display = 'block';
+  Promise.all(sources.map(fetchMentions))
+    .then(results => {
+      loading.style.display = "none";
+
+      const successful = results.filter(result => result.ok);
+      if (successful.length === 0) {
+        error.style.display = "block";
         return;
       }
 
-      // Group mentions by type
-      const mentions = {
-        likes: [],
-        reposts: [],
-        replies: [],
-        mentions: []
-      };
+      const mentions = dedupeMentions(successful.flatMap(result => result.mentions));
+      if (mentions.length === 0) {
+        none.style.display = "block";
+        return;
+      }
 
-      data.children.forEach(mention => {
-        const type = mention['wm-property'];
-        if (type === 'like-of') {
-          mentions.likes.push(mention);
-        } else if (type === 'repost-of') {
-          mentions.reposts.push(mention);
-        } else if (type === 'in-reply-to') {
-          mentions.replies.push(mention);
-        } else {
-          mentions.mentions.push(mention);
-        }
-      });
-
-      // Update heading with count
-      const totalCount = mentions.likes.length + mentions.reposts.length + mentions.replies.length + mentions.mentions.length;
-      const heading = document.getElementById('webmentions-heading');
+      const grouped = groupMentions(mentions);
+      const totalCount = grouped.likes.length + grouped.reposts.length + grouped.replies.length + grouped.mentions.length;
       if (heading && totalCount > 0) {
         heading.textContent = `💬 Conversations (${totalCount})`;
       }
 
-      // Render each type
-      let html = '';
+      renderGroups(grouped);
 
-      // Likes
-      if (mentions.likes.length > 0) {
-        html += '<div class="webmention-type-section">';
-        html += `<h4>❤️ Likes (${mentions.likes.length})</h4>`;
-        html += '<div class="webmention-facepile">';
-        mentions.likes.slice(0, 20).forEach(like => {
-          const author = like.author || {};
-          const name = author.name || 'Someone';
-          const photo = author.photo || '';
-          const url = author.url || like.url;
-
-          if (photo) {
-            html += `<a href="${url}" title="${name}" rel="nofollow noopener" target="_blank">`;
-            html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
-            html += `</a>`;
-          }
-        });
-        html += '</div></div>';
+      if (successful.length < sources.length) {
+        error.style.display = "block";
       }
-
-      // Reposts
-      if (mentions.reposts.length > 0) {
-        html += '<div class="webmention-type-section">';
-        html += `<h4>🔁 Reposts (${mentions.reposts.length})</h4>`;
-        html += '<div class="webmention-facepile">';
-        mentions.reposts.slice(0, 20).forEach(repost => {
-          const author = repost.author || {};
-          const name = author.name || 'Someone';
-          const photo = author.photo || '';
-          const url = author.url || repost.url;
-
-          if (photo) {
-            html += `<a href="${url}" title="${name}" rel="nofollow noopener" target="_blank">`;
-            html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
-            html += `</a>`;
-          }
-        });
-        html += '</div></div>';
-      }
-
-      // Replies
-      if (mentions.replies.length > 0) {
-        html += '<div class="webmention-type-section">';
-        html += `<h4>💬 Replies (${mentions.replies.length})</h4>`;
-        html += '<div class="webmention-replies">';
-        mentions.replies.forEach(reply => {
-          html += renderReply(reply);
-        });
-        html += '</div></div>';
-      }
-
-      // General mentions
-      if (mentions.mentions.length > 0) {
-        html += '<div class="webmention-type-section">';
-        html += `<h4>🔗 Mentions (${mentions.mentions.length})</h4>`;
-        html += '<div class="webmention-mentions">';
-        mentions.mentions.forEach(mention => {
-          html += renderMention(mention);
-        });
-        html += '</div></div>';
-      }
-
-      container.innerHTML = html;
-    })
-    .catch(err => {
-      console.error('Error loading webmentions:', err);
-      loading.style.display = 'none';
-      error.style.display = 'block';
     });
 
-  // Render a reply
+  function fetchMentions(source) {
+    return fetch(source.url)
+      .then(response => {
+        if (!response.ok) throw new Error(`${source.name} returned ${response.status}`);
+        return response.json();
+      })
+      .then(data => ({
+        ok: true,
+        mentions: normalizeMentions(data, source.name)
+      }))
+      .catch(err => {
+        console.error("Error loading webmentions from " + source.name + ":", err);
+        return { ok: false, mentions: [] };
+      });
+  }
+
+  function normalizeMentions(data, sourceName) {
+    const rawMentions = Array.isArray(data.children)
+      ? data.children
+      : (Array.isArray(data.items) ? data.items.map(jsonFeedItemToMention) : []);
+
+    return rawMentions.map(mention => {
+      const normalized = Object.assign({}, mention);
+      normalized._sourceName = sourceName;
+
+      if (!normalized["wm-property"]) {
+        if (normalized["like-of"]) normalized["wm-property"] = "like-of";
+        else if (normalized["repost-of"]) normalized["wm-property"] = "repost-of";
+        else if (normalized["in-reply-to"] || sourceName === "micro.blog") normalized["wm-property"] = "in-reply-to";
+        else normalized["wm-property"] = "mention-of";
+      }
+
+      return normalized;
+    });
+  }
+
+  function jsonFeedItemToMention(item) {
+    return {
+      type: "entry",
+      url: item.url || item.external_url || item.id,
+      published: item.date_published,
+      content: {
+        html: item.content_html || "",
+        text: item.content_text || item.summary || ""
+      },
+      author: item.author || (Array.isArray(item.authors) ? item.authors[0] : null)
+    };
+  }
+
+  function dedupeMentions(mentions) {
+    const seen = new Set();
+    const out = [];
+
+    mentions.forEach(mention => {
+      const key = mentionKey(mention);
+      if (seen.has(key)) return;
+      seen.add(key);
+      out.push(mention);
+    });
+
+    return out;
+  }
+
+  function mentionKey(mention) {
+    const author = mention.author || {};
+    const content = mention.content || {};
+    const contentText = content.text || content.html || "";
+    return [
+      mention["wm-property"] || "",
+      mention.url || mention["wm-source"] || mention.id || "",
+      author.url || author.name || "",
+      mention.published || "",
+      contentText.slice(0, 160)
+    ].join("|");
+  }
+
+  function groupMentions(mentions) {
+    const grouped = {
+      likes: [],
+      reposts: [],
+      replies: [],
+      mentions: []
+    };
+
+    mentions.forEach(mention => {
+      const type = mention["wm-property"];
+      if (type === "like-of") grouped.likes.push(mention);
+      else if (type === "repost-of") grouped.reposts.push(mention);
+      else if (type === "in-reply-to") grouped.replies.push(mention);
+      else grouped.mentions.push(mention);
+    });
+
+    grouped.replies.sort(sortByPublished);
+    grouped.mentions.sort(sortByPublished);
+    return grouped;
+  }
+
+  function sortByPublished(a, b) {
+    return dateValue(a.published) - dateValue(b.published);
+  }
+
+  function dateValue(value) {
+    const date = value ? new Date(value) : null;
+    return date && !isNaN(date) ? date.getTime() : 0;
+  }
+
+  function renderGroups(grouped) {
+    container.replaceChildren();
+
+    if (grouped.likes.length > 0) {
+      container.appendChild(renderFacepileSection("❤️", "Likes", grouped.likes));
+    }
+    if (grouped.reposts.length > 0) {
+      container.appendChild(renderFacepileSection("🔁", "Reposts", grouped.reposts));
+    }
+    if (grouped.replies.length > 0) {
+      container.appendChild(renderReplySection(grouped.replies));
+    }
+    if (grouped.mentions.length > 0) {
+      container.appendChild(renderMentionSection(grouped.mentions));
+    }
+  }
+
+  function renderFacepileSection(icon, label, mentions) {
+    const section = createSection(`${icon} ${label} (${mentions.length})`);
+    const facepile = document.createElement("div");
+    facepile.className = "webmention-facepile";
+
+    mentions.slice(0, 20).forEach(mention => {
+      const author = mention.author || {};
+      const name = author.name || "Someone";
+      const href = safeUrl(author.url || mention.url);
+      const photo = safeUrl(author.photo);
+
+      if (!photo) return;
+
+      const link = document.createElement("a");
+      if (href) link.href = href;
+      link.title = name;
+      link.rel = "nofollow noopener";
+      link.target = "_blank";
+
+      const img = document.createElement("img");
+      img.src = photo;
+      img.alt = name;
+      img.className = "webmention-avatar";
+      link.appendChild(img);
+      facepile.appendChild(link);
+    });
+
+    section.appendChild(facepile);
+    return section;
+  }
+
+  function renderReplySection(replies) {
+    const section = createSection(`💬 Replies (${replies.length})`);
+    const list = document.createElement("div");
+    list.className = "webmention-replies";
+
+    replies.forEach(reply => {
+      list.appendChild(renderReply(reply));
+    });
+
+    section.appendChild(list);
+    return section;
+  }
+
   function renderReply(reply) {
     const author = reply.author || {};
-    const name = author.name || 'Someone';
-    const photo = author.photo || '';
-    const url = reply.url || '';
-    const content = reply.content ? (reply.content.html || reply.content.text || '') : '';
-    const published = reply.published ? new Date(reply.published).toLocaleDateString() : '';
+    const name = author.name || "Someone";
+    const photo = safeUrl(author.photo);
+    const url = safeUrl(reply.url || reply["wm-source"]);
+    const authorUrl = safeUrl(author.url || url);
+    const published = formatPublished(reply.published);
+    const content = reply.content || {};
 
-    let html = '<div class="webmention-reply">';
-    html += '<div class="webmention-author">';
+    const item = document.createElement("div");
+    item.className = "webmention-reply";
+
+    const authorWrap = document.createElement("div");
+    authorWrap.className = "webmention-author";
+
     if (photo) {
-      html += `<img src="${photo}" alt="${name}" class="webmention-avatar">`;
+      const img = document.createElement("img");
+      img.src = photo;
+      img.alt = name;
+      img.className = "webmention-avatar";
+      authorWrap.appendChild(img);
     }
-    html += '<div class="webmention-author-info">';
-    html += `<a href="${author.url || url}" class="webmention-author-name" rel="nofollow noopener" target="_blank">${name}</a>`;
+
+    const authorInfo = document.createElement("div");
+    authorInfo.className = "webmention-author-info";
+
+    const authorLink = createExternalLink(authorUrl || url, name, "webmention-author-name");
+    authorInfo.appendChild(authorLink);
+
     if (published) {
-      html += `<time class="webmention-published">${published}</time>`;
+      const time = document.createElement("time");
+      time.className = "webmention-published";
+      time.textContent = published;
+      authorInfo.appendChild(time);
     }
-    html += '</div></div>';
-    if (content) {
-      html += `<div class="webmention-content">${sanitizeContent(content)}</div>`;
+
+    authorWrap.appendChild(authorInfo);
+    item.appendChild(authorWrap);
+
+    if (content.html || content.text) {
+      const contentWrap = document.createElement("div");
+      contentWrap.className = "webmention-content";
+      if (content.html) appendSanitizedHtml(contentWrap, content.html);
+      else contentWrap.textContent = content.text;
+      item.appendChild(contentWrap);
     }
+
     if (url) {
-      html += `<div class="webmention-link"><a href="${url}" rel="nofollow noopener" target="_blank">View original →</a></div>`;
+      const linkWrap = document.createElement("div");
+      linkWrap.className = "webmention-link";
+      linkWrap.appendChild(createExternalLink(url, "View original →"));
+      item.appendChild(linkWrap);
     }
-    html += '</div>';
-    return html;
+
+    return item;
   }
 
-  // Render a mention
-  function renderMention(mention) {
-    const author = mention.author || {};
-    const name = author.name || 'Someone';
-    const url = mention.url || '';
-    const published = mention.published ? new Date(mention.published).toLocaleDateString() : '';
+  function renderMentionSection(mentions) {
+    const section = createSection(`🔗 Mentions (${mentions.length})`);
+    const list = document.createElement("div");
+    list.className = "webmention-mentions";
 
-    let html = '<div class="webmention-mention">';
-    html += `<span class="webmention-mention-author">${name}</span> mentioned this `;
-    if (published) {
-      html += `on ${published}`;
-    }
-    if (url) {
-      html += ` - <a href="${url}" rel="nofollow noopener" target="_blank">View →</a>`;
-    }
-    html += '</div>';
-    return html;
+    mentions.forEach(mention => {
+      const author = mention.author || {};
+      const name = author.name || "Someone";
+      const url = safeUrl(mention.url || mention["wm-source"]);
+      const published = formatPublished(mention.published);
+
+      const item = document.createElement("div");
+      item.className = "webmention-mention";
+
+      const authorSpan = document.createElement("span");
+      authorSpan.className = "webmention-mention-author";
+      authorSpan.textContent = name;
+      item.appendChild(authorSpan);
+      item.appendChild(document.createTextNode(" mentioned this"));
+
+      if (published) item.appendChild(document.createTextNode(" on " + published));
+      if (url) {
+        item.appendChild(document.createTextNode(" - "));
+        item.appendChild(createExternalLink(url, "View →"));
+      }
+
+      list.appendChild(item);
+    });
+
+    section.appendChild(list);
+    return section;
   }
 
-  // Basic content sanitization
-  function sanitizeContent(html) {
-    // Remove script tags and limit allowed tags
-    const temp = document.createElement('div');
-    temp.innerHTML = html;
+  function createSection(title) {
+    const section = document.createElement("div");
+    section.className = "webmention-type-section";
+    const heading = document.createElement("h4");
+    heading.textContent = title;
+    section.appendChild(heading);
+    return section;
+  }
 
-    // Remove script tags
-    const scripts = temp.getElementsByTagName('script');
-    while(scripts.length > 0) {
-      scripts[0].parentNode.removeChild(scripts[0]);
+  function createExternalLink(href, text, className) {
+    const link = document.createElement("a");
+    const cleanHref = safeUrl(href);
+    if (cleanHref) link.href = cleanHref;
+    link.textContent = text;
+    if (className) link.className = className;
+    link.rel = "nofollow noopener";
+    link.target = "_blank";
+    return link;
+  }
+
+  function appendSanitizedHtml(parent, html) {
+    const template = document.createElement("template");
+    template.innerHTML = html;
+    Array.from(template.content.childNodes).forEach(node => {
+      parent.appendChild(sanitizeNode(node));
+    });
+  }
+
+  function sanitizeNode(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      return document.createTextNode(node.textContent);
     }
 
-    return temp.innerHTML;
+    if (node.nodeType !== Node.ELEMENT_NODE) {
+      return document.createDocumentFragment();
+    }
+
+    const allowedTags = new Set(["A", "P", "BR", "EM", "STRONG", "B", "I", "CODE", "PRE", "BLOCKQUOTE", "UL", "OL", "LI", "SPAN"]);
+    const tag = node.tagName;
+
+    if (!allowedTags.has(tag)) {
+      const fragment = document.createDocumentFragment();
+      Array.from(node.childNodes).forEach(child => fragment.appendChild(sanitizeNode(child)));
+      return fragment;
+    }
+
+    const clean = document.createElement(tag.toLowerCase());
+    if (tag === "A") {
+      const href = safeUrl(node.getAttribute("href"));
+      if (href) {
+        clean.href = href;
+        clean.rel = "nofollow noopener";
+        clean.target = "_blank";
+      }
+    }
+
+    Array.from(node.childNodes).forEach(child => clean.appendChild(sanitizeNode(child)));
+    return clean;
+  }
+
+  function formatPublished(value) {
+    const date = value ? new Date(value) : null;
+    if (!date || isNaN(date)) return "";
+    return date.toLocaleDateString();
+  }
+
+  function safeUrl(value) {
+    if (!value) return "";
+    try {
+      const url = new URL(value, window.location.href);
+      return (url.protocol === "http:" || url.protocol === "https:") ? url.href : "";
+    } catch (_) {
+      return "";
+    }
   }
 })();
 </script>
