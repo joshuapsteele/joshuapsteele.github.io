@@ -80,20 +80,7 @@
     {{- end }}
   </footer>
 
-  <div class="lets-talk-section">
-    <hr>
-    <h2>Let's Talk</h2>
-    <p class="lets-talk-intro">I'd love to hear your thoughts! Responses from <strong>Mastodon</strong> and <strong>Micro.blog</strong> will appear below.</p>
-    <div class="post-reply-buttons">
-      <a href="mailto:blog@joshuapsteele.com?subject=Re: {{ .Title }}" class="reply-button">
-        📧 Reply via email
-      </a>
-      <a href="https://micro.blog/post?text=@joshuapsteele Re: {{ .Title }} {{ .Permalink }}" class="reply-button" target="_blank" rel="noopener">
-        🌐 Reply via Micro.blog
-      </a>
-    </div>
-    <hr>
-  </div>
+  {{- partial "respond_links.html" . -}}
 
   {{- partial "webmention_display.html" . -}}
 

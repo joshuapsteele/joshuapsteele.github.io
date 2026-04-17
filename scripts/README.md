@@ -12,6 +12,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ### Deployment
 - `deploy.sh` - Deploy site to GitHub (commits with timestamp and pushes)
 - `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
+- `fetch_syndication_links.py` - Fetch Micro.blog syndication URLs for Hugo response links
 - `send_webmentions.py` - Discover and send outgoing Webmentions for recently built reply posts
 
 ### Content Maintenance
@@ -53,6 +54,9 @@ python3 scripts/audit-frontmatter.py
 # Example: Fetch popular posts (requires TINYLYTICS_API_KEY)
 export TINYLYTICS_API_KEY='your_key_here'
 python3 scripts/fetch_popular_posts.py
+
+# Example: Fetch Micro.blog cross-post URLs for response links
+python3 scripts/fetch_syndication_links.py
 
 # Example: Preview outgoing Webmentions after a local build
 hugo --gc --destination /tmp/jps-public

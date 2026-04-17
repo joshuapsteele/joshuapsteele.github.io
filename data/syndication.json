@@ -1,0 +1,145 @@
+{
+  "by_path": {
+    "/i-wish-we-had-more-time-for-robin/": {
+      "canonical": "https://joshuapsteele.com/i-wish-we-had-more-time-for-robin/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/86689914"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/116269117526520475"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/DWKQ7H6lrIG"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/116269117526520475",
+      "microblog": "https://micro.blog/joshuapsteele/86689914",
+      "microblog_id": "86689914",
+      "published": "2026-03-21T16:30:00+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/DWKQ7H6lrIG"
+    },
+    "/notes/2026-04-17-1026/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1026/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453482"
+        }
+      ],
+      "microblog": "https://micro.blog/joshuapsteele/88453482",
+      "microblog_id": "88453482",
+      "published": "2026-04-17T14:26:31+00:00"
+    },
+    "/notes/2026-04-17-1033/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1033/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453481"
+        }
+      ],
+      "microblog": "https://micro.blog/joshuapsteele/88453481",
+      "microblog_id": "88453481",
+      "published": "2026-04-17T14:33:12+00:00"
+    },
+    "/notes/2026-04-17-1204/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1204/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453480"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/116420929797197572"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/DXPTPhtFAUJ"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/116420929797197572",
+      "microblog": "https://micro.blog/joshuapsteele/88453480",
+      "microblog_id": "88453480",
+      "published": "2026-04-17T16:04:43+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/DXPTPhtFAUJ"
+    }
+  },
+  "by_url": {
+    "https://joshuapsteele.com/i-wish-we-had-more-time-for-robin/": {
+      "canonical": "https://joshuapsteele.com/i-wish-we-had-more-time-for-robin/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/86689914"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/116269117526520475"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/DWKQ7H6lrIG"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/116269117526520475",
+      "microblog": "https://micro.blog/joshuapsteele/86689914",
+      "microblog_id": "86689914",
+      "published": "2026-03-21T16:30:00+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/DWKQ7H6lrIG"
+    },
+    "https://joshuapsteele.com/notes/2026-04-17-1026/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1026/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453482"
+        }
+      ],
+      "microblog": "https://micro.blog/joshuapsteele/88453482",
+      "microblog_id": "88453482",
+      "published": "2026-04-17T14:26:31+00:00"
+    },
+    "https://joshuapsteele.com/notes/2026-04-17-1033/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1033/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453481"
+        }
+      ],
+      "microblog": "https://micro.blog/joshuapsteele/88453481",
+      "microblog_id": "88453481",
+      "published": "2026-04-17T14:33:12+00:00"
+    },
+    "https://joshuapsteele.com/notes/2026-04-17-1204/": {
+      "canonical": "https://joshuapsteele.com/notes/2026-04-17-1204/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/88453480"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/116420929797197572"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/DXPTPhtFAUJ"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/116420929797197572",
+      "microblog": "https://micro.blog/joshuapsteele/88453480",
+      "microblog_id": "88453480",
+      "published": "2026-04-17T16:04:43+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/DXPTPhtFAUJ"
+    }
+  },
+  "count": 4,
+  "generated": "2026-04-17T18:54:25.467369+00:00",
+  "source": "https://micro.blog/posts/joshuapsteele"
+}

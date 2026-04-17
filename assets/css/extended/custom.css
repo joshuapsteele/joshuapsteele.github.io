@@ -61,24 +61,35 @@ body:not(.dark) .footer-logo {
     margin: 4px; /* Reduced from theme's 8px for tighter layout */
 }
 
-/* Let's Talk section styles */
-.lets-talk-section {
+/* Respond section styles */
+.lets-talk-section,
+.respond-section {
     margin: 4em 0;
     text-align: center;
 }
 
-.lets-talk-section h2 {
+.lets-talk-section h2,
+.respond-section h2 {
     margin: 1.5em 0;
 }
 
-.lets-talk-section hr {
+.lets-talk-section hr,
+.respond-section hr {
     border: none;
     border-top: 1px solid var(--border);
     margin: 2em 0;
 }
 
+.respond-intro {
+    color: var(--secondary);
+    line-height: 1.7;
+    max-width: 680px;
+    margin: 0 auto;
+}
+
 /* Reply buttons styles */
-.post-reply-buttons {
+.post-reply-buttons,
+.respond-actions {
     text-align: center;
     margin: 2em 0;
     display: flex;
@@ -87,15 +98,21 @@ body:not(.dark) .footer-logo {
     flex-wrap: wrap;
 }
 
-.reply-button {
+.reply-button,
+.respond-button {
     display: inline-block;
     padding: 0.5em 1em;
     border: 1px solid var(--border);
     border-radius: 4px;
     text-decoration: none;
+    color: var(--primary);
+    background: transparent;
+    cursor: pointer;
+    font: inherit;
 }
 
-.reply-button:hover {
+.reply-button:hover,
+.respond-button:hover {
     background: var(--border);
     box-shadow: none;
 }

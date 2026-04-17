@@ -1,0 +1,60 @@
+{{- $label := .Title | default (.Date.Format "Jan 2, 2006 at 3:04pm") -}}
+{{- $subject := printf "Re: %s" $label -}}
+{{- $body := printf "Re: %s\n\n%s" $label .Permalink -}}
+{{- $microblogText := printf "@joshuapsteele Re: %s %s" $label .Permalink -}}
+{{- $entry := dict -}}
+{{- with hugo.Data.syndication.by_path -}}
+  {{- with index . $.RelPermalink -}}
+    {{- $entry = . -}}
+  {{- end -}}
+{{- end -}}
+{{- $microblogURL := $entry.microblog | default "" -}}
+{{- $mastodonURL := $entry.mastodon | default "" -}}
+{{- $threadsURL := $entry.threads | default "" -}}
+
+<section class="respond-section" aria-labelledby="respond-heading">
+  <hr>
+  <h2 id="respond-heading">Respond</h2>
+  <p class="respond-intro">
+    Read it here, reply wherever works best for you. When Micro.blog can connect the conversation back, replies appear below.
+  </p>
+  <div class="respond-actions">
+    <a class="respond-button" href="mailto:blog@joshuapsteele.com?subject={{ $subject | urlquery }}&body={{ $body | urlquery }}">Reply by email</a>
+    {{- with $microblogURL }}
+    <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Micro.blog</a>
+    {{- else }}
+    <a class="respond-button" href="https://micro.blog/post?text={{ $microblogText | urlquery }}" target="_blank" rel="noopener">Reply on Micro.blog</a>
+    {{- end }}
+    {{- with $mastodonURL }}
+    <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Mastodon</a>
+    {{- end }}
+    {{- with $threadsURL }}
+    <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Threads</a>
+    {{- end }}
+    <button class="respond-button respond-copy-link" type="button" data-copy-url="{{ .Permalink }}">Copy link</button>
+  </div>
+  <hr>
+</section>
+
+<script>
+(function () {
+  const buttons = document.querySelectorAll(".respond-copy-link");
+  buttons.forEach(button => {
+    button.addEventListener("click", async () => {
+      const url = button.getAttribute("data-copy-url");
+      if (!url) return;
+
+      try {
+        await navigator.clipboard.writeText(url);
+        const original = button.textContent;
+        button.textContent = "Copied";
+        window.setTimeout(() => {
+          button.textContent = original;
+        }, 1600);
+      } catch (error) {
+        window.prompt("Copy this link", url);
+      }
+    });
+  });
+})();
+</script>

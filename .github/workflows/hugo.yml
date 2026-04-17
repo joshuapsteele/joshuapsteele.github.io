@@ -6,6 +6,10 @@ on:
   push:
     branches: ["main"]
 
+  # Refresh generated syndication links after Micro.blog finishes cross-posting
+  schedule:
+    - cron: "17 * * * *"
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -54,6 +58,10 @@ jobs:
         continue-on-error: true
         run: python3 scripts/fetch_popular_posts.py
 
+      - name: Fetch Micro.blog syndication links
+        continue-on-error: true
+        run: python3 scripts/fetch_syndication_links.py
+
       - name: Build with Hugo
         env:
           HUGO_ENVIRONMENT: production
@@ -65,6 +73,7 @@ jobs:
             --baseURL "https://joshuapsteele.com/"
 
       - name: Send outgoing Webmentions
+        if: github.event_name != 'schedule'
         continue-on-error: true
         run: |
           python3 scripts/send_webmentions.py \

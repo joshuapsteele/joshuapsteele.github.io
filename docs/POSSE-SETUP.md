@@ -201,6 +201,18 @@ Your reply.
 
 `Publish: Note` and `Publish: Blog` preserve `in_reply_to`. The note/post page renders a visible reply context, the JSON Feed includes a `u-in-reply-to` link for feed consumers, and the GitHub Actions deploy runs `scripts/send_webmentions.py` after the Hugo build. By default that script only sends Webmentions to explicit reply targets, which keeps regular links from becoming surprise notifications.
 
+## Step 10a — Syndication links
+
+Micro.Blog exposes Mastodon and Threads cross-post URLs in its public JSON feed after it has processed your source feeds. The deploy runs:
+
+```bash
+python3 scripts/fetch_syndication_links.py
+```
+
+That script writes `data/syndication.json`, keyed by canonical joshuapsteele.com path. `layouts/partials/respond_links.html` uses that data to render links such as "Discuss on Mastodon" and "Discuss on Threads" on posts and notes.
+
+Because cross-posting happens after the first site build, the workflow also has a scheduled rebuild. That second pass lets the site pick up syndication URLs once Micro.Blog knows them. The scheduled run skips outgoing Webmentions so old reply notifications are not re-sent.
+
 Local dry-run:
 
 ```bash

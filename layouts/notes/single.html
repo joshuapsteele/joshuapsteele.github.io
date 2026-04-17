@@ -50,10 +50,7 @@
     {{- end }}
   </footer>
 
-  <div class="lets-talk-section">
-    <hr>
-    <p class="lets-talk-intro">Reply on <a href="https://mastodon.social/@joshuapsteele" rel="me">Mastodon</a> or via email — replies show up below.</p>
-  </div>
+  {{- partial "respond_links.html" . -}}
 
   {{- partial "webmention_display.html" . -}}
 </article>

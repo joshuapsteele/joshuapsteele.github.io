@@ -163,6 +163,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
   - JavaScript-based display of webmentions and Micro.blog conversations on each post
   - Grouped by type: likes, reposts, replies, mentions
 - **Outgoing Webmentions**: Recent reply posts are checked during deploy and notify the original post when it advertises a Webmention endpoint
+- **Syndication links**: The deploy fetches Micro.blog's public JSON feed and renders known Mastodon, Threads, and Micro.blog discussion links on canonical posts
 
 ### Reply Posts
 
@@ -192,6 +193,8 @@ Posts are published on this site first, then syndicated to:
 - [Micro.blog](https://social.joshuapsteele.com/)
 - [Mastodon](https://mastodon.social/@joshuapsteele)
 - [Threads](https://www.threads.com/@joshuapsteele)
+
+`scripts/fetch_syndication_links.py` maps Micro.blog's `_microblog.syndication` URLs back to canonical joshuapsteele.com paths and writes `data/syndication.json`. GitHub Actions runs it before Hugo builds, and a scheduled deploy refreshes those links after Micro.blog finishes asynchronous cross-posting.
 
 ## Deployment
 
