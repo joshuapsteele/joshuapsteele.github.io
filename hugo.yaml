@@ -206,7 +206,7 @@ minify:
     html:
       keepWhitespace: false
     css:
-      keepCSS2: false
+      version: 3
       precision: 0
     js:
       keepVarNames: false

@@ -16,12 +16,12 @@
 {{- $limit := .Get "limit" | default "5" | int -}}
 {{- $showHits := eq (.Get "showHits") "true" -}}
 
-{{- with site.Data.popular -}}
+{{- with hugo.Data.popular -}}
   {{- if .posts -}}
     {{- $posts := first $limit .posts -}}
     {{- if $posts -}}
     <div class="popular-posts-page">
-      <p class="popular-posts-period">Based on traffic from the past {{ site.Data.popular.period_days }} days.</p>
+      <p class="popular-posts-period">Based on traffic from the past {{ .period_days }} days.</p>
       <ol class="popular-posts-list-numbered">
         {{- range $index, $item := $posts -}}
           {{- $path := $item.path -}}
