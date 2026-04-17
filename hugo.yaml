@@ -37,7 +37,7 @@ params:
   showCodeCopyButtons: true
   showFullTextInRSS: true
   showFullTextInJSONFeed: true
-  showAllPagesInArchive: true
+  showAllPagesInArchive: false
   comments: false
   hideFooter: false
   assets:
