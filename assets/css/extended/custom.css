@@ -493,11 +493,31 @@ body:not(.dark) .footer-logo {
     gap: 1.5em;
 }
 
+.webmention-thread {
+    display: flex;
+    flex-direction: column;
+}
+
+.webmention-thread-children {
+    margin-top: 0.75em;
+    margin-left: 1.25em;
+    padding-left: 1em;
+    border-left: 2px solid var(--border);
+}
+
+.webmention-thread-children .webmention-thread {
+    margin-top: 0.75em;
+}
+
 .webmention-reply {
     padding: 1em;
     border: 1px solid var(--border);
     border-radius: 6px;
     background: var(--theme);
+}
+
+.webmention-reply-child {
+    background: var(--code-bg);
 }
 
 .webmention-author {
@@ -616,6 +636,13 @@ body:not(.dark) .footer-logo {
 
 .empty-state-explanation a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 640px) {
+    .webmention-thread-children {
+        margin-left: 0.5em;
+        padding-left: 0.75em;
+    }
 }
 
 /* Reply context styles */

@@ -288,13 +288,53 @@
     const section = createSection(`💬 Replies (${replies.length})`);
     const list = document.createElement("div");
     list.className = "webmention-replies";
+    const threads = buildReplyThreads(replies);
 
-    replies.forEach(reply => {
-      list.appendChild(renderReply(reply));
+    threads.forEach(thread => {
+      list.appendChild(renderReplyThread(thread, 0));
     });
 
     section.appendChild(list);
     return section;
+  }
+
+  function buildReplyThreads(replies) {
+    const threads = [];
+    const latestByHandle = new Map();
+
+    replies.forEach(reply => {
+      const node = { reply, children: [] };
+      const ownHandle = normalizedAuthorHandle(reply);
+      const parentHandle = leadingMentionHandle(reply);
+      const parent = parentHandle && parentHandle !== ownHandle ? latestByHandle.get(parentHandle) : null;
+
+      if (parent) parent.children.push(node);
+      else threads.push(node);
+
+      if (ownHandle) latestByHandle.set(ownHandle, node);
+    });
+
+    return threads;
+  }
+
+  function renderReplyThread(node, depth) {
+    const group = document.createElement("div");
+    group.className = depth > 0 ? "webmention-thread webmention-thread-child" : "webmention-thread";
+
+    const reply = renderReply(node.reply);
+    if (depth > 0) reply.classList.add("webmention-reply-child");
+    group.appendChild(reply);
+
+    if (node.children.length > 0) {
+      const children = document.createElement("div");
+      children.className = "webmention-thread-children";
+      node.children.forEach(child => {
+        children.appendChild(renderReplyThread(child, depth + 1));
+      });
+      group.appendChild(children);
+    }
+
+    return group;
   }
 
   function renderReply(reply) {
@@ -408,20 +448,64 @@
   }
 
   function authorDisplayName(author, fallbackUrl) {
+    const handle = authorHandle(author, fallbackUrl);
+    if (handle) return `@${handle}`;
     if (hasText(author.name)) return author.name.trim();
+    return "someone";
+  }
 
-    const profileUrl = safeUrl(author.url || fallbackUrl);
-    if (!profileUrl) return "Someone";
+  function normalizedAuthorHandle(reply) {
+    return normalizeHandle(authorHandle(reply.author || {}, reply.url || reply["wm-source"]));
+  }
+
+  function leadingMentionHandle(reply) {
+    const text = mentionText(reply);
+    const match = text.match(/^\s*@([A-Za-z0-9_.-]+)/);
+    return match ? normalizeHandle(match[1]) : "";
+  }
+
+  function mentionText(mention) {
+    const content = mention.content || {};
+    if (hasText(content.text)) return content.text;
+    if (!hasText(content.html)) return "";
+
+    const template = document.createElement("template");
+    template.innerHTML = content.html;
+    return template.content.textContent || "";
+  }
+
+  function normalizeHandle(value) {
+    return (value || "").replace(/^@/, "").toLowerCase();
+  }
+
+  function authorHandle(author, fallbackUrl) {
+    const fallbackHandle = handleFromUrl(fallbackUrl);
+    if (fallbackHandle) return fallbackHandle;
+
+    const authorHandle = handleFromUrl(author.url);
+    if (authorHandle) return authorHandle;
+
+    return "";
+  }
+
+  function handleFromUrl(value) {
+    const profileUrl = safeUrl(value);
+    if (!profileUrl) return "";
 
     try {
       const url = new URL(profileUrl);
-      const handle = url.pathname.split("/").filter(Boolean)[0];
-      if (handle) return handle.replace(/^@/, "");
+      const hostname = url.hostname.toLowerCase();
+      const parts = url.pathname.split("/").filter(Boolean).map(part => decodeURIComponent(part));
+
+      if (hostname === "micro.blog" && parts[0]) return parts[0].replace(/^@/, "");
+      if ((hostname.endsWith("threads.com") || hostname.endsWith("threads.net")) && parts[0]) return parts[0].replace(/^@/, "");
+      if (parts[0] === "users" && parts[1]) return parts[1].replace(/^@/, "");
+      if (parts[0] && parts[0].startsWith("@")) return parts[0].replace(/^@/, "");
     } catch (_) {
-      return "Someone";
+      return "";
     }
 
-    return "Someone";
+    return "";
   }
 
   function appendSanitizedHtml(parent, html) {
