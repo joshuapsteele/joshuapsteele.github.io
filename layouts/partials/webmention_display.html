@@ -126,17 +126,68 @@
   }
 
   function dedupeMentions(mentions) {
-    const seen = new Set();
+    const seen = new Map();
     const out = [];
 
     mentions.forEach(mention => {
       const key = mentionKey(mention);
-      if (seen.has(key)) return;
-      seen.add(key);
+      if (seen.has(key)) {
+        mergeMention(seen.get(key), mention);
+        return;
+      }
+
+      seen.set(key, mention);
       out.push(mention);
     });
 
     return out;
+  }
+
+  function mergeMention(target, source) {
+    target.author = mergeAuthor(target.author, source.author);
+    target.content = mergeContent(target.content, source.content);
+
+    copyIfMissing(target, source, "published");
+    copyIfMissing(target, source, "url");
+    copyIfMissing(target, source, "wm-source");
+    copyIfMissing(target, source, "wm-id");
+    copyIfMissing(target, source, "wm-property");
+  }
+
+  function mergeAuthor(targetAuthor, sourceAuthor) {
+    const target = Object.assign({}, targetAuthor || {});
+    const source = sourceAuthor || {};
+
+    ["type", "name", "url", "photo"].forEach(field => {
+      if (!hasText(target[field]) && hasText(source[field])) {
+        target[field] = source[field];
+      }
+    });
+
+    return target;
+  }
+
+  function mergeContent(targetContent, sourceContent) {
+    const target = Object.assign({}, targetContent || {});
+    const source = sourceContent || {};
+
+    ["html", "text"].forEach(field => {
+      if (!hasText(target[field]) && hasText(source[field])) {
+        target[field] = source[field];
+      }
+    });
+
+    return target;
+  }
+
+  function copyIfMissing(target, source, field) {
+    if (!hasText(target[field]) && hasText(source[field])) {
+      target[field] = source[field];
+    }
+  }
+
+  function hasText(value) {
+    return typeof value === "string" ? value.trim().length > 0 : value !== undefined && value !== null;
   }
 
   function mentionKey(mention) {
@@ -209,7 +260,7 @@
 
     mentions.slice(0, 20).forEach(mention => {
       const author = mention.author || {};
-      const name = author.name || "Someone";
+      const name = authorDisplayName(author, mention.url);
       const href = safeUrl(author.url || mention.url);
       const photo = safeUrl(author.photo);
 
@@ -248,7 +299,7 @@
 
   function renderReply(reply) {
     const author = reply.author || {};
-    const name = author.name || "Someone";
+    const name = authorDisplayName(author, reply.url || reply["wm-source"]);
     const photo = safeUrl(author.photo);
     const url = safeUrl(reply.url || reply["wm-source"]);
     const authorUrl = safeUrl(author.url || url);
@@ -310,7 +361,7 @@
 
     mentions.forEach(mention => {
       const author = mention.author || {};
-      const name = author.name || "Someone";
+      const name = authorDisplayName(author, mention.url || mention["wm-source"]);
       const url = safeUrl(mention.url || mention["wm-source"]);
       const published = formatPublished(mention.published);
 
@@ -354,6 +405,23 @@
     link.rel = "nofollow noopener";
     link.target = "_blank";
     return link;
+  }
+
+  function authorDisplayName(author, fallbackUrl) {
+    if (hasText(author.name)) return author.name.trim();
+
+    const profileUrl = safeUrl(author.url || fallbackUrl);
+    if (!profileUrl) return "Someone";
+
+    try {
+      const url = new URL(profileUrl);
+      const handle = url.pathname.split("/").filter(Boolean)[0];
+      if (handle) return handle.replace(/^@/, "");
+    } catch (_) {
+      return "Someone";
+    }
+
+    return "Someone";
   }
 
   function appendSanitizedHtml(parent, html) {
