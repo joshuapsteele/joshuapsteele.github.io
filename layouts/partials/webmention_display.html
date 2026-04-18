@@ -20,7 +20,8 @@
 
 <script>
 (function() {
-  const targetUrl = {{ .Permalink | jsonify }};
+  const canonicalLink = document.querySelector('link[rel="canonical"]');
+  const targetUrl = canonicalLink && canonicalLink.href ? canonicalLink.href : window.location.href;
   const sources = [
     {
       name: "webmention.io",
@@ -103,6 +104,9 @@
         else if (normalized["in-reply-to"] || sourceName === "micro.blog") normalized["wm-property"] = "in-reply-to";
         else normalized["wm-property"] = "mention-of";
       }
+      if (sourceName === "micro.blog" && normalized["wm-property"] === "mention-of") {
+        normalized["wm-property"] = "in-reply-to";
+      }
 
       return normalized;
     });
@@ -136,6 +140,9 @@
   }
 
   function mentionKey(mention) {
+    const urlKey = mention.url || mention["wm-source"] || mention.id;
+    if (urlKey) return urlKey;
+
     const author = mention.author || {};
     const content = mention.content || {};
     const contentText = content.text || content.html || "";

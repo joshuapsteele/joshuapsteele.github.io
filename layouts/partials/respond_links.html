@@ -2,6 +2,8 @@
 {{- $subject := printf "Re: %s" $label -}}
 {{- $body := printf "Re: %s\n\n%s" $label .Permalink -}}
 {{- $microblogText := printf "@joshuapsteele Re: %s %s" $label .Permalink -}}
+{{- $mailtoSubject := replace ($subject | urlquery) "+" "%20" | safeURL -}}
+{{- $mailtoBody := replace ($body | urlquery) "+" "%20" | safeURL -}}
 {{- $entry := dict -}}
 {{- with hugo.Data.syndication.by_path -}}
   {{- with index . $.RelPermalink -}}
@@ -19,7 +21,7 @@
     Read it here, reply wherever works best for you. When Micro.blog can connect the conversation back, replies appear below.
   </p>
   <div class="respond-actions">
-    <a class="respond-button" href="mailto:blog@joshuapsteele.com?subject={{ $subject | urlquery }}&body={{ $body | urlquery }}">Reply by email</a>
+    <a class="respond-button" href="mailto:blog@joshuapsteele.com?subject={{ $mailtoSubject }}&body={{ $mailtoBody }}">Reply by email</a>
     {{- with $microblogURL }}
     <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Micro.blog</a>
     {{- else }}
