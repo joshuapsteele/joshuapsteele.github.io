@@ -7,21 +7,22 @@
   <div id="microblog-posts" class="microblog-posts">
     <div class="microblog-list">
       {{- range . }}
+      {{- $displayDate := .Date | time.In "America/New_York" }}
       <article class="microblog-post h-entry">
         {{- if .Title }}
         <h3 class="microblog-title p-name">
           <a href="{{ .Permalink }}" class="u-url">{{ .Title }}</a>
         </h3>
         {{- else }}
-        <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
+        <data class="p-name" value="{{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}"></data>
         {{- end }}
         <p class="microblog-content e-content">
           <a href="{{ .Permalink }}" class="u-url">{{ .Plain | truncate 220 }}</a>
         </p>
         <div class="microblog-meta">
           <a href="{{ .Permalink }}" class="u-url">
-            <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-              {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+            <time class="dt-published" datetime="{{ $displayDate | time.Format "2006-01-02T15:04:05Z07:00" }}">
+              {{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}
             </time>
           </a>
         </div>

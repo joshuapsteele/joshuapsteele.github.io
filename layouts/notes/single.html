@@ -1,4 +1,5 @@
 {{- define "main" }}
+{{- $displayDate := .Date | time.In "America/New_York" -}}
 
 <article class="note-single h-entry">
   <header class="note-header">
@@ -7,19 +8,19 @@
     <h1 class="note-title p-name">{{ .Title }}</h1>
     {{- else }}
     {{- /* Title-less note: hide a p-name for microformat parsers, show date as the heading */ -}}
-    <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
+    <data class="p-name" value="{{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}"></data>
     <p class="note-date-heading">
       <a href="{{ .Permalink }}" rel="bookmark">
-        <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-          {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+        <time class="dt-published" datetime="{{ $displayDate | time.Format "2006-01-02T15:04:05Z07:00" }}">
+          {{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}
         </time>
       </a>
     </p>
     {{- end }}
     {{- if and .Title (not (.Param "hideMeta")) }}
     <div class="note-meta">
-      <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-        {{ .Date.Format "Jan 2, 2006 · 3:04pm" }}
+      <time class="dt-published" datetime="{{ $displayDate | time.Format "2006-01-02T15:04:05Z07:00" }}">
+        {{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}
       </time>
     </div>
     {{- end }}

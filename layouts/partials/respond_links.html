@@ -1,4 +1,5 @@
-{{- $label := .Title | default (.Date.Format "Jan 2, 2006 at 3:04pm") -}}
+{{- $displayDate := .Date | time.In "America/New_York" -}}
+{{- $label := .Title | default ($displayDate | time.Format "Jan 2, 2006 at 3:04pm") -}}
 {{- $subject := printf "Re: %s" $label -}}
 {{- $body := printf "Re: %s\n\n%s" $label .Permalink -}}
 {{- $microblogText := printf "@joshuapsteele Re: %s %s" $label .Permalink -}}

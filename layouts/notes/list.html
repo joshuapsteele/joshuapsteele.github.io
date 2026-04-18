@@ -17,12 +17,13 @@
   {{- $pages := .RegularPages.ByDate.Reverse }}
   {{- $paginator := .Paginate $pages }}
   {{- range $paginator.Pages }}
+  {{- $displayDate := .Date | time.In "America/New_York" }}
   <article class="note-stream-item h-entry{{ if eq .Params.syndicate false }} is-local-only{{ end }}" id="note-{{ .File.ContentBaseName }}">
     <header class="note-stream-header">
       <a href="{{ .Permalink }}" class="note-stream-date u-url" rel="bookmark">
-        <time class="dt-published" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-          <span class="note-stream-day">{{ .Date.Format "Jan 2, 2006" }}</span>
-          <span class="note-stream-time">{{ .Date.Format "3:04pm" }}</span>
+        <time class="dt-published" datetime="{{ $displayDate | time.Format "2006-01-02T15:04:05Z07:00" }}">
+          <span class="note-stream-day">{{ $displayDate | time.Format "Jan 2, 2006" }}</span>
+          <span class="note-stream-time">{{ $displayDate | time.Format "3:04pm" }}</span>
         </time>
       </a>
       {{- if eq .Params.syndicate false }}
@@ -33,13 +34,13 @@
         <a href="{{ .Permalink }}" rel="bookmark">{{ .Title }}</a>
       </h2>
       {{- else }}
-      <data class="p-name" value="{{ .Date.Format "Jan 2, 2006 · 3:04pm" }}"></data>
+    <data class="p-name" value="{{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}"></data>
       {{- end }}
     </header>
     <div class="note-stream-content e-content">
       {{ .Content }}
     </div>
-    <a class="note-stream-permalink" href="{{ .Permalink }}" rel="bookmark" aria-label="Permalink for {{ if .Title }}{{ .Title | plainify }}{{ else }}note from {{ .Date.Format "Jan 2, 2006 at 3:04pm" }}{{ end }}">Permalink</a>
+    <a class="note-stream-permalink" href="{{ .Permalink }}" rel="bookmark" aria-label="Permalink for {{ if .Title }}{{ .Title | plainify }}{{ else }}note from {{ $displayDate | time.Format "Jan 2, 2006 at 3:04pm" }}{{ end }}">Permalink</a>
     {{- $tags := .Language.Params.Taxonomies.tag | default "tags" }}
     {{- with (.GetTerms $tags) }}
     <footer class="note-stream-footer">

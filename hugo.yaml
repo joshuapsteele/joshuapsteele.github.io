@@ -3,6 +3,7 @@ publishDir: public
 languageCode: en-US
 title: Joshua P. Steele
 theme: PaperMod
+timeZone: America/New_York
 disqusShortname: joshuapsteele
 enableRobotsTXT: true
 enableGitInfo: true
