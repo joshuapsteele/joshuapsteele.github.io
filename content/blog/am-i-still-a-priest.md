@@ -54,6 +54,12 @@ I go back and forth. I have not settled this, and I may not settle it.
 
 What I can say is that something was done when hands were laid on me. Whether that something is indelible or revocable, ontological or merely functional, trans-denominational or ecclesially bound, I genuinely do not know. The language of my ordination pulls me one way. The polity under which I was ordained, at least as currently interpreted, pulls the other. I am content, for now, to hold the question open rather than pretend I have resolved it.
 
+{{< callout "note" >}}
+Richard Hooker, the great Anglican theologian, wrote the following in his *Of the Laws of Ecclesiastical Polity* (V.77.3): 
+
+> They which have once received this power may not think to put it off and on like a cloak as the weather serveth, to take it reject and resume it as oft as themselves list, of which profane and impious contempt these later times have yielded as of all other kinds of iniquity and apostasy strange examples; but let them know which put their hands unto this plough, that once consecrated unto God they are made his peculiar inheritance for ever. Suspensions may stop, and degradations utterly cut off the use or exercise of power before given: but voluntarily it is not in the power of man to separate and pull asunder what God by his authority coupleth. So that although there may be through misdesert degradation as there may be cause of just separation after matrimony, yet if (as sometime it doth) restitution to former dignity or reconciliation after breach doth happen, neither doth the one nor the other ever iterate the first knot.
+{{< /callout >}}
+
 ## A few questions I'd love feedback on
 
 If you have theological chops and time, I'd be grateful for your help thinking through this. A few questions, aimed at different readers:
