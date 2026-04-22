@@ -20,7 +20,7 @@ The question at stake was whether the ACNA Canons distinguish between resigning 
 
 After several months of conversation, I've now received a formal Letters Dimissory from Bishop Jeff Bailey. You can read the full letter here:
 
-![Letters Dimissory for Joshua Steele](/Joshua_Steele_Letters_Dismissory_2026-04-21.jpg)
+![Letters Dimissory for Joshua Steele](/Joshua-Steele-ACNA-Letters-Dismissory_2026-04-20.jpg)
 
 The letter confirms what matters most to me practically: I resigned in good standing, without discipline, and my departure casts no doubt on my moral character. Bishop Jeff has indicated he's willing to affirm this to any future inquirers.
 
