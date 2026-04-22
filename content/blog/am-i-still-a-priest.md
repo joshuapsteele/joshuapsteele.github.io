@@ -10,7 +10,7 @@ url: /am-i-still-a-priest/
 
 ## The Ecclesiastical Pickle
 
-If you've been following along, you know that my [resignation from ordained ministry in the ACNA](https://claude.ai/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) back in November 2023 turned into something of an [ecclesiastical pickle](https://claude.ai/an-ecclesiastical-pickle/) earlier this year.
+If you've been following along, you know that my [resignation from ordained ministry in the ACNA](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) back in November 2023 turned into something of an [ecclesiastical pickle](/an-ecclesiastical-pickle/) earlier this year.
 
 The short version: I had resigned from the ACNA while explicitly stating that I was not renouncing my Holy Orders. My bishop at the time, Todd Hunter, gave me a letter confirming my good standing and my request "to resign from ministerial duties while remaining in Holy Orders." But when Bishop Todd began preparing for retirement, he reached out to clarify whether that framing was canonically correct. His successor, Bishop Jeff Bailey, had questions.
 
