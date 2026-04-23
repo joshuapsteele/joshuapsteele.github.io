@@ -34,6 +34,17 @@ The most recent letter also makes clear where we see things differently. Bishop 
 
 From the ACNA's perspective, I have resigned Holy Orders. Full stop.
 
+{{< callout "note" >}}
+I do not think this understanding of Holy Orders matches what [the ACNA Constitution and Canons](https://anglicanchurch.net/wp-content/uploads/2025/07/ACNA-Constitution-and-Canons_2025.pdf) say. The canonical case for **distinguishing voluntary resignation from renunciation of Holy Orders** rests on several features of ACNA Title III:
+
+- Canon III.6.3.1 uses **"in this Church"** language throughout. What a resigning cleric relinquishes is "the right to exercise in this Church the gifts and spiritual authority... conferred in ordination," **not the gifts themselves**.
+- Canon III.6.4 provides that a resigned cleric may petition to "restore the right to exercise" gifts "conferred in ordination." The canon assumes the underlying ordination persists; **no re-ordination is required**. The parallel processes for bishops (III.8.9.4) and for inter-diocesan transfer (III.6.1-2) likewise contemplate return or transfer without re-ordination.
+- The canons distinguish **deposition** (permanent removal from Holy Orders, available only by ecclesiastical trial) from **deprivation** (removal from a particular office) and **suspension** (temporary removal of authority). **Voluntary resignation effects deprivation, not deposition**. If resignation were equivalent to renouncing Holy Orders, that distinction collapses.
+- Canon III.5.3.1 provides that clergy from other bodies in the historic succession are **received "in the Orders to which already ordained,"** with conditional ordination only where the ordaining bishop's authority is not recognized. The canons therefore presuppose that Holy Orders exist across jurisdictions.
+
+I'm grateful to Bill Barto, a canon lawyer and priest in the Reformed Episcopal Church, for sharpening several of these points in correspondence.
+{{< /callout >}}
+
 But the letter also acknowledges that I'm "free to articulate \[my\] own personal theological understanding of Holy Orders in other contexts."
 
 ## So, am I still a priest?
