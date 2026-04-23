@@ -41,7 +41,7 @@ I do not think this understanding of Holy Orders matches what [the ACNA Constitu
 - Canon III.6.4 provides that a resigned cleric may petition to "restore the right to exercise" gifts "conferred in ordination." The canon assumes the underlying ordination persists; **no re-ordination is required**. The parallel processes for bishops (III.8.9.4) and for inter-diocesan transfer (III.6.1-2) likewise contemplate return or transfer without re-ordination.
 - Canon III.5.3.1 provides that clergy from other bodies in the historic succession are **received "in the Orders to which already ordained,"** with conditional ordination only where the ordaining bishop's authority is not recognized. The canons therefore presuppose that Holy Orders exist across jurisdictions.
 
-I'm grateful to Bill Barto, a canon lawyer and priest in the Reformed Episcopal Church, for sharpening several of these points in correspondence.
+I'm grateful to Bill Barto, a canon lawyer and priest in the Reformed Episcopal Church, for sharpening several of these points in correspondence. Check out [his Substack, "The Optimistic Jurist."](https://optimisticjurist.substack.com)
 {{< /callout >}}
 
 But the letter also acknowledges that I'm "free to articulate \[my\] own personal theological understanding of Holy Orders in other contexts."
