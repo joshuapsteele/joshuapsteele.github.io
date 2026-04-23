@@ -22,9 +22,13 @@ After several months of conversation, I've now received a formal Letters Dimisso
 
 ![Letters Dimissory for Joshua Steele](/Joshua-Steele-ACNA-Letters-Dismissory_2026-04-20.jpg)
 
-The letter confirms what matters most to me practically: I resigned in good standing, without discipline, and my departure casts no doubt on my moral character. Bishop Jeff has indicated he's willing to affirm this to any future inquirers.
+And, for reference, here's the November 2023 letter from Bishop Todd Hunter after I tendered my resignation, according to ACNA Canon III.6, effective on 2023-11-01:
 
-The letter also makes clear where we see things differently. Bishop Jeff writes:
+![ACNA Resignation Letter](/Joshua_Steele_ACNA_Resignation_2023-11-07.jpg)
+
+Both letters confirm what matters most to me practically: I resigned in good standing, without discipline, and my departure casts no doubt on my moral character. Bishop Jeff has indicated he's willing to affirm this to any future inquirers.
+
+The most recent letter also makes clear where we see things differently. Bishop Jeff writes:
 
 > Within the ACNA, Holy Orders are understood to be conferred and exercised within a particular ecclesial body and its ordered life. We do not recognize Holy Orders as a trans-denominational or free-floating reality that transcends concrete traditions or jurisdictions.
 
