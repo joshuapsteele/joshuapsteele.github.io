@@ -168,8 +168,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -187,11 +187,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0613d0230ba075db",
   "lastOpenFiles": [
+    "content/notes/2026-05-03-1306.md",
+    "content/notes/2026-04-25-1017.md",
+    "content/notes/2026-04-24-1329.md",
     "content/blog/whats-gone-wrong-with-american-evangelicalism.md",
     "content/blog/the-problem-of-ecclesiastical-evil.md",
     "content/blog/a-christmas-homily.md",
@@ -215,9 +219,6 @@
     "content/blog/why-you-never-see-your-friends-anymore-the-atlantic.md",
     "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
     "content/blog/works-on-barth-and-bonhoeffer.md",
-    "content/blog/are-the-beatitudes-good-works-matt-51316.md",
-    "content/blog/a-list-of-karl-barths-sermons.md",
-    "content/blog/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
