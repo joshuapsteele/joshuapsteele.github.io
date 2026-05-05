@@ -1,10 +1,15 @@
 ---
-title: "Am I Still A Priest? Thinking Through Ordination After Resignation"
+title: Am I Still A Priest? Thinking Through Ordination After Resignation
 date: 2026-04-22T14:55:10Z
 draft: false
-description: "Working through the theology of Holy Orders after receiving my Letters Dimissory from the ACNA."
-tags: ["ordination", "anglican", "acna", "holy orders"]
-categories: ["personal", "ministry"]
+description: Working through the theology of Holy Orders after receiving my Letters Dimissory from the ACNA.
+tags:
+  - ordination
+  - anglican
+  - acna
+categories:
+  - personal
+  - ministry
 url: /am-i-still-a-priest/
 ---
 
