@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a2f2a2635c48e121",
+        "id": "95fb371354ac6419",
         "type": "tabs",
         "children": [
           {
-            "id": "4f50a5f569cd495b",
+            "id": "6b36ca438370b857",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/pages/about.md",
-                "bFile": "content/pages/about.md",
-                "aRef": ""
+                "file": "content/pages/til.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: about"
+              "icon": "lucide-file",
+              "title": "til"
             }
           }
         ]
@@ -188,11 +188,19 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "random-note:Open random note": false
     }
   },
-  "active": "4f50a5f569cd495b",
+  "active": "6b36ca438370b857",
   "lastOpenFiles": [
+    "content/blog/morning-prayer-homily-mark-1-29-45.md",
+    "content/blog/heads-up-guest-post-on-the-way.md",
+    "content/blog/12-prayers-for-tough-days.md",
+    "docs/AUDIT-06-external-links.md",
+    "content/pages/sermons.md",
+    "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
+    "content/notes/2026-05-07-0947.md",
     "content/pages/about.md",
     "content/blog/am-i-still-a-priest.md",
     "im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america.md",
@@ -212,13 +220,6 @@
     "content/blog/american-freedom-isnt-biblical-freedom.md",
     "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
     "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
-    "content/blog/american-freedom-isn-t-biblical-freedom.md",
-    "content/files.md",
-    "content/blog/psalm-2-quare-fremuerunt-gentes.md",
-    "content/blog/proverbs-topical-study-poverty.md",
-    "content/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god.md",
-    "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
-    "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

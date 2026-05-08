@@ -1,12 +1,10 @@
 ---
 author: joshuapsteele
 categories:
-- personal
-- theology
-date: '2013-06-16T13:19:57Z'
-description: The first ever guest post on this blog is coming soon from my good friend
-  Amy Chase, an incoming student this Fall at Asbury Theological Seminary.
-publicize_reach: null
+  - personal
+  - theology
+date: 2013-06-16T13:19:57Z
+description: The first ever guest post on this blog is coming soon from my good friend Amy Chase, an incoming student this Fall at Asbury Theological Seminary.
 title: Heads up! Guest post on the way.
 url: /heads-up-guest-post-on-the-way/
 ---
