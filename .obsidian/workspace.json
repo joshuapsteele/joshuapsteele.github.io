@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "95fb371354ac6419",
+        "id": "1a2fb54ba8ef699f",
         "type": "tabs",
         "children": [
           {
-            "id": "6b36ca438370b857",
+            "id": "f3cfaa0d687b5e62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pages/til.md",
+                "file": "content/blog/mothers-day-poem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "til"
+              "title": "mothers-day-poem"
+            }
+          },
+          {
+            "id": "ea0eb323388f0608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/pages/about.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "about"
             }
           }
         ]
@@ -192,8 +206,12 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6b36ca438370b857",
+  "active": "f3cfaa0d687b5e62",
   "lastOpenFiles": [
+    "content/pages/about.md",
+    "content/blog/mothers-day-poem.md",
+    "content/blog/my-soccer-kit.md",
+    "content/pages/til.md",
     "content/blog/morning-prayer-homily-mark-1-29-45.md",
     "content/blog/heads-up-guest-post-on-the-way.md",
     "content/blog/12-prayers-for-tough-days.md",
@@ -201,7 +219,6 @@
     "content/pages/sermons.md",
     "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
     "content/notes/2026-05-07-0947.md",
-    "content/pages/about.md",
     "content/blog/am-i-still-a-priest.md",
     "im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america.md",
     "archetypes/notes.md",
@@ -217,9 +234,6 @@
     "templates/blog-post-quick.md",
     "templates/blog-post-full.md",
     "templates/blog-post-draft.md",
-    "content/blog/american-freedom-isnt-biblical-freedom.md",
-    "static/files/Authority and Power, Dictionary of Scripture and Ethics.md",
-    "static/files/The Kingdom of God, Dictionary of Scripture and Ethics.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
