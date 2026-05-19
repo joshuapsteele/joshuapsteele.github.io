@@ -8,7 +8,7 @@ title: Frustrated with Church? You're the Problem!
 url: /frustrated-with-church-youre-the-problem/
 ---
 
-Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](http://frustrated). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!
+Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](/frustrated-with-church-join-the-club). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!
 
 However, it’s not enough to point the finger at others from your pew, instead of doing so from the public square. Yes, that’s a good first step, but another one is necessary.
 

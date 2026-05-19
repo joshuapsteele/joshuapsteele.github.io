@@ -37,7 +37,7 @@ For the CliffsNotes version, here’s [the Tim Ferriss blogpost on the matter](h
 
 If you’re more of a visual learner, here’s a helpful instructional video from Eric Moss:
 
-[http://https://www.youtube.com/watch?v=0\_XjJjLc7NE](http://https://www.youtube.com/watch?v=0_XjJjLc7NE)
+{{< youtube 0_XjJjLc7NE >}}
 
 **What weight should you start with?** I began with a 35 lb. (16 kg.). Kettlebells USA has [one of the best guides on choosing a starting weight](https://www.kettlebellsusa.com/what-size-kettlebell-should-i-buy-guidelines-for-men-and-women-to-choose-a-starter-kettlebell-weight), based upon your gender and current fitness level.
 
