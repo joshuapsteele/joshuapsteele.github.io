@@ -21,7 +21,7 @@ I’m really looking forward to reading these two Barth (and Bonhoeffer) books c
 
 ## Freedom under the Word (May 2019)
 
-According to [Baker](http://bakerpublishinggroup.com/books/freedom-under-the-word/385600):
+According to [Baker](https://bakerpublishinggroup.com/products/9780801098819_freedom-under-the-word):
 
 > In *Freedom under the Word*, top-tier scholars offer critical engagements with Karl Barth’s exegesis of Christian Scripture and explore its implications for contemporary hermeneutics and biblical interpretation. Focusing on rare texts from the Barth corpus, this volume considers the legacy and potential of Barth’s theology by presenting a wide-ranging engagement with and assessment of Barth’s theological exegesis. The book covers Barth’s career chronologically, providing insight into his theological development as it relates to Scripture. *Freedom under the Word* will benefit professors and students of theology, biblical interpretation, and the theological interpretation of Scripture as well as Barth scholars.
 
@@ -61,7 +61,7 @@ Part 5: Barth’s Doctrine of Reconciliation in Exegetical Perspective
 
 ## Karl Barth and Dietrich Bonhoeffer (August 2019)
 
-Again, according to [Baker](http://bakerpublishinggroup.com/books/karl-barth-and-dietrich-bonhoeffer/376181):
+Again, according to [Baker](https://bakerpublishinggroup.com/products/9781540967671_karl-barth-and-dietrich-bonhoeffer):
 
 > Wolf Krötke, acclaimed as a foremost interpreter of the theologies of Karl Barth and Dietrich Bonhoeffer, demonstrates the continuing significance of these two theologians for Christian faith and life. This book enables readers to look with fresh eyes at the theologies of Barth and Bonhoeffer and offers new insights for reading the history of modern theology. It also helps churches see how they can be creative minorities in societies that have forgotten God.
 > 

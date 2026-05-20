@@ -172,7 +172,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 
 - [“A Report of the Study Concerning the Ordination of Women Undertaken by the Anglican Mission in America: A survey of the Leading Theological Convictions,”](http://www.paludavia.com/anglican/w.pdf) unpublished paper by the Rt. Rev. John H. Rodgers and the Women’s Ordination Study Team (July 31, 2003)
 - This is the 2003 AMIA Report upon which Section 4 of the 2017 ACNA Report relies.
-- [“The Doctrine of the Trinity and Its Bearing on the Relationship of Men and Women,”](http://enit-syd.sds.asn.au/Site/104629.asp?ph=cp) the 1999 Sydney Anglican Diocesan Doctrine Commission Report
+- [“The Doctrine of the Trinity and Its Bearing on the Relationship of Men and Women,”](https://docs.sydneyanglicans.net/s/sfsites/c/sfc/servlet.shepherd/document/download/069Ol00000EFeaIIAT) the 1999 Sydney Anglican Diocesan Doctrine Commission Report
 - [“Women, Ordination and the Bible”,](http://www.tsm.edu/2014/09/03/women_ordination_and_the_bible/) written by Rod Whitacre, 28 August 2014
 
 ---

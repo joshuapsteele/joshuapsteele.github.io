@@ -25,4 +25,4 @@ Here's a particularly challenging portion from the chapter on "Wonder," beginnin
 > 
 > It is another question whether I know what self-wonderment means for me, whether I am ready and able to subordinate my bit of research, thought, and speech to the logic of this wonder (and not in reverse order!). But <u>there can be no question about one fact: I find myself confronted by the wondrous reality of the living*God*. This confrontation occurs in even the most timid and untalented attempt to take seriously the subject in which I have become involved or to work theologically at all, whether in the field of exegesis, Church history, dogmatics, or ethics</u>."
 > 
-> Posted via [blogwith](http://blogwith.co)
+> Posted via "blogwith" (now defunct, RIP!)

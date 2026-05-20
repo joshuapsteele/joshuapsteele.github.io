@@ -138,4 +138,4 @@ NOTES:
 13 See also Barth, *The Church and the Churches*, 51-2.  
 14 Barth, *The Church and the Churches, 55.*  
 15 Barth, *The Church and the Churches*, 56.  
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

@@ -13,11 +13,11 @@ tags:
   - womens-ordination
 ---
 
-*Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to [Fr. Blake Johnson’s](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson’s](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) responses to [her original blog post](http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/) about the* in persona Christi *argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.*
+*Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to [Fr. Blake Johnson’s](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson’s](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) responses to [her original blog post](/if-women-can-be-saved-then-women-can-be-priests/) about the* in persona Christi *argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.*
 
 ---
 
-I am grateful to [Fr. Blake Johnson](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) for their responses to my previous blog post, [“If Women Can Be Saved, Then Women Can Be Priests.”](http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/)
+I am grateful to [Fr. Blake Johnson](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) for their responses to my previous blog post, [“If Women Can Be Saved, Then Women Can Be Priests.”](/if-women-can-be-saved-then-women-can-be-priests/)
 
 I begin with a point of clarification: My piece was intentionally narrow. I offered a critique of the *in persona Christi* argument against women’s ordination to the priesthood. I was not offering a full argument for women’s ordination. It seems some confusion has resulted from those who assume I was doing the latter rather than the former.
 

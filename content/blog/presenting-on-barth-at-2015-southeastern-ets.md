@@ -26,4 +26,4 @@ I believe this is an important topic to discuss because, as I put it, "***each c
 
 If you're interested in this topic, but you can't make it to Lithonia, GA on March 27-28, feel free to read my paper here:
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

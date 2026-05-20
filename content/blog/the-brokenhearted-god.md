@@ -92,4 +92,4 @@ This rambling post was inspired by the following two songs, which capture the ab
 
 {{< youtube D_wSEMAu2sA >}}
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

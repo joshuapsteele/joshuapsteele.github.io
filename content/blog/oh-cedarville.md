@@ -38,7 +38,7 @@ What a shameful way to treat a gracious and godly immigrant family.
 
 As if the previous two concerns weren’t enough, the University quickly got rid of Carl Ruby, the Vice President for Student Life, this January. Not only have the Administration and Trustees neglected to justify this decision, they refuse to admit that they made the decision in the first place!!! According to the University PR statements, we’re to believe that Carl Ruby, after 25 years of service to his alma mater, randomly decided in January that now would be a great time to seek employment opportunities elsewhere. Apparently he also thought it would be great to leave his office just five days after his resignation was announced for him!
 
-What’s the other option? Moral or legal failure, right? Well, Dr. Gredy (acting CU President) himself denied this at the [SGA Town Hall meeting last month](http://cedars.cedarville.edu/article/585/SGA-Town-Hall-Meeting-Jan-22/), saying that Ruby’s resignation was not due to a personal/moral failure.
+What’s the other option? Moral or legal failure, right? Well, Dr. Gredy (acting CU President) himself denied this at the SGA Town Hall meeting last month (Link is broken, but original URL: http://cedars.cedarville.edu/article/585/SGA-Town-Hall-Meeting-Jan-22/), saying that Ruby’s resignation was not due to a personal/moral failure.
 
 What’s left, then? Well, despite my University’s urging to “not connect the dots” on these matters, the unavoidable conclusion is that ***Dr. Ruby was FIRED*** and that CU Admins/Trustees are hesitant (and deceptively so) to admit that.
 

@@ -151,7 +151,7 @@ Finally, note that *this* EFCA document references an earlier one and a later on
 
 ## **(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)**
 
-- [Article 10 of the Formula of Concord](http://bookofconcord.org/fc-ep.php#X.%20Church%20Rites) is devoted to the controversy “Concerning ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been introduced into the Church for the sake of good order and propriety.”
+- [Article 10 of the Formula of Concord](https://bookofconcord.org/epitome/church-rites/) is devoted to the controversy “Concerning ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been introduced into the Church for the sake of good order and propriety.”
 - The main question/debate was “whether, in time of persecution and in case of confession, even if the enemies of the Gospel have not reached an agreement with us in doctrine, some abrogated ceremonies, which in themselves are matters of indifference and are neither commanded nor forbidden by God, may nevertheless, upon the pressure and demand of the adversaries, be reestablished without violence to conscience, and we may thus \[rightly\] have conformity with them in such ceremonies and adiaphora. To this the one side has said Yea, the other, Nay.”
 
 ### Affirmative Statements (from the Epitome/Summary)

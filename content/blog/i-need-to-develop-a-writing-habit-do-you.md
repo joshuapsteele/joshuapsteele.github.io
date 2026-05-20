@@ -42,7 +42,7 @@ Furthermore, there are two excellent books on habit formation that I highly reco
 
 ## Habit = Trigger + Behavior + Reward
 
-If you look through those resources, you’ll notice a particular model that appears again and again. A habit boils down to three things (this version of the framework mainly comes from Charles Duhigg’s [*The Power of Habit*](http://amzn.to/2pkxfBO)*.* You can read the appendix of the book for free [here](http://charlesduhigg.com/how-habits-work/).) :
+If you look through those resources, you’ll notice a particular model that appears again and again. A habit boils down to three things (this version of the framework mainly comes from Charles Duhigg’s [*The Power of Habit*](http://amzn.to/2pkxfBO)*.* You can read the appendix of the book for free [here](https://charlesduhigg.com/wp-content/uploads/2025/01/Duhigg-Readers-Guide-to-Changing-Habits.pdf).) :
 
 - **TRIGGER**: The cue or reminder that prompts the behavior. Frequently, cues involve 
     - Time
@@ -53,7 +53,7 @@ If you look through those resources, you’ll notice a particular model that app
 - **BEHAVIOR**: The behavior itself, whether something good for you, like writing 500 words every day, or something bad for you, like smoking a pack of cigarettes.
 - **REWARD**: The benefit you get from the behavior.
 
-## To change an old habit (taken from [this helpful flowchart](http://charlesduhigg.com/wp-content/uploads/2014/04/Flowchart-How-to-Change-a-Habit.pdf) from Charles Duhigg):
+## To change an old habit (taken from [this helpful flowchart](https://charlesduhigg.com/wp-content/uploads/2025/01/Duhigg-Flowchart-How-to-Change-a-Habit.pdf) from Charles Duhigg):
 
 - Isolate the consistent TRIGGER. When you feel the craving to do the thing you’re trying to stop doing, ask yourself: 
     - What time is it?
@@ -67,7 +67,7 @@ If you look through those resources, you’ll notice a particular model that app
     - Write this commitment down in the following form: “When \[TRIGGER occurs\], I will \[do the new BEHAVIOR\], because it provides me with \[the REWARD\].”
     - Follow through on your plan!
 
-## To develop a new habit (taken from [this helpful flowchart](http://charlesduhigg.com/wp-content/uploads/2014/04/Flowchart-How-to-Create-a-Habit.pdf) from Charles Duhigg):
+## To develop a new habit (taken from [this helpful flowchart](https://charlesduhigg.com/wp-content/uploads/2025/01/Duhigg-Flowchart-How-to-Create-a-Habit.pdf) from Charles Duhigg):
 
 - Come up with a TRIGGER: 
     - Time?

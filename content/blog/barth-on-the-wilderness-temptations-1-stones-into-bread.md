@@ -36,4 +36,4 @@ However, Christ the God-Human is more human and less sinful than us in his refus
 
 Stay tuned for Karl Barth's exegesis of the second temptation, for Christ to fall down and worship Satan.
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)
