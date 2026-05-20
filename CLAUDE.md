@@ -240,7 +240,6 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings
 - `docs/CLEANUP-CHECKLIST.md` - Checklist for site maintenance
 - `docs/AUDIENCE_GROWTH_STRATEGY.md` - Strategy document
-- `docs/WARP.md` - Additional documentation
 
 ## Common Workflows
 
