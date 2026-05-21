@@ -102,7 +102,7 @@ def parse_list_from_fm(fm: str, key: str) -> Tuple[List[str], str]:
     if inline:
         return parse_inline_list(inline.group(2)), "inline"
 
-    scalar = re.search(rf"(?m)^{re.escape(key)}:\s+(.+?)\s*$", fm)
+    scalar = re.search(rf"(?m)^{re.escape(key)}:[^\S\r\n]+(.+?)\s*$", fm)
     if scalar:
         return [scalar.group(1).strip().strip("'\"")], "inline"
 

@@ -11,7 +11,7 @@ tags:
   - bible
   - politics
   - government
-  - political theology
+  - political-theology
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
 ---

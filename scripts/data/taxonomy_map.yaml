@@ -71,6 +71,13 @@ tag_cleanup:
   ICE: ice
   "Romans 13": romans-13
   "romans 13": romans-13
+  Christianity: theology
+  churches: church
+  "matthew 25": matthew-25
+  pareto: 80-20
+  "political theology": political-theology
+  "prophetic witness": prophetic-witness
+  "public health": public-health
   reading-notes: reading  # Consolidate reading-related tags
   sea-shanty: sea-shanty  # Already converted to kebab-case
 

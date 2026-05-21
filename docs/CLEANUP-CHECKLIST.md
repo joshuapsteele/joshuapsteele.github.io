@@ -16,7 +16,7 @@ _No open high-priority items._
 
 ### Medium priority
 
-- [ ] **Prune or consolidate the long tail of tags.** 171 distinct tags with many used only once. Run `scripts/audit-frontmatter.py` to get a fresh list and triage.
+_No open medium-priority items._
 
 ### Low priority / when convenient
 
@@ -30,6 +30,7 @@ _No open high-priority items._
 
 ## Completed (since last audit)
 
+- [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). `python3 scripts/audit-frontmatter.py` now reports 166 distinct tags, below the 175 maintenance target.
 - [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized the remaining uncategorized blog posts. `python3 scripts/audit-frontmatter.py` now reports 0 posts missing categories, tags, descriptions, URLs, or dates.
 - [x] **Removed stale draft smoke-test post (2026-05-21).** `content/blog/drafts-action-smoke-test.md` was deleted by the user; the front matter audit now reports 0 draft blog posts.
 - [x] **Fixed one confirmed broken internal link (2026-05-21).** In `content/blog/my-soccer-kit.md`, changed `/recommended-tools-and-resources/` → `/resources/`. Verified the targeted link is absent from `python3 scripts/check-internal-links.py` output; `npm run build` passes.

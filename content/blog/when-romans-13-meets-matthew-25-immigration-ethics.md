@@ -9,8 +9,8 @@ categories:
 tags:
   - immigration
   - romans-13
-  - matthew 25
-  - political theology
+  - matthew-25
+  - political-theology
 url: /when-romans-13-meets-matthew-25-immigration-ethics/
 ---
 

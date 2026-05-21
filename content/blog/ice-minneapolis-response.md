@@ -2,7 +2,7 @@
 title: "A Response to 'Minneapolis, ICE, and the Christian Response'"
 date: '2026-01-28T10:00:00Z'
 draft: false
-tags: [Christianity, politics, immigration, ice, romans-13]
+tags: [theology, politics, immigration, ice, romans-13]
 categories: ["ethics", "theology"]
 description: "A critique of false neutrality in Christian responses to ICE violence, arguing that justice requires truth-telling and moral clarity."
 url: /ice-minneapolis-response/
