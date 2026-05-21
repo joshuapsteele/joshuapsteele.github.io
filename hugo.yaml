@@ -136,9 +136,6 @@ params:
       - name: Yep ✅
         url: "/yep/"
   socialIcons: # optional
-    # BlueSky account deleted - March 2026
-    # - name: BlueSky
-    #   url: "https://bsky.app/profile/joshuapsteele.bsky.social"
     - name: Mastodon
       url: "https://mastodon.social/@joshuapsteele"
     - name: threads
@@ -149,6 +146,8 @@ params:
       url: "https://www.linkedin.com/in/joshuapsteele/"
     - name: microblog
       url: "https://social.joshuapsteele.com"
+    - name: Buttondown
+      url: "https://buttondown.com/joshuapsteele/"
     - name: rss
       url: "https://joshuapsteele.com/blog/feed.xml"
 markup:
