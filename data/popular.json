@@ -1,31 +1,57 @@
 {
-  "generated": "2025-12-08T13:51:57.072987",
+  "generated": "2026-05-21T17:06:11.794480",
   "period_days": 30,
+  "source": "csv:stats-Personal Hugo Website-2026-05-21T17-03-02.csv",
   "posts": [
     {
-      "path": "/14-characteristics-of-fascism/",
-      "hits": 324,
-      "unique": 284
+      "path": "/romans-13/",
+      "hits": 523,
+      "unique": 474
     },
     {
-      "path": "/romans-13/",
-      "hits": 282,
-      "unique": 272
+      "path": "/14-characteristics-of-fascism/",
+      "hits": 302,
+      "unique": 289
+    },
+    {
+      "path": "/mothers-day-poem/",
+      "hits": 300,
+      "unique": 282
     },
     {
       "path": "/what-color-is-my-parachute-the-flower-petal-exercise/",
-      "hits": 240,
-      "unique": 229
+      "hits": 269,
+      "unique": 259
     },
     {
-      "path": "/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/",
-      "hits": 201,
-      "unique": 175
+      "path": "/am-i-still-a-priest/",
+      "hits": 217,
+      "unique": 208
+    },
+    {
+      "path": "/when-romans-13-meets-matthew-25-immigration-ethics/",
+      "hits": 145,
+      "unique": 141
+    },
+    {
+      "path": "/finding-a-hat-for-my-big-bald-head/",
+      "hits": 133,
+      "unique": 128
+    },
+    {
+      "path": "/vintage-craftsman-table-saw/",
+      "hits": 105,
+      "unique": 93
     },
     {
       "path": "/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/",
-      "hits": 99,
-      "unique": 87
+      "hits": 103,
+      "unique": 93
+    },
+    {
+      "path": "/prayers-for-the-sick/",
+      "hits": 92,
+      "unique": 90
     }
   ]
 }
