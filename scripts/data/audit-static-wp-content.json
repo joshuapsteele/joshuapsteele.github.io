@@ -1,0 +1,2143 @@
+{
+  "generated_on": "2026-05-21",
+  "source_scope": [
+    "content",
+    "layouts",
+    "assets",
+    "data",
+    "archetypes",
+    "templates",
+    "hugo.yaml",
+    "config.yaml",
+    "config.toml",
+    "netlify.toml"
+  ],
+  "source_files_scanned": 434,
+  "totals": {
+    "files": 151,
+    "size_bytes": 410680728,
+    "size": "391.7 MiB",
+    "referenced_files": 119,
+    "orphan_candidates": 32
+  },
+  "files": [
+    {
+      "path": "static/wp-content/uploads/2011/03/sola-diversity.pdf",
+      "served_path": "/wp-content/uploads/2011/03/sola-diversity.pdf",
+      "extension": "pdf",
+      "size_bytes": 627231,
+      "size": "612.5 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf",
+      "served_path": "/wp-content/uploads/2013/01/reconciliation-and-the-lack-thereof.pdf",
+      "extension": "pdf",
+      "size_bytes": 267001,
+      "size": "260.7 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2013/02/a-contextual-reading-of-romans-13-1-7.pdf",
+      "served_path": "/wp-content/uploads/2013/02/a-contextual-reading-of-romans-13-1-7.pdf",
+      "extension": "pdf",
+      "size_bytes": 695789,
+      "size": "679.5 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2013/02/deuteronomy-6-1-15.pdf",
+      "served_path": "/wp-content/uploads/2013/02/deuteronomy-6-1-15.pdf",
+      "extension": "pdf",
+      "size_bytes": 152421,
+      "size": "148.8 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2013/04/dscn0863.jpg",
+      "served_path": "/wp-content/uploads/2013/04/dscn0863.jpg",
+      "extension": "jpg",
+      "size_bytes": 426725,
+      "size": "416.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/honors-grace-and-generosity.md",
+          "line": 31,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0863.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2013/04/dscn0867.jpg",
+      "served_path": "/wp-content/uploads/2013/04/dscn0867.jpg",
+      "extension": "jpg",
+      "size_bytes": 384686,
+      "size": "375.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/honors-grace-and-generosity.md",
+          "line": 25,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2013/04/dscn0867.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg",
+      "served_path": "/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg",
+      "extension": "jpg",
+      "size_bytes": 17400,
+      "size": "17.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
+          "line": 16,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
+      "served_path": "/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png",
+      "extension": "png",
+      "size_bytes": 195137,
+      "size": "190.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/inductive-bible-study-7-steps-amy-chase-ashley.md",
+          "line": 37,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2013/10/joshuasteelepsalm.pdf",
+      "served_path": "/wp-content/uploads/2013/10/joshuasteelepsalm.pdf",
+      "extension": "pdf",
+      "size_bytes": 118206,
+      "size": "115.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/psalm-2-quare-fremuerunt-gentes.md",
+          "line": 12,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2013/10/joshuasteelepsalm.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2013/11/steele-dogmatic-essay-on-trinity.pdf",
+      "served_path": "/wp-content/uploads/2013/11/steele-dogmatic-essay-on-trinity.pdf",
+      "extension": "pdf",
+      "size_bytes": 91378,
+      "size": "89.2 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2013/12/philemon.pdf",
+      "served_path": "/wp-content/uploads/2013/12/philemon.pdf",
+      "extension": "pdf",
+      "size_bytes": 450334,
+      "size": "439.8 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf",
+      "served_path": "/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf",
+      "extension": "pdf",
+      "size_bytes": 304824,
+      "size": "297.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/presenting-on-barth-at-2015-southeastern-ets.md",
+          "line": 19,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2014/03/steele-southeast-ets-2014-paper-final-presesntation-edit.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg",
+      "served_path": "/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg",
+      "extension": "jpg",
+      "size_bytes": 38184,
+      "size": "37.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+          "line": 181,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/10/image.png",
+      "served_path": "/wp-content/uploads/2015/10/image.png",
+      "extension": "png",
+      "size_bytes": 32589,
+      "size": "31.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/my-uncle-timothy-steele.md",
+          "line": 24,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2015/10/image.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/03-16-14JoshSteele.mp3",
+      "served_path": "/wp-content/uploads/2015/12/03-16-14JoshSteele.mp3",
+      "extension": "mp3",
+      "size_bytes": 22245580,
+      "size": "21.2 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/03-29-15_JS_TheCrossShapedGod.mp3",
+      "served_path": "/wp-content/uploads/2015/12/03-29-15_JS_TheCrossShapedGod.mp3",
+      "extension": "mp3",
+      "size_bytes": 23671669,
+      "size": "22.6 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/07-05-15JS-Jesusisnotjustoneofus.mp3",
+      "served_path": "/wp-content/uploads/2015/12/07-05-15JS-Jesusisnotjustoneofus.mp3",
+      "extension": "mp3",
+      "size_bytes": 19643163,
+      "size": "18.7 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/09-18-16JSTheShrewdManager.mp3",
+      "served_path": "/wp-content/uploads/2015/12/09-18-16JSTheShrewdManager.mp3",
+      "extension": "mp3",
+      "size_bytes": 9199460,
+      "size": "8.8 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/11-15-15JSHebrews10.mp3",
+      "served_path": "/wp-content/uploads/2015/12/11-15-15JSHebrews10.mp3",
+      "extension": "mp3",
+      "size_bytes": 27615869,
+      "size": "26.3 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/12-27-15JSTheChallengeofChristmasLight.mp3",
+      "served_path": "/wp-content/uploads/2015/12/12-27-15JSTheChallengeofChristmasLight.mp3",
+      "extension": "mp3",
+      "size_bytes": 24540131,
+      "size": "23.4 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/12-28-14JoshSteeleHolyInnocents.mp3",
+      "served_path": "/wp-content/uploads/2015/12/12-28-14JoshSteeleHolyInnocents.mp3",
+      "extension": "mp3",
+      "size_bytes": 47121604,
+      "size": "44.9 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/Crisis-Sermon-Psalm-13.m4a",
+      "served_path": "/wp-content/uploads/2015/12/Crisis-Sermon-Psalm-13.m4a",
+      "extension": "m4a",
+      "size_bytes": 11788112,
+      "size": "11.2 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/Joshua-Steele-Psalm-32-Sermon-Exegesis-of-Psalms-Dr.-Ross.m4a",
+      "served_path": "/wp-content/uploads/2015/12/Joshua-Steele-Psalm-32-Sermon-Exegesis-of-Psalms-Dr.-Ross.m4a",
+      "extension": "m4a",
+      "size_bytes": 15827068,
+      "size": "15.1 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/Psalm-32.m4a",
+      "served_path": "/wp-content/uploads/2015/12/Psalm-32.m4a",
+      "extension": "m4a",
+      "size_bytes": 7353159,
+      "size": "7.0 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf",
+      "served_path": "/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf",
+      "extension": "pdf",
+      "size_bytes": 458783,
+      "size": "448.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 84,
+          "matched": "/wp-content/uploads/2015/12/SERMON-Investment-Advice-from-the-Dishonest-Manager-Luke-16.1-13.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/Wedding-Sermon-Audio.m4a",
+      "served_path": "/wp-content/uploads/2015/12/Wedding-Sermon-Audio.m4a",
+      "extension": "m4a",
+      "size_bytes": 4276748,
+      "size": "4.1 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/faithful-faith-in-a-faithful-god-romans-1.pdf",
+      "served_path": "/wp-content/uploads/2015/12/faithful-faith-in-a-faithful-god-romans-1.pdf",
+      "extension": "pdf",
+      "size_bytes": 350201,
+      "size": "342.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 148,
+          "matched": "/wp-content/uploads/2015/12/faithful-faith-in-a-faithful-god-romans-1.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/following-the-cross-shaped-god-philippians-21.pdf",
+      "served_path": "/wp-content/uploads/2015/12/following-the-cross-shaped-god-philippians-21.pdf",
+      "extension": "pdf",
+      "size_bytes": 590785,
+      "size": "576.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 164,
+          "matched": "/wp-content/uploads/2015/12/following-the-cross-shaped-god-philippians-21.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/god-our-help1.pdf",
+      "served_path": "/wp-content/uploads/2015/12/god-our-help1.pdf",
+      "extension": "pdf",
+      "size_bytes": 334620,
+      "size": "326.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 176,
+          "matched": "/wp-content/uploads/2015/12/god-our-help1.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf",
+      "served_path": "/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf",
+      "extension": "pdf",
+      "size_bytes": 268706,
+      "size": "262.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/the-hope-of-the-holy-innocents.md",
+          "line": 20,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf"
+        },
+        {
+          "source": "content/pages/sermons.md",
+          "line": 170,
+          "matched": "/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/jesus-is-not-just-one-of-us-mark-61.pdf",
+      "served_path": "/wp-content/uploads/2015/12/jesus-is-not-just-one-of-us-mark-61.pdf",
+      "extension": "pdf",
+      "size_bytes": 356799,
+      "size": "348.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 158,
+          "matched": "/wp-content/uploads/2015/12/jesus-is-not-just-one-of-us-mark-61.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2015/12/repetition-and-redemption-hebrews-101.pdf",
+      "served_path": "/wp-content/uploads/2015/12/repetition-and-redemption-hebrews-101.pdf",
+      "extension": "pdf",
+      "size_bytes": 505502,
+      "size": "493.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 138,
+          "matched": "/wp-content/uploads/2015/12/repetition-and-redemption-hebrews-101.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf",
+      "served_path": "/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf",
+      "extension": "pdf",
+      "size_bytes": 465857,
+      "size": "454.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/sermon-the-challenge-of-christmas-light.md",
+          "line": 23,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf"
+        },
+        {
+          "source": "content/pages/sermons.md",
+          "line": 132,
+          "matched": "/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/03/steele-crisis-sermon-psalm-13.pdf",
+      "served_path": "/wp-content/uploads/2016/03/steele-crisis-sermon-psalm-13.pdf",
+      "extension": "pdf",
+      "size_bytes": 449751,
+      "size": "439.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 108,
+          "matched": "/wp-content/uploads/2016/03/steele-crisis-sermon-psalm-13.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/03/steele-lenten-sermon-psalm-32.pdf",
+      "served_path": "/wp-content/uploads/2016/03/steele-lenten-sermon-psalm-32.pdf",
+      "extension": "pdf",
+      "size_bytes": 471869,
+      "size": "460.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 124,
+          "matched": "/wp-content/uploads/2016/03/steele-lenten-sermon-psalm-32.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/03/steele-psalm-32-exegetical-paper.pdf",
+      "served_path": "/wp-content/uploads/2016/03/steele-psalm-32-exegetical-paper.pdf",
+      "extension": "pdf",
+      "size_bytes": 782775,
+      "size": "764.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 116,
+          "matched": "/wp-content/uploads/2016/03/steele-psalm-32-exegetical-paper.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf",
+      "served_path": "/wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf",
+      "extension": "pdf",
+      "size_bytes": 387263,
+      "size": "378.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 92,
+          "matched": "/wp-content/uploads/2016/03/the-grooms-big-day-sermon-manuscript.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 14599,
+      "size": "14.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
+          "line": 21,
+          "matched": "/wp-content/uploads/2016/05/IMG_0472-e1464220672909-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0492-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0492-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 12856,
+      "size": "12.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 20,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0492-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0493-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0493-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 9927,
+      "size": "9.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 17,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0493-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0494-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0494-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 12232,
+      "size": "11.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 23,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0494-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0495-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0495-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 14349,
+      "size": "14.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 29,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0495-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0496-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0496-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 12633,
+      "size": "12.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 35,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0496-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0499-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0499-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 13169,
+      "size": "12.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 32,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0499-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/IMG_0500-300x225.jpg",
+      "served_path": "/wp-content/uploads/2016/05/IMG_0500-300x225.jpg",
+      "extension": "jpg",
+      "size_bytes": 14584,
+      "size": "14.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/what-im-reading.md",
+          "line": 26,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/IMG_0500-300x225.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/img_0502-225x300.jpg",
+      "served_path": "/wp-content/uploads/2016/05/img_0502-225x300.jpg",
+      "extension": "jpg",
+      "size_bytes": 5316,
+      "size": "5.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/lets-take-seth-godin-to-church.md",
+          "line": 15,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/img_0502.jpg",
+      "served_path": "/wp-content/uploads/2016/05/img_0502.jpg",
+      "extension": "jpg",
+      "size_bytes": 141066,
+      "size": "137.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/lets-take-seth-godin-to-church.md",
+          "line": 15,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/05/pablo-10-300x300.png",
+      "served_path": "/wp-content/uploads/2016/05/pablo-10-300x300.png",
+      "extension": "png",
+      "size_bytes": 123969,
+      "size": "121.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/thank-god-i-went-to-cedarville.md",
+          "line": 23,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg",
+      "served_path": "/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg",
+      "extension": "jpg",
+      "size_bytes": 3927,
+      "size": "3.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
+          "line": 81,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/ASCENSION-SERMON-2017-05-28.docx",
+      "served_path": "/wp-content/uploads/2016/12/ASCENSION-SERMON-2017-05-28.docx",
+      "extension": "docx",
+      "size_bytes": 132089,
+      "size": "129.0 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/ASCENSION-SERMON-MANUSCRIPT-2017-05-28.docx",
+      "served_path": "/wp-content/uploads/2016/12/ASCENSION-SERMON-MANUSCRIPT-2017-05-28.docx",
+      "extension": "docx",
+      "size_bytes": 144989,
+      "size": "141.6 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/ASCENSION-SERMON-MANUSCRIPT-PDF-2017-05-28.pdf",
+      "served_path": "/wp-content/uploads/2016/12/ASCENSION-SERMON-MANUSCRIPT-PDF-2017-05-28.pdf",
+      "extension": "pdf",
+      "size_bytes": 139579,
+      "size": "136.3 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf",
+      "served_path": "/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf",
+      "extension": "pdf",
+      "size_bytes": 337312,
+      "size": "329.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 30,
+          "matched": "/wp-content/uploads/2016/12/A_Crucicentric_Credo.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf",
+      "extension": "pdf",
+      "size_bytes": 193000,
+      "size": "188.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 38,
+          "matched": "/wp-content/uploads/2016/12/Creation_and_Doxology_A_Portrait_of_Bibl.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
+      "served_path": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf",
+      "extension": "pdf",
+      "size_bytes": 439779,
+      "size": "429.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/cv.md",
+          "line": 223,
+          "matched": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
+        },
+        {
+          "source": "content/pages/essays.md",
+          "line": 32,
+          "matched": "/wp-content/uploads/2016/12/DISUNITY_AS_ECCLESIOLOGICAL_IMPOSSIBILIT-1.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Disunity_as_Ecclesiological_Impossibilit-2.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Disunity_as_Ecclesiological_Impossibilit-2.pdf",
+      "extension": "pdf",
+      "size_bytes": 439359,
+      "size": "429.1 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf",
+      "extension": "pdf",
+      "size_bytes": 152421,
+      "size": "148.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 39,
+          "matched": "/wp-content/uploads/2016/12/Exposition_Paper_Deuteronomy_6_1-15.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf",
+      "extension": "pdf",
+      "size_bytes": 212135,
+      "size": "207.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 41,
+          "matched": "/wp-content/uploads/2016/12/Exposition_Paper_Micah_6_1-16.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/HANDOUT-Class-Presentation-OUR-TRANSFORMATION-AND-WORSHIP-IN-GLORY.pdf",
+      "served_path": "/wp-content/uploads/2016/12/HANDOUT-Class-Presentation-OUR-TRANSFORMATION-AND-WORSHIP-IN-GLORY.pdf",
+      "extension": "pdf",
+      "size_bytes": 641458,
+      "size": "626.4 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf",
+      "extension": "pdf",
+      "size_bytes": 679907,
+      "size": "664.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 44,
+          "matched": "/wp-content/uploads/2016/12/Hebrews_10_19-25.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/On_Scripture.pdf",
+      "served_path": "/wp-content/uploads/2016/12/On_Scripture.pdf",
+      "extension": "pdf",
+      "size_bytes": 103172,
+      "size": "100.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 33,
+          "matched": "/wp-content/uploads/2016/12/On_Scripture.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf",
+      "extension": "pdf",
+      "size_bytes": 304824,
+      "size": "297.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/cv.md",
+          "line": 228,
+          "matched": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton-1.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf",
+      "extension": "pdf",
+      "size_bytes": 267001,
+      "size": "260.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god.md",
+          "line": 18,
+          "matched": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
+        },
+        {
+          "source": "content/blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+          "line": 32,
+          "matched": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
+        },
+        {
+          "source": "content/blog/my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof.md",
+          "line": 24,
+          "matched": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
+        },
+        {
+          "source": "content/pages/essays.md",
+          "line": 37,
+          "matched": "/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf",
+      "served_path": "/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf",
+      "extension": "pdf",
+      "size_bytes": 695789,
+      "size": "679.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 42,
+          "matched": "/wp-content/uploads/2016/12/Romans_13_1-7_-_A_Contextually-Appropria.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/STEELE-Anglican-History-and-Doctrine-Final-Faithful-Anglican-Developments-LATEST-DRAFT.pdf",
+      "served_path": "/wp-content/uploads/2016/12/STEELE-Anglican-History-and-Doctrine-Final-Faithful-Anglican-Developments-LATEST-DRAFT.pdf",
+      "extension": "pdf",
+      "size_bytes": 429536,
+      "size": "419.5 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/STEELE-Ecclesiology-and-Worship-Final-Project.pdf",
+      "served_path": "/wp-content/uploads/2016/12/STEELE-Ecclesiology-and-Worship-Final-Project.pdf",
+      "extension": "pdf",
+      "size_bytes": 1198179,
+      "size": "1.1 MiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf",
+      "served_path": "/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf",
+      "extension": "pdf",
+      "size_bytes": 150478,
+      "size": "147.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 43,
+          "matched": "/wp-content/uploads/2016/12/The_Argument_Story_of_Romans.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
+      "served_path": "/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf",
+      "extension": "pdf",
+      "size_bytes": 626546,
+      "size": "611.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion.md",
+          "line": 29,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
+        },
+        {
+          "source": "content/pages/essays.md",
+          "line": 29,
+          "matched": "/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf",
+      "served_path": "/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf",
+      "extension": "pdf",
+      "size_bytes": 367621,
+      "size": "359.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 31,
+          "matched": "/wp-content/uploads/2016/12/What_Does_It_Mean_To_Be_Human_Divided_De.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf",
+      "served_path": "/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf",
+      "extension": "pdf",
+      "size_bytes": 159801,
+      "size": "156.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/essays.md",
+          "line": 40,
+          "matched": "/wp-content/uploads/2016/12/YAHWEHS_RIB_AGAINST_ISRAEL_GERICHTSREDE.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3",
+      "served_path": "/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3",
+      "extension": "mp3",
+      "size_bytes": 19491761,
+      "size": "18.6 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+          "line": 17,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf",
+      "served_path": "/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf",
+      "extension": "pdf",
+      "size_bytes": 665559,
+      "size": "650.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
+          "line": 19,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/02/STEELE-Anglican-History-and-Doctrine-Midterm-Middle-Way-is-Still-a-Way.pdf",
+      "served_path": "/wp-content/uploads/2017/02/STEELE-Anglican-History-and-Doctrine-Midterm-Middle-Way-is-Still-a-Way.pdf",
+      "extension": "pdf",
+      "size_bytes": 573561,
+      "size": "560.1 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/04-13-17JS.mp3",
+      "served_path": "/wp-content/uploads/2017/04/04-13-17JS.mp3",
+      "extension": "mp3",
+      "size_bytes": 14392340,
+      "size": "13.7 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 14,
+          "matched": "/wp-content/uploads/2017/04/04-13-17JS.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide10-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide10-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 2408,
+      "size": "2.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 25,
+          "matched": "/wp-content/uploads/2017/04/Slide10-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide11-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide11-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 1867,
+      "size": "1.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 24,
+          "matched": "/wp-content/uploads/2017/04/Slide11-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide12-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide12-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 1763,
+      "size": "1.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 33,
+          "matched": "/wp-content/uploads/2017/04/Slide12-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide2-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide2-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 816,
+      "size": "816 B",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 23,
+          "matched": "/wp-content/uploads/2017/04/Slide2-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide3-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide3-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 2503,
+      "size": "2.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 32,
+          "matched": "/wp-content/uploads/2017/04/Slide3-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide4-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide4-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 2467,
+      "size": "2.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 31,
+          "matched": "/wp-content/uploads/2017/04/Slide4-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide5-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide5-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 1494,
+      "size": "1.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 30,
+          "matched": "/wp-content/uploads/2017/04/Slide5-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide6-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide6-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 3134,
+      "size": "3.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 29,
+          "matched": "/wp-content/uploads/2017/04/Slide6-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide7-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide7-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 1971,
+      "size": "1.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 28,
+          "matched": "/wp-content/uploads/2017/04/Slide7-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide8-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide8-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 2157,
+      "size": "2.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 27,
+          "matched": "/wp-content/uploads/2017/04/Slide8-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/04/Slide9-150x150.jpg",
+      "served_path": "/wp-content/uploads/2017/04/Slide9-150x150.jpg",
+      "extension": "jpg",
+      "size_bytes": 2536,
+      "size": "2.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
+          "line": 26,
+          "matched": "/wp-content/uploads/2017/04/Slide9-150x150.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/06/05-28-17JS.mp3",
+      "served_path": "/wp-content/uploads/2017/06/05-28-17JS.mp3",
+      "extension": "mp3",
+      "size_bytes": 15871511,
+      "size": "15.1 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/it-is-finished-so-get-to-work-an-ascension-sermon.md",
+          "line": 16,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
+      "served_path": "/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf",
+      "extension": "pdf",
+      "size_bytes": 212017,
+      "size": "207.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hermeneutical-implications-scriptures-theological-location.md",
+          "line": 29,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf"
+        },
+        {
+          "source": "content/pages/essays.md",
+          "line": 21,
+          "matched": "/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/01/Bible-Study-Worksheet.docx",
+      "served_path": "/wp-content/uploads/2018/01/Bible-Study-Worksheet.docx",
+      "extension": "docx",
+      "size_bytes": 111940,
+      "size": "109.3 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2018/01/Bible-Study-Worksheet.pdf",
+      "served_path": "/wp-content/uploads/2018/01/Bible-Study-Worksheet.pdf",
+      "extension": "pdf",
+      "size_bytes": 70448,
+      "size": "68.8 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2018/01/HOSEA-11-Worksheet.docx",
+      "served_path": "/wp-content/uploads/2018/01/HOSEA-11-Worksheet.docx",
+      "extension": "docx",
+      "size_bytes": 132201,
+      "size": "129.1 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2018/01/HOSEA-11-Worksheet.pdf",
+      "served_path": "/wp-content/uploads/2018/01/HOSEA-11-Worksheet.pdf",
+      "extension": "pdf",
+      "size_bytes": 47472,
+      "size": "46.4 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg",
+      "served_path": "/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg",
+      "extension": "jpg",
+      "size_bytes": 42729,
+      "size": "41.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/3-confessions-expectant-father.md",
+          "line": 18,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg",
+      "served_path": "/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg",
+      "extension": "jpg",
+      "size_bytes": 54802,
+      "size": "53.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+          "line": 22,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg",
+      "served_path": "/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg",
+      "extension": "jpg",
+      "size_bytes": 47657,
+      "size": "46.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+          "line": 16,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/03/IMG_3663.jpg",
+      "served_path": "/wp-content/uploads/2018/03/IMG_3663.jpg",
+      "extension": "jpg",
+      "size_bytes": 40602,
+      "size": "39.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+          "line": 26,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3663.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/03/IMG_3743.jpg",
+      "served_path": "/wp-content/uploads/2018/03/IMG_3743.jpg",
+      "extension": "jpg",
+      "size_bytes": 62349,
+      "size": "60.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/dangerous-beauty-phoenix-grand-canyon-trip-2018.md",
+          "line": 30,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3743.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4031.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4031.jpg",
+      "extension": "jpg",
+      "size_bytes": 62819,
+      "size": "61.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 42,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4031.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4032.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4032.jpg",
+      "extension": "jpg",
+      "size_bytes": 54560,
+      "size": "53.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 44,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4032.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4033.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4033.jpg",
+      "extension": "jpg",
+      "size_bytes": 60531,
+      "size": "59.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 66,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4033.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4034.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4034.jpg",
+      "extension": "jpg",
+      "size_bytes": 59028,
+      "size": "57.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 68,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4034.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4035.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4035.jpg",
+      "extension": "jpg",
+      "size_bytes": 51937,
+      "size": "50.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 82,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4035.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4036.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4036.jpg",
+      "extension": "jpg",
+      "size_bytes": 46996,
+      "size": "45.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 54,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4036.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/06/IMG_4037.jpg",
+      "served_path": "/wp-content/uploads/2018/06/IMG_4037.jpg",
+      "extension": "jpg",
+      "size_bytes": 87689,
+      "size": "85.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/hate-running-try-rucking-instead.md",
+          "line": 56,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4037.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg",
+      "served_path": "/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg",
+      "extension": "jpg",
+      "size_bytes": 24650,
+      "size": "24.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/eva-joy-steele-a-birth-story.md",
+          "line": 118,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/08/Cook-Catheter.jpg",
+      "served_path": "/wp-content/uploads/2018/08/Cook-Catheter.jpg",
+      "extension": "jpg",
+      "size_bytes": 6192,
+      "size": "6.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/eva-joy-steele-a-birth-story.md",
+          "line": 114,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg",
+      "served_path": "/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 32897,
+      "size": "32.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/eva-joy-steele-a-birth-story.md",
+          "line": 314,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/10/The-Life-of-Jesus-HANDOUT.docx",
+      "served_path": "/wp-content/uploads/2018/10/The-Life-of-Jesus-HANDOUT.docx",
+      "extension": "docx",
+      "size_bytes": 31184,
+      "size": "30.5 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+      "served_path": "/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx",
+      "extension": "docx",
+      "size_bytes": 33229,
+      "size": "32.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/justification-and-sanctification.md",
+          "line": 20,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.docx"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf",
+      "served_path": "/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf",
+      "extension": "pdf",
+      "size_bytes": 1653675,
+      "size": "1.6 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/justification-and-sanctification.md",
+          "line": 18,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2018/11/19.-Justification-and-Sanctification.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png",
+      "served_path": "/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png",
+      "extension": "png",
+      "size_bytes": 235900,
+      "size": "230.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+          "line": 36,
+          "matched": "/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png",
+      "served_path": "/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png",
+      "extension": "png",
+      "size_bytes": 491730,
+      "size": "480.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+          "line": 38,
+          "matched": "/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png",
+      "served_path": "/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png",
+      "extension": "png",
+      "size_bytes": 1202673,
+      "size": "1.1 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/into-the-far-country.md",
+          "line": 13,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/04/img_0297.jpg",
+      "served_path": "/wp-content/uploads/2019/04/img_0297.jpg",
+      "extension": "jpg",
+      "size_bytes": 51888,
+      "size": "50.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/only-the-suffering-god-can-help.md",
+          "line": 14,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf",
+      "served_path": "/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf",
+      "extension": "pdf",
+      "size_bytes": 211015,
+      "size": "206.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
+          "line": 18,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf",
+      "served_path": "/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf",
+      "extension": "pdf",
+      "size_bytes": 237412,
+      "size": "231.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
+          "line": 14,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png",
+      "served_path": "/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png",
+      "extension": "png",
+      "size_bytes": 227504,
+      "size": "222.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+          "line": 14,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
+      "served_path": "/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf",
+      "extension": "pdf",
+      "size_bytes": 800922,
+      "size": "782.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/an-outline-of-karl-barths-church-dogmatics.md",
+          "line": 18,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
+      "served_path": "/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf",
+      "extension": "pdf",
+      "size_bytes": 3970399,
+      "size": "3.8 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks.md",
+          "line": 20,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg",
+      "served_path": "/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg",
+      "extension": "jpeg",
+      "size_bytes": 33807,
+      "size": "33.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/with-baby-2-on-the-way-im-looking-for-work.md",
+          "line": 25,
+          "matched": "/wp-content/uploads/2019/11/624D6A25-2774-4BE3-BE83-61358C989530_1_105_c.jpeg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png",
+      "served_path": "/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png",
+      "extension": "png",
+      "size_bytes": 2320009,
+      "size": "2.2 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/true-christianity-cannot-be-a-private-christianity-barth.md",
+          "line": 12,
+          "matched": "/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/STE-016.mp3",
+      "served_path": "/wp-content/uploads/2019/11/STE-016.mp3",
+      "extension": "mp3",
+      "size_bytes": 23886733,
+      "size": "22.8 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 52,
+          "matched": "/wp-content/uploads/2019/11/STE-016.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png",
+      "served_path": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png",
+      "extension": "png",
+      "size_bytes": 66499,
+      "size": "64.9 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+          "line": 19,
+          "matched": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.31.49-AM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png",
+      "served_path": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png",
+      "extension": "png",
+      "size_bytes": 65775,
+      "size": "64.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+          "line": 21,
+          "matched": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.26-AM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png",
+      "served_path": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png",
+      "extension": "png",
+      "size_bytes": 27050,
+      "size": "26.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+          "line": 23,
+          "matched": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.32.44-AM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png",
+      "served_path": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png",
+      "extension": "png",
+      "size_bytes": 293451,
+      "size": "286.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+          "line": 27,
+          "matched": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.33-AM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png",
+      "served_path": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png",
+      "extension": "png",
+      "size_bytes": 321791,
+      "size": "314.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+          "line": 29,
+          "matched": "/wp-content/uploads/2019/11/Screen-Shot-2019-11-12-at-9.56.54-AM.png"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/sermon-06-01-19.mp3",
+      "served_path": "/wp-content/uploads/2019/11/sermon-06-01-19.mp3",
+      "extension": "mp3",
+      "size_bytes": 18785338,
+      "size": "17.9 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 40,
+          "matched": "/wp-content/uploads/2019/11/sermon-06-01-19.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/sermon-09-14-19.mp3",
+      "served_path": "/wp-content/uploads/2019/11/sermon-09-14-19.mp3",
+      "extension": "mp3",
+      "size_bytes": 18587410,
+      "size": "17.7 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 34,
+          "matched": "/wp-content/uploads/2019/11/sermon-09-14-19.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2019/11/sermon-12-08-18.mp3",
+      "served_path": "/wp-content/uploads/2019/11/sermon-12-08-18.mp3",
+      "extension": "mp3",
+      "size_bytes": 17342426,
+      "size": "16.5 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 46,
+          "matched": "/wp-content/uploads/2019/11/sermon-12-08-18.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2020/02/Pages-from-Delgado-Doody-and-Paffenroth-\u2013-Augustine-and-Social-Justice.pdf",
+      "served_path": "/wp-content/uploads/2020/02/Pages-from-Delgado-Doody-and-Paffenroth-\u2013-Augustine-and-Social-Justice.pdf",
+      "extension": "pdf",
+      "size_bytes": 150828,
+      "size": "147.3 KiB",
+      "referenced": false,
+      "references": []
+    },
+    {
+      "path": "static/wp-content/uploads/2020/03/56-Occasional-Prayers.docx",
+      "served_path": "/wp-content/uploads/2020/03/56-Occasional-Prayers.docx",
+      "extension": "docx",
+      "size_bytes": 50705,
+      "size": "49.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/12-prayers-for-tough-days.md",
+          "line": 17,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf",
+      "served_path": "/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf",
+      "extension": "pdf",
+      "size_bytes": 80638,
+      "size": "78.7 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
+          "line": 93,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf",
+      "served_path": "/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf",
+      "extension": "pdf",
+      "size_bytes": 87147,
+      "size": "85.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
+          "line": 73,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2020/07/Sermon060620.mp3",
+      "served_path": "/wp-content/uploads/2020/07/Sermon060620.mp3",
+      "extension": "mp3",
+      "size_bytes": 16229603,
+      "size": "15.5 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/pages/sermons.md",
+          "line": 28,
+          "matched": "/wp-content/uploads/2020/07/Sermon060620.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2020/12/Sermon112820.mp3",
+      "served_path": "/wp-content/uploads/2020/12/Sermon112820.mp3",
+      "extension": "mp3",
+      "size_bytes": 15093155,
+      "size": "14.4 MiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md",
+          "line": 16,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2020/12/Sermon112820.mp3"
+        },
+        {
+          "source": "content/pages/sermons.md",
+          "line": 20,
+          "matched": "/wp-content/uploads/2020/12/Sermon112820.mp3"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+      "served_path": "/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv",
+      "extension": "csv",
+      "size_bytes": 220128,
+      "size": "215.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+          "line": 201,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2022/08/ACNA-Clergy-Sign-the-Anti-Racism-Letter_2022-08-15.csv"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+      "served_path": "/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv",
+      "extension": "csv",
+      "size_bytes": 214844,
+      "size": "209.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/anti-racism-letter-to-fellow-acna-clergy.md",
+          "line": 207,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2022/08/Not-ACNA-Clergy-Sign-the-Anti-Racism-Letter-Here_2022-08-15.csv"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg",
+      "served_path": "/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg",
+      "extension": "jpeg",
+      "size_bytes": 4705,
+      "size": "4.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/home-gym-upgrades.md",
+          "line": 30,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/03/1875C5E6-A076-47DC-B938-7E3BF3CCB14F_1_105_c-225x300.jpeg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg",
+      "served_path": "/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg",
+      "extension": "jpeg",
+      "size_bytes": 4695,
+      "size": "4.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/home-gym-upgrades.md",
+          "line": 32,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/03/335E5B22-71CB-4002-B957-128C0EBE0BBA_1_105_c-225x300.jpeg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg",
+      "served_path": "/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg",
+      "extension": "jpg",
+      "size_bytes": 54554,
+      "size": "53.3 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/death-in-his-grave.md",
+          "line": 21,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/03/8386667037_5ea61844da_o.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg",
+      "served_path": "/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg",
+      "extension": "jpeg",
+      "size_bytes": 3263,
+      "size": "3.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/home-gym-upgrades.md",
+          "line": 28,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/03/88604851-219F-4B94-9407-A6F57BA76469_1_105_c-225x300.jpeg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 28122,
+      "size": "27.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 32,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 30880,
+      "size": "30.2 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 34,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 42504,
+      "size": "41.5 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 36,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 30343,
+      "size": "29.6 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 38,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 29675,
+      "size": "29.0 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 40,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 30866,
+      "size": "30.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 42,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 32882,
+      "size": "32.1 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 44,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 28440,
+      "size": "27.8 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 46,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg",
+      "served_path": "/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg",
+      "extension": "jpg",
+      "size_bytes": 27019,
+      "size": "26.4 KiB",
+      "referenced": true,
+      "references": [
+        {
+          "source": "content/blog/finding-a-hat-for-my-big-bald-head.md",
+          "line": 48,
+          "matched": "https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg"
+        }
+      ]
+    },
+    {
+      "path": "static/wp-content/uploads/2024/05/Corinthians-Chapters_Discovering-Biblical-Equality-Third-Edition.pdf",
+      "served_path": "/wp-content/uploads/2024/05/Corinthians-Chapters_Discovering-Biblical-Equality-Third-Edition.pdf",
+      "extension": "pdf",
+      "size_bytes": 4299567,
+      "size": "4.1 MiB",
+      "referenced": false,
+      "references": []
+    }
+  ]
+}

@@ -20,12 +20,13 @@ _No open medium-priority items._
 
 ### Low priority / when convenient
 
-- [ ] **Audit static/wp-content/ for orphaned legacy media.** Use `scripts/cleanup_images.sh` (dangerous — run only after verifying no content references the files).
+- [ ] **Review orphaned legacy media candidates before deletion.** `docs/AUDIT-static-wp-content.md` identifies 32 orphan candidates. Do not run `scripts/cleanup_images.sh` as-is; it would remove files still referenced by site content.
 
 ---
 
 ## Completed (since last audit)
 
+- [x] **Audited `static/wp-content/` legacy media (2026-05-21).** Added a non-destructive audit script and generated `docs/AUDIT-static-wp-content.md` plus `scripts/data/audit-static-wp-content.json`. Current pass found 151 files / 391.7 MiB: 119 referenced by site sources, 32 orphan candidates. No media was deleted, and `scripts/cleanup_images.sh` was not run because it would remove the entire directory despite live references.
 - [x] **Re-ran external link check (2026-05-21).** Updated `docs/AUDIT-06-external-links.md` and `scripts/data/audit-external-links.json`. Current pass found 2003 external links across 283 files: 1689 working, 314 broken/error, 0 timeouts.
 - [x] **Resolved PaperMod deprecation warnings locally (2026-05-21).** Added project overrides for `layouts/_default/baseof.html` and `layouts/_default/rss.xml`, replacing deprecated `.Language.LanguageDirection` and `.Language.LanguageCode` usage without editing `themes/`. `npm run build` now passes without deprecation warnings.
 - [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). `python3 scripts/audit-frontmatter.py` now reports 166 distinct tags, below the 175 maintenance target.
