@@ -1,10 +1,13 @@
 import os
 import re
-import requests
 import time
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
+from datetime import date
+from pathlib import Path
+from urllib.error import HTTPError, URLError
+from urllib.request import Request, urlopen
 
 def extract_external_links(content_dir):
     """Extract all external HTTP(S) links from markdown files"""
@@ -44,24 +47,33 @@ def extract_external_links(content_dir):
 
 def check_url(url, timeout=10):
     """Check if a URL is accessible"""
+    headers = {'User-Agent': 'Mozilla/5.0 (compatible; LinkChecker/1.0)'}
     try:
-        # Try HEAD first (faster)
-        response = requests.head(url, timeout=timeout, allow_redirects=True,
-                                headers={'User-Agent': 'Mozilla/5.0 (compatible; LinkChecker/1.0)'})
-        
-        # Some servers don't support HEAD, try GET if HEAD fails
-        if response.status_code >= 400:
-            response = requests.get(url, timeout=timeout, allow_redirects=True,
-                                   headers={'User-Agent': 'Mozilla/5.0 (compatible; LinkChecker/1.0)'})
-        
-        return url, response.status_code, None
-    except requests.exceptions.Timeout:
+        request = Request(url, method='HEAD', headers=headers)
+        with urlopen(request, timeout=timeout) as response:
+            return url, response.status, None
+    except HTTPError as e:
+        if e.code < 400:
+            return url, e.code, None
+        try:
+            request = Request(url, method='GET', headers=headers)
+            with urlopen(request, timeout=timeout) as response:
+                return url, response.status, None
+        except HTTPError as get_error:
+            return url, get_error.code, None
+        except TimeoutError:
+            return url, None, "Timeout"
+        except URLError as get_error:
+            reason = getattr(get_error, 'reason', get_error)
+            return url, None, str(reason)[:100]
+        except Exception as get_error:
+            return url, None, str(get_error)[:100]
+    except TimeoutError:
         return url, None, "Timeout"
-    except requests.exceptions.ConnectionError:
-        return url, None, "Connection error"
-    except requests.exceptions.TooManyRedirects:
-        return url, None, "Too many redirects"
-    except requests.exceptions.RequestException as e:
+    except URLError as e:
+        reason = getattr(e, 'reason', e)
+        return url, None, str(reason)[:100]
+    except Exception as e:
         return url, None, str(e)[:100]
 
 def check_links_parallel(links, max_workers=10):
@@ -155,10 +167,15 @@ if __name__ == "__main__":
                 })
     
     # Generate markdown report
-    with open('AUDIT-06-external-links.md', 'w') as f:
+    report_path = Path('docs/AUDIT-06-external-links.md')
+    data_path = Path('scripts/data/audit-external-links.json')
+    report_path.parent.mkdir(parents=True, exist_ok=True)
+    data_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with report_path.open('w') as f:
         f.write('# External Links Audit Report\n')
         f.write('## joshuapsteele.com Hugo Site\n\n')
-        f.write('**Audit Date:** October 11, 2025\n')
+        f.write(f'**Audit Date:** {date.today().isoformat()}\n')
         f.write(f'**Total Files Analyzed:** {len(external_links)}\n\n')
         f.write('---\n\n')
         
@@ -248,11 +265,11 @@ if __name__ == "__main__":
         'timeout_details': timeout_links
     }
     
-    with open('audit-external-links.json', 'w') as f:
+    with data_path.open('w') as f:
         json.dump(json_data, f, indent=2)
     
-    print(f"\n✅ Report saved: AUDIT-06-external-links.md")
-    print(f"✅ Data saved: audit-external-links.json")
+    print(f"\n✅ Report saved: {report_path}")
+    print(f"✅ Data saved: {data_path}")
     print(f"\nResults:")
     print(f"  Working links: {len(working_links)}")
     print(f"  Broken links: {len(broken_links)}")
@@ -265,4 +282,3 @@ if __name__ == "__main__":
             file_counts[item['file']] += 1
         for filepath, count in sorted(file_counts.items(), key=lambda x: x[1], reverse=True)[:10]:
             print(f"  - {filepath} ({count} broken links)")
-

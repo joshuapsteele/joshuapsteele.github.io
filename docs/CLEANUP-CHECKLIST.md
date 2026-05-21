@@ -22,12 +22,11 @@ _No open medium-priority items._
 
 - [ ] **Audit static/wp-content/ for orphaned legacy media.** Use `scripts/cleanup_images.sh` (dangerous — run only after verifying no content references the files).
 
-- [ ] **Re-run external link check.** `docs/AUDIT-06-external-links.md` is the prior inventory (March 2025). Run `python3 scripts/check-external-links.py` for a fresh pass when time allows.
-
 ---
 
 ## Completed (since last audit)
 
+- [x] **Re-ran external link check (2026-05-21).** Updated `docs/AUDIT-06-external-links.md` and `scripts/data/audit-external-links.json`. Current pass found 2003 external links across 283 files: 1689 working, 314 broken/error, 0 timeouts.
 - [x] **Resolved PaperMod deprecation warnings locally (2026-05-21).** Added project overrides for `layouts/_default/baseof.html` and `layouts/_default/rss.xml`, replacing deprecated `.Language.LanguageDirection` and `.Language.LanguageCode` usage without editing `themes/`. `npm run build` now passes without deprecation warnings.
 - [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). `python3 scripts/audit-frontmatter.py` now reports 166 distinct tags, below the 175 maintenance target.
 - [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized the remaining uncategorized blog posts. `python3 scripts/audit-frontmatter.py` now reports 0 posts missing categories, tags, descriptions, URLs, or dates.
