@@ -20,8 +20,6 @@ _No open medium-priority items._
 
 ### Low priority / when convenient
 
-- [ ] **Track PaperMod deprecation warnings.** `.Language.LanguageDirection` and `.Language.LanguageCode` are deprecated since Hugo 0.158.0 and used in the PaperMod theme. Watch PaperMod releases; file an upstream issue if needed.
-
 - [ ] **Audit static/wp-content/ for orphaned legacy media.** Use `scripts/cleanup_images.sh` (dangerous — run only after verifying no content references the files).
 
 - [ ] **Re-run external link check.** `docs/AUDIT-06-external-links.md` is the prior inventory (March 2025). Run `python3 scripts/check-external-links.py` for a fresh pass when time allows.
@@ -30,6 +28,7 @@ _No open medium-priority items._
 
 ## Completed (since last audit)
 
+- [x] **Resolved PaperMod deprecation warnings locally (2026-05-21).** Added project overrides for `layouts/_default/baseof.html` and `layouts/_default/rss.xml`, replacing deprecated `.Language.LanguageDirection` and `.Language.LanguageCode` usage without editing `themes/`. `npm run build` now passes without deprecation warnings.
 - [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). `python3 scripts/audit-frontmatter.py` now reports 166 distinct tags, below the 175 maintenance target.
 - [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized the remaining uncategorized blog posts. `python3 scripts/audit-frontmatter.py` now reports 0 posts missing categories, tags, descriptions, URLs, or dates.
 - [x] **Removed stale draft smoke-test post (2026-05-21).** `content/blog/drafts-action-smoke-test.md` was deleted by the user; the front matter audit now reports 0 draft blog posts.
