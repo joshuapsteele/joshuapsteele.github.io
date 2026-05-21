@@ -6,6 +6,9 @@ categories:
 - personal
 - productivity
 description: Do you know what the worst thing about ***death*** is. It’s not the dying itself – its the **separation**.
+tags:
+  - death
+  - purpose
 url: /how-do-you-want-to-be-remembered/
 ---
 Do you know what the worst thing about ***death*** is?

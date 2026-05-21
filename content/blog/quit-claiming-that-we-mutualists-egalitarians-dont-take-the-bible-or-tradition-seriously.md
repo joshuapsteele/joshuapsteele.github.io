@@ -6,6 +6,11 @@ description: Challenging the false claim that mutualists ignore Scripture and tr
   in women's ordination debates.
 title: Quit claiming that we mutualists (egalitarians) don't take the Bible or tradition
   seriously.
+tags:
+  - womens-ordination
+  - bible
+  - anglican
+  - theology
 url: /quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously/
 ---
 

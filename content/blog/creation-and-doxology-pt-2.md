@@ -5,6 +5,10 @@ date: '2012-09-17T20:19:17Z'
 description: Exploring the overlooked role of complexity and chaos in God's good creation
   before sin's entrance in Genesis 3.
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 2)'
+tags:
+  - bible
+  - theology
+  - creation
 url: /creation-and-doxology-pt-2/
 ---
 

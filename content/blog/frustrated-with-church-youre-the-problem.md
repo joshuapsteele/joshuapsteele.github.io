@@ -5,6 +5,9 @@ date: '2016-06-11T17:24:37Z'
 description: Yesterday, I asked you to join the Church if you, like me, are frustrated
   with the Church.
 title: Frustrated with Church? You're the Problem!
+tags:
+  - church
+  - ecclesiology
 url: /frustrated-with-church-youre-the-problem/
 ---
 

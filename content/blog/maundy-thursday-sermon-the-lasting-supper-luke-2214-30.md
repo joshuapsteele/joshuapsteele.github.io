@@ -5,6 +5,9 @@ date: '2017-04-13T19:44:07Z'
 description: There is something special about last meals, isn’t there. I’d like to
   show you a series of photographs.
 title: The Lasting Supper – Luke 22:14-30
+tags:
+  - sermons
+  - holy-week
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
 ---
 

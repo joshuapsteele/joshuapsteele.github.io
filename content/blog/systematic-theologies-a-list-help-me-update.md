@@ -5,6 +5,10 @@ date: '2018-09-19T15:10:18Z'
 description: A curated list of systematic theology works, compiled from Glynn's Commentary
   and Reference Survey—help me keep it updated!
 title: 'Systematic Theologies: A List (Help Me Update!)'
+tags:
+  - theology
+  - list
+  - books
 url: /systematic-theologies-a-list-help-me-update/
 ---
 

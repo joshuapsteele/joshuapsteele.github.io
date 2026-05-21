@@ -5,6 +5,10 @@ date: '2016-07-25T22:18:51Z'
 description: St. James' martyrdom rebukes ministerial ambitions—a sobering homily
   for those who aspire to serve Christ's Church.
 title: 'The Feast of St. James the Apostle: A Homily for Ministers'
+tags:
+  - sermons
+  - ministry
+  - bible
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
 ---
 

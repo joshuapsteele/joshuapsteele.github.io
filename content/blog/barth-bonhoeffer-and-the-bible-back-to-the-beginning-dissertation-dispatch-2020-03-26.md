@@ -6,6 +6,12 @@ description: Perhaps it’s just the global COVID–19 pandemic, but I’ve been
   discouraged about my dissertation lately.
 title: 'Barth, Bonhoeffer, and the Bible: Back to the Beginning (Dissertation Dispatch,
   2020-03-26)'
+tags:
+  - barth
+  - bonhoeffer
+  - bible
+  - research
+  - sermon-on-the-mount
 url: /barth-bonhoeffer-and-the-bible-back-to-the-beginning-dissertation-dispatch-2020-03-26/
 ---
 

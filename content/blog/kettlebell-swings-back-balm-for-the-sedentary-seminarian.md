@@ -4,6 +4,9 @@ categories: productivity
 date: '2016-05-25T23:53:49Z'
 description: Books, however, do not like my back.
 title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
+tags:
+  - fitness
+  - weightlifting
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
 ---
 

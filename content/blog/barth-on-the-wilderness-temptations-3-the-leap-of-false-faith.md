@@ -5,6 +5,10 @@ date: '2015-04-24T09:13:36Z'
 description: I've been reproducingKarl Barth'smagnificent exegesis of Christ's wilderness
   temptations in *Church Dogmatics* IV/1.
 title: 'Barth on the Wilderness Temptations: #3, The Leap of False Faith'
+tags:
+  - barth
+  - bible
+  - lent
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
 ---
 

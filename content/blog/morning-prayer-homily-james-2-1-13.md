@@ -5,6 +5,10 @@ date: '2015-08-31T17:08:22Z'
 description: 'A homily on James 2.1-13 (ESV): > “My brothers, show no partiality as
   you hold the faith in our Lord Jesus Christ,the Lord of glory.'
 title: 'Morning Prayer Homily: James 2.1-13'
+tags:
+  - sermons
+  - bible
+  - book-of-common-prayer
 url: /morning-prayer-homily-james-2-1-13/
 ---
 

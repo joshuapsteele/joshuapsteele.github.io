@@ -5,6 +5,10 @@ date: '2015-04-24T09:13:42Z'
 description: Karl Barth's exegesis of Christ's wilderness temptations isperenniallyinspiring,
   but particularly poignant during this season of Lent.
 title: 'Karl Barth on the Wilderness Temptations: #1, Stones into Bread'
+tags:
+  - barth
+  - bible
+  - lent
 url: /barth-on-the-wilderness-temptations-1-stones-into-bread/
 ---
 

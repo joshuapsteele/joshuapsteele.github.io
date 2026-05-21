@@ -5,6 +5,10 @@ date: '2016-01-10T15:53:45Z'
 description: There are better preachers out there. So, if you’re short on time, go
   and listen to them.
 title: 'Sermon: The Challenge of Christmas Light'
+tags:
+  - sermons
+  - christmas
+  - anglican
 url: /sermon-the-challenge-of-christmas-light/
 ---
 

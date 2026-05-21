@@ -5,6 +5,9 @@ date: '2015-09-22T21:26:20Z'
 description: What a relief , to get out of that house.
 excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
 title: 'The Prodigal Son, Part 2: Introduction to Romans'
+tags:
+  - bible
+  - romans
 url: /the-prodigal-son-part-2-introduction-to-romans/
 ---
 

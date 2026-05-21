@@ -7,6 +7,10 @@ description: 'Miroslav Volf on divine judgment in Exclusion and Embrace: God jud
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Miroslav Volf on Divine Violence
+tags:
+  - theology
+  - books
+  - reconciliation
 url: /volf-on-divine-violence/
 ---
 

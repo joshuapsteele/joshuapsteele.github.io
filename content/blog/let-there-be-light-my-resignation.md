@@ -5,6 +5,10 @@ date: '2013-02-26T16:45:09Z'
 description: Resigning from the Let There Be Light platform to protest Cedarville
   University's troubling institutional changes and leadership decisions.
 title: 'Let There Be Light: My Resignation'
+tags:
+  - college
+  - evangelicalism
+  - cedarville
 url: /let-there-be-light-my-resignation/
 ---
 

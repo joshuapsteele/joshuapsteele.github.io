@@ -4,6 +4,9 @@ categories: theology
 date: '2013-11-04T21:14:47Z'
 description: 'Introduction: The Holy Trinity One God.'
 title: 'The Holy Trinity: What Is It? (Why) Is It Important?'
+tags:
+  - theology
+  - trinity
 url: /holy-trinity/
 ---
 

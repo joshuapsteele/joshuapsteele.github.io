@@ -4,6 +4,9 @@ categories: productivity
 date: '2017-01-31T23:13:18Z'
 description: Have you ever had a problem finding a reliable resource for recommendations.
 title: Is The Well-Equipped Christian Worth It?
+tags:
+  - reviews
+  - recommendations
 url: /is-the-well-equipped-christian-worth-it/
 ---
 

@@ -6,6 +6,12 @@ categories:
 date: 2019-11-02T02:35:27Z
 description: Reflections on the eve of priestly ordination, transitioning from deacon to priest in service of Christ's Church.
 title: A Deacon's Last Day
+tags:
+  - ordination
+  - anglican
+  - ministry
+  - book-of-common-prayer
+  - prayer
 url: /a-deacons-last-day/
 ---
 

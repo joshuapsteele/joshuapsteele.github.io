@@ -6,6 +6,8 @@ categories:
 - personal
 - productivity
 description: In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening.
+tags:
+  - personality
 url: /know-thyself-unveiling-your-unique-strengths-and-personality-traits/
 ---
 In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening. Today, I want to share my insights from various personality paradigms and how they shape my approach to work and life.

@@ -5,6 +5,9 @@ date: '2020-11-10T21:07:25Z'
 description: Just a brief update to note that I’m looking for a new role to supplement
   my part-time work as Managing Editor of Anglican Compass.
 title: I'm looking for a new role to supplement my part-time work for Anglican Compass
+tags:
+  - career
+  - anglican-compass
 url: /im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/
 ---
 

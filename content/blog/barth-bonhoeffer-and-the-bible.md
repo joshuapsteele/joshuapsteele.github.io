@@ -5,6 +5,11 @@ date: '2019-07-08T16:57:05Z'
 description: John Webster’s Idea Like so many others, I desperately wish that John
   Webster were still alive.
 title: Barth, Bonhoeffer, and the Bible
+tags:
+  - barth
+  - bonhoeffer
+  - bible
+  - research
 url: /barth-bonhoeffer-and-the-bible/
 ---
 

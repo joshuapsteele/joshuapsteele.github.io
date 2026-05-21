@@ -6,6 +6,9 @@ categories:
 - personal
 - productivity
 description: Here are 32 things I’ve learned from life, so far. You are not your thoughts.
+tags:
+  - list
+  - purpose
 url: /life-lessons/
 ---
 Here are 32 things I’ve learned from life, so far.

@@ -7,6 +7,11 @@ description: Presented at Southeast ETS 2015. DISUNITY AS ECCLESIOLOGICAL IMPOSS
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Disunity in the Church? Absurd!
+tags:
+  - barth
+  - church-unity
+  - ecclesiology
+  - conferences
 url: /disunity-in-the-church-absurd/
 ---
 

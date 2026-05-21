@@ -6,6 +6,9 @@ description: I’ve been dragging my heels on learning Markdown for awhile now.
 title: A Ridiculously Helpful Markdown Tutorial
 url: /a-ridiculously-helpful-markdown-tutorial/
 tags:
+  - writing
+  - tools
+  - learning
 ---
 
 I’ve been dragging my heels on learning Markdown for awhile now.

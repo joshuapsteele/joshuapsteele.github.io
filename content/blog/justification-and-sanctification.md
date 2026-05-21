@@ -5,6 +5,9 @@ date: '2018-11-09T15:27:48Z'
 description: For my “Pedagogical Experience” requirement at Wheaton, I’m helping to
   teach a masters-level Christian Theology course.
 title: Justification and Sanctification
+tags:
+  - theology
+  - seminary
 url: /justification-and-sanctification/
 ---
 

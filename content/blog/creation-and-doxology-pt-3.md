@@ -5,6 +5,10 @@ date: '2012-09-18T08:08:12Z'
 description: How New Testament theology links creation with redemption through Christ,
   the Creator-Redeemer who brings new creation.
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 3)'
+tags:
+  - bible
+  - theology
+  - creation
 url: /creation-and-doxology-pt-3/
 ---
 

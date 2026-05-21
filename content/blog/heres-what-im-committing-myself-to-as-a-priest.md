@@ -4,6 +4,12 @@ categories: ministry
 date: '2019-10-28T19:57:33Z'
 description: I’m getting ordained to the priesthood* *this Saturday, November 02**.
 title: Here's what I'm committing myself to as a priest.
+tags:
+  - ordination
+  - anglican
+  - book-of-common-prayer
+  - acna
+  - ministry
 url: /heres-what-im-committing-myself-to-as-a-priest/
 ---
 

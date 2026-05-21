@@ -5,6 +5,9 @@ date: '2015-05-23T15:45:26Z'
 description: Listening to the first episode of the excellent new podcast, LectioCast,
   helped to orient my thoughts toward tomorrow’s readings for Pentecost Sunday.
 title: 'Pentecost: Songs and Scripture'
+tags:
+  - bible
+  - music
 url: /pentecost-songs-and-scripture/
 ---
 

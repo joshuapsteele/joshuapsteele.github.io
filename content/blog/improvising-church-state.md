@@ -6,6 +6,10 @@ description: 'INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS From the church’s 
   is the state a promising offer, or a threatening one.'
 title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican and
   Anabaptist Approaches'
+tags:
+  - ecclesiology
+  - anglican
+  - political-theology
 url: /improvising-church-state/
 ---
 

@@ -6,6 +6,10 @@ description: (This post is about my late uncle, Timothy Steele. It’s long, and
   toward the end. Sorry.) --- > “It is better to go to a funeral than a feast.
 publicize_twitter_user: With some added theological reflection on Death and Hope.
 title: My Uncle, Timothy Steele
+tags:
+  - death
+  - grief
+  - family
 url: /20150424my-uncle-timothy-steele/
 ---
 

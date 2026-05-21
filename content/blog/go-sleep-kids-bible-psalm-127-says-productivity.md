@@ -6,6 +6,10 @@ categories:
 date: '2018-02-28T12:51:21Z'
 description: Personal Productivity in Psalm 127 I love Psalm 127.
 title: 'Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity'
+tags:
+  - bible
+  - theology
+  - kids
 url: /go-sleep-kids-bible-psalm-127-says-productivity/
 ---
 

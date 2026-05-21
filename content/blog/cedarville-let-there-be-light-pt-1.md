@@ -5,6 +5,10 @@ date: '2012-09-20T15:07:47Z'
 description: Examining Cedarville's firing of Dr. Michael Pahl over doctrinal statement
   disagreements and what it reveals about institutional integrity.
 title: Cedarville, Let there be Light. (pt. 1)
+tags:
+  - college
+  - evangelicalism
+  - cedarville
 url: /cedarville-let-there-be-light-pt-1/
 ---
 

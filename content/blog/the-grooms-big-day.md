@@ -5,6 +5,10 @@ date: '2016-03-31T16:42:16Z'
 description: Ephesians 5:21-33** – Wives and Husbands 2. Psalm 67** – May God Be Gracious
   to Us and Bless Us 3.
 title: The Groom's Big Day
+tags:
+  - sermons
+  - bible
+  - eschatology
 url: /the-grooms-big-day/
 ---
 

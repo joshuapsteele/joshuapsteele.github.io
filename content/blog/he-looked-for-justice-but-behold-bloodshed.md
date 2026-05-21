@@ -4,7 +4,9 @@ categories: personal
 date: 2025-09-10 17:12:07-04:00
 description: A lament, for a violent world in need of peace.
 draft: false
-tags: null
+tags:
+  - prayer
+  - bible
 title: He Looked for Justice, but Behold, Bloodshed!
 ---
 

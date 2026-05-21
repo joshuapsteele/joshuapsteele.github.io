@@ -4,6 +4,10 @@ categories: personal
 date: '2018-08-09T15:56:09Z'
 description: This is a self-indulgently long story.
 title: 'Eva Joy Steele: A Birth Story'
+tags:
+  - family
+  - kids
+  - parenting
 url: /eva-joy-steele-a-birth-story/
 ---
 

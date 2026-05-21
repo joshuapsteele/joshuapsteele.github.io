@@ -5,6 +5,11 @@ date: '2018-09-28T00:05:20Z'
 description: 'A sermon on Mark 8:27-38 and James 3:1-12: discipleship means controlling
   our tongues as we carry our crosses.'
 title: Take Up Your Tongue and Follow Jesus
+tags:
+  - sermons
+  - discipleship
+  - anglican
+  - bible
 url: /take-up-your-tongue-and-follow-jesus/
 ---
 

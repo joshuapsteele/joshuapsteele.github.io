@@ -5,6 +5,10 @@ date: '2012-09-17T17:07:57Z'
 description: Recovering biblical creation theology from the Young Earth vs. Neo-Darwinism
   debate to rediscover God's beautiful, worshipful design.
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 1)'
+tags:
+  - bible
+  - theology
+  - creation
 url: /creation-and-doxology-pt-1/
 ---
 

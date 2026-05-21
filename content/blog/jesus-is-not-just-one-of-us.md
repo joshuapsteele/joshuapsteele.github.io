@@ -5,6 +5,9 @@ date: '2015-07-09T21:43:51Z'
 description: 'NOTE: The audio of the following sermon, preached on July 05, 2015 at
   St. Peter’s Anglican Church in Mountain Brook, Alabama, can be found here.'
 title: Jesus is Not Just &quot;One of Us&quot;
+tags:
+  - sermons
+  - anglican
 url: /jesus-is-not-just-one-of-us/
 ---
 

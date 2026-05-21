@@ -5,6 +5,8 @@ date: '2024-04-26T12:48:48Z'
 description: I’ve been on a lifelong journey to find hats that will fit my big ol’
   head.
 title: Finding a Hat for My Big, Bald Head
+tags:
+  - recommendations
 url: /finding-a-hat-for-my-big-bald-head/
 ---
 

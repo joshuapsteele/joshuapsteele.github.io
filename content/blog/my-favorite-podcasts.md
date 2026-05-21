@@ -5,6 +5,10 @@ date: '2017-07-25T15:46:34Z'
 description: A guide to podcasts worth listening to during this golden age of the
   medium, from a seasoned podcast enthusiast.
 title: Podcasts You Should Listen To
+tags:
+  - list
+  - recommendations
+  - podcasts
 url: /my-favorite-podcasts/
 ---
 

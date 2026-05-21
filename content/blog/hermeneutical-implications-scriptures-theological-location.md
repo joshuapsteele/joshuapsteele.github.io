@@ -5,6 +5,10 @@ date: '2017-12-09T15:22:06Z'
 description: Should the Bible be read differently than other texts? Exploring theological
   hermeneutics and Scripture's unique location in Christian theology.
 title: The Hermeneutical Implications of Scripture's Theological Location
+tags:
+  - bible
+  - interpretation
+  - theology
 url: /hermeneutical-implications-scriptures-theological-location/
 ---
 

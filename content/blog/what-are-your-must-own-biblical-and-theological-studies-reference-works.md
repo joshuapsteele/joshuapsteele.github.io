@@ -5,6 +5,10 @@ date: '2019-04-10T21:30:46Z'
 description: It just happened again. I had to consult “BDAG,” A Greek–English Lexicon
   of the New Testament and Other Early Christian Literature (3rd ed.).
 title: What are your "must-own" biblical and theological studies reference works?
+tags:
+  - theology
+  - books
+  - recommendations
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/
 ---
 

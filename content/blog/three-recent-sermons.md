@@ -5,6 +5,10 @@ date: '2016-03-11T20:56:19Z'
 description: It’s been a grueling past few weeks at Beeson. Our Spring Break happens
   to coincide with Holy Week this year, and it can’t come quickly enough.
 title: Three Recent Sermons
+tags:
+  - sermons
+  - seminary
+  - holy-week
 url: /three-recent-sermons/
 ---
 

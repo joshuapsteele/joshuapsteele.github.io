@@ -5,6 +5,9 @@ date: '2019-11-04T22:50:42Z'
 description: My Bishop, Todd Hunter, preached an excellent, challenging sermon (“Love
   Your Enemies, Really?”). It’s definitely worth a listen!.
 title: Here's a video of my ordination to the Priesthood
+tags:
+  - ordination
+  - anglican
 url: /heres-a-video-of-my-ordination-to-the-priesthood/
 ---
 

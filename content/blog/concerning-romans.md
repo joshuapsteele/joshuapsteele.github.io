@@ -9,6 +9,10 @@ description: Setting aside Cedarville chaos to focus on reading Romans with Karl
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Concerning Romans
+tags:
+  - barth
+  - romans
+  - bible
 url: /concerning-romans/
 ---
 

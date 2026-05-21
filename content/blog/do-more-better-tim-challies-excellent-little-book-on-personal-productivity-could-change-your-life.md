@@ -6,6 +6,10 @@ description: 'Tim Challies'' 120-page productivity guide delivers on its bold pr
   a practical, explicitly Christian framework to improve your life.'
 title: 'Do More Better: Tim Challies'' Excellent Little Book on Personal Productivity
   Could Change Your Life'
+tags:
+  - reviews
+  - books
+  - reading
 url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/
 ---
 

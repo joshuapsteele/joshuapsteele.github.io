@@ -10,6 +10,10 @@ publicize_twitter_user: a perfect prayer to pray before you read, write, study, 
   take a test. Click to read the prayer and to pray it yourself!
 title: 'How to Pray Before You Read and Write: A Prayer of St. Thomas Aquinas Before
   Study'
+tags:
+  - prayer
+  - theology
+  - learning
 url: /prayer-of-st-thomas-aquinas-before-study/
 ---
 

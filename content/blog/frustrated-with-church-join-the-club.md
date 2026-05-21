@@ -5,6 +5,9 @@ date: '2016-06-10T17:10:17Z'
 description: …and by “club” I of course mean “Church”. What am I getting at. Am I
   calling the Church a mere “club”.
 title: Frustrated with Church? Join the Club!
+tags:
+  - church
+  - ecclesiology
 url: /frustrated-with-church-join-the-club/
 ---
 

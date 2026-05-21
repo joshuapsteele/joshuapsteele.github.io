@@ -7,6 +7,10 @@ description: 'Hey internet: I was recently given the chance to preach at my chur
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: 'My Sermon: Our Help'
+tags:
+  - sermons
+  - anglican
+  - lent
 url: /my-sermon-our-help/
 ---
 

@@ -6,6 +6,11 @@ categories:
 - dissertation
 - personal
 description: I received word yesterday that the Ph.D.
+tags:
+- research
+- barth
+- bonhoeffer
+- mental-health
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
 ---
 I received word yesterday that the Ph.D. Committee voted to approve my request for “Excused Program Leave” beginning in January 2021 and lasting until January 2022.

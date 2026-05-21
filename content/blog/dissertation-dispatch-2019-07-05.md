@@ -4,6 +4,12 @@ categories: dissertation
 date: '2019-07-05T21:09:29Z'
 description: I got my dissertation proposal approved in the Spring of 2018.
 title: 'Dissertation Dispatch: 2019-07-05'
+tags:
+  - barth
+  - bonhoeffer
+  - bible
+  - research
+  - religion
 url: /dissertation-dispatch-2019-07-05/
 ---
 

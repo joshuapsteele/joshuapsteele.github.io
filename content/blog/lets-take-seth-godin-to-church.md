@@ -5,6 +5,10 @@ date: '2016-05-28T16:44:59Z'
 description: I’m not going to lie. My first reaction when I saw the cover of this
   book.
 title: Let's Take Seth Godin to Church
+tags:
+  - books
+  - reviews
+  - church
 url: /lets-take-seth-godin-to-church/
 ---
 

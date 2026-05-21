@@ -6,6 +6,11 @@ categories:
 - dissertation
 - productivity
 description: Developed from *How to Read a Book*, by Mortimer J.
+tags:
+- reading
+- books
+- research
+- learning
 url: /heres-the-template-i-use-to-take-notes-on-books-i-read/
 ---
 Developed from [*How to Read a Book*, by Mortimer J. Adler](https://amzn.to/2M5AHsy).

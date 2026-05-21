@@ -7,6 +7,10 @@ description: Why I can't be proud of Cedarville University anymore, and why pros
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Cedarville!
+tags:
+  - college
+  - evangelicalism
+  - cedarville
 url: /cedarville-2/
 ---
 

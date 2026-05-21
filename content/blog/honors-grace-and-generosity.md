@@ -6,6 +6,9 @@ description: Yahweh and others have been too good to me. Today I received two aw
   at Cedarville University’s 49th Annual Academic Honors Day Chapel.
 tagazine-media: 02:33:04";} 02:33:04";}
 title: Honors, Grace, and Generosity
+tags:
+  - college
+  - cedarville
 url: /honors-grace-and-generosity/
 ---
 

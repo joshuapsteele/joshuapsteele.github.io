@@ -5,6 +5,10 @@ date: '2012-09-21T07:00:39Z'
 description: 'Read Part One") Further Questions, All Relating to the University Statement
   on Dr. Pahl’s Dismissal: - If Dr.'
 title: Cedarville, Let there be Light. (pt. 2)
+tags:
+  - college
+  - evangelicalism
+  - cedarville
 url: /cedarville-let-there-be-light-pt-2/
 ---
 

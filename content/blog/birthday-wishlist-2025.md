@@ -8,6 +8,10 @@ description: It's that time of year again. All the best people were born in Octo
 draft: false
 showToc: false
 title: Birthday Wishlist 2025
+tags:
+  - tools
+  - recommendations
+  - diy
 url: /birthday-wishlist-2025/
 ---
 

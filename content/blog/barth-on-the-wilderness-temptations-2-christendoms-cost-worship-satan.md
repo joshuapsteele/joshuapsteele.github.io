@@ -5,6 +5,10 @@ date: '2015-04-24T09:13:38Z'
 description: Yesterday I posted the beginning of Karl Barth's exegesis of Christ's
   wilderness temptations.
 title: 'Barth on the Wilderness Temptations: #2, Christendom''s Cost — Worship Satan'
+tags:
+  - barth
+  - bible
+  - lent
 url: /barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan/
 ---
 

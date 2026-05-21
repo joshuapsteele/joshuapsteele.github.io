@@ -5,6 +5,11 @@ date: '2016-03-24T12:36:09Z'
 description: Hi internet – especially all you Barthians and Bonhoefferians (-ites?)
   out there.
 title: Reading Recommendations? Barth's and Bonhoeffer's False Gods
+tags:
+  - barth
+  - bonhoeffer
+  - reading
+  - research
 url: /reading-recommendations-barths-bonhoeffers-false-gods/
 ---
 

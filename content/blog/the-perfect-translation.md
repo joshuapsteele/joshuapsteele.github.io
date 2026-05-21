@@ -7,6 +7,10 @@ description: Reviewing Waltke's Dance Between God and Humanity and Goodwin's Tra
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: The Perfect Translation
+tags:
+  - reviews
+  - books
+  - bible
 url: /the-perfect-translation/
 ---
 

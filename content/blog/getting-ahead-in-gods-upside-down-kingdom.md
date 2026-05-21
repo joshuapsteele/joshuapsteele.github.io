@@ -6,6 +6,9 @@ description: A sermon on God's upside-down kingdom values, appealing for a consi
   pro-life ethic rooted in justice and steadfast love.
 title: 'Getting Ahead in God''s Upside-Down Kingdom: An Appeal for a Consistently
   Pro-Life Ethic'
+tags:
+  - sermons
+  - discipleship
 url: /getting-ahead-in-gods-upside-down-kingdom/
 ---
 
