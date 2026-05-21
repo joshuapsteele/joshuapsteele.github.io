@@ -1,205 +1,280 @@
 #!/usr/bin/env python3
 """
-Apply taxonomy consolidation based on taxonomy_map.yaml
-Consolidates 24 categories into 6 core categories
+Apply taxonomy consolidation based on scripts/data/taxonomy_map.yaml.
+
+This intentionally avoids third-party Python packages so the documented cleanup
+command works on a fresh checkout.
 """
 
+from __future__ import annotations
+
 import os
-import yaml
-import frontmatter
-from collections import defaultdict, Counter
+import re
 import sys
+from pathlib import Path
+from typing import Dict, List, Optional, Tuple
 
-def load_taxonomy_map(filename='taxonomy_map.yaml'):
-    """Load the taxonomy mapping configuration"""
-    with open(filename, 'r') as f:
-        config = yaml.safe_load(f)
-    return config['category_mapping'], config.get('tag_cleanup', {})
 
-def process_categories(categories, mapping):
-    """Apply category mapping to a list of categories"""
-    if not categories:
+REPO_ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_MAP = Path(__file__).resolve().parent / "data" / "taxonomy_map.yaml"
+
+
+def parse_scalar(raw: str) -> Optional[str]:
+    value = raw.split("#", 1)[0].strip()
+    if value in {"", "null", "None", "~"}:
         return None
-    
-    if isinstance(categories, str):
-        categories = [categories]
-    
-    # Apply mapping
-    new_categories = set()
-    for cat in categories:
-        mapped = mapping.get(cat)
-        if mapped:
-            new_categories.add(mapped)
-        elif cat not in mapping:  # Category not in map, keep as-is
-            new_categories.add(cat)
-    
-    # Remove None values
-    new_categories.discard(None)
-    
-    # Return as list, or single string if only one category
-    result = sorted(list(new_categories))
-    return result[0] if len(result) == 1 else result
+    return value.strip("'\"")
 
-def process_tags(tags, tag_cleanup):
-    """Apply tag cleanup/consolidation"""
-    if not tags:
-        return None
-    
-    if isinstance(tags, str):
-        tags = [tags]
-    
-    new_tags = []
-    for tag in tags:
-        # Apply cleanup mapping
-        new_tag = tag_cleanup.get(tag, tag)
-        if new_tag and new_tag not in new_tags:
-            new_tags.append(new_tag)
-    
-    return new_tags if new_tags else None
 
-def apply_taxonomy(content_dir, category_mapping, tag_cleanup, dry_run=True):
-    """Apply taxonomy changes to all posts"""
+def load_taxonomy_map(filename: Path = DEFAULT_MAP) -> Tuple[Dict[str, Optional[str]], Dict[str, Optional[str]]]:
+    """Load category_mapping and tag_cleanup sections from the taxonomy map."""
+    category_mapping: Dict[str, Optional[str]] = {}
+    tag_cleanup: Dict[str, Optional[str]] = {}
+    section = None
+
+    with filename.open("r", encoding="utf-8") as f:
+        for raw in f:
+            line = raw.rstrip("\n")
+            stripped = line.strip()
+            if not stripped or stripped.startswith("#"):
+                continue
+
+            if not line.startswith((" ", "\t")) and stripped.endswith(":"):
+                section = stripped[:-1]
+                continue
+
+            if section not in {"category_mapping", "tag_cleanup"}:
+                continue
+
+            match = re.match(r"^\s+(.+?):\s*(.*?)\s*$", line)
+            if not match:
+                continue
+
+            key = match.group(1).strip().strip("'\"")
+            value = parse_scalar(match.group(2))
+            if section == "category_mapping":
+                category_mapping[key] = value
+            else:
+                tag_cleanup[key] = value
+
+    return category_mapping, tag_cleanup
+
+
+def split_front_matter(text: str) -> Tuple[str, str, str]:
+    match = re.match(r"^(---\r?\n)(.*?)(\r?\n---\r?\n.*)$", text, flags=re.DOTALL)
+    if not match:
+        return "", "", text
+    return match.group(1), match.group(2), match.group(3)
+
+
+def parse_inline_list(raw: str) -> List[str]:
+    inner = raw.strip()[1:-1]
+    items: List[str] = []
+    buf = ""
+    in_quote = False
+    quote = ""
+
+    for ch in inner:
+        if ch in {"'", '"'}:
+            if in_quote and ch == quote:
+                in_quote = False
+            elif not in_quote:
+                in_quote = True
+                quote = ch
+            buf += ch
+            continue
+        if ch == "," and not in_quote:
+            item = buf.strip().strip("'\"")
+            if item:
+                items.append(item)
+            buf = ""
+            continue
+        buf += ch
+
+    item = buf.strip().strip("'\"")
+    if item:
+        items.append(item)
+    return items
+
+
+def parse_list_from_fm(fm: str, key: str) -> Tuple[List[str], str]:
+    inline = re.search(rf"(?m)^({re.escape(key)}:\s*)(\[.*\])\s*$", fm)
+    if inline:
+        return parse_inline_list(inline.group(2)), "inline"
+
+    scalar = re.search(rf"(?m)^{re.escape(key)}:\s+(.+?)\s*$", fm)
+    if scalar:
+        return [scalar.group(1).strip().strip("'\"")], "inline"
+
+    block = re.search(rf"(?m)^{re.escape(key)}:\s*$", fm)
+    if not block:
+        return [], "absent"
+
+    items: List[str] = []
+    after = fm[block.end() :]
+    for line in after.splitlines():
+        if line.strip() == "" and not items:
+            continue
+        match = re.match(r"^\s*-\s+(.*?)\s*$", line)
+        if not match:
+            break
+        items.append(match.group(1).strip().strip("'\""))
+    return items, "block"
+
+
+def quote_inline(value: str) -> str:
+    if re.match(r"^[A-Za-z0-9_-]+$", value):
+        return value
+    return '"' + value.replace('"', '\\"') + '"'
+
+
+def render_list(key: str, values: List[str], style: str) -> List[str]:
+    if style == "inline":
+        return [f"{key}: [{', '.join(quote_inline(v) for v in values)}]\n"]
+    return [f"{key}:\n", *[f"  - {value}\n" for value in values]]
+
+
+def replace_list_in_fm(fm: str, key: str, values: List[str], style: str) -> str:
+    lines = fm.splitlines(keepends=True)
+    out: List[str] = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        if re.match(rf"^{re.escape(key)}:\s*(\[.*\])?\s*$", line):
+            if values:
+                out.extend(render_list(key, values, style))
+            i += 1
+            if style == "block":
+                while i < len(lines) and re.match(r"^\s*-\s+", lines[i]):
+                    i += 1
+            continue
+
+        out.append(line)
+        i += 1
+
+    return "".join(out)
+
+
+def apply_mapping(items: List[str], mapping: Dict[str, Optional[str]]) -> List[str]:
+    result: List[str] = []
+    for item in items:
+        mapped = mapping.get(item, item)
+        if mapped and mapped not in result:
+            result.append(mapped)
+    return result
+
+
+def apply_taxonomy(content_dir: Path, category_mapping: Dict[str, Optional[str]], tag_cleanup: Dict[str, Optional[str]], dry_run: bool = True):
     changes = []
     stats = {
-        'total_files': 0,
-        'files_changed': 0,
-        'categories_updated': 0,
-        'tags_updated': 0,
-        'errors': []
+        "total_files": 0,
+        "files_changed": 0,
+        "categories_updated": 0,
+        "tags_updated": 0,
+        "errors": [],
     }
-    
-    for root, dirs, files in os.walk(content_dir):
+
+    for root, _, files in os.walk(content_dir):
         for filename in files:
-            if not filename.endswith('.md'):
+            if not filename.endswith(".md"):
                 continue
-                
-            filepath = os.path.join(root, filename)
-            rel_path = filepath.replace(content_dir + '/', '')
-            stats['total_files'] += 1
-            
+
+            filepath = Path(root) / filename
+            rel_path = filepath.relative_to(REPO_ROOT).as_posix()
+            stats["total_files"] += 1
+
             try:
-                post = frontmatter.load(filepath)
-                file_changed = False
-                change_details = {'file': rel_path, 'changes': []}
-                
-                # Process categories
-                if 'categories' in post:
-                    old_cats = post['categories']
-                    new_cats = process_categories(old_cats, category_mapping)
-                    
+                text = filepath.read_text(encoding="utf-8")
+                prefix, fm, suffix = split_front_matter(text)
+                if not fm:
+                    continue
+
+                new_fm = fm
+                file_changes = []
+
+                old_cats, cat_style = parse_list_from_fm(new_fm, "categories")
+                if old_cats:
+                    new_cats = apply_mapping(old_cats, category_mapping)
                     if new_cats != old_cats:
-                        change_details['changes'].append({
-                            'field': 'categories',
-                            'old': old_cats,
-                            'new': new_cats
-                        })
-                        
-                        if not dry_run:
-                            post['categories'] = new_cats
-                        
-                        file_changed = True
-                        stats['categories_updated'] += 1
-                
-                # Process tags
-                if 'tags' in post and tag_cleanup:
-                    old_tags = post['tags']
-                    new_tags = process_tags(old_tags, tag_cleanup)
-                    
+                        new_fm = replace_list_in_fm(new_fm, "categories", new_cats, cat_style)
+                        file_changes.append(("categories", old_cats, new_cats))
+                        stats["categories_updated"] += 1
+
+                old_tags, tag_style = parse_list_from_fm(new_fm, "tags")
+                if old_tags and tag_cleanup:
+                    new_tags = apply_mapping(old_tags, tag_cleanup)
                     if new_tags != old_tags:
-                        change_details['changes'].append({
-                            'field': 'tags',
-                            'old': old_tags,
-                            'new': new_tags
-                        })
-                        
-                        if not dry_run:
-                            post['tags'] = new_tags
-                        
-                        file_changed = True
-                        stats['tags_updated'] += 1
-                
-                # Save changes
-                if file_changed:
-                    changes.append(change_details)
-                    stats['files_changed'] += 1
-                    
+                        new_fm = replace_list_in_fm(new_fm, "tags", new_tags, tag_style)
+                        file_changes.append(("tags", old_tags, new_tags))
+                        stats["tags_updated"] += 1
+
+                if file_changes:
+                    changes.append({"file": rel_path, "changes": file_changes})
+                    stats["files_changed"] += 1
                     if not dry_run:
-                        with open(filepath, 'wb') as f:
-                            frontmatter.dump(post, f)
-                
-            except Exception as e:
-                stats['errors'].append(f"{rel_path}: {str(e)}")
-    
+                        filepath.write_text(f"{prefix}{new_fm}{suffix}", encoding="utf-8")
+
+            except Exception as exc:
+                stats["errors"].append(f"{rel_path}: {exc}")
+
     return changes, stats
 
-def main():
-    dry_run = '--apply' not in sys.argv
-    
-    if dry_run:
-        print("=" * 70)
-        print("DRY RUN MODE - No files will be modified")
-        print("Run with --apply flag to make actual changes")
-        print("=" * 70)
-    else:
-        print("=" * 70)
-        print("APPLYING TAXONOMY CHANGES")
-        print("=" * 70)
-    
-    # Load taxonomy map
-    print("\n📋 Loading taxonomy map...")
-    category_mapping, tag_cleanup = load_taxonomy_map()
-    
-    print(f"\nCategory mappings loaded:")
-    unique_targets = set(v for v in category_mapping.values() if v)
-    print(f"  Consolidating {len(category_mapping)} categories → {len(unique_targets)} core categories")
-    print(f"  Core categories: {', '.join(sorted(unique_targets))}")
-    
-    if tag_cleanup:
-        print(f"\nTag cleanup rules: {len(tag_cleanup)}")
-    
-    # Apply changes
-    print(f"\n🔄 Processing content files...")
-    changes, stats = apply_taxonomy('content/', category_mapping, tag_cleanup, dry_run)
-    
-    # Report results
+
+def main() -> int:
+    dry_run = "--apply" not in sys.argv
+    map_path = DEFAULT_MAP
+
+    if "--map" in sys.argv:
+        try:
+            map_path = Path(sys.argv[sys.argv.index("--map") + 1])
+        except IndexError:
+            print("ERROR: --map requires a path", file=sys.stderr)
+            return 2
+
+    print("=" * 70)
+    print("DRY RUN MODE - No files will be modified" if dry_run else "APPLYING TAXONOMY CHANGES")
+    print("=" * 70)
+
+    print(f"\nLoading taxonomy map: {map_path.relative_to(REPO_ROOT) if map_path.is_absolute() else map_path}")
+    category_mapping, tag_cleanup = load_taxonomy_map(map_path)
+
+    unique_targets = {value for value in category_mapping.values() if value}
+    print(f"Category mappings loaded: {len(category_mapping)} -> {len(unique_targets)} target categories")
+    print(f"Tag cleanup rules loaded: {len(tag_cleanup)}")
+
+    print("\nProcessing content files...")
+    changes, stats = apply_taxonomy(REPO_ROOT / "content", category_mapping, tag_cleanup, dry_run)
+
     print("\n" + "=" * 70)
     print("RESULTS")
     print("=" * 70)
-    
-    print(f"\n📊 Statistics:")
-    print(f"  Total files processed: {stats['total_files']}")
-    print(f"  Files with changes: {stats['files_changed']}")
-    print(f"  Categories updated: {stats['categories_updated']}")
-    print(f"  Tags updated: {stats['tags_updated']}")
-    
-    if stats['errors']:
-        print(f"\n⚠️  Errors: {len(stats['errors'])}")
-        for error in stats['errors'][:5]:
+    print(f"Total files processed: {stats['total_files']}")
+    print(f"Files with changes: {stats['files_changed']}")
+    print(f"Categories updated: {stats['categories_updated']}")
+    print(f"Tags updated: {stats['tags_updated']}")
+
+    if stats["errors"]:
+        print(f"\nErrors: {len(stats['errors'])}")
+        for error in stats["errors"][:5]:
             print(f"  - {error}")
-    
-    # Show sample changes
+
     if changes:
-        print(f"\n📝 Sample changes (first 10):")
+        print("\nChanges:")
         for change in changes[:10]:
             print(f"\n  {change['file']}:")
-            for c in change['changes']:
-                print(f"    {c['field']}: {c['old']} → {c['new']}")
-        
+            for field, old, new in change["changes"]:
+                print(f"    {field}: {old} -> {new}")
         if len(changes) > 10:
             print(f"\n  ... and {len(changes) - 10} more files")
-    
+
     if dry_run:
-        print("\n" + "=" * 70)
-        print("To apply these changes, run: python3 apply-taxonomy.py --apply")
-        print("=" * 70)
+        print("\nTo apply these changes, run: python3 scripts/apply-taxonomy.py --apply")
     else:
-        print("\n" + "=" * 70)
-        print("✅ CHANGES APPLIED SUCCESSFULLY")
-        print("=" * 70)
-        print("\nNext steps:")
-        print("  1. Review changes: git diff")
-        print("  2. Test locally: npm run dev")
-        print("  3. If good: git commit and deploy")
+        print("\nChanges applied successfully.")
+
+    return 1 if stats["errors"] else 0
+
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

@@ -38,4 +38,4 @@ First, I have to call out the ["John Terry Treadmill Workout"](https://www.thick
 
 --- 
 
-For other things I recommend, see my [Recommended Tools and Resources](/recommended-tools-and-resources/) page!
+For other things I recommend, see my [Recommended Tools and Resources](/resources/) page!

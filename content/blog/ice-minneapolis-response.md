@@ -2,7 +2,7 @@
 title: "A Response to 'Minneapolis, ICE, and the Christian Response'"
 date: '2026-01-28T10:00:00Z'
 draft: false
-tags: ["Christianity", "politics", "immigration", "ICE", "Romans 13"]
+tags: [Christianity, politics, immigration, ice, romans-13]
 categories: ["ethics", "theology"]
 url: /ice-minneapolis-response/
 ---

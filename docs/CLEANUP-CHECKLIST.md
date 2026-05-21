@@ -12,9 +12,7 @@
 
 ### High priority
 
-- [ ] **Fix one confirmed broken internal link.** In `content/blog/my-soccer-kit.md`, change `/recommended-tools-and-resources/` → `/resources/`.
-
-- [ ] **Consolidate tag casing variants.** In `scripts/data/taxonomy_map.yaml`, add rules: `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`. Apply with `python3 scripts/apply-taxonomy.py`.
+_No open high-priority items._
 
 ### Medium priority
 
@@ -40,6 +38,8 @@
 
 ## Completed (since last audit)
 
+- [x] **Fixed one confirmed broken internal link (2026-05-21).** In `content/blog/my-soccer-kit.md`, changed `/recommended-tools-and-resources/` → `/resources/`. Verified the targeted link is absent from `python3 scripts/check-internal-links.py` output; `npm run build` passes.
+- [x] **Consolidated tag casing variants (2026-05-21).** Added taxonomy cleanup rules for `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`, plus existing lowercase-space `romans 13` → `romans-13`; applied with `python3 scripts/apply-taxonomy.py --apply`. A follow-up dry run reports 0 remaining taxonomy changes.
 - [x] **Tagged all untagged blog posts (2026-05-21).** 132 posts tagged across ministry, dissertation, productivity, theology, personal, ethics + the AMA post; 0 untagged remaining. Added new tags: `podcasts`, `personality`, `lent`, `creation`, `trinity`, `cedarville`, `travel`, `gtd`, `pacifism`, `jordan-peterson`. See `docs/TAGGING-PROGRESS.md`.
 - [x] Bluesky socialIcons item dropped: the account was deleted by the user, so the "add Bluesky" recommendation is void (do not re-add).
 - [x] Category consolidation: 24 categories → 8 (October 2025 → current)

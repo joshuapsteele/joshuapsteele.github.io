@@ -7,11 +7,11 @@ date: '2013-02-07T07:48:55Z'
 description: A contextual reading of Romans 13:1-7, correcting common misinterpretations
   and abuses of this oft-misunderstood passage.
 tags:
-- romans 13
-- bible
-- politics
-- government
-- political theology
+  - romans-13
+  - bible
+  - politics
+  - government
+  - political theology
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
 ---
