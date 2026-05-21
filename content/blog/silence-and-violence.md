@@ -10,6 +10,9 @@ publicize_facebook_url: null
 publicize_twitter_url: null
 publicize_twitter_user: null
 title: Silence and Violence
+tags:
+  - pacifism
+  - theology
 url: /silence-and-violence/
 ---
 

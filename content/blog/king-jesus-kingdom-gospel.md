@@ -7,6 +7,10 @@ date: '2013-09-18T13:13:58Z'
 description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King
   Jesus Gospel.'
 title: King Jesus' Kingdom Gospel
+tags:
+  - bible
+  - theology
+  - books
 url: /king-jesus-kingdom-gospel/
 ---
 

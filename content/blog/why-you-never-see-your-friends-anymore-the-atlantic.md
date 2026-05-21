@@ -4,6 +4,9 @@ categories: personal
 date: 2019-10-16T16:38:20Z
 description: A short post on the demise of friendship.
 title: '"Why You Never See Your Friends Anymore" (The Atlantic)'
+tags:
+  - friendship
+  - loneliness
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
 ---
 

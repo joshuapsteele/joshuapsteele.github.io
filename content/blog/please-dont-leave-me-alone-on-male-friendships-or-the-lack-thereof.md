@@ -6,6 +6,10 @@ categories:
 date: '2018-03-20T18:15:22Z'
 description: Maybe you, like me, consider yourself quite the introvert.
 title: 'Please Don''t Leave Me Alone: On Male Friendships, or the Lack Thereof'
+tags:
+  - friendship
+  - loneliness
+  - introversion
 url: /please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/
 ---
 

@@ -6,6 +6,10 @@ description: In God's economy, the most important people are not the billionaire
   the business owner, or even the blue-collar worker.
 showtoc: false
 title: God's Economy
+tags:
+  - economics
+  - poverty
+  - immigration
 url: /gods-economy
 ---
 

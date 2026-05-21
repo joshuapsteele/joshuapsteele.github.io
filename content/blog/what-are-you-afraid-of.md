@@ -6,6 +6,9 @@ categories:
 - personal
 - productivity
 description: I'm scared of wasting my life, of being worthless outside academia. Fear drives how we dress, parent, and vote.
+tags:
+  - purpose
+  - mental-health
 url: /what-are-you-afraid-of/
 ---
 I’m scared. Are you?

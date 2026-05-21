@@ -5,6 +5,10 @@ date: '2020-06-04T21:47:31Z'
 description: I commend the entire interview series that Ed Stetzer recently did with
   Esau McCaulley.
 title: “But, What About the Riots and Lawlessness?”
+tags:
+  - racism
+  - race
+  - justice
 url: /but-what-about-the-riots-and-lawlessness/
 ---
 

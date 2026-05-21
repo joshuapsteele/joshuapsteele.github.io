@@ -8,6 +8,8 @@ date: '2018-03-28T14:44:59Z'
 description: Surveying various perspectives on Jordan Peterson's cultural phenomenon
   before offering my own theological and ethical assessment.
 title: What to make of Jordan Peterson? Some takes, then my own.
+tags:
+  - jordan-peterson
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
 ---
 

@@ -5,6 +5,8 @@ date: '2018-04-02T06:00:45Z'
 description: The following is a guest post written by my friend and former college
   roommate, **Zak Weston**.
 title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
+tags:
+  - ethics
 url: /the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/
 ---
 

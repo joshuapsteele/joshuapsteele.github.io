@@ -7,6 +7,10 @@ date: '2013-10-02T13:01:12Z'
 description: 'A theological statement: Scripture as the Spirit''s illocutionary act
   testifying to the Son, accomplishing redemption in God''s people.'
 title: 'Scripture: What The Bible Is And Why It Matters'
+tags:
+  - bible
+  - theology
+  - interpretation
 url: /on-scripture/
 ---
 

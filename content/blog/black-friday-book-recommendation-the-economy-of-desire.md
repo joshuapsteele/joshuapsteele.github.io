@@ -7,6 +7,10 @@ description: Black Friday proves that the progress of (post)modernity has failed
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: 'Black Friday Book Recommendation: The Economy of Desire'
+tags:
+  - books
+  - economics
+  - recommendations
 url: /black-friday-book-recommendation-the-economy-of-desire/
 ---
 

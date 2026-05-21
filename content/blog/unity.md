@@ -8,6 +8,10 @@ date: '2012-04-19T19:22:24Z'
 description: The more I study the New Testament, I become more convinced that the
   unity of the Church is of utmost importance to God.
 title: Unity?
+tags:
+  - church-unity
+  - bible
+  - ecclesiology
 url: /unity/
 ---
 

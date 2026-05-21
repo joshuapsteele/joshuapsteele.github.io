@@ -7,6 +7,10 @@ date: '2011-12-23T13:31:11Z'
 description: After reading Scot McKnight's King Jesus Gospel, I discovered profound
   gospel messages hidden in the Christmas carols we often sing.
 title: The Good News of Christmas
+tags:
+  - christmas
+  - bible
+  - theology
 url: /the-good-news-of-christmas/
 ---
 

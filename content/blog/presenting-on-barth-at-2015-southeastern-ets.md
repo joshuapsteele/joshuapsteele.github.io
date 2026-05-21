@@ -7,6 +7,10 @@ description: My paper on Karl Barth and church unity has been accepted for the 2
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Presenting on Karl Barth at 2015 Southeastern ETS
+tags:
+  - barth
+  - church-unity
+  - conferences
 url: /presenting-on-barth-at-2015-southeastern-ets/
 ---
 

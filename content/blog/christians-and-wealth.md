@@ -7,6 +7,10 @@ date: '2016-09-24T01:00:30Z'
 description: Why American Christians should embrace downward mobility, living simply
   at human flourishing standards and giving excess to the poor.
 title: 'Christians and Wealth: An Argument for Downward Mobility'
+tags:
+  - economics
+  - poverty
+  - discipleship
 url: /christians-and-wealth/
 ---
 

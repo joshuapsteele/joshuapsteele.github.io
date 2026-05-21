@@ -6,6 +6,10 @@ description: Five ways the ancient practice of Morning and Evening Prayer can sh
   your spiritual growth and help you follow Jesus daily.
 title: 'Christian, Do the Daily Office: 5 Things You Can Learn from Morning and Evening
   Prayer'
+tags:
+  - prayer
+  - book-of-common-prayer
+  - discipleship
 url: /christian-daily-office-5-things-can-learn-morning-evening-prayer/
 ---
 

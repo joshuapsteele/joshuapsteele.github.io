@@ -6,6 +6,9 @@ description: I'm not the most thankful person.
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Give Thanks!
+tags:
+  - discipleship
+  - prayer
 url: /give-thanks/
 ---
 

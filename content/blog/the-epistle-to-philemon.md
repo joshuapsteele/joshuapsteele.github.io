@@ -9,6 +9,9 @@ description: 'Paul''s shortest letter analyzes reconciliation and slavery: bring
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: 'The Epistle to Philemon: Analysis and Application'
+tags:
+  - bible
+  - reconciliation
 url: /the-epistle-to-philemon/
 ---
 

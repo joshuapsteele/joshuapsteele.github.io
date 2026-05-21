@@ -4,6 +4,9 @@ categories: personal
 date: '2016-05-26T14:56:03Z'
 description: Ah, the joys of summer reading.
 title: What I'm Reading
+tags:
+  - reading
+  - books
 url: /what-im-reading/
 ---
 

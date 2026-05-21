@@ -5,6 +5,9 @@ date: '2021-01-19T22:34:46Z'
 description: I’m working my way through the classic job search guide *What Color Is
   Your Parachute*.
 title: What Color is My Parachute? The Flower Petal Exercise
+tags:
+  - career
+  - books
 url: /what-color-is-my-parachute-the-flower-petal-exercise/
 ---
 

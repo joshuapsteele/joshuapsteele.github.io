@@ -8,6 +8,8 @@ date: '2018-06-08T19:08:55Z'
 description: Previously, I catalogued a bunch of different takes on Jordan Peterson,
   before giving my own take.
 title: Two More Pieces about Jordan Peterson
+tags:
+  - jordan-peterson
 url: /two-more-pieces-about-jordan-peterson/
 ---
 

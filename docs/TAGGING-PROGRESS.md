@@ -38,6 +38,8 @@ Add tags to the blog posts that have no tags. At the May 2026 audit, 134 of 324 
 - `cedarville` — for posts about Cedarville University (the Pahl firing, "Let There Be Light," etc.)
 - `travel` — for trip/travel posts (Grand Canyon, Peru, etc.)
 - `gtd` — for Getting Things Done / productivity-system posts
+- `pacifism` — for posts on Christian pacifism / peace vs. violence
+- `jordan-peterson` — for posts about Jordan Peterson
 
 Note: the theology batch used `political-theology` (kebab) as the target form; the existing `political theology` (2 uses) should fold into it during the casing cleanup.
 
@@ -57,17 +59,17 @@ These are casing/format duplicates in the existing vocabulary. Consolidate via `
 
 ## Progress
 
-**Done (85 posts tagged):**
+**COMPLETE (2026-05-21): 0 untagged blog posts remaining.** 132 posts tagged; 2 deleted by the user (see below). Total blog posts: 322.
+
 - [x] ministry (4) — pilot
 - [x] dissertation (4) — pilot
 - [x] productivity (15)
 - [x] theology (43 tagged; "Political Thoughts" was deleted by the user rather than tagged)
-- [x] personal, first half (19 tagged; "Heads up! Guest post on the way" was deleted by the user rather than tagged)
+- [x] personal (40 tagged; "Heads up! Guest post on the way" was deleted by the user rather than tagged)
+- [x] ethics (25)
+- [x] uncategorized AMA (1) — "Ask Me Anything This November"; assigned category `personal` + tags `questions`, `writing`
 
-**Remaining (47 posts):**
-- [ ] personal, second half (21) — resume after "My Uncle, Timothy Steele"
-- [ ] ethics (25)
-- [ ] uncategorized (1) — "Ask Me Anything This November: WeblogPoMo AMA"
+**Remaining:** none. (Note: 4 posts remain *uncategorized* — a separate item tracked in `CLEANUP-CHECKLIST.md`, distinct from tagging.)
 
 ## How to resume
 

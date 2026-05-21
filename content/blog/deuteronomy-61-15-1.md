@@ -7,6 +7,9 @@ date: '2013-02-18T20:44:14Z'
 description: A close reading and interpretation of Deuteronomy 6:1-15, exploring the
   Shema and Israel's call to fear and love the Lord.
 title: 'Reading and Interpreting the Bible: Deuteronomy 6:1-15'
+tags:
+  - bible
+  - interpretation
 url: /deuteronomy-6/
 ---
 

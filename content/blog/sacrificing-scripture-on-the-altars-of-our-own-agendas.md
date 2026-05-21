@@ -7,6 +7,10 @@ date: '2012-09-19T16:21:17Z'
 description: Undoubtedly the title of this blog post could be taken in hundreds of
   different directions.
 title: Sacrificing Scripture on the Altars of Our Own Agendas
+tags:
+  - bible
+  - creation
+  - cedarville
 url: /sacrificing-scripture-on-the-altars-of-our-own-agendas/
 ---
 

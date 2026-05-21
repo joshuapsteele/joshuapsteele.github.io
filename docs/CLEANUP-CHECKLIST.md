@@ -12,8 +12,6 @@
 
 ### High priority
 
-- [ ] **Tag the untagged.** 134 of 324 blog posts (41%) have no tags. Run `python3 scripts/suggest-tags.py` on untagged posts, review suggestions, apply with `scripts/apply-taxonomy.py`. Focus on high-traffic posts first.
-
 - [ ] **Fix one confirmed broken internal link.** In `content/blog/my-soccer-kit.md`, change `/recommended-tools-and-resources/` → `/resources/`.
 
 - [ ] **Consolidate tag casing variants.** In `scripts/data/taxonomy_map.yaml`, add rules: `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`. Apply with `python3 scripts/apply-taxonomy.py`.
@@ -26,9 +24,7 @@
 
 - [ ] **Prune or consolidate the long tail of tags.** 163 distinct tags with many used only once. Run `scripts/audit-frontmatter.py` to get a fresh list and triage.
 
-- [ ] **Add Bluesky to `socialIcons` in `hugo.yaml`.** Account is active, POSSE workflow syndicates to it. Add one entry alongside the existing Mastodon entry.
-
-- [ ] **Categorize 5 remaining uncategorized posts.** Small number — find them with `python3 scripts/audit-frontmatter.py` and assign manually.
+- [ ] **Categorize the remaining uncategorized posts (4).** Small number — find them with `python3 scripts/audit-frontmatter.py` and assign manually.
 
 ### Low priority / when convenient
 
@@ -44,6 +40,8 @@
 
 ## Completed (since last audit)
 
+- [x] **Tagged all untagged blog posts (2026-05-21).** 132 posts tagged across ministry, dissertation, productivity, theology, personal, ethics + the AMA post; 0 untagged remaining. Added new tags: `podcasts`, `personality`, `lent`, `creation`, `trinity`, `cedarville`, `travel`, `gtd`, `pacifism`, `jordan-peterson`. See `docs/TAGGING-PROGRESS.md`.
+- [x] Bluesky socialIcons item dropped: the account was deleted by the user, so the "add Bluesky" recommendation is void (do not re-add).
 - [x] Category consolidation: 24 categories → 8 (October 2025 → current)
 - [x] Uncategorized posts reduced: 53 → 5
 - [x] `/notes/` section added (April 2026), POSSE workflow configured

@@ -4,6 +4,9 @@ categories: personal
 date: '2013-03-29T15:07:13Z'
 description: 'DISCLAIMER: there’s a fair bit about the Church that frustrates me.'
 title: On Building/Burning Bridges
+tags:
+  - church
+  - ecclesiology
 url: /on-buildingburning-bridges/
 ---
 

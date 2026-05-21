@@ -3,6 +3,10 @@ title: 'Ask Me Anything This November: WeblogPoMo AMA'
 date: '2024-11-01'
 author: joshuapsteele
 description: I'd love to blog more regularly, and I love answering questions. So the "WeblogPoMo AMA" challenge caught my eye.
+categories: personal
+tags:
+  - questions
+  - writing
 url: /ask-me-anything-this-november
 showtoc: false
 ---

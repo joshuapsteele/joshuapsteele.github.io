@@ -7,6 +7,9 @@ description: 'You’ll notice that the previous post on Cedarville ends with a l
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Ok, Maybe a Bit More on Cedarville!
+tags:
+  - college
+  - cedarville
 url: /ok-maybe-a-bit-more-on-cedarville/
 ---
 

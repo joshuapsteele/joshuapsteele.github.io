@@ -8,6 +8,9 @@ description: 'Amy Chase Ashley''s guest post on mastering inductive Bible study 
   seven steps: Scripture, Handle With Care.'
 title: 'Inductive Bible Study in 7 Steps: "Scripture, Handle With Care," by Amy Chase
   Ashley'
+tags:
+  - bible
+  - interpretation
 url: /inductive-bible-study-7-steps-amy-chase-ashley/
 ---
 

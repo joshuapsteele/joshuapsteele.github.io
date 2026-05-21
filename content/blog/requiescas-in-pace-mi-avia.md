@@ -5,6 +5,10 @@ date: '2013-06-23T17:41:39Z'
 description: 'Rest in peace, grandmother: remembering her departure with the BCP''s
   prayer for Christian souls leaving this world.'
 title: Requiescas in Pace, Mi Avia
+tags:
+  - death
+  - grief
+  - family
 url: /requiescas-in-pace-mi-avia/
 ---
 

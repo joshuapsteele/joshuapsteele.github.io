@@ -5,6 +5,9 @@ date: '2013-02-19T07:38:20Z'
 description: Have you ever been extremely frustrated with someone/thing you love.
   That’s been my experience during my final year here at Cedarville University.
 title: Oh Cedarville!
+tags:
+  - college
+  - cedarville
 url: /oh-cedarville/
 ---
 

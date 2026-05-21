@@ -7,6 +7,9 @@ date: '2012-05-03T14:02:32Z'
 description: The following is an attempt, written in 2012, to distill and paraphrase
   the main argument/message/story/logic of St.
 title: The Book of Romans, Distilled and Paraphrased
+tags:
+  - bible
+  - romans
 url: /romans-distilled-paraphrased
 ---
 

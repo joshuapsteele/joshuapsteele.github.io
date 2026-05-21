@@ -5,6 +5,9 @@ date: '2013-05-10T09:26:30Z'
 description: Since my previous post, quite a few things have happened at my alma mater.
   Here’s a Storify overview of my crazy final year at Cedarville University.
 title: My Unforgettable Cedarville Experience (pt 2)
+tags:
+  - college
+  - cedarville
 url: /my-unforgettable-cedarville-experience-pt-2-2/
 ---
 

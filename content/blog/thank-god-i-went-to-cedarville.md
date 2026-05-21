@@ -5,6 +5,10 @@ date: '2016-05-31T20:20:53Z'
 description: Despite everything else, Cedarville prepared me exceptionally well for
   seminary—gratitude for my undergraduate theological education.
 title: Thank God, I Went to Cedarville
+tags:
+  - college
+  - cedarville
+  - seminary
 url: /thank-god-i-went-to-cedarville/
 ---
 

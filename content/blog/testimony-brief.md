@@ -5,6 +5,8 @@ date: '2017-08-07T07:00:36Z'
 description: The following is an attempt to tell my testimony, the story of my Christian
   faith, in approximately 500 words.
 title: 'Testimony: A Faith Story, In Brief'
+tags:
+  - discipleship
 url: /testimony-brief/
 ---
 

@@ -4,6 +4,9 @@ categories: ethics
 date: '2019-03-07T17:32:24Z'
 description: From “In Praise of Boredom,” by James K.A.
 title: Let's learn how to be bored again
+tags:
+  - social-media
+  - discipleship
 url: /lets-learn-how-to-be-bored-again/
 ---
 

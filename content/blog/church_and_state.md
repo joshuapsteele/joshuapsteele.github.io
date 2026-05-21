@@ -7,6 +7,9 @@ date: '2011-05-26T12:23:48Z'
 description: Reflections on Kevin DeYoung's Memorial Day theology and the complex
   relationship between Christian faith and national identity.
 title: Church and State
+tags:
+  - political-theology
+  - politics
 url: /church_and_state/
 ---
 

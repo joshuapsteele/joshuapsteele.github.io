@@ -4,6 +4,9 @@ categories: personal
 date: 2019-11-25T16:14:29Z
 description: Post from 2020 about looking for work while our second child was on the way.
 title: "With baby #2 on the way, I'm looking for work!"
+tags:
+  - career
+  - family
 url: /with-baby-2-on-the-way-im-looking-for-work/
 ---
 
