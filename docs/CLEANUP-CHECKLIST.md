@@ -1,201 +1,95 @@
-# Content Cleanup Checklist
+# Maintenance Checklist
 ## joshuapsteele.com Hugo Site
 
-**Based on:** Content Audit completed October 11, 2025
-**Site Health Score:** 77/100 → Target: 95/100
+**Updated:** 2026-05-21
+**See:** `AUDIT-MASTER-REPORT.md` for full findings.
 
 ---
 
-## Week 1: Critical Fixes (6-7 hours) 🔴
+## Open Items (prioritized)
 
-### Day 1-2: Broken Links (3-4 hours)
-- [ ] Fix broken links in `pages/essays.md` (14 links)
-- [ ] Fix broken links in `pages/sermons.md` (14 links)
-- [ ] Fix broken links in top 5 blog posts:
-  - [ ] `maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md` (11 links)
-  - [ ] `finding-a-hat-for-my-big-bald-head.md` (9 links)
-  - [ ] `hate-running-try-rucking-instead.md` (9 links)
-  - [ ] `let-there-be-light-my-resignation.md` (7 links)
-  - [ ] `what-im-reading.md` (7 links)
-- [ ] Test all fixes locally with Hugo server
-- [ ] Deploy changes
+### High priority
 
-### Day 3-4: Categories (2-3 hours)
-- [ ] Categorize high-priority posts:
-  - [ ] Immigration/Romans 13 posts → "ethics"
-  - [ ] Barth/Bonhoeffer posts → "theology"
-  - [ ] ACNA/women's ordination → "ministry"
-  - [ ] Career/coding posts → "productivity"
-  - [ ] Personal reflections → "personal"
-- [ ] Verify all top 20 traffic posts have categories
-- [ ] Re-run audit to confirm progress
+- [ ] **Tag the untagged.** 134 of 324 blog posts (41%) have no tags. Run `python3 scripts/suggest-tags.py` on untagged posts, review suggestions, apply with `scripts/apply-taxonomy.py`. Focus on high-traffic posts first.
 
-### Day 5: Verification (1 hour)
-- [ ] Run `npm run build` and check for errors
-- [ ] Review site navigation locally
-- [ ] Verify category pages display properly
-- [ ] Check analytics for 404 errors
-- [ ] Commit and deploy
+- [ ] **Fix one confirmed broken internal link.** In `content/blog/my-soccer-kit.md`, change `/recommended-tools-and-resources/` → `/resources/`.
 
-**Week 1 Target:**
-- Broken links in top 20 files: 0
-- Posts without categories: <10
-- Site health score: 82/100
+- [ ] **Consolidate tag casing variants.** In `scripts/data/taxonomy_map.yaml`, add rules: `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`. Apply with `python3 scripts/apply-taxonomy.py`.
+
+### Medium priority
+
+- [ ] **Add descriptions to 13 posts missing them.** Run `python3 scripts/generate_descriptions.py` and review.
+
+- [ ] **Add explicit URL slugs to 7 posts missing `url:` field.** Not urgent (Hugo derives the slug from filename), but explicit URLs prevent accidental breakage.
+
+- [ ] **Prune or consolidate the long tail of tags.** 163 distinct tags with many used only once. Run `scripts/audit-frontmatter.py` to get a fresh list and triage.
+
+- [ ] **Add Bluesky to `socialIcons` in `hugo.yaml`.** Account is active, POSSE workflow syndicates to it. Add one entry alongside the existing Mastodon entry.
+
+- [ ] **Categorize 5 remaining uncategorized posts.** Small number — find them with `python3 scripts/audit-frontmatter.py` and assign manually.
+
+### Low priority / when convenient
+
+- [ ] **Track PaperMod deprecation warnings.** `.Language.LanguageDirection` and `.Language.LanguageCode` are deprecated since Hugo 0.158.0 and used in the PaperMod theme. Watch PaperMod releases; file an upstream issue if needed.
+
+- [ ] **Audit static/wp-content/ for orphaned legacy media.** Use `scripts/cleanup_images.sh` (dangerous — run only after verifying no content references the files).
+
+- [ ] **Review or publish the 2 draft blog posts.**
+
+- [ ] **Re-run external link check.** `docs/AUDIT-06-external-links.md` is the prior inventory (March 2025). Run `python3 scripts/check-external-links.py` for a fresh pass when time allows.
 
 ---
 
-## Weeks 2-3: Foundation Work (8-10 hours) 🟡
+## Completed (since last audit)
 
-### Categories Consolidation (3-4 hours)
-- [ ] Create `taxonomy_map.yaml` with mapping rules
-- [ ] Test category consolidation script
-- [ ] Consolidate categories:
-  - [ ] bible + religion + discipleship → theology
-  - [ ] politics + justice + law → ethics
-  - [ ] anglicanism + some sermons → ministry
-  - [ ] Tools + tools + technology + software engineering → productivity
-- [ ] Update Hugo config if needed
-- [ ] Verify all category pages work
-
-### Tags Addition (3-4 hours)
-- [ ] Add tags to top 50 posts by traffic:
-  - [ ] Immigration posts: add "immigration", "christian ethics", "romans 13"
-  - [ ] Barth posts: add "barth", "theology", "church dogmatics"
-  - [ ] Bonhoeffer posts: add "bonhoeffer", "theology", "ethics"
-  - [ ] Career posts: add "career", "software", "ministry"
-- [ ] Standardize existing tags (capitalization, duplicates)
-- [ ] Create tag guidelines document
-
-### Remaining Broken Links (2 hours)
-- [ ] Fix remaining files with 1-3 broken links
-- [ ] Set up automated link checking (optional)
-- [ ] Document common link patterns to avoid
-
-**Weeks 2-3 Target:**
-- Categories: 6 core categories
-- Top 50 posts tagged
-- All broken links fixed
-- Site health score: 88/100
-
----
-
-## Month 2: Enhancement (10-15 hours) 🟢
-
-### Hub Pages Creation (5-6 hours)
-- [ ] Create Romans 13 hub page (`content/pages/romans-13-hub.md`)
-  - [ ] Comprehensive guide
-  - [ ] Link to all related posts
-  - [ ] Add study questions
-  - [ ] Include theologian quotes
-- [ ] Create Immigration Ethics hub (`content/pages/christian-immigration-ethics.md`)
-  - [ ] Link to top posts
-  - [ ] Biblical framework
-  - [ ] Resources section
-- [ ] Create Barth/Bonhoeffer resources hub
-  - [ ] Reading guides
-  - [ ] Link to dissertation content
-  - [ ] Beginner-friendly intros
-
-### Internal Linking (3-4 hours)
-- [ ] Add 3-5 internal links to top 20 posts
-- [ ] Link theology posts to each other
-- [ ] Link political theology posts together
-- [ ] Create "related posts" sections
-
-### SEO Enhancement (2-3 hours)
-- [ ] Add FAQ sections to top 10 posts:
-  - [ ] Immigration post
-  - [ ] Romans 13 post
-  - [ ] Flower Petal Exercise post
-  - [ ] Fascism post
-  - [ ] Top theology posts
-- [ ] Add schema markup for FAQs
-- [ ] Optimize for "People Also Ask" keywords
-
-### Automation Setup (1-2 hours)
-- [ ] Create pre-commit hook for link checking (optional)
-- [ ] Set up GitHub Actions for link validation (optional)
-- [ ] Create new post template with required fields
-
-**Month 2 Target:**
-- Hub pages: 3 created
-- Internal links per post: 3-5 average
-- FAQs on top 10 posts
-- Site health score: 95/100
+- [x] Category consolidation: 24 categories → 8 (October 2025 → current)
+- [x] Uncategorized posts reduced: 53 → 5
+- [x] `/notes/` section added (April 2026), POSSE workflow configured
+- [x] POSSE setup documented in `docs/POSSE-SETUP.md`
+- [x] `languageCode` → `locale` in `hugo.yaml` (deprecated since Hugo 0.158.0)
+- [x] `site.Language.LanguageCode` → `site.Language.Locale` in `layouts/partials/templates/opengraph.html`
+- [x] Stale audit docs (AUDIT-01 through AUDIT-05, October 2025) moved to `docs/archive/`
 
 ---
 
 ## Ongoing Maintenance
 
-### Weekly (15 minutes)
-- [ ] Check new posts have categories
-- [ ] Verify new posts have 3-5 tags
-- [ ] Review for broken links
+**Each new post:**
+- Assign a category (one of: theology, ethics, personal, productivity, dissertation, ministry, poem, politics)
+- Add 3-5 tags in kebab-case
+- Add a description (1-2 sentences)
 
-### Monthly (1 hour)
-- [ ] Run link checker script
-- [ ] Review analytics for 404s
-- [ ] Update hub pages with new content
-- [ ] Check tag consistency
+**Monthly:**
+- Run `python3 scripts/audit-frontmatter.py` and review output in `scripts/data/`
+- Spot-check for new broken links
 
-### Quarterly (2-3 hours)
-- [ ] Full taxonomy review
-- [ ] Update FAQs based on search queries
-- [ ] Review internal linking strategy
-- [ ] Update hub pages
-
-### Annually (1 day)
-- [ ] Complete content audit
-- [ ] Review category effectiveness
-- [ ] Evaluate site structure
-- [ ] Plan next year's content strategy
+**Quarterly:**
+- Run `python3 scripts/check-internal-links.py` and fix confirmed broken links
+- Review tag list for drift (target: stay below 175 distinct tags)
 
 ---
 
 ## Quick Commands
 
 ```bash
-# Check for uncategorized posts
-python3 audit-frontmatter.py
+# Audit frontmatter coverage
+python3 scripts/audit-frontmatter.py
 
-# Run link checker
-python3 check-internal-links.py
+# Check internal links
+python3 scripts/check-internal-links.py
 
-# Build and check for errors
+# Suggest tags for untagged posts
+python3 scripts/suggest-tags.py
+
+# Apply taxonomy consolidation
+python3 scripts/apply-taxonomy.py
+
+# Build and verify
 npm run build
 
-# Test locally
+# Local dev server
 npm run dev
 
-# Deploy changes
-git add . && git commit -m "Content cleanup: [describe changes]" && git push
+# Deploy (commits all changes and pushes to main)
+npm run deploy "Describe changes here"
 ```
-
----
-
-## Success Metrics Tracking
-
-| Metric | Before | Week 1 Target | Month 1 Target | Month 2 Target |
-|--------|--------|---------------|----------------|----------------|
-| Health Score | 77/100 | 82/100 | 90/100 | 95/100 |
-| Posts without categories | 53 | <10 | 0 | 0 |
-| Posts without tags | 197 | 197 | <100 | <50 |
-| Broken link files | 118 | <20 | 0 | 0 |
-| Number of categories | 24 | 24 | 6 | 6 |
-| Hub pages | 0 | 0 | 1 | 3 |
-| FAQs on top posts | 0 | 0 | 5 | 10 |
-
----
-
-## Notes
-
-- Always test changes locally before deploying
-- Commit frequently with clear messages
-- Back up before bulk operations
-- Focus on high-traffic content first
-- Use analytics to guide priorities
-
----
-
-*Generated: October 11, 2025*
-*See AUDIT-MASTER-REPORT.md for full details*

@@ -1,6 +1,6 @@
 baseURL: https://joshuapsteele.com
 publishDir: public
-languageCode: en-US
+locale: en-US
 title: Joshua P. Steele
 theme: PaperMod
 timeZone: America/New_York

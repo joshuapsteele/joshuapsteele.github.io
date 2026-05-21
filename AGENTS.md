@@ -1,8 +1,8 @@
-# CLAUDE.md
+# AGENTS.md
 
 _Last refreshed: 2026-05-21_
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to Codex (Codex.ai/code) when working with code in this repository.
 
 ## Project Overview
 
@@ -207,7 +207,7 @@ Validate implementations with:
 
 ## Taxonomy Management
 
-The site uses a taxonomy consolidation system to maintain consistent categories and tags. As of the 2026-05-21 refresh: 8 categories (theology, ethics, personal, productivity, dissertation, ministry, poem, politics) and 163 distinct tags. Only 5 blog posts (1.5%) are uncategorized; 134 (41.4%) are untagged.
+The site uses a taxonomy consolidation system to maintain consistent categories and tags. As of the 2026-05-21 refresh: 7 categories (theology, ethics, personal, ministry, productivity, poem, politics) and ~123 distinct tags.
 
 ### Taxonomy Files
 - `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
@@ -250,7 +250,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `scripts/amazon/` - Amazon-specific data scripts
 
 ### Documentation Files
-- `CLAUDE.md` - This file - AI assistant guidance
+- `AGENTS.md` - This file - AI assistant guidance
 - `docs/AGENTS.md` - Repository guidelines and conventions
 - `docs/AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
 - `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings

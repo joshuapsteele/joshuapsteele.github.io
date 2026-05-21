@@ -1,312 +1,163 @@
-# Content Audit - Master Report
-## joshuapsteele.com Hugo Site
+# Site Audit — Master Report
 
-**Audit Date:** October 11, 2025
-**Audited By:** Claude Code AI Assistant
-**Total Files Analyzed:** 348 markdown files
-
----
-
-## 📊 Executive Summary
-
-This comprehensive audit analyzed your entire Hugo-based website to identify content optimization opportunities. The site is performing well overall with strong SEO foundations, but significant opportunities exist for improvement.
-
-### Site Health Score: **77/100** 🟡
-
-**Breakdown:**
-- ✅ Description coverage: 99.4% (347/348 posts)
-- ✅ URL standardization: 98.3% (342/348 files)
-- 🟡 Category coverage: 84.8% (295/348 posts)
-- 🔴 Tag coverage: 43.4% (151/348 posts)
-- 🟡 Internal links health: 61.7% working (173/452 links)
+**Date:** 2026-05-21
+**Site:** joshuapsteele.com (Hugo / PaperMod)
+**Auditor:** Claude Code
 
 ---
 
-## 🎯 Key Findings
+## What Matters Most (start here)
 
-### Strengths ✅
+These are the four areas where attention will produce the most improvement, in order:
 
-1. **Excellent metadata coverage** - Nearly all posts have descriptions and proper URLs
-2. **Clean file structure** - Well-organized with 305 blog posts + 41 pages
-3. **Strong content base** - 348 pieces of content with consistent formatting
-4. **Good author attribution** - 92.2% of posts have author field
-5. **Traffic foundation** - 36,873 page views YTD with strong SEO performance
+1. **Tags on older blog posts.** 134 of 324 blog posts (41%) have no tags at all. Tags are the primary discovery mechanism for related content. Running `scripts/suggest-tags.py` on the untagged posts and reviewing the suggestions is the lowest-effort, highest-return action available.
 
-### Critical Issues 🔴
+2. **Tag drift and casing inconsistencies.** Tags have grown to 163 distinct values (up from 114 in October 2025). Two casing variants exist: `bonhoeffer` vs `Bonhoeffer`, and `romans 13` vs `Romans 13`. One oddly-cased tag: `ICE`. Consolidate these with `scripts/apply-taxonomy.py`.
 
-1. **53 posts missing categories** (15.2%)
-   - Impact: Poor site navigation, missed SEO opportunities
-   - Priority: HIGH - Fix in Week 1
+3. **One broken internal link.** `content/blog/my-soccer-kit.md` links to `/recommended-tools-and-resources/` but the page now lives at `/resources/`. Fix this manually.
 
-2. **197 posts missing tags** (56.6%)
-   - Impact: Limited content discovery, weak related posts
-   - Priority: MEDIUM - Focus on top 50 posts first
-
-3. **118 files with broken internal links** (279 total instances)
-   - Impact: Poor user experience, SEO penalties
-   - Priority: HIGH - Fix top 20 files in Week 1
-
-4. **24 categories (too fragmented)**
-   - Impact: Confusing navigation, diluted category pages
-   - Priority: MEDIUM - Consolidate to 5-6 core categories
+4. **Hugo deprecation warning from the PaperMod theme.** `.Language.LanguageDirection` and a residual `.Language.LanguageCode` reference in the theme's own templates will eventually break when Hugo removes those APIs. The fix requires opening an issue or PR against PaperMod, or overriding `themes/PaperMod/layouts/_default/baseof.html` locally. Not urgent today, but will become urgent when Hugo removes the deprecated API.
 
 ---
 
-## 📁 Detailed Findings
+## Current State (measured 2026-05-21)
 
-### 1. Site Structure
+### Content
 
-**Directory Layout:**
-```
-content/
-├── blog/          (305 posts)
-├── pages/         (41 pages)
-├── files.md       (1 file)
-└── search.md      (1 file)
-```
+| Section | Count | Date range |
+|---------|-------|------------|
+| Blog posts (published) | 322 | 2009-05-10 to 2026-05-17 |
+| Blog posts (draft) | 2 | — |
+| Notes | 16 | 2026-04-17 to 2026-05-19 |
+| Pages | 43 | — |
+| **Total pages (Hugo output)** | **730** | — |
 
-**Assessment:** Clean and functional structure. No changes needed.
+The notes section (`content/notes/`) was added in April 2026 as the POSSE canonical feed, syndicated to Mastodon and Threads via Micro.blog.
 
-👉 **See:** `AUDIT-01-structure.md` for full analysis
+### Frontmatter Coverage (blog posts, 324 total)
 
-### 2. Front Matter & Metadata
+| Field | Missing | % Missing | Status |
+|-------|---------|-----------|--------|
+| title | 0 | 0% | Good |
+| date | 0 | 0% | Good |
+| categories | 5 | 1.5% | Good |
+| description | 13 | 4.0% | Acceptable |
+| url | 7 | 2.2% | Acceptable |
+| tags | 134 | 41.4% | Needs work |
 
-**Total posts analyzed:** 348
+### Taxonomy
 
-**Field coverage:**
-| Field | Coverage | Status |
-|-------|----------|--------|
-| title | 99.7% | ✅ Excellent |
-| description | 99.4% | ✅ Excellent |
-| url | 98.3% | ✅ Excellent |
-| author | 92.2% | ✅ Good |
-| date | 87.6% | 🟡 Needs attention |
-| categories | 84.8% | 🟡 Needs improvement |
-| tags | 43.4% | 🔴 Critical gap |
+**Categories (8 distinct):**
 
-**Posts needing attention:**
-- 53 without categories
-- 197 without tags
-- 1 without descriptions
+| Category | Posts |
+|----------|-------|
+| theology | 130 |
+| personal | 85 |
+| ethics | 65 |
+| productivity | 59 |
+| dissertation | 38 |
+| ministry | 13 |
+| poem | 1 |
+| politics | 1 |
+| Uncategorized | 5 |
 
-👉 **See:** `AUDIT-02-frontmatter.md` for complete lists
+Note: post counts exceed 324 because some posts carry multiple categories.
 
-### 3. Internal Links Health
+The prior audit (October 2025) found 24 categories with 53 uncategorized posts. The consolidation to 8 categories was completed and worked well — only 5 posts remain uncategorized.
 
-**Total links analyzed:** 2387
-**Internal links:** 452
-**Working:** 173 (61.7%)
-**Broken:** 118 files affected
+**Tags (163 distinct):**
 
-**Top files needing fixes:**
-- `pages/essays.md` (14 broken links)
-- `pages/sermons.md` (14 broken links)
-- `blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md` (11 broken links)
-- `blog/finding-a-hat-for-my-big-bald-head.md` (9 broken links)
-- `blog/hate-running-try-rucking-instead.md` (9 broken links)
+Tags have drifted up from 114 (October 2025) to 163. Top tags: barth (33), research (26), bonhoeffer (25), bible (19), politics (15), list (13), reading (13). Tag casing issues: `bonhoeffer`/`Bonhoeffer`, `romans 13`/`Romans 13`, `ICE`.
 
-👉 **See:** `AUDIT-03-internal-links.md` for complete broken link list
+### Build
 
-### 4. Taxonomy Structure
+Build succeeds cleanly: 730 pages, 1260ms (tested 2026-05-21 with Hugo 0.161.1 locally, CI uses 0.160.1).
 
-**Current state:**
-- 24 categories (too many)
-- 114 unique tags
+Two deprecation warnings remain from the PaperMod theme (not fixable without theme changes):
+- `.Language.LanguageDirection` in `themes/PaperMod/layouts/_default/baseof.html`
+- `.Language.LanguageCode` in `themes/PaperMod/layouts/partials/templates/opengraph.html`
 
-**Issues:**
-- Many categories have <3 posts
-- Duplicate categories (Tools vs tools)
-- Overlapping categories (bible + theology)
+Fixed in this audit:
+- `languageCode` → `locale` in `hugo.yaml` (was deprecated since Hugo 0.158.0)
+- `site.Language.LanguageCode` → `site.Language.Locale` in `layouts/partials/templates/opengraph.html` (project override)
 
-**Recommendation:** Consolidate to 6 core categories:
-1. theology (consolidate bible, religion, discipleship)
-2. ethics (consolidate politics, justice, law)
-3. ministry (consolidate anglicanism, sermons)
-4. personal
-5. productivity (consolidate tools, software engineering)
-6. dissertation (keep separate)
+### Internal Links
 
-👉 **See:** `AUDIT-05-taxonomy.md` for detailed migration plan
+One confirmed broken internal link:
+- `content/blog/my-soccer-kit.md` links to `/recommended-tools-and-resources/` but the resources page URL is now `/resources/`
 
----
+Most other "suspect" internal links are valid — they use custom `url:` frontmatter overrides that a naive path-checker misses. The existing `scripts/check-internal-links.py` is more reliable than ad-hoc path matching for this.
 
-## 🚀 Implementation Roadmap
+### External Links
 
-### Week 1: Critical Fixes (6-7 hours)
+437 distinct external hosts are referenced. A full pass was not done in this audit (the existing `docs/AUDIT-06-external-links.md` is the inventory of known-broken links from the prior audit). Notable:
+- Links to `twitter.com/joshuapsteele` exist in several posts — the account appears inactive.
+- Several links point to expired church/theology sites (acnatoo.org, various Anglican sites) that may have moved.
 
-**Goals:**
-- Fix broken links in top 20 files
-- Add categories to all uncategorized high-traffic posts
-- Verify changes with local testing
+### Scripts
 
-**Estimated impact:**
-- Improved user experience (fewer 404s)
-- Better site navigation
-- SEO improvements
+All scripts in `scripts/` appear structurally intact (no empty files, no obviously broken imports). The `scripts/README.md` is current as of the April 2026 POSSE setup. Scripts added since October 2025 that are now documented: `check_conversation_sources.py`, `cleanup_posts.py`, `convert-taxonomy-to-kebab-case.py`, `fetch_popular_posts.py`, `fetch_syndication_links.py`, `manage-notes.py`, `migrate-microblog-archive.py`, `taxonomy_tools.py`, `amazon/`.
 
-### Weeks 2-3: Foundation Work (8-10 hours)
+### Dead Code
 
-**Goals:**
-- Consolidate categories (24 → 6)
-- Add tags to top 50 posts
-- Fix remaining broken links
-- Create taxonomy guidelines
+All 8 shortcodes have at least one use in content:
+- `callout`: 65 uses (most used)
+- `audio`: 12 uses
+- `figure`: 14 uses
+- `gallery`, `files-list`, `amazon-purchases-table`, `linklog-pinned`, `popular-posts`: 1 use each
 
-**Estimated impact:**
-- Cleaner site structure
-- Better content discovery
-- Improved related posts functionality
+The `layouts/_default/redirect.html` is used by `content/blog/if-women-can-be-saved-then-women-can-be-priests.md` (redirects to inchristus.com). Not dead.
 
-### Month 2: Enhancement (10-15 hours)
+The Disqus shortname in `hugo.yaml` is commented out — harmless but also harmless to leave.
 
-**Goals:**
-- Create hub pages (Romans 13, Immigration Ethics, Barth/Bonhoeffer)
-- Add internal links between related content
-- Add FAQs to top 10 posts
-- Implement automated link checking
-
-**Estimated impact:**
-- Increased pages per session
-- Better SEO (hub pages, FAQs)
-- Enhanced site authority
-
-👉 **See:** `AUDIT-04-action-plan.md` for detailed checklists
+The `static/wp-content/` directory contains legacy WordPress media. A full incoming-link check against content would be needed to identify orphaned files. The existing `scripts/cleanup_images.sh` is flagged as dangerous — run only after a full link audit.
 
 ---
 
-## 📈 Success Metrics
+## Improvement Priorities
 
-### Before Cleanup (Current State)
-- Posts without categories: 53
-- Posts without tags: 197
-- Posts without descriptions: 1
-- Files with broken links: 118
-- Number of categories: 24
-- Site health score: 77/100
+### High (do next)
 
-### After Week 1 (Target)
-- Posts without categories: <10
-- Broken links in top 20 files: 0
-- Category coverage: >95%
-- Site health score: 82/100
+1. **Tag the untagged posts.** Run `scripts/suggest-tags.py` on the 134 untagged posts, review suggestions, and apply with `scripts/apply-taxonomy.py`. Focus on high-traffic posts first.
 
-### After Month 1 (Target)
-- Posts without categories: 0
-- Posts without tags: <100 (top traffic posts tagged)
-- Broken internal links: 0
-- Number of categories: 6 (streamlined)
-- Hub pages created: 3
-- Site health score: 90/100
+2. **Fix the broken internal link.** Change `/recommended-tools-and-resources/` to `/resources/` in `content/blog/my-soccer-kit.md`.
 
-### After Month 2 (Target)
-- Tag coverage: >70%
-- FAQs on top posts: 10+
-- Internal links per post: 3-5 average
-- Site health score: 95/100
+3. **Consolidate tag casing.** Add rules to `scripts/data/taxonomy_map.yaml` for: `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13` (or similar), `ICE` → `ice`. Run `scripts/apply-taxonomy.py`.
+
+### Medium (worth doing)
+
+4. **Add missing descriptions.** 13 posts have no description. Run `scripts/generate_descriptions.py` on those posts.
+
+5. **Add missing URL slugs.** 7 posts have no explicit `url:` field. Not a breaking issue (Hugo derives the URL from the filename), but explicit URLs prevent accidental slug changes.
+
+6. **Prune low-value tags.** With 163 distinct tags, many are used only once or twice on old theology posts (sermons, anglicanism-specific terms). Periodic consolidation keeps the tag cloud usable.
+
+7. **Add Bluesky to socialIcons in hugo.yaml.** The account is active, the POSSE workflow syndicates to it, and the GitHub profile already lists it. One-line addition.
+
+### Low (when convenient)
+
+8. **Track the PaperMod deprecation warnings.** Subscribe to PaperMod releases or file the issue upstream. The deprecated APIs will be removed eventually.
+
+9. **Audit static/wp-content/.** Identify and remove orphaned legacy WordPress media files using `scripts/cleanup_images.sh` (run with care, after verifying no content references the files).
+
+10. **Review the 2 draft posts.** Decide whether they should be published, revised, or deleted.
 
 ---
 
-## 📚 Supporting Documents
+## Docs Status (as of 2026-05-21)
 
-This audit generated the following reports:
-
-1. **AUDIT-01-structure.md** - Site structure and file organization analysis
-2. **AUDIT-02-frontmatter.md** - Metadata coverage and front matter issues
-3. **AUDIT-03-internal-links.md** - Broken internal links report
-4. **AUDIT-04-action-plan.md** - Prioritized action items with checklists
-5. **AUDIT-05-taxonomy.md** - Category/tag consolidation recommendations
-6. **AUDIT-MASTER-REPORT.md** - This comprehensive summary (you are here)
-
-**Data files:**
-- `audit-frontmatter.json` - Machine-readable frontmatter data
-- `audit-internal-links.json` - Machine-readable links data
-- `post-inventory.txt` - Complete list of all files
-
----
-
-## 🎯 Alignment with Growth Strategy
-
-This audit directly supports your audience growth goals:
-
-**Priority 1A: Immigration + Political Theology**
-- Fix broken links in Romans 13 post (top traffic)
-- Ensure proper categorization (ethics)
-- Create hub page for immigration ethics content
-
-**Priority 2A: Barth + Bonhoeffer Content**
-- Consolidate theology category
-- Ensure barth/bonhoeffer tags are consistent
-- Create theology hub page
-
-**Priority 2B: Pastor → Programmer Journey**
-- Consolidate productivity/software engineering categories
-- Add proper tags to career transition posts
-- Create /pastor-to-programmer hub
-
-**Priority 3: Fix the "Other" Problem**
-- Categorize 53 uncategorized posts
-- Consolidate 24 → 6 categories
-- Improve related posts functionality
-
----
-
-## ✅ Next Steps
-
-### Immediate (Today)
-1. Review this master report
-2. Review `AUDIT-04-action-plan.md` for detailed Week 1 checklist
-3. Decide on implementation timeline
-
-### This Week
-1. Start with broken links in top traffic posts
-2. Categorize high-priority uncategorized posts
-3. Test changes locally before deploying
-
-### This Month
-1. Complete all critical fixes (categories, broken links)
-2. Begin taxonomy consolidation
-3. Start creating hub pages
-4. Set up automated link checking for CI/CD
-
----
-
-## 💡 Maintenance Plan
-
-To prevent these issues from recurring:
-
-**Weekly:**
-- Check for new uncategorized posts
-- Verify new posts have 3-5 tags
-
-**Monthly:**
-- Run broken link checker
-- Review analytics for 404 errors
-- Check for orphaned content
-
-**Quarterly:**
-- Full taxonomy review
-- Update hub pages
-- Review and update metadata
-
-**Annually:**
-- Complete content audit (like this one)
-- Review taxonomy effectiveness
-- Evaluate site structure
-
----
-
-## 📞 Questions to Consider
-
-Before starting implementation:
-
-1. **Timeline:** Do you want to fix everything at once or incrementally?
-2. **Priorities:** Should we focus on high-traffic content first?
-3. **Automation:** Do you want scripts to help with bulk categorization?
-4. **Taxonomy:** Are you comfortable with the 6 core categories proposed?
-5. **Hub pages:** Which hub page should we create first?
-
----
-
-*Audit completed: October 11, 2025*
-*Estimated total implementation time: 25-35 hours over 2 months*
-*Expected traffic impact: +15-30% within 90 days*
+| File | Status |
+|------|--------|
+| AGENTS.md | Current |
+| AUDIT-MASTER-REPORT.md | Refreshed (this file) |
+| AUDIT-06-external-links.md | From March 2025 — use as baseline; re-run `check-external-links.py` for a full refresh |
+| CLEANUP-CHECKLIST.md | Updated |
+| NOTES-TOOLS.md | Current (April 2026) |
+| POSSE-SETUP.md | Current (April 2026) |
+| theology-blog.md | Current |
+| archive/AUDIT-01-structure.md | Archived — from October 2025, pre-POSSE |
+| archive/AUDIT-02-frontmatter.md | Archived — from October 2025 |
+| archive/AUDIT-03-internal-links.md | Archived — from October 2025 |
+| archive/AUDIT-04-action-plan.md | Archived — superseded by this report |
+| archive/AUDIT-05-taxonomy.md | Archived — taxonomy consolidation was completed |
+| archive/AUDIENCE_GROWTH_STRATEGY.md | Archived — strategy document, not a reference artifact |
