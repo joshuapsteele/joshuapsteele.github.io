@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-02-25T15:06:44Z'
-description: This idea has been bouncing around in my head for a bit.
+description: "Could the idea of 'mental models'—simplified concepts that help explain how the world works—be a helpful model for how we understand and do theology?"
 tags:
 - theology
 title: 'Mental Models: A Helpful Model for Theology?'

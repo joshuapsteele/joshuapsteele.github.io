@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2013-01-13T21:22:06Z'
-description: 'To my sisters and brothers in Christ, entrusted with the arduous task
-  of leading and directing Cedarville University: greetings, grace, and peace.'
+description: "An open letter to Cedarville University's leadership, raising concerns—as a grateful alumnus—about institutional decisions that seemed to contradict the gospel I learned there."
 title: Open Letter to Cedarville Admins and Trustees
 tags:
   - college

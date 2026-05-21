@@ -4,8 +4,7 @@ categories:
 - ethics
 - theology
 date: 2011-02-10
-description: 'Introduction: Poverty and Wealth In contrast to the affluence of mainstream
-  American culture, poverty is a harsh and painful reality.'
+description: "A topical study of what the book of Proverbs teaches about poverty and wealth—the nature of poverty, the character of God, and how his people should respond."
 tags:
 - poverty
 - proverbs

@@ -4,8 +4,7 @@ categories:
 - dissertation
 - theology
 date: '2019-11-21T22:04:08Z'
-description: I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon
-  on the Mount.
+description: "A taxonomy of the major interpretive approaches to the Sermon on the Mount—from medieval two-level ethics to inaugurated eschatology—gathered while studying Barth and Bonhoeffer."
 title: Interpretive Approaches to the Sermon on the Mount
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
 tags:

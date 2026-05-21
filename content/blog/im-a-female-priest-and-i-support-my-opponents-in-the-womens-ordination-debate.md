@@ -2,8 +2,7 @@
 author: Hannah King
 categories: personal
 date: '2020-07-02T06:00:53Z'
-description: There is not unanimous agreement about women’s ordination in the worldwide
-  Anglican Communion.
+description: "A female ACNA priest makes the case for 'dual integrities'—why she supports those who disagree with her in the Anglican debate over women's ordination."
 title: I'm a Female Priest and I Support My Opponents in the Women's Ordination Debate
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/
 tags:

@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: ministry
 date: '2019-01-30T14:31:31Z'
-description: Maybe you, like me, are coming to Anglicanism from a different tradition.
+description: "A starter set of resources for understanding women's ordination debates within Anglicanism—which often look quite different from the same debates in other traditions."
 title: Want to Learn More about Women’s Ordination Debates within Anglicanism? Start
   With These Resources
 url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/

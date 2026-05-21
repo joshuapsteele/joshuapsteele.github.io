@@ -4,8 +4,7 @@ categories:
 - dissertation
 - theology
 date: '2019-11-25T19:13:39Z'
-description: Yesterday, I wrote just a bit about interpretive approaches to the Beatitudes
-  in Matthew 5.
+description: "Are the Beatitudes 'good works,' or something else? Wrestling with Matthew 5:13-16 and how Barth and Bonhoeffer read the opening of the Sermon on the Mount."
 tags:
 - bonhoeffer
 title: Are the Beatitudes “Good Works”? (Matt. 5:13–16)

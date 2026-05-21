@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-06-27T15:04:37Z'
-description: 'SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*,
-  ed.'
+description: "An index of Dietrich Bonhoeffer's sermons and meditations, keyed to the volumes of the Dietrich Bonhoeffer Works (DBWE) English edition."
 tags:
 - bible
 - bonhoeffer

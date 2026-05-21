@@ -3,8 +3,7 @@ TocOpen: false
 author: joshuapsteele
 categories: personal
 date: 2025-06-24 16:08:15-04:00
-description: I'm putting this out there because I'm genuinely stuck, and I'm hoping
-  some of you have been where I am and can offer some wisdom.
+description: "An honest ask for advice: how do you actually make friends as a tired, introverted dad in your 30s? Where I'm stuck, and what I'm hoping to learn from others."
 draft: false
 showToc: false
 tags:

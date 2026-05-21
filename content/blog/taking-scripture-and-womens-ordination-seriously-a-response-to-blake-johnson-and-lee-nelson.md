@@ -4,7 +4,7 @@ categories:
 - personal
 - theology
 date: '2019-11-18T15:31:52Z'
-description: 'Emily McGowin responds to her critics regaring women''s ordination.'
+description: "Emily McGowin's rejoinder to Blake Johnson and Lee Nelson, clarifying her critique of the *in persona Christi* argument against women's ordination."
 title: 'Taking Scripture and Women’s Ordination Seriously: A Response to Blake Johnson
   and Lee Nelson'
 url: /taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/

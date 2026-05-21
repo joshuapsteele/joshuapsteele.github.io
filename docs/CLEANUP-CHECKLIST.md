@@ -17,6 +17,7 @@ _No open high-priority items._
 ### Medium priority
 
 - [ ] **Curate descriptions for popular posts first.** Start with the current Tinylytics top 10 in `data/popular.json`, then continue down the traffic list in batches.
+  - **Progress (2026-05-21):** Top ~100 blog posts by 2026-YTD Tinylytics traffic now all have curated (non-fallback) descriptions. Worked in batches (ranks 1–20, 21–40, 41–60, 61–81, 82–100); rewrote 46 fallback/weak descriptions in total (incl. two typo fixes), leaving those already well-written. `npm run build` passes after each batch. Next: continue down the traffic list (posts ranked ~101+, where traffic is ~28 hits/yr and falling).
 
 ### Low priority / when convenient
 

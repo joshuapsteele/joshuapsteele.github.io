@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2017-08-07T07:00:36Z'
-description: The following is an attempt to tell my testimony, the story of my Christian
-  faith, in approximately 500 words.
+description: "My Christian testimony in about 500 words—the story of my faith and my ongoing struggle to truly know Jesus, not just to know about him."
 title: 'Testimony: A Faith Story, In Brief'
 tags:
   - discipleship

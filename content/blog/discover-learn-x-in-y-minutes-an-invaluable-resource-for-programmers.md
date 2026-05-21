@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-03-18T12:50:58Z'
-description: As a programmer or someone aspiring to be one, you’re always on the lookout
-  for valuable resources to help you learn new languages and tools.
+description: "A look at learnxinyminutes.com—concise, code-focused tutorials that teach you the essentials of dozens of programming languages and tools, fast."
 title: 'Discover Learn X in Y Minutes: An Invaluable Resource for Programmers'
 url: /discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers/
 tags:

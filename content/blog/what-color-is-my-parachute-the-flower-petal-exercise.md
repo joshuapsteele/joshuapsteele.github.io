@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2021-01-19T22:34:46Z'
-description: I’m working my way through the classic job search guide *What Color Is
-  Your Parachute*.
+description: "A walkthrough of the seven-part Flower Petal self-assessment from *What Color Is Your Parachute?*—and my own results from working through this classic job-search exercise."
 title: What Color is My Parachute? The Flower Petal Exercise
 tags:
   - career

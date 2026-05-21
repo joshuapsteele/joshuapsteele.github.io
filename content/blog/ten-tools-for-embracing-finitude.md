@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2024-11-13T16:40:14-05:00
-description: "Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman 1."
+description: "Ten practical tools from Oliver Burkeman's *Four Thousand Weeks* for embracing your limits—from 'fixed-volume' productivity to strategic underachievement."
 tags:
   - reading
   - 80-20

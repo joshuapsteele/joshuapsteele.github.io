@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-09-03T15:06:21Z'
-description: Karl Barth’s Church Dogmatics Original Publication Dates, courtesy of
-  PostBarthian.com.
+description: "A section-by-section outline of Karl Barth's massive *Church Dogmatics*, with downloadable PDFs to help you navigate its volumes and paragraphs."
 tags:
 - barth
 - research

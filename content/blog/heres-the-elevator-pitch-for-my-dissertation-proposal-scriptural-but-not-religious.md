@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2018-04-17T21:30:36Z'
-description: Tomorrow, I defend the proposal for my dissertation.
+description: "The elevator pitch for my doctoral dissertation, 'Scriptural, but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.'"
 tags:
 - barth
 - bible

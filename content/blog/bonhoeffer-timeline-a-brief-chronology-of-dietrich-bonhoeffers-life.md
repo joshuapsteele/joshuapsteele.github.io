@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-11-12T15:21:09Z'
-description: 'The *Cambridge Companion to Dietrich Bonhoeffer* SOURCE (Amazon affiliate
-  link): John W.'
+description: "A year-by-year chronology of Dietrich Bonhoeffer's life, from his 1906 birth in Breslau to his final years, drawn from the *Cambridge Companion to Dietrich Bonhoeffer*."
 tags:
 - bonhoeffer
 - theology

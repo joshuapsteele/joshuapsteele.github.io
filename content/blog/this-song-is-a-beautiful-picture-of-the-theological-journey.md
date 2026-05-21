@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - theology
-description: I was recently privileged to see one of my favorite bands, The Oh Hellos, in concert at the House of Blues in downtown Chicago.
+description: "How The Oh Hellos' song 'The Truth is a Cave' captures the stages of the theological journey—the way our knowledge of God shifts and deepens over a lifetime."
 tags:
   - music
   - theology

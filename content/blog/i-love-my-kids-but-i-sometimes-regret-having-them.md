@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2024-09-24T08:51:00Z'
-description: I love my kids, but I sometimes regret having them. Pardon the clickbait-y
-  title and opening sentence. But are we parents allowed to say that.
+description: "An honest reflection on parenting three young kids—holding deep love and real exhaustion (even regret) at once, and whether parents are allowed to admit it."
 tags:
 - parenting
 title: I Love My Kids, But I Sometimes Regret Having Them

@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2025-03-07T09:16:56-05:00'
-description: As I mentioned in my previous post, "Devs, Let's Talk Authorization!",
-  I'm working on a new, exploratory work project related to authorization.
+description: "Notes from building a centralized, fine-grained authorization prototype—weighing OpenFGA, Topaz, and Permify against role- and attribute-based access control."
 tags:
 - authorization
 title: 'Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify'

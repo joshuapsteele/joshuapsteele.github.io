@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-03-09T14:10:31Z'
-description: I’m posting my answers to these software engineering questions here,
-  just in case anyone else finds them helpful.
+description: "My answers to common software engineering questions from a coding bootcamp student—how I got into the field, what I'd recommend, and lessons from the transition."
 title: 'Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student'
 url: /ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/
 tags:

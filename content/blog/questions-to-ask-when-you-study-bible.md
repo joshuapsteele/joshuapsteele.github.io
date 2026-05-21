@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-01-31T15:09:33Z'
-description: 'The Problem: Studying the Bible can Quickly Feel Overwhelming Right.'
+description: "Three simple, memorable questions to ask of any Bible passage you study—a framework I learned from Allen Ross and Gerald Bray at Beeson Divinity School."
 tags:
 - bible
 - questions

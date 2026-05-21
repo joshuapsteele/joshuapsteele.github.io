@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-12-20T22:42:14Z'
-description: As a part of my “pedagogical experience” at Wheaton College this semester,
-  I was required to draft a syllabus for an introduction to Christian theology.
+description: "A draft syllabus for an Introduction to Christian Theology course, written for my teaching practicum at Wheaton College."
 format: aside
 tags:
 - theology

@@ -3,8 +3,7 @@ TocOpen: false
 author: joshuapsteele
 categories: theology
 date: 2025-08-13 09:00:00-04:00
-description: Tired of hearing Christians go nuclear over a verse in Revelation or
-  a line from Genesis.
+description: "A practical guide to disagreeing well about theology—how to argue over Scripture and doctrine without losing your cool or your brother and sister in Christ."
 draft: false
 showToc: true
 tags:

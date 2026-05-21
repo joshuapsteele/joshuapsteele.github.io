@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-02-12T20:47:11Z'
-description: Just came across this article in New Blackfriars, and it looks helpful,
-  especially in the context of Anglican debates about women’s ordination.
+description: "Geoffrey Turner argues the New Testament has four (even five) distinct kinds of priesthood—and why conflating them muddies debates like women's ordination."
 tags:
 - bible
 - theology

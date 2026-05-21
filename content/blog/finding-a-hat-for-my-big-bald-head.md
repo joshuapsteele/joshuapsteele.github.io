@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2024-04-26T12:48:48Z'
-description: I’ve been on a lifelong journey to find hats that will fit my big ol’
-  head.
+description: "My lifelong search for hats that actually fit a big, bald head—with notes on the Carhartt, Flexfit, and other caps I've tried and recommend."
 title: Finding a Hat for My Big, Bald Head
 tags:
   - recommendations

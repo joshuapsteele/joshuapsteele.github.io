@@ -3,8 +3,7 @@ author: joshuapsteele
 categories: theology
 tags: [essay, bible]
 date: '2013-10-30T22:24:35Z'
-description: (Here’s my paper on Psalm 2, submitted to Dr. Sydney Park in partial
-  fulfillment of my Biblical Interpretation course here at Beeson Divinity School.
+description: "An exegetical paper on Psalm 2—why the nations rage, the Lord's anointed Davidic king, and how the psalm is read in its canonical and New Testament context."
 title: 'Psalm 2: Quare Fremuerunt Gentes? (Why Do the Nations Rage?)'
 url: /psalm-2-quare-fremuerunt-gentes/
 ---
