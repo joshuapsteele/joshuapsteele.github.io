@@ -4,6 +4,8 @@
 **Site:** joshuapsteele.com (Hugo / PaperMod)
 **Auditor:** Claude Code
 
+> **Dated snapshot — do not edit.** This report captures the site's state on the date above. Do not update its numbers or findings as work proceeds; that is what `CLEANUP-CHECKLIST.md` (open items) and `TAGGING-PROGRESS.md` (tagging) are for. When the next audit is run, write a new dated report rather than editing this one.
+
 ---
 
 ## What Matters Most (start here)

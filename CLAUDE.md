@@ -2,7 +2,25 @@
 
 _Last refreshed: 2026-05-21_
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
+
+## Audit & Cleanup Project (cross-repo) — read this if doing audit, tagging, or cleanup work
+
+This repository and the companion Obsidian vault (`/Users/joshuapsteele/git/joshuapsteele`) are subject to a periodic audit-and-cleanup effort. If your task is part of that effort:
+
+**1. Where your instructions are.** This file (`CLAUDE.md`, symlinked as `AGENTS.md`) holds repo conventions. The project's findings and open work live in `docs/`:
+- `docs/AUDIT-MASTER-REPORT.md` — the latest dated audit snapshot. Read it for context; do not edit it (see point 3).
+- `docs/CLEANUP-CHECKLIST.md` — the living list of open items.
+- `docs/TAGGING-PROGRESS.md` — resumable state for the blog-post tagging effort.
+
+**2. You must log your progress.** Assume the next session (and the other tool — Claude Code or Codex) remembers nothing. If you do not record what you did, that work is invisible to whoever picks this up next.
+
+**3. Where to log it — update the living tracker in the same commit as the change:**
+- Tagging work → update the Progress section of `docs/TAGGING-PROGRESS.md`.
+- Completing an open item → check it off in `docs/CLEANUP-CHECKLIST.md` and move it to "Completed."
+- Do **not** edit the dated `docs/AUDIT-*.md` reports; they are point-in-time snapshots. When a new audit is run, write a new dated report instead.
+- `git log` is the history of record — do not hand-maintain a separate changelog.
+- Only mark something done after verifying it (e.g., `npm run build` passed, the item is actually complete).
 
 ## Project Overview
 

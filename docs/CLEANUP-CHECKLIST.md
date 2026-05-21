@@ -4,6 +4,8 @@
 **Updated:** 2026-05-21
 **See:** `AUDIT-MASTER-REPORT.md` for full findings.
 
+> **Living tracker — keep it current.** This is the open-items list for the audit-and-cleanup project. When you complete an item, check it off and move it to "Completed" in the same commit as the change. See the "Audit & Cleanup Project" section of `CLAUDE.md`/`AGENTS.md` for the full logging protocol.
+
 ---
 
 ## Open Items (prioritized)
