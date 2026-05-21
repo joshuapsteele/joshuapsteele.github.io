@@ -36,6 +36,10 @@ DEFAULT_SITE_HOSTS = {
 OUTPUT_FILE = REPO_ROOT / "data" / "popular.json"
 
 
+class TinylyticsAPIError(Exception):
+    """Raised when a Tinylytics API request fails."""
+
+
 def split_front_matter(text: str) -> tuple[str, str]:
     match = re.match(r"^---\s*\r?\n(.*?)\r?\n---\s*\r?\n(.*)$", text, flags=re.DOTALL)
     if not match:
@@ -133,13 +137,10 @@ def api_request(endpoint: str, api_key: str):
         with urlopen(req, timeout=30) as response:
             return json.loads(response.read().decode())
     except HTTPError as exc:
-        print(f"HTTP Error {exc.code}: {exc.reason}", file=sys.stderr)
-        if exc.code == 401:
-            print("Check your API key is correct.", file=sys.stderr)
-        raise SystemExit(1) from exc
+        hint = " (check your API key is correct)" if exc.code == 401 else ""
+        raise TinylyticsAPIError(f"HTTP Error {exc.code}: {exc.reason}{hint}") from exc
     except URLError as exc:
-        print(f"URL Error: {exc.reason}", file=sys.stderr)
-        raise SystemExit(1) from exc
+        raise TinylyticsAPIError(f"URL Error: {exc.reason}") from exc
 
 
 def site_matches_domain(site: dict, domain: str) -> bool:
@@ -182,10 +183,29 @@ def with_query(endpoint: str, params: dict[str, str]) -> str:
     return urlunparse(parsed._replace(query=urlencode(query)))
 
 
-def fetch_hits_by_path(api_key: str, site_id: str, days: int):
+def fetch_paginated_items(api_key: str, endpoint: str, params: dict[str, str], per_page: int = 1000) -> list[dict]:
+    """Fetch every page of a Tinylytics list endpoint and return the combined items."""
+    items: list[dict] = []
+    page = 1
+    while True:
+        page_endpoint = with_query(endpoint, {**params, "page": str(page), "per_page": str(per_page)})
+        data = api_request(page_endpoint, api_key)
+        page_items = extract_items(data)
+        items.extend(page_items)
+
+        pagination = data.get("pagination", {}) if isinstance(data, dict) else {}
+        total_pages = parse_count(pagination.get("total_pages"))
+        if not page_items or not total_pages or page >= total_pages:
+            break
+        page += 1
+    return items
+
+
+def fetch_hits_by_path(api_key: str, site_id: str, days: int) -> list[dict]:
     end_date = datetime.now()
     start_date = end_date - timedelta(days=days)
-    endpoint = with_query(
+    return fetch_paginated_items(
+        api_key,
         f"/sites/{site_id}/hits",
         {
             "start_date": start_date.strftime("%Y-%m-%d"),
@@ -194,11 +214,10 @@ def fetch_hits_by_path(api_key: str, site_id: str, days: int):
             "group_by": "path",
         },
     )
-    return api_request(endpoint, api_key)
 
 
-def fetch_leaderboard(api_key: str, site_id: str):
-    return api_request(f"/sites/{site_id}/leaderboard", api_key)
+def fetch_leaderboard(api_key: str, site_id: str) -> list[dict]:
+    return fetch_paginated_items(api_key, f"/sites/{site_id}/leaderboard", {})
 
 
 def extract_items(data) -> list[dict]:
@@ -293,6 +312,25 @@ def process_hits_data(data, path_map: dict[str, str], allowed_hosts: set[str], t
     return posts[:top_n]
 
 
+def log_unmatched_diagnostics(data, path_map: dict[str, str], allowed_hosts: set[str], limit: int = 15) -> None:
+    """Explain why no posts matched, to make a zero-match failure actionable."""
+    items = extract_items(data)
+    counted = [item for item in items if should_count_row(item, allowed_hosts)]
+    print(
+        f"Diagnostic: extracted {len(items)} item(s); {len(counted)} passed the event/host filter; "
+        f"path_map has {len(path_map)} known blog URL variants.",
+        file=sys.stderr,
+    )
+    if items and not counted:
+        print(f"Diagnostic: allowed hosts = {sorted(allowed_hosts)}", file=sys.stderr)
+    print("Diagnostic: sample of returned paths (raw -> normalized -> matched?):", file=sys.stderr)
+    for item in (counted or items)[:limit]:
+        raw_path = str(item.get("path") or item.get("url") or "")
+        norm = normalize_path(raw_path)
+        print(f"  {raw_path!r} -> {norm!r} -> {norm in path_map}", file=sys.stderr)
+    print("Diagnostic: sample of known blog paths: " + ", ".join(sorted(path_map)[:5]), file=sys.stderr)
+
+
 def read_csv_export(csv_path: Path, days: int) -> list[dict]:
     with csv_path.open(newline="", encoding="utf-8-sig") as file:
         rows = list(csv.DictReader(file))
@@ -365,8 +403,8 @@ def main() -> int:
 
     if args.csv_path:
         print(f"Reading Tinylytics CSV export: {args.csv_path}")
-        rows = read_csv_export(args.csv_path, args.days)
-        posts = process_hits_data(rows, path_map, allowed_hosts, args.top_n)
+        raw_data = read_csv_export(args.csv_path, args.days)
+        posts = process_hits_data(raw_data, path_map, allowed_hosts, args.top_n)
         source = f"csv:{args.csv_path.name}"
     else:
         print("Fetching popular posts from Tinylytics...")
@@ -376,13 +414,16 @@ def main() -> int:
         print(f"Fetching data for last {args.days} days...")
 
         try:
-            data = fetch_hits_by_path(api_key, site_id, args.days)
-            posts = process_hits_data(data, path_map, allowed_hosts, args.top_n)
-        except Exception as exc:
+            raw_data = fetch_hits_by_path(api_key, site_id, args.days)
+            posts = process_hits_data(raw_data, path_map, allowed_hosts, args.top_n)
+        except TinylyticsAPIError as exc:
             print(f"Hits endpoint failed: {exc}; trying leaderboard...", file=sys.stderr)
-            data = fetch_leaderboard(api_key, site_id)
-            posts = process_hits_data(data, path_map, allowed_hosts, args.top_n)
+            raw_data = fetch_leaderboard(api_key, site_id)
+            posts = process_hits_data(raw_data, path_map, allowed_hosts, args.top_n)
         source = "tinylytics-api"
+
+    if not posts and not args.allow_empty:
+        log_unmatched_diagnostics(raw_data, path_map, allowed_hosts)
 
     output = generate_output(posts, args.days, source)
     write_output(output, args.output, args.allow_empty)
@@ -394,4 +435,8 @@ def main() -> int:
 
 
 if __name__ == "__main__":
-    raise SystemExit(main())
+    try:
+        raise SystemExit(main())
+    except TinylyticsAPIError as exc:
+        print(f"Tinylytics API error: {exc}", file=sys.stderr)
+        raise SystemExit(1) from exc

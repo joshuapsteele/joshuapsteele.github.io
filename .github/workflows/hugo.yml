@@ -55,10 +55,12 @@ jobs:
       - name: Fetch popular posts from Tinylytics
         env:
           TINYLYTICS_API_KEY: ${{ secrets.TINYLYTICS_API_KEY }}
-          TINYLYTICS_SITE_ID: ${{ secrets.TINYLYTICS_SITE_ID }}
+          TINYLYTICS_SITE_ID: ${{ secrets.TINYLYTICS_SITE_ID || '1783' }}
           TINYLYTICS_SITE_DOMAIN: joshuapsteele.com
-        continue-on-error: true
-        run: python3 scripts/fetch_popular_posts.py
+        run: |
+          if ! python3 scripts/fetch_popular_posts.py; then
+            echo "::warning title=Popular posts fetch failed::Tinylytics fetch failed; building with the existing data/popular.json (may be stale). Verify the TINYLYTICS_API_KEY and TINYLYTICS_SITE_ID secrets."
+          fi
 
       - name: Fetch Micro.blog syndication links
         continue-on-error: true
