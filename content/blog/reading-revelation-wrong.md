@@ -4,6 +4,7 @@ date: 2026-03-19T10:00:00Z
 draft: false
 categories: ["theology"]
 tags: ["evangelicalism", "revelation", "eschatology", "dispensationalism"]
+description: "A critique of dispensational readings of Revelation and their effects on evangelical theology, politics, and hope."
 url: /reading-revelation-wrong/
 ---
 

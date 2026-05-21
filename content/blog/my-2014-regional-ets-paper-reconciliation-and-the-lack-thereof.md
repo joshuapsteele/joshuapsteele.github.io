@@ -11,6 +11,7 @@ tags:
   - church-unity
   - conferences
   - barth
+url: /my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof/
 ---
 
 If you're interested, I'm presenting my Regional ETS paper today at 5:00pm at Beeson Divinity School, room S009.

@@ -8,6 +8,7 @@ tags:
 categories:
   - theology
   - ethics
+description: "A biblical critique of American autonomy, contrasting freedom from constraint with freedom for love, service, and life in Christ."
 url: /american-freedom-vs-biblical-freedom/
 ---
 

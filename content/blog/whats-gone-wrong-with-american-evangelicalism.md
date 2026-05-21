@@ -1,7 +1,7 @@
 ---
 title: "What's Gone Wrong with American Evangelicalism: Some Notes"
 date: 2026-03-16
-description: ""
+description: "Notes on American evangelicalism's political captivity, selective victimhood, and failures of moral imagination."
 tags:
   - evangelicalism
   - politics

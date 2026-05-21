@@ -11,6 +11,7 @@ tags:
   - church-unity
   - conferences
   - barth
+url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
 ---
 
 If you're in the Birmingham area from March 21-22, 2014, and you're interested in evangelical theology, please consider attending the [Evangelical Theological Society's Southeastern Regional Meeting at Beeson Divinity School](http://www.beesondivinity.com/ets)! This year's theme is "the theological interpretation of Scripture," and the plenary speaker is Wheaton's [Daniel J. Treier](http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier) (incidentally, Dr. Treier and I are both alumni of Cedarville).

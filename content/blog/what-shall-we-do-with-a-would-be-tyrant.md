@@ -1,4 +1,4 @@
---- 
+---
 title: 'What Shall We Do With a Would-Be Tyrant? A Sea Shanty for Democracy'
 date: 2025-10-16T10:12:58-04:00
 draft: false
@@ -7,6 +7,7 @@ tags: [sea-shanty, democracy, politics, protest, song, poetry]
 
 categories: [ethics]
 
+description: "A democracy protest sea shanty set to 'Drunken Sailor,' imagining legal and civic answers to would-be tyranny."
 showToc: true
 TocOpen: false
 url: /what-shall-we-do-with-a-would-be-tyrant/
@@ -79,4 +80,4 @@ Answer:
 Hold the press to higher standards,  
 Hold the press to higher standards,  
 Hold the press to higher standards,  
-Early in the morning!  
+Early in the morning!

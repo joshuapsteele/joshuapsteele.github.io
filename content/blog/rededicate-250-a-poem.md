@@ -4,6 +4,7 @@ date: 2026-05-17T18:51:17Z
 draft: false
 tags: ["ethics"]
 categories: ["poem", "politics"]
+description: "A prophetic poem for America's 250th anniversary, calling for justice, mercy, disarmament, and care for the vulnerable."
 url: /rededicate-250-a-poem/
 ---
 

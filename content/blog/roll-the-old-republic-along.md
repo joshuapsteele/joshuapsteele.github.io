@@ -7,6 +7,7 @@ tags: [sea-shanty, democracy, politics, protest, song, poetry]
 
 categories: [ethics]
 
+description: "A democracy protest sea shanty set to 'Roll the Old Chariot,' calling people to resist kings and defend the republic."
 showToc: true
 TocOpen: false
 url: /roll-the-old-republic-along/

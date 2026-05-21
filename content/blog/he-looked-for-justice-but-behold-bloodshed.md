@@ -8,6 +8,7 @@ tags:
   - prayer
   - bible
 title: He Looked for Justice, but Behold, Bloodshed!
+url: /he-looked-for-justice-but-behold-bloodshed/
 ---
 
 A lament, for a violent world in need of peace.

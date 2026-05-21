@@ -4,6 +4,7 @@ date: 2026-03-05
 draft: false
 tags: [immigration, politics, economics]
 categories: [ethics]
+description: "Fifteen common myths about immigrants answered with evidence-based facts from Alex Nowrasteh's immigration research."
 url: /myths-and-facts-about-immigrants
 ---
 

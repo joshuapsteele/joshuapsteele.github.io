@@ -2,7 +2,7 @@
 author: Anglican Compass
 categories: ministry
 date: 2020-06-01T07:00:51Z
-description:
+description: "An open letter calling ACNA clergy and churches to anti-racism, greater diversity, and a more just Anglican witness."
 title: "A Letter to Fellow ACNA Clergy: On Anti-Racism and a More Diverse and Just Anglicanism"
 url: /anti-racism-letter-to-fellow-acna-clergy/
 tags:

@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: 2012-09-22T13:04:53Z
-description:
+description: "A follow-up on Cedarville University's dismissal of Dr. Michael Pahl, wrestling with justice, respect, patience, and peace."
 title: An Explanation
 url: /an-explanation/
 tags:

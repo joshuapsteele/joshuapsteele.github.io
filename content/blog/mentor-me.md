@@ -1,6 +1,7 @@
 ---
 author: joshuapsteele
-categories: []
+categories:
+- productivity
 date: '2022-04-15T20:24:45Z'
 description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions
   that he asks himself and others.

@@ -5,6 +5,7 @@ draft: false
 author: joshuapsteele
 tags: [sports, soccer, fitness, recommendations]
 categories: [personal]
+description: "The soccer gear, fitness routine, and training resources I use for co-ed rec soccer, from turf shoes to a backyard rebounder."
 showToc: false
 TocOpen: false
 url: /my-soccer-kit/

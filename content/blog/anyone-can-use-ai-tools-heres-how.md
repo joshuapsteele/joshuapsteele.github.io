@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2023-08-24T19:39:18Z
-description:
+description: "A beginner-friendly guide to using AI tools like ChatGPT, Notion, and DALL-E to support productivity and creativity."
 tags:
   - ai
 title: "Anyone Can Use AI Tools: Here's How"

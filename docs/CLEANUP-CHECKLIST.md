@@ -16,13 +16,7 @@ _No open high-priority items._
 
 ### Medium priority
 
-- [ ] **Add descriptions to 13 posts missing them.** Run `python3 scripts/generate_descriptions.py` and review.
-
-- [ ] **Add explicit URL slugs to 7 posts missing `url:` field.** Not urgent (Hugo derives the slug from filename), but explicit URLs prevent accidental breakage.
-
-- [ ] **Prune or consolidate the long tail of tags.** 163 distinct tags with many used only once. Run `scripts/audit-frontmatter.py` to get a fresh list and triage.
-
-- [ ] **Categorize the remaining uncategorized posts (4).** Small number — find them with `python3 scripts/audit-frontmatter.py` and assign manually.
+- [ ] **Prune or consolidate the long tail of tags.** 171 distinct tags with many used only once. Run `scripts/audit-frontmatter.py` to get a fresh list and triage.
 
 ### Low priority / when convenient
 
@@ -30,14 +24,14 @@ _No open high-priority items._
 
 - [ ] **Audit static/wp-content/ for orphaned legacy media.** Use `scripts/cleanup_images.sh` (dangerous — run only after verifying no content references the files).
 
-- [ ] **Review or publish the 2 draft blog posts.**
-
 - [ ] **Re-run external link check.** `docs/AUDIT-06-external-links.md` is the prior inventory (March 2025). Run `python3 scripts/check-external-links.py` for a fresh pass when time allows.
 
 ---
 
 ## Completed (since last audit)
 
+- [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized the remaining uncategorized blog posts. `python3 scripts/audit-frontmatter.py` now reports 0 posts missing categories, tags, descriptions, URLs, or dates.
+- [x] **Removed stale draft smoke-test post (2026-05-21).** `content/blog/drafts-action-smoke-test.md` was deleted by the user; the front matter audit now reports 0 draft blog posts.
 - [x] **Fixed one confirmed broken internal link (2026-05-21).** In `content/blog/my-soccer-kit.md`, changed `/recommended-tools-and-resources/` → `/resources/`. Verified the targeted link is absent from `python3 scripts/check-internal-links.py` output; `npm run build` passes.
 - [x] **Consolidated tag casing variants (2026-05-21).** Added taxonomy cleanup rules for `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`, plus existing lowercase-space `romans 13` → `romans-13`; applied with `python3 scripts/apply-taxonomy.py --apply`. A follow-up dry run reports 0 remaining taxonomy changes.
 - [x] **Tagged all untagged blog posts (2026-05-21).** 132 posts tagged across ministry, dissertation, productivity, theology, personal, ethics + the AMA post; 0 untagged remaining. Added new tags: `podcasts`, `personality`, `lent`, `creation`, `trinity`, `cedarville`, `travel`, `gtd`, `pacifism`, `jordan-peterson`. See `docs/TAGGING-PROGRESS.md`.
