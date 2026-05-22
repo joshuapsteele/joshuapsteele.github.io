@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2019-03-07T17:32:24Z'
-description: From “In Praise of Boredom,” by James K.A.
+description: "James K.A. Smith on boredom, attention, and learning to resist the distraction economy's grip on our desires."
 title: Let's learn how to be bored again
 tags:
   - social-media

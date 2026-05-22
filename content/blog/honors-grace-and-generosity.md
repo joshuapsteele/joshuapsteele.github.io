@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2013-04-15T22:31:53Z'
-description: Yahweh and others have been too good to me. Today I received two awards
-  at Cedarville University’s 49th Annual Academic Honors Day Chapel.
+description: "Receiving two Cedarville honors and reflecting on grace, generosity, gratitude, and the people who made seminary possible."
 tagazine-media: 02:33:04";} 02:33:04";}
 title: Honors, Grace, and Generosity
 tags:

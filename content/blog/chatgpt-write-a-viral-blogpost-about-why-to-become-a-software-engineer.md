@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2022-12-19T14:17:13Z'
-description: Are you considering a career in software engineering but not sure if
-  it’s right for you.
+description: "An early ChatGPT-generated pitch for becoming a software engineer, highlighting demand, flexibility, projects, and continuous learning."
 tags:
 - chatgpt
 title: 'ChatGPT: Write a Viral Blogpost about Why to Become a Software Engineer'

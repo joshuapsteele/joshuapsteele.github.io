@@ -3,7 +3,7 @@ author: joshuapsteele
 categories: theology
 tags: [essay]
 date: '2015-05-07T22:38:13Z'
-description: 'An essay on what it means to be a human being.'
+description: "An essay on human self-transcendence, divided desires, idolatry, and receiving true humanity from God's address."
 title: What does it mean to be human?
 url: /what-does-it-mean-to-be-human/
 ---

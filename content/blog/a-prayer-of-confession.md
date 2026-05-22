@@ -4,7 +4,7 @@ categories:
   - ethics
   - theology
 date: 2019-01-15T20:35:33Z
-description: To start off the semester the other day, we prayed this prayer of confession together as a class.
+description: "A corporate prayer of confession based on the Ten Commandments and the Sermon on the Mount, attributed to Bob Kauflin."
 title: A Prayer of Confession
 url: /a-prayer-of-confession/
 tags:

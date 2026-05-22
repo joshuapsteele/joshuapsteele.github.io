@@ -4,8 +4,7 @@ categories:
 - ethics
 - theology
 date: '2013-09-18T13:13:58Z'
-description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King
-  Jesus Gospel.'
+description: "Scot McKnight and Tim Gombis on the gospel as the kingdom announcement of King Jesus, not merely a private transaction."
 title: King Jesus' Kingdom Gospel
 tags:
   - bible

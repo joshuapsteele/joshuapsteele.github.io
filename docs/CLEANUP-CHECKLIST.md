@@ -19,6 +19,7 @@ _No open high-priority items._
 - [ ] **Curate descriptions for popular posts first.** Start with the current Tinylytics top 10 in `data/popular.json`, then continue down the traffic list in batches.
   - **Progress (2026-05-21):** Top ~100 blog posts by 2026-YTD Tinylytics traffic now all have curated (non-fallback) descriptions. Worked in batches (ranks 1–20, 21–40, 41–60, 61–81, 82–100); rewrote 46 fallback/weak descriptions in total (incl. two typo fixes), leaving those already well-written. `npm run build` passes after each batch. Next: continue down the traffic list (posts ranked ~101+, where traffic is ~28 hits/yr and falling).
   - **Progress (2026-05-22):** Continued through the next traffic bands (ranks ~101–180 from the 2025-10-11 Tinylytics CSV export). Rewrote 40 weak/fallback descriptions, especially posts whose snippets were editor notes, first-sentence fragments, body-heading artifacts, or vague calls for feedback. `python3 scripts/audit-frontmatter.py` reports 0 missing descriptions/categories/tags/URLs/dates; `npm run build` passes. Next: continue with posts ranked ~181+.
+  - **Progress (2026-05-22, batch 2):** Continued through ranks ~181–240 from the same Tinylytics export. Rewrote 27 more weak/fallback descriptions across Cedarville archive posts, older sermons, theology notes, productivity posts, and early software/AI posts. `python3 scripts/audit-frontmatter.py` still reports 0 missing descriptions/categories/tags/URLs/dates; `npm run build` passes. Next: continue with posts ranked ~241+.
 
 ### Low priority / when convenient
 

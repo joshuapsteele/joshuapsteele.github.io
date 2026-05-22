@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2013-05-10T09:26:30Z'
-description: Since my previous post, quite a few things have happened at my alma mater.
-  Here’s a Storify overview of my crazy final year at Cedarville University.
+description: "Part two of my Cedarville story, recounting a turbulent final year of activism, controversy, and institutional change."
 title: My Unforgettable Cedarville Experience (pt 2)
 tags:
   - college

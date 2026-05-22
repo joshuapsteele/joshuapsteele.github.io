@@ -4,8 +4,7 @@ categories:
 - personal
 - theology
 date: '2012-09-19T16:21:17Z'
-description: Undoubtedly the title of this blog post could be taken in hundreds of
-  different directions.
+description: "A critique of Answers in Genesis and the danger of forcing Scripture to serve young-earth creationist agendas."
 title: Sacrificing Scripture on the Altars of Our Own Agendas
 tags:
   - bible

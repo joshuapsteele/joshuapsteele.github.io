@@ -5,7 +5,7 @@ categories:
   - personal
   - productivity
 date: 2019-02-23T17:06:02Z
-description: "I’m reading Walter Sinnott-Armstrong’s excellent book, *Think Again: How to Reason and Argue*."
+description: "Rapoport's Rules offer a simple discipline for fair disagreement: summarize, name agreement, say what you learned, then critique."
 tags:
   - reading
   - 80-20

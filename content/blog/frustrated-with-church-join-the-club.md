@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2016-06-10T17:10:17Z'
-description: …and by “club” I of course mean “Church”. What am I getting at. Am I
-  calling the Church a mere “club”.
+description: "A plea to frustrated Christians: stay with the church precisely because its failures need people willing to work for healing."
 title: Frustrated with Church? Join the Club!
 tags:
   - church

@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - dissertation
 - productivity
-description: Developed from *How to Read a Book*, by Mortimer J.
+description: "A book-notes template based on Mortimer Adler's How to Read a Book, with sections for bibliography, interpretation, and critique."
 tags:
 - reading
 - books

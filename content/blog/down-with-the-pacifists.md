@@ -4,8 +4,7 @@ categories:
 - ethics
 - theology
 date: '2013-10-22T20:47:06Z'
-description: The past week has been a great one for slipshod attacks on pacifism.
-  First, from First Things (Stephen H.
+description: "Responding to weak attacks on Christian pacifism from First Things and Mark Driscoll, and asking for better critiques."
 title: Down With the Pacifists!
 tags:
   - pacifism

@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2020-06-04T21:47:31Z'
-description: I commend the entire interview series that Ed Stetzer recently did with
-  Esau McCaulley.
+description: "Esau McCaulley on protests, riots, systemic racism, empathy, and why Christians should clearly oppose injustice."
 title: “But, What About the Riots and Lawlessness?”
 tags:
   - racism

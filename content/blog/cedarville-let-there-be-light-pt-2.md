@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2012-09-21T07:00:39Z'
-description: 'Read Part One") Further Questions, All Relating to the University Statement
-  on Dr. Pahl’s Dismissal: - If Dr.'
+description: "Follow-up questions about Cedarville University's statement on Dr. Michael Pahl's dismissal and the Bible department's future."
 title: Cedarville, Let there be Light. (pt. 2)
 tags:
   - college

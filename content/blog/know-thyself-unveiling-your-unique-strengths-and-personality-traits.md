@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: In the quest for personal and professional growth, understanding our unique strengths and personality traits can be incredibly enlightening.
+description: "A personal inventory of strengths and personality frameworks, including CliftonStrengths, DISC, MBTI, and Enneagram."
 tags:
   - personality
 url: /know-thyself-unveiling-your-unique-strengths-and-personality-traits/

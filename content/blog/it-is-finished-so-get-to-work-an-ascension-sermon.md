@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2017-06-13T01:29:13Z'
-description: The following is an “It is Finished” sermon preached on Ascension Sunday,
-  2017.
+description: "An Ascension sermon on how Jesus' finished work completes the gospel and sends the church into its mission."
 title: It is Finished! So, Get to Work! – A Sermon on the Ascension
 tags:
   - sermons

@@ -5,8 +5,7 @@ categories:
 - personal
 - theology
 date: '2012-04-19T19:22:24Z'
-description: The more I study the New Testament, I become more convinced that the
-  unity of the Church is of utmost importance to God.
+description: "A reflection on church unity, the New Testament, and why doctrinal orthodoxy and moral purity cannot replace reconciled community."
 title: Unity?
 tags:
   - church-unity

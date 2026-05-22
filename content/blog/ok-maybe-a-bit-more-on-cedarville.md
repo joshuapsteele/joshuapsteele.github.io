@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2014-03-20T11:46:15Z'
-description: 'You’ll notice that the previous post on Cedarville ends with a link
-  to the Course Schedule: “Class Limited to Women” … I know, ludicrous.'
+description: "More Cedarville concerns, focused on a women-only gender issues course and the narrow textbook choices assigned for it."
 publicize_facebook_url: null
 publicize_twitter_url: null
 title: Ok, Maybe a Bit More on Cedarville!

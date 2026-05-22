@@ -3,8 +3,7 @@ author: joshuapsteele
 categories:
 - productivity
 date: '2022-04-15T20:24:45Z'
-description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions
-  that he asks himself and others.
+description: "Eleven mentor-style questions about books, failure, habits, investments, focus, and advice for people entering the real world."
 tags:
 - questions
 title: Mentor Me! 11 Questions I'd Like You to Answer

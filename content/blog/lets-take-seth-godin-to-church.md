@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2016-05-28T16:44:59Z'
-description: I’m not going to lie. My first reaction when I saw the cover of this
-  book.
+description: "Reading Seth Godin's Linchpin for the church: pastors, Christians, and congregations as creative, generous, community-serving workers."
 title: Let's Take Seth Godin to Church
 tags:
   - books

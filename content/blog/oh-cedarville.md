@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2013-02-19T07:38:20Z'
-description: Have you ever been extremely frustrated with someone/thing you love.
-  That’s been my experience during my final year here at Cedarville University.
+description: "A frustrated reflection on Cedarville University, including the White Papers, Michael Pahl's dismissal, and Carl Ruby's departure."
 title: Oh Cedarville!
 tags:
   - college

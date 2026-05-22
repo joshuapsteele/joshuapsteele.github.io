@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2020-06-20T17:01:31Z'
-description: 'I’m looking for the best, clearest, and most charitable explanations
-  of the following three things: 1.'
+description: "A request for clear Christian resources on the Bible, social justice, racism, Critical Race Theory, and Marxism."
 tags:
 - bible
 - racism
