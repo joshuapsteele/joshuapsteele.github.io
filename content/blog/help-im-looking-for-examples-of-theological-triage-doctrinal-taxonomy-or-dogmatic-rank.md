@@ -328,7 +328,7 @@ Taylor highlights and quotes from:
 
 ### Here’s Taylor summarizing Wittmer:
 
-> Michael Wittmer, professor of theology and historical theology at Grand Rapids Theological Seminary, wrote a helpful book entitled, *[Don’t Stop Believing: Why Living Like Jesus Is Not Enough](http://www.amazon.com/Dont-Stop-Believing-Living-Enough/dp/0310281164/bettwowor-20/?tag=bettwowor0e-20)*. He classifies Christian beliefs into three categories:
+> Michael Wittmer, professor of theology and historical theology at Grand Rapids Theological Seminary, wrote a helpful book entitled, *[Don’t Stop Believing: Why Living Like Jesus Is Not Enough](https://www.amazon.com/dp/0310281164?tag=joshuapsteele-20)*. He classifies Christian beliefs into three categories:
 > 
 > 1\. what you *must* believe
 > 2\. what you must not *reject*

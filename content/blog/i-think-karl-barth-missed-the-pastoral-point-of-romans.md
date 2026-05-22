@@ -177,7 +177,7 @@ Now, Barth is absolutely correct to interpret Paul as arguing for (1) unity betw
 
 ## If you miss the Jew-Gentile tensions *within* the Church, you miss the (pastoral) point of Romans!
 
-I agree with the thrust of Scot McKnight’s argument, in his recent book, [*Reading Romans Backward: A Gospel of Peace in the Midst of Empire*](https://www.amazon.com/Reading-Romans-Backwards-Gospel-Empire/dp/1481308777), that “Romans 12–16…reveals the pastoral context of Romans.”
+I agree with the thrust of Scot McKnight’s argument, in his recent book, [*Reading Romans Backward: A Gospel of Peace in the Midst of Empire*](https://www.amazon.com/dp/1481308777?tag=joshuapsteele-20), that “Romans 12–16…reveals the pastoral context of Romans.”
 
 (Here’s a webinar where Scot introduces his work.)
 

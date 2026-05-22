@@ -18,15 +18,15 @@ You’ll notice that [the previous post on Cedarville](https://joshuapsteele.com
 
 “Class Limited to Women” … I know, ludicrous. Especially considering Joy Fagan’s previous track record of making the first class, Scriptural Interpretation of Gender Issues (or SIGI), a truly excellent course by all accounts from former students, male and female.
 
-Equally ludicrous? The [textbook choices](http://cedarville.verbacompare.com/compare/1?src=2&type=2&stoid=10&trm=FALL%2014&cid=2014_4144)! Are you ready for what CU students will be reading to form an even-handed perspective of what the Bible has to say on gender? Maybe some [Miroslav Volf](https://joshuapsteele.com/2013/11/10/volf-on-gender/)? [“Junia is Not Alone” by Scot McKnight](http://www.amazon.com/Junia-Not-Alone-Scot-McKnight-ebook/dp/B006H4PFZ8)? NOPE.
+Equally ludicrous? The [textbook choices](http://cedarville.verbacompare.com/compare/1?src=2&type=2&stoid=10&trm=FALL%2014&cid=2014_4144)! Are you ready for what CU students will be reading to form an even-handed perspective of what the Bible has to say on gender? Maybe some [Miroslav Volf](https://joshuapsteele.com/2013/11/10/volf-on-gender/)? [“Junia is Not Alone” by Scot McKnight](https://www.amazon.com/dp/B006H4PFZ8?tag=joshuapsteele-20)? NOPE.
 
-# [Countering the Claims of Evangelical Feminism: Biblical Responses to the Key Questions, by Wayne Grudem](http://www.amazon.com/Countering-Claims-Evangelical-Feminism-Responses/dp/1590525183)
+# [Countering the Claims of Evangelical Feminism: Biblical Responses to the Key Questions, by Wayne Grudem](https://www.amazon.com/dp/1590525183?tag=joshuapsteele-20)
 
 ![](http://images.betterworldbooks.com/159/Countering-the-Claims-of-Evangelical-Feminism-Grudem-Wayne-9781590525180.jpg)
 
 ![](http://g.christianbook.com/g/ebooks/covers/w185/4/45704_w185.png)
 
-# [The Feminist Mistake: The Radical Impact of Feminism on Church and Culture, by Mary A. Kassian](http://www.amazon.com/The-Feminist-Mistake-Radical-Feminism/dp/1581345704)
+# [The Feminist Mistake: The Radical Impact of Feminism on Church and Culture, by Mary A. Kassian](https://www.amazon.com/dp/1581345704?tag=joshuapsteele-20)
 
 Words fail.
 

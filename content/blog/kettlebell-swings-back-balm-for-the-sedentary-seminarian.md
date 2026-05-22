@@ -44,7 +44,7 @@ If you’re more of a visual learner, here’s a helpful instructional video fro
 
 **What weight should you start with?** I began with a 35 lb. (16 kg.). Kettlebells USA has [one of the best guides on choosing a starting weight](https://www.kettlebellsusa.com/what-size-kettlebell-should-i-buy-guidelines-for-men-and-women-to-choose-a-starter-kettlebell-weight), based upon your gender and current fitness level.
 
-**What brand of kettlebell should you purchase?** I went with [Sweethome’s budget pick](http://thesweethome.com/reviews/best-kettlebell/): the [CAP Cast Iron Competition Weight Kettlebell](http://www.amazon.com/dp/B00I6CRMP0/). But, [the in-depth review of different brands by Mark Bixby at Sweethome](http://thesweethome.com/reviews/best-kettlebell/) can’t be beat. I like the CAP, but I now agree with his assessment that the grip tears up your hands a bit on one-handed excercises.
+**What brand of kettlebell should you purchase?** I went with [Sweethome’s budget pick](http://thesweethome.com/reviews/best-kettlebell/): the [CAP Cast Iron Competition Weight Kettlebell](https://www.amazon.com/dp/B00I6CRMP0?tag=joshuapsteele-20). But, [the in-depth review of different brands by Mark Bixby at Sweethome](http://thesweethome.com/reviews/best-kettlebell/) can’t be beat. I like the CAP, but I now agree with his assessment that the grip tears up your hands a bit on one-handed excercises.
 
 Give two-handed kettlebell swings a try! Your back and body will thank you (although, full disclosure, you’ll be sore after the first time).
 

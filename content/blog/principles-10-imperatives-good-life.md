@@ -80,7 +80,7 @@ However, I’m going to devote the next eight principles to various pragmatic co
 # 7. Eat Less Sugar & More Vegetables
 
 - [Everything You Need to Know About the Slow-Carb Diet](https://medium.com/@erinfrey/everything-you-need-to-know-about-the-slow-carb-diet-a67062761d92) – Medium
-- *[In Defense of Food](https://www.amazon.com/Defense-Food-Michael-Pollan/dp/1594133328)* by Michael Pollan (also a [documentary](https://www.netflix.com/title/80097071) \[available on Netflix\], which is worth watching!!)
+- *[In Defense of Food](https://www.amazon.com/dp/1594133328?tag=joshuapsteele-20)* by Michael Pollan (also a [documentary](https://www.netflix.com/title/80097071) \[available on Netflix\], which is worth watching!!)
 - [7 Rules for Eating](https://www.webmd.com/food-recipes/news/20090323/7-rules-for-eating#1) – WebMD
 
 # 8. Turn off the TV and the Notifications on Your Phone

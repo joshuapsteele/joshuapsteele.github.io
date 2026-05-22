@@ -64,7 +64,7 @@ For Barth? Religion is idolatrous “unbelief” or “faithlessness” (*Unglau
 
 ## 1.28 DIETRICH BONHOEFFER ON GOD IN A SECULAR WORLD
 
-Now, to get a taste of what I’m working with, I think that the following two passages from [Alister McGrath’s *The Christian Theology Reader* (5th edition)](https://www.amazon.com/Christian-Theology-Reader-Alister-McGrath/dp/1118874382/) are helpful.
+Now, to get a taste of what I’m working with, I think that the following two passages from [Alister McGrath’s *The Christian Theology Reader* (5th edition)](https://www.amazon.com/dp/1118874382?tag=joshuapsteele-20) are helpful.
 
 McGrath gives the following prefatory remarks to the Bonhoeffer excerpt:
 

@@ -8,7 +8,7 @@ description: "Fifteen common myths about immigrants answered with evidence-based
 url: /myths-and-facts-about-immigrants
 ---
 
-Alex Nowrasteh at the Cato Institute has spent years researching immigration and debating the most common objections. His booklet [_The Most Common Arguments Against Immigration and Why They're Wrong_](https://www.amazon.com/Common-Arguments-against-Immigration-Theyre-ebook/dp/B097HT6MPJ?&linkCode=ll2&tag=joshuapsteele-20&linkId=fdcf1a0dd97d420472bd63e635a54685&language=en_US&ref_=as_li_ss_tl) tackles fifteen myths with evidence-based responses. Here's the short version.
+Alex Nowrasteh at the Cato Institute has spent years researching immigration and debating the most common objections. His booklet [_The Most Common Arguments Against Immigration and Why They're Wrong_](https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20) tackles fifteen myths with evidence-based responses. Here's the short version.
 
 * * *
 
@@ -107,6 +107,6 @@ The pattern is consistent: most arguments against immigration assume harms that 
 
 - [Blog version](https://www.cato.org/blog/14-most-common-arguments-against-immigration-why-theyre-wrong)
 - [PDF](https://www.libertarianism.org/sites/libertarianism.org/files/2021-04/The%20Most%20Common%20Arguments%20Against%20Immigration%20and%20Why%20They%27re%20Wrong.pdf)
-- [Kindle](https://www.amazon.com/Common-Arguments-against-Immigration-Theyre-ebook/dp/B097HT6MPJ?&linkCode=ll2&tag=joshuapsteele-20&linkId=fdcf1a0dd97d420472bd63e635a54685&language=en_US&ref_=as_li_ss_tl)
+- [Kindle](https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20)
 
 For more recent data on the fiscal effects of immigration, see Cato's 2026 study: [Immigrants' Recent Effects on Government Budgets, 1994--2023](https://www.cato.org/white-paper/immigrants-recent-effects-government-budgets-1994-2023).

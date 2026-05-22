@@ -15,7 +15,7 @@ url: /king-jesus-kingdom-gospel/
 
 I highly encourage the following:
 
-1\. Read Scot McKnight’s [The King Jesus Gospel](http://www.amazon.com/The-King-Jesus-Gospel-Revisited/dp/031049298X).
+1\. Read Scot McKnight’s [The King Jesus Gospel](https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20).
 
 2\. Check out Tim Gombis’ insightful series of posts on [The Gospel of the Kingdom](http://timgombis.com/2013/09/16/the-gospel-of-the-kingdom/), pt. [1](http://timgombis.com/2013/09/16/the-gospel-of-the-kingdom/), [2](http://timgombis.com/2013/09/17/the-gospel-of-the-kingdom-pt-2/), and [3](http://timgombis.com/2013/09/18/the-gospel-of-the-kingdom-pt-3/).
 

@@ -15,7 +15,7 @@ url: /cedarville-let-there-be-light-pt-2/
 
 # Further Questions, All Relating to the University Statement on Dr. Pahl’s Dismissal:
 
-- If Dr. Pahl’s book, [*The Beginning and the End*](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270), was controversial enough to lead to his dismissal, why was the book allowed to be used as a textbook last school year? 
+- If Dr. Pahl’s book, [*The Beginning and the End*](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20), was controversial enough to lead to his dismissal, why was the book allowed to be used as a textbook last school year? 
     - Shouldn’t we trust the Bible professors’ judgment in their selection of the book as a text?
     - If we should, then was it worth firing Dr. Pahl over a book which other CU professors approved of enough to require as a text for their courses?
     - If not, why not? Why don’t we trust these highly-trained men and women as an institution? Shouldn’t they be a resource instead of a feared danger? Does this potential fear have anything to do with Dr. Pahl being dismissed?

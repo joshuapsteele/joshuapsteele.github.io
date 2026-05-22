@@ -234,7 +234,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 - Kallistos **Ware**, [“Man, Woman, and the Priesthood of Christ,” pp. 68-90 in *Man, Woman, and Priesthood*](http://www.womenpriests.org/articles-books/man-woman-and-the-priesthood-of-christ-by-kallistos-ware-from-man-woman-and-priesthood/), edited by Peter Moore, SPCK London, 1978.
 - Cynthia **Long Westfall**, [*Paul and Gender: Reclaiming the Apostle’s Vision for Men and Women in Christ*](http://amzn.to/2RYQyRp), Baker Academic, 2016.
 - Ben **Witherington** III, [*Women in the Earliest Churches (Society for New Testament Studies Monograph Series)*](http://amzn.to/2WsBLNj), Cambridge, 1991.
-- William **Witt**, [*Icons of Christ: A Biblical and Systematic Theology for Women’s Ordination*](https://www.amazon.com/Icons-Christ-Biblical-Systematic-Ordination/dp/1481313193?_encoding=UTF8&qid=&sr=&linkCode=ll1&tag=anglicanpasto-20&linkId=8e8fa373219652321476ab03ffe6ffb0&language=en_US&ref_=as_li_ss_tl), Baylor University Press, 2020.
+- William **Witt**, [*Icons of Christ: A Biblical and Systematic Theology for Women’s Ordination*](https://www.amazon.com/dp/1481313193?tag=joshuapsteele-20), Baylor University Press, 2020.
 - William **Witt**‘s [series of blog posts on women’s ordination](http://willgwitt.org/category/theology/womens-ordination/).
 - N.T **Wright**, [“Women’s Service in the Church: The Biblical Basis”](http://ntwrightpage.com/2016/07/12/womens-service-in-the-church-the-biblical-basis/)
 

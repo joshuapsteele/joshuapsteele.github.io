@@ -42,7 +42,7 @@ Anyway, with the help of [Michael DeJonge](http://religious-studies.usf.edu/facu
 - BARTH, Karl. *[On Religion: The Revelation of God as the Sublimation of Religion](http://amzn.to/2bMQOwU).*Translated by Garrett Green. New York: T&T Clark, 2007.
 - *—. [The Epistle to the Romans](http://amzn.to/2bmyhJt)*. Translated by Edwyn C. Hoskyns. Oxford: OUP, 1968.
 - BONHOEFFER, Dietrich. [*Letters and Papers from Prison*](http://amzn.to/2bTBmwo). Translated by Isabel Best, Lisa E. Dahill, Reinhard Krauss and Nancy Lukens. Edited by John W. de Gruchy. DBWE Vol. 8. Minneapolis: Fortress, 2009.
-- —. “The Center of the Earth (Gen. 2:8-17)” In [*Creation and Fall: A Theological Exposition of Genesis 1-3*](https://www.amazon.com/Creation-Fall-Theological-Exposition-Genesis/dp/0800683234/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1472242354&sr=1-2&keywords=bonhoeffer+creation+and+fall&linkCode=ll1&tag=joshuapsteele-20&linkId=cb5c752d992a19a11e6fe851343e4b89), translated by Douglas Stephen Bax, edited by John W. de Gruchy, 80-93. DBWE Vol. 3. Minneapolis: Fortress, 1997.
+- —. “The Center of the Earth (Gen. 2:8-17)” In [*Creation and Fall: A Theological Exposition of Genesis 1-3*](https://www.amazon.com/dp/0800683234?tag=joshuapsteele-20), translated by Douglas Stephen Bax, edited by John W. de Gruchy, 80-93. DBWE Vol. 3. Minneapolis: Fortress, 1997.
 - —. “7. Inaugural Lecture: The Anthropological Question in Contemporary Philosophy and Theology.” In [*Barcelona, Berlin, New York: 1928-1931*](http://amzn.to/2bTAubv), translated by Douglas W. Stott, edited by Clifford J. Green, 389-408. DBWE Vol. 10. Minneapolis: Fortress, 2008.
 
 ### **Secondary Sources:**

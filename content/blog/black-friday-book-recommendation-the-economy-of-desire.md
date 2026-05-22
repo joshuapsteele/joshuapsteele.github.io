@@ -26,4 +26,4 @@ If you DO happen to find yourself shopping on Black Friday, or really at any poi
 
 **“In contrast, Christianity proclaims the good news that we can indeed find rest from the rat race that is the conflict of the capitalist market. Our desire finds its true home, its rest, its delight in communion with God. Desire’s true fascination is the radiance of love that is the glorious life of the blessed Trinity. For this reason, humanity might rightly be called *homo adorans* — worshiping beings. We are not beings caught in an endless cycle of trucking and bartering (*homo economicus*) but beings inclined to worship and enjoy the divine love that provides all we need. In other words, because the Lord is our shepherd, we shall not want (Ps. 23:1). We need not strive endlessly but can be content.” (168)**
 
-If you don’t feel like braving the crowds, [Bell’s book is available on Amazon](http://www.amazon.com/Economy-Desire-The-Christianity-Capitalism/dp/0801035732).
+If you don’t feel like braving the crowds, [Bell’s book is available on Amazon](https://www.amazon.com/dp/0801035732?tag=joshuapsteele-20).

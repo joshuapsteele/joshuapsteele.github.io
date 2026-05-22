@@ -14,7 +14,7 @@ url: /cedarville-let-there-be-light-pt-1/
 
 # The Statement:
 
-“Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of[ Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx). This decision was made following a review by the University administration and [trustees](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx) prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270)
+“Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of[ Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx). This decision was made following a review by the University administration and [trustees](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx) prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20)
 
 Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is his commitment to Scripture’s inspiration, authority and infallibility. He is a promising scholar and a dedicated teacher, and he will be missed by his colleagues and students. Nevertheless, the University has determined this decision to be in the best interests of its constituency at this time.”
 
@@ -28,14 +28,14 @@ Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is 
     - Dr. Pahl is a <u>dedicated teacher</u>.
 - The administration and [trustees ](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx)of Cedarville University have <u>“relieved” Dr. Pahl of his teaching duties. </u>
     - “because he is unable to concur fully with each and every position of [Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx)“
-    - …”prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270).”
+    - …”prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20).”
     - because it is in the best interests of the “constituency” at this time.
 
 # Hence, the Following Questions:
 
 - Why were the five accolades attached to Dr. Pahl above (orthodox, gospel, Scripture, scholar, teacher) not enough to keep him on the teaching faculty of Cedarville University?
 - Don’t we want promising scholars and dedicated teachers who are committed to the gospel, to Scripture, and to orthodoxy at Cedarville University? If not, why not?
-- Upon review of Dr. Pahl’s [book](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270), I do not see how it contradicts with any of the points of Cedarville’s doctrinal statement. 
+- Upon review of Dr. Pahl’s [book](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20), I do not see how it contradicts with any of the points of Cedarville’s doctrinal statement. 
     - Have I missed something?
     - Are there more standards that the ones enumerated in the Doctrinal Statement that the professors are expected to hold to (i.e. White Papers)?
     - If so, why aren’t these made public? If the White Papers flow directly from the Doctrinal Statement, and if they are important enough to fire faculty over, then shouldn’t the students and general public know about them?

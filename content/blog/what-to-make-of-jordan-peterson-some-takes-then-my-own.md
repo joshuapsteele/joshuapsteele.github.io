@@ -23,7 +23,7 @@ Blog posts, podcast episodes, conversations with friends – Peterson has been p
 
 ## Gerald McDermott’s Take
 
-My [old seminary professor, Gerald McDermott](http://www.patheos.com/blogs/northamptonseminar/2018/02/03/biblical-wisdom-secular-psychologist/), has blogged about Peterson’s new book, “[12 Rules for Life: an Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=as_li_ss_tl?ie=UTF8&qid=1522244418&sr=8-1&keywords=12+rules+for+life&linkCode=ll1&tag=joshuapsteele-20&linkId=3dbfc723801c4d44e8f654a5e7da752c),” saying:
+My [old seminary professor, Gerald McDermott](http://www.patheos.com/blogs/northamptonseminar/2018/02/03/biblical-wisdom-secular-psychologist/), has blogged about Peterson’s new book, “[12 Rules for Life: an Antidote to Chaos](https://www.amazon.com/dp/0345816021?tag=joshuapsteele-20),” saying:
 
 > It is a good book, blunt and inspiring.
 > 

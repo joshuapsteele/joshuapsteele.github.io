@@ -14,7 +14,7 @@ tags:
 url: /the-good-news-of-christmas/
 ---
 
-After reading [The King Jesus Gospel: The Original Good News Revisited](http://www.amazon.com/gp/product/031049298X/ref=as_li_ss_tl?ie=UTF8&tag=faithinirelan-20&linkCode=as2&camp=217145&creative=399373&creativeASIN=031049298X) by Scot McKnight, who makes the claim that the gospel is the saving story of Jesus as Messiah, King, and Lord as the completion to the story of Israel, I started to notice some profound gospel messages in the Christmas carols we often sing during this season.
+After reading [The King Jesus Gospel: The Original Good News Revisited](https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20) by Scot McKnight, who makes the claim that the gospel is the saving story of Jesus as Messiah, King, and Lord as the completion to the story of Israel, I started to notice some profound gospel messages in the Christmas carols we often sing during this season.
 
 I have found that several of these carols go much deeper (much more biblical) than the personal salvation “gospel” of sin-management that we often preach and sing about. What’s tragic is that, even though these carols are quite possibly the best-known Christian songs, their familiarity (and the fact that we only break them out for 1/12th of the year), makes it quite easy to ignore their substance.
 
