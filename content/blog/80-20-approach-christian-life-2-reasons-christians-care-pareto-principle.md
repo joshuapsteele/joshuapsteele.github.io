@@ -13,7 +13,7 @@ tags:
 
 Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?
 
-I’m right there with you! That’s why I’ve made “[Get Your Act Together (Productivity and Time Management)](https://joshuapsteele.com/category/productivity-and-time-management/)” the first of my [Steps to Find Purpose and Meaning in Life](https://joshuapsteele.com/start-here/).
+I’m right there with you! That’s why I’ve made “[Get Your Act Together (Productivity and Time Management)](/categories/productivity/)” the first of my [Steps to Find Purpose and Meaning in Life](/about/).
 
 Thankfully, I think I’ve found something that can help. I’d like to introduce you to the “**Pareto Principle**,” also known as “**the 80/20 Rule**,” the “law of the vital few,” or the “principle of factor sparsity,” if you want to get all technical about it.
 

@@ -1,7 +1,7 @@
 {
-  "total_files": 384,
-  "total_links": 2297,
-  "internal_links": 465,
+  "total_files": 383,
+  "total_links": 2299,
+  "internal_links": 468,
   "broken_links": {
     "blog/my-favorite-podcasts.md": [
       {
@@ -12,37 +12,9 @@
       },
       {
         "type": "markdown",
-        "text": "kettlebells",
-        "url": "https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/",
-        "normalized": "/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian"
-      },
-      {
-        "type": "markdown",
         "text": "favorite tools",
         "url": "https://joshuapsteele.com/tools",
         "normalized": "/tools"
-      }
-    ],
-    "blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md": [
-      {
-        "type": "markdown",
-        "text": "Get Your Act Together (Productivity and Time Management)",
-        "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
-        "normalized": "/category/productivity-and-time-management"
-      },
-      {
-        "type": "markdown",
-        "text": "Steps to Find Purpose and Meaning in Life",
-        "url": "https://joshuapsteele.com/start-here/",
-        "normalized": "/start-here"
-      }
-    ],
-    "blog/5-books-every-christian-read.md": [
-      {
-        "type": "markdown",
-        "text": "read and understand",
-        "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
-        "normalized": "/understand-remember-read-4-questions-ask-reading-book"
       }
     ],
     "blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md": [
@@ -51,82 +23,6 @@
         "text": "just look at my C.V.",
         "url": "https://joshuapsteele.com/portfolio/cv/",
         "normalized": "/portfolio/cv"
-      }
-    ],
-    "blog/cedarville-2.md": [
-      {
-        "type": "markdown",
-        "text": "previous thoughts",
-        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
-        "normalized": "/2013/01/13/open-letter-to-cedarville-admins-and-trustees"
-      },
-      {
-        "type": "markdown",
-        "text": " these matters",
-        "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/",
-        "normalized": "/2013/02/19/oh-cedarville"
-      }
-    ],
-    "blog/deuteronomy-61-15-1.md": [
-      {
-        "type": "markdown",
-        "text": "my essay on Philemon",
-        "url": "https://joshuapsteele.com/2013/12/13/the-epistle-to-philemon/",
-        "normalized": "/2013/12/13/the-epistle-to-philemon"
-      },
-      {
-        "type": "markdown",
-        "text": "Amy Chase Ashley\u2019s Scripture: Handle With Care",
-        "url": "https://joshuapsteele.com/2013/06/17/amy-chase-scripture-handle-with-care/",
-        "normalized": "/2013/06/17/amy-chase-scripture-handle-with-care"
-      }
-    ],
-    "blog/thank-god-i-went-to-cedarville.md": [
-      {
-        "type": "markdown",
-        "text": "on",
-        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
-        "normalized": "/2012/09/20/cedarville-let-there-be-light-pt-1"
-      },
-      {
-        "type": "markdown",
-        "text": "my",
-        "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/",
-        "normalized": "/2012/09/21/cedarville-let-there-be-light-pt-2"
-      },
-      {
-        "type": "markdown",
-        "text": "blog",
-        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/",
-        "normalized": "/2012/09/22/an-explanation"
-      },
-      {
-        "type": "markdown",
-        "text": "original blogpost",
-        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/",
-        "normalized": "/2012/09/20/cedarville-let-there-be-light-pt-1"
-      },
-      {
-        "type": "markdown",
-        "text": "final farewell,",
-        "url": "https://joshuapsteele.com/2013/04/24/a-farewell-to-cedarville/",
-        "normalized": "/2013/04/24/a-farewell-to-cedarville"
-      }
-    ],
-    "blog/a-crucicentric-credo.md": [
-      {
-        "type": "markdown",
-        "text": "\u201cSon Of Man, Can Your Bones Live?\u201d",
-        "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
-        "normalized": "/2016/03/29/son-of-man-can-your-bones-live"
-      }
-    ],
-    "blog/heres-what-im-committing-myself-to-as-a-priest.md": [
-      {
-        "type": "markdown",
-        "text": "*this Saturday, November 02*",
-        "url": "https://joshuapsteele.com/ordination/",
-        "normalized": "/ordination"
       }
     ],
     "blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md": [
@@ -141,62 +37,22 @@
       {
         "type": "markdown",
         "text": "previous post",
-        "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\"",
-        "normalized": "/2012/09/12/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\""
-      }
-    ],
-    "blog/romans-13.md": [
-      {
-        "type": "markdown",
-        "text": "my sermon on Romans 1:1-17",
-        "url": "https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/",
-        "normalized": "/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17"
-      },
-      {
-        "type": "markdown",
-        "text": "my summary of the book\u2019s argument/story",
-        "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
-        "normalized": "/2012/05/03/the-argument-story-of-romans"
-      }
-    ],
-    "blog/concerning-romans.md": [
-      {
-        "type": "markdown",
-        "text": "concerned the chaos at Cedarville University",
-        "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
-        "normalized": "/2014/03/18/cedarville-2"
-      },
-      {
-        "type": "markdown",
-        "text": " my previous post",
-        "url": "https://joshuapsteele.com/2014/03/07/my-regional-ets-presentation-reconciliation-and-the-lack-thereof/",
-        "normalized": "/2014/03/07/my-regional-ets-presentation-reconciliation-and-the-lack-thereof"
-      },
-      {
-        "type": "markdown",
-        "text": "Romans. Revisited.",
-        "url": "https://joshuapsteele.com/2012/06/28/romans-revisited-pt-1/",
-        "normalized": "/2012/06/28/romans-revisited-pt-1"
-      },
-      {
-        "type": "markdown",
-        "text": "\u201cThe Argument-Story of Romans\u201d",
-        "url": "https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/",
-        "normalized": "/2012/05/03/the-argument-story-of-romans"
+        "url": "/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\"",
+        "normalized": "/my-unforgettable-cedarville-experience/ \"My Unforgettable Cedarville\u00a0Experience\""
       }
     ],
     "blog/creation-and-doxology-pt-3.md": [
       {
         "type": "markdown",
         "text": "Pt. 1",
-        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
-        "normalized": "/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
+        "url": "/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
+        "normalized": "/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
       },
       {
         "type": "markdown",
         "text": "Pt. 2 ",
-        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
-        "normalized": "/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
+        "url": "/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
+        "normalized": "/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
       }
     ],
     "blog/what-color-is-my-parachute-the-flower-petal-exercise.md": [
@@ -217,14 +73,14 @@
       {
         "type": "markdown",
         "text": "(Read Pt. 1 First!)",
-        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
-        "normalized": "/2012/09/17/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
+        "url": "/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01",
+        "normalized": "/creation-and-doxology-pt-1/ \"Creation and Doxology (pt.\u00a01"
       },
       {
         "type": "markdown",
         "text": "CONTINUE TO PART 3 \u2013&gt;",
-        "url": "https://joshuapsteele.com/2012/09/18/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03",
-        "normalized": "/2012/09/18/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03"
+        "url": "/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03",
+        "normalized": "/creation-and-doxology-pt-3/ \"Creation and Doxology (pt.\u00a03"
       }
     ],
     "blog/with-baby-2-on-the-way-im-looking-for-work.md": [
@@ -245,8 +101,8 @@
       {
         "type": "markdown",
         "text": "CONTINUE TO PART 2 \u2013&gt;",
-        "url": "https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
-        "normalized": "/2012/09/17/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
+        "url": "/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02",
+        "normalized": "/creation-and-doxology-pt-2/ \"Creation and Doxology (pt.\u00a02"
       }
     ],
     "blog/hate-running-try-rucking-instead.md": [
@@ -293,164 +149,56 @@
         "normalized": "/wp-content/uploads/2018/06/IMG_4035.jpg \"IMG_4035.JPG\""
       }
     ],
-    "blog/wedding-vows.md": [
-      {
-        "type": "markdown",
-        "text": "here",
-        "url": "https://joshuapsteele.com/category/personal/",
-        "normalized": "/category/personal"
-      }
-    ],
-    "blog/8-questions-to-ask-while-reading-theology.md": [
-      {
-        "type": "markdown",
-        "text": "4 questions to ask while reading a book",
-        "url": "https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/",
-        "normalized": "/understand-remember-read-4-questions-ask-reading-book"
-      }
-    ],
-    "blog/christians-and-wealth.md": [
-      {
-        "type": "markdown",
-        "text": "my topical study on what the book of Proverbs has to teach us about poverty",
-        "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
-        "normalized": "/2011/02/10/20110210proverbs-topical-study-poverty"
-      },
-      {
-        "type": "markdown",
-        "text": "a separate paper",
-        "url": "https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/",
-        "normalized": "/2011/02/10/20110210proverbs-topical-study-poverty"
-      }
-    ],
-    "blog/my-uncle-timothy-steele.md": [
-      {
-        "type": "markdown",
-        "text": "my sermon: \u201cSon of Man, Can Your Bones Live?\u201d",
-        "url": "https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/",
-        "normalized": "/2016/03/29/son-of-man-can-your-bones-live"
-      }
-    ],
     "blog/testimony-brief.md": [
       {
         "type": "markdown",
-        "text": "\u201cWhat Do I Believe? A Cross-Centered Credo.\u201d",
-        "url": "https://joshuapsteele.com/2015/12/08/a-crucicentric-credo/",
-        "normalized": "/2015/12/08/a-crucicentric-credo"
-      },
-      {
-        "type": "markdown",
         "text": "college",
-        "url": "https://joshuapsteele.com/tag/cedarville/",
-        "normalized": "/tag/cedarville"
-      },
-      {
-        "type": "markdown",
-        "text": "here",
-        "url": "https://joshuapsteele.com/2012/08/14/wedding-vows/",
-        "normalized": "/2012/08/14/wedding-vows"
-      },
-      {
-        "type": "markdown",
-        "text": "here",
-        "url": "https://joshuapsteele.com/category/personal/",
-        "normalized": "/category/personal"
-      }
-    ],
-    "blog/one-simple-trick-helps-read-faster-ph-d-student.md": [
-      {
-        "type": "markdown",
-        "text": "my posts about productivity and time management",
-        "url": "https://joshuapsteele.com/category/productivity-and-time-management/",
-        "normalized": "/category/productivity-and-time-management"
-      }
-    ],
-    "blog/black-friday-book-recommendation-the-economy-of-desire.md": [
-      {
-        "type": "markdown",
-        "text": "\u201cReconciliation and the Lack Thereof\u201d:",
-        "url": "https://joshuapsteele.com/reconciliation-and-the-lack-thereof/",
-        "normalized": "/reconciliation-and-the-lack-thereof"
-      }
-    ],
-    "blog/church_and_state.md": [
-      {
-        "type": "markdown",
-        "text": "Improvising Church and State",
-        "url": "https://joshuapsteele.com/2015/12/08/improvising-church-state/",
-        "normalized": "/2015/12/08/improvising-church-state"
-      }
-    ],
-    "blog/mental-models-helpful-model-theology.md": [
-      {
-        "type": "markdown",
-        "text": "Eisenhower Decision Matrix",
-        "url": "https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix/",
-        "normalized": "/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix"
+        "url": "/tags/cedarville/",
+        "normalized": "/tags/cedarville"
       }
     ],
     "blog/let-there-be-light-my-resignation.md": [
       {
         "type": "markdown",
         "text": "Open Apology",
-        "url": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\"",
-        "normalized": "/2013/02/22/open-apology/ \"Open\u00a0Apology\""
+        "url": "/open-apology/ \"Open\u00a0Apology\"",
+        "normalized": "/open-apology/ \"Open\u00a0Apology\""
       },
       {
         "type": "markdown",
         "text": "Cedarville, Let there be Light (pt 1)",
-        "url": "https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01",
-        "normalized": "/2012/09/20/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01"
+        "url": "/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01",
+        "normalized": "/cedarville-let-there-be-light-pt-1/ \"Cedarville, Let there be Light. (pt.\u00a01"
       },
       {
         "type": "markdown",
         "text": "Cedarville, Let there be Light (pt 2)",
-        "url": "https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02",
-        "normalized": "/2012/09/21/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02"
+        "url": "/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02",
+        "normalized": "/cedarville-let-there-be-light-pt-2/ \"Cedarville, Let there be Light. (pt.\u00a02"
       },
       {
         "type": "markdown",
         "text": "An Explanation",
-        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\"",
-        "normalized": "/2012/09/22/an-explanation/ \"An\u00a0Explanation\""
+        "url": "/an-explanation/ \"An\u00a0Explanation\"",
+        "normalized": "/an-explanation/ \"An\u00a0Explanation\""
       },
       {
         "type": "markdown",
         "text": "Open Letter to CU Trustees and Admins",
-        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
-        "normalized": "/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
+        "url": "/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
+        "normalized": "/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
       },
       {
         "type": "markdown",
         "text": "Oh Cedarville\u2026",
-        "url": "https://joshuapsteele.com/2013/02/19/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\"",
-        "normalized": "/2013/02/19/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\""
+        "url": "/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\"",
+        "normalized": "/oh-cedarville/ \"Oh\u00a0Cedarville\u2026\""
       },
       {
         "type": "markdown",
         "text": "Open Apology",
-        "url": "https://joshuapsteele.com/2013/02/22/open-apology/ \"Open\u00a0Apology\"",
-        "normalized": "/2013/02/22/open-apology/ \"Open\u00a0Apology\""
-      }
-    ],
-    "blog/ok-maybe-a-bit-more-on-cedarville.md": [
-      {
-        "type": "markdown",
-        "text": "the previous post on Cedarville",
-        "url": "https://joshuapsteele.com/2014/03/18/cedarville-2/",
-        "normalized": "/2014/03/18/cedarville-2"
-      },
-      {
-        "type": "markdown",
-        "text": "![Image",
-        "url": "https://joshuapsteele.com/wp-content/uploads/2014/03/untitled.png?w=650",
-        "normalized": "/wp-content/uploads/2014/03/untitled.png"
-      },
-      {
-        "type": "markdown",
-        "text": "Miroslav Volf",
-        "url": "https://joshuapsteele.com/2013/11/10/volf-on-gender/",
-        "normalized": "/2013/11/10/volf-on-gender"
+        "url": "/open-apology/ \"Open\u00a0Apology\"",
+        "normalized": "/open-apology/ \"Open\u00a0Apology\""
       }
     ],
     "blog/sermon-the-challenge-of-christmas-light.md": [
@@ -461,58 +209,20 @@
         "normalized": "/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf \"The Challenge of Christmas Light Sermon Manuscript\""
       }
     ],
-    "blog/unrighteous-anger-yoda-jonah-nahum-and-us.md": [
-      {
-        "type": "markdown",
-        "text": "I got angry. I spoke up",
-        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/",
-        "normalized": "/2013/01/13/open-letter-to-cedarville-admins-and-trustees"
-      }
-    ],
-    "blog/software-testing-possibilities-problems-and-principles.md": [
-      {
-        "type": "markdown",
-        "text": "Observable Behavior vs Implementation Details",
-        "url": "craftdocs://open?blockId=9811D0C8-FEBE-42CC-BA53-9A767F01549F&spaceId=032236cd-2bcc-fa12-9dfe-e5564a597e07",
-        "normalized": "craftdocs://open"
-      }
-    ],
     "blog/oh-cedarville.md": [
       {
         "type": "markdown",
-        "text": "I love this place.",
-        "url": "https://joshuapsteele.com/2012/09/12/my-unforgettable-cedarville-experience/",
-        "normalized": "/2012/09/12/my-unforgettable-cedarville-experience"
-      },
-      {
-        "type": "markdown",
         "text": "I\u2019ve written about this before",
-        "url": "https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
-        "normalized": "/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
-      }
-    ],
-    "blog/go-sleep-kids-bible-psalm-127-says-productivity.md": [
-      {
-        "type": "markdown",
-        "text": "Poverty in the book of Proverbs",
-        "url": "https://joshuapsteele.com/20110210proverbs-topical-study-poverty/",
-        "normalized": "/20110210proverbs-topical-study-poverty"
+        "url": "/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\"",
+        "normalized": "/open-letter-to-cedarville-admins-and-trustees/ \"Open Letter to Cedarville Admins and\u00a0Trustees\""
       }
     ],
     "blog/cedarville-let-there-be-light-pt-2.md": [
       {
         "type": "markdown",
         "text": "(CONTINUED: An Explanation)",
-        "url": "https://joshuapsteele.com/2012/09/22/an-explanation/ \"An\u00a0Explanation\"",
-        "normalized": "/2012/09/22/an-explanation/ \"An\u00a0Explanation\""
-      }
-    ],
-    "blog/volf-on-divine-violence.md": [
-      {
-        "type": "markdown",
-        "text": "posts",
-        "url": "https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/",
-        "normalized": "/2013/10/22/down-with-the-pacifists"
+        "url": "/an-explanation/ \"An\u00a0Explanation\"",
+        "normalized": "/an-explanation/ \"An\u00a0Explanation\""
       }
     ],
     "blog/into-the-far-country.md": [
@@ -523,34 +233,12 @@
         "normalized": "/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png \"Karl Barth Quote Blue.png\""
       }
     ],
-    "blog/mothers-day-poem.md": [
-      {
-        "type": "markdown",
-        "text": "\u201cA Valediction.\u201d",
-        "url": "https://joshuapsteele.com/2009/06/06/a-valediction/",
-        "normalized": "/2009/06/06/a-valediction"
-      }
-    ],
     "pages/defaults.md": [
       {
         "type": "markdown",
         "text": "`/uses`",
         "url": "/uses",
         "normalized": "/uses"
-      }
-    ],
-    "pages/cv.md": [
-      {
-        "type": "markdown",
-        "text": "to read/listen to my sermons, go here",
-        "url": "/portfolio/sermons/",
-        "normalized": "/portfolio/sermons"
-      },
-      {
-        "type": "markdown",
-        "text": "to read some of my academic essays, go here",
-        "url": "/portfolio/essays/",
-        "normalized": "/portfolio/essays"
       }
     ],
     "pages/slashes.md": [
@@ -562,18 +250,6 @@
       }
     ],
     "pages/sermons.md": [
-      {
-        "type": "markdown",
-        "text": "here",
-        "url": "/category/sermons/",
-        "normalized": "/category/sermons"
-      },
-      {
-        "type": "markdown",
-        "text": "It is Finished! So, Get to Work! Sermon Manuscript",
-        "url": "/2017/06/13/it-is-finished-so-get-to-work-an-ascension-sermon/",
-        "normalized": "/2017/06/13/it-is-finished-so-get-to-work-an-ascension-sermon"
-      },
       {
         "type": "markdown",
         "text": "The Groom's Big Day Sermon Manuscript",
@@ -644,9 +320,21 @@
     "pages/follow.md": [
       {
         "type": "markdown",
-        "text": "Blog RSS Feed",
+        "text": "Blog RSS",
         "url": "https://joshuapsteele.com/blog/feed.xml",
         "normalized": "/blog/feed.xml"
+      },
+      {
+        "type": "markdown",
+        "text": "Notes RSS",
+        "url": "https://joshuapsteele.com/notes/feed.xml",
+        "normalized": "/notes/feed.xml"
+      },
+      {
+        "type": "markdown",
+        "text": "Notes JSON Feed",
+        "url": "https://joshuapsteele.com/notes/feed.json",
+        "normalized": "/notes/feed.json"
       }
     ],
     "pages/portfolio-about-me.md": [
@@ -730,56 +418,32 @@
     "pages/about.md": [
       {
         "type": "markdown",
-        "text": "**/resume**",
-        "url": "/portfolio/cv/",
-        "normalized": "/portfolio/cv"
+        "text": "**/uses**",
+        "url": "/uses/",
+        "normalized": "/uses"
       }
     ]
   },
-  "working_links": 359,
+  "working_links": 406,
   "files_with_broken_links": [
-    "blog/5-books-every-christian-read.md",
-    "blog/8-questions-to-ask-while-reading-theology.md",
-    "blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
-    "blog/a-crucicentric-credo.md",
-    "blog/black-friday-book-recommendation-the-economy-of-desire.md",
-    "blog/cedarville-2.md",
     "blog/cedarville-let-there-be-light-pt-2.md",
-    "blog/christians-and-wealth.md",
-    "blog/church_and_state.md",
-    "blog/concerning-romans.md",
     "blog/creation-and-doxology-pt-1.md",
     "blog/creation-and-doxology-pt-2.md",
     "blog/creation-and-doxology-pt-3.md",
-    "blog/deuteronomy-61-15-1.md",
-    "blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
     "blog/hate-running-try-rucking-instead.md",
-    "blog/heres-what-im-committing-myself-to-as-a-priest.md",
     "blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md",
     "blog/into-the-far-country.md",
     "blog/let-there-be-light-my-resignation.md",
-    "blog/mental-models-helpful-model-theology.md",
-    "blog/mothers-day-poem.md",
     "blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md",
     "blog/my-favorite-podcasts.md",
-    "blog/my-uncle-timothy-steele.md",
     "blog/my-unforgettable-cedarville-experience-pt-2-2.md",
     "blog/oh-cedarville.md",
-    "blog/ok-maybe-a-bit-more-on-cedarville.md",
-    "blog/one-simple-trick-helps-read-faster-ph-d-student.md",
-    "blog/romans-13.md",
     "blog/sermon-the-challenge-of-christmas-light.md",
-    "blog/software-testing-possibilities-problems-and-principles.md",
     "blog/testimony-brief.md",
-    "blog/thank-god-i-went-to-cedarville.md",
-    "blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
-    "blog/volf-on-divine-violence.md",
-    "blog/wedding-vows.md",
     "blog/what-color-is-my-parachute-the-flower-petal-exercise.md",
     "blog/with-baby-2-on-the-way-im-looking-for-work.md",
     "pages/about.md",
     "pages/carry.md",
-    "pages/cv.md",
     "pages/defaults.md",
     "pages/follow.md",
     "pages/portfolio-about-me.md",

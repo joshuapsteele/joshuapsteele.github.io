@@ -30,7 +30,7 @@ I will continue to use my own personal social media outlets to express my views 
 
 Although I will no longer be a contributing member of Let There Be Light, I ask you to join with me in always calling for transparency and justice within our respective communities. The justice-filled Kingdom of God is being built one context, one community at a time, all over the world.
 
-I do not regret founding [Let There Be Light](http://fiatlux125.wordpress.com/), nor do I regret my efforts to make Cedarville a more just community by striking a prophetic pose as a student with relatively little to lose. I’ve not done it perfectly (see my [Open Apology](https://joshuapsteele.com/2013/02/22/open-apology/ "Open Apology")), but speaking truth to power will always be necessary.
+I do not regret founding [Let There Be Light](http://fiatlux125.wordpress.com/), nor do I regret my efforts to make Cedarville a more just community by striking a prophetic pose as a student with relatively little to lose. I’ve not done it perfectly (see my [Open Apology](/open-apology/ "Open Apology")), but speaking truth to power will always be necessary.
 
 Our God is a god of justice, peace, and unity. There can be no true unity or peace without justice.
 
@@ -45,9 +45,9 @@ Joshua Steele
 
 —————
 
-- [Cedarville, Let there be Light (pt 1)](https://joshuapsteele.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")
-- [Cedarville, Let there be Light (pt 2)](https://joshuapsteele.com/2012/09/21/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)")
-- [An Explanation](https://joshuapsteele.com/2012/09/22/an-explanation/ "An Explanation")
-- [Open Letter to CU Trustees and Admins](https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/ "Open Letter to Cedarville Admins and Trustees")
-- [Oh Cedarville…](https://joshuapsteele.com/2013/02/19/oh-cedarville/ "Oh Cedarville…")
-- [Open Apology](https://joshuapsteele.com/2013/02/22/open-apology/ "Open Apology")
+- [Cedarville, Let there be Light (pt 1)](/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")
+- [Cedarville, Let there be Light (pt 2)](/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)")
+- [An Explanation](/an-explanation/ "An Explanation")
+- [Open Letter to CU Trustees and Admins](/open-letter-to-cedarville-admins-and-trustees/ "Open Letter to Cedarville Admins and Trustees")
+- [Oh Cedarville…](/oh-cedarville/ "Oh Cedarville…")
+- [Open Apology](/open-apology/ "Open Apology")

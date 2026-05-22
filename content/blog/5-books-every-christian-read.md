@@ -22,7 +22,7 @@ I’ve been wracking my brain trying to come up with just the top 5 books that a
 - Bible Study
 - Theology
 
-And, I think I’ve arrived at a pretty good shortlist if I do say so myself. If you [read and understand](https://joshuapsteele.com/understand-remember-read-4-questions-ask-reading-book/) these 5 books, you’ll be well on your way.
+And, I think I’ve arrived at a pretty good shortlist if I do say so myself. If you [read and understand](/heres-the-template-i-use-to-take-notes-on-books-i-read/) these 5 books, you’ll be well on your way.
 
 Please note that all links to books below are Amazon Affiliate links. That means that, if you buy the product after clicking on the link, I’ll receive a little bit of money in exchange. It helps me keep the lights on. You’re more than welcome, of course, to go to Amazon.com and search for the books, in which case I will not get a commission.
 

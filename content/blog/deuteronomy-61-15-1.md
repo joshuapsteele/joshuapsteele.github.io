@@ -57,7 +57,7 @@ Finally, this commitment to covenant faithfulness was to transcend the household
 
 However, in 6:9 the exhortation to covenant faithfulness is then expanded to the household and the community as “these words” (6:6) are inscribed “on the doorframes of your houses and gates” (6:9).[^25] In response to Yahweh’s unique faithfulness, the Israelites are to love him absolutely by internalizing (6:6), embodying (6:8-9), and teaching (6:7) covenant faithfulness.
 
-(For more even more biblical exposition, see [my essay on Philemon](https://joshuapsteele.com/2013/12/13/the-epistle-to-philemon/).)
+(For more even more biblical exposition, see [my essay on Philemon](/the-epistle-to-philemon/).)
 
 # WARNING AGAINST FORGETFUL IDOLATRY: 6:10-15
 
@@ -67,7 +67,7 @@ The historical context of this passage is especially important for the interpret
 
 Therefore, 6:13 contains an intensely covenantal threefold call to the exclusive love of Yahweh alone.[^29] As part of the proper response to Yahweh’s oneness (6:4), the Israelites are to fear only Yahweh, serve only Yahweh, and swear only by Yahweh’s name.[^30] Moses then intensifies the warning even further in 6:14-15 with a rephrasing of the first two commandments (Deut 5:7-10).[^31] On the basis of Yahweh’s righteous jealousy and the promised punishment of exile (5:9; 6:15; cf. 28:63; Lev 26:43), the Israelites are to love Yahweh exclusively by completely eschewing all forms of foreign idolatry (6:14).[^32]
 
-(For an overview on how to read the bible, check out [Amy Chase Ashley’s Scripture: Handle With Care](https://joshuapsteele.com/2013/06/17/amy-chase-scripture-handle-with-care/).)
+(For an overview on how to read the bible, check out [Amy Chase Ashley’s Scripture: Handle With Care](/inductive-bible-study-7-steps-amy-chase-ashley/).)
 
 # CONCLUSION
 

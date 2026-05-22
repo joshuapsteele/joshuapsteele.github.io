@@ -14,7 +14,7 @@ tags:
 url: /volf-on-divine-violence/
 ---
 
-A couple relevant excerpts (given recent [posts](https://joshuapsteele.com/2013/10/22/down-with-the-pacifists/)) from “Violence and Peace,” the final chapter of Miroslav Volf’s *[Exclusion and Embrace](https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20)* (my emphasis added in **bold**; paragraph breaks added where noted):
+A couple relevant excerpts (given recent [posts](/down-with-the-pacifists/)) from “Violence and Peace,” the final chapter of Miroslav Volf’s *[Exclusion and Embrace](https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20)* (my emphasis added in **bold**; paragraph breaks added where noted):
 
 “God will judge, not because God gives people what they deserve, but **because some people refuse to receive what no one deserves; if evildoers experience God’s terror, it will not be because they have done evil, but because they have resisted to the end the powerful lure of the open arms of the crucified Messiah**.
 

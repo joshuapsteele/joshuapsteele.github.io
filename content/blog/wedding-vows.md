@@ -62,4 +62,4 @@ in whose presence I hereto pledge you my faithfulness.
 
 ---
 
-For more personal posts of mine, go [here](https://joshuapsteele.com/category/personal/).
+For more personal posts of mine, go [here](/categories/personal/).

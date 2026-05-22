@@ -145,7 +145,7 @@ Should we prioritize any particular quality of a good test while we’re buildin
 
 While we need to keep all four qualities in mind throughout the testing process, I agree with Khorikov when he argues for **prioritizing resistance to refactoring**. We need to take special care to avoid producing “brittle” tests that yield false positives (“cry wolf”) whenever we refactor our production code.
 
-Put simply, we need to **test the what, not the how**. (More on this in “[Observable Behavior vs Implementation Details](craftdocs://open?blockId=9811D0C8-FEBE-42CC-BA53-9A767F01549F&spaceId=032236cd-2bcc-fa12-9dfe-e5564a597e07)” below.) Our tests should be as loosely coupled to the implementation details of our production code as possible. Instead, they should focus on testing the observable behavior of our software.
+Put simply, we need to **test the what, not the how**. (More on this in “Observable Behavior vs Implementation Details” below.) Our tests should be as loosely coupled to the implementation details of our production code as possible. Instead, they should focus on testing the observable behavior of our software.
 
 A related concept at this juncture is **“black-box testing vs. white-box testing**“:
 

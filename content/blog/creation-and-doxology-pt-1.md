@@ -35,7 +35,7 @@ Doxologically, the creation of the universe as Elohim’s temple provides the im
 
 However, there is a tension between creation as it is now experienced and as it has just been described.[^16] Genesis 3 gives the tragic explanation: Sin and Death, God’s cosmic enemies, have infected and affected every layer of the cosmic temple,[^17] pulling the universe backwards, so to speak, toward the chaotic watery depths from which it was called into being. If the temple is no longer “safe,” is appropriate worship still possible?
 
-[CONTINUE TO PART 2 –&gt;](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")
+[CONTINUE TO PART 2 –&gt;](/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")
 
 ---
 

@@ -28,7 +28,7 @@ I don’t know about you, but it’s easy for me to think that my success or lac
 
 Not true! It doesn’t matter how hard you work. If the Lord is not behind it and in favor of it, you’ll be laboring in vain.
 
-Now, of course, this Psalm doesn’t undo the Bible other admonitions to work diligently, lest you fall into poverty (see my post about [Poverty in the book of Proverbs](https://joshuapsteele.com/20110210proverbs-topical-study-poverty/)).
+Now, of course, this Psalm doesn’t undo the Bible other admonitions to work diligently, lest you fall into poverty (see my post about [Poverty in the book of Proverbs](/bible-poverty-proverbs/)).
 
 However, it does have implications for when we go to bed!
 

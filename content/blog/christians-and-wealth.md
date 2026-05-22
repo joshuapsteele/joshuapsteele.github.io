@@ -33,7 +33,7 @@ Great news! If you only have a minute to read about wealth, here’s my argument
 - Warrant: 
     1. Christians want to remain true to Scripture and submit to God’s way of life in order to find satisfaction.
 
-(For more on Christianity, wealth, and poverty, see [my topical study on what the book of Proverbs has to teach us about poverty](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).)
+(For more on Christianity, wealth, and poverty, see [my topical study on what the book of Proverbs has to teach us about poverty](/bible-poverty-proverbs/).)
 
 Still interested in reading about [this contentious topic](https://en.wikipedia.org/wiki/Christian_views_on_poverty_and_wealth)? Continue below.
 
@@ -154,7 +154,7 @@ Witherington, Ben. "Deprogramming Ourselves from a Lifestyle of Conspicuous Cons
 
 [^6]: This same point was said better and more emphatically by Professor John White (Cedarville University) in BEGE-3760 Christian Worldview Integration.
 
-[^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).
+[^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](/bible-poverty-proverbs/).
 
 [^8]: Barth, *Church Dogmatics* II/1 (T.&T. Clark, 1957), p. 387
 

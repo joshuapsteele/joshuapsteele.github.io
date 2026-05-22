@@ -30,4 +30,4 @@ url: /cedarville-let-there-be-light-pt-2/
 - What explanation has been given to the students who have been affected by Dr. Pahl’s dismissal (i.e. the ones registered for his classes)? Has that explanation been accurate and forthright?
 - Are any other professors currently being considered for dismissal by the University for things they have written and published?
 
-[(CONTINUED: An Explanation)](https://joshuapsteele.com/2012/09/22/an-explanation/ "An Explanation")
+[(CONTINUED: An Explanation)](/an-explanation/ "An Explanation")

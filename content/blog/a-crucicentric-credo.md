@@ -149,7 +149,7 @@ Once more, to the **CROSS**. There, the Trinity stretches to the utmost, as the 
 
 However, through the power of the Holy Spirit, the exiled Son of God is vindicated as the Savior of the world and brought back from the far country of death!
 
-(For more on the Resurrection, see my sermon: [“Son Of Man, Can Your Bones Live?”](https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/))
+(For more on the Resurrection, see my sermon: [“Son Of Man, Can Your Bones Live?”](/son-of-man-can-your-bones-live/))
 
 Through this movement of the Son into the utmost exile and back again, **sin itself is offered up to destruction**.[^23]
 

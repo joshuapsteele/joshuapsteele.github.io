@@ -21,7 +21,7 @@ This is a question that has been on my mind throughout my final year at Cedarvil
 
 I saw the havoc that the Cedarville environment was wreaking on my mentors, friends, and their families. My leaders got rid of and harassed beloved members of my community, and then deceptively refused to own up to their nefarious actions.
 
-[![](https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg)](http://fiatlux125.wordpress.com/)[I got angry. I spoke up](https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/). And I was convinced that my anger was righteous. Others were less convinced.
+[![](https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg)](http://fiatlux125.wordpress.com/)[I got angry. I spoke up](/open-letter-to-cedarville-admins-and-trustees/). And I was convinced that my anger was righteous. Others were less convinced.
 
 Some stayed poignantly and painfully silent throughout the chaos. Others repeatedly gave platitudes that everything was OK, that we were obligated to trust our leaders, that to question their actions was inherently disrespectful. And some from this latter group met my kind of anger with their own frustration and anger that I dared to criticize their beloved Cedarville.
 

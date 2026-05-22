@@ -50,7 +50,7 @@ If you’ve got questions about anything related to the Christian tradition, che
 
 I’ve become somewhat of a Tim Ferriss junkie in the past two years. In addition to this podcast – which features long-form interviews with “top performers,” in which Tim distils tips, tricks, habits, and practices for the common person – Ferriss’ books are well worth checking out (Affiliate LInks: [The 4-Hour Workweek](http://amzn.to/2uTWui7); The [4-Hour Body](http://amzn.to/2uxKdxq); The [4-Hour Chef](http://amzn.to/2h0dtJT); [Tools of Titans](http://amzn.to/2h0dwp3)) . He’s great at teaching *[metalearning](https://en.wikipedia.org/wiki/Meta_learning)* – how to learn how to learn!
 
-(Note: Tim Ferriss is how I found out about [kettlebells](https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](https://joshuapsteele.com/tools) for personal fitness.)
+(Note: Tim Ferriss is how I found out about [kettlebells](/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](https://joshuapsteele.com/tools) for personal fitness.)
 
 ## [Coffee Break German](https://radiolingua.com/coffeebreakgerman/)
 

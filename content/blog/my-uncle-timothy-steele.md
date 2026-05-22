@@ -72,4 +72,4 @@ I don’t just follow Jesus to get into heaven someday when I die. I follow him 
 
 And, following the words of my beloved Uncle Tim, ***that’s beautiful***.
 
-(For another reflection on death, hope, and resurrection, read [my sermon: “Son of Man, Can Your Bones Live?”](https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/))
+(For another reflection on death, hope, and resurrection, read [my sermon: “Son of Man, Can Your Bones Live?”](/son-of-man-can-your-bones-live/))

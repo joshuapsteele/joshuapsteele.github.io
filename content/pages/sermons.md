@@ -13,7 +13,7 @@ url: /sermons
 **More About Me:** [About](/about) • [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}
 
-( _Click [here](/category/sermons/) to view all posts that have been categorized as sermons on my blog._)
+( _Click [here](/tags/sermons/) to view all posts that have been categorized as sermons on my blog._)
 
 ## [Why Haven't You Torn the Sky Open Yet?](/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/)
 
@@ -57,7 +57,7 @@ January 20, 2018. Preached at Church of the Savior in Wheaton, IL.
 
 Acts 1:1-11; Psalm 47; Ephesians 1:15-23; Luke 24:44-53; (Ascension Sunday; 28 May, 2017). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
-READ: [It is Finished! So, Get to Work! Sermon Manuscript](/2017/06/13/it-is-finished-so-get-to-work-an-ascension-sermon/)
+READ: [It is Finished! So, Get to Work! Sermon Manuscript](/it-is-finished-so-get-to-work-an-ascension-sermon/)
 
 ## The Lasting Supper
 

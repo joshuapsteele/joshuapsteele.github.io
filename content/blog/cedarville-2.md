@@ -16,7 +16,7 @@ url: /cedarville-2/
 
 I wish I could say I was proud of my alma mater…
 
-Despite my Lenten Facebook fast, I was made aware of **the following post** by my friend [**Marlena Graves**](http://marlenagraves.com/). I thought I’d share it, just in case anyone is considering Cedarville as a choice for college. I’d still strongly recommend you attend another institution, where you can trust the administration. My [previous thoughts](https://joshuapsteele.com/2013/01/13/open-letter-to-cedarville-admins-and-trustees/) on[ these matters](https://joshuapsteele.com/2013/02/19/oh-cedarville/) still [stand](http://fiatlux125.wordpress.com/).
+Despite my Lenten Facebook fast, I was made aware of **the following post** by my friend [**Marlena Graves**](http://marlenagraves.com/). I thought I’d share it, just in case anyone is considering Cedarville as a choice for college. I’d still strongly recommend you attend another institution, where you can trust the administration. My [previous thoughts](/open-letter-to-cedarville-admins-and-trustees/) on[ these matters](/oh-cedarville/) still [stand](http://fiatlux125.wordpress.com/).
 
 ======
 

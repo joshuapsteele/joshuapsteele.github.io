@@ -13,7 +13,7 @@ tags:
 url: /heres-what-im-committing-myself-to-as-a-priest/
 ---
 
-*I’m getting ordained to the priesthood* [*this Saturday, November 02*](https://joshuapsteele.com/ordination/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*
+*I’m getting ordained to the priesthood* [*this Saturday, November 02*](/heres-a-video-of-my-ordination-to-the-priesthood/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*
 
 ## The Presentation
 

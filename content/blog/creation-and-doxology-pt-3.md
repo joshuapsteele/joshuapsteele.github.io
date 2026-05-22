@@ -12,7 +12,7 @@ tags:
 url: /creation-and-doxology-pt-3/
 ---
 
-(Read [Pt. 1](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)") and [Pt. 2 ](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")first!)
+(Read [Pt. 1](/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)") and [Pt. 2 ](/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")first!)
 
 # CREATION AND REDEMPTION: CHRIST AND NEW CREATION
 

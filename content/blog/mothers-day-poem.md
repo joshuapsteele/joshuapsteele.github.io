@@ -45,7 +45,7 @@ with these three words to say –
 
 ---
 
-(For another original poem of mine, check out [“A Valediction.”](https://joshuapsteele.com/2009/06/06/a-valediction/))
+(For another original poem of mine, check out [“A Valediction.”](/a-valediction/))
 
 What’s next? Well, whether you enjoyed the poem or not – or whether or not Mother’s Day is even nearby on the calendar – I think you know what you should go and do next after reading this post:
 

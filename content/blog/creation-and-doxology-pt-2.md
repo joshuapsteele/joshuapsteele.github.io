@@ -12,7 +12,7 @@ tags:
 url: /creation-and-doxology-pt-2/
 ---
 
-[(Read Pt. 1 First!)](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)")
+[(Read Pt. 1 First!)](/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)")
 
 # CREATION, COMPLEXITY, AND CHAOS
 
@@ -24,7 +24,7 @@ The Sea, in fact, bears special mention, for it was a symbol of chaos in the ANE
 
 The creation theology of the whirlwind speeches shows that “humanity has a place in God’s creation…not of dominion but of humility and of wonder.”[^9]The inherent chaos and complexity of creation necessitate a humble reorientation in the priest-kings’ worship of their Creator. Nevertheless, although God’s temple is wild by design, Sin and Death continue to cut against the grain of Yahweh’s creative purposes, distorting even the intrinsic beauty of creation’s chaotic aspects. All is not as it should be in Elohim’s holy temple. Creation cries out for a Redeemer.
 
-[CONTINUE TO PART 3 –&gt;](https://joshuapsteele.com/2012/09/18/creation-and-doxology-pt-3/ "Creation and Doxology (pt. 3)")
+[CONTINUE TO PART 3 –&gt;](/creation-and-doxology-pt-3/ "Creation and Doxology (pt. 3)")
 
 ---
 

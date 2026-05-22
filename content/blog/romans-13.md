@@ -37,7 +37,7 @@ Far from being a comprehensive condensation of the apostle’s beliefs regarding
 This thesis will be “proven” by appealing to the historical context of the original audience and the overarching context of Romans 12:9-13:10 in which this passage rests.
 
 {{< callout "note" >}}
-For more on the book of Romans, check out [my sermon on Romans 1:1-17](https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!
+For more on the book of Romans, check out [my sermon on Romans 1:1-17](/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!
 
 Also, you should take the time to watch the BibleProject's summary videos on Romans.
 
@@ -132,7 +132,7 @@ The argument for placing 13:1-7 in the overarching context of Paul’s focus on 
 
 This returns the Roman Christians’ focus to love as the central virtue of Christianity and the “fulfillment of the law” (13:8, 10). They were to faithfully follow Jesus the Messiah King, seeking to bring in his kingdom. But it was unthinkable to Paul to effect God’s kingdom in a way that ran against the grain of that kingdom of love, justice, and peace. Therefore, in the middle of exhortations to genuinely love one’s enemies and neighbors, Paul urges his audience to humbly obey their governing authorities so that they might remain faithful to their King’s calling as they went about his work in the city of Rome.
 
-(For more on the book of Romans, check out [my summary of the book’s argument/story](https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/).)
+(For more on the book of Romans, check out [my summary of the book’s argument/story](/romans-distilled-paraphrased/).)
 
 {{< callout "note" >}}
 Here's N.T. Wright on Romans 13 and the question of Christian submission to government:
