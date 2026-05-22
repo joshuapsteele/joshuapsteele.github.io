@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2025-04-01 08:25:13-04:00
-description: The Table Saw I know you've all been waiting for (lol) updates on my
-  vintage 1947 Craftsman 113 table saw.
+description: "Progress on restoring a vintage Craftsman 113 table saw, including safer switches, a new blade, pulley changes, and a repaired rip fence."
 draft: false
 showToc: false
 title: Saw Updates

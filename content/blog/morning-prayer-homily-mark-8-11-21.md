@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2015-09-02T07:00:00Z'
-description: 'A homily on Mark 8:11-21 (ESV): > The Pharisees came and began to argue
-  with him, seeking from him a sign from heaven to test him.'
+description: "A homily on Mark 8:11-21 about sign-seeking, control, faith, and learning to receive the bread God has already given."
 title: 'Morning Prayer Homily: Mark 8.11-21'
 tags:
   - sermons

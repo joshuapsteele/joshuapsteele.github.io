@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: Here are 32 things I’ve learned from life, so far. You are not your thoughts.
+description: "Thirty-two hard-won life lessons on attention, faith, relationships, health, reading, leadership, mortality, and smoked paprika."
 tags:
   - list
   - purpose

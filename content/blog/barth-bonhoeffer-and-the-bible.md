@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-07-08T16:57:05Z'
-description: John Webster’s Idea Like so many others, I desperately wish that John
-  Webster were still alive.
+description: "The dissertation seed: following John Webster by studying how Karl Barth and Dietrich Bonhoeffer read Scripture theologically."
 title: Barth, Bonhoeffer, and the Bible
 tags:
   - barth

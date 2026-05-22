@@ -4,8 +4,7 @@ categories:
 - personal
 - productivity
 date: '2018-03-13T22:06:09Z'
-description: Getting Things Done ("GTD" for short) is a widely popular personal productivity
-  system invented and popularized by David Allen.
+description: "A return to David Allen's Getting Things Done, using a brain dump and trusted system to recover focus after a rough few years."
 title: Getting Back on the "Getting Things Done" Productivity Bandwagon
 tags:
   - gtd

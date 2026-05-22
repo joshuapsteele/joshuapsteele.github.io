@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2015-12-08T11:53:24Z'
-description: 'INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS From the church’s perspective,
-  is the state a promising offer, or a threatening one.'
+description: "An essay proposing overacceptance as a way beyond Anglican accommodation and Anabaptist separation in church-state relations."
 title: 'Improvising Church and State: Overaccepting as a Synthesis of Anglican and
   Anabaptist Approaches'
 tags:

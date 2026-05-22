@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-01-26T17:52:00Z'
-description: Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been
-  published.
+description: "A working list of Karl Barth's Gesamtausgabe volumes, tracking the complete collected edition and available publication details."
 tags:
 - barth
 - research

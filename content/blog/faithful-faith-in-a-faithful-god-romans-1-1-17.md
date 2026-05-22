@@ -3,7 +3,7 @@ author: joshuapsteele
 categories: theology
 tags: [sermons, romans, bible]
 date: '2015-10-03T08:27:35Z'
-description: 'A sermon on Romans 1:1-17.'
+description: "A sermon on Romans 1:1-17 about God's faithfulness, human faith, and the good news revealed in Jesus the Messiah."
 title: 'Faithful Faith in a Faithful God: Romans 1.1-17'
 url: /faithful-faith-in-a-faithful-god-romans-1-1-17/
 ---

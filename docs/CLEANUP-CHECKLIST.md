@@ -1,7 +1,7 @@
 # Maintenance Checklist
 ## joshuapsteele.com Hugo Site
 
-**Updated:** 2026-05-21
+**Updated:** 2026-05-22
 **See:** `AUDIT-MASTER-REPORT.md` for full findings.
 
 > **Living tracker — keep it current.** This is the open-items list for the audit-and-cleanup project. When you complete an item, check it off and move it to "Completed" in the same commit as the change. See the "Audit & Cleanup Project" section of `CLAUDE.md`/`AGENTS.md` for the full logging protocol.
@@ -18,6 +18,7 @@ _No open high-priority items._
 
 - [ ] **Curate descriptions for popular posts first.** Start with the current Tinylytics top 10 in `data/popular.json`, then continue down the traffic list in batches.
   - **Progress (2026-05-21):** Top ~100 blog posts by 2026-YTD Tinylytics traffic now all have curated (non-fallback) descriptions. Worked in batches (ranks 1–20, 21–40, 41–60, 61–81, 82–100); rewrote 46 fallback/weak descriptions in total (incl. two typo fixes), leaving those already well-written. `npm run build` passes after each batch. Next: continue down the traffic list (posts ranked ~101+, where traffic is ~28 hits/yr and falling).
+  - **Progress (2026-05-22):** Continued through the next traffic bands (ranks ~101–180 from the 2025-10-11 Tinylytics CSV export). Rewrote 40 weak/fallback descriptions, especially posts whose snippets were editor notes, first-sentence fragments, body-heading artifacts, or vague calls for feedback. `python3 scripts/audit-frontmatter.py` reports 0 missing descriptions/categories/tags/URLs/dates; `npm run build` passes. Next: continue with posts ranked ~181+.
 
 ### Low priority / when convenient
 

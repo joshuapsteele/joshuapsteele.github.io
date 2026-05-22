@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2018-03-09T14:47:50Z'
-description: Rachel and I just got back from our very first trip to the Southwest.
+description: "A travel reflection from Phoenix and the Grand Canyon on beauty, danger, desert landscapes, and learning to see the Southwest."
 title: 'Dangerous Beauty: Phoenix and Grand Canyon Trip 2018'
 tags:
   - travel

@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2015-04-24T09:13:38Z'
-description: Yesterday I posted the beginning of Karl Barth's exegesis of Christ's
-  wilderness temptations.
+description: "Part 2 of Karl Barth's reading of Christ's wilderness temptations: the lure of Christendom, political power, and worshiping Satan for influence."
 title: 'Barth on the Wilderness Temptations: #2, Christendom''s Cost — Worship Satan'
 tags:
   - barth

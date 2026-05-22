@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2024-10-13'
-description: In God's economy, the most important people are not the billionaire,
-  the business owner, or even the blue-collar worker.
+description: "A brief meditation on God's economy, where the poor and overlooked matter more than wealth, status, or productivity."
 showtoc: false
 title: God's Economy
 tags:

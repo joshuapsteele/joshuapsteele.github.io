@@ -3,8 +3,7 @@ TocOpen: false
 author: joshuapsteele
 categories: productivity
 date: 2025-07-31 08:11:02-04:00
-description: Meredith Whittaker on the growing gap between tech-optimist narratives
-  and our actual tech-encumbered reality.
+description: "Meredith Whittaker's warning about the widening gap between tech-optimist stories and the tech-encumbered reality people actually inhabit."
 draft: false
 showToc: false
 tags:

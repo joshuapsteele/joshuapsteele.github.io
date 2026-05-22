@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2018-04-02T06:00:45Z'
-description: The following is a guest post written by my friend and former college
-  roommate, **Zak Weston**.
+description: "A guest essay by Zak Weston on factory farming, environmental harm, and why Christian discipleship should include food ethics."
 title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
 tags:
   - ethics

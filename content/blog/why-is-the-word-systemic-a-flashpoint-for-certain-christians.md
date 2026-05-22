@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: 2020-06-03T20:13:43Z
-description: Christians should not be freaked out by the word "systemic."
+description: "Why Christians can speak about systemic sin and racism without abandoning biblical concern for individual repentance and redemption."
 title: Why is the word “systemic” a flashpoint for certain Christians?
 tags:
   - racism

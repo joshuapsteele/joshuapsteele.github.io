@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2025-01-23T09:16:56-05:00'
-description: Calling all software developers. As I embark on a new, exploratory work
-  project, I'd like to hear your thoughts on authorization.
+description: "A call for software developers to share authorization patterns, tools, pitfalls, and resources across RBAC, ABAC, ReBAC, and beyond."
 tags:
 - authorization
 title: Devs! Let's Talk Authorization

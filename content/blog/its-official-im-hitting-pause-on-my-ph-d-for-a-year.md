@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - dissertation
 - personal
-description: I received word yesterday that the Ph.D.
+description: "Why I took a one-year leave from my Ph.D. program to protect my mental health, heal, and discern the future of the dissertation."
 tags:
 - research
 - barth

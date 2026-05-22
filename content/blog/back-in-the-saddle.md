@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2024-03-07T21:24:37Z'
-description: I know I’m not alone in this, but the past few years have been pretty
-  rough for me. - I’ve gained at least 50 pounds.
+description: "Getting back into personal development after several rough years by returning to GTD, a brain dump, and honest blogging."
 tags:
 - drafts
 title: Back in the Saddle

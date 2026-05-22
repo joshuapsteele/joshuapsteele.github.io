@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: 2015-04-24T09:13:34Z
-description: "A particularly challenging quote from Karl Barth's *Evangelical Theology: An Introduction*."
+description: "Karl Barth's warning from Evangelical Theology about the humility, calling, and responsibility required of anyone doing theology."
 title: Who am I to be a theologian?
 url: /who-am-i-to-be-a-theologian/
 tags:

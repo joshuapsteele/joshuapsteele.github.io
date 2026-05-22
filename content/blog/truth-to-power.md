@@ -4,8 +4,7 @@ categories:
 - ethics
 - theology
 date: '2024-03-06T12:06:43Z'
-description: John the Baptist lost his life for speaking truth to power. Are we willing
-  to speak truth to power.
+description: "A brief reflection on John the Baptist, truth-telling, and the cost of speaking truth to political and religious power."
 tags:
 - drafts
 title: Truth to Power

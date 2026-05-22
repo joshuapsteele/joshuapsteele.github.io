@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2024-03-18T20:49:57Z'
-description: Holy Week reflections on resurrection icons (anastasis) and the profound
-  lyrics of John Mark McMillan's 'Death in His Grave.'
+description: "Holy Week reflections on the Anastasis icon, resurrection hope, and John Mark McMillan's song 'Death in His Grave.'"
 title: Death in His Grave
 url: /death-in-his-grave/
 tags:

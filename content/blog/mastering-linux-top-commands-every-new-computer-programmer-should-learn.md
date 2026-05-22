@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-03-16T17:37:01Z'
-description: Are you new to the world of computer programming. If so, learning Linux
-  commands is an essential step in your journey.
+description: "A beginner-friendly guide to essential Linux commands for new programmers learning to navigate, inspect, and manage files from the terminal."
 title: 'Mastering Linux: Top Commands Every New Computer Programmer Should Learn'
 url: /mastering-linux-top-commands-every-new-computer-programmer-should-learn/
 tags:

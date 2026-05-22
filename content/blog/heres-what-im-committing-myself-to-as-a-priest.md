@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: ministry
 date: '2019-10-28T19:57:33Z'
-description: I’m getting ordained to the priesthood* *this Saturday, November 02**.
+description: "Posting the ACNA priestly ordination vows and exhortation before ordination, as a public record of the commitments involved."
 title: Here's what I'm committing myself to as a priest.
 tags:
   - ordination

@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2018-08-09T15:56:09Z'
-description: This is a self-indulgently long story.
+description: "The story of Eva Joy Steele's birth: gestational hypertension, an unexpected induction, a missed wedding, and a joyful arrival."
 title: 'Eva Joy Steele: A Birth Story'
 tags:
   - family

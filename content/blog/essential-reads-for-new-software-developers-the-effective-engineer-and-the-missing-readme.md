@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-07-03T21:08:09Z'
-description: Are you stepping into the exciting world of software engineering, or
-  considering whether to take that leap.
+description: "Two book recommendations for new software developers: The Effective Engineer for leverage and The Missing README for surviving real engineering teams."
 tags:
 - books
 - reviews

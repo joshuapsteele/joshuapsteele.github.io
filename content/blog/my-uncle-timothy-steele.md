@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2015-04-24T09:15:26Z'
-description: (This post is about my late uncle, Timothy Steele. It’s long, and I swear
-  toward the end. Sorry.) --- > “It is better to go to a funeral than a feast.
+description: "Remembering my Uncle Timothy Steele: his laughter, love, faith, and the Christian hope that rages against death."
 publicize_twitter_user: With some added theological reflection on Death and Hope.
 title: My Uncle, Timothy Steele
 tags:

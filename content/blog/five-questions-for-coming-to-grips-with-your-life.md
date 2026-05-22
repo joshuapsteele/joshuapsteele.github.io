@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2024-11-13T16:50:14-05:00
-description: "Source: *Four Thousand Weeks: Time Management for Mortals* by Oliver Burkeman 1."
+description: "Five Oliver Burkeman questions for facing discomfort, impossible standards, identity, uncertainty, and the need for visible results."
 tags:
   - questions
   - reading

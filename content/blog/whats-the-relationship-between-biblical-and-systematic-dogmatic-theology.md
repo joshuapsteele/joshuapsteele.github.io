@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-01-23T15:18:31Z'
-description: This is the question we’re considering this week in our doctoral seminar
-  on biblical and theological integration.
+description: "A doctoral seminar reading list on biblical theology, systematic theology, and how Scripture and doctrine belong together."
 tags:
 - bible
 - theology

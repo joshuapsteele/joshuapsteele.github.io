@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: 2020-11-28T00:22:13Z
-description: An Advent sermon for those who hate waiting.
+description: "An Advent sermon on Isaiah's cry for God to tear open the heavens, written for people who hate waiting."
 tags:
   - advent
   - isaiah

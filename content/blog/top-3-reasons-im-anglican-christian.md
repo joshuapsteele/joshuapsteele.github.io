@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: ethics
 date: '2018-03-01T05:00:03Z'
-description: Why am I an Anglican Christian.
+description: "Three reasons I became Anglican: refuge from fundamentalism, theological breadth, and rootedness in the Christian tradition."
 tags:
 - anglican
 title: Top 3 Reasons Why I'm an Anglican Christian

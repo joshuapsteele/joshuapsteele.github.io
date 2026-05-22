@@ -5,8 +5,7 @@ categories:
 - ministry
 - theology
 date: '2022-12-22T13:46:21Z'
-description: 'TL;DR: If you’re serious about biblical and theological studies, you
-  should invest in Logos 10 Bible Software.'
+description: "A Logos 10 review for serious Bible and theology study, covering speed improvements, print library search, church history tools, and translation."
 tags:
 - logos
 - software
