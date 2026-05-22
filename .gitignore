@@ -23,6 +23,10 @@ Icon
 .hugo_build.lock
 hugo_stats.json
 
+# Python
+__pycache__/
+*.py[cod]
+
 # Private datasets (never commit)
 data-private/
 Retail.OrderHistory*.csv

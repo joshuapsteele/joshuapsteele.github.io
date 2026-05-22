@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Last refreshed: 2026-05-21_
+_Last refreshed: 2026-05-22_
 
 This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
 
@@ -28,12 +28,12 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 
 ## Site Architecture
 
-- **Static Site Generator**: Hugo 0.160.1 extended (Node 20 in CI, Node 18+ locally)
+- **Static Site Generator**: Hugo Extended (CI pins the exact version in `.github/workflows/hugo.yml`; Node 20 in CI, Node 18+ locally)
 - **Theme**: PaperMod (in `themes/` directory, override via `layouts/` and `assets/`)
 - **Content Structure**:
-  - `content/blog/` - Blog posts (324 markdown files with YAML front matter)
-  - `content/pages/` - Static pages (43 files including about, contact, cv, now, uses, follow, etc.)
-  - `content/notes/` - Short notes (16 files, added April 2026; canonical POSSE feed syndicated to Mastodon and Threads via Micro.blog)
+  - `content/blog/` - Long-form blog posts with YAML front matter
+  - `content/pages/` - Static pages including about, contact, cv, now, uses, follow, etc.
+  - `content/notes/` - Short notes; canonical POSSE feed syndicated to Mastodon and Threads via Micro.blog
   - `content/search.md` - Search functionality page
   - `content/archives.md` - Archives listing page
   - `content/files.md` - Files listing page
@@ -89,7 +89,7 @@ npm run deploy
 ### Deployment
 The site uses GitHub Actions for automated deployment (`.github/workflows/hugo.yml`):
 - Workflow triggered on push to `main` branch or manual dispatch
-- Build job: Checks out code with submodules, sets up Hugo 0.160.1 extended + Node 20, caches dependencies, builds site with `hugo --gc --minify`
+- Build job: Checks out code with submodules, installs the Hugo version pinned in the workflow, caches dependencies, builds site with `hugo --gc --minify`
 - Deploy job: Deploys to GitHub Pages using built artifact
 
 The `scripts/deploy.sh` script simplifies local deployment workflow:
@@ -122,7 +122,7 @@ The `scripts/deploy.sh` script simplifies local deployment workflow:
 
 ### Profile Mode & Navigation
 - Profile mode enabled on homepage with custom image, title, and subtitle
-- 27 custom profile buttons linking to key pages (About, Blog, Contact, CV, Now, Uses, etc.)
+- Custom profile buttons linking to key pages (About, Blog, Contact, CV, Now, Uses, etc.)
 - Top navigation menu: About, Blog, Contact, Resources, Social, Search
 - Footer text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
 
@@ -188,7 +188,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
 - **Display**: JavaScript-based webmention display (`layouts/partials/webmention_display.html`)
   - Fetches from webmention.io and Micro.blog's JF2 endpoint on page load
   - Groups by type: likes (facepile), reposts (facepile), replies (full cards), mentions (list)
-  - Styled with extensive CSS (`assets/css/extended/custom.css` lines 383-538)
+  - Styled in `assets/css/extended/custom.css`
 - **Outgoing**: `scripts/send_webmentions.py` runs after the Hugo build in GitHub Actions
   - By default it sends only explicit `u-in-reply-to` links, keeping regular post links quiet
 
@@ -198,7 +198,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
   - Displays original post with author, title, excerpt
   - JavaScript-based fetching with graceful fallback for CORS issues
   - Marked up with `u-in-reply-to` microformat class
-  - Styled with CSS (`assets/css/extended/custom.css` lines 540-611)
+  - Styled in `assets/css/extended/custom.css`
 
 ### Creating Reply Posts
 Add this to your post's front matter to create a reply:
@@ -225,7 +225,7 @@ Validate implementations with:
 
 ## Taxonomy Management
 
-The site uses a taxonomy consolidation system to maintain consistent categories and tags. As of the 2026-05-21 refresh: 8 categories (theology, ethics, personal, productivity, dissertation, ministry, poem, politics) and 163 distinct tags. Only 5 blog posts (1.5%) are uncategorized; 134 (41.4%) are untagged.
+The site uses a taxonomy consolidation system to maintain consistent categories and tags. Canonical categories are `theology`, `ethics`, `personal`, `productivity`, `dissertation`, `ministry`, `poem`, and `politics`. Use `python3 scripts/audit-frontmatter.py` for live category/tag coverage instead of copying counts into docs.
 
 ### Taxonomy Files
 - `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
@@ -241,22 +241,21 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 
 ### Shell Scripts
 - `scripts/deploy.sh` - Commits all changes with timestamp (or custom message) and pushes to main
-- `scripts/cleanup_images.sh` - Removes legacy/external images (DANGEROUS: review before running)
+- `scripts/cleanup_images.sh` - Legacy broad image cleanup (DANGEROUS: run a fresh media audit first)
 - `scripts/rename_blog_files.sh` - Renames dated blog posts to remove date prefixes (review before running)
-- `scripts/apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
 - `scripts/review_changes.sh` - Review staged changes before committing
 
 ### Python Audit & Analysis Scripts
 - `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/`)
 - `scripts/check-internal-links.py` - Check for broken internal links (outputs to `scripts/data/`)
 - `scripts/check-external-links.py` - Check for broken external links (outputs to `scripts/data/`)
+- `scripts/audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
 - `scripts/check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
 - `scripts/analyze_website_stats.py` - Analyze traffic statistics
 - `scripts/cleanup_frontmatter.py` - Clean up and standardize front matter fields
 - `scripts/cleanup_posts.py` - Clean up posts in bulk
 - `scripts/fix_malformed_yaml.py` - Fix malformed YAML front matter
 - `scripts/generate_descriptions.py` - Generate descriptions for posts missing them
-- `scripts/update_descriptions.py` - Update existing descriptions
 - `scripts/categorize_page_changes.py` - Categorize and analyze page changes
 - `scripts/show_posts_batch.py` - Display posts in batches for review
 - `scripts/fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
@@ -273,7 +272,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `docs/AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
 - `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings
 - `docs/CLEANUP-CHECKLIST.md` - Checklist for site maintenance
-- `docs/AUDIENCE_GROWTH_STRATEGY.md` - Strategy document
+- `docs/archive/AUDIENCE_GROWTH_STRATEGY.md` - Archived strategy document
 
 ## Common Workflows
 

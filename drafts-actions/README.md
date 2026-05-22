@@ -205,11 +205,11 @@ You can delete or just stop using these once the new ones are working:
    - Link: save a real link you are comfortable keeping, or use a known duplicate URL to test the duplicate path without creating a new LinkLog item.
 5. Run the router against an untagged draft first and press Cancel on the confirmation prompt. That verifies detection without side effects. Then run one real router publish.
 6. Check that the draft is tagged `published` and archived after each success.
-7. Subscribe Micro.Blog to `/notes/feed.json` (see POSSE-SETUP step 7). Verify that a newly published note shows up on your Mastodon timeline within 20 minutes.
+7. Subscribe Micro.Blog to `/notes/feed.json` (see POSSE-SETUP step 7). Verify that a newly published note shows up on your Mastodon timeline after Micro.Blog's next poll.
 
 ## Known limitations
 
 - The helpers are duplicated across action files because Drafts' script environment doesn't support real imports. The canonical copy is in `00-shared-helpers.js`; if you edit one, propagate.
 - The Hugo action pushes directly to `main` (per your preference). If you ever want a PR-based flow, swap the branch in the PUT request and add a follow-up `POST /repos/.../pulls` call.
-- Buttondown's API base path (`/v1/emails`) is stable as of 2026-04. If they change the shape, the error handler will show the status + body so you can update the field names without guessing.
+- If Buttondown changes its email API shape, the error handler will show the status + body so you can update the field names without guessing.
 - The router's "confident" path for tag-based dispatch does not prompt. If you habitually tag drafts speculatively, you may want to change the router to always prompt — flip `confident = true` to `confident = false` on the tag branch.

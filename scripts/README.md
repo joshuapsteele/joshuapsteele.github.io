@@ -20,26 +20,32 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 - `cleanup_frontmatter.py` - Clean up and standardize YAML front matter
 - `fix_malformed_yaml.py` - Fix malformed YAML in post front matter
 - `generate_descriptions.py` - Auto-generate descriptions for posts
-- `update_descriptions.py` - Update existing post descriptions
-- `categorize-uncategorized.py` - Suggest categories for uncategorized posts
+- `manage-notes.py` - List or move Hugo notes by date/time, tag, draft status, or syndication flag
+- `migrate-microblog-archive.py` - Import an exported Micro.blog archive into `content/notes/`
 
 ### Auditing & Analysis
 - `audit-frontmatter.py` - Analyze front matter for issues (outputs to `data/`)
+- `audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
 - `check-internal-links.py` - Check for broken internal links (outputs to `data/`)
 - `check-external-links.py` - Check for broken external links (outputs to `data/`)
 - `analyze_website_stats.py` - Analyze website traffic statistics
+- `categorize_page_changes.py` - Categorize and analyze page changes
 
 ### Taxonomy Management
 - `apply-taxonomy.py` - Apply taxonomy consolidation rules from `data/taxonomy_map.yaml`
 - `suggest-tags.py` - Generate tag suggestions for posts
-- `apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
+- `categorize-uncategorized.py` - Suggest categories for uncategorized posts
+- `convert-taxonomy-to-kebab-case.py` - Convert taxonomy terms to kebab-case
+- `taxonomy_tools.py` - Shared taxonomy utilities
 
 ### Utilities
-- `cleanup_images.sh` - Remove legacy/external images (**DANGEROUS**)
+- `cleanup_images.sh` - Legacy broad image cleanup (**DANGEROUS**; run a fresh media audit first)
 - `rename_blog_files.sh` - Rename dated blog posts to remove date prefixes
 - `review_changes.sh` - Review staged git changes before committing
 - `show_posts_batch.py` - Display posts in batches for review
-- `categorize_page_changes.py` - Categorize and analyze page changes
+
+### Amazon Data Helpers
+- `amazon/` - Scripts for building public/private Amazon purchase data views
 
 ## Usage
 
@@ -73,5 +79,12 @@ The `data/` subdirectory contains:
 - **Audit results** - JSON files from audit scripts
 - **Taxonomy configuration** - `taxonomy_map.yaml` and related files
 - **Generated data** - CSV stats and other output files
+
+## Retired One-Off Scripts
+
+One-off bulk scripts should not stay here after the migration or cleanup pass they supported is complete. Recently retired examples:
+
+- `apply-high-traffic-tags.sh` - Hardcoded an already-completed high-traffic tagging pass and old tag forms.
+- `update_descriptions.py` - Hardcoded a prior description rewrite batch and could overwrite later curation.
 
 See the main repository [CLAUDE.md](../CLAUDE.md) for detailed documentation.

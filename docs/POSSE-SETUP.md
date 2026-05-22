@@ -7,7 +7,7 @@ date: 2026-04-17
 
 This runbook walks through the one-time migration from *Micro.Blog is the shortform home, Hugo embeds it* (PESOS) to *Hugo is the shortform home, Micro.Blog subscribes to a feed* (POSSE).
 
-Total time if you don't hit surprises: 60–90 minutes, most of it waiting for Hugo builds and the first Micro.Blog poll cycle.
+Most of the elapsed time is waiting for Hugo builds and the first Micro.Blog poll cycle.
 
 ## What lives where after this change
 
@@ -118,7 +118,7 @@ In Micro.Blog: Account → Edit Feeds (or "Feeds" in some versions of the UI). A
 
     URL: https://joshuapsteele.com/notes/feed.json
 
-Micro.Blog will do an initial poll right away and then re-poll every 5–20 minutes. New Hugo-authored notes will appear in the Micro.Blog timeline. Imported archive notes with `syndicate: false` will not.
+Micro.Blog will do an initial poll right away and then re-poll periodically. New Hugo-authored notes will appear in the Micro.Blog timeline. Imported archive notes with `syndicate: false` will not.
 
 Critically: at this point Micro.Blog is reading posts it *already knows about* (because they originated there) and will happily duplicate them in the timeline if you don't disable the old side.
 

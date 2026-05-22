@@ -20,31 +20,32 @@ _No open medium-priority items._
 
 ### Low priority / when convenient
 
-- [ ] **Review orphaned legacy media candidates before deletion.** `docs/AUDIT-static-wp-content.md` identifies 32 orphan candidates. Do not run `scripts/cleanup_images.sh` as-is; it would remove files still referenced by site content.
+_No open low-priority items._
 
 ---
 
 ## Completed (since last audit)
 
-- [x] **Completed popular-post description curation (2026-05-22).** Reviewed the full ranked blog-post traffic list from the available Tinylytics CSV export (303 matched blog posts). Top ~100 posts were completed on 2026-05-21 (46 weak/fallback descriptions rewritten). On 2026-05-22, continued through ranks ~101–180 (40 rewrites), ~181–240 (27 rewrites), and ~241–303 (39 rewrites), leaving already-useful descriptions intact. `python3 scripts/audit-frontmatter.py` reports 0 missing descriptions/categories/tags/URLs/dates; `npm run build` passes.
-- [x] **Refreshed and hardened popular-post analytics data (2026-05-21).** Updated `scripts/fetch_popular_posts.py` to support Tinylytics CSV exports, filter to actual Hugo blog posts, generate 10 posts for `/popular/`, and refuse to overwrite `data/popular.json` with an empty result. Refreshed `data/popular.json` from the 2026-05-21 Personal Hugo Website Tinylytics export; `npm run build` renders `/popular/` with current posts.
-- [x] **Audited `static/wp-content/` legacy media (2026-05-21).** Added a non-destructive audit script and generated `docs/AUDIT-static-wp-content.md` plus `scripts/data/audit-static-wp-content.json`. Current pass found 151 files / 391.7 MiB: 119 referenced by site sources, 32 orphan candidates. No media was deleted, and `scripts/cleanup_images.sh` was not run because it would remove the entire directory despite live references.
-- [x] **Re-ran external link check (2026-05-21).** Updated `docs/AUDIT-06-external-links.md` and `scripts/data/audit-external-links.json`. Current pass found 2003 external links across 283 files: 1689 working, 314 broken/error, 0 timeouts.
+- [x] **Refreshed living repository documentation (2026-05-22).** Removed quick-stale counts/version pins from `README.md`, `CLAUDE.md`, `docs/AGENTS.md`, `scripts/README.md`, and active cleanup/tagging docs; kept dated audit reports as point-in-time snapshots. Retired one-off scripts that could overwrite completed taxonomy/description work.
+- [x] **Parked legacy media cleanup (2026-05-22).** Reviewed the `static/wp-content/` audit outcome and decided to leave legacy media in place for now. Unused files add repo weight, but they do not affect page runtime unless referenced by rendered pages. Do not run `scripts/cleanup_images.sh` as-is; use `scripts/audit-static-wp-content.py` for future review.
+- [x] **Completed popular-post description curation (2026-05-22).** Reviewed the full ranked blog-post traffic list from the available Tinylytics CSV export, rewrote weak/fallback descriptions, and left already-useful descriptions intact. `python3 scripts/audit-frontmatter.py` and `npm run build` passed after the curation work.
+- [x] **Refreshed and hardened popular-post analytics data (2026-05-21).** Updated `scripts/fetch_popular_posts.py` to support Tinylytics CSV exports, filter to actual Hugo blog posts, generate data for `/popular/`, and refuse to overwrite `data/popular.json` with an empty result. Refreshed `data/popular.json` from the available Tinylytics export; `npm run build` renders `/popular/` with current posts.
+- [x] **Audited `static/wp-content/` legacy media (2026-05-21).** Added a non-destructive audit script and generated `docs/AUDIT-static-wp-content.md` plus `scripts/data/audit-static-wp-content.json`. No media was deleted, and `scripts/cleanup_images.sh` was not run because it would remove the entire directory despite live references.
+- [x] **Re-ran external link check (2026-05-21).** Updated `docs/AUDIT-06-external-links.md` and `scripts/data/audit-external-links.json`; use those generated files for current details instead of copying counts here.
 - [x] **Resolved PaperMod deprecation warnings locally (2026-05-21).** Added project overrides for `layouts/_default/baseof.html` and `layouts/_default/rss.xml`, replacing deprecated `.Language.LanguageDirection` and `.Language.LanguageCode` usage without editing `themes/`. `npm run build` now passes without deprecation warnings.
-- [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). `python3 scripts/audit-frontmatter.py` now reports 166 distinct tags, below the 175 maintenance target.
-- [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized the remaining uncategorized blog posts. `python3 scripts/audit-frontmatter.py` now reports 0 posts missing categories, tags, descriptions, URLs, or dates.
-- [x] **Removed stale draft smoke-test post (2026-05-21).** `content/blog/drafts-action-smoke-test.md` was deleted by the user; the front matter audit now reports 0 draft blog posts.
+- [x] **Completed first-pass tag pruning (2026-05-21).** Consolidated obvious duplicate and non-kebab tags (`political theology`, `matthew 25`, `public health`, `prophetic witness`, `Christianity`, `churches`, `pareto`). Use `python3 scripts/audit-frontmatter.py` for the current tag count.
+- [x] **Completed blog front matter coverage cleanup (2026-05-21).** Added/fixed missing or empty descriptions, added explicit `url:` fields, and categorized previously uncategorized blog posts. Use `python3 scripts/audit-frontmatter.py` for current coverage.
+- [x] **Removed stale draft smoke-test post (2026-05-21).** `content/blog/drafts-action-smoke-test.md` was deleted by the user.
 - [x] **Fixed one confirmed broken internal link (2026-05-21).** In `content/blog/my-soccer-kit.md`, changed `/recommended-tools-and-resources/` → `/resources/`. Verified the targeted link is absent from `python3 scripts/check-internal-links.py` output; `npm run build` passes.
-- [x] **Consolidated tag casing variants (2026-05-21).** Added taxonomy cleanup rules for `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`, plus existing lowercase-space `romans 13` → `romans-13`; applied with `python3 scripts/apply-taxonomy.py --apply`. A follow-up dry run reports 0 remaining taxonomy changes.
-- [x] **Tagged all untagged blog posts (2026-05-21).** 132 posts tagged across ministry, dissertation, productivity, theology, personal, ethics + the AMA post; 0 untagged remaining. Added new tags: `podcasts`, `personality`, `lent`, `creation`, `trinity`, `cedarville`, `travel`, `gtd`, `pacifism`, `jordan-peterson`. See `docs/TAGGING-PROGRESS.md`.
+- [x] **Consolidated tag casing variants (2026-05-21).** Added taxonomy cleanup rules for `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`, plus existing lowercase-space `romans 13` → `romans-13`; applied with `python3 scripts/apply-taxonomy.py --apply`.
+- [x] **Tagged all untagged blog posts (2026-05-21).** Added tags across the older untagged backlog and documented the new vocabulary in `docs/TAGGING-PROGRESS.md`.
 - [x] Bluesky socialIcons item dropped: the account was deleted by the user, so the "add Bluesky" recommendation is void (do not re-add).
-- [x] Category consolidation: 24 categories → 8 (October 2025 → current)
-- [x] Uncategorized posts reduced: 53 → 5
+- [x] Category consolidation completed (October 2025 audit cycle)
 - [x] `/notes/` section added (April 2026), POSSE workflow configured
 - [x] POSSE setup documented in `docs/POSSE-SETUP.md`
 - [x] `languageCode` → `locale` in `hugo.yaml` (deprecated since Hugo 0.158.0)
 - [x] `site.Language.LanguageCode` → `site.Language.Locale` in `layouts/partials/templates/opengraph.html`
-- [x] Stale audit docs (AUDIT-01 through AUDIT-05, October 2025) moved to `docs/archive/`
+- [x] Stale October 2025 audit docs moved to `docs/archive/`
 
 ---
 
@@ -61,7 +62,7 @@ _No open medium-priority items._
 
 **Quarterly:**
 - Run `python3 scripts/check-internal-links.py` and fix confirmed broken links
-- Review tag list for drift (target: stay below 175 distinct tags)
+- Review tag list for drift and consolidate obvious duplicates
 
 ---
 

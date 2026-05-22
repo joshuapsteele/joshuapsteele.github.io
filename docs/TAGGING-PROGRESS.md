@@ -10,7 +10,7 @@ Handoff file for the effort to add tags to untagged blog posts. Either Claude Co
 
 ## Goal
 
-Add tags to the blog posts that have no tags. At the May 2026 audit, 134 of 324 blog posts (41%) were untagged.
+Add tags to blog posts that have no tags. The May 2026 audit found a sizeable untagged backlog; use `python3 scripts/audit-frontmatter.py` for live counts instead of copying them here.
 
 ## Rules (decided — do not re-litigate)
 
@@ -26,7 +26,7 @@ Add tags to the blog posts that have no tags. At the May 2026 audit, 134 of 324 
   ```
   (Match the file's existing list indentation — some files use no indent under `categories:`; mirror that.)
 - Some untagged posts have an empty `tags:` or `tags: null` line — replace it in place rather than adding a second `tags:` key.
-- After each batch: run `npm run build` and confirm it succeeds (it should report ~730+ pages with no ERROR lines). New tags create new taxonomy pages, so the page count rises slightly — that's expected.
+- After each batch: run `npm run build` and confirm it succeeds with no `ERROR` lines. New tags create new taxonomy pages, so the page count can rise slightly.
 
 ## New tags added (intentionally created — keep using these, don't duplicate)
 
@@ -43,9 +43,9 @@ Add tags to the blog posts that have no tags. At the May 2026 audit, 134 of 324 
 
 Note: the theology batch used `political-theology` (kebab) as the target form; the existing `political theology` (2 uses) should fold into it during the casing cleanup.
 
-## Pending taxonomy cleanups (do alongside or after tagging)
+## Completed taxonomy cleanups
 
-These are casing/format duplicates in the existing vocabulary. Consolidate via `scripts/data/taxonomy_map.yaml` + `python3 scripts/apply-taxonomy.py`, or fix inline as you encounter them:
+These casing/format duplicates were consolidated via `scripts/data/taxonomy_map.yaml` + `python3 scripts/apply-taxonomy.py`:
 
 - `Bonhoeffer` → `bonhoeffer`
 - `Romans 13` and `romans 13` → `romans-13`
@@ -59,17 +59,17 @@ These are casing/format duplicates in the existing vocabulary. Consolidate via `
 
 ## Progress
 
-**COMPLETE (2026-05-21): 0 untagged blog posts remaining.** 132 posts tagged; 2 deleted by the user (see below). Total blog posts: 322.
+**COMPLETE (2026-05-21):** the untagged backlog was cleared. Use `python3 scripts/audit-frontmatter.py` for current coverage.
 
-- [x] ministry (4) — pilot
-- [x] dissertation (4) — pilot
-- [x] productivity (15)
-- [x] theology (43 tagged; "Political Thoughts" was deleted by the user rather than tagged)
-- [x] personal (40 tagged; "Heads up! Guest post on the way" was deleted by the user rather than tagged)
-- [x] ethics (25)
-- [x] uncategorized AMA (1) — "Ask Me Anything This November"; assigned category `personal` + tags `questions`, `writing`
+- [x] ministry — pilot
+- [x] dissertation — pilot
+- [x] productivity
+- [x] theology; "Political Thoughts" was deleted by the user rather than tagged
+- [x] personal; "Heads up! Guest post on the way" was deleted by the user rather than tagged
+- [x] ethics
+- [x] uncategorized AMA — "Ask Me Anything This November"; assigned category `personal` + tags `questions`, `writing`
 
-**Remaining:** none. (Note: 4 posts remain *uncategorized* — a separate item tracked in `CLEANUP-CHECKLIST.md`, distinct from tagging.)
+**Remaining:** none known; rerun the front matter audit before resuming this effort.
 
 ## How to resume
 
