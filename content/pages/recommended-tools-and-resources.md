@@ -14,6 +14,10 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 (For my personal "tech stack" recommendations, including what I use for email, social media, etc., see [my `/tech-stack` page](/tech-stack/).)
 
+{{< callout "note" >}}
+Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-20`). If you buy through them, I may earn a small commission at no extra cost to you. I only list things I actually use and recommend.
+{{< /callout >}}
+
 ## DIY/Home Repair Tools
 
 - Toolbox: [AWP TrapJaw 3-in-1 Electrician Tool Pouch](https://amzn.to/3XK2khQ)
@@ -70,7 +74,8 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 
 ## Office
 
-- Computer: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
+- Computer: Mac Mini (2024, Apple M4 chip)
+  - Previous: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 - Notebook: [Leuchtturm1917 Medium Size Hardcover A5 Notebook - Dotted Pages](http://amzn.to/2tvaejo)
   - Pocket Notebook: [Field Notes](https://www.amazon.com/dp/B071Y41YY3?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=abb7ce32fcb4b3209937dd5e358b191b&language=en_US&ref_=as_li_ss_tl)
 - Pen: [Uni-ball Power Tank 0.7mm, Blue or Black](https://amzn.to/3DROD6d)

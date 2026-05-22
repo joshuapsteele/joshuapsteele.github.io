@@ -17,9 +17,9 @@ This page describes the technical details, design philosophy, and tools behind t
 
 ## Tech Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/) 0.147.3 Extended
+- **Static Site Generator**: [Hugo](https://gohugo.io/) Extended
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod) by Aditya Telange
-- **Node.js**: 18+ (local development) / 20 (CI)
+- **Build tooling**: Node.js
 - **Search**: [Fuse.js](https://fusejs.io/) for client-side full-text search
 - **Feeds**: RSS and JSON Feed formats
 - **Saved links**: [LinkLog](https://links.joshuapsteele.com), a small Go and SQLite app hosted separately at `links.joshuapsteele.com`
@@ -78,8 +78,8 @@ This repository uses a dual-license structure:
 
 ## Analytics & Privacy
 
-- **Analytics**: [Google Analytics](https://analytics.google.com/) and [Tinylytics](https://tinylytics.app/)
-- **No tracking cookies**: Analytics are privacy-respecting and aggregate
+- **Analytics**: [Tinylytics](https://tinylytics.app/) — lightweight and privacy-friendly
+- **No tracking cookies**: Analytics are cookieless, privacy-respecting, and aggregate
 - **No ads**: This site is completely ad-free
 - **No paywalls**: All content is freely accessible
 
