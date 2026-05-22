@@ -11,7 +11,7 @@ title: CV
 url: /cv/
 ---
 
-_(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
+_(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my profile on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
 
 * * *
 
@@ -85,9 +85,9 @@ This `/cv` page is just one of [my many "slash pages."](/slashes)
 
 ### Pastor/Clergy (Anglican Priest)
 
-- [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); November 2019 - Present
+- [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); November 2019 - November 2023
 - Diocese: [Churches for the Sake of Others (C4SO)](https://www.c4so.org/)
-- Areas of ministry as a Deacon (see below) and now a Priest have included:
+- Areas of ministry as a Deacon (see below) and then as a Priest included:
   - preaching (public speaking, teaching),
   - teaching,
   - presiding at Holy Communion,
@@ -99,7 +99,7 @@ This `/cv` page is just one of [my many "slash pages."](/slashes)
   - designing and managing church website,
   - and managing the rollout and use of our church management software.
 
-_(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
+_(Note: [to read/listen to my sermons, go here](/sermons/).)_
 
 ### Pastor/Clergy (Anglican Deacon)
 
@@ -170,7 +170,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
 - Unfinished ABD (All but dissertation) Ph.D. in Biblical & Theological Studies
 - Supervisor: Marc Cortez, Ph.D.
 
-_(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
+_(Note: [to read some of my academic essays, go here](/essays/).)_
 
 ### M.Div. - [Beeson Divinity School](http://www.beesondivinity.com/); Birmingham, AL
 
