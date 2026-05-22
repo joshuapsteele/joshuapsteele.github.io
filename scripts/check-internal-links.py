@@ -2,6 +2,10 @@
 """
 Check for broken internal links in markdown files.
 Analyzes both markdown-style and HTML-style links.
+
+Validates links against the built site in public/ when present (authoritative:
+includes alias redirects, generated feeds, and copied static assets). Run
+`npm run build` first. Falls back to a content-derived URL set otherwise.
 """
 
 import os
@@ -145,15 +149,40 @@ def get_all_urls_and_paths(content_dir):
 
     return valid_urls, valid_paths
 
+def build_valid_urls_from_public(public_dir):
+    """Build the set of valid URLs from the built site.
+
+    Walking public/ is authoritative: it already contains alias redirect
+    pages, generated feeds (e.g. /blog/feed.xml), and the static assets Hugo
+    copies in (e.g. /wp-content/...). This avoids the false positives that
+    arise from trying to reconstruct Hugo's output by parsing front matter.
+    """
+    valid_urls = set()
+    for root, dirs, files in os.walk(public_dir):
+        rel = os.path.relpath(root, public_dir).replace(os.sep, '/')
+        rel = '/' if rel == '.' else '/' + rel
+        if 'index.html' in files:
+            add_url_variants(valid_urls, rel if rel.endswith('/') else rel + '/')
+        for filename in files:
+            if filename == 'index.html':
+                continue
+            path = (rel.rstrip('/') + '/' + filename) if rel != '/' else '/' + filename
+            valid_urls.add(path)
+            valid_urls.add(path.rstrip('/'))
+    return valid_urls
+
 def extract_links(content):
     """Extract all markdown and HTML links from content"""
     links = []
 
-    # Markdown links: [text](url)
+    # Markdown links: [text](url) or [text](url "title")
     md_pattern = r'\[([^\]]+)\]\(([^)]+)\)'
     for match in re.finditer(md_pattern, content):
         text = match.group(1)
-        url = match.group(2)
+        target = match.group(2).strip()
+        # The link target is "url" optionally followed by a "title"; keep only
+        # the URL (first whitespace-delimited token) and strip <> if present.
+        url = target.split()[0].strip('<>') if target.split() else target
         links.append({'type': 'markdown', 'text': text, 'url': url})
 
     # HTML links: <a href="url">
@@ -206,7 +235,18 @@ def check_internal_links(content_dir):
     }
 
     print("Building site URL map...")
-    valid_urls, valid_paths = get_all_urls_and_paths(content_dir)
+    public_dir = 'public'
+    if os.path.isdir(public_dir):
+        print("Using built site in public/ as ground truth "
+              "(run `npm run build` first for current results).")
+        valid_urls = build_valid_urls_from_public(public_dir)
+        # valid_paths is informational; still derive it from content/ sources.
+        _, valid_paths = get_all_urls_and_paths(content_dir)
+    else:
+        print("WARNING: public/ not found — falling back to content-derived URLs. "
+              "These are less accurate (aliases, feeds, and static assets may be "
+              "reported as broken). Run `npm run build` for authoritative results.")
+        valid_urls, valid_paths = get_all_urls_and_paths(content_dir)
     print(f"Found {len(valid_urls)} valid URLs and {len(valid_paths)} valid paths")
 
     print("\nChecking internal links...")
