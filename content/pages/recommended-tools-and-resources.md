@@ -29,18 +29,18 @@ Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-
   - [OLFA 25mm Utility Knife](https://amzn.to/4fm9CQ0)
   - [OLFA 18mm Utility Knife](https://amzn.to/4fhzrRp)
 - Hammers: 
-  - [ESTWING 12 oz Straight Rip Claw - E3-12S](https://www.amazon.com/Estwing-Hammer-Straight-Smooth-Reduction/dp/B0002YWCHS?crid=PVFGWEWC3P8&dib=eyJ2IjoiMSJ9.0kPIudBwQ69077p5NsA2PAXB-xFYzF_TfsneR0K0VOAEzA3E5xihbHEPkwaRbn_eYZllzTSW05VaRnAY9QlNlSFoRy2vOk5KA69nxL_M4VeGTQcWiY47BSUYusbIqvoq76QAsKnt6lIHTG9dXy7CdyGLAfp5O7LZK3ukCLTiyBojDisWSHODsXbugdLZUyTc2rsOFS7eQiMvaMWoh6avrL-q2pF35bx_w8LBRZYH3jJwsK4H8D8atGU1R5PhNxLyzC649B7h9Iie9yzUAePOXWtTLzs6Lqaab_BOj8LwRX8.UFwnQQC07Coun2uSYJlJfNw0dA-M3toVRIGIweI_Jc0&dib_tag=se&keywords=estwing%2B12oz%2Bhammer&qid=1719953947&sprefix=estwing%2B12oz%2Bhammer%2Caps%2C123&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=555159c3ae98d06c7a0083fed71d5e52&language=en_US&ref_=as_li_ss_tl)
+  - [ESTWING 12 oz Straight Rip Claw - E3-12S](https://www.amazon.com/dp/B0002YWCHS?tag=joshuapsteele-20)
   - [ESTWING 16 oz Straight Rip Claw - E3-16S](https://amzn.to/3X8RLDQ)
 - Screwdrivers: 
-  - [WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver](https://www.amazon.com/dp/B0761K3H82?amp=&crid=1F4VBUZP08GZB&amp=&sprefix=workpro+rat&linkCode=ll1&tag=joshuapsteele-20&linkId=bd6578ba4dc79cabbd7cb430f74d74dc&language=en_US&ref_=as_li_ss_tl)
+  - [WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver](https://www.amazon.com/dp/B0761K3H82?tag=joshuapsteele-20)
   - [Wera 838 RA-R M Ratcheting Screwdriver](https://amzn.to/3UKb1Yo)
   - [HOTO 24-in-1 Precision Screwdriver](https://amzn.to/4enkfAW)
 - Pliers / Wrenches:
   - [KNIPEX Tools - Pliers Wrench, Chrome (8603250), 10-Inch](https://amzn.to/3Jissd3)
-  - [KNIPEX Tools - Cobra Water Pump Pliers (8701250),10-Inch](https://www.amazon.com/Knipex-8701250-10-Inch-Cobra-Pliers/dp/B000X4J2H0?crid=2O0CSXVIHLPKZ&dib=eyJ2IjoiMSJ9.e1jTg0yp5P4nUnL39gQs8mSVe4G_tQBchMOV5R_pewBTMni2_YNFivR72FaXKFy4_i3xd6r6sv9tRKq3YZbp-VceAlmRW1CS6F_ag1Uy2ChyNsIaXlAzTAgYNzVZSiqYWUqOp0U0FK8Hu26t-ZSGUmi4QSzuhb0M80hwHxhWKoKxg7DJpapV8yhksIaD-eMPE3SnaEd6ItuiOs50LoRKkL-wuPRPxNDI97Fi8meh8lwRf55Vj3v7Pc75nprZUelo96k2ekLflhfDXivpzq7QdlLIgBEGAgkmRNbTbwLRNIk.9lmuOedLB4UlaLpp3Zo6GQDEPyNm2FqSZxHMAK1BczM&dib_tag=se&keywords=Knipex%2Bcobras%2B250&qid=1719954307&sprefix=knipex%2Bcobra%2B250%2Caps%2C115&sr=8-1&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=8c772411a4e1a69f6d60edae571906a2&language=en_US&ref_=as_li_ss_tl)
+  - [KNIPEX Tools - Cobra Water Pump Pliers (8701250),10-Inch](https://www.amazon.com/dp/B000X4J2H0?tag=joshuapsteele-20)
   - In addition to the "250mm" size above, I also own the Pliers Wrench in 100mm and 180mm sizes, and the Cobra Pliers in 100mm and 180mm sizes.
 - Measuring Tapes: 
-  - [Stanley FatMax 25-foot Measuring Tape](https://www.amazon.com/Stanley-Tools-33-725-25-Feet-Measure/dp/B00002PV66?crid=2UVH1TQU7TXGU&dib=eyJ2IjoiMSJ9.iOUNvqkiZp0p7TlI_EJ9r0XBYr968uSdy6qX-cTUt3be9snjaF8ewFu-AFDrdphcSq4XU4U2WOCl4I1DJTwP321n1-NHc5HutIJMCzQ5NhvMCjBTdmgUT1wdkWS9Dl29Y5K0zbB-Yfx4LGMovayFJbesB0M828lGc_D6OR0gZu9p95dgfZu0Y5_5C5P4pjrwC5pl6auYhMlADDju4ZYElGI4i10H95WLDM7upfWXGwhmiYXDSdceJUs7G0dLypaejfhkaxqbRzxMWuJlVFQsd82XzXezP0-uqcGCuq-TDFc.CvkQ24qgzcDBkkZiVQcRjMs_5rDAWGLygiw9bq-gITY&dib_tag=se&keywords=stanley%2Bfatmax%2B25&qid=1719954257&sprefix=stanley%2Bfatmax%2B25%2Caps%2C168&sr=8-3&th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=cb2dd68ea98a50801235fbdd3a7e3855&language=en_US&ref_=as_li_ss_tl)
+  - [Stanley FatMax 25-foot Measuring Tape](https://www.amazon.com/dp/B00002PV66?tag=joshuapsteele-20)
   - [Stanley Powerlock 25-foot Measuring Tape](https://amzn.to/3Xhk03y)
   - [FastCap Standard Reverse Measuring Tape](https://amzn.to/43KPjYT)
   - [FastCap Metric Reverse Measuring Tape](https://amzn.to/4rccx4c)
@@ -49,16 +49,16 @@ Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-
   - SMALL Pry Bar: [Lisle 35100 1/4" Pry Bar with Strike Cap](https://amzn.to/4rdrjYx)
   - Ridiculously Useful Pry Bar: [4140 Pry Tool](https://amzn.to/4iaZ74e) (I guess these are used for sheet metal and airplane work, but you can use them for a TON of other stuff, too.)
 - Hex / Allen Wrenches: [TEKTON Ball End Hex Key Wrench Set, 26-Piece](https://amzn.to/3Nx5jWH)
-- Tire Pressure Gauge: [ETENWOLF Digital Tire Pressure Gauge, 2 Pack](https://www.amazon.com/dp/B0CKYZB8KL?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=9abd90ed86a0d15efb6944d8e57df839&language=en_US&ref_=as_li_ss_tl)
+- Tire Pressure Gauge: [ETENWOLF Digital Tire Pressure Gauge, 2 Pack](https://www.amazon.com/dp/B0CKYZB8KL?tag=joshuapsteele-20)
 
 ## Home
 
 - Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
 - Coffee Grinder: [Capresso Infinity Conical Burr Grinder](https://amzn.to/3EfZnN3)
-- Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/Owala-Insulated-Stainless-Steel-Push-Button-Marshmallow/dp/B085DV8T75?dib=eyJ2IjoiMSJ9.jyz4aQCTrB-MYW24efNzMcCXRi7l5NPz8zJAF6dbswjzC0bH9SgIVU52Os-9WlHzUy23H8dXIAsizb3v8ABdcaFiBtBuipnSdJDbTdGCBwNI-hfeaB9Mw6PcOqkf6muspX0A1pklt5nLyzuPqN6Pkc0-TdglgAZGAMYQ1cI338Is9znTbWFF2IBvrXAjwBYlcRoEEaxFJmDzo7L7YsDUnSoLoa-uUsdnfY57WE0hC_el5JmxJZ2igQMDnhXT1_rawxlLCMwAVF3y_zhdoihImm1Xbd6HrWgm0ImUNhTI7v4.m0kOfw2w351tOzMTeGnA4r3kXReh33NeHhZWyjdCxrU&dib_tag=se&hvadid=570597068294&hvdev=c&hvlocphy=9015124&hvnetw=g&hvqmt=e&hvrand=2727167960365447975&hvtargid=kwd-1094615620699&hydadcr=19109_13375463&keywords=owala+24+oz&qid=1719953416&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=52eb1f83f6b7b244017e4dd27f0eb4b9&language=en_US&ref_=as_li_ss_tl)
+- Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/dp/B085DV8T75?tag=joshuapsteele-20)
   - Previous: [Iron Flask, 64oz](https://amzn.to/3tkbBOl)
-- Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?&linkCode=ll1&tag=joshuapsteele-20&linkId=78c66778226bc3838f43d50a3d0d6ac9&language=en_US&ref_=as_li_ss_tl)
-- Cleaning Wipes: [Tub O' Towels Heavy Duty Cleaning Wipes](https://www.amazon.com/dp/B00022W4ZU?&linkCode=ll1&tag=joshuapsteele-20&linkId=45617e28ba4dd2c7dea9084447edab7c&language=en_US&ref_=as_li_ss_tl)
+- Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?tag=joshuapsteele-20)
+- Cleaning Wipes: [Tub O' Towels Heavy Duty Cleaning Wipes](https://www.amazon.com/dp/B00022W4ZU?tag=joshuapsteele-20)
 
 ## Health/Fitness
 
@@ -77,7 +77,7 @@ Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-
 - Computer: Mac Mini (2024, Apple M4 chip)
   - Previous: MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)
 - Notebook: [Leuchtturm1917 Medium Size Hardcover A5 Notebook - Dotted Pages](http://amzn.to/2tvaejo)
-  - Pocket Notebook: [Field Notes](https://www.amazon.com/dp/B071Y41YY3?th=1&linkCode=ll1&tag=joshuapsteele-20&linkId=abb7ce32fcb4b3209937dd5e358b191b&language=en_US&ref_=as_li_ss_tl)
+  - Pocket Notebook: [Field Notes](https://www.amazon.com/dp/B071Y41YY3?tag=joshuapsteele-20)
 - Pen: [Uni-ball Power Tank 0.7mm, Blue or Black](https://amzn.to/3DROD6d)
 - Password Manager: [1Password](https://1password.com/)
 - Notes / Personal Knowledge Management: [Obsidian](https://obsidian.md/)

@@ -1,6 +1,6 @@
 ---
 categories: theology
-description: 
+description: An outline of the Christian faith in traditional question-and-answer form, drawing on the 1979 Episcopal and 1662 Church of England Books of Common Prayer.
 draft: false
 showtoc: true
 title: 'The Catechism: A Summary of the Christian Faith'
