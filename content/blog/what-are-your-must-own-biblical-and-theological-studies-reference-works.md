@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-04-10T21:30:46Z'
-description: It just happened again. I had to consult “BDAG,” A Greek–English Lexicon
-  of the New Testament and Other Early Christian Literature (3rd ed.).
+description: "A call for recommendations on essential biblical and theological reference works, prompted by consulting BDAG and other study tools."
 title: What are your "must-own" biblical and theological studies reference works?
 tags:
   - theology

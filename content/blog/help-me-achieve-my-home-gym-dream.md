@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: I’m trying to put together a basic home gym in our basement apartment. Mainly, I’m interested in doing squats for now.
+description: "A request for help planning a basic basement home gym, especially around squats, weights, and compact equipment."
 tags:
   - home-gym
   - fitness

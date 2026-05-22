@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: 2016-11-12T20:03:30Z
-description: A reading list of works about Karl Barth and Dietrich Bonhoeffer
+description: "A reading list of thirty works on Karl Barth and Dietrich Bonhoeffer, with an invitation for additions."
 tags:
   - barth
   - bonhoeffer

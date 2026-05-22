@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-11-09T15:27:48Z'
-description: For my “Pedagogical Experience” requirement at Wheaton, I’m helping to
-  teach a masters-level Christian Theology course.
+description: "Teaching notes on justification and sanctification from a Wheaton Christian Theology course."
 title: Justification and Sanctification
 tags:
   - theology

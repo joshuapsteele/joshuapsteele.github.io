@@ -2,9 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2018-03-19T14:33:39Z'
-description: Because good writing = good thinking, I believe that *everyone* could
-  benefit from developing the habit of regular writing. However, because I - Am a
-  Ph.D.
+description: "A public push to build a regular writing habit for better thinking, dissertation progress, and clearer communication."
 tags:
 - writing
 title: I Need to Develop a Writing Habit. Do You?

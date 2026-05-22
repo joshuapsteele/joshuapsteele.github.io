@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2015-09-22T21:26:20Z'
-description: What a relief , to get out of that house.
+description: "An imaginative introduction to Romans through a sequel to the Prodigal Son, exploring Jews, Gentiles, and God's faithfulness."
 excerpt: An apocryphal introduction to my sermon on Romans 1:1-17.
 title: 'The Prodigal Son, Part 2: Introduction to Romans'
 tags:

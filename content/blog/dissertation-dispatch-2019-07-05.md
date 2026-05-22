@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-07-05T21:09:29Z'
-description: I got my dissertation proposal approved in the Spring of 2018.
+description: "A dissertation dispatch on proposal approval, slow progress, and trying to regain momentum on Barth, Bonhoeffer, and the Bible."
 title: 'Dissertation Dispatch: 2019-07-05'
 tags:
   - barth

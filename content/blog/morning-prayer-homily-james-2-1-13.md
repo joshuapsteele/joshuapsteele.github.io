@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2015-08-31T17:08:22Z'
-description: 'A homily on James 2.1-13 (ESV): > “My brothers, show no partiality as
-  you hold the faith in our Lord Jesus Christ,the Lord of glory.'
+description: "A morning prayer homily on James 2:1-13 about partiality, mercy, and holding faith in the Lord of glory."
 title: 'Morning Prayer Homily: James 2.1-13'
 tags:
   - sermons

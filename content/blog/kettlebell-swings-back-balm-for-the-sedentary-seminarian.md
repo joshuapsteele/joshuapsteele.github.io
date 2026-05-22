@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2016-05-25T23:53:49Z'
-description: Books, however, do not like my back.
+description: "Kettlebell swings as a practical way for sedentary seminarians, students, and desk workers to care for their backs."
 title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
 tags:
   - fitness

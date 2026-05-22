@@ -8,7 +8,7 @@ categories:
 tags:
 - research
 - writing
-description: I need to finish this dissertation. To do so, I need to write regularly. For me, that means writing every day—a minimum of 500 words every day.
+description: "Using StickK and public accountability to build a daily 500-word dissertation writing habit."
 url: /help-me-stickk-to-my-writing-habit/
 ---
 I need to finish [this dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).

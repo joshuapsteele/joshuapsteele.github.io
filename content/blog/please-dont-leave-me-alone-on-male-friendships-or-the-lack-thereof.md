@@ -4,7 +4,7 @@ categories:
 - ethics
 - personal
 date: '2018-03-20T18:15:22Z'
-description: Maybe you, like me, consider yourself quite the introvert.
+description: "A vulnerable reflection on male friendship, loneliness, introversion, and the need for deeper connection."
 title: 'Please Don''t Leave Me Alone: On Male Friendships, or the Lack Thereof'
 tags:
   - friendship

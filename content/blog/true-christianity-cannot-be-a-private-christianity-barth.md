@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-11-11T18:16:49Z'
-description: '> In short, if I am inhuman, I am also stupid and foolish and godless.'
+description: "A Karl Barth quote arguing that true Christianity cannot be private because inhumanity is foolishness and godlessness."
 tags:
 - barth
 title: '"True Christianity cannot be a private Christianity" (Barth)'

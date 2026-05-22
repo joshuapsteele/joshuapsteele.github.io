@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2016-05-26T14:56:03Z'
-description: Ah, the joys of summer reading.
+description: "A summer reading list from theology and ministry studies, with books shaping the season's learning."
 title: What I'm Reading
 tags:
   - reading

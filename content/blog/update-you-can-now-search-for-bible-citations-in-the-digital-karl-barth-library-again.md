@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2018-11-28T15:45:25Z'
-description: 'I recently wrote about a problem I found in Alexander Street Press’
-  Digital Karl Barth Library: the Scripture citation search function no longer worked.'
+description: "An update on the Digital Karl Barth Library: Scripture citation search appears to work again, though with remaining quirks."
 format: aside
 tags:
 - barth

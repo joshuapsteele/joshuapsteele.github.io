@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-06-28T13:34:51Z'
-description: I’m two years in to my PhD program, and I need to finish writing this
-  dissertation soon, or it’s going to be the death of me. I love Wheaton’s program.
+description: "A candid Ph.D. funding and dissertation-writing update, wrestling with financial pressure, conscience, and the need to finish."
 tags:
 - research
 - writing

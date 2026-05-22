@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2016-01-10T15:53:45Z'
-description: There are better preachers out there. So, if you’re short on time, go
-  and listen to them.
+description: "A Christmas sermon on light, darkness, and the challenge of receiving Christ's illumination in a broken world."
 title: 'Sermon: The Challenge of Christmas Light'
 tags:
   - sermons

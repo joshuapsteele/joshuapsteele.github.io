@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2018-03-05T06:00:28Z'
-description: Reading is the closest thing that human beings have to a superpower.
+description: "A Ph.D. student reading tip: use physical markers and active attention to move through books faster and better."
 tags:
 - reading
 title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student

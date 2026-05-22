@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-07-13T14:36:54Z'
-description: Vanhoozer, affectionately known by some as “KJV,” has written one of
-  the best, briefest overviews of what theologians (should) do.
+description: "Kevin Vanhoozer's concise account of what theologians should do and why the task matters for the church."
 title: What Theologians (Should) Do
 tags:
   - theology

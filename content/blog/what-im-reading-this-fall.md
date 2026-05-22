@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2018-08-16T15:24:25Z'
-description: This upcoming semester, I’ll be taking a seminar on the Doctrine of Creation
-  from my supervisor Marc Cortez.
+description: "A fall reading list for seminars on the doctrine of creation, Barth, Bonhoeffer, and theological research."
 tags:
 - reading
 title: What I'm Reading this Fall

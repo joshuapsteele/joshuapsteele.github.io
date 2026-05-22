@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-01-29T17:46:15Z'
-description: Came across this Barth quote in Church Dogmatics II/2 this morning. I
-  really like it, because it’s a good reminder that Barth valued the Bible.
+description: "A Karl Barth quote from Church Dogmatics II/2 on Scripture, theology, and discerning what Christians ought to do."
 tags:
 - barth
 - bible

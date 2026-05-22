@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: ministry
 date: '2020-04-16T14:06:29Z'
-description: I’m reading my way through the new (4th) edition of Robert Bly’s classic
-  *The Copywriter’s Handbook*.
+description: "Twenty-seven playful Anglican headline ideas inspired by Robert Bly's Copywriter's Handbook and old-school direct-response copywriting."
 tags:
 - anglican
 - copywriting

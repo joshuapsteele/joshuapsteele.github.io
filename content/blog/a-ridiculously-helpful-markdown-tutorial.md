@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2016-08-26T14:09:01Z
-description: I’ve been dragging my heels on learning Markdown for awhile now.
+description: "A link to a helpful Markdown tutorial for writers who want lightweight formatting without fighting their tools."
 title: A Ridiculously Helpful Markdown Tutorial
 url: /a-ridiculously-helpful-markdown-tutorial/
 tags:

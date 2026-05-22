@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 date: '2019-01-22T02:14:32Z'
-description: Last night, the scale read 192.4. I’d really like it to read 180 or less.
+description: "Using StickK accountability to stay on the Slow Carb Diet and work toward a weight-loss goal."
 title: StickKing to the Slow Carb Diet
 tags:
   - fitness

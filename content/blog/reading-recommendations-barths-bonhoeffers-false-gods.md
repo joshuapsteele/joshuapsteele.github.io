@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2016-03-24T12:36:09Z'
-description: Hi internet – especially all you Barthians and Bonhoefferians (-ites?)
-  out there.
+description: "A request for reading recommendations on Barth, Bonhoeffer, false gods, religion, and the theological critique of idolatry."
 title: Reading Recommendations? Barth's and Bonhoeffer's False Gods
 tags:
   - barth

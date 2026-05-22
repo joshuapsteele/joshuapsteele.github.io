@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: '2017-10-17T16:18:56Z'
-description: Why write out a list of principles. For one thing, it’s my birthday.
-  And, although I’m only in my twenties, I’m feeling a bit reflective.
+description: "Ten personal imperatives for the good life, written as a birthday reflection on principles, habits, and direction."
 title: 'Principles: 10 Imperatives for the Good Life'
 tags:
   - list

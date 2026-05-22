@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2019-11-12T21:35:32Z'
-description: This is from Robert Jenson, *Systematic Theology*, Volume 1, p.
+description: "Robert Jenson's definition of theology as the church's reflection on its own gospel-speaking to God and the world."
 tags:
 - jenson
 title: My favorite definition of "theology"

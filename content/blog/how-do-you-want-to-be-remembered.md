@@ -5,7 +5,7 @@ author: joshuapsteele
 categories:
 - personal
 - productivity
-description: Do you know what the worst thing about ***death*** is. It’s not the dying itself – its the **separation**.
+description: "A reflection on death, separation, memory, and the question of how we want to be remembered."
 tags:
   - death
   - purpose

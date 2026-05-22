@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: '2016-06-11T17:24:37Z'
-description: Yesterday, I asked you to join the Church if you, like me, are frustrated
-  with the Church.
+description: "A follow-up to frustrated Christians: the church's problems include us, which means repentance and repair start close to home."
 title: Frustrated with Church? You're the Problem!
 tags:
   - church
