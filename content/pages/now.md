@@ -8,6 +8,8 @@ title: Now
 url: /now/
 ---
 
+This is what has most of my attention right now.
+
 {{< callout "note" >}}
 This `/now` page is just one of [my many "slash pages."](/slashes)
 
@@ -16,14 +18,14 @@ This `/now` page is just one of [my many "slash pages."](/slashes)
 
 These days, I'm:
 
-- Raising 3 young kids (6yo, 4yo, 2yo) with my wife
-- Enjoying my work as a software engineer
-- Trying to lose weight (current weight: 215lbs; goal: 200lbs)
-- Working on home repair projects
-- Buying too many books and tools
-- Playing on a coed rec soccer team
-- Trying to get into smoking meats (just bought an Oklahoma Joe's Bronco smoker!)
+- Raising three young kids with my wife
+- Growing as a software engineer in cybersecurity, especially around backend systems, IAM, and AI-assisted development
+- Rebuilding healthier routines around food, strength, mobility, and sleep
+- Working through home repair projects and trying to become more practically competent
+- Reading theology, software engineering, and practical-skills books
+- Playing coed rec soccer when the schedule allows
+- Learning my way around smoking meats with an Oklahoma Joe's Bronco smoker
 
 *(This is a [now page](https://nownownow.com/about), and if you have your own site, [you should make one](https://nownownow.com/about), too.)*
 
-Last updated: 2025-11-21
+Last updated: 2026-05-22
