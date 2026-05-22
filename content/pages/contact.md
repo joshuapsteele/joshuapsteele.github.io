@@ -7,11 +7,11 @@ guid: https://joshuapsteele.com/?page_id=2619
 showtoc: false
 ---
 
-If you'd like to ask if I'm interested in guest content on my blog, please don't. I'm not interested.
+If you want to get in touch, the contact form below is the easiest way.
 
-For all other matters, you can use the contact form below or send an email to the word "blog," followed by the "at" symbol, followed by the domain of my website.
+You can also send an email to the word `blog`, followed by the `@` symbol, followed by this site's domain.
 
-I'll do my best to read and reply as soon as possible!
+One boundary up front: I'm not interested in guest posts, sponsored posts, link insertions, SEO pitches, or similar outreach. For real notes from real people, I'll do my best to read and reply as soon as I can.
 
 ## Contact Form
 
@@ -19,7 +19,7 @@ I'll do my best to read and reply as soon as possible!
 
 ---
 
-If you'd like to reach out to me elsewhere online, I try to keep links to all my social profiles updated on [my homepage here](/). You can also [follow my work and subscribe to my email newsletter here](/follow).
+If you'd rather connect elsewhere, I keep social links on [the homepage](/), and the best ongoing options are collected on [/follow](/follow/).
 
 Cheers,
 Josh
