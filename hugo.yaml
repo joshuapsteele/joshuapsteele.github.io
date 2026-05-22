@@ -71,18 +71,16 @@ params:
         url: "/about/"
       - name: Blog ✍️
         url: "/blog/"
-      - name: Categories 🗂️
-        url: "/categories/"
-      - name: Tags 🏷️
-        url: "/tags/"
+      - name: Notes 📝
+        url: "/notes/"
+      - name: Follow 👣
+        url: "/follow/"
       - name: Contact 📬
         url: "/contact/"
       - name: CV 📋
         url: "/cv/"
       - name: Links 🔗
         url: "https://links.joshuapsteele.com"
-      - name: Notes 📝
-        url: "/notes/"
       - name: Now ⏳
         url: "/now/"
       - name: Popular 🔥
@@ -99,14 +97,14 @@ params:
         url: "/blogroll/"
       - name: Bookmarks 📚
         url: "/bookmarks/"
+      - name: Categories 🗂️
+        url: "/categories/"
       - name: Carry (EDC) 🎒
         url: "/carry/"
       - name: Chipotle 🌯
         url: "/chipotle/"
       - name: Defaults ⚙️
         url: "/defaults/"
-      - name: Follow 👣
-        url: "/follow/"
       - name: Ideas 💡
         url: "/ideas/"
       - name: Interests 🎨
@@ -127,6 +125,8 @@ params:
         url: "/save/"
       - name: Someday 🗓️
         url: "/someday/"
+      - name: Tags 🏷️
+        url: "/tags/"
       - name: TIL 🆕
         url: "/til/"
       - name: Why ❓
