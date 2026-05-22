@@ -26,6 +26,7 @@ _No open low-priority items._
 
 ## Completed (since last audit)
 
+- [x] **Drafted first public-facing page refresh (2026-05-22).** Updated the homepage profile buttons plus `/about`, `/now`, `/contact`, `/follow`, and selected `/cv` links/status text to make the front door clearer and less stale. Verified with `npm run build` and local Hugo server checks. Not pushed; waiting for approval before publishing.
 - [x] **Refreshed living repository documentation (2026-05-22).** Removed quick-stale counts/version pins from `README.md`, `CLAUDE.md`, `docs/AGENTS.md`, `scripts/README.md`, and active cleanup/tagging docs; kept dated audit reports as point-in-time snapshots. Retired one-off scripts that could overwrite completed taxonomy/description work.
 - [x] **Parked legacy media cleanup (2026-05-22).** Reviewed the `static/wp-content/` audit outcome and decided to leave legacy media in place for now. Unused files add repo weight, but they do not affect page runtime unless referenced by rendered pages. Do not run `scripts/cleanup_images.sh` as-is; use `scripts/audit-static-wp-content.py` for future review.
 - [x] **Completed popular-post description curation (2026-05-22).** Reviewed the full ranked blog-post traffic list from the available Tinylytics CSV export, rewrote weak/fallback descriptions, and left already-useful descriptions intact. `python3 scripts/audit-frontmatter.py` and `npm run build` passed after the curation work.
