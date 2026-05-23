@@ -149,24 +149,26 @@ def check_url(url, timeout=DEFAULT_TIMEOUT, retries=DEFAULT_RETRIES):
 
 
 def classify(status, error):
-    """Bucket a result as 'working', 'dead', or 'blocked' (manual verify)."""
+    """Bucket a result as 'working', 'dead', or 'blocked' (manual verify).
+
+    Only 404/410 and hard network failures (DNS/refused/no-route) count as
+    'dead'. Every other non-2xx/3xx status is 'blocked' (manual verify): 400,
+    401, 403, 405, 429, 451, 503, 999, etc. are overwhelmingly bot defense or
+    transient rather than a genuinely missing page, so flagging them as dead
+    produces false positives (e.g. Harbor Freight/Wikipedia/Facebook return 400
+    to non-browser clients).
+    """
     if status is not None and 200 <= status < 400:
         return 'working'
-    if status in (401, 403, 407, 429, 451, 999):
-        return 'blocked'
-    if status is not None and 500 <= status < 600:
-        return 'blocked'  # 5xx incl. 503 — often transient or bot defense
     if status in (404, 410):
         return 'dead'
-    if status is not None and status >= 400:
-        return 'dead'  # other 4xx
+    if status is not None:
+        return 'blocked'  # all other 4xx/5xx -> ambiguous, verify manually
     # No HTTP status -> network-level error
     e = (error or '').lower()
     if _is_dns_failure(error) or 'refused' in e or 'no route' in e:
         return 'dead'
-    if 'ssl' in e or 'certificate' in e:
-        return 'blocked'
-    return 'blocked'  # timeouts and unknown errors -> manual verify
+    return 'blocked'  # SSL errors, timeouts, unknown errors -> manual verify
 
 
 def check_links_parallel(unique_urls, max_workers=10):
@@ -186,7 +188,106 @@ def check_links_parallel(unique_urls, max_workers=10):
     return results
 
 
+REPORT_PATH = Path('docs/AUDIT-06-external-links.md')
+DATA_PATH = Path('scripts/data/audit-external-links.json')
+
+
+def _write_section(f, title, items, blurb):
+    f.write(f'## {title}\n\n{blurb}\n\n**Count:** {len(items)}\n\n')
+    by_file = defaultdict(list)
+    for it in items:
+        by_file[it['file']].append(it)
+    for filepath in sorted(by_file):
+        f.write(f'\n### {filepath}\n\n')
+        for it in by_file[filepath]:
+            label = f"Status {it['status']}" if it['status'] else "ERROR"
+            link = (f"`[{it['text']}]({it['url']})`" if it['text']
+                    else f"`{it['url']}`")
+            f.write(f"- **{label}**: {link}")
+            if it['error']:
+                f.write(f"\n  - {it['error']}")
+            f.write('\n')
+    f.write('\n')
+
+
+def write_outputs(meta, buckets, skipped_urls):
+    """Write the markdown report and JSON data from classified buckets."""
+    REPORT_PATH.parent.mkdir(parents=True, exist_ok=True)
+    DATA_PATH.parent.mkdir(parents=True, exist_ok=True)
+    with REPORT_PATH.open('w') as f:
+        f.write('# External Links Audit Report\n')
+        f.write('## joshuapsteele.com Hugo Site\n\n')
+        f.write(f'**Audit Date:** {meta["date"]}\n\n')
+        f.write('Amazon and self (joshuapsteele.com) links are checked by '
+                '`check-amazon-links.py` and `convert-internal-links.py`.\n\n')
+        f.write('---\n\n## Summary\n\n')
+        f.write(f'- Total external links: {meta["total_links"]}\n')
+        f.write(f'- Unique URLs checked: {meta["unique_urls_checked"]}\n')
+        f.write(f'- Skipped (Amazon/self): {meta["skipped_count"]}\n')
+        f.write(f'- Working: {len(buckets["working"])}\n')
+        f.write(f'- **Dead (action needed): {len(buckets["dead"])}**\n')
+        f.write(f'- Blocked / manual-verify: {len(buckets["blocked"])}\n\n')
+        f.write('---\n\n')
+        _write_section(
+            f, 'Dead links (action needed)', buckets['dead'],
+            'High-confidence breakage: a 404/410, or a hard network failure '
+            '(DNS does not resolve / connection refused). Fix these: update the '
+            'URL, swap in an Internet Archive snapshot, or remove the link.')
+        f.write('---\n\n')
+        _write_section(
+            f, 'Blocked / manual-verify', buckets['blocked'],
+            'Ambiguous: a 4xx other than 404/410 (often bot defense, e.g. 400/403/'
+            '429), a 5xx, an SSL error, or a timeout. The page very likely still '
+            'exists but blocks automated checkers. Spot-check in a real browser '
+            'before changing anything.')
+
+    json.dump({
+        **meta,
+        'working': len(buckets['working']),
+        'dead': len(buckets['dead']),
+        'blocked': len(buckets['blocked']),
+        'dead_details': buckets['dead'],
+        'blocked_details': buckets['blocked'],
+        'skipped_urls': sorted(skipped_urls),
+    }, DATA_PATH.open('w'), indent=2)
+
+
+def reclassify_existing():
+    """Re-bucket the previously saved results with the current classify() rules,
+    without re-hitting the network. 'working' count is preserved from the prior
+    run (only dead/blocked details were stored)."""
+    prior = json.load(DATA_PATH.open())
+    buckets = {'working': [], 'dead': [], 'blocked': []}
+    moved = 0
+    for it in prior.get('dead_details', []) + prior.get('blocked_details', []):
+        cat = classify(it.get('status'), it.get('error'))
+        buckets[cat].append(it)
+    # Reconstruct working as a placeholder list of the right length.
+    buckets['working'] = [None] * prior.get('working', 0)
+    meta = {
+        'date': date.today().isoformat(),
+        'total_files': prior.get('total_files', 0),
+        'total_links': prior.get('total_links', 0),
+        'unique_urls_checked': prior.get('unique_urls_checked', 0),
+        'skipped_count': prior.get('skipped_count', 0),
+    }
+    write_outputs(meta, buckets, prior.get('skipped_urls', []))
+    print(f"Reclassified from saved data -> Working: {prior.get('working',0)} | "
+          f"DEAD: {len(buckets['dead'])} | Blocked/manual: {len(buckets['blocked'])}")
+    print(f"Report: {REPORT_PATH}\nData:   {DATA_PATH}")
+
+
 def main():
+    import argparse
+    ap = argparse.ArgumentParser(description=__doc__)
+    ap.add_argument('--reclassify', action='store_true',
+                    help='re-bucket the saved results with current rules; no network')
+    args = ap.parse_args()
+
+    if args.reclassify:
+        reclassify_existing()
+        return
+
     print("=" * 70)
     print("EXTERNAL LINKS CHECKER")
     print("=" * 70)
@@ -208,91 +309,30 @@ def main():
 
     url_status = check_links_parallel(to_check)
 
-    # Categorize per link occurrence.
     buckets = {'working': [], 'dead': [], 'blocked': []}
     for filepath, links in external_links.items():
         for link_type, text, url in links:
             if url in skipped:
                 continue
             status, error = url_status.get(url, (None, "Not checked"))
-            cat = classify(status, error)
-            buckets[cat].append({
+            buckets[classify(status, error)].append({
                 'file': filepath, 'type': link_type, 'text': text,
                 'url': url, 'status': status, 'error': error,
             })
 
-    report_path = Path('docs/AUDIT-06-external-links.md')
-    data_path = Path('scripts/data/audit-external-links.json')
-    report_path.parent.mkdir(parents=True, exist_ok=True)
-    data_path.parent.mkdir(parents=True, exist_ok=True)
-
-    def write_section(f, title, items, blurb):
-        f.write(f'## {title}\n\n')
-        f.write(f'{blurb}\n\n')
-        f.write(f'**Count:** {len(items)}\n\n')
-        by_file = defaultdict(list)
-        for it in items:
-            by_file[it['file']].append(it)
-        for filepath in sorted(by_file):
-            f.write(f'\n### {filepath}\n\n')
-            for it in by_file[filepath]:
-                label = f"Status {it['status']}" if it['status'] else "ERROR"
-                link = (f"`[{it['text']}]({it['url']})`" if it['text']
-                        else f"`{it['url']}`")
-                f.write(f"- **{label}**: {link}")
-                if it['error']:
-                    f.write(f"\n  - {it['error']}")
-                f.write('\n')
-        f.write('\n')
-
-    with report_path.open('w') as f:
-        f.write('# External Links Audit Report\n')
-        f.write('## joshuapsteele.com Hugo Site\n\n')
-        f.write(f'**Audit Date:** {date.today().isoformat()}\n\n')
-        f.write('Amazon and self (joshuapsteele.com) links are checked by '
-                '`check-amazon-links.py` and `convert-internal-links.py`.\n\n')
-        f.write('---\n\n')
-        f.write('## Summary\n\n')
-        f.write(f'- Total external links: {total_links}\n')
-        f.write(f'- Unique URLs checked: {len(to_check)}\n')
-        f.write(f'- Skipped (Amazon/self): {len(skipped)}\n')
-        f.write(f'- Working: {len(buckets["working"])}\n')
-        f.write(f'- **Dead (action needed): {len(buckets["dead"])}**\n')
-        f.write(f'- Blocked / manual-verify: {len(buckets["blocked"])}\n\n')
-        f.write('---\n\n')
-        write_section(
-            f, 'Dead links (action needed)', buckets['dead'],
-            'High-confidence breakage: DNS failure, connection refused, or 404/410. '
-            'These should be fixed (update the URL, use an Internet Archive snapshot, '
-            'or remove the link).')
-        f.write('---\n\n')
-        write_section(
-            f, 'Blocked / manual-verify', buckets['blocked'],
-            'The server returned 403/429/503/999, an SSL error, or timed out. The '
-            'page very likely still exists but blocks automated checkers. Spot-check '
-            'these in a real browser before changing anything.')
-
-    json.dump({
+    meta = {
         'date': date.today().isoformat(),
         'total_files': len(external_links),
         'total_links': total_links,
         'unique_urls_checked': len(to_check),
         'skipped_count': len(skipped),
-        'working': len(buckets['working']),
-        'dead': len(buckets['dead']),
-        'blocked': len(buckets['blocked']),
-        'dead_details': buckets['dead'],
-        'blocked_details': buckets['blocked'],
-        'skipped_urls': sorted(skipped),
-    }, data_path.open('w'), indent=2)
+    }
+    write_outputs(meta, buckets, skipped)
 
     print("\n" + "=" * 70)
-    print(f"Working: {len(buckets['working'])} | "
-          f"DEAD: {len(buckets['dead'])} | "
-          f"Blocked/manual: {len(buckets['blocked'])} | "
-          f"Skipped: {len(skipped)}")
-    print(f"Report: {report_path}")
-    print(f"Data:   {data_path}")
+    print(f"Working: {len(buckets['working'])} | DEAD: {len(buckets['dead'])} | "
+          f"Blocked/manual: {len(buckets['blocked'])} | Skipped: {len(skipped)}")
+    print(f"Report: {REPORT_PATH}\nData:   {DATA_PATH}")
 
 
 if __name__ == "__main__":
