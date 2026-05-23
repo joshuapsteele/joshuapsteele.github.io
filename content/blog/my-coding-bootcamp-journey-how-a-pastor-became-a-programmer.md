@@ -1,5 +1,4 @@
 ---
-advanced_seo_description: tech via a coding bootcamp (Tech Elevator).
 author: joshuapsteele
 categories:
 - personal
@@ -7,7 +6,6 @@ categories:
 date: '2023-02-03T17:42:02Z'
 description: From Bible major to bi-vocational ministry to software engineer—how I
   made the career transition through coding bootcamp.
-jetpack_seo_html_title: null
 title: 'My Coding Bootcamp Journey: How a Pastor Became a Programmer'
 url: /my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/
 tags:

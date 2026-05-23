@@ -3,7 +3,6 @@ author: joshuapsteele
 categories: personal
 date: '2013-04-15T22:31:53Z'
 description: "Receiving two Cedarville honors and reflecting on grace, generosity, gratitude, and the people who made seminary possible."
-tagazine-media: 02:33:04";} 02:33:04";}
 title: Honors, Grace, and Generosity
 tags:
   - college

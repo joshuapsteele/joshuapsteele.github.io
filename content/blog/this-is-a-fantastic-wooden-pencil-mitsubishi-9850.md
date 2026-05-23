@@ -4,7 +4,6 @@ categories: productivity
 date: '2018-11-22T17:00:05Z'
 description: 'Just wanted to give a quick shout-out to this fantastic pencil: the
   Mitsubishi 9850. It’s cheap, writes well, erases well, and looks great.'
-format: aside
 tags:
 - writing
 title: This is a fantastic wooden pencil (Mitsubishi 9850)

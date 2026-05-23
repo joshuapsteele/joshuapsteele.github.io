@@ -20,26 +20,13 @@ _No open medium-priority items._
 
 ### Low priority / when convenient
 
-- [ ] **Finish removing legacy WordPress/Jetpack front-matter cruft.** A follow-on to the 2026-05-22 `publicize_*`/`showToc` cleanup. Verified that none of these fields are read by any template *except* `redirect_to` (see below). Posts needing review:
-  - **Safe to remove (junk / null / corrupted values):**
-    - `activitypub_status: null` — `content/blog/requiem-for-a-cousin-on-his-birthday.md`
-    - `jetpack_seo_html_title: null` — `content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md`
-    - `tagazine-media: '02:33:04";} ...'` (corrupted) — `content/blog/honors-grace-and-generosity.md`
-  - **`format: aside` (WordPress post format, no Hugo effect) — safe to remove from 4 posts:**
-    - `content/blog/introduction-to-christian-theology-a-draft-syllabus.md`
-    - `content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md`
-    - `content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md`
-    - `content/blog/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again.md`
-  - **Has real text — eyeball the value before deleting (likely redundant with `description`, but confirm):**
-    - `excerpt` — `content/blog/the-hope-of-the-holy-innocents.md`, `content/blog/the-prodigal-son-part-2-introduction-to-romans.md`
-    - `advanced_seo_description` — `content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md`
-  - **DO NOT REMOVE — functional:** `redirect_to` in `content/blog/if-women-can-be-saved-then-women-can-be-priests.md` is read by `layouts/_default/redirect.html` to redirect the post to its republication at inchristus.com.
-  - Note: removal must consume multi-line YAML continuation lines, not just the key line (a key-only removal broke the build during the `publicize_*` pass).
+_No open low-priority items._
 
 ---
 
 ## Completed (since last audit)
 
+- [x] **Removed remaining legacy WordPress/Jetpack front-matter cruft (2026-05-23).** Deleted 10 dead fields across 9 posts: `format: aside` (×4), `excerpt` (×2), and one each of `tagazine-media` (corrupted value), `advanced_seo_description`, `jetpack_seo_html_title`, and `activitypub_status`. The two `excerpt`s and the `advanced_seo_description` were confirmed redundant with each post's `description` before deletion. None were read by any template. Used a multi-line-aware regex so wrapped values (e.g. the Holy Innocents `excerpt`) were fully removed without leaving orphaned YAML lines. Kept the functional `redirect_to` in the women's-ordination post. `npm run build` clean.
 - [x] **Ran Amazon link check; fixed the one dead link (2026-05-23).** `scripts/check-amazon-links.py` checked 458 unique Amazon URLs: **363 working, 150 blocked (CAPTCHA/503 bot defense — left as-is), 1 dead.** The anti-block tactics (browser headers, cookie jar, jittered sequential requests) kept ~79% from being blocked. The one dead link — `https://amzn.to/2Mu7tpI`, a defunct short link to a "Color of Compromise" Prime video in `top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me.md` — had no Wayback snapshot, so it was unlinked with an "(old, broken link)" marker. Report in `docs/AUDIT-amazon-links.md`. The 150 blocked are not actionable (Amazon blocks bots regardless); re-run later or spot-check manually if desired.
 - [x] **Fixed dead external links via Wayback + unlink strategy (2026-05-23).** Triaged the 136 dead-link occurrences (108 unique) from the external audit and fixed them: rewrote **88** to Internet Archive snapshots (`lookup-wayback.py` found usable 2xx captures for 69/108 URLs), and **unlinked 43** that had no snapshot, keeping the visible text and appending "(old, broken link)" / "(old, broken image)". Added `scripts/lookup-wayback.py` and `scripts/fix-dead-links.py` to do this. Caught a class of false positives — Wikipedia URLs with parentheses (e.g. `/300_(film)`) were being truncated by the link extractor at the inner `)`; excluded those 5 from fixing and hardened the markdown URL regex in `check-external-links.py`/`check-amazon-links.py` to allow one level of balanced parens. 55 files changed; `npm run build` clean; 0 broken internal links; verified no no-snapshot URL was left as a live link. The 121 "blocked/manual" links were left as-is (bot defense, not breakage). Scripts documented in `CLAUDE.md`/`scripts/README.md`. **Still pending:** Amazon link results (run in progress).
 - [x] **External-link tooling overhaul + self-link conversion (2026-05-23).** Prep for the external-link triage. (1) Hardened `scripts/check-external-links.py`: realistic browser headers (the old bot UA got 403'd), per-domain throttling (1 req/host at a time + min interval) to avoid rate-limit false positives, retries with backoff, HEAD→GET fallback, and dead-vs-blocked/manual classification; it now also skips Amazon and self links (handled separately). (2) Added `scripts/check-amazon-links.py` — checks the ~514 Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, persistent cookie jar, sequential jittered delays, redirect-following, CAPTCHA/soft-404 detection). (3) Added `scripts/convert-internal-links.py` and ran it: converted **171 absolute joshuapsteele.com self-links → root-relative** across 90 post bodies (0 failed to resolve; front matter `guid`/`redirect_to` left untouched). `npm run build` clean; internal-link checker still 0 broken. Script docs updated in `CLAUDE.md` and `scripts/README.md`. **Next:** run the two network checkers and triage the dead links.

@@ -3,7 +3,6 @@ author: joshuapsteele
 categories: theology
 date: '2018-12-20T22:42:14Z'
 description: "A draft syllabus for an Introduction to Christian Theology course, written for my teaching practicum at Wheaton College."
-format: aside
 tags:
 - theology
 title: 'Introduction to Christian Theology: A Draft Syllabus'

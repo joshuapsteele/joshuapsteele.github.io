@@ -1,5 +1,4 @@
 ---
-activitypub_status: null
 author: joshuapsteele
 categories: personal
 date: '2024-09-28T09:00:54Z'

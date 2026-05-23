@@ -4,8 +4,6 @@ categories: theology
 date: '2015-04-24T09:16:32Z'
 description: 'A December 28 sermon on the Slaughter of the Innocents: finding hope
   and meaning in Herod''s horrific massacre of Bethlehem''s babies.'
-excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope
-  of the Holy Innocents in this 2014 sermon.
 title: The Hope of the Holy Innocents
 tags:
   - sermons

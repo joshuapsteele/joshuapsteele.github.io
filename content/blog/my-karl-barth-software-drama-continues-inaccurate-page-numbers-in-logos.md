@@ -3,7 +3,6 @@ author: joshuapsteele
 categories: dissertation
 date: '2018-12-11T16:12:55Z'
 description: "Research notes on inaccurate Karl Barth Church Dogmatics page numbers in Logos search results and why that complicates citation work."
-format: aside
 tags:
 - barth
 - research
