@@ -3,7 +3,7 @@ title: Colophon
 description: How this website is built, hosted, and designed to be independent and user-controlled
 url: /colophon
 draft: false
-showtoc: true
+showToc: true
 ---
 
 This page describes the technical details, design philosophy, and tools behind this website.

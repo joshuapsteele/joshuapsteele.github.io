@@ -2,7 +2,7 @@
 categories: personal
 description: Instructions for family and friends in case of my death
 draft: false
-showtoc: false
+showToc: false
 title: Death
 url: /death
 ---

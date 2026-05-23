@@ -4,8 +4,6 @@ categories: theology
 date: '2015-04-24T09:15:27Z'
 description: We lose sight of God's love when we emphasize 'strong' portraits of God
   while neglecting Scripture's 'weak,' brokenhearted images.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: The Brokenhearted God
 tags:
   - theology

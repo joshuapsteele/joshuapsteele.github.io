@@ -6,9 +6,6 @@ categories:
 date: '2013-11-11T18:50:04Z'
 description: Violence isn't human destiny because the God of peace frames our history—reflections
   on peacemaking and the crucified Messiah.
-publicize_facebook_url: null
-publicize_twitter_url: null
-publicize_twitter_user: null
 title: Silence and Violence
 tags:
   - pacifism

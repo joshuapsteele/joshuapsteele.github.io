@@ -4,7 +4,7 @@ aliases:
 categories: productivity
 description: Every Day Carry (EDC) items I find useful.
 draft: false
-showtoc: false
+showToc: false
 title: Carry
 url: /carry
 ---

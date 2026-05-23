@@ -3,7 +3,7 @@ author: joshuapsteele
 categories: productivity
 description: What I am doing these days
 guid: https://joshuapsteele.com/?page_id=41441
-showtoc: false
+showToc: false
 title: Now
 url: /now/
 ---

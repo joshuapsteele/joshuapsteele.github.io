@@ -5,7 +5,7 @@ author: joshuapsteele
 categories: personal
 description: My personal journey of faith from childhood to the present
 guid: https://joshuapsteele.com/?page_id=42475
-showtoc: false
+showToc: false
 title: My Story
 url: /my-story
 ---

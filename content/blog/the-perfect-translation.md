@@ -4,8 +4,6 @@ categories: theology
 date: '2013-12-15T09:20:56Z'
 description: Reviewing Waltke's Dance Between God and Humanity and Goodwin's Translating
   the English Bible for Liverpool Hope's journal.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: The Perfect Translation
 tags:
   - reviews

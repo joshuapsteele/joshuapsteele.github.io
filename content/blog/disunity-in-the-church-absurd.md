@@ -3,8 +3,6 @@ author: joshuapsteele
 categories: theology
 date: '2015-05-06T09:10:34Z'
 description: "A Southeast ETS paper using Karl Barth to argue that church disunity is an ecclesiological impossibility, possible only as sin is possible."
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Disunity in the Church? Absurd!
 tags:
   - barth

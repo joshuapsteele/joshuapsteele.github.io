@@ -6,8 +6,6 @@ categories:
 date: '2014-03-20T11:29:22Z'
 description: Setting aside Cedarville chaos to focus on reading Romans with Karl Barth's
   commentary during my Greek exegesis independent study.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Concerning Romans
 tags:
   - barth

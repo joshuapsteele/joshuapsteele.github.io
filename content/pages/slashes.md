@@ -2,7 +2,7 @@
 categories: personal
 description: A meta-page listing all the slash pages on my website
 draft: false
-showtoc: false
+showToc: false
 title: Slashes
 url: /slashes
 ---

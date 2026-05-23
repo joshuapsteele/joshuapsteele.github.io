@@ -3,7 +3,7 @@ title: Yep
 description: A list of things I agree with or will do
 url: /yep
 draft: false
-showtoc: false
+showToc: false
 ---
 
 - Try new recipes

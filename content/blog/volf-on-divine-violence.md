@@ -4,8 +4,6 @@ categories: theology
 date: '2013-10-23T08:13:38Z'
 description: 'Miroslav Volf on divine judgment in Exclusion and Embrace: God judges
   because some refuse to live in God''s peace.'
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Miroslav Volf on Divine Violence
 tags:
   - theology

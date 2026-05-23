@@ -2,7 +2,7 @@
 categories: productivity
 description: All the ways you can follow my work and receive updates
 draft: false
-showtoc: false
+showToc: false
 title: Follow
 url: /follow
 ---

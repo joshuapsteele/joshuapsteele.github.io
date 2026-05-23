@@ -7,7 +7,7 @@ author: joshuapsteele
 categories: productivity
 description: My wish list of things I want to get or do
 guid: https://joshuapsteele.com/?page_id=41418
-showtoc: false
+showToc: false
 title: Wish List
 url: /wishlist/
 ---

@@ -6,8 +6,6 @@ categories:
 date: '2013-12-13T17:46:29Z'
 description: 'Paul''s shortest letter analyzes reconciliation and slavery: bringing
   gospel truth to bear on an estranged Christian relationship.'
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: 'The Epistle to Philemon: Analysis and Application'
 tags:
   - bible

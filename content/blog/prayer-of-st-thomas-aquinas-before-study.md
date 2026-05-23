@@ -5,8 +5,6 @@ categories:
 - theology
 date: '2018-02-02T09:15:24Z'
 description: "A prayer of St. Thomas Aquinas to pray before you read, write, study, or take a test, with a bit of its history at Beeson Divinity School."
-publicize_twitter_user: a perfect prayer to pray before you read, write, study, or
-  take a test. Click to read the prayer and to pray it yourself!
 title: 'How to Pray Before You Read and Write: A Prayer of St. Thomas Aquinas Before
   Study'
 tags:

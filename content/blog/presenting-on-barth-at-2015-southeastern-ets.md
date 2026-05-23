@@ -4,8 +4,6 @@ categories: personal
 date: '2015-04-24T09:13:41Z'
 description: My paper on Karl Barth and church unity has been accepted for the 2015
   Southeastern Regional ETS meeting.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Presenting on Karl Barth at 2015 Southeastern ETS
 tags:
   - barth

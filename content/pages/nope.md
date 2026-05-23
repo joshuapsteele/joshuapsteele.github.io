@@ -2,7 +2,7 @@
 categories: ethics
 description: Things I do not like or do not want to do
 draft: false
-showtoc: false
+showToc: false
 title: Nope
 url: /nope
 ---

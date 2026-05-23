@@ -4,7 +4,7 @@ author: joshuapsteele
 description: How to get in touch with me
 url: /contact/
 guid: https://joshuapsteele.com/?page_id=2619
-showtoc: false
+showToc: false
 ---
 
 If you want to get in touch, the contact form below is the easiest way.

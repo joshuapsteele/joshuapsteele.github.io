@@ -4,7 +4,7 @@ author: joshuapsteele
 categories: personal
 date: '2024-09-28T09:00:54Z'
 description: Today should have been my cousin Eric's 32nd birthday.
-showtoc: false
+showToc: false
 title: Requiem for a Cousin on His Birthday
 tags:
   - death

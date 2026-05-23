@@ -5,7 +5,7 @@ categories: productivity
 description: A list of interesting and/or useful websites and posts I have
   bookmarked
 draft: false
-showtoc: false
+showToc: false
 title: Bookmarks
 url: /bookmarks
 ---

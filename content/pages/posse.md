@@ -5,7 +5,7 @@ aliases:
 categories: personal
 description: My current personal tech stack
 draft: false
-showtoc: false
+showToc: false
 title: My POSSE (Publish Own Site, Syndicate Everywhere) Tech Stack
 url: /posse
 ---

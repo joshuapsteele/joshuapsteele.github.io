@@ -5,7 +5,7 @@ author: joshuapsteele
 categories: ministry
 description: Learn more about Joshua P. Steele
 guid: https://joshuapsteele.com/?page_id=40142
-showtoc: false
+showToc: false
 title: About
 url: /about
 ---

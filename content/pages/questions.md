@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: personal
 description: A page to keep track of the questions I'm asking
-showtoc: true
+showToc: true
 title: Questions
 url: /questions/
 ---

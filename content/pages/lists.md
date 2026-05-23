@@ -4,7 +4,7 @@ author: joshuapsteele
 categories: ethics
 description: A collection of lists I maintain
 draft: false
-showtoc: true
+showToc: true
 title: Lists
 url: /lists/
 ---

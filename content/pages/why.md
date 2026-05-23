@@ -3,7 +3,7 @@ categories: personal
 description: What I care about, what direction I'm heading, and how I hope to exist
   in the world
 draft: true
-showtoc: false
+showToc: false
 title: Why
 url: /why
 ---

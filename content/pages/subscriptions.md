@@ -3,7 +3,7 @@ author: joshuapsteele
 categories: productivity
 description: A list of my current subscriptions
 draft: true
-showtoc: false
+showToc: false
 title: Subscriptions
 url: /subscriptions
 ---

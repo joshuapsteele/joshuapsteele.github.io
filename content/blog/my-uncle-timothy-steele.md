@@ -3,7 +3,6 @@ author: joshuapsteele
 categories: personal
 date: '2015-04-24T09:15:26Z'
 description: "Remembering my Uncle Timothy Steele: his laughter, love, faith, and the Christian hope that rages against death."
-publicize_twitter_user: With some added theological reflection on Death and Hope.
 title: My Uncle, Timothy Steele
 tags:
   - death

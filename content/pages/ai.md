@@ -2,7 +2,7 @@
 categories: productivity
 description: How I use (and don't use) AI tools.
 draft: false
-showtoc: false
+showToc: false
 title: AI
 url: /ai
 ---

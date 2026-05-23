@@ -3,7 +3,7 @@ title: Someday
 description: Some things I want to do someday
 url: /someday
 draft: false
-showtoc: false
+showToc: false
 ---
 (Related: [My Wish List page](/wishlist).)
 

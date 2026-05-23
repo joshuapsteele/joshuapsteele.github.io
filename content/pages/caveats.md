@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: productivity
 description: You can add these caveats to everything I write online
-showtoc: false
+showToc: false
 title: Caveats
 url: /caveats
 ---

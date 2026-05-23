@@ -2,7 +2,7 @@
 categories: theology
 description: The things that have most shaped me
 draft: false
-showtoc: false
+showToc: false
 title: Canon
 url: /canon
 ---

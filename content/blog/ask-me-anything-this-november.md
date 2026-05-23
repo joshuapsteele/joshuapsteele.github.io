@@ -8,7 +8,7 @@ tags:
   - questions
   - writing
 url: /ask-me-anything-this-november
-showtoc: false
+showToc: false
 ---
 I'd love to blog more regularly, and I love answering questions. So [the "WeblogPoMo AMA" challenge caught my eye](https://weblogpomo.club/challenges)!
 

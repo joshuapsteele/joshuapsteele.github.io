@@ -2,7 +2,7 @@
 categories: productivity
 description: A list of apps and software tools I use daily
 draft: false
-showtoc: false
+showToc: false
 title: Defaults
 url: /defaults
 ---

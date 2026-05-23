@@ -3,8 +3,6 @@ author: joshuapsteele
 categories: ethics
 date: '2015-04-24T09:15:25Z'
 description: "Book of Common Prayer resources for cultivating gratitude, including grace at meals, the General Thanksgiving, and a thanksgiving litany."
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Give Thanks!
 tags:
   - discipleship

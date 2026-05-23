@@ -3,7 +3,7 @@ categories: personal
 description: A curated list of blogs, websites, and other online publications
   that I recommend
 draft: false
-showtoc: false
+showToc: false
 title: Blogroll
 url: /blogroll
 ---

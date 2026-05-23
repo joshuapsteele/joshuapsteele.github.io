@@ -4,8 +4,6 @@ categories: personal
 date: '2014-03-18T17:11:59Z'
 description: Why I can't be proud of Cedarville University anymore, and why prospective
   students should consider other Christian colleges.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: Cedarville!
 tags:
   - college

@@ -3,7 +3,7 @@ author: joshuapsteele
 categories: ethics
 date: '2024-10-13'
 description: "A brief meditation on God's economy, where the poor and overlooked matter more than wealth, status, or productivity."
-showtoc: false
+showToc: false
 title: God's Economy
 tags:
   - economics

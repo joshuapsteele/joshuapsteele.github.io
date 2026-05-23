@@ -4,8 +4,6 @@ categories: ethics
 date: '2013-11-29T16:09:57Z'
 description: Black Friday proves that the progress of (post)modernity has failed to
   eradicate the ills of idolatry.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: 'Black Friday Book Recommendation: The Economy of Desire'
 tags:
   - books

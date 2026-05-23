@@ -3,8 +3,6 @@ author: joshuapsteele
 categories: theology
 date: '2014-03-31T14:06:33Z'
 description: "A Second Sunday of Lent sermon on Psalm 121, Genesis 12, Romans 4, John 3, and the help that comes from the Lord."
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: 'My Sermon: Our Help'
 tags:
   - sermons
