@@ -28,20 +28,20 @@ I’ve narrowed this round down to trying the following hats, in case you’re i
 - [Flexfit Mens Cool & Dry Sport](https://amzn.to/4aI6v2F) (Grey, X-Large-XX-Large) 
     - This hat gets here in the mail today! I’m excited to try it out
 
-![Me and my big head](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg)
+![Me and my big head](/wp-content/uploads/2024/04/IMG_8778-2-1024x1024.jpg)
 
-![Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg)
+![Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)](/wp-content/uploads/2024/04/IMG_8788-2-1024x1024.jpg)
 
-![Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg)
+![Carhartt Men's Rugged Professional Series Canvas Mesh-Back Cap (Shadow, One Size)](/wp-content/uploads/2024/04/IMG_8802-2-1024x1024.jpg)
 
-![Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg)
+![Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)](/wp-content/uploads/2024/04/IMG_8813-2-1024x1024.jpg)
 
-![Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg)
+![Carhartt Men's 100289 Odessa Ball Cap (Carhartt Brown, One Size)](/wp-content/uploads/2024/04/IMG_8822-2-1024x1024.jpg)
 
-![Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat (Charcoal Gray, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg)
+![Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat (Charcoal Gray, One Size)](/wp-content/uploads/2024/04/IMG_8831-2-1024x1024.jpg)
 
-![Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat (Charcoal Gray, One Size)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg)
+![Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat (Charcoal Gray, One Size)](/wp-content/uploads/2024/04/IMG_8841-2-1024x1024.jpg)
 
-![Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg)
+![Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)](/wp-content/uploads/2024/04/IMG_8863-2-1024x1024.jpg)
 
-![Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)](https://joshuapsteele.com/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg)
+![Flexfit Men's Delta Seamless Cap (Dark Grey, XX-Large)](/wp-content/uploads/2024/04/IMG_8871-2-1024x1024.jpg)

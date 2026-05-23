@@ -17,4 +17,4 @@ Over on his blog, “Non Sermoni Res,” Dr. [William Witt has written several e
 
 Here’s [the guide that Witt put together in order to orient readers to his essays](http://willgwitt.org/a-guide-to-my-essays-about-womens-ordination/).
 
-What I've done is to combine the blog posts into a single PDF, with bookmarks. Here it is: [Witt_Womens-Ordination-Essays (PDF)](https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf)
+What I've done is to combine the blog posts into a single PDF, with bookmarks. Here it is: [Witt_Womens-Ordination-Essays (PDF)](/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf)

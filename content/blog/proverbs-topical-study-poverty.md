@@ -23,7 +23,7 @@ However, one can effortlessly go through daily life in middle class America with
 
 In this milieu of wealth and poverty existing side by side in an atmosphere of confusion and apathy, the book of Proverbs provides relevant insights into the nature of poverty, the nature of Yahweh, and how his people should respond to it.
 
-(For more on how Christians should think about poverty and wealth, see my essay [“Christians and Wealth.”](https://joshuapsteele.com/christians-and-wealth/))
+(For more on how Christians should think about poverty and wealth, see my essay [“Christians and Wealth.”](/christians-and-wealth/))
 
 ## Descriptions of Poverty: Effects and Causes
 

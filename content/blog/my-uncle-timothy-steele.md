@@ -19,7 +19,7 @@ url: /20150424my-uncle-timothy-steele/
 
 ---
 
-[![Image](https://joshuapsteele.com/wp-content/uploads/2015/10/image.png)](https://joshuapsteele.com/wp-content/uploads/2015/10/image.png)
+[![Image](/wp-content/uploads/2015/10/image.png)](/wp-content/uploads/2015/10/image.png)
 
 ## Timothy Steele
 

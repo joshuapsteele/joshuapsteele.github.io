@@ -11,4 +11,4 @@ tags:
 url: /only-the-suffering-god-can-help/
 ---
 
-![](https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg)
+![](/wp-content/uploads/2019/04/img_0297.jpg)

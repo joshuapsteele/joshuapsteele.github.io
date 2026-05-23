@@ -16,4 +16,4 @@ I’m pretty flexible at this point, but I want to do something that benefits th
 
 Any advice, opportunities, or connections you can offer would be appreciated!
 
-You can [view/share my CV here](https://joshuapsteele.com/portfolio/cv/). And [here’s my LinkedIn profile](https://www.linkedin.com/in/joshuapsteele/).
+You can [view/share my CV here](/portfolio/cv/). And [here’s my LinkedIn profile](https://www.linkedin.com/in/joshuapsteele/).

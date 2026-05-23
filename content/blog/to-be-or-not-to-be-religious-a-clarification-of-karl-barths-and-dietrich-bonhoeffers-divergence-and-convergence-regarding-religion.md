@@ -14,11 +14,11 @@ title: 'To Be or Not To Be Religious: A Clarification of Karl Barth''s and Dietr
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
 ---
 
-*(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
+*(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](/barth-bonhoeffer-and-the-bible/).)*
 
 Christian theologians Karl Barth (1886-1968) and Dietrich Bonhoeffer (1906-1945) inherited a particular understanding of religion. In the broadly post-Kantian milieu, nineteenth-century thinkers such as Friedrich Schleiermacher, Albrecht Ritschl, and Adolf von Harnack defined religion essentially, anthropologically, and subjectively. That is, religion has a particular essence, and is in some manner inalienable from our humanity. The emphasis of this conception is on the experience of the religious subject, instead of the knowledge of religion’s object (let alone its reality).[^1] It is this notion of religion that both Barth and Bonhoeffer challenged.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](/theology-outline/)“)
 
 However, despite the challenge they issued to their shared intellectual heritage, Barth and Bonhoeffer appear to diverge on both the definition and, therefore, the critique of religion – at least during the stage of Bonhoeffer’s 1943-45 imprisonment. While Barth unleashed a thoroughgoing theological critique of religion as faithlessness \[*Unglaube*\], he also insisted that humans were always and unavoidably religious.[^2] Barth maintained that, despite the liabilities of religion, we cannot and should not be religion*less* because we are not truly godless.[^3] Bonhoeffer, however, spoke in 1944-45 of a desirably “religionless Christianity.”[^4] This, despite the fact that he ostensibly intended to carry forward Barth’s theological critique of religion – which was, in Bonhoeffer’s opinion, Barth’s “greatest merit” as a theologian.[^5]
 
@@ -26,7 +26,7 @@ Whether Barth and Bonhoeffer share a common theological critique of religion has
 
 **Once we realize the divergent definitions, we can see the convergent critiques of a particular essence of religion: the self-justifying projection of a deity – a projection which calls for theological analysis. That is, for both Barth and Bonhoeffer, at the heart of “religion” is the impulse to posit and make room for a “God,” in order to secure our own identities by means of and over against this deity. Although religion, thus understood, is inescapable, it is not constitutive of our humanity.**
 
-\[\[To continue reading, download the PDF: [To Be or Not To Be Religious](https://joshuapsteele.com/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf).\]\]
+\[\[To continue reading, download the PDF: [To Be or Not To Be Religious](/wp-content/uploads/2016/12/To-Be-or-Not-To-Be-Religious.pdf).\]\]
 
 —Notes—
 

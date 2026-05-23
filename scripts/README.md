@@ -26,8 +26,10 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ### Auditing & Analysis
 - `audit-frontmatter.py` - Analyze front matter for issues (outputs to `data/`)
 - `audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
-- `check-internal-links.py` - Check for broken internal links (outputs to `data/`)
-- `check-external-links.py` - Check for broken external links (outputs to `data/`)
+- `check-internal-links.py` - Check for broken internal links; validates against the built `public/` site (run `npm run build` first). Outputs to `data/`
+- `check-external-links.py` - Check non-Amazon, non-self external links. Sends browser headers, throttles per-domain, retries, and classifies results as dead vs. blocked/manual. Skips Amazon and joshuapsteele.com (handled below). Outputs to `data/`
+- `check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, cookie jar, sequential jittered delays, redirect-following). Flags `--delay`/`--jitter`/`--limit`. Outputs `docs/AUDIT-amazon-links.md` + `data/`
+- `convert-internal-links.py` - Rewrite absolute self-links (joshuapsteele.com) in post bodies to root-relative internal links, validating against `public/` and flagging any that don't resolve. Dry-run by default; `--apply` to write
 - `analyze_website_stats.py` - Analyze website traffic statistics
 - `categorize_page_changes.py` - Categorize and analyze page changes
 

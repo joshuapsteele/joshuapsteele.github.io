@@ -30,9 +30,9 @@ Subscribe to **Steele Notes** for new posts and occasional updates:
 
 ## Feeds
 
-- [Blog RSS](https://joshuapsteele.com/blog/feed.xml)
-- [Notes RSS](https://joshuapsteele.com/notes/feed.xml)
-- [Notes JSON Feed](https://joshuapsteele.com/notes/feed.json)
+- [Blog RSS](/blog/feed.xml)
+- [Notes RSS](/notes/feed.xml)
+- [Notes JSON Feed](/notes/feed.json)
 - [Saved Links RSS](https://links.joshuapsteele.com/feed.xml)
 - [Saved Links JSON Feed](https://links.joshuapsteele.com/feed.json)
 

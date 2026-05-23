@@ -11,7 +11,7 @@ tags:
 url: /lets-take-seth-godin-to-church/
 ---
 
-I’m not going to lie. My first reaction when I saw the cover of this book? [![](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg)](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg)
+I’m not going to lie. My first reaction when I saw the cover of this book? [![](/wp-content/uploads/2016/05/img_0502-225x300.jpg)](/wp-content/uploads/2016/05/img_0502.jpg)
 
 ##### No! Of course you’re not indispensable. What use could this crap possibly be to the Church, or to me – simultaneously a pastor and a pastor-in-training.
 

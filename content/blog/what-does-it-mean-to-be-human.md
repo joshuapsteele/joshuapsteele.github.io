@@ -110,7 +110,7 @@ As Martin Luther concluded:
 
 This is self-transcendence as it was meant to be. Divine discourse encompasses God, the self, and the other, grounding both anthropology and ethics.
 
-(For an overview of what I believe, check out my essay: [“Theology in Outline.”](https://joshuapsteele.com/theology-outline/))
+(For an overview of what I believe, check out my essay: [“Theology in Outline.”](/theology-outline/))
 
 # CONCLUSION
 

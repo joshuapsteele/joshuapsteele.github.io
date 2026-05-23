@@ -34,7 +34,7 @@ I hope you’re catching my sarcasm.
 
 ![](http://rlv.zcache.com/jeremiah_29_11_i_know_the_plans_bible_verse_denim_keychain-r143db7130dbe4fb3a239db30a4aeef88_x7j3z_8byvr_512.jpg)And maybe you think I’m exaggerating. But I did a Google search for Jeremiah 29:11 and you can buy folders, clocks, plaques, keychains, mugs, pictures, bumper stickers, aprons, tote bags, iPhone cases, tshirts, pillows, bracelets, and even playing cards that have this verse on them. It might be rivaling the [23rd Psalm](http://www.biblegateway.com/passage/?search=Psalm%2023&version=NET) after all that. And I know for a fact that it can be found on countless greeting cards whether they be sympathy, graduation, engagement, or congratulatory cards.
 
-![- this is not a bag of trail mix you cant just pick out the p](https://joshuapsteele.com/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png)
+![- this is not a bag of trail mix you cant just pick out the p](/wp-content/uploads/2013/06/this-is-not-a-bag-of-trail-mix-you-cant-just-pick-out-the-p.png)
 
 I saw a meme on the internet the other day. It was an image of the Bible, and the text said: “This is not a bag of trail mix. You can’t just pick out the pieces you like and ignore the rest.” I’m afraid that the widespread use of Jeremiah 29:11 demonstrates a bigger problem: we really are guilty of treating the Bible like a bag of trail mix. Jeremiah 29:11 is an M&M that we pull out time and time again while we ignore all the peanuts and raisins and cashews and granola all around it.
 
@@ -62,7 +62,7 @@ So, yes, you can pick up the Bible and “just read it.” And you do have, as a
 
 At Cedarville, I majored in Bible and one of the very first things we were taught to do was to interpret Scripture well and then to be aware of when someone wasn’t. And, at Cedarville, when a chapel speaker or someone else mentions Jeremiah 29:11, all the Bible majors groan. It’s because Jeremiah 29:11 was the go-to verse that professors used to show us how the Bible is mishandled. Like I joked above, we decide that the “*you*” in “*I know the plans I have for you*” is the person starting the new job or the person who has lost their lucky pencil. Does God have good plans for your life? Yes, absolutely. But this isn’t the verse to prove it. And it certainly isn’t the verse to put on a graduation card. Let me explain why.
 
-*(Editor’s note: for more content about the Bible and Scripture, check out [Scripture: What The Bible Is and Why It Matters](https://joshuapsteele.com/on-scripture/).)*
+*(Editor’s note: for more content about the Bible and Scripture, check out [Scripture: What The Bible Is and Why It Matters](/on-scripture/).)*
 
 ---
 

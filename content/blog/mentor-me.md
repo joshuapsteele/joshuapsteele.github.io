@@ -14,7 +14,7 @@ Say what you will about Tim Ferriss, I’ve always really enjoyed the [questions
 
 I also really enjoy LEARNING as much as I can from other people. And so, with that in mind, I’d like to “open source” my search for mentors and **invite you, dear reader, to answer at least one of the questions below.**
 
-**Please comment your answers below** this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email ([use my contact form here](https://joshuapsteele.com/contact/)). Then, go ask these questions to others! Cheers!
+**Please comment your answers below** this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email ([use my contact form here](/contact/)). Then, go ask these questions to others! Cheers!
 
 1. What is the book (or books) you’ve given most as a gift, and why? Or what are one to three books that have greatly influenced your life?
 2. What purchase of $100 or less has most positively impacted your life in the last six months (or in recent memory)?

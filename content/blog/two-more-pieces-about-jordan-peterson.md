@@ -12,7 +12,7 @@ tags:
 url: /two-more-pieces-about-jordan-peterson/
 ---
 
-Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/).
+Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](/what-to-make-of-jordan-peterson-some-takes-then-my-own/).
 
 Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.
 

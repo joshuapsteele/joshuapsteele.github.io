@@ -14,7 +14,7 @@ tags:
   - sermon-on-the-mount
 ---
 
-As I said in my previous post, “[Interpretive Approaches to the Sermon on the Mount](https://joshuapsteele.com/interpretive-approaches-to-the-sermon-on-the-mount/),” I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.
+As I said in my previous post, “[Interpretive Approaches to the Sermon on the Mount](/interpretive-approaches-to-the-sermon-on-the-mount/),” I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.
 
 Of course, when interpreting the Sermon on the Mount, the best place to start is at the beginning! This means beginning with the Beatitudes in Matthew 5:1–12.
 

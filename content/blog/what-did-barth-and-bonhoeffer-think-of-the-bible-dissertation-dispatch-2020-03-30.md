@@ -14,7 +14,7 @@ url: /what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-202
 
 I’m trying to parse out the relevance of Barth’s and Bonhoeffer’s engagement with Scripture for making sense of the “Barth-Bonhoeffer relationship.” Specifically, I’m trying to, at the very least, add some biblical content and context to the ongoing debate over the relationship between Barth’s and Bonhoeffer’s theological critiques of religion.
 
-As I put it in [the “elevator pitch” for my dissertation proposal](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/):
+As I put it in [the “elevator pitch” for my dissertation proposal](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/):
 
 > Why does Bonhoeffer in prison, after adopting Barth’s theological critique of religion as idolatrous unbelief…
 > 

@@ -12,7 +12,7 @@ categories:
 url: /an-ecclesiastical-pickle/
 ---
 
-It's been brought to my attention that the description of how I [resigned from ordained ministry in the Anglican Church in North America](https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023 might not be canonically accurate. 
+It's been brought to my attention that the description of how I [resigned from ordained ministry in the Anglican Church in North America](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023 might not be canonically accurate. 
 
 {{< callout "important" >}}
 UDPATE: As of 2026-01-09, I've asked that we clarify my November 2023 resignation from ministry in the ACNA by just sticking to the exact wording of the ACNA Canons. No extra "this is/isn't different from renouncing Holy Orders" qualifications needed.

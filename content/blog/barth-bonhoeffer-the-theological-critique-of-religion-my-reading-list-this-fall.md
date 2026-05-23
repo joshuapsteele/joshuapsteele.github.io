@@ -13,7 +13,7 @@ title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading 
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/
 ---
 
-*(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](https://joshuapsteele.com/barth-bonhoeffer-and-the-bible/).)*
+*(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](/barth-bonhoeffer-and-the-bible/).)*
 
 This semester — my final one at [Beeson Divinity School](http://www.beesondivinity.com/) — I’m doing a directed study with [Piotr Malysz](http://www.beesondivinity.com/piotrjmalysz) on the topic of “Religion” in Karl Barth and Dietrich Bonhoeffer.
 

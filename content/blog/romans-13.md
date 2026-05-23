@@ -146,7 +146,7 @@ Having an understanding of both the historical background and the context of thi
 
 While some may wish that Romans 13:1-7 had more to say regarding the relationship between church and state, the passage certainly cannot say less than the main points briefly described above. Romans 13:1-7 is not a condensed theology of church and state, but a specific historically-conditioned pastoral address to the Roman believers, diverting them from rebellion and urging them towards humble submission in order to protect their testimony and thereby enhance their effectiveness in God’s redemptive mission.
 
-(For a theological essay about what the Bible is and why it’s important, read [this piece.](https://joshuapsteele.com/on-scripture/))
+(For a theological essay about what the Bible is and why it’s important, read [this piece.](/on-scripture/))
 
 ## Bibliography
 

@@ -13,7 +13,7 @@ url: /unrighteous-anger-yoda-jonah-nahum-and-us/
 
 # INTRODUCTION
 
-![Image](https://joshuapsteele.com/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590)
+![Image](/wp-content/uploads/2013/05/fear-leaeds-to-anger-yoda-quote-from-star-wars.jpg?w=590)
 
 A great green theologian of old claimed that anger is based on fear, that it leads to hatred, and results in suffering. And while I do not wish to disregard the wisdom of a long time ago in a galaxy far, far away, I would like to take a closer look at anger as discussed in Scripture, and to consider what makes certain instances of anger righteous or unrighteous, legitimate or illegitimate.
 

@@ -13,21 +13,21 @@ url: /dangerous-beauty-phoenix-grand-canyon-trip-2018/
 
 The main reason for the trip was to visit some good friends of ours, the Smith family, in Phoenix, AZ. Here’s a picture of the group of us together after church at [Living Faith Anglican Church in Tempe, AZ](https://livingfaithanglican.org/), where my friend Peter Smith is the rector.
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg)
+![](/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg)
 
 The trip was a blast. It was great to catch up with the Smiths and to see their new home and church in Arizona.
 
 Plus, we got to go hiking at (1) Saguaro Lake,
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg)
+![](/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg)
 
 (2) Cathedral Rock in Sedona,
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3663.jpg)
+![](/wp-content/uploads/2018/03/IMG_3663.jpg)
 
 and (3) the South Kaibab Trail at the Grand Canyon.
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/03/IMG_3743.jpg)
+![](/wp-content/uploads/2018/03/IMG_3743.jpg)
 
 (That last photo is my favorite from the entire trip. Thanks to the random guy on the trail who took it for us!)
 

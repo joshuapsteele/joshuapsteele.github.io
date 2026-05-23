@@ -116,4 +116,4 @@ My “Holland Code”: I like to spend time and work with the following kinds of
 
 I want to serve the world by serving the church. I want to help everyone know and love God more so that we join God in making the world a better, more beautiful place.
 
-***(Note: To learn more about me, [read my story](https://joshuapsteele.com/portfolio/my-story/) and [take a look at my C.V.](https://joshuapsteele.com/portfolio/cv/))***
+***(Note: To learn more about me, [read my story](/portfolio/my-story/) and [take a look at my C.V.](/portfolio/cv/))***

@@ -14,7 +14,7 @@ url: /no-one-knows-what-positivism-of-revelation-means/
 
 When it comes to the Barth-Bonhoeffer relationship, there is perhaps no greater conundrum than the meaning of what Bonhoeffer called Barth’s “Offenbarungspositivismus” (“positivism of revelation” or “revelatory positivism”) in his *Letters and Papers from Prison* (DBWE 8).
 
-*Now, before we proceed, please note that Bonhoeffer meant something very particular by “religion” in his prison letters. For an overview of how Bonhoeffer and Barth differed on the meaning of “religion,” and what that means for how we interpret their theological critiques of religion, please see my essay: [“To Be or Not To Be Religious: A Clarification of Karl Barth’s and Dietrich Bonhoeffer’s Divergence and Convergence Regarding Religion.”](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/)*
+*Now, before we proceed, please note that Bonhoeffer meant something very particular by “religion” in his prison letters. For an overview of how Bonhoeffer and Barth differed on the meaning of “religion,” and what that means for how we interpret their theological critiques of religion, please see my essay: [“To Be or Not To Be Religious: A Clarification of Karl Barth’s and Dietrich Bonhoeffer’s Divergence and Convergence Regarding Religion.”](/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/)*
 
 Anyways, here’s Bonhoeffer’s first mention of positivism of revelation, in an April 30, 1944 letter to Eberhard Bethge:
 

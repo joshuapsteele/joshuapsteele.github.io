@@ -13,10 +13,10 @@ I know I’m not alone in this, but the past few years have been pretty rough fo
 
 - I’ve gained at least 50 pounds.
 - I had a fun part-time gig as a managing editor come to an end.
-- I’ve come to terms with some [long-term depression and anxiety](https://joshuapsteele.com/its-time-to-get-some-help/).
+- I’ve come to terms with some [long-term depression and anxiety](/its-time-to-get-some-help/).
 - I had a job offer ripped out from under me.
-- I [hit pause](https://joshuapsteele.com/its-official-im-hitting-pause-on-my-ph-d-for-a-year/) on and eventually dropped out of my Ph.D. program.
-- I’ve [resigned from ordained ministry in the ACNA](https://joshuapsteele.com/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/), my previous denomination.
+- I [hit pause](/its-official-im-hitting-pause-on-my-ph-d-for-a-year/) on and eventually dropped out of my Ph.D. program.
+- I’ve [resigned from ordained ministry in the ACNA](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/), my previous denomination.
 
 Sure, some things have gone well. I’ve got a loving wife (who’s a superhero) and three healthy children. I’ve got a new career (as a software developer) that I very much enjoy. We’ve got a roof over our heads. I make more money now than I ever have.
 

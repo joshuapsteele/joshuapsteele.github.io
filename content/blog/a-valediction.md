@@ -144,4 +144,4 @@ on which we must embark.
 
 ---
 
-(For another original poem of mine, check out [“From a Grateful Son,”](https://joshuapsteele.com/mothers-day-poem/) which I wrote for my mother on Mother’s Day in 2009.)
+(For another original poem of mine, check out [“From a Grateful Son,”](/mothers-day-poem/) which I wrote for my mother on Mother’s Day in 2009.)

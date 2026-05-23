@@ -30,7 +30,7 @@ But first, the objections:
 
 See, at first glance, the big idea above seems ridiculous. God is faithful? Have you seen the world recently? It’s corrupt to the core. Idolatry, sexual immorality, violence, deception, hostility, etc. Because people refused to believe that God is who he says he is, Sin and Death have infected and affected every layer of human existence. If God is truly righteous, why is his world so unrighteous?
 
-(For a theological essay about what the Bible is and why it’s important, read [this piece.](https://joshuapsteele.com/on-scripture/))
+(For a theological essay about what the Bible is and why it’s important, read [this piece.](/on-scripture/))
 
 # Romans 2:1-29
 

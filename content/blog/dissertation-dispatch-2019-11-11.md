@@ -84,11 +84,11 @@ Now, the immediate challenge that a “Barth, Bonhoeffer, and the Bible” proje
 
 So, I need some kind of delimiter, something that helps me focus on a particular subset of Barth and Bonhoeffer’s biblical material. For various reasons, I’ve chosen the theological critique of religion as my delimiter/focus/filter.
 
-For one thing, as I wrote in [my “elevator pitch” for the dissertation](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/):
+For one thing, as I wrote in [my “elevator pitch” for the dissertation](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/):
 
 > My project traces its origins to a single classroom discussion question in the Spring of 2015. The question was this: “In what ways is Bonhoeffer’s understanding of religion similar to, and different from, that of Barth?”
 
-This discussion question led me to write a paper that I would later use as my writing sample when applying to PhD programs: [“To Be or Not To Be Religious: A Clarification of Karl Barth’s and Dietrich Bonhoeffer’s Divergence and Convergence Regarding Religion.”](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/)
+This discussion question led me to write a paper that I would later use as my writing sample when applying to PhD programs: [“To Be or Not To Be Religious: A Clarification of Karl Barth’s and Dietrich Bonhoeffer’s Divergence and Convergence Regarding Religion.”](/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/)
 
 Here’s an abstract for that paper:
 

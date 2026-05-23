@@ -27,11 +27,11 @@ However, once I got accepted into a Ph.D. program (and realized that I needed to
 
 While a full-time Ph.D. student, I got some basic web design experience as the Managing Editor of a website. Most of my time was spent using WordPress, but I knew just enough HTML and CSS to be dangerous (i.e., to fix small problems).
 
-Suffice it to say that [the Ph.D.](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) did not go as planned. (More on that some other time.) Neither did that part-time website job. So, after months of searching unsuccessfully for church (or church-adjacent) work, I resurrected the idea of teaching myself how to code. I dove back into freeCodeCamp’s curriculum and started chipping away.
+Suffice it to say that [the Ph.D.](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) did not go as planned. (More on that some other time.) Neither did that part-time website job. So, after months of searching unsuccessfully for church (or church-adjacent) work, I resurrected the idea of teaching myself how to code. I dove back into freeCodeCamp’s curriculum and started chipping away.
 
 But it was slow going. Getting a tech job seemed like an impossible dream. And, although there’s a TON of information online, I desperately craved having teachers and fellow students I could talk to. (I’m a big fan of asking questions. All the time.) I wanted some personal help in order to put things into context, to see the big picture and the path forward to a job.
 
-When I first started learning how to code again, there were always enough church-related job opportunities to keep me distracted from coding. After all, I had studied the Bible and theology for over a decade. My training was church-focused ([just look at my C.V.](https://joshuapsteele.com/portfolio/cv/)). So, if there were a church-focused job out there for me, obviously I should focus on finding it. Right?
+When I first started learning how to code again, there were always enough church-related job opportunities to keep me distracted from coding. After all, I had studied the Bible and theology for over a decade. My training was church-focused ([just look at my C.V.](/portfolio/cv/)). So, if there were a church-focused job out there for me, obviously I should focus on finding it. Right?
 
 After a particularly devastating disappointment (I was offered a church-adjacent marketing position that was then rescinded within 48 hours), I decided to go all-in on a coding bootcamp.
 
@@ -51,7 +51,7 @@ HOWEVER, it’s not for everyone. I would only recommend a bootcamp if you are a
 
 If you’re considering doing a bootcamp, [take Tech Elevator’s Coding Aptitude Test for free](https://www.techelevator.com/coding-aptitude-test/)! And dive into free “learn to code” resources online (like [freeCodeCamp](https://www.freecodecamp.org/) or [The Odin Project](https://www.theodinproject.com/)) to see if you like the kind of thinking that’s required to do software development!
 
-That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use [the contact form](https://joshuapsteele.com/contact/) to email me.)
+That’s all for now, but I plan to keep blogging about my journey into tech. So, if you’ve got any questions you’d like me to answer, please let me know in a comment below! (Or use [the contact form](/contact/) to email me.)
 
 ---
 

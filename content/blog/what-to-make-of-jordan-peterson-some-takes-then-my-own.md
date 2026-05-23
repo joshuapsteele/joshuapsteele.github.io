@@ -13,7 +13,7 @@ tags:
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
 ---
 
-*UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/)*
+*UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](/two-more-pieces-about-jordan-peterson/)*
 
 If I remember correctly, I first heard of and listened to Jordan Peterson on [an episode of The Art of Manliness podcast](https://www.artofmanliness.com/2017/08/31/podcast-335-using-power-myths-live-flourishing-life/). (Or perhaps it was [this episode](https://www.artofmanliness.com/2018/02/06/12-rules-for-life-jordan-peterson-interview/).)
 

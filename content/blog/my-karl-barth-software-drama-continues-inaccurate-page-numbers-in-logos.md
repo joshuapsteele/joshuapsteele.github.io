@@ -11,7 +11,7 @@ title: 'My Karl Barth Software Drama Continues: Inaccurate Page Numbers in Logos
 url: /my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos/
 ---
 
-Previously, I wrote about how [the Scripture search tool in the Digital Karl Barth Library was broken](https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/). Thankfully, it [appears to have been fixed](https://joshuapsteele.com/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/) (although it still has issues). This means I can search Barth’s “Collected Edition” (Gesamtausgabe) if needed.
+Previously, I wrote about how [the Scripture search tool in the Digital Karl Barth Library was broken](/whats-gone-wrong-with-the-digital-karl-barth-library/). Thankfully, it [appears to have been fixed](/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/) (although it still has issues). This means I can search Barth’s “Collected Edition” (Gesamtausgabe) if needed.
 
 However, I’m now having some issues with the copy of [Barth’s Church Dogmatics I purchased via Logos Bible Software](https://www.logos.com/product/5758/barths-church-dogmatics).
 

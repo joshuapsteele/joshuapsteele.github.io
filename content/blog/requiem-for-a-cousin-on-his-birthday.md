@@ -21,7 +21,7 @@ Another member of our family gone too soon.
 
 Two passages of Scripture came to mind as I thought about Eric today. 
 
-First, this one from Ecclesiastes (which I [previously wrote a bit about after the untimely death of my Uncle Tim](https://joshuapsteele.com/20150424my-uncle-timothy-steele/)).
+First, this one from Ecclesiastes (which I [previously wrote a bit about after the untimely death of my Uncle Tim](/20150424my-uncle-timothy-steele/)).
 
 > It is better to go to the house of mourning  
 > than to go to the house of feasting,  

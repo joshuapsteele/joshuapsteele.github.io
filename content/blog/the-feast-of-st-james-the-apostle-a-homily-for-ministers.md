@@ -78,7 +78,7 @@ Are we thankful, are we satisfied with our roles as servants within Christ’s C
 
 Are we willing to be “just” fishermen, even if it costs us our ambitions? Even if it costs us our lives?
 
-![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)
+![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)
 
 By God’s grace, **I hope so**.
 

@@ -29,7 +29,7 @@ Here’s a helpful video from [Farnam Street](https://www.fs.blog/mental-models/
 
 ## Examples of mental models
 
-For example, [the 80/20 Principle](https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/) (20% of causes lead to 80% of effects) and the Eisenhower Decision Matrix (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.
+For example, [the 80/20 Principle](/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/) (20% of causes lead to 80% of effects) and the Eisenhower Decision Matrix (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.
 
 Another famous mental model is [Occam’s Razor](https://www.fs.blog/2017/05/mental-model-occams-razor/), the idea that the simplest hypothesis is preferable.
 

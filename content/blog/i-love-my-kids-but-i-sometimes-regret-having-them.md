@@ -13,7 +13,7 @@ I love my kids, but I sometimes regret having them.
 
 Pardon the clickbait-y title and opening sentence. But are we parents allowed to say that? Are we allowed to feel both of those things at once?
 
-We’ve got a 6-year-old, a 4-year-old, and an almost-2-year-old. And, no, I don’t actually begrudge them their existence! I want what’s best for their lives and futures. And don’t get me wrong; [there are moments of laughter, poignancy, joy, etc.](https://joshuapsteele.com/10-things-i-love-about-my-kids/)
+We’ve got a 6-year-old, a 4-year-old, and an almost-2-year-old. And, no, I don’t actually begrudge them their existence! I want what’s best for their lives and futures. And don’t get me wrong; [there are moments of laughter, poignancy, joy, etc.](/10-things-i-love-about-my-kids/)
 
 But they’re also driving me crazy.
 
@@ -51,4 +51,4 @@ I’ll close with another quote from Saxbe’s opinion piece:
 
 Indeed. So let’s give all our kids, and the stressed-out parents we know and love, a big hug today. And think about how we can help raise the next generations — with minimal regrets.
 
-(P.S. It’s not all doom-and-gloom at the Steele-haus. Here are [10 things I love about my kids](https://joshuapsteele.com/10-things-i-love-about-my-kids/).)
+(P.S. It’s not all doom-and-gloom at the Steele-haus. Here are [10 things I love about my kids](/10-things-i-love-about-my-kids/).)

@@ -26,7 +26,7 @@ The definitive statement of trinitarian belief is the Niceno-Constantinopolitan 
 
 One in three, three in one: Father, Son, and Spirit – each Person equally and essentially God, and yet each distinct from the other two.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](/theology-outline/)“)
 
 ## Is the Trinity in the Bible? – Canonical Presence
 

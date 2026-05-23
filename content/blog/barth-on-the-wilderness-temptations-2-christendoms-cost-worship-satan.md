@@ -11,9 +11,9 @@ tags:
 url: /barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan/
 ---
 
-[Yesterday I posted the beginning of Karl Barth's exegesis of Christ's wilderness temptations](https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread). He does a masterful job of explaining how Christ was tempted, not to violate the Law or commit a moral infraction, but to abandon his role as the obedient, Perfect Penitent. Put differently, Barth clarifies that Jesus' sinlessness is not a vague moral perfection, but rather obedience and repentance.
+[Yesterday I posted the beginning of Karl Barth's exegesis of Christ's wilderness temptations](/barth-on-the-wilderness-temptations-1-stones-into-bread). He does a masterful job of explaining how Christ was tempted, not to violate the Law or commit a moral infraction, but to abandon his role as the obedient, Perfect Penitent. Put differently, Barth clarifies that Jesus' sinlessness is not a vague moral perfection, but rather obedience and repentance.
 
-Christ's [first temptation was to turn stones into bread](https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread), thereby using divine power as a "technical instrument" to save and maintain his own life. Today's temptation contains an incisive critique of Christendom's desire for influence, relevance, and power.
+Christ's [first temptation was to turn stones into bread](/barth-on-the-wilderness-temptations-1-stones-into-bread), thereby using divine power as a "technical instrument" to save and maintain his own life. Today's temptation contains an incisive critique of Christendom's desire for influence, relevance, and power.
 
 **<u>The Second Temptation: Christendom's Cost — Worship Satan (CD IV/1, 262)</u>**
 

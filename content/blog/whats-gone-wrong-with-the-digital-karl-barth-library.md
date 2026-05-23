@@ -12,7 +12,7 @@ title: What's gone wrong with the Digital Karl Barth Library?
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
 ---
 
-As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion”)](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/), I’m longing for the day when:
+As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion”)](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/), I’m longing for the day when:
 
 - Karl Barth’s [*Gesamtausgabe* (Collected Edition)](http://barth.ptsem.edu/research/kb-gesamtausgabe) is finished.
 - They are translated into a critical English edition.

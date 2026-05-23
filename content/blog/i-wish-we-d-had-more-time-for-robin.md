@@ -20,7 +20,7 @@ Why did this happen? Who drives drunk at 6am? Why Robin? Why couldn't guy have h
 
 The questions keep coming. And, though the temptation is strong to rush to answers, I don't think we should do that.
 
-Evil and Death are senseless. As I [said in a sermon once](https://joshuapsteele.com/the-hope-of-the-holy-innocents/):
+Evil and Death are senseless. As I [said in a sermon once](/the-hope-of-the-holy-innocents/):
 
 > Evil is incomprehensible. It is the impossible possibility—a headlong dive, away from the source of Life and Light, into the arms of nothingness and darkness. It makes no sense! Therefore, some neat and tidy "answers" to the problem of evil can themselves be evil—by trying to explain that which cannot be explained! Don't offer or seek such "answers." It's better to remain silent, or to cry out "Why, God? Why?!" Job did. Jesus did.
 

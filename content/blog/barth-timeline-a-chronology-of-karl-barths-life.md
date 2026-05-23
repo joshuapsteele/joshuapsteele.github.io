@@ -10,7 +10,7 @@ title: 'Barth Timeline: A Chronology of Karl Barth''s Life'
 url: /barth-timeline-a-chronology-of-karl-barths-life/
 ---
 
-I really like the [timelines of Bonhoeffer’s life](https://joshuapsteele.com/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/) that are available in *[The Cambridge Companion to Dietrich Bonhoeffer](https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20)* and in [Bethge’s ](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20)*[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20).* (Those last two links are Amazon affiliate links.)
+I really like the [timelines of Bonhoeffer’s life](/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/) that are available in *[The Cambridge Companion to Dietrich Bonhoeffer](https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20)* and in [Bethge’s ](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20)*[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20).* (Those last two links are Amazon affiliate links.)
 
 However, I’m having a much harder time finding comparable timelines for the life of Karl Barth. The information is all there, but there’s no comparable table/list of dates in either *[The Cambridge Companion to Karl Barth](https://www.amazon.com/dp/0521585600?tag=joshuapsteele-20)* or [Busch’s ](https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20)*[Karl Barth: His Life from Letters and Autobiographical Texts](https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20)*. (Again, Amazon affiliate links.)
 

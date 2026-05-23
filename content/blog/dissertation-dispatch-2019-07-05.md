@@ -13,13 +13,13 @@ tags:
 url: /dissertation-dispatch-2019-07-05/
 ---
 
-I got my [dissertation proposal](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) approved in the Spring of 2018. Working title: “Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”
+I got my [dissertation proposal](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) approved in the Spring of 2018. Working title: “Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”
 
-Barth + Bonhoeffer + Bible + Religion. “Barth, Bonhoeffer, and Bible” is the gap/niche. But that would be too much to tackle comprehensively in a dissertation. So “religion” is designed to be the delimiter—specifically, [Barth’s and Bonhoeffer’s theological critiques of religion](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/).
+Barth + Bonhoeffer + Bible + Religion. “Barth, Bonhoeffer, and Bible” is the gap/niche. But that would be too much to tackle comprehensively in a dissertation. So “religion” is designed to be the delimiter—specifically, [Barth’s and Bonhoeffer’s theological critiques of religion](/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/).
 
-Dissertation-wise, I didn’t make as much progress as I would’ve liked to during the 2018–19 school year. However, I [became a father](https://joshuapsteele.com/eva-joy-steele-a-birth-story/) and I passed all my courses. So I’m counting that as a win.
+Dissertation-wise, I didn’t make as much progress as I would’ve liked to during the 2018–19 school year. However, I [became a father](/eva-joy-steele-a-birth-story/) and I passed all my courses. So I’m counting that as a win.
 
-Nevertheless, I *did* make some progress taking a look at what Barth and Bonhoeffer had to say about Genesis 1–3. Their [interpretations of the “tree of the knowledge of good and evil”](https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/) in Genesis 2–3 proved especially interesting.
+Nevertheless, I *did* make some progress taking a look at what Barth and Bonhoeffer had to say about Genesis 1–3. Their [interpretations of the “tree of the knowledge of good and evil”](/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/) in Genesis 2–3 proved especially interesting.
 
 Where does that leave me now? Well, my “Genesis 1–3” chapter has ballooned so much that I’m wondering if it might be best to make Genesis 1–3 the centerpiece/focus of the dissertation. I think that the necessarily broad net that I cast in my proposal (Genesis, Prophets, Gospels, Romans) was too broad.
 

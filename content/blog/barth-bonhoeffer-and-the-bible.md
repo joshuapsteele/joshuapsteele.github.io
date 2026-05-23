@@ -50,7 +50,7 @@ I want to follow John Webster’s suggestion that, in order to understand Barth 
 
 But I want to go beyond Webster’s essay in order to read specific biblical passages with Barth and Bonhoeffer. To get into the weeds, as it were, in the hopes of
 
-1. Clarifying the Barth-Bonhoeffer relationship (especially [the apparent differences in their theological critiques of religion](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/))
+1. Clarifying the Barth-Bonhoeffer relationship (especially [the apparent differences in their theological critiques of religion](/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/))
 2. Learning how to read the Bible theologically for the benefit of the Church today.
 
 ## Barth, Bonhoeffer, and the Bible: Where to Begin?
@@ -63,7 +63,7 @@ After all, the quantity of Barth’s biblical material is massive. And, even tho
 
 Genesis 1–3 is perhaps the best place to begin. Not only is it the beginning of the biblical canon, but both Barth and Bonhoeffer wrote about Genesis 1–3 at length. Furthermore, Bonhoeffer’s interpretation of the *imago Dei* gets mentioned by Barth in the *Church Dogmatics*. And the various issues discussed in relationship to Genesis 1–3 are quite central to both theologians’ theological projects.
 
-I have already demonstrated connections between (1) both theologians’ interpretations of Genesis 1–3 and (2) their theological critiques of religion. Furthermore, [I’ve explored the connections between (1) their interpretations of the tree of the knowledge of good and evil and (2) their similarities and differences when it comes to religion](https://joshuapsteele.com/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/).
+I have already demonstrated connections between (1) both theologians’ interpretations of Genesis 1–3 and (2) their theological critiques of religion. Furthermore, [I’ve explored the connections between (1) their interpretations of the tree of the knowledge of good and evil and (2) their similarities and differences when it comes to religion](/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/).
 
 ## Other Possibilities? 
 

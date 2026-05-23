@@ -15,7 +15,7 @@ I’m posting my answers to these software engineering questions here, just in c
 
 ## How did you become interested in software engineering?
 
-I wrote a bit about [my coding bootcamp journey](https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/) in a previous post.
+I wrote a bit about [my coding bootcamp journey](/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/) in a previous post.
 
 Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.
 
@@ -129,4 +129,4 @@ Need to get your sh\*t together, life-wise? Check out these books below. Start w
 
 ---
 
-I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the [contact form on my website](https://joshuapsteele.com/contact/).
+I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the [contact form on my website](/contact/).

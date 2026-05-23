@@ -20,7 +20,7 @@ College gave me a **love for Christ’s gospel and Christ’s Church** – which
 
 Plus, I met my wife there! 🙂
 
-![pablo (10)](https://joshuapsteele.com/wp-content/uploads/2016/05/pablo-10-300x300.png)
+![pablo (10)](/wp-content/uploads/2016/05/pablo-10-300x300.png)
 
 And yet, college also ***left a bad taste in my mouth***.
 

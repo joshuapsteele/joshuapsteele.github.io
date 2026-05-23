@@ -20,7 +20,7 @@ With that in mind, “Rapoport’s Rules” and “Adler’s Advice” seem like
 
 ## Rapoport’s Rules
 
-I’ve [posted about these rules before on my blog](https://joshuapsteele.com/use-rapoports-rules-for-better-conversations-and-disagreements/). Click that link for a bit more information. Here are the rules.
+I’ve [posted about these rules before on my blog](/use-rapoports-rules-for-better-conversations-and-disagreements/). Click that link for a bit more information. Here are the rules.
 
 When critiquing someone else:
 

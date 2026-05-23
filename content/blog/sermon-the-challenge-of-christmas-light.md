@@ -19,13 +19,13 @@ I preached this sermon on December 27, 2015 at [St. Peter’s Anglican Church](h
 
 My sermon text was that day’s Gospel lesson, [1 John 1:1-9, expanded to include 2:1-2](https://www.biblegateway.com/passage/?search=1+John+1%3A1-2%3A2&version=ESV). But I also reference the Old Testament lesson, [Exodus 33:18-23](http://www.lectionarypage.net/YearABC/HolyDays/John.html#ot1).
 
-You can read the sermon manuscript here: [The Challenge of Christmas Light Sermon Manuscript](https://joshuapsteele.com/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf "The Challenge of Christmas Light Sermon Manuscript").
+You can read the sermon manuscript here: [The Challenge of Christmas Light Sermon Manuscript](/wp-content/uploads/2016/01/the-challenge-of-christmas-light-st-john-2015.pdf "The Challenge of Christmas Light Sermon Manuscript").
 
 And you can listen to the audio here (note: it begins just as I finish reading the collect for the Feast of St. John and the collect for the First Sunday after Christmas):
 
 {{< audio src="http://stpetersbhm.org/wp-content/uploads/sermons/2016/01/12-27-15JSTheChallengeofChristmasLight.mp3" >}}
 
-Finally, [you can read/listen to my other sermons here](https://joshuapsteele.com/sermons/).
+Finally, [you can read/listen to my other sermons here](/sermons/).
 
 Grace and peace,
 

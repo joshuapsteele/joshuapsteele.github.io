@@ -52,7 +52,7 @@ I think here of parents in Manchester this week who were forced to say goodbye t
 
 Goodbyes suck, because they leave our stories unfinished.
 
-(Note: For other sermons, check out [my Sermons page](https://joshuapsteele.com/sermons/).)
+(Note: For other sermons, check out [my Sermons page](/sermons/).)
 
 ## WHAT ABOUT THE ASCENSION? DOES IT SUCK?
 

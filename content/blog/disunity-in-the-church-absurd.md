@@ -28,7 +28,7 @@ Second, almost two decades later, Barth described as “impossible” that which
 
 In order to describe in Barthian terms what it means for church disunity to be possible only as sin is possible, the purpose of this paper is to correlate Barth’s anthropological concept of sin as ontological impossibility with its parallel ecclesiological concept: disunity as ecclesiological impossibility. I will then conclude by locating this discussion within Barth’s own ecumenical vision – with an eye toward informing and motivating further ecumenical efforts.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](/theology-outline/)“)
 
 ### SIN AS ONTOLOGICAL IMPOSSIBILITY
 

@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=oerm5Q\_9u2A
 
 Currently, podcasts are one of my very favorite ways to consume information about a wide variety of topics. Sure, gun to my head, I’ll choose books over podcasts as a way to learn. However, unlike books (or videos), you can easily listen to podcasts while doing other things – whether folding laundry, washing dishes, or going for a run/walk.
 
-(Note: as I mentioned in [my list of favorite tools and apps](https://joshuapsteele.com/tools), [Overcast](https://overcast.fm/) is my current favorite podcast player. Although, there are plenty of other worthy podcast players/managers to check out!)
+(Note: as I mentioned in [my list of favorite tools and apps](/tools), [Overcast](https://overcast.fm/) is my current favorite podcast player. Although, there are plenty of other worthy podcast players/managers to check out!)
 
 There are no shortage of podcasts, or lists of best podcasts, for that matter. However, here are my current favorites.
 
@@ -50,7 +50,7 @@ If you’ve got questions about anything related to the Christian tradition, che
 
 I’ve become somewhat of a Tim Ferriss junkie in the past two years. In addition to this podcast – which features long-form interviews with “top performers,” in which Tim distils tips, tricks, habits, and practices for the common person – Ferriss’ books are well worth checking out (Affiliate LInks: [The 4-Hour Workweek](http://amzn.to/2uTWui7); The [4-Hour Body](http://amzn.to/2uxKdxq); The [4-Hour Chef](http://amzn.to/2h0dtJT); [Tools of Titans](http://amzn.to/2h0dwp3)) . He’s great at teaching *[metalearning](https://en.wikipedia.org/wiki/Meta_learning)* – how to learn how to learn!
 
-(Note: Tim Ferriss is how I found out about [kettlebells](/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](https://joshuapsteele.com/tools) for personal fitness.)
+(Note: Tim Ferriss is how I found out about [kettlebells](/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](/tools) for personal fitness.)
 
 ## [Coffee Break German](https://radiolingua.com/coffeebreakgerman/)
 

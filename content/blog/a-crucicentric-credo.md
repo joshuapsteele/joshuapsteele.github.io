@@ -67,7 +67,7 @@ The Trinity is one God, not three, because it is concerned with “a relationshi
 
 And yet, we are still faced with the difficulty of the Incarnation: **how can the eternal God be so temporal, the transcendent One so immanent?**
 
-(For more on the Trinity, see my essay: [“The Holy Trinity: What Is It? (Why) Is It Important?”](https://joshuapsteele.com/holy-trinity/))
+(For more on the Trinity, see my essay: [“The Holy Trinity: What Is It? (Why) Is It Important?”](/holy-trinity/))
 
 ## ELECTION & CREATION
 

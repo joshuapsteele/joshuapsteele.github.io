@@ -31,8 +31,8 @@ Most recently, I got to compose a “crisis sermon” for Dr. Webster’s Preach
 
 This was a stretching experience, to say the least. I pray I never have to preach this sermon in real life, but it was a good reminder to preach the good news to myself that God hates death more than we do.
 
-You can listen to and/or read “The Refreshment of Forgiveness,” “Psalm 1 for Screw-Ups,” and “Lamenting into Worship,” along with my other sermons [at the **Sermons Page** of this site](https://joshuapsteele.com/sermons/).
+You can listen to and/or read “The Refreshment of Forgiveness,” “Psalm 1 for Screw-Ups,” and “Lamenting into Worship,” along with my other sermons [at the **Sermons Page** of this site](/sermons/).
 
-Now, there are much better preachers out there in the world, so if you’re short on time, go listen to them preach! But, if you’ve got the time to give these sermons a listen, I would greatly appreciate your [**feedback** ](https://joshuapsteele.com/contact/)as I try to improve as a preacher and teacher of God’s Word!
+Now, there are much better preachers out there in the world, so if you’re short on time, go listen to them preach! But, if you’ve got the time to give these sermons a listen, I would greatly appreciate your [**feedback** ](/contact/)as I try to improve as a preacher and teacher of God’s Word!
 
 ~Josh

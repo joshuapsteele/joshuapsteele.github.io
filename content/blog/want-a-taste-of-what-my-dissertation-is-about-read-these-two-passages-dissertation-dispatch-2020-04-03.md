@@ -15,7 +15,7 @@ url: /want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-diss
 
 ## What does “religion” mean? Great question!
 
-I’m writing [my dissertation on Barth, Bonhoeffer, the Bible, and “religion.”](https://joshuapsteele.com/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) However, getting clear on just what Barth and Bonhoeffer meant by “religion” is a huge challenge. It’s what I devoted [my entire writing sample](https://joshuapsteele.com/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/) to examining, and I plan to devote an entire chapter of my dissertation to the topic.
+I’m writing [my dissertation on Barth, Bonhoeffer, the Bible, and “religion.”](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) However, getting clear on just what Barth and Bonhoeffer meant by “religion” is a huge challenge. It’s what I devoted [my entire writing sample](/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/) to examining, and I plan to devote an entire chapter of my dissertation to the topic.
 
 Neither Barth nor Bonhoeffer used the word “religion” in the way that we’re prone to use the word in everyday speech today. [According to Merriam-Webster, “religion” means](https://www.merriam-webster.com/dictionary/religion):
 
@@ -70,7 +70,7 @@ McGrath gives the following prefatory remarks to the Bonhoeffer excerpt:
 
 > In this letter from Tegel prison, in which he was imprisoned during the final stages of the Second World War, the German theologian and pastor Dietrich Bonhoeffer (1906–45) spoke of the new challenge to Christianity in a world in which the existence of God is not taken for granted. He identified a central theme of Christianity, which distinguishes it from all other religions, in its focus in the sufferings of God in Christ. Bonhoeffer was one of the most vigorous critics of the idea that human “religiosity” is a point of contact for the gospel. The theme of a suffering God was of major importance to Bonhoeffer, as this passage makes clear. Bonhoeffer was executed at Flossenbürg concentration camp in April 1945. (McGrath, 45)
 
-Here's the excerpt from Bonhoeffer: [McGrath_2017_Bonhoeffer-on-God-in-a-secular-world (PDF)](https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf)
+Here's the excerpt from Bonhoeffer: [McGrath_2017_Bonhoeffer-on-God-in-a-secular-world (PDF)](/wp-content/uploads/2020/04/McGrath_2017_Bonhoeffer-on-God-in-a-secular-world.pdf)
 
 I've drawn the text below from my Logos edition of Bonhoeffer's works. This is from Bonhoeffer’s letter to Eberhard Bethge on July 16, 1944.
 
@@ -90,7 +90,7 @@ Here’s McGrath’s prefatory remarks for the Barth passage:
 
 > The Swiss Protestant theologian Karl Barth (1886–1968) developed a distinction between “religion” and “revelation,” arguing that the former is a human attempt at self-justification and the latter is God’s contradiction of human preconceptions about God through divine grace. Barth argues that Christianity loses sight of its distinctive identity if it allows itself to become a “religion,” which Barth interprets as a human construction. (McGrath, 496)
 
-Here's the excerpt(s) from Barth: [McGrath_2017_Barth-on-Religion (PDF)](https://joshuapsteele.com/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf)
+Here's the excerpt(s) from Barth: [McGrath_2017_Barth-on-Religion (PDF)](/wp-content/uploads/2020/04/McGrath_2017_Barth-on-Religion.pdf)
 
 I've drawn the text below from my Logos edition of Barth's *Church Dogmatics*. These passages come from §17, “The Revelation of God as the *Aufhebung* (traditionally translated “abolition”) of Religion.” It might be helpful to note that the *Leitsatz* (the thesis statement, if you will) for this section reads: “The revelation of God in the outpouring of the Holy Spirit is the judging but also reconciling presence of God in the world of human religion, that is, in the realm of man’s attempts to justify and to sanctify himself before a capricious and arbitrary picture of God. The Church is the locus of true religion, so far as through grace it lives by grace.”
 

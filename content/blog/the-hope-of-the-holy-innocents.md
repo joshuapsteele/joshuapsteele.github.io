@@ -16,7 +16,7 @@ url: /the-hope-of-the-holy-innocents/
 
 {{< audio src="/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3" >}}
 
-(PDF: [The Hope of the Holy Innocents](https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))
+(PDF: [The Hope of the Holy Innocents](/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))
 
 [Today is December 28](http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
 

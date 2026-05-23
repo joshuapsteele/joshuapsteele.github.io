@@ -120,7 +120,7 @@ Above all, perhaps, we must be willing to eschew the idolatry in our hearts and 
 
 Then, and only then, will we be able to reduce our extravagant standards of living, give to the poor from our excess resources out of genuine generosity, and flourish as human beings by fulfilling our primary purpose: exalting and making much of our Maker.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I believe?](/theology-outline/)“)
 
 ---
 

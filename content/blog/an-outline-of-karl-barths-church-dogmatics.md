@@ -14,7 +14,7 @@ url: /an-outline-of-karl-barths-church-dogmatics/
 
 If you're trying to grasp the contours and contents of Karl Barth's massive *[Church Dogmatics](https://www.logos.com/product/5758/barths-church-dogmatics),* it helps to have an outline! Here's a helpful PDF version, with subheadings included, from Princeton's [Center for Barth Studies](http://barth.ptsem.edu).
 
-[Barth\_Outline of Church Dogmatics](https://joshuapsteele.com/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)
+[Barth\_Outline of Church Dogmatics](/wp-content/uploads/2019/09/Barth_Outline-of-Church-Dogmatics.pdf)
 
 Below is a version that I've created from my Logos edition of *Church Dogmatics*. It's the version found in the Index (CD V/1, 1–13).
 

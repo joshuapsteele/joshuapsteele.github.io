@@ -26,7 +26,7 @@ Practically, this providential role has worked itself out in various ways throug
 
 Theologically, the authority of Scripture is inescapably **trinitarian** in nature and **ecclesiological** in implication.
 
-(For an explanation of the Trinity, see my essay "[Trinity: What is it? (Why) Is it important?](https://joshuapsteele.com/holy-trinity/)")
+(For an explanation of the Trinity, see my essay "[Trinity: What is it? (Why) Is it important?](/holy-trinity/)")
 
 ## WHAT SCRIPTURE IS FOR CHRISTIANS
 

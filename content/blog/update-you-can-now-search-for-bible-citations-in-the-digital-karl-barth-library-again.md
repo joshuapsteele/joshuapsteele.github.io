@@ -12,7 +12,7 @@ title: 'UPDATE: You can now search for Bible citations in the Digital Karl Barth
 url: /update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/
 ---
 
-I [recently wrote](https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/) about a problem I found in [Alexander Street Press’](https://alexanderstreet.com/) [Digital Karl Barth Library](https://alexanderstreet.com/products/digital-karl-barth-library): the Scripture citation search function no longer worked!
+I [recently wrote](/whats-gone-wrong-with-the-digital-karl-barth-library/) about a problem I found in [Alexander Street Press’](https://alexanderstreet.com/) [Digital Karl Barth Library](https://alexanderstreet.com/products/digital-karl-barth-library): the Scripture citation search function no longer worked!
 
 I’m happy to report that, though the DKBL is still far from user-friendly, the Bible search *works* again!
 

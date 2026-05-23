@@ -26,7 +26,7 @@ While reading Beth Felker Jones’ [*Practicing Christian Doctrine: An Introduct
 > 7. How do these theological claims relate to the life of faith? Doe you bring other questions from your experience?
 > 8. If this theological proposal were taken seriously, how would it shape Christian practice? Would it affect our participation in spiritual disciplines? Our understanding of faithful living? Our practice of evangelism? Our life as the church?
 
-Add this to my [1 simple trick to read faster](https://joshuapsteele.com/one-simple-trick-helps-read-faster-ph-d-student/), [4 questions to ask while reading a book](/heres-the-template-i-use-to-take-notes-on-books-i-read/), and [3 questions to ask while reading the Bible](https://joshuapsteele.com/questions-to-ask-when-you-study-bible/).
+Add this to my [1 simple trick to read faster](/one-simple-trick-helps-read-faster-ph-d-student/), [4 questions to ask while reading a book](/heres-the-template-i-use-to-take-notes-on-books-i-read/), and [3 questions to ask while reading the Bible](/questions-to-ask-when-you-study-bible/).
 
 ---
 

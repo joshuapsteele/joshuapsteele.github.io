@@ -1,284 +1,299 @@
+#!/usr/bin/env python3
+"""
+Check external HTTP(S) links in markdown files for breakage.
+
+Designed to minimize false positives:
+- Sends realistic browser headers (a bare bot User-Agent gets 403'd by many WAFs).
+- Throttles per-domain (one request at a time per host, with a minimum interval)
+  so we don't trip rate limiters; different domains are still checked in parallel.
+- Retries transient failures (timeouts, 429/503) with backoff before giving up.
+- Falls back from HEAD to GET when a host mishandles HEAD (403/405/network error).
+- Classifies results as DEAD (high-confidence, fix it) vs. BLOCKED/MANUAL
+  (403/429/503/999/SSL/timeout — the site probably exists but blocks bots).
+
+Amazon links and self-links (joshuapsteele.com) are skipped here; they have
+dedicated scripts (check-amazon-links.py, convert-internal-links.py).
+"""
+
 import os
 import re
 import time
+import json
+import random
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
-import json
 from datetime import date
 from pathlib import Path
+from threading import Lock
 from urllib.error import HTTPError, URLError
 from urllib.request import Request, urlopen
+from urllib.parse import urlparse
+
+# Domains handled by other scripts (excluded from this run).
+EXCLUDE_SUBSTRINGS = (
+    'amazon.', 'amzn.to', 'amzn.com', '://a.co/',
+    'joshuapsteele.com', 'joshuapsteele.github.io',
+)
+
+BROWSER_HEADERS = {
+    'User-Agent': ('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) '
+                   'AppleWebKit/537.36 (KHTML, like Gecko) '
+                   'Chrome/124.0.0.0 Safari/537.36'),
+    'Accept': ('text/html,application/xhtml+xml,application/xml;q=0.9,'
+               'image/avif,image/webp,image/apng,*/*;q=0.8'),
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Accept-Encoding': 'gzip, deflate',  # body is never read, so this is harmless
+    'Connection': 'keep-alive',
+    'Upgrade-Insecure-Requests': '1',
+}
+
+MIN_DOMAIN_INTERVAL = 1.5   # seconds between requests to the same host
+DEFAULT_TIMEOUT = 15
+DEFAULT_RETRIES = 2
+
+# Per-domain locks/timestamps for polite throttling across worker threads.
+_locks_guard = Lock()
+_domain_locks = {}
+_domain_last = {}
+
+
+def _get_domain_lock(domain):
+    with _locks_guard:
+        if domain not in _domain_locks:
+            _domain_locks[domain] = Lock()
+        return _domain_locks[domain]
+
+
+def _is_dns_failure(error):
+    if not error:
+        return False
+    e = error.lower()
+    return any(s in e for s in (
+        'name or service not known', 'nodename nor servname',
+        'no address associated', 'getaddrinfo failed',
+        'name resolution', 'temporary failure in name resolution',
+    ))
+
 
 def extract_external_links(content_dir):
-    """Extract all external HTTP(S) links from markdown files"""
+    """Extract external HTTP(S) links from markdown files."""
     external_links = defaultdict(list)
-    
-    for root, dirs, files in os.walk(content_dir):
+    for root, _dirs, files in os.walk(content_dir):
         for filename in files:
-            if filename.endswith('.md'):
-                filepath = os.path.join(root, filename)
-                # Make path relative for cleaner output
-                rel_path = filepath.replace(content_dir + '/', '')
-                
-                try:
-                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-                        content = f.read()
-                    
-                    # Find markdown links [text](url)
-                    md_links = re.findall(r'\[([^\]]*)\]\((https?://[^\)]+)\)', content)
-                    
-                    # Find HTML links
-                    html_links = re.findall(r'href=["\']((https?://[^"\']+))["\']', content)
-                    
-                    for text, url in md_links:
-                        # Clean up URL
-                        url = url.split()[0] if ' ' in url else url
-                        external_links[rel_path].append(('markdown', text, url))
-                    
-                    for url_match in html_links:
-                        url = url_match[0] if isinstance(url_match, tuple) else url_match
-                        url = url.split()[0] if ' ' in url else url
-                        external_links[rel_path].append(('html', '', url))
-                
-                except Exception as e:
-                    print(f"Error reading {filepath}: {e}")
-    
+            if not filename.endswith('.md'):
+                continue
+            filepath = os.path.join(root, filename)
+            rel_path = os.path.relpath(filepath, content_dir)
+            try:
+                with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
+                    content = f.read()
+            except Exception as e:
+                print(f"Error reading {filepath}: {e}")
+                continue
+
+            md_links = re.findall(r'\[([^\]]*)\]\((https?://[^)\s]+)', content)
+            html_links = re.findall(r'href=["\'](https?://[^"\']+)["\']', content)
+            for text, url in md_links:
+                external_links[rel_path].append(('markdown', text, url.rstrip('.,;')))
+            for url in html_links:
+                external_links[rel_path].append(('html', '', url))
     return external_links
 
-def check_url(url, timeout=10):
-    """Check if a URL is accessible"""
-    headers = {'User-Agent': 'Mozilla/5.0 (compatible; LinkChecker/1.0)'}
-    try:
-        request = Request(url, method='HEAD', headers=headers)
-        with urlopen(request, timeout=timeout) as response:
-            return url, response.status, None
-    except HTTPError as e:
-        if e.code < 400:
-            return url, e.code, None
-        try:
-            request = Request(url, method='GET', headers=headers)
-            with urlopen(request, timeout=timeout) as response:
-                return url, response.status, None
-        except HTTPError as get_error:
-            return url, get_error.code, None
-        except TimeoutError:
-            return url, None, "Timeout"
-        except URLError as get_error:
-            reason = getattr(get_error, 'reason', get_error)
-            return url, None, str(reason)[:100]
-        except Exception as get_error:
-            return url, None, str(get_error)[:100]
-    except TimeoutError:
-        return url, None, "Timeout"
-    except URLError as e:
-        reason = getattr(e, 'reason', e)
-        return url, None, str(reason)[:100]
-    except Exception as e:
-        return url, None, str(e)[:100]
 
-def check_links_parallel(links, max_workers=10):
-    """Check multiple URLs in parallel"""
-    unique_urls = set()
-    for file_links in links.values():
-        for link_type, text, url in file_links:
-            unique_urls.add(url)
-    
-    print(f"\nChecking {len(unique_urls)} unique URLs...")
-    print("This may take 10-30 minutes depending on the number of links.\n")
-    
+def _open(url, method, timeout):
+    """Single request. Returns (status, error)."""
+    req = Request(url, method=method, headers=BROWSER_HEADERS)
+    try:
+        with urlopen(req, timeout=timeout) as response:
+            return response.status, None
+    except HTTPError as e:
+        return e.code, None
+    except TimeoutError:
+        return None, "Timeout"
+    except URLError as e:
+        return None, str(getattr(e, 'reason', e))[:120]
+    except Exception as e:  # noqa: BLE001 - report anything else as an error string
+        return None, str(e)[:120]
+
+
+def check_url(url, timeout=DEFAULT_TIMEOUT, retries=DEFAULT_RETRIES):
+    """Check one URL with per-domain throttling, HEAD->GET fallback, and retries."""
+    domain = urlparse(url).netloc.lower()
+    lock = _get_domain_lock(domain)
+    with lock:
+        wait = MIN_DOMAIN_INTERVAL - (time.time() - _domain_last.get(domain, 0))
+        if wait > 0:
+            time.sleep(wait)
+        try:
+            status, error = None, None
+            for attempt in range(retries + 1):
+                status, error = _open(url, 'HEAD', timeout)
+                # Some hosts block or mishandle HEAD; retry the same URL with GET.
+                if status in (403, 405, 406, 501) or status is None:
+                    g_status, g_error = _open(url, 'GET', timeout)
+                    if g_status is not None or status is None:
+                        status, error = g_status, g_error
+                # Decide whether to retry.
+                if status is not None and status not in (429, 503):
+                    break
+                if status in (429, 503) and attempt < retries:
+                    time.sleep(2 * (attempt + 1) + random.random())
+                    continue
+                if status is None and not _is_dns_failure(error) and attempt < retries:
+                    time.sleep(1.5 * (attempt + 1) + random.random())
+                    continue
+                break
+            return url, status, error
+        finally:
+            _domain_last[domain] = time.time()
+
+
+def classify(status, error):
+    """Bucket a result as 'working', 'dead', or 'blocked' (manual verify)."""
+    if status is not None and 200 <= status < 400:
+        return 'working'
+    if status in (401, 403, 407, 429, 451, 999):
+        return 'blocked'
+    if status is not None and 500 <= status < 600:
+        return 'blocked'  # 5xx incl. 503 — often transient or bot defense
+    if status in (404, 410):
+        return 'dead'
+    if status is not None and status >= 400:
+        return 'dead'  # other 4xx
+    # No HTTP status -> network-level error
+    e = (error or '').lower()
+    if _is_dns_failure(error) or 'refused' in e or 'no route' in e:
+        return 'dead'
+    if 'ssl' in e or 'certificate' in e:
+        return 'blocked'
+    return 'blocked'  # timeouts and unknown errors -> manual verify
+
+
+def check_links_parallel(unique_urls, max_workers=10):
+    print(f"\nChecking {len(unique_urls)} unique URLs "
+          f"(per-domain throttled; this can take a while)...\n")
     results = {}
     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-        future_to_url = {executor.submit(check_url, url): url for url in unique_urls}
-        
-        completed = 0
-        for future in as_completed(future_to_url):
+        futures = {executor.submit(check_url, url): url for url in unique_urls}
+        done = 0
+        for future in as_completed(futures):
             url, status, error = future.result()
             results[url] = (status, error)
-            
-            completed += 1
-            if completed % 10 == 0:
-                print(f"Progress: {completed}/{len(unique_urls)} URLs checked ({(completed/len(unique_urls)*100):.1f}%)")
-            
-            time.sleep(0.1)  # Be nice to servers
-    
+            done += 1
+            if done % 25 == 0 or done == len(unique_urls):
+                print(f"  Progress: {done}/{len(unique_urls)} "
+                      f"({done / len(unique_urls) * 100:.0f}%)")
     return results
 
-if __name__ == "__main__":
+
+def main():
     print("=" * 70)
     print("EXTERNAL LINKS CHECKER")
     print("=" * 70)
-    
+
     print("\nExtracting external links from content...")
     external_links = extract_external_links('content/')
-    
-    total_links = sum(len(links) for links in external_links.values())
+    total_links = sum(len(v) for v in external_links.values())
+
+    all_urls = set()
+    for links in external_links.values():
+        for _t, _text, url in links:
+            all_urls.add(url)
+
+    skipped = {u for u in all_urls if any(s in u for s in EXCLUDE_SUBSTRINGS)}
+    to_check = sorted(all_urls - skipped)
     print(f"Found {total_links} external links across {len(external_links)} files")
-    
-    url_status = check_links_parallel(external_links, max_workers=10)
-    
-    print("\n" + "=" * 70)
-    print("ANALYSIS COMPLETE")
-    print("=" * 70)
-    
-    # Categorize results
-    broken_links = []
-    working_links = []
-    timeout_links = []
-    
+    print(f"Unique URLs: {len(all_urls)} | checking: {len(to_check)} | "
+          f"skipped (Amazon/self, handled elsewhere): {len(skipped)}")
+
+    url_status = check_links_parallel(to_check)
+
+    # Categorize per link occurrence.
+    buckets = {'working': [], 'dead': [], 'blocked': []}
     for filepath, links in external_links.items():
         for link_type, text, url in links:
+            if url in skipped:
+                continue
             status, error = url_status.get(url, (None, "Not checked"))
-            
-            if status is None:
-                if error == "Timeout":
-                    timeout_links.append({
-                        'file': filepath,
-                        'type': link_type,
-                        'text': text,
-                        'url': url,
-                        'status': None,
-                        'error': error
-                    })
-                else:
-                    broken_links.append({
-                        'file': filepath,
-                        'type': link_type,
-                        'text': text,
-                        'url': url,
-                        'status': None,
-                        'error': error
-                    })
-            elif status >= 400:
-                broken_links.append({
-                    'file': filepath,
-                    'type': link_type,
-                    'text': text,
-                    'url': url,
-                    'status': status,
-                    'error': error
-                })
-            else:
-                working_links.append({
-                    'file': filepath,
-                    'type': link_type,
-                    'text': text,
-                    'url': url,
-                    'status': status
-                })
-    
-    # Generate markdown report
+            cat = classify(status, error)
+            buckets[cat].append({
+                'file': filepath, 'type': link_type, 'text': text,
+                'url': url, 'status': status, 'error': error,
+            })
+
     report_path = Path('docs/AUDIT-06-external-links.md')
     data_path = Path('scripts/data/audit-external-links.json')
     report_path.parent.mkdir(parents=True, exist_ok=True)
     data_path.parent.mkdir(parents=True, exist_ok=True)
 
+    def write_section(f, title, items, blurb):
+        f.write(f'## {title}\n\n')
+        f.write(f'{blurb}\n\n')
+        f.write(f'**Count:** {len(items)}\n\n')
+        by_file = defaultdict(list)
+        for it in items:
+            by_file[it['file']].append(it)
+        for filepath in sorted(by_file):
+            f.write(f'\n### {filepath}\n\n')
+            for it in by_file[filepath]:
+                label = f"Status {it['status']}" if it['status'] else "ERROR"
+                link = (f"`[{it['text']}]({it['url']})`" if it['text']
+                        else f"`{it['url']}`")
+                f.write(f"- **{label}**: {link}")
+                if it['error']:
+                    f.write(f"\n  - {it['error']}")
+                f.write('\n')
+        f.write('\n')
+
     with report_path.open('w') as f:
         f.write('# External Links Audit Report\n')
         f.write('## joshuapsteele.com Hugo Site\n\n')
-        f.write(f'**Audit Date:** {date.today().isoformat()}\n')
-        f.write(f'**Total Files Analyzed:** {len(external_links)}\n\n')
+        f.write(f'**Audit Date:** {date.today().isoformat()}\n\n')
+        f.write('Amazon and self (joshuapsteele.com) links are checked by '
+                '`check-amazon-links.py` and `convert-internal-links.py`.\n\n')
         f.write('---\n\n')
-        
-        f.write('## 📊 Summary Statistics\n\n')
-        f.write(f'- **Total external links:** {total_links}\n')
-        f.write(f'- **Unique URLs checked:** {len(url_status)}\n')
-        f.write(f'- **Working links:** {len(working_links)} ({len(working_links)/total_links*100:.1f}%)\n')
-        f.write(f'- **Broken/error links:** {len(broken_links)} ({len(broken_links)/total_links*100:.1f}%)\n')
-        f.write(f'- **Timeout links:** {len(timeout_links)} ({len(timeout_links)/total_links*100:.1f}%)\n\n')
-        
-        if broken_links:
-            f.write('---\n\n')
-            f.write('## ❌ Broken External Links\n\n')
-            f.write(f'**Total broken/inaccessible links:** {len(broken_links)}\n\n')
-            
-            # Group by file
-            by_file = defaultdict(list)
-            for item in broken_links:
-                by_file[item['file']].append(item)
-            
-            f.write(f'**Files affected:** {len(by_file)}\n\n')
-            
-            for filepath in sorted(by_file.keys()):
-                items = by_file[filepath]
-                f.write(f'\n### {filepath}\n\n')
-                f.write(f'**Broken links:** {len(items)}\n\n')
-                for item in items:
-                    status_str = f"Status {item['status']}" if item['status'] else "ERROR"
-                    f.write(f"- **{status_str}**: ")
-                    if item['text']:
-                        f.write(f"`[{item['text']}]({item['url']})`")
-                    else:
-                        f.write(f"`{item['url']}`")
-                    if item['error']:
-                        f.write(f"\n  - Error: {item['error']}")
-                    f.write('\n')
-        else:
-            f.write('---\n\n')
-            f.write('## ✅ All External Links Working!\n\n')
-            f.write('No broken external links found.\n\n')
-        
-        if timeout_links:
-            f.write('\n---\n\n')
-            f.write('## ⏱️  Timeout Links\n\n')
-            f.write(f'**Links that timed out:** {len(timeout_links)}\n\n')
-            f.write('These URLs took too long to respond. They may be working but slow, or temporarily unavailable.\n\n')
-            
-            # Show unique timeout URLs
-            timeout_urls = set(item['url'] for item in timeout_links)
-            for url in sorted(timeout_urls):
-                f.write(f'- `{url}`\n')
-        
-        f.write('\n---\n\n')
-        f.write('## 💡 Recommendations\n\n')
-        
-        if broken_links or timeout_links:
-            f.write('### Immediate Actions\n\n')
-            f.write('1. **Review broken links** - Some may have moved to new URLs\n')
-            f.write('2. **Use Internet Archive** - For historical references that are no longer available\n')
-            f.write('3. **Update or remove** - Fix URLs or remove dead links\n')
-            f.write('4. **Re-check timeout links** - They may work on retry\n\n')
-            
-            f.write('### Common Issues\n\n')
-            f.write('- **404 errors** - Page moved or deleted\n')
-            f.write('- **Connection errors** - Domain no longer exists\n')
-            f.write('- **Timeouts** - Server too slow or overloaded\n')
-            f.write('- **SSL errors** - Certificate issues\n\n')
-        
-        f.write('### Prevention\n\n')
-        f.write('1. Use archived versions for historical references\n')
-        f.write('2. Link to stable, authoritative sources when possible\n')
-        f.write('3. Run this check quarterly\n')
-        f.write('4. Consider using a link checker service\n\n')
-        
+        f.write('## Summary\n\n')
+        f.write(f'- Total external links: {total_links}\n')
+        f.write(f'- Unique URLs checked: {len(to_check)}\n')
+        f.write(f'- Skipped (Amazon/self): {len(skipped)}\n')
+        f.write(f'- Working: {len(buckets["working"])}\n')
+        f.write(f'- **Dead (action needed): {len(buckets["dead"])}**\n')
+        f.write(f'- Blocked / manual-verify: {len(buckets["blocked"])}\n\n')
         f.write('---\n\n')
-        f.write('*Generated by Phase 2, Task 2.2 of Content Audit*\n')
-    
-    # Save JSON data
-    json_data = {
+        write_section(
+            f, 'Dead links (action needed)', buckets['dead'],
+            'High-confidence breakage: DNS failure, connection refused, or 404/410. '
+            'These should be fixed (update the URL, use an Internet Archive snapshot, '
+            'or remove the link).')
+        f.write('---\n\n')
+        write_section(
+            f, 'Blocked / manual-verify', buckets['blocked'],
+            'The server returned 403/429/503/999, an SSL error, or timed out. The '
+            'page very likely still exists but blocks automated checkers. Spot-check '
+            'these in a real browser before changing anything.')
+
+    json.dump({
+        'date': date.today().isoformat(),
         'total_files': len(external_links),
         'total_links': total_links,
-        'unique_urls': len(url_status),
-        'working_links': len(working_links),
-        'broken_links': len(broken_links),
-        'timeout_links': len(timeout_links),
-        'broken_details': broken_links,
-        'timeout_details': timeout_links
-    }
-    
-    with data_path.open('w') as f:
-        json.dump(json_data, f, indent=2)
-    
-    print(f"\n✅ Report saved: {report_path}")
-    print(f"✅ Data saved: {data_path}")
-    print(f"\nResults:")
-    print(f"  Working links: {len(working_links)}")
-    print(f"  Broken links: {len(broken_links)}")
-    print(f"  Timeout links: {len(timeout_links)}")
-    
-    if broken_links:
-        print(f"\nTop 10 files with broken links:")
-        file_counts = defaultdict(int)
-        for item in broken_links:
-            file_counts[item['file']] += 1
-        for filepath, count in sorted(file_counts.items(), key=lambda x: x[1], reverse=True)[:10]:
-            print(f"  - {filepath} ({count} broken links)")
+        'unique_urls_checked': len(to_check),
+        'skipped_count': len(skipped),
+        'working': len(buckets['working']),
+        'dead': len(buckets['dead']),
+        'blocked': len(buckets['blocked']),
+        'dead_details': buckets['dead'],
+        'blocked_details': buckets['blocked'],
+        'skipped_urls': sorted(skipped),
+    }, data_path.open('w'), indent=2)
+
+    print("\n" + "=" * 70)
+    print(f"Working: {len(buckets['working'])} | "
+          f"DEAD: {len(buckets['dead'])} | "
+          f"Blocked/manual: {len(buckets['blocked'])} | "
+          f"Skipped: {len(skipped)}")
+    print(f"Report: {report_path}")
+    print(f"Data:   {data_path}")
+
+
+if __name__ == "__main__":
+    main()

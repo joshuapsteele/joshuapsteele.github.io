@@ -16,7 +16,7 @@ url: /hate-running-try-rucking-instead/
 
 It took me a *long* time to “fall in love” with running. It did not take me nearly as long to fall *out* of love with running!
 
-And yet, even though I’ve long enjoyed [doing kettlebell swings](https://joshuapsteele.com/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) and doing [the 5×5 weight-lifing workout](https://stronglifts.com/5x5/), I did begin to miss the benefits of cardio training.
+And yet, even though I’ve long enjoyed [doing kettlebell swings](/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) and doing [the 5×5 weight-lifing workout](https://stronglifts.com/5x5/), I did begin to miss the benefits of cardio training.
 
 Enter *rucking*.
 
@@ -39,11 +39,11 @@ Nevertheless, I picked different gear. Here’s my current rucking setup:
 
 ## Backpack: LA Police Gear 3 Day Backpack 2.0
 
-![IMG 4031](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4031.jpg "IMG_4031.JPG")
+![IMG 4031](/wp-content/uploads/2018/06/IMG_4031.jpg "IMG_4031.JPG")
 
-![IMG 4032](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4032.jpg "IMG_4032.JPG")
+![IMG 4032](/wp-content/uploads/2018/06/IMG_4032.jpg "IMG_4032.JPG")
 
-This backpack has held up great for me so far. I use it regularly for rucking, and also [took it with me out to the Grand Canyon, where it performed admirably](https://joshuapsteele.com/dangerous-beauty-phoenix-grand-canyon-trip-2018/). I love that it includes a waist and chest strap, as well as a convenient opening for a hydration pack.
+This backpack has held up great for me so far. I use it regularly for rucking, and also [took it with me out to the Grand Canyon, where it performed admirably](/dangerous-beauty-phoenix-grand-canyon-trip-2018/). I love that it includes a waist and chest strap, as well as a convenient opening for a hydration pack.
 
 You can [buy this pack from LA Police Gear directly](https://lapolicegear.com/diplomat-3-day-backpack1.html), or [it’s also available on Amazon](https://amzn.to/2JsKE2C).
 
@@ -51,9 +51,9 @@ You can [buy this pack from LA Police Gear directly](https://lapolicegear.com/di
 
 ## Hydration Pack: Source Outdoor Widepac Hydration System Reservoir with Helix Bite Valve, 2-Liter
 
-![IMG 4036](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4036.jpg "IMG_4036.JPG")
+![IMG 4036](/wp-content/uploads/2018/06/IMG_4036.jpg "IMG_4036.JPG")
 
-![IMG 4037](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4037.jpg "IMG_4037.JPG")
+![IMG 4037](/wp-content/uploads/2018/06/IMG_4037.jpg "IMG_4037.JPG")
 
 I sweat a *lot*, so I figured that it would be nice to have a reliable hydration pack to take with me while rucking.
 
@@ -63,9 +63,9 @@ So far, this 2-liter hydration pack from Source has NOT disappointed me!
 
 ## Weight: Bricks and Duct Tape
 
-![IMG 4033](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4033.jpg "IMG_4033.JPG")
+![IMG 4033](/wp-content/uploads/2018/06/IMG_4033.jpg "IMG_4033.JPG")
 
-![IMG 4034](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4034.jpg "IMG_4034.JPG")
+![IMG 4034](/wp-content/uploads/2018/06/IMG_4034.jpg "IMG_4034.JPG")
 
 I believe that the bricks I currently use came from Home Depot. I could be mistaken, but I think that I have 6 of [these Holland 7.75 in. x 4 in. x 1.75 in. River Red Concrete Paver](https://www.homedepot.com/p/Holland-7-75-in-x-4-in-x-1-75-in-River-Red-Concrete-Paver-22051EA/100619492) bricks. Currently, they’re listed for $0.58 each.
 
@@ -79,7 +79,7 @@ Here’s [a helpful guide to wrapping bricks from GoRuck](http://news.goruck.com
 
 ## To Position the Bricks: 2 Foam Yoga Blocks/Bricks
 
-![IMG 4035](https://joshuapsteele.com/wp-content/uploads/2018/06/IMG_4035.jpg "IMG_4035.JPG")
+![IMG 4035](/wp-content/uploads/2018/06/IMG_4035.jpg "IMG_4035.JPG")
 
 I don’t think this is necessary, but I went out and bought [two foam yoga blocks/bricks from Walmart](https://www.walmart.com/ip/YOGA-BLOCK-BLUE/54193774) in order to position the bricks a bit higher in the backpack.
 
