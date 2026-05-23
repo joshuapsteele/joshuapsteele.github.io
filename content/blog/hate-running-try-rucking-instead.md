@@ -33,7 +33,7 @@ I first heard about *rucking*—carrying a weighted pack on your back—as a for
 
 To get started with rucking, I first used my old backpack and a couple dumbbells. This worked fine, but I didn’t like how the dumbbells dug into my lower back.
 
-So, I did some research about rucking on a budget, and I found [this very helpful blogpost: “How to: Ruck on a Budget.”](http://www.mettleforger.com/how-to-ruck-on-a-budget/) There’s also [this piece at The Simple Dollar: A Guide to Rucking, My Favorite Low-Cost Exercise Activity.](https://www.thesimpledollar.com/a-guide-to-rucking-my-favorite-low-cost-frugal-exercise-activity/)
+So, I did some research about rucking on a budget, and I found [this very helpful blogpost: “How to: Ruck on a Budget.”](https://web.archive.org/web/20200218021616/http://www.mettleforger.com:80/how-to-ruck-on-a-budget/) There’s also [this piece at The Simple Dollar: A Guide to Rucking, My Favorite Low-Cost Exercise Activity.](https://web.archive.org/web/20231012052007/https://www.thesimpledollar.com/a-guide-to-rucking-my-favorite-low-cost-frugal-exercise-activity/)
 
 Nevertheless, I picked different gear. Here’s my current rucking setup:
 
@@ -75,7 +75,7 @@ As for duct tape, I’m pretty sure I used good ol’ fashioned Duck Brand duct 
 
 I also used some [bubble wrap that I picked up at Walmart](https://www.walmart.com/browse/office/bubble-wrap/1229749_2696828_1478303_5636662).
 
-Here’s [a helpful guide to wrapping bricks from GoRuck](http://news.goruck.com/event-news/wrapping-bricks-explained/).
+Here’s [a helpful guide to wrapping bricks from GoRuck](https://web.archive.org/web/20190113223231/http://news.goruck.com:80/event-news/wrapping-bricks-explained/).
 
 ## To Position the Bricks: 2 Foam Yoga Blocks/Bricks
 

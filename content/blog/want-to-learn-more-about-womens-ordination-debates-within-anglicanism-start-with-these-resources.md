@@ -170,7 +170,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 
 #### Studies and Articles
 
-- [“A Report of the Study Concerning the Ordination of Women Undertaken by the Anglican Mission in America: A survey of the Leading Theological Convictions,”](http://www.paludavia.com/anglican/w.pdf) unpublished paper by the Rt. Rev. John H. Rodgers and the Women’s Ordination Study Team (July 31, 2003)
+- [“A Report of the Study Concerning the Ordination of Women Undertaken by the Anglican Mission in America: A survey of the Leading Theological Convictions,”](https://web.archive.org/web/20211128120751/http://www.paludavia.com/anglican/w.pdf) unpublished paper by the Rt. Rev. John H. Rodgers and the Women’s Ordination Study Team (July 31, 2003)
 - This is the 2003 AMIA Report upon which Section 4 of the 2017 ACNA Report relies.
 - [“The Doctrine of the Trinity and Its Bearing on the Relationship of Men and Women,”](https://docs.sydneyanglicans.net/s/sfsites/c/sfc/servlet.shepherd/document/download/069Ol00000EFeaIIAT) the 1999 Sydney Anglican Diocesan Doctrine Commission Report
 - [“Women, Ordination and the Bible”,](http://www.tsm.edu/2014/09/03/women_ordination_and_the_bible/) written by Rod Whitacre, 28 August 2014
@@ -194,7 +194,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 - Kirk, Geoffrey. [*Without Precedent: Scripture, Tradition, and the Ordination of Women*.](http://amzn.to/2SfyjGt) Eugene, OR: Wipf and Stock, 2016.
 - Lewis, C.S. [‘Priestesses in the Church?’](http://www.episcopalnet.org/TRACTS/priestesses.html) In *Undeceptions: Essays on Theology and Ethics*. London: Geoffrey Bles, 1971. 191-196. Also printed in *God in the Dock*.
 - Loades, Ann. ‘On Women.’ In [*The Cambridge Companion to C.S. Lewis*](http://amzn.to/2WxNKJt), ed. Robert MacSwain and Michael Ward. Cambridge: Cambridge University Press, 2010. 160-173.
-- Mascall, E.L. [‘Women Priests?’](http://trushare.com/Mascall%20Women%20Priests.htm) London: The Church Literature Association, 1972.
+- Mascall, E.L. [‘Women Priests?’](https://web.archive.org/web/20220517134542/http://trushare.com/Mascall%20Women%20Priests.htm) London: The Church Literature Association, 1972.
 - Podmore, Colin, ed. [*Fathers in God? Resources for Reflection on Women in the Episcopate.*](http://amzn.to/2WxrAqH) Norwich: Canterbury Press, 2015.
 
 ---
@@ -216,7 +216,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 - Bridge, G.R. [*Women and the Apostolic Ministry?*](http://amzn.to/2WqdCXT) Parry Sound, ON: The Convent Society, 1997.
 - Loades, Ann. [‘Women in the Episcopate?’](http://biblicalstudies.org.uk/pdf/anvil/21-2_113.pdf) *Anvil* 21 no. 2 (2004): 113-119.
 - MacKinnon, Donald. [‘The *Icon Christi* and Eucharistic Theology.’](http://journals.sagepub.com/doi/abs/10.1177/0040571X9209500206) *Theology* (March/April 1992): 109-113.
-- Mascall, E.L. [‘Women and the Priesthood of the Church.’](http://www.womenpriests.org/ecumenism/women-and-the-priesthood-of-the-church-by-e-l-mascall-from-why-not-priesthood-and-the-ministry-of-women/) London: The Church Literature Association, 1960.
+- Mascall, E.L. [‘Women and the Priesthood of the Church.’](https://web.archive.org/web/20200803120831/http://www.womenpriests.org/ecumenism/women-and-the-priesthood-of-the-church-by-e-l-mascall-from-why-not-priesthood-and-the-ministry-of-women/) London: The Church Literature Association, 1960.
 - Richardson, Alan. ‘Women and the Priesthood.’ In [*Lambeth Essays on Ministry: Essays Written for the Lambeth Conference 1968.*](http://amzn.to/2MIcZEG) Ed. Arthur Michael Ramsey. London: SPCK, 1969. 75-78.
 - Underhill, Evelyn. ‘Ideals of the Ministry of Women.’ In [*Mixed Pasture: Twelve Essays and Addresses*.](http://amzn.to/2WuEvK2) Eugene, OR: Wipf and Stock 2015. 113-122.
 
@@ -231,7 +231,7 @@ Note that I’m still trying to find links to everything. Amazon links below are
 - Scot **McKnight**, [*The Blue Parakeet: Rethinking How You Read the Bible*](http://amzn.to/2RcCxgN), 2nd edition, Zondervan, 2018. Especially Part 5 (chs. 14–19), “Women in Church Ministries Today.”
 - Lucy **Peppiatt**, [*Rediscovering Scripture’s Vision for Women: Fresh Perspectives on Disputed Texts*](http://amzn.to/3auozPd), IVP Academic, 2019.
 - John G. **Stackhouse**, Jr., [*Partners in Christ: A Conservative Case for Egalitarianism*](http://amzn.to/38oEKeT), IVP Academic, 2015.
-- Kallistos **Ware**, [“Man, Woman, and the Priesthood of Christ,” pp. 68-90 in *Man, Woman, and Priesthood*](http://www.womenpriests.org/articles-books/man-woman-and-the-priesthood-of-christ-by-kallistos-ware-from-man-woman-and-priesthood/), edited by Peter Moore, SPCK London, 1978.
+- Kallistos **Ware**, [“Man, Woman, and the Priesthood of Christ,” pp. 68-90 in *Man, Woman, and Priesthood*](https://web.archive.org/web/20200804031110/http://www.womenpriests.org/articles-books/man-woman-and-the-priesthood-of-christ-by-kallistos-ware-from-man-woman-and-priesthood/), edited by Peter Moore, SPCK London, 1978.
 - Cynthia **Long Westfall**, [*Paul and Gender: Reclaiming the Apostle’s Vision for Men and Women in Christ*](http://amzn.to/2RYQyRp), Baker Academic, 2016.
 - Ben **Witherington** III, [*Women in the Earliest Churches (Society for New Testament Studies Monograph Series)*](http://amzn.to/2WsBLNj), Cambridge, 1991.
 - William **Witt**, [*Icons of Christ: A Biblical and Systematic Theology for Women’s Ordination*](https://www.amazon.com/dp/1481313193?tag=joshuapsteele-20), Baylor University Press, 2020.

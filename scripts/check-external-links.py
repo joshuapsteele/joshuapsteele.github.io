@@ -91,7 +91,10 @@ def extract_external_links(content_dir):
                 print(f"Error reading {filepath}: {e}")
                 continue
 
-            md_links = re.findall(r'\[([^\]]*)\]\((https?://[^)\s]+)', content)
+            # Allow one level of balanced parens in the URL so Wikipedia-style
+            # links like .../300_(film) aren't truncated at the inner ")".
+            md_links = re.findall(
+                r'\[([^\]]*)\]\((https?://(?:[^\s()]+|\([^\s()]*\))+)', content)
             html_links = re.findall(r'href=["\'](https?://[^"\']+)["\']', content)
             for text, url in md_links:
                 external_links[rel_path].append(('markdown', text, url.rstrip('.,;')))

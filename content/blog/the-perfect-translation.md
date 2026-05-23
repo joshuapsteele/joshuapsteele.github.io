@@ -12,7 +12,7 @@ tags:
 url: /the-perfect-translation/
 ---
 
-Over the break between semesters at [Beeson Divinity School](http://www.beesondivinity.com/), I’m reviewing Bruce Waltke’s [*The Dance Between God and Humanity: Reading the Bible Today as the People of God*](http://www.eerdmans.com/Products/6736/the-dance-between-god-and-humanity.aspx) and Philip Goodwin’s *[Translating the English Bible: From Relevance to Deconstruction](https://www.amazon.com/dp/0227173910?tag=joshuapsteele-20)* for [Liverpool Hope University’s Theological Book Review](http://www.hope.ac.uk/theologicalbookreview/).
+Over the break between semesters at [Beeson Divinity School](http://www.beesondivinity.com/), I’m reviewing Bruce Waltke’s *The Dance Between God and Humanity: Reading the Bible Today as the People of God* (old, broken link) and Philip Goodwin’s *[Translating the English Bible: From Relevance to Deconstruction](https://www.amazon.com/dp/0227173910?tag=joshuapsteele-20)* for [Liverpool Hope University’s Theological Book Review](https://web.archive.org/web/20180429221525/http://www.hope.ac.uk:80/theologicalbookreview/).
 
 I’ve just finished the latter, and hope to write my review in the next day or two. However, I’d like to share the following quotes on *Deconstructive Literalism* and *The Perfect Translation*, because I find the concepts intriguing as a student of [Eugene Nida’s dynamic or functional equivalence](http://en.wikipedia.org/wiki/Dynamic_and_formal_equivalence) (when it comes to both NT Greek and modern Spanish), and a newcomer to [relevance theory](http://en.wikipedia.org/wiki/Relevance_theory), which Goodwin uses to provide a way forward in the shadow of the KJV tradition. More on that later. In the meantime:
 

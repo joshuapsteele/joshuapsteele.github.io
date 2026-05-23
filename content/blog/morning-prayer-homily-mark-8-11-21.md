@@ -41,7 +41,7 @@ And yet, in the region of Dalmanutha, the Pharisees have the audacity to ***dema
 
 Why does this demand exasperate Jesus? Surely, given his recent actions, he is not averse to the supernatural in-breaking of God’s kingdom as demonstrated in his miracles. Instead, he astutely recognizes **the incompatibility of this sign-seeking pharisaical power-play with true trust, true faith.**
 
-As [Catholic scholar Mary Healy ](http://www.catholiccommentaryonsacredscripture.com/volumes-authors/mary-healy/)rightfully observes:
+As Catholic scholar Mary Healy  (old, broken link)rightfully observes:
 
 > “to insist on irrefutable evidence is really a demand for control, as if to say ‘Force us to believe, so that we will not have to trust you or change our hearts.’ But faith that is compelled is not faith at all” (*The Gospel of Mark*, 153).
 

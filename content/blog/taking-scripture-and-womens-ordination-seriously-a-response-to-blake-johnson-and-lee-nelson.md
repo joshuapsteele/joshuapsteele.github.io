@@ -13,11 +13,11 @@ tags:
   - womens-ordination
 ---
 
-*Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to [Fr. Blake Johnson’s](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson’s](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) responses to [her original blog post](/if-women-can-be-saved-then-women-can-be-priests/) about the* in persona Christi *argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.*
+*Editor’s Note: Thank you to the Rev. Dr. Emily McGowin for writing this rejoinder to [Fr. Blake Johnson’s](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson’s](https://web.archive.org/web/20211020205941/https://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) responses to [her original blog post](/if-women-can-be-saved-then-women-can-be-priests/) about the* in persona Christi *argument against women’s ordination. While we invite this conversation (about McGowin’s original blog post) to continue in our comments section and elsewhere—and we plan to publish more about women’s ordination in the future—we will not be adding surrejoinder blog posts.*
 
 ---
 
-I am grateful to [Fr. Blake Johnson](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) for their responses to my previous blog post, [“If Women Can Be Saved, Then Women Can Be Priests.”](/if-women-can-be-saved-then-women-can-be-priests/)
+I am grateful to [Fr. Blake Johnson](http://theopolisinstitute.com/sacramental-representation-and-the-created-order/) and [Fr. Lee Nelson](https://web.archive.org/web/20211020205941/https://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) for their responses to my previous blog post, [“If Women Can Be Saved, Then Women Can Be Priests.”](/if-women-can-be-saved-then-women-can-be-priests/)
 
 I begin with a point of clarification: My piece was intentionally narrow. I offered a critique of the *in persona Christi* argument against women’s ordination to the priesthood. I was not offering a full argument for women’s ordination. It seems some confusion has resulted from those who assume I was doing the latter rather than the former.
 
@@ -156,7 +156,7 @@ As I tell my students, every text has to be interpreted. Whether we’re talking
 
 Moreover, this list of questions also makes clear that, because of the interplay of so many weighty matters (i.e., biblical exegesis and hermeneutics, historical and systematic theology, liturgical and sacramental theology, biology, sociology, and culture), the question of gender and its implications is probably one of the most complicated and challenging subjects facing the church today. This conversation is going to continue—as it should. And I hope we can continue to do so with humility and charity befitting sisters and brothers in Christ.
 
-In some ways, it would be easier if we still lived in a time when [women were assumed to be physically, intellectually, emotionally, and spiritually inferior to men. Then, the argument would be moot, as it was for many years of the church’s history](http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/). Obviously, inferior persons should not serve as priests in Christ’s church.
+In some ways, it would be easier if we still lived in a time when [women were assumed to be physically, intellectually, emotionally, and spiritually inferior to men. Then, the argument would be moot, as it was for many years of the church’s history](https://web.archive.org/web/20200606073644/http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/). Obviously, inferior persons should not serve as priests in Christ’s church.
 
 But we now know with certainty that women are *not* inherently inferior to men. Though essentially distinct in important ways—ways we are just beginning to understand—church leaders, biblical scholars, and theologians must consider carefully what these distinctions *mean.*
 
@@ -164,4 +164,4 @@ Despite claims to the contrary, the meaning of gender difference is not, in fact
 
 ---
 
-*(Want to learn more about women’s ordination debates within Anglicanism? [Start with these resources](http://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/).)*
+*(Want to learn more about women’s ordination debates within Anglicanism? Start with these resources (old, broken link).)*

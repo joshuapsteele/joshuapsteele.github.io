@@ -163,4 +163,4 @@ Amen.
 
 ---
 
-(Sermon preached on [Easter Vigil](http://www.bcponline.org/SpecialDays/EasterVigil.html), March 26, 2016. For an idea of the readings which preceded the homily in this service, [see here](http://lectionary.library.vanderbilt.edu/texts.php?id=131).)
+(Sermon preached on [Easter Vigil](http://www.bcponline.org/SpecialDays/EasterVigil.html), March 26, 2016. For an idea of the readings which preceded the homily in this service, [see here](https://web.archive.org/web/20240712145539/https://lectionary.library.vanderbilt.edu/texts.php?id=131).)

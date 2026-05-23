@@ -15,7 +15,7 @@ tags:
 
 ---
 
-Over the past several months, readers of Anglican Compass have engaged with many opinions on [the topic of women’s ordination](http://anglicancompass.com/tag/womens-ordination/). One wonders, given the state of dual integrities within the ACNA and the ever-churning blog debates between our public intellectuals, what is the point of another take on this issue?
+Over the past several months, readers of Anglican Compass have engaged with many opinions on the topic of women’s ordination (old, broken link). One wonders, given the state of dual integrities within the ACNA and the ever-churning blog debates between our public intellectuals, what is the point of another take on this issue?
 
 But stay with me, friends. At the risk of debate fatigue, I want to stir these waters once more because after reading these pieces, I believe we are missing several key points in the conversation. In fact, I believe we need to engage in a fundamentally different conversation—one that centers the debate in its proper theological home: baptism and the Person of Christ.
 

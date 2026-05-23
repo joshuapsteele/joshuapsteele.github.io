@@ -108,4 +108,4 @@ We’ll roll the old Republic along —
   
 ---  
 
-HT: [Josiah Hawthorne on Bluesky](https://bsky.app/profile/josiahhawthorne.bsky.social/post/3m3cphfo6yc2l) for the idea.
+HT: Josiah Hawthorne on Bluesky (old, broken link) for the idea.

@@ -47,7 +47,7 @@ Unity does not have to mean absolute unanimity on secondary issues and practices
 
 ## This is not to say that “anything goes”
 
-As canon theologian Esau McCaulley [noted](https://esaumccaulley.com/2020/01/26/come-let-us-read-together-a-hopefully-warm-invitation-to-think-the-best-of-each-other-in-the-womens-ordination-discussion/?fbclid=IwAR2Aafb_9UCW8j0W-F-DTzH-p2BvWfmszuPIQp0Yx6zLgjklU8u7cGFzkcs), there are certainly boundaries around what constitutes “tolerable” disagreement in the Church. This is precisely why the historic ecumenical creeds came into being, and this is why our bishops gather to have difficult conversations about questions of orthodoxy today. Therefore we can follow their example by practicing gracious respect for conscience within those parameters.
+As canon theologian Esau McCaulley noted (old, broken link), there are certainly boundaries around what constitutes “tolerable” disagreement in the Church. This is precisely why the historic ecumenical creeds came into being, and this is why our bishops gather to have difficult conversations about questions of orthodoxy today. Therefore we can follow their example by practicing gracious respect for conscience within those parameters.
 
 ## Bearing with one another in love
 

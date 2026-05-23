@@ -89,7 +89,8 @@ def extract_amazon_links(content_dir):
             except Exception as e:
                 print(f"Error reading {filepath}: {e}")
                 continue
-            urls = re.findall(r'\[([^\]]*)\]\((https?://[^)\s]+)', content)
+            urls = re.findall(
+                r'\[([^\]]*)\]\((https?://(?:[^\s()]+|\([^\s()]*\))+)', content)
             hrefs = re.findall(r'href=["\'](https?://[^"\']+)["\']', content)
             for text, url in urls:
                 if any(s in url for s in AMAZON_SUBSTRINGS):

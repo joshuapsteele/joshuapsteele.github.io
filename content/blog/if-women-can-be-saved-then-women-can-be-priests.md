@@ -18,7 +18,7 @@ tags:
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*
 
-*After reading this piece, please see [Lee Nelson’s response](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) and [Emily McGowin’s rejoinder](http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/).*
+*After reading this piece, please see [Lee Nelson’s response](https://web.archive.org/web/20211020205941/https://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) and [Emily McGowin’s rejoinder](https://web.archive.org/web/20211020194742/https://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/).*
 
 ---
 
@@ -148,13 +148,13 @@ But it is by virtue of those very distinctions that women offer a powerful sacra
 The argument offered here is inspired, in part, by the following resources. I recommend them to you for further reading:
 
 - Thomas F. Torrance, [*Royal Priesthood: A Theology of Ordained Ministry*](http://amzn.to/2mVXCiM), 2nd Edition (London: T & T Clark, 2003).
-- Sarah Coakley, “[The Woman at the Altar: Cosmological Disturbance or Gender Subversion?](http://www.anglicantheologicalreview.org/read/issue/13/)” *Anglican Theological Review*, 86.1 (2004): 75-93.
+- Sarah Coakley, “[The Woman at the Altar: Cosmological Disturbance or Gender Subversion?](https://web.archive.org/web/20170904162344/http://www.anglicantheologicalreview.org:80/read/issue/13/)” *Anglican Theological Review*, 86.1 (2004): 75-93.
 - William G. Witt, “Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ”, accessed September 12, 2019: <http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/>.
 
 ---
 
 [Featured image by Adam Jones via Flickr](http://www.flickr.com/photos/adam_jones/27713547834).
 
-[Want to learn more about women’s ordination debates within Anglicanism? Check out these resources.](http://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/)
+Want to learn more about women’s ordination debates within Anglicanism? Check out these resources. (old, broken link)
 
 [Want to write for Anglican Pastor? Check out our writing guidelines.](http://anglicancompass.com/write-for-anglican-pastor/)

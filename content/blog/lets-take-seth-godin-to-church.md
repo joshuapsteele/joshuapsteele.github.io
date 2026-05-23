@@ -22,7 +22,7 @@ Then, however, **I read the book**. And I suggest you do, too!
 
 *(Note: affiliate link. I get paid if you make a purchase.)*
 
-[Seth Godin](http://www.sethgodin.com/sg/), bald marketing extraordinaire, is convinced that a paradigm shift has taken place. I’ll quote from his annotated table of contents (which, by the way, I wish all books had):
+[Seth Godin](https://web.archive.org/web/20180409015613/http://www.sethgodin.com/sg/), bald marketing extraordinaire, is convinced that a paradigm shift has taken place. I’ll quote from his annotated table of contents (which, by the way, I wish all books had):
 
 > We have gone from two teams (management and labor) to a third team, **the linchpins. These are people who own their own means of production, who can make a difference, lead us, and connect us. The death of the factory means that the entire system we have built our lives around is now upside down. This is either a huge opportunity or a giant threat.** Revolutions are frightening because the new benefits sometimes lag behind the old pain. This time, the opportunity is to bring your best self to the marketplace and be rewarded for it (vii).
 

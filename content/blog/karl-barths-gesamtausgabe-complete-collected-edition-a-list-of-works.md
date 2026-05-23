@@ -12,7 +12,7 @@ url: /karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/
 
 Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been published.
 
-Unfortunately, only the first 45 of these are available in the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com/).
+Unfortunately, only the first 45 of these are available in the [Digital Karl Barth Library](https://web.archive.org/web/20210613182946/https://dkbl.alexanderstreet.com//).
 
 \*I’ve marked volumes unavailable in the DKBL with an asterisk.
 

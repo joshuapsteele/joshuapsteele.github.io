@@ -12,7 +12,7 @@ title: A List of Karl Barth's Sermons
 url: /a-list-of-karl-barths-sermons/
 ---
 
-To make this list, I’ve used the data available in the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com/). I’ve just taken the tables of contents in the sermon volumes of Barth’s collected works and put them all in one place.
+To make this list, I’ve used the data available in the [Digital Karl Barth Library](https://web.archive.org/web/20210613182946/https://dkbl.alexanderstreet.com//). I’ve just taken the tables of contents in the sermon volumes of Barth’s collected works and put them all in one place.
 
 The only way to display the dates correctly in Markdown is to write these up as code blocks, as I’ve done below.
 

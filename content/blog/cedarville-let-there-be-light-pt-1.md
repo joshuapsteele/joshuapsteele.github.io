@@ -14,7 +14,7 @@ url: /cedarville-let-there-be-light-pt-1/
 
 # The Statement:
 
-“Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of[ Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx). This decision was made following a review by the University administration and [trustees](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx) prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20)
+“Dr. Michael Pahl has been relieved of his teaching duties because he is unable to concur fully with each and every position of[ Cedarville University’s doctrinal statement](https://web.archive.org/web/20170616052821/https://www.cedarville.edu/About/Doctrinal-Statement.aspx). This decision was made following a review by the University administration and [trustees](https://web.archive.org/web/20130520215045/http://www.cedarville.edu:80/Offices/Public-Relations/Board-of-Trustees.aspx) prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions.](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20)
 
 Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is his commitment to Scripture’s inspiration, authority and infallibility. He is a promising scholar and a dedicated teacher, and he will be missed by his colleagues and students. Nevertheless, the University has determined this decision to be in the best interests of its constituency at this time.”
 
@@ -26,8 +26,8 @@ Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is 
     - Dr. Pahl is <u>committed to Scripture, its inspiration, authority, and infallibility</u>.
     - Dr. Pahl is a <u>promising scholar</u>.
     - Dr. Pahl is a <u>dedicated teacher</u>.
-- The administration and [trustees ](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx)of Cedarville University have <u>“relieved” Dr. Pahl of his teaching duties. </u>
-    - “because he is unable to concur fully with each and every position of [Cedarville University’s doctrinal statement](http://www.cedarville.edu/About/Doctrinal-Statement.aspx)“
+- The administration and [trustees ](https://web.archive.org/web/20130520215045/http://www.cedarville.edu:80/Offices/Public-Relations/Board-of-Trustees.aspx)of Cedarville University have <u>“relieved” Dr. Pahl of his teaching duties. </u>
+    - “because he is unable to concur fully with each and every position of [Cedarville University’s doctrinal statement](https://web.archive.org/web/20170616052821/https://www.cedarville.edu/About/Doctrinal-Statement.aspx)“
     - …”prompted by Dr. Pahl’s recent book, [The Beginning and the End: Rereading Genesis’s Stories and Revelation’s Visions](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20).”
     - because it is in the best interests of the “constituency” at this time.
 
@@ -43,7 +43,7 @@ Dr. Pahl’s orthodoxy and commitment to the gospel are not in question, nor is 
     - Does the “best interests of its constituency” imply that Dr. Pahl was dismissed from teaching because of non-doctrinal concerns?
     - Was this decision in any way motivated by attendance or enrollment or popularity of the institution in certain Christians’ eyes?
     - If that’s the case, then why would those things be worth more than “the word of God and the testimony of Jesus Christ” to the administration and the trustees?
-- What did “the review by the University administration and [trustees](http://www.cedarville.edu/Offices/Public-Relations/Board-of-Trustees.aspx)” look like? Were the proceedings ethical? Were the proceedings made public in any way so as to provide for oversight?
+- What did “the review by the University administration and [trustees](https://web.archive.org/web/20130520215045/http://www.cedarville.edu:80/Offices/Public-Relations/Board-of-Trustees.aspx)” look like? Were the proceedings ethical? Were the proceedings made public in any way so as to provide for oversight?
 - What is the definition of “constituency” according to the statement above? Does it include the entire constituency of the University, or just a select portion?
 
 [CONTINUED —&gt;](http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)")

@@ -437,7 +437,7 @@ Much more could be (and has been) said about software testing! If I had more tim
 
 …Not to mention doing your own research on testing libraries and frameworks in your favorite language(s)! (In Java world, that includes [JUnit](https://junit.org/junit5/), [Mockito](https://site.mockito.org/), [jqwik](https://jqwik.net/), [AssertJ](https://assertj.github.io/doc/), [Pitest](https://pitest.org/), etc.)
 
-Nevertheless, I hope that this overview of software testing possibilities, problems, and principles helps you to write better tests and develop better software! If you have anything to add or correct, please do leave a comment. Or reach out to me (Twitter [@joshuapsteele](https://twitter.com/joshuapsteele), GitHub [jsteelepfpt](https://github.com/jsteelepfpt), LinkedIn [joshuapsteele](https://www.linkedin.com/in/joshuapsteele/)).
+Nevertheless, I hope that this overview of software testing possibilities, problems, and principles helps you to write better tests and develop better software! If you have anything to add or correct, please do leave a comment. Or reach out to me (Twitter [@joshuapsteele](https://twitter.com/joshuapsteele), GitHub jsteelepfpt (old, broken link), LinkedIn [joshuapsteele](https://www.linkedin.com/in/joshuapsteele/)).
 
 ---
 
@@ -451,4 +451,4 @@ Nevertheless, I hope that this overview of software testing possibilities, probl
 - [*Unit Testing Principles, Practices, and Patterns*](https://learning.oreilly.com/library/view/unit-testing-principles/9781617296277/) by Vladimir Khorikov (Manning, 2020)
 - “[Topic 41: Test to Code](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0065.xhtml)” and “[Topic 42: Property-Based Testing](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/f_0066.xhtml)” in [*The Pragmatic Programmer: Your Journey to Mastery*](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/) by David Thomas and Andrew Hunt (2nd Edition; Addison-Wesley Professional, 2019)
 - “[Testing Strategies in a Microservice Architecture](https://martinfowler.com/articles/microservice-testing/)” by Toby Clemson (Slide Deck)
-- “[What Is Software Testing? And Why Is It So Hard?](https://profinit.eu/wp-content/uploads/2016/03/HardSwTesting.pdf)” by James A. Whittaker (IEEE Software, January 2000:70–79)
+- “[What Is Software Testing? And Why Is It So Hard?](https://web.archive.org/web/20250809092156/https://profinit.eu/wp-content/uploads/2016/03/HardSwTesting.pdf)” by James A. Whittaker (IEEE Software, January 2000:70–79)

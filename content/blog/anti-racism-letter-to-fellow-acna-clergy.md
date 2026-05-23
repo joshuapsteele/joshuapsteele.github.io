@@ -91,12 +91,12 @@ Rev. Matt Tebbe
 *Co-Rector,* [*The Table Indianapolis* ](https://www.thetableindy.org/)*& Co-Founder,* [*Gravity Leadership*](https://gravityleadership.com/)
 
 Rev. Erik Willits  
-*Host of* [*The Intersection Podcast*](https://www.teloscollective.com/podcast/) *Special Projects,* [*Diocese of Churches for the Sake of Others*](https://www.c4so.org/)
+*Host of* [*The Intersection Podcast*](https://web.archive.org/web/20220127205752/https://www.teloscollective.com/podcast/) *Special Projects,* [*Diocese of Churches for the Sake of Others*](https://www.c4so.org/)
 
 ## Initial Signatories ([Click Here or Scroll Down to Sign](#sign))
 
 Rev. Canon Dr. Dan Alger  
-*Provincial Canon for Church Planting,* [*Anglican Church in North America*](http://www.anglicanchurch.net/index.php/main/Staff_Directory/)  
+*Provincial Canon for Church Planting,* [*Anglican Church in North America*](https://web.archive.org/web/20200605114416/http://www.anglicanchurch.net/index.php/main/Staff_Directory/)  
 *Director,* [*Always Forward Church Planting Initiative*](https://www.always-forward.com/)
 
 Rev. Gary Ball  
@@ -120,7 +120,7 @@ Rev. David Martin Hanke
 *Rector, [Restoration Anglican, Arlington](https://restorationarlington.org/)*  
 
 Rev. Canon Alan Hawkins  
-*Chief Operating Officer,* [*Anglican Church in North America*](http://www.anglicanchurch.net/index.php/main/Staff_Directory/)
+*Chief Operating Officer,* [*Anglican Church in North America*](https://web.archive.org/web/20200605114416/http://www.anglicanchurch.net/index.php/main/Staff_Directory/)
 
 Rev. Thomas Hinson  
 *Rector, [Advent Anglican, Washington, D.C.](https://adventdc.org/)*
@@ -132,14 +132,14 @@ Rev. Michael King
 *Associate Rector, [The Village Anglican, Greenville](https://villageanglican.church/)*
 
 Very Rev. Canon Dr. Kris McDaniel  
-*Senior Pastor,* [*Trinity Anglican, Atlanta*](https://atltrinity.org/) *Canon for Church Development (Planting and Adoptions),* [*Diocese of Churches for the Sake of Others*](https://www.c4so.org/our-team/)
+*Senior Pastor,* [*Trinity Anglican, Atlanta*](https://atltrinity.org/) *Canon for Church Development (Planting and Adoptions),* [*Diocese of Churches for the Sake of Others*](https://web.archive.org/web/20241009145802/https://c4so.org/our-team/)
 
 Rev. Canon Dr. Emily McGowin  
 *Associate Lecturer of Theology,* [*Wheaton College*](https://www.wheaton.edu/academics/faculty/emily-mcgowin/)  
-*Canon,* [*The Diocese of Churches for the Sake of Others*](https://www.c4so.org/our-team/)
+*Canon,* [*The Diocese of Churches for the Sake of Others*](https://web.archive.org/web/20241009145802/https://c4so.org/our-team/)
 
 Rev. Ron McGowin  
-*Interim Rector,* [*Holy Cross Anglican Church, Lake Villa, IL*](http://www.holycross-anglican.org/)
+*Interim Rector,* *Holy Cross Anglican Church, Lake Villa, IL* (old, broken link)
 
 Rev. Lee Nelson  
 *Rector,* [*Christ Church, Waco*](https://www.christchurchwaco.org/)

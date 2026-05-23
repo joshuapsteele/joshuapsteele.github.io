@@ -191,16 +191,16 @@ _(Note: [to read some of my academic essays, go here](/essays/).)_
 ### Beeson Divinity School
 
 - 2017 - History & Doctrine Award 2016-17
-- 2016 - [Guide One Foundation Scholarship](https://www.guideone.com/giving-back/guideone-foundation/scholarship/) ($2,500)
+- 2016 - [Guide One Foundation Scholarship](https://web.archive.org/web/20170726084431/https://www.guideone.com/giving-back/guideone-foundation/scholarship/) ($2,500)
 - 2013-16 - [Dean’s Scholarship](http://beesondivinity.com/scholarships) ($10,000/yr.)
 
 ### Cedarville University
 
 - 2013 - Faculty Scholarship Award (Cumulative 4.0 GPA)
 - 2013 - The Oxford University Press Award: Preseminary Bible (Highest GPA in Program)
-- 2013 - [The Daniel Award](http://www.cedarville.edu/financialaid/Daniel+Award) ($5,000)
-- 2012 - [Dr. Donald Tyler Scholarship](http://www.cedarville.edu/financialaid/Dr.+Donald+Tyler+Scholarship) ($1,250)
-- 2011 - [Alumni Honors Scholarship](http://www.cedarville.edu/financialaid/Alumni+Honors+Scholarship): School of Biblical and Theological Studies ($1,000)
+- 2013 - [The Daniel Award](https://web.archive.org/web/20130102055403/http://www.cedarville.edu:80/financialaid/Daniel+Award) ($5,000)
+- 2012 - [Dr. Donald Tyler Scholarship](https://web.archive.org/web/20130102054824/http://www.cedarville.edu:80/financialaid/Dr.+Donald+Tyler+Scholarship) ($1,250)
+- 2011 - [Alumni Honors Scholarship](https://web.archive.org/web/20130102060014/http://www.cedarville.edu:80/financialaid/Alumni+Honors+Scholarship): School of Biblical and Theological Studies ($1,000)
 - 2009-2013 - Cedarville Scholar (75% Tuition; $70,000)
 - 2009-2013 - Dean’s Academic Scholarship (Remainder of Tuition, Room and Board; $28,000)
 

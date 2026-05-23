@@ -34,4 +34,4 @@ So, if you’re looking for a place to start, I recommend the following as a beg
 
 1. [Seeing White](https://www.sceneonradio.org/seeing-white/)
 2. [Code Switch](https://www.npr.org/sections/codeswitch/)
-3. [Truth’s Table](https://www.truthstable.com/podcast)
+3. [Truth’s Table](https://web.archive.org/web/20211212125011/https://www.truthstable.com/podcast)

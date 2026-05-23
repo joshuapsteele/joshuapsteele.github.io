@@ -33,4 +33,4 @@ If you can't make it to my presentation but you're interested in the topic:
 
 I also recommend Adam J. Johnson's [*God's Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth*](https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20) (T&T Clark Studies in Systematic Theology). The paperback edition is much more affordable than the previous hardcover, and without his fresh insights into the doctrine of the atonement and Barthian theology, my paper would not have been possible.
 
-Please attend the entire conference at Beeson if possible! Check out the [full conference schedule](http://www.beesondivinity.com/assets/1346/ets_southeast_2014_schedule_1_page.pdf).
+Please attend the entire conference at Beeson if possible! Check out the full conference schedule (old, broken link).

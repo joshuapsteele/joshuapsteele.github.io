@@ -40,7 +40,7 @@ I created [Rookie Anglican](http://anglicanpastor.com/rookieanglican/) as a way 
 
 > According to their [website](https://wordandtable.simplecast.fm/), Word & Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”
 > 
-> The podcast was started back in October 2016, and it’s hosted by [Alex Wilgus](http://www.greenhousemovement.com/team/alex-wilgus/) and Fr. [Stephen Gauthier](http://www.churchrez.org/staff/profile/stephengauthier), the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.
+> The podcast was started back in October 2016, and it’s hosted by [Alex Wilgus](http://www.greenhousemovement.com/team/alex-wilgus/) and Fr. Stephen Gauthier (old, broken link), the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.
 > 
 > You can subscribe to the podcast via [iTunes](https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2), listen to episodes via the [Word & Table website](https://wordandtable.simplecast.fm/), or simply search for “Word and Table” in your podcast player/manager of choice.
 
@@ -63,7 +63,7 @@ In my opinion, no podcast beats This American Life in terms of the quality and v
 # Honorable Mentions:
 
 - [The Art of Charm](https://theartofcharm.com/podcast/)
-- [Always Forward](http://www.always-forward.com/category/podcast/): Anglican Church Planting
+- [Always Forward](https://web.archive.org/web/20190509162551/http://www.always-forward.com/category/podcast/): Anglican Church Planting
 - [Monday Morning Preacher](http://www.preachingtoday.com/media/podcast/)
 - Malcolm Gladwell’s [Revisionist History](http://revisionisthistory.com/)
 - [Optimal Living Daily](http://optimallivingdaily.com/)

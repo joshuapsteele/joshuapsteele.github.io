@@ -21,7 +21,7 @@ This is a question that has been on my mind throughout my final year at Cedarvil
 
 I saw the havoc that the Cedarville environment was wreaking on my mentors, friends, and their families. My leaders got rid of and harassed beloved members of my community, and then deceptively refused to own up to their nefarious actions.
 
-[![](https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg)](http://fiatlux125.wordpress.com/)[I got angry. I spoke up](/open-letter-to-cedarville-admins-and-trustees/). And I was convinced that my anger was righteous. Others were less convinced.
+[![](https://web.archive.org/web/20131024135348/https://si0.twimg.com/profile_images/2786885016/098d40ad39a165603e09a1915c37f88a.jpeg)](http://fiatlux125.wordpress.com/)[I got angry. I spoke up](/open-letter-to-cedarville-admins-and-trustees/). And I was convinced that my anger was righteous. Others were less convinced.
 
 Some stayed poignantly and painfully silent throughout the chaos. Others repeatedly gave platitudes that everything was OK, that we were obligated to trust our leaders, that to question their actions was inherently disrespectful. And some from this latter group met my kind of anger with their own frustration and anger that I dared to criticize their beloved Cedarville.
 
@@ -179,7 +179,7 @@ But perhaps the most infuriating thing to Yahweh is when those who have been red
 
 Or what about the divine heartbreak over the fragmentation of the Church? Can you imagine how much it upsets God when his people split for every little reason, in pursuit of supposed “purity,” ignoring that the goal of his redemptive mission is to reconcile all things to himself, to make us ONE in Christ?
 
-To bring this closer to home, can you imagine how much it upsets God that [my university](http://storify.com/fiatlux125/cedarville-2012-2013/), which claims to exist “For the Word of God and the testimony of Jesus Christ,” has repeatedly shown itself willing to mistreat godly people and then to lie about it? That the leaders of Cedarville are willing to buy the silence of the mistreated through non-disclosure agreements? That they are willing to appeal to God’s knowledge by using platitudes like “God is not surprised” to justify their actions against those who have less power? What happened to Michael Pahl and his family, [in addition to many others this year within the Cedarville community](http://storify.com/fiatlux125/cedarville-2012-2013/) at the hands of those who claim Christ’s name has been appallingly shameful.
+To bring this closer to home, can you imagine how much it upsets God that my university (old, broken link), which claims to exist “For the Word of God and the testimony of Jesus Christ,” has repeatedly shown itself willing to mistreat godly people and then to lie about it? That the leaders of Cedarville are willing to buy the silence of the mistreated through non-disclosure agreements? That they are willing to appeal to God’s knowledge by using platitudes like “God is not surprised” to justify their actions against those who have less power? What happened to Michael Pahl and his family, in addition to many others this year within the Cedarville community (old, broken link) at the hands of those who claim Christ’s name has been appallingly shameful.
 
 My brothers and sisters, we serve a God who is slow to anger and abounding in steadfast, merciful, and compassionate love. Let us not forget these things. May we, as God’s people, always be driven by the logic of his redemptive love.
 

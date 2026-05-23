@@ -18,11 +18,11 @@ As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious
 - They are translated into a critical English edition.
 - They are available within the same database/framework as Dietrich Bonhoeffer’s Works in [English](https://www.logos.com/product/53339/the-works-of-dietrich-bonhoeffer) and [German](https://www.logos.com/product/152576/dietrich-bonhoeffer-werke) (DBWE and DBW).
 
-In the meantime, the [Digital Karl Barth Library](https://dkbl.alexanderstreet.com), provided by [Alexander Street Press](https://alexanderstreet.com/) is the best resource out there for searching the text of Barth’s works.
+In the meantime, the [Digital Karl Barth Library](https://web.archive.org/web/20210613182946/https://dkbl.alexanderstreet.com//), provided by [Alexander Street Press](https://alexanderstreet.com/) is the best resource out there for searching the text of Barth’s works.
 
 *However*, it appears that the Digital Karl Barth Library \[DKBL\] has recently updated/changed its search software. I’m now having a *very* difficult time searching for biblical citations in the database, whereas this used to be very straightforward.
 
-According to [the current help page](https://dkbl.alexanderstreet.com/dkbl.help.html) (which appears to be obsolete since the search software change):
+According to [the current help page](https://web.archive.org/web/20200811102106/https://dkbl.alexanderstreet.com/dkbl.help.html) (which appears to be obsolete since the search software change):
 
 > **3.2.2 Biblical Citation**
 > 

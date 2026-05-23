@@ -18,7 +18,7 @@ Right now, I’m using the RSS readers [Inoreader](https://www.inoreader.com/) a
 - [Study Hacks – Decoding Patterns of Success – Cal Newport](http://calnewport.com/blog/)
 - [James Clear](https://jamesclear.com)
 - [Barking Up The Wrong Tree – How to be awesome at life.](https://www.bakadesuyo.com)
-- [The Appademic » Technology, productivity and workflows for academics, students and other nerds](https://appademic.tech)
+- [The Appademic » Technology, productivity and workflows for academics, students and other nerds](https://web.archive.org/web/20251211065353/http://appademic.tech/)
 - [McSweeney’s Internet Tendency](https://www.mcsweeneys.net)
 - [Lifehacker – Do everything better](https://lifehacker.com)
 

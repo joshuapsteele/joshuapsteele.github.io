@@ -9,7 +9,7 @@ tags:
   - college
 ---
 
-***(Originally posted in [The Ventriloquist](http://www.theventriloquist.us/). Go check out the rest of [Issue 10](http://www.theventriloquist.us/)!)***
+***(Originally posted in The Ventriloquist (old, broken link). Go check out the rest of Issue 10 (old, broken link)!)***
 
 **“A Farewell to Cedarville” – Joshua Steele**
 

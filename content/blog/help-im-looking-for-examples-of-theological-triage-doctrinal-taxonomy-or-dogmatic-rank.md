@@ -65,7 +65,7 @@ That’s what I’m really interested in.
 
 ---
 
-## Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, “[The Bible, Dogmatic Rank, and a Statement of Faith: Part 1](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf).”
+## Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, “The Bible, Dogmatic Rank, and a Statement of Faith: Part 1 (old, broken link).”
 
 ### Regarding “Dogmatic Rank”:
 
@@ -75,7 +75,7 @@ That’s what I’m really interested in.
 > 
 > The third, the nonfundamental articles, focuses on “articles the denial of which does not endanger salvation since they are not fundamental to the maintenance of Christian truth and are not concerned with the objects of faith,” e.g., identity of the Antichrist and the nature of angels. “Such doctrines, nonetheless, are scriptural and, therefore, if rightly stated, edifying.”\[3\]
 > 
-> <cite>[https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf)</cite>
+> <cite>https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf (old, broken link)</cite>
 
 Here, the EFCA document has a couple of helpful footnotes:
 
@@ -111,12 +111,12 @@ Furthermore, in FN4, they list some examples of doctrinal taxonomy:
 > 5\. *Historical consensus*: How widespread is the consensus on this doctrine or practice in the Church of both the past and present  
 > 6\. *Application to the church and the believer*: How relevant is this doctrine or practice to us today?
 > 
-> <cite>[https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf)</cite>
+> <cite>https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf (old, broken link)</cite>
 
 Finally, note that *this* EFCA document references an earlier one and a later one:
 
-- “For an earlier version of dogmatic rank in the EFCA, cf. Michael P. Andrus, ‘[Drawing Doctrinal Lines: Where? And How?: How do we distinguish between the Essentials and the Non-essentials of the Faith?](https://www.efca.org/sites/default/files/resources/docs/2019/02/drawing_doctrinal_lines_forum_presentation.pdf)‘ (January 2007)
-- “As an exercise, see how this is applied to the doctrine of election: [The Bible, Dogmatic Rank, and a Statement of Faith: How do we determine what is a major doctrine?](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_election.pdf)“
+- “For an earlier version of dogmatic rank in the EFCA, cf. Michael P. Andrus, ‘[Drawing Doctrinal Lines: Where? And How?: How do we distinguish between the Essentials and the Non-essentials of the Faith?](https://web.archive.org/web/20201108173952/https://www.efca.org/sites/default/files/resources/docs/2019/02/drawing_doctrinal_lines_forum_presentation.pdf)‘ (January 2007)
+- “As an exercise, see how this is applied to the doctrine of election: The Bible, Dogmatic Rank, and a Statement of Faith: How do we determine what is a major doctrine? (old, broken link)“
 
 ---
 

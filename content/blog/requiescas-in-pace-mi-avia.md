@@ -12,7 +12,7 @@ tags:
 url: /requiescas-in-pace-mi-avia/
 ---
 
-![](https://fbcdn-sphotos-d-a.akamaihd.net/hphotos-ak-prn1/996164_10152895104580316_41022478_n.jpg)“Depart, O Christian soul, out of this world;  
+ (old, broken image)“Depart, O Christian soul, out of this world;  
 In the Name of God the Father Almighty who created you;  
 In the Name of Jesus Christ who redeemed you;  
 In the Name of the Holy Spirit who sanctifies you.  

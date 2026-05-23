@@ -251,6 +251,8 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/`)
 - `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links.md` + `scripts/data/`)
 - `scripts/convert-internal-links.py` - Rewrite absolute joshuapsteele.com self-links in post bodies to root-relative links, validating against `public/`; dry-run by default, `--apply` to write
+- `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/wayback-map.json`
+- `scripts/fix-dead-links.py` - Apply dead-link fixes (Wayback snapshot where available, else unlink + "(old, broken link)" marker); body-only, dry-run by default, `--apply` to write
 - `scripts/audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
 - `scripts/check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
 - `scripts/analyze_website_stats.py` - Analyze traffic statistics

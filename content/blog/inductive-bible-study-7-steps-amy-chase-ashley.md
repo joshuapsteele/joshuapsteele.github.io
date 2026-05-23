@@ -42,7 +42,7 @@ Christians claim to have a high view of Scripture—that is, we say that the Bib
 
 To demonstrate, does anyone know what Jeremiah 29:10 says? No, because it’s a peanut. Jeremiah 29:12? Sorry, I don’t like raisins. But I am feeling uncertain about this new job/relationship/house/baby/friend/responsibility/accomplishment/etc., so I like to be told that God has good plans for me. I like to imagine him saying, “I know the plans I have for you…”
 
-![](http://nourish.org/wp-content/uploads/2011/10/trail-mix-nancy-mueller.jpg)
+![](https://web.archive.org/web/20161104021502/http://nourish.org/wp-content/uploads/2011/10/trail-mix-nancy-mueller.jpg)
 
 Okay, not to be harsh, but **the Bible isn’t supposed to be about us.** It’s actually not about us at all and it’s high time we quit acting like it’s a self-help book or a book full of timeless, ready-to-be-applied principles. It takes study—actual study—and hard work to read and understand the Bible and what God is saying to us. And if any book in the world is worthy of our time and energy and study, it’s got to be the Bible. But we so often pretend like it’s not.
 

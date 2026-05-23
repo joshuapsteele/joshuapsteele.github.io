@@ -30,7 +30,7 @@ However, as [BreakingMuscle.com clarifies](http://breakingmuscle.com/kettlebells
 
 Thanks to the full-body movement of the swing, **you really don’t need to use a lot of weight to feel a difference**. For example, I’ve been squatting 225 lbs. in maintenance mode recently, and after the first day of kettlebell swings with a 35 lb. kettlebell, my glutes and hamstrings were more sore than they’d been in months!
 
-I’ve been very impressed with the results of [a basic kettlebell workout](http://rkcblog.dragondoor.com/the-best-and-simplest-one-kettlebell-workout/), and it will enable me to get exercise at home during the semester, when going to the gym is more of a stretch.
+I’ve been very impressed with the results of [a basic kettlebell workout](https://web.archive.org/web/20250908112714/https://rkcblog.dragondoor.com/the-best-and-simplest-one-kettlebell-workout/), and it will enable me to get exercise at home during the semester, when going to the gym is more of a stretch.
 
 **Would you like to give kettlebell swings a try?**
 

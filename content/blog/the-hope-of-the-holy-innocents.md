@@ -18,7 +18,7 @@ url: /the-hope-of-the-holy-innocents/
 
 (PDF: [The Hope of the Holy Innocents](/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))
 
-[Today is December 28](http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
+[Today is December 28](https://web.archive.org/web/20151212023803/http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
 
 The Church’s regard for this day as a feast day is quite early, going back [to at least the fifth century](http://www.newadvent.org/cathen/07419a.htm). In the fourth century, [Chromatius](http://en.wikipedia.org/wiki/Chromatius) described these babies as the first martyrs of Christ – the first counted worthy to die on Christ’s behalf. Around the same time, St. [Augustine](http://en.wikipedia.org/wiki/Augustine_of_Hippo) claimed that these nameless victims, 
 

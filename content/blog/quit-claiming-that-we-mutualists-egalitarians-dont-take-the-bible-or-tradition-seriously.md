@@ -22,7 +22,7 @@ Therefore, we mutualists (or “egalitarians,” but that’s not the most helpf
 
 This is patently false. It is a refusal to admit the complexities of this debate. It is a [violation of the hermeneutical principle of charity](https://en.wikipedia.org/wiki/Principle_of_charity).
 
-I would also suggest that this uncharitable claim that the mutualists don’t have a high view of Scripture or Church tradition is what Will Witt has labeled a [“non-theological argument against the ordination of women.”](http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/)
+I would also suggest that this uncharitable claim that the mutualists don’t have a high view of Scripture or Church tradition is what Will Witt has labeled a [“non-theological argument against the ordination of women.”](https://web.archive.org/web/20200613023134/http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/)
 
 NOTE: I am \*not\* suggesting that hierarchicalist’s *Scriptural arguments* are non-theological. To do so would be exactly the same kind of uncharitable dismissal that I have a problem with. Each scriptural argument, each passage in question deserves careful debate.
 
@@ -97,23 +97,23 @@ Then, take a look at the following resources (although many more could be added 
 
 Furthermore, [Will Witt’s series of blogposts on the topic of women’s ordination](http://willgwitt.org/a-guide-to-my-essays-about-womens-ordination/) cannot be ignored.
 
-- [Concerning the Ordination of Women: Preliminaries](http://willgwitt.org/theology/concerning-the-ordination-of-women/)
-- [Non-theological Arguments Against the Ordination of Women](http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/)
-- [Concerning Women’s Ordination: The Argument “From Tradition” is not the “Traditional” Argument](http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/) (\*\*\*This post is especially relevant for hierarchicalists who claim that they have the entirety of Church tradition on their side.\*\*\*)
-- [Concerning Women’s Ordination: Hierarchy and Hermeneutics](http://willgwitt.org/theology/concerning-womens-ordination-hierarchy-and-hermeneutics/)
-- [Concerning Women’s Ordination: Beginning with Genesis](http://willgwitt.org/theology/concerning-womens-ordination-beginning-with-genesis/)
-- [Concerning Women’s Ordination: Disciples of Jesus](http://willgwitt.org/theology/concerning-womens-ordination-disciples-of-jesus/)
-- [Concerning Women’s Ordination: Mutual Submission](http://willgwitt.org/theology/concerning-womens-ordination-mutual-submission/)
-- [Concerning Women’s Ordination: Women in Worship and “Headship”](http://willgwitt.org/theology/concerning-women%E2%80%99s-ordination-women-in-worship/)
-- [Concerning Women’s Ordination: Speaking and Teaching](http://willgwitt.org/theology/concerning-womens-ordination-speaking-and-teaching/)
-- [Concerning Women’s Ordination: A Presbytera is not a “Priestess” (Part 1: Old Testament Priesthood)](http://willgwitt.org/theology/concerning-womens-ordination-a-presbytera-is-not-a-priestess-part-1/)
-- [Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ (Biblical and Patristic Background)](http://willgwitt.org/theology/womens-ordination-and-the-priesthood-of-christ-biblical-and-patristic-background/)
-- [Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ (in persona Christi)](http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/)
-- [Concerning Women’s Ordination: The Argument From Symbolism Part 1 (God, Christ, Apostles)](http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-symbolism-part-1/)
-- [Concerning Women’s Ordination: The Argument From Symbolism (Part 2: Transcendence, Immanence and Sexual Typology)](http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-symbolism-part-2/)
-- [Concerning Women’s Ordination: Women’s Ministry in the New Testament (Office)](http://willgwitt.org/theology/womens-ordination-office/)
-- [Concerning Women’s Ordination: Women’s Ministry in the New Testament (Bishops, Presbyters, Deacons) or a Presbytera is not a “Priestess” (Part 2)](http://willgwitt.org/theology/concerning-womens-ordination-womens-ministry-in-the-new-testament-bishops-presbyters-deacons/)
-- [Conclusion](http://willgwitt.org/theology/womens-ordination/concerning-womens-ordination-conclusion/)
+- Concerning the Ordination of Women: Preliminaries (old, broken link)
+- [Non-theological Arguments Against the Ordination of Women](https://web.archive.org/web/20200613023134/http://willgwitt.org/theology/non-theological-arguments-against-the-ordination-of-women/)
+- [Concerning Women’s Ordination: The Argument “From Tradition” is not the “Traditional” Argument](https://web.archive.org/web/20200606073644/http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-tradition-is-not-the-traditional-argument/) (\*\*\*This post is especially relevant for hierarchicalists who claim that they have the entirety of Church tradition on their side.\*\*\*)
+- [Concerning Women’s Ordination: Hierarchy and Hermeneutics](https://web.archive.org/web/20200607212150/http://willgwitt.org/theology/concerning-womens-ordination-hierarchy-and-hermeneutics/)
+- Concerning Women’s Ordination: Beginning with Genesis (old, broken link)
+- [Concerning Women’s Ordination: Disciples of Jesus](https://web.archive.org/web/20200611235658/http://willgwitt.org/theology/concerning-womens-ordination-disciples-of-jesus/)
+- [Concerning Women’s Ordination: Mutual Submission](https://web.archive.org/web/20200607212141/http://willgwitt.org/theology/concerning-womens-ordination-mutual-submission/)
+- [Concerning Women’s Ordination: Women in Worship and “Headship”](https://web.archive.org/web/20200610020930/http://willgwitt.org/theology/concerning-women%E2%80%99s-ordination-women-in-worship/)
+- Concerning Women’s Ordination: Speaking and Teaching (old, broken link)
+- [Concerning Women’s Ordination: A Presbytera is not a “Priestess” (Part 1: Old Testament Priesthood)](https://web.archive.org/web/20200617030107/http://willgwitt.org/theology/concerning-womens-ordination-a-presbytera-is-not-a-priestess-part-1/)
+- Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ (Biblical and Patristic Background) (old, broken link)
+- [Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ (in persona Christi)](https://web.archive.org/web/20200609190618/http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/)
+- [Concerning Women’s Ordination: The Argument From Symbolism Part 1 (God, Christ, Apostles)](https://web.archive.org/web/20200606073652/http://willgwitt.org/theology/concerning-womens-ordination-the-argument-from-symbolism-part-1/)
+- Concerning Women’s Ordination: The Argument From Symbolism (Part 2: Transcendence, Immanence and Sexual Typology) (old, broken link)
+- [Concerning Women’s Ordination: Women’s Ministry in the New Testament (Office)](https://web.archive.org/web/20200609073853/http://willgwitt.org/theology/womens-ordination-office/)
+- Concerning Women’s Ordination: Women’s Ministry in the New Testament (Bishops, Presbyters, Deacons) or a Presbytera is not a “Priestess” (Part 2) (old, broken link)
+- [Conclusion](https://web.archive.org/web/20200617030110/http://willgwitt.org/theology/womens-ordination/concerning-womens-ordination-conclusion/)
 
 Are hierarchicalists free to disagree with the mutualists on particular points and texts? Of course!
 

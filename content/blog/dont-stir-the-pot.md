@@ -18,7 +18,7 @@ I'm pondering the "don't stir the pot" reaction that reliably happens every time
 
 Almost every time we post something about women's ordination, a controversial issue has been whether or not doing so needlessly "stirs the pot," as in "causes trouble, unrest, dissent."
 
-On the one hand, some argue that this issue has already been debated to death. From this perspective, continuing to post about women's ordination simply exacerbates a condition that would be better off left alone—[the “dual integrities” diocesan-level division on women's ordination that currently characterizes the ACNA.](https://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/). On the other hand, however, others argue that, since this issue is not settled, it's perfectly appropriate to blog about this.
+On the one hand, some argue that this issue has already been debated to death. From this perspective, continuing to post about women's ordination simply exacerbates a condition that would be better off left alone—[the “dual integrities” diocesan-level division on women's ordination that currently characterizes the ACNA.](https://web.archive.org/web/20211119150347/https://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/). On the other hand, however, others argue that, since this issue is not settled, it's perfectly appropriate to blog about this.
 
 The issue, then, is whether or not women's ordination is worth talking about, at least among Anglicans in public.
 

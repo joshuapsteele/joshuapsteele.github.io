@@ -18,7 +18,7 @@ What does it mean for Christ to be the Perfect Penitent? And how should this inf
 
 [](http://postbarthian.com/2013/07/17/karl-barth-on-the-temptation-of-jesus-in-the-wilderness/)
 
-The following series of quotations comes from a lengthy small-print section in [CD](http://en.wikipedia.org/wiki/Church_Dogmatics) [IV](http://www.foundationrt.org/outlines/Barth_Dogmatics_Volume_IV.pdf)/1, 259-73 *(§ 59 The Obedience of the Son of God; 2. The Judge Judged in Our Place)*. There Barth walks through the three wilderness temptations before masterfully connecting them to Christ's experience in the Garden of Gethsemane.
+The following series of quotations comes from a lengthy small-print section in [CD](http://en.wikipedia.org/wiki/Church_Dogmatics) [IV](https://web.archive.org/web/20110203080451/http://foundationrt.org/outlines/Barth_Dogmatics_Volume_IV.pdf)/1, 259-73 *(§ 59 The Obedience of the Son of God; 2. The Judge Judged in Our Place)*. There Barth walks through the three wilderness temptations before masterfully connecting them to Christ's experience in the Garden of Gethsemane.
 
 On page 261, the discussion of the temptations begins:
 

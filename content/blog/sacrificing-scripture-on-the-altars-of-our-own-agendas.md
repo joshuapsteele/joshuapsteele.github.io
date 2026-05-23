@@ -13,7 +13,7 @@ tags:
 url: /sacrificing-scripture-on-the-altars-of-our-own-agendas/
 ---
 
-Undoubtedly the title of this blog post could be taken in hundreds of different directions. However, given recent developments close to home, and [the Answers in Genesis conference coming to Cedarville University on Sept. 23-24](http://www.cedarville.edu/Offices/Public-Relations/CampusNews/2012/Cedarville-to-Host-Answers-in-Genesis-Conference.aspx), I’d like to get people thinking about Ken Ham, his organization’s agenda, and **how Scripture might very well be getting abused for the sake of Young Earth Creationism**.
+Undoubtedly the title of this blog post could be taken in hundreds of different directions. However, given recent developments close to home, and the Answers in Genesis conference coming to Cedarville University on Sept. 23-24 (old, broken link), I’d like to get people thinking about Ken Ham, his organization’s agenda, and **how Scripture might very well be getting abused for the sake of Young Earth Creationism**.
 
 I say this as someone who used to be a zealous defender of everything that Answers in Genesis stands for. I viewed the Creationism vs. Evolution debate as central and foundational to the Christian life. I would sit for hours on end and listen to guys like Kent Hovind and their defenses of Young Earth Creationism…
 

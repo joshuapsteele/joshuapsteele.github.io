@@ -29,13 +29,13 @@ Having taken Malysz’s Fall 2014 seminar on Karl Barth, I was intrigued by the 
 
 It has been over a year since that class discussion, but these questions are still on my mind. I’m convinced that Barth’s and Bonhoeffer’s theological critiques of religion can provide resources for the Church today.
 
-In addition to that class discussion question, [Tom Greggs](http://www.abdn.ac.uk/sdhp/people/profiles/t.greggs)‘ *[Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth](http://amzn.to/2bWb4cI)* \[affiliate links throughout\] has been an enormous catalyst for this project.
+In addition to that class discussion question, Tom Greggs (old, broken link)‘ *[Theology Against Religion: Constructive Dialogues with Bonhoeffer and Barth](http://amzn.to/2bWb4cI)* \[affiliate links throughout\] has been an enormous catalyst for this project.
 
 After graduating from Beeson in December, I plan to pursue a Ph.D. in historical/systematic theology. If all goes well, I’d like to expand my Barth/Bonhoeffer project this semester into a doctoral project – perhaps focusing on the relationship between Barth’s “No-God” and Bonhoeffer’s “God-as-stopgap,” or on the relationship between Barth’s and Bonhoeffer’s theological interpretation\[s\] of Scripture and their theological critiques of religion.
 
 ## My Reading List
 
-Anyway, with the help of [Michael DeJonge](http://religious-studies.usf.edu/faculty/mdejonge/), Clifford Green, [Garrett Green](https://www.conncoll.edu/directories/emeritus-faculty/garrett-green/), [Tom Greggs](http://www.abdn.ac.uk/sdhp/people/profiles/t.greggs), and [Paul Dafydd Jones](http://religiousstudies.virginia.edu/faculty/profile/pdj5c), I have developed the following reading list for this semester’s directed study:
+Anyway, with the help of [Michael DeJonge](http://religious-studies.usf.edu/faculty/mdejonge/), Clifford Green, [Garrett Green](https://www.conncoll.edu/directories/emeritus-faculty/garrett-green/), Tom Greggs (old, broken link), and [Paul Dafydd Jones](http://religiousstudies.virginia.edu/faculty/profile/pdj5c), I have developed the following reading list for this semester’s directed study:
 
 ### **Primary Sources:** 
 

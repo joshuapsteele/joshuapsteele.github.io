@@ -24,15 +24,15 @@ Plus, I met my wife there! 🙂
 
 And yet, college also ***left a bad taste in my mouth***.
 
-See, in the year before I graduated, [some crazy things went down](https://storify.com/fiatlux125/cedarville-2012-2013/) at my alma mater.
+See, in the year before I graduated, [some crazy things went down](https://web.archive.org/web/20130622071535/http://storify.com:80/fiatlux125/cedarville-2012-2013/) at my alma mater.
 
 - It all started with some [sketchy White Papers](http://www.cedarville.edu/Job-Openings/Doctrinal-Statement.aspx) getting sprung on the faculty right before contract renewal.
 - Then, it led to the secret summer firing of a professor.
 - I reacted [on](/cedarville-let-there-be-light-pt-1/) [my](/cedarville-let-there-be-light-pt-2/) [blog](/an-explanation/).
-- [Christianity Today](http://www.christianitytoday.com/ct/2012/november/crisis-of-faith-statements.html) picked it up. As well as [a local newspaper](http://www.daytondailynews.com/news/news/cedarville-plays-professor-on-leave/nSwDJ/).
+- [Christianity Today](http://www.christianitytoday.com/ct/2012/november/crisis-of-faith-statements.html) picked it up. As well as [a local newspaper](https://web.archive.org/web/20130611200728/http://www.daytondailynews.com:80/news/news/cedarville-plays-professor-on-leave/nSwDJ/).
 - The same day the Christianity Today piece ran, the President “resigned.”
 - So did the Vice President of Student Life.
-- You know what? It’s a long story, just [read it here if you’re interested](https://storify.com/fiatlux125/cedarville-2012-2013/).
+- You know what? It’s a long story, just [read it here if you’re interested](https://web.archive.org/web/20130622071535/http://storify.com:80/fiatlux125/cedarville-2012-2013/).
 
 Between my [original blogpost](/cedarville-let-there-be-light-pt-1/) and my “[final farewell,](/a-farewell-to-cedarville/)” I tried to take a pretty active role in the student protests against what was going on at CU.
 

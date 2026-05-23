@@ -95,7 +95,7 @@ READ: [The Groom's Big Day Sermon Manuscript](/wp-content/uploads/2016/03/the-gr
 
 ## Easter Vigil Sermon: "Son of Man, Can Your Bones Live?"
 
-[Easter Vigil Readings](http://lectionary.library.vanderbilt.edu/texts.php?id=131); (26 March, 2016). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
+[Easter Vigil Readings](https://web.archive.org/web/20240712145539/https://lectionary.library.vanderbilt.edu/texts.php?id=131); (26 March, 2016). Preached at [St. Peter's Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL.
 
 READ: [Easter Vigil Sermon Manuscript](/son-of-man-can-your-bones-live/)
 

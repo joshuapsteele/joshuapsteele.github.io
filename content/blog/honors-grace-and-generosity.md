@@ -17,7 +17,7 @@ Today I received two awards at Cedarville University’s [49th Annual Academic H
 
 The first: The Oxford University Press Award in Preseminary Bible, given to the graduating senior with the highest cumulative GPA in the preseminary major.
 
-The second: [The Daniel Award.](http://www.cedarville.edu/financialaid/Daniel+Award)
+The second: [The Daniel Award.](https://web.archive.org/web/20130102055403/http://www.cedarville.edu:80/financialaid/Daniel+Award)
 
 “Established in 2001 by David and Jean Heyd, this endowed award was created to honor their parents, Charles and E. LaRue Wilcox and Elmer and Kathy Heyd. The scholarship assists a graduating full-time male senior student who has been accepted by a conservative evangelical seminary. The recipient must have a minimum cumulative GPA of 3.3, demonstrate the spiritual qualifications and godly leadership skills necessary to excel in this ministry, and plan to serve as full-time pastor of a church. \[…\] The Department of Biblical and Ministry Studies faculty select the recipients.”
 
