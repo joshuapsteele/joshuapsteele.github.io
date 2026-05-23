@@ -20,7 +20,21 @@ _No open medium-priority items._
 
 ### Low priority / when convenient
 
-_No open low-priority items._
+- [ ] **Finish removing legacy WordPress/Jetpack front-matter cruft.** A follow-on to the 2026-05-22 `publicize_*`/`showToc` cleanup. Verified that none of these fields are read by any template *except* `redirect_to` (see below). Posts needing review:
+  - **Safe to remove (junk / null / corrupted values):**
+    - `activitypub_status: null` — `content/blog/requiem-for-a-cousin-on-his-birthday.md`
+    - `jetpack_seo_html_title: null` — `content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md`
+    - `tagazine-media: '02:33:04";} ...'` (corrupted) — `content/blog/honors-grace-and-generosity.md`
+  - **`format: aside` (WordPress post format, no Hugo effect) — safe to remove from 4 posts:**
+    - `content/blog/introduction-to-christian-theology-a-draft-syllabus.md`
+    - `content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md`
+    - `content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md`
+    - `content/blog/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again.md`
+  - **Has real text — eyeball the value before deleting (likely redundant with `description`, but confirm):**
+    - `excerpt` — `content/blog/the-hope-of-the-holy-innocents.md`, `content/blog/the-prodigal-son-part-2-introduction-to-romans.md`
+    - `advanced_seo_description` — `content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md`
+  - **DO NOT REMOVE — functional:** `redirect_to` in `content/blog/if-women-can-be-saved-then-women-can-be-priests.md` is read by `layouts/_default/redirect.html` to redirect the post to its republication at inchristus.com.
+  - Note: removal must consume multi-line YAML continuation lines, not just the key line (a key-only removal broke the build during the `publicize_*` pass).
 
 ---
 
