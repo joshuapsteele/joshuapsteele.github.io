@@ -1,5 +1,5 @@
 {
-  "total_posts": 321,
+  "total_posts": 324,
   "missing_fields": {
     "author": [
       "content/blog/am-i-still-a-priest.md",
@@ -13,28 +13,25 @@
       "content/blog/rededicate-250-a-poem.md",
       "content/blog/romans-13-is-not-a-blank-check-for-cruelty.md",
       "content/blog/whats-gone-wrong-with-american-evangelicalism.md"
+    ],
+    "description": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
     ]
   },
   "field_usage": {
-    "author": 310,
-    "categories": 321,
-    "date": 321,
-    "description": 321,
-    "tags": 321,
-    "title": 321,
-    "url": 321,
-    "draft": 40,
-    "showToc": 25,
+    "author": 313,
+    "categories": 324,
+    "date": 324,
+    "description": 323,
+    "tags": 324,
+    "title": 324,
+    "url": 324,
+    "draft": 43,
+    "showToc": 26,
     "TocOpen": 16,
     "aliases": 2,
-    "tagazine-media": 1,
     "layout": 1,
-    "redirect_to": 1,
-    "format": 4,
-    "advanced_seo_description": 1,
-    "jetpack_seo_html_title": 1,
-    "activitypub_status": 1,
-    "excerpt": 2
+    "redirect_to": 1
   },
   "posts_by_category": {
     "personal": [
@@ -87,6 +84,7 @@
       "content/blog/know-thyself-unveiling-your-unique-strengths-and-personality-traits.md",
       "content/blog/let-there-be-light-my-resignation.md",
       "content/blog/life-lessons.md",
+      "content/blog/logos-bible-software-needs-an-mcp-server.md",
       "content/blog/mothers-day-poem.md",
       "content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md",
       "content/blog/my-soccer-kit.md",
@@ -110,6 +108,7 @@
       "content/blog/thank-god-i-went-to-cedarville.md",
       "content/blog/the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination.md",
       "content/blog/the-phd-plan-or-the-lack-thereof.md",
+      "content/blog/the-underrated-joy-of-fixing-things-yourself.md",
       "content/blog/this-song-is-a-beautiful-picture-of-the-theological-journey.md",
       "content/blog/troubleshooting-crossposting.md",
       "content/blog/unity.md",
@@ -447,6 +446,9 @@
     ],
     "politics": [
       "content/blog/rededicate-250-a-poem.md"
+    ],
+    "Theology": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
     ]
   },
   "posts_by_tag": {
@@ -933,13 +935,15 @@
       "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
       "content/blog/most-useful-websites-my-favorite-online-resources.md",
       "content/blog/saw-updates.md",
+      "content/blog/the-underrated-joy-of-fixing-things-yourself.md",
       "content/blog/vintage-craftsman-table-saw.md"
     ],
     "learning": [
       "content/blog/a-ridiculously-helpful-markdown-tutorial.md",
       "content/blog/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers.md",
       "content/blog/heres-the-template-i-use-to-take-notes-on-books-i-read.md",
-      "content/blog/prayer-of-st-thomas-aquinas-before-study.md"
+      "content/blog/prayer-of-st-thomas-aquinas-before-study.md",
+      "content/blog/the-underrated-joy-of-fixing-things-yourself.md"
     ],
     "poetry": [
       "content/blog/a-valediction.md",
@@ -1017,7 +1021,8 @@
       "content/blog/why-is-the-word-systemic-a-flashpoint-for-certain-christians.md"
     ],
     "ai": [
-      "content/blog/anyone-can-use-ai-tools-heres-how.md"
+      "content/blog/anyone-can-use-ai-tools-heres-how.md",
+      "content/blog/logos-bible-software-needs-an-mcp-server.md"
     ],
     "bonhoeffer": [
       "content/blog/are-the-beatitudes-good-works-matt-51316.md",
@@ -1065,6 +1070,7 @@
       "content/blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md",
       "content/blog/discover-learn-x-in-y-minutes-an-invaluable-resource-for-programmers.md",
       "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+      "content/blog/logos-bible-software-needs-an-mcp-server.md",
       "content/blog/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer.md",
       "content/blog/software-testing-possibilities-problems-and-principles.md"
     ],
@@ -1125,6 +1131,7 @@
     "diy": [
       "content/blog/birthday-wishlist-2025.md",
       "content/blog/saw-updates.md",
+      "content/blog/the-underrated-joy-of-fixing-things-yourself.md",
       "content/blog/vintage-craftsman-table-saw.md"
     ],
     "economics": [
@@ -1438,7 +1445,17 @@
       "content/blog/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths.md"
     ],
     "logos": [
-      "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md"
+      "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+      "content/blog/logos-bible-software-needs-an-mcp-server.md"
+    ],
+    "mcp": [
+      "content/blog/logos-bible-software-needs-an-mcp-server.md"
+    ],
+    "claude": [
+      "content/blog/logos-bible-software-needs-an-mcp-server.md"
+    ],
+    "bible-study": [
+      "content/blog/logos-bible-software-needs-an-mcp-server.md"
     ],
     "communication": [
       "content/blog/master-the-art-of-interpersonal-relationships-with-how-to-win-friends-and-influence-people.md"
@@ -1542,6 +1559,18 @@
     "quote": [
       "content/blog/tech-hype-and-the-growing-chasm.md"
     ],
+    "Dietrich Bonhoeffer": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
+    ],
+    "Karl Barth": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
+    ],
+    "dissertation": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
+    ],
+    "productivity": [
+      "content/blog/textexpander-archaeology-phd-snippets.md"
+    ],
     "social-justice": [
       "content/blog/the-bible-is-clear.md",
       "content/blog/why-is-the-word-systemic-a-flashpoint-for-certain-christians.md"
@@ -1551,6 +1580,9 @@
     ],
     "public-health": [
       "content/blog/the-fate-of-diphtheria.md"
+    ],
+    "repair": [
+      "content/blog/the-underrated-joy-of-fixing-things-yourself.md"
     ],
     "nationalism": [
       "content/blog/theology-against-nationalism.md"
@@ -1577,10 +1609,13 @@
   },
   "posts_without_categories": [],
   "posts_without_tags": [],
-  "posts_without_description": [],
+  "posts_without_description": [
+    "content/blog/textexpander-archaeology-phd-snippets.md"
+  ],
   "posts_without_url": [],
   "date_issues": [],
   "all_categories": [
+    "Theology",
     "dissertation",
     "ethics",
     "ministry",
@@ -1592,6 +1627,8 @@
   ],
   "all_tags": [
     "80-20",
+    "Dietrich Bonhoeffer",
+    "Karl Barth",
     "abuse",
     "acna",
     "advent",
@@ -1603,6 +1640,7 @@
     "authorization",
     "barth",
     "bible",
+    "bible-study",
     "biography",
     "bonhoeffer",
     "book-of-common-prayer",
@@ -1617,6 +1655,7 @@
     "civic-engagement",
     "civic-virtue",
     "civil-rights",
+    "claude",
     "coding",
     "coding-bootcamp",
     "collect",
@@ -1633,6 +1672,7 @@
     "democracy",
     "discipleship",
     "dispensationalism",
+    "dissertation",
     "diy",
     "drafts",
     "due-process",
@@ -1687,6 +1727,7 @@
     "logos",
     "loneliness",
     "matthew-25",
+    "mcp",
     "mental-health",
     "ministry",
     "misanthropy",
@@ -1704,6 +1745,7 @@
     "politics",
     "poverty",
     "prayer",
+    "productivity",
     "programming",
     "prophetic-witness",
     "protest",
@@ -1721,6 +1763,7 @@
     "refugees",
     "relationships",
     "religion",
+    "repair",
     "research",
     "resurrection",
     "revelation",
@@ -1767,7 +1810,9 @@
     "Whitney Evans Harrison",
     "joshuapsteele"
   ],
-  "draft_posts": [],
+  "draft_posts": [
+    "content/blog/the-underrated-joy-of-fixing-things-yourself.md"
+  ],
   "posts_with_aliases": [
     "content/blog/birthday-wishlist-2025.md",
     "content/blog/citizens-manifesto.md"
