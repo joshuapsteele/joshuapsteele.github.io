@@ -17,7 +17,6 @@ Last Updated: 2025-07-02
 
 (These are in addition to [these "self-elicitation" questions, which are always worth asking yourself](/questions-worth-asking/)!)
 
-- Where can one buy Madeira wine in NW Ohio?
 - What are the most helpful resources (books, podcasts, shows, exercises, etc.) for teaching young children how to have good manners?
 - What's the best, easiest workflow for sharing links online?
 - What's a good "budget" version of a [Veto Pro Pac TP-LC tool bag](https://www.amazon.com/dp/B09TPZKBDP?tag=joshuapsteele-20)?
@@ -50,7 +49,8 @@ On a deeper level:
     - I've also been collecting practical reference books on tools, home repair, homesteading, prepping, gardening, etc. You know, just in case society collapses and I no longer have access to Google and YouTube!
 - What's the best "budget" bidet?
     - If/when my wife ever lets us get a bidet (she's worried about our toddler getting into things and causing a huge mess), I'll probably just go with [Wirecutter's Budget Pick](https://www.nytimes.com/wirecutter/reviews/best-bidet-toilet-seat-washlet/).
-
+- Where can one buy Madeira wine in NW Ohio?
+    - Joseph's Beverage Center in Toledo, OH
 ---
 
 What questions *should* I be asking? [Let me know](/contact)!
