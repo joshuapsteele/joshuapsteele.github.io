@@ -5,7 +5,7 @@ draft: true
 description: "7 gift ideas for Father's Day 2026"
 tags: ["recommendations"]
 categories: ["diy"]
-url: /father-s-day-gift-ideas-2026/
+url: /fathers-day-gift-ideas-2026/
 ---
 
 Father's Day is around the corner, so I thought I'd share some of my wish list, as well as tools I highly recommend.
