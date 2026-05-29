@@ -1,7 +1,7 @@
 ---
 title: "Father's Day Gift Ideas 2026"
 date: 2026-05-29T15:20:35Z
-draft: true
+draft: false
 description: "7 gift ideas for Father's Day 2026"
 tags: ["recommendations"]
 categories: ["diy"]
