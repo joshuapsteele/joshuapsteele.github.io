@@ -14,9 +14,9 @@ I'm Josh Steele, a software engineer, writer, husband, father, and former Anglic
 
 Professionally, I work on backend systems in the Identity and Access Management (IAM) space for a cybersecurity company. Most of my day-to-day work lives around Java, SQL, Python, distributed systems, debugging, and the human work of making technical decisions with other people. Here's my [LinkedIn](https://www.linkedin.com/in/joshuapsteele/) and my [CV](/cv/), if you'd like the professional version.
 
-Before software, I spent years studying theology and serving in Anglican ministry. I was ordained a deacon in 2016 and a priest in 2019 in the Anglican Church in North America. Due to growing disaffection with the denomination, I [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023.
+Before pivoting to tech, I spent years studying theology and serving in Anglican ministry. I was ordained a deacon in 2016 and a priest in 2019 in the Anglican Church in North America. Due to growing disaffection with the denomination, I [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023.
 
-Apparently [there's disagreement within the ACNA over whether, by resigning, I thereby renounced my Holy Orders as such](/am-i-still-a-priest/). I'm still trying to figure out what, if anything, to do with my Holy Orders and three degrees in theology.
+(Apparently [there's disagreement within the ACNA over whether, by resigning, I thereby renounced my Holy Orders as such](/am-i-still-a-priest/). I'm still trying to figure out what, if anything, to do with my Holy Orders and three degrees in theology.)
 
 After a long time away for school, ministry, and work, I'm back in Ohio, where I live with my wife and our three young children.
 

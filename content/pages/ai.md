@@ -11,8 +11,7 @@ url: /ai
 
 - To code. I use the following tools:
     - Claude Code
-    - Windsurf IDE
-    - GitHub Copilot
+    - OpenAI's Codex
 - To brainstorm
 - To clean-up text
 

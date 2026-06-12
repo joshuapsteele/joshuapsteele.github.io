@@ -55,6 +55,7 @@ Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-
 
 - Coffee Maker: [OXO 9-Cup Coffee Maker](https://www.oxo.com/barista-brain-9-cup-coffee-maker.html)
 - Coffee Grinder: [Capresso Infinity Conical Burr Grinder](https://amzn.to/3EfZnN3)
+	- Manual Coffee Grinder: 
 - Water Bottle: [Owala FreeSip, 24oz](https://www.amazon.com/dp/B085DV8T75?tag=joshuapsteele-20)
   - Previous: [Iron Flask, 64oz](https://amzn.to/3tkbBOl)
 - Nail Clippers: [Muji Nail Clipper](https://www.amazon.com/dp/B00ECPRRIC?tag=joshuapsteele-20)

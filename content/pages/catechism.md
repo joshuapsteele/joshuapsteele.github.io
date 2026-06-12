@@ -29,7 +29,7 @@ It may also be used to form a simple service; since the matter is arranged under
 
 ### What is your name?
 
-*[Here the person states their baptismal name.]*
+*\[Here the person states their baptismal name.\]*
 
 ### Who gave you this name?
 
@@ -794,7 +794,7 @@ Our assurance as Christians is that nothing, not even death, shall separate us f
 
 ## A Note on Sources
 
-This enhanced catechism draws from two primary sources:
+This "enhanced catechism" draws from two primary sources:
 
 **[The Book of Common Prayer (1979), Episcopal Church (USA)](https://www.bcponline.org/)** provides the main structure and most of the content. The 1979 revision represented a significant liturgical renewal, incorporating insights from the wider ecumenical movement and contemporary biblical scholarship while maintaining continuity with Anglican tradition.
 
