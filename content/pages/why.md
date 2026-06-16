@@ -23,12 +23,14 @@ What I want:
 ## Health & Fitness
 
 - To weigh 200 pounds or less
+	- Current: 215 (2026-06-16)
 - To be able to finish a half marathon at any time
+	- Training for the Garmin Toledo Half Marathon in 2026-09!
 - To look good naked
 
 ## Finances
 
 - To have control over my time
-  - “The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, _The Psychology of Money_, 83).
+	- “The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. It is the highest dividend money pays” (Morgan Housel, _The Psychology of Money_, 83).
 - To make at least $200K/year
 - To have at least $100K saved in the bank

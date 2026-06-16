@@ -38,8 +38,6 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 ## Tools
 
 - [Knipex Forged Wirestripper, 8-inch](https://amzn.to/3InnRJe)
-- [Wera Kraftform Kompakt 26 RA-R ratcheting screwdriver](https://amzn.to/41WmQyt) with onboard bit storage
-- [Veto Pro Pac SP-MC tool bag](https://amzn.to/4n59hW3)
 - [Leatherman ARC multitool](https://www.leatherman.com/products/arc)
 - Planer
 - Jointer
@@ -65,13 +63,15 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 - ✅ [Jack stands](https://www.harborfreight.com/automotive/jacks-jack-stands/jack-stands/6-ton-heavy-duty-ratcheting-jack-stands-black-58342.html)
 - ✅ [Stanley FuBar III](https://amzn.to/3ZJ0BZT) pry bar
 - ✅ [“Burke bar” pry bar](https://marshalltown.com/pro-2152-monster-pry-bar)
+- ✅ [Wera Kraftform Kompakt 26 RA-R ratcheting screwdriver](https://amzn.to/41WmQyt) with onboard bit storage
+- ✅ [Veto Pro Pac SP-MC tool bag](https://amzn.to/4n59hW3)
 
 ## Hobbies, Tech, etc.
 
-- New MacBook Pro (Current: 2016)
 - 3D printer
 - Electric guitar, amp, and pedals: [Yamaha GigMaker set](https://www.sweetwater.com/store/detail/GigMakEGBk--yamaha-gigmaker-electric-guitar-pack-black)
 - ✅ New iPhone (iPhone XR -> iPhone 16e)
+- ✅ Mac Mini (Apple M4, 32GB, 2024)
 
 ## Books
 
@@ -85,4 +85,4 @@ Here's a wish list I regularly update. I also keep [my Amazon wish list updated 
 
 * * *
 
-Last updated 2025-11-26
+Last updated 2026-06-16
