@@ -9,6 +9,8 @@ tags:
 url: /finding-a-hat-for-my-big-bald-head/
 ---
 
+(TL;DR: If you've got a big head like me, I HIGHLY recommend trying the [Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat](https://amzn.to/3UzLvWa). It's my daily go-to hat, and I love it.)
+
 I’ve been on a lifelong journey to find hats that will fit my big ol’ head. Now that I’m bald, and the summer months are approaching, I figured it would be good to find one or two more hats to add to my rotation.
 
 I’ve narrowed this round down to trying the following hats, in case you’re interested (Amazon affiliate links below):
@@ -18,7 +20,7 @@ I’ve narrowed this round down to trying the following hats, in case you’re i
     - I’m a sucker for Carhartt and Carhartt brown!
     - This hat is comfortable
     - I like that it looks different than my other hats, which tend to be black, gray, etc.
-- [Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat](https://amzn.to/3UzLvWa) (Charcoal Gray, One Size) 
+- ⭐️[Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat](https://amzn.to/3UzLvWa)⭐️ (Charcoal Gray, One Size) 
     - Charcoal gray is my favorite color (not sure what that says about me…)
     - I really like the look and fit of this one
 - [Flexfit Men’s Delta Seamless Cap](https://amzn.to/3xLtY4j) (Dark Grey, XX-Large) 
