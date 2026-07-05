@@ -12,7 +12,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ### Deployment
 - `deploy.sh` - Deploy site to GitHub (commits with timestamp and pushes)
 - `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
-- `fetch_syndication_links.py` - Fetch Micro.blog syndication URLs for Hugo response links
+- `fetch_syndication_links.py` - Fetch Micro.blog syndication URLs (including Mastodon, Threads, and Bluesky) for Hugo response links
 - `send_webmentions.py` - Discover and send outgoing Webmentions for recently built reply posts
 - `check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
 

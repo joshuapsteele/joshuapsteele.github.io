@@ -14,6 +14,7 @@
 {{- $microblogURL := $entry.microblog | default "" -}}
 {{- $mastodonURL := $entry.mastodon | default "" -}}
 {{- $threadsURL := $entry.threads | default "" -}}
+{{- $blueskyURL := $entry.bluesky | default "" -}}
 
 <section class="respond-section" aria-labelledby="respond-heading">
   <hr>
@@ -33,6 +34,9 @@
     {{- end }}
     {{- with $threadsURL }}
     <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Threads</a>
+    {{- end }}
+    {{- with $blueskyURL }}
+    <a class="respond-button u-syndication" href="{{ . }}" target="_blank" rel="noopener">Discuss on Bluesky</a>
     {{- end }}
     <button class="respond-button respond-copy-link" type="button" data-copy-url="{{ .Permalink }}">Copy link</button>
   </div>

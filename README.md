@@ -147,7 +147,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
 ### Identity & Discovery
 
 - **h-card**: Machine-readable identity information on the homepage
-- **rel="me"**: Verified links to other profiles (Micro.blog, Mastodon)
+- **rel="me"**: Verified links to other profiles (Micro.blog, Mastodon, Bluesky)
 - **WebFinger**: Fediverse discovery at `/.well-known/webfinger`
 - **IndieAuth**: Sign in with your domain at `https://joshuapsteele.com`
 
@@ -164,7 +164,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
   - JavaScript-based display of webmentions and Micro.blog conversations on each post
   - Grouped by type: likes, reposts, replies, mentions
 - **Outgoing Webmentions**: Recent reply posts are checked during deploy and notify the original post when it advertises a Webmention endpoint
-- **Syndication links**: The deploy fetches Micro.blog's public JSON feed and renders known Mastodon, Threads, and Micro.blog discussion links on canonical posts
+- **Syndication links**: The deploy fetches Micro.blog's public JSON feed and renders known Mastodon, Threads, Bluesky, and Micro.blog discussion links on canonical posts
 
 ### Reply Posts
 
@@ -190,10 +190,11 @@ This site is part of the [IndieWeb Webring](https://xn--sr8hvo.ws/) - a collecti
 
 ### POSSE Workflow
 
-Posts are published on this site first, then syndicated to:
+Posts are published on this site first. Micro.blog handles the current Mastodon/Threads syndication, and the public social profiles are:
 - [Micro.blog](https://social.joshuapsteele.com/)
 - [Mastodon](https://mastodon.social/@joshuapsteele)
 - [Threads](https://www.threads.com/@joshuapsteele)
+- [Bluesky](https://bsky.app/profile/joshuapsteele.com) (`@joshuapsteele.com`)
 
 `scripts/fetch_syndication_links.py` maps Micro.blog's `_microblog.syndication` URLs back to canonical joshuapsteele.com paths and writes `data/syndication.json`. GitHub Actions runs it before Hugo builds, and a scheduled deploy refreshes those links after Micro.blog finishes asynchronous cross-posting.
 
@@ -293,7 +294,7 @@ Main configuration is in `hugo.yaml`. Key settings include:
 
 - **Profile Mode**: Custom homepage with profile buttons
 - **Navigation**: Top menu and footer customization
-- **Social**: Mastodon, Threads, GitHub, LinkedIn, RSS
+- **Social**: Mastodon, Threads, Bluesky, GitHub, LinkedIn, RSS
 - **Search**: Fuse.js configuration
 - **Feeds**: RSS and JSON output formats
 - **Build**: Image optimization, caching, minification

@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Last refreshed: 2026-05-22_
+_Last refreshed: 2026-07-05_
 
 This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
 
@@ -127,7 +127,7 @@ The `scripts/deploy.sh` script simplifies local deployment workflow:
 - Footer text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
 
 ### Social & Sharing
-- Social icons: Mastodon, Threads, GitHub, LinkedIn, microblog, RSS
+- Social icons: Mastodon, Threads, Bluesky, GitHub, LinkedIn, microblog, RSS
 - Default social sharing image: `/images/headshot.jpg`
 - Share buttons enabled on posts
 - Disqus comments configured but disabled by default
@@ -174,7 +174,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
 
 ### Identity & Authentication
 - **rel="me"**: Verified identity links in footer and social icons
-  - Links to Micro.blog and Mastodon (bidirectional verification)
+  - Links to Micro.blog, Mastodon, and Bluesky (including the custom-domain Bluesky handle `@joshuapsteele.com`)
 - **IndieAuth**: Domain-based authentication endpoints (`layouts/partials/extend_head.html`)
   - Authorization endpoint: `https://indieauth.com/auth`
   - Token endpoint: `https://tokens.indieauth.com/token`

@@ -211,13 +211,13 @@ Your reply.
 
 ## Step 10a — Syndication links
 
-Micro.Blog exposes Mastodon and Threads cross-post URLs in its public JSON feed after it has processed your source feeds. The deploy runs:
+Micro.Blog exposes cross-post URLs in its public JSON feed after it has processed your source feeds. The importer recognizes Mastodon, Threads, and Bluesky URLs when present. The deploy runs:
 
 ```bash
 python3 scripts/fetch_syndication_links.py
 ```
 
-That script writes `data/syndication.json`, keyed by canonical joshuapsteele.com path. `layouts/partials/respond_links.html` uses that data to render links such as "Discuss on Mastodon" and "Discuss on Threads" on posts and notes.
+That script writes `data/syndication.json`, keyed by canonical joshuapsteele.com path. `layouts/partials/respond_links.html` uses that data to render links such as "Discuss on Mastodon," "Discuss on Threads," and "Discuss on Bluesky" on posts and notes.
 
 Because cross-posting happens after the first site build, the workflow also has a scheduled rebuild. That second pass lets the site pick up syndication URLs once Micro.Blog knows them. The scheduled run skips outgoing Webmentions so old reply notifications are not re-sent.
 

@@ -34,6 +34,8 @@ This is my main personal website, powered by [Hugo](https://gohugo.io) and [Pape
 
 Shorter posts live first in [/notes](/notes/) and are syndicated through [Micro.blog](https://social.joshuapsteele.com) to [Mastodon](https://mastodon.social/@joshuapsteele) and [Threads](https://www.threads.com/@joshuapsteele).
 
+I'm also on [Bluesky as `@joshuapsteele.com`](https://bsky.app/profile/joshuapsteele.com).
+
 If you'd like to stay updated, [visit my Follow page](/follow/) to subscribe to my newsletter, RSS feeds, or social accounts.
 
 Good starting points:

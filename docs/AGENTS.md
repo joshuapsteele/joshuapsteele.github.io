@@ -49,7 +49,7 @@ This site is IndieWeb-enabled. Key implementations:
 - **Microformats2**: h-card (homepage), h-entry (posts), h-feed (lists)
 - **Webmentions**: Receiving via webmention.io; display via JavaScript
 - **Reply Context**: Posts with `in_reply_to` front matter show original post context
-- **Identity**: rel="me" links, IndieAuth endpoints, WebFinger for Fediverse
+- **Identity**: rel="me" links (including Bluesky `@joshuapsteele.com`), IndieAuth endpoints, WebFinger for Fediverse
 - **POSSE**: Publish here first, syndicate to Micro.blog → Mastodon/Threads
 
 When creating reply posts, add to front matter:

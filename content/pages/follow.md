@@ -38,6 +38,7 @@ Subscribe to **Steele Notes** for new posts and occasional updates:
 
 ## Social And Elsewhere
 
+- [Bluesky](https://bsky.app/profile/joshuapsteele.com) (`@joshuapsteele.com`)
 - [GitHub](https://github.com/joshuapsteele/)
 - [LinkedIn](https://www.linkedin.com/in/joshuapsteele/)
 - [Mastodon](https://mastodon.social/@joshuapsteele)

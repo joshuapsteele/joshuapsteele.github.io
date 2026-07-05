@@ -35,6 +35,7 @@ I'm part of the [IndieWeb](https://indieweb.org/), a community effort to keep th
 - **Identity & Discovery**
   - [h-card](https://microformats.org/wiki/h-card) microformats for machine-readable identity
   - [rel="me"](https://indieweb.org/rel-me) links for identity verification across platforms
+  - [Bluesky](https://bsky.app/profile/joshuapsteele.com) custom-domain identity (`@joshuapsteele.com`)
   - [WebFinger](https://webfinger.net/) for Fediverse discovery
   - [IndieAuth](https://indieauth.com/) for signing in with my domain
 

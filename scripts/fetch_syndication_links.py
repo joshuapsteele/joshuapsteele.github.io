@@ -3,9 +3,9 @@
 Fetch Micro.blog syndication links and generate data/syndication.json for Hugo.
 
 Micro.blog cross-posts after it reads the site's feeds, so the canonical Hugo
-source does not know Mastodon or Threads URLs at publish time. This script asks
-Micro.blog for recent posts, finds items whose canonical URL lives on
-joshuapsteele.com, and maps those URLs to their syndicated copies.
+source does not know Mastodon, Threads, or Bluesky URLs at publish time. This
+script asks Micro.blog for recent posts, finds items whose canonical URL lives
+on joshuapsteele.com, and maps those URLs to their syndicated copies.
 """
 
 import argparse
@@ -73,6 +73,8 @@ def service_for_url(url):
         return "threads"
     if "mastodon" in host:
         return "mastodon"
+    if host == "bsky.app" or host.endswith(".bsky.app"):
+        return "bluesky"
     if "micro.blog" in host:
         return "microblog"
     return "other"
