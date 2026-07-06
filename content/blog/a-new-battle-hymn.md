@@ -1,9 +1,13 @@
 ---
 title: "A New Battle Hymn"
+author: joshuapsteele
 date: 2026-07-06T18:27:06Z
-draft: true
-tags: []
-categories: []
+draft: false
+description: "New lyrics for the Battle Hymn of the Republic, proclaiming God's solidarity with migrants, the poor, and the oppressed."
+tags: [hymn, poetry, immigration, poverty, justice]
+categories: [poem, theology, politics]
+showToc: false
+TocOpen: false
 url: /a-new-battle-hymn/
 ---
 
@@ -33,7 +37,7 @@ He is filling up the hungry at His table, set to eat.
 While the rich he sends out--empty! Strikes the proud in their conceit!   
 The Lord is marching on!
 
-In the backwoods of an empire, Christ was born across the sea.  
-To His young and brown-skinned parents who lived life in poverty.  
+In the backwoods of an empire, Christ was born across the sea  
+To His young and brown-skinned parents, who lived life in poverty.  
 As He died to make us holy, let us die, then, to our greed!  
 The Lord is marching on!
