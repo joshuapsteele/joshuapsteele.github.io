@@ -95,8 +95,14 @@ jobs:
             -cf "$RUNNER_TEMP/artifact.tar" \
             --exclude=.git \
             --exclude=.github \
-            --exclude=".[^/]*" \
             .
+
+      - name: Verify well-known files in Pages artifact
+        run: |
+          if ! tar -tf "$RUNNER_TEMP/artifact.tar" | grep -Fx './.well-known/webfinger'; then
+            echo "::error title=Missing WebFinger file::The Pages artifact does not contain .well-known/webfinger."
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-artifact@v6

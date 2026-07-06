@@ -51,6 +51,7 @@ _No open low-priority items._
 - [x] **Consolidated tag casing variants (2026-05-21).** Added taxonomy cleanup rules for `Bonhoeffer` → `bonhoeffer`, `Romans 13` → `romans-13`, `ICE` → `ice`, plus existing lowercase-space `romans 13` → `romans-13`; applied with `python3 scripts/apply-taxonomy.py --apply`.
 - [x] **Tagged all untagged blog posts (2026-05-21).** Added tags across the older untagged backlog and documented the new vocabulary in `docs/TAGGING-PROGRESS.md`.
 - [x] **Restored Bluesky identity links (2026-07-05).** The account is active again as [`@joshuapsteele.com`](https://bsky.app/profile/joshuapsteele.com); added it to `socialIcons`, public identity/follow pages, repository docs, and syndication-link recognition. Verified with `npm run build` and generated-page checks.
+- [x] **Preserved `.well-known` files in Pages deployments (2026-07-05).** Removed the broad dotfile exclusion that discarded Hugo's generated `.well-known` directory and added a CI assertion that the deployment artifact contains `webfinger`.
 - [x] Category consolidation completed (October 2025 audit cycle)
 - [x] `/notes/` section added (April 2026), POSSE workflow configured
 - [x] POSSE setup documented in `docs/POSSE-SETUP.md`
