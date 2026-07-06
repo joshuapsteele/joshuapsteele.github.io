@@ -5,7 +5,7 @@ draft: false
 tags: [immigration, politics, economics]
 categories: [ethics]
 description: "Fifteen common myths about immigrants answered with evidence-based facts from Alex Nowrasteh's immigration research."
-url: /myths-and-facts-about-immigrants
+url: /myths-and-facts-about-immigrants/
 ---
 
 Alex Nowrasteh at the Cato Institute has spent years researching immigration and debating the most common objections. His booklet [_The Most Common Arguments Against Immigration and Why They're Wrong_](https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20) tackles fifteen myths with evidence-based responses. Here's the short version.

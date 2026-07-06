@@ -9,7 +9,7 @@ title: The Book of Romans, Distilled and Paraphrased
 tags:
   - bible
   - romans
-url: /romans-distilled-paraphrased
+url: /romans-distilled-paraphrased/
 ---
 
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*

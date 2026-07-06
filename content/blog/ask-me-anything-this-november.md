@@ -7,7 +7,7 @@ categories: personal
 tags:
   - questions
   - writing
-url: /ask-me-anything-this-november
+url: /ask-me-anything-this-november/
 showToc: false
 ---
 I'd love to blog more regularly, and I love answering questions. So the "WeblogPoMo AMA" challenge caught my eye (old, broken link)!

@@ -1,0 +1,14 @@
+{
+  "$schema": "https://tangled.org/stevedylan.dev/sequoia/raw/main/sequoia.schema.json",
+  "siteUrl": "https://joshuapsteele.com",
+  "contentDir": "./content/blog",
+  "publicDir": "./static",
+  "outputDir": "./public",
+  "pathPrefix": "",
+  "publicationUri": "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.publication/3mpycrniluq2y",
+  "frontmatter": {
+    "publishDate": "date",
+    "slugField": "url"
+  },
+  "publishContent": false
+}

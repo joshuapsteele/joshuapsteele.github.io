@@ -9,7 +9,7 @@ description: "How The Oh Hellos' song 'The Truth is a Cave' captures the stages 
 tags:
   - music
   - theology
-url: /the-truth-is-not-a-cave
+url: /the-truth-is-not-a-cave/
 ---
 I was recently privileged to see one of my favorite bands, [The Oh Hellos](http://theohhellos.com/), in concert at the House of Blues in downtown Chicago.
 

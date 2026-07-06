@@ -9,7 +9,7 @@ tags:
   - economics
   - poverty
   - immigration
-url: /gods-economy
+url: /gods-economy/
 ---
 
 In God's economy, the most important people are not the billionaire, the business owner, or even the blue-collar worker. Instead, in God's economy, the most important people are the widow, the orphan, and the immigrant. Which is to say, the poor and the powerless.

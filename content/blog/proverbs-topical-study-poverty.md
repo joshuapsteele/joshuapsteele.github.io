@@ -10,7 +10,7 @@ tags:
 - proverbs
 - essay
 title: 'What the Bible Says About Poverty: The Book of Proverbs'
-url: /bible-poverty-proverbs
+url: /bible-poverty-proverbs/
 ---
 
 # Introduction: Poverty and Wealth

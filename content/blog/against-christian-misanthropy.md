@@ -6,7 +6,7 @@ description: "Exploring Christian humanism with David Gushee: why following Jesu
 draft: false
 showToc: false
 title: "Against Christian Misanthropy: Why Following Jesus Means Embracing Human Flourishing"
-url: /against-christian-misanthropy
+url: /against-christian-misanthropy/
 tags:
   - humanism
   - misanthropy
