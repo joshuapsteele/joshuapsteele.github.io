@@ -29,7 +29,7 @@ The Lord is marching on!
 
 Oh, to read that shocking gospel, writ on broken chains of steel:
 "As you deal with those in bondage, so with you My grace shall deal.  
-I will judge you by the plight of those you've crushed beneath your heel!"
+I will judge you by the plight of those you've crushed beneath your heel!"  
 The Lord is marching on!
 
 He has lifted up the lowly, cast the mighty from their seat.  
