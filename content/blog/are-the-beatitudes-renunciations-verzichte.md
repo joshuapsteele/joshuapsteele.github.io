@@ -11,6 +11,7 @@ url: /are-the-beatitudes-renunciations-verzichte/
 tags:
   - bonhoeffer
   - sermon-on-the-mount
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuukfg2b"
 ---
 
 In *Discipleship* (DBWE 4), Dietrich Bonhoeffer frames all of the Beatitudes in terms of Jesus’ disciples living in *renunciation* (Verzicht) and *want* (Mangel).

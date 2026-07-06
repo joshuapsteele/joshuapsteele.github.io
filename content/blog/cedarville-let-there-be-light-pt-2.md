@@ -9,6 +9,7 @@ tags:
   - evangelicalism
   - cedarville
 url: /cedarville-let-there-be-light-pt-2/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclwj3t2j"
 ---
 
 [Read Part One](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")

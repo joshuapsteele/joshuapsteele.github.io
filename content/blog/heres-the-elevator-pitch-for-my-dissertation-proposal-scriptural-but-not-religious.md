@@ -10,6 +10,7 @@ tags:
 title: 'Here''s the Elevator Pitch for my Dissertation Proposal: ''Scriptural, but
   Not Religious'''
 url: /heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6zfcx2p"
 ---
 
 Tomorrow, I defend the proposal for my dissertation. For now, the dissertation is tentatively titled: “Scriptural, but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”

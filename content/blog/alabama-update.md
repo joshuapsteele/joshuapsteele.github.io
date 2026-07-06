@@ -7,6 +7,7 @@ title: Alabama Update
 url: /20130719alabama-update/
 tags:
   - seminary
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjwvcj2f"
 ---
 
 Rachel and I are in the middle of our second month of calling Birmingham, Alabama “home.”

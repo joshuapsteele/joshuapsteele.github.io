@@ -9,6 +9,7 @@ tags:
   - college
   - cedarville
 url: /my-unforgettable-cedarville-experience/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmqc4s2b"
 ---
 
 *(The following is an expanded version of the speech I gave at this year’s CU Scholar Dessert Reception.)*

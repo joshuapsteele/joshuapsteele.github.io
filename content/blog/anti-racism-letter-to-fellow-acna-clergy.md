@@ -9,6 +9,7 @@ tags:
   - anglican-compass
   - race
   - racism
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbtdxng2k"
 ---
 
 **NOTE**: As is our policy with *all* Anglican Compass content, we ask that you [please submit a request before republishing content](https://anglicancompass.com/republishing-guidelines/).

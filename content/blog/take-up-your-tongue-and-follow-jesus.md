@@ -11,6 +11,7 @@ tags:
   - anglican
   - bible
 url: /take-up-your-tongue-and-follow-jesus/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5neld2i"
 ---
 
 *This sermon, on Mark 8:27-38 and James 3:1-12, was originally preached on September 16, 2018 at [Christ Redeemer Anglican Church in Milwaukee, WI](https://web.archive.org/web/20210123220910/https://www.christredeemermke.org/).*

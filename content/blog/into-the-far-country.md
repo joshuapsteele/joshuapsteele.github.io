@@ -7,6 +7,7 @@ tags:
 - barth
 title: Into the Far Country
 url: /into-the-far-country/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzs6oi2d"
 ---
 
 ![Karl Barth Quote Blue](/wp-content/uploads/2019/04/Karl-Barth-Quote-Blue.png "Karl Barth Quote Blue.png")

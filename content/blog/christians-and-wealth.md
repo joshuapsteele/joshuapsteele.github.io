@@ -12,6 +12,7 @@ tags:
   - poverty
   - discipleship
 url: /christians-and-wealth/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydccxv672p"
 ---
 
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:

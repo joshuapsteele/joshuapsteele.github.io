@@ -9,6 +9,7 @@ tags:
   - bible
   - lent
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchhnpa2d"
 ---
 
 I've been reproducing [Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth) magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.

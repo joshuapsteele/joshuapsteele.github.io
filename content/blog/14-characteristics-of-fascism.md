@@ -15,6 +15,7 @@ tags:
   - list
 title: "14 Characteristics of Fascism: Umberto Eco on Ur-Fascism"
 url: /14-characteristics-of-fascism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbjgmns2w"
 ---
 
 Let's try to define (or at least describe) fascism, shall we? 

@@ -9,6 +9,7 @@ url: /home-improvement-roadmap-and-roadblocks/
 tags:
   - drafts
   - home-improvement
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnfidy2y"
 ---
 
 We bought our first house in late 2023 and, since moving-in in January 2024, I’ve been chipping away at home improvement projects. Since I’m a software engineer and spend my day in front of a screen, I enjoy working with tools as a change of pace.

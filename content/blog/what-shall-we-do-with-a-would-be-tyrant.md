@@ -11,6 +11,7 @@ description: "A democracy protest sea shanty set to 'Drunken Sailor,' imagining 
 showToc: true
 TocOpen: false
 url: /what-shall-we-do-with-a-would-be-tyrant/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhcmyn2g"
 ---
 What Shall We Do With a Would-Be Tyrant?
 

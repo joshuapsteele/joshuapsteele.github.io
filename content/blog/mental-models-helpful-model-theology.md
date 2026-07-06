@@ -7,6 +7,7 @@ tags:
 - theology
 title: 'Mental Models: A Helpful Model for Theology?'
 url: /mental-models-helpful-model-theology/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcaxvel2j"
 ---
 
 This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.

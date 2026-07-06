@@ -10,6 +10,7 @@ tags:
   - purpose
   - mental-health
 url: /what-are-you-afraid-of/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydce7etp2p"
 ---
 I’m scared. Are you?
 

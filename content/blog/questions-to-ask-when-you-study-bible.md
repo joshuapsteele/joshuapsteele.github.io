@@ -8,6 +8,7 @@ tags:
 - questions
 title: 3 Questions to Ask When You Study the Bible
 url: /questions-to-ask-when-you-study-bible/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcb7p5k2w"
 ---
 
 ## The Problem: Studying the Bible can Quickly Feel Overwhelming

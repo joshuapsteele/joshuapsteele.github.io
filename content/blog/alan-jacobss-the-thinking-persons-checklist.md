@@ -9,6 +9,7 @@ tags:
   - reading
   - how-to-think
   - 80-20
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbvpztx2v"
 ---
 
 The following checklist, found on pages 155–56 of Alan Jacobs’s excellent book, [*How to Think: A Survival Guide for a World at Odds*](https://amzn.to/33TtBRv) (affiliate link), is a worthy addition to “Rapoport’s Rules” and “Adler’s Advice” (mentioned in my previous post, [“Help me come up with ‘rules for conversation’!”](/help-me-come-up-with-rules-for-conversation/)).

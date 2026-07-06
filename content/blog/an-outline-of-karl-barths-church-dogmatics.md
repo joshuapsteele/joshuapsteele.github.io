@@ -8,6 +8,7 @@ tags:
 - research
 title: An Outline of Karl Barth's Church Dogmatics
 url: /an-outline-of-karl-barths-church-dogmatics/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbyddk22w"
 ---
 
 {{< figure src="https://joshuapsteele.com/wp-content/uploads/2019/09/BarthTimeline-2-1024x536-1024x536.png" caption="[Karl Barth's Church Dogmatics Original Publication Dates, courtesy of PostBarthian.com](https://postbarthian.com/2016/04/21/karl-barths-church-dogmatics-original-publication-dates/)." >}}

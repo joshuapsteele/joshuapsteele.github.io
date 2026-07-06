@@ -8,6 +8,7 @@ title: 6 Things I'm Excited About (2024-08-04)
 url: /6-things-im-excited-about-2024-08-04/
 tags:
   - list
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnbkht2j"
 ---
 
 1. Sweater weather

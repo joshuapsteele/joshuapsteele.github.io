@@ -12,6 +12,7 @@ tags:
   - romans
   - bible
 url: /concerning-romans/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydci7ali2d"
 ---
 
 ![](http://www.treybailey.net/wp-content/uploads/2012/03/romans_title.jpg)

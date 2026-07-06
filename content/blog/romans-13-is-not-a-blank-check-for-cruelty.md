@@ -15,6 +15,7 @@ categories:
   - ethics
   - theology
 url: /romans-13-is-not-a-blank-check-for-cruelty/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbgoi2o2k"
 ---
 
 ICE agents [shot and killed Renée Good](https://www.nytimes.com/2026/01/15/video/ice-shooting-renee-good-minneapolis-videos.html), a US citizen and mother of three, on a Minneapolis street earlier this month. Video shows her steering away from the agent who killed her. DHS immediately labelled her a "domestic terrorist." ICE continues to terrorize neighborhoods and abduct citizens and non-citizens alike. 

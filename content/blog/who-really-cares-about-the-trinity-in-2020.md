@@ -9,6 +9,7 @@ tags:
 - sermons
 title: Who really cares about the Trinity in 2020?
 url: /who-really-cares-about-the-trinity-in-2020/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsu5g72v"
 ---
 
 *([To listen to the audio of this sermon as it was preached on June 6, 2020, click here.](https://friendsofthesavior.org/sermons/who-really-cares-about-the-trinity-josh-steele/))*

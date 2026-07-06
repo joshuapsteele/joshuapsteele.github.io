@@ -10,6 +10,7 @@ tags:
   - evangelicalism
   - cedarville
 url: /cedarville-let-there-be-light-pt-1/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcm2jrs2w"
 ---
 
 # The Statement:

@@ -8,6 +8,7 @@ tags:
   - church
   - ecclesiology
 url: /frustrated-with-church-youre-the-problem/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdlikt2i"
 ---
 
 Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](/frustrated-with-church-join-the-club). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!

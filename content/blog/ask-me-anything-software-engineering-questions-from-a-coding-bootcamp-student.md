@@ -9,6 +9,7 @@ tags:
   - software
   - software-engineering
   - technology
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpqohf25"
 ---
 
 I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)

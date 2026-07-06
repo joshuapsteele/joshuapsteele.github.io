@@ -9,6 +9,7 @@ tags:
   - list
 title: 8 Questions to Ask While Reading Theology
 url: /8-questions-to-ask-while-reading-theology/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc65lt72v"
 ---
 
 While reading Beth Felker Jones’ [*Practicing Christian Doctrine: An Introduction to Thinking and Living Theologically*](https://amzn.to/2vLkeEo), I came across the following list of extremely helpful questions to ask while reading theology (on page 29).

@@ -9,6 +9,7 @@ tags:
   - seminary
   - holy-week
 url: /three-recent-sermons/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcexcfy2d"
 ---
 
 It’s been a grueling past few weeks at [Beeson](http://www.beesondivinity.com/). Our Spring Break happens to coincide with Holy Week this year, and it can’t come quickly enough!

@@ -9,6 +9,7 @@ tags:
   - discipleship
   - sermons
 url: /following-jesus-beyond-the-bandwagon/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcd3t5h2p"
 ---
 
 *(A chapel message in a Christian school.)*

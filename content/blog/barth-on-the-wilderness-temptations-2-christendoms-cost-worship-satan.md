@@ -9,6 +9,7 @@ tags:
   - bible
   - lent
 url: /barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchdqch2k"
 ---
 
 [Yesterday I posted the beginning of Karl Barth's exegesis of Christ's wilderness temptations](/barth-on-the-wilderness-temptations-1-stones-into-bread). He does a masterful job of explaining how Christ was tempted, not to violate the Law or commit a moral infraction, but to abandon his role as the obedient, Perfect Penitent. Put differently, Barth clarifies that Jesus' sinlessness is not a vague moral perfection, but rather obedience and repentance.

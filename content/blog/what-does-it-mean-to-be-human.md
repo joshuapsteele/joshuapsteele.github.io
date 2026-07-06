@@ -6,6 +6,7 @@ date: '2015-05-07T22:38:13Z'
 description: "An essay on human self-transcendence, divided desires, idolatry, and receiving true humanity from God's address."
 title: What does it mean to be human?
 url: /what-does-it-mean-to-be-human/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgd3ex2k"
 ---
 
 ## *What Does It Mean to Be Human?*

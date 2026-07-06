@@ -10,6 +10,7 @@ tags:
   - reading
   - research
 url: /reading-recommendations-barths-bonhoeffers-false-gods/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcetbiy2d"
 ---
 
 Hi internet – especially all you Barthians and Bonhoefferians (-ites?) out there.

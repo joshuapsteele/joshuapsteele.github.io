@@ -9,6 +9,7 @@ url: /the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-wom
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbtls2f2g"
 ---
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Compass does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*

@@ -8,6 +8,7 @@ tags:
   - church
   - ecclesiology
 url: /frustrated-with-church-join-the-club/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdpewn25"
 ---
 
 …and by “club” I of course mean “Church”!

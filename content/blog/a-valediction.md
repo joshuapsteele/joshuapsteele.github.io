@@ -8,6 +8,7 @@ url: /a-valediction/
 tags:
   - poetry
   - high-school
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcnm3rk2b"
 ---
 
 # My Valedictorian Address, a Poem

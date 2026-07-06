@@ -7,6 +7,7 @@ tags:
 - poetry
 title: 'Wedding Vows: My Personal Take on the Traditional Version'
 url: /wedding-vows/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmu3dh2p"
 ---
 
 # The Traditional Wedding Vows

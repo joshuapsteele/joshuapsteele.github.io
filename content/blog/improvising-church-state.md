@@ -10,6 +10,7 @@ tags:
   - anglican
   - political-theology
 url: /improvising-church-state/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcf7bdx2p"
 ---
 
 ### INTRODUCTION: ACCEPTING, BLOCKING, AND STATUS

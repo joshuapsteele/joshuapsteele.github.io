@@ -7,6 +7,7 @@ title: Who am I to be a theologian?
 url: /who-am-i-to-be-a-theologian/
 tags:
   - barth
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchlidx2k"
 ---
 
 For my 20th Century History & Doctrine course at [Beeson Divinity School](http://www.beesondivinity.com/), I'm re-reading through [Karl Barth](http://en.wikipedia.org/wiki/Karl_Barth)'s *[Evangelical Theology: An Introduction](https://www.amazon.com/dp/0802818196?tag=joshuapsteele-20)*. If you're involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!

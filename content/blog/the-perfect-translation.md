@@ -10,6 +10,7 @@ tags:
   - books
   - bible
 url: /the-perfect-translation/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcip2cn25"
 ---
 
 Over the break between semesters at [Beeson Divinity School](http://www.beesondivinity.com/), I’m reviewing Bruce Waltke’s *The Dance Between God and Humanity: Reading the Bible Today as the People of God* (old, broken link) and Philip Goodwin’s *[Translating the English Bible: From Relevance to Deconstruction](https://www.amazon.com/dp/0227173910?tag=joshuapsteele-20)* for [Liverpool Hope University’s Theological Book Review](https://web.archive.org/web/20180429221525/http://www.hope.ac.uk:80/theologicalbookreview/).

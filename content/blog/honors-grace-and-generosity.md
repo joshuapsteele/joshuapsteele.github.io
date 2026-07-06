@@ -8,6 +8,7 @@ tags:
   - college
   - cedarville
 url: /honors-grace-and-generosity/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckon2z2f"
 ---
 
 Yahweh and others have been too good to me.

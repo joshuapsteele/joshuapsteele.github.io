@@ -11,6 +11,7 @@ tags:
   - 80-20
 title: Use Rapoport's Rules for Better Conversations and Disagreements
 url: /use-rapoports-rules-for-better-conversations-and-disagreements/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc2nnli2d"
 ---
 
 I’m reading Walter Sinnott-Armstrong’s excellent book, [*Think Again: How to Reason and Argue*](https://amzn.to/2BNTlTq).

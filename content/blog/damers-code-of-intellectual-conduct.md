@@ -9,6 +9,7 @@ tags:
   - reading
   - how-to-think
   - 80-20
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbvi3tl2j"
 ---
 
 This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](/alan-jacobss-the-thinking-persons-checklist/)

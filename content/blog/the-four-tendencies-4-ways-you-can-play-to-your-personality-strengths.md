@@ -8,6 +8,7 @@ title: 'The Four Tendencies: 4 Ways You Can Play to Your Personality Strengths'
 tags:
   - personality
 url: /the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6rfvl2i"
 ---
 
 In both my personal and coaching conversations recently, Gretchen Rubin’s personality framework called “The Four Tendencies” has really seemed to resonate with people.

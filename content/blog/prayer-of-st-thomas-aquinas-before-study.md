@@ -12,6 +12,7 @@ tags:
   - theology
   - learning
 url: /prayer-of-st-thomas-aquinas-before-study/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcb3tor2f"
 ---
 
 I want to share with you the following prayer of St. Thomas Aquinas Before Study, based on <u>***[Oratio S. Thomae Aquinatis ante studium](http://www.preces-latinae.org/thesaurus/Varia/CreatorIneff.html)***</u>, which Thomas Aquinas would pray before studying, writing, or preaching.

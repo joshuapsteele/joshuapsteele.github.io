@@ -10,6 +10,7 @@ tags:
   - recommendations
   - tools
 url: /most-useful-websites-my-favorite-online-resources/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqeosw2k"
 ---
 
 ## General / Thinking

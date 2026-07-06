@@ -7,6 +7,7 @@ tags:
 - authorization
 title: 'Authorization, Continued: Experimenting with OpenFGA, Topaz, and Permify'
 url: /authorization-continued/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbksboc2q"
 ---
 
 As I mentioned in my previous post, "Devs, Let's Talk Authorization!", I'm working on a new, exploratory work project related to authorization. Specifically, we're gathering authorization requirements from various orgs across our company and building 1-3 proofs-of-concept of a centralized, fine-grained approach to authorization. Right now, each org handles authorization in its own, usually coarse-grained and role-based way.

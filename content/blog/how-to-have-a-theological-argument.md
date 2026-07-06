@@ -15,6 +15,7 @@ tags:
 - discipleship
 title: How to Have a Theological Argument Without Hating Each Other
 url: /how-to-have-a-theological-argument/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbikzz72p"
 ---
 
 Tired of hearing Christians go nuclear over a verse in Revelation or a line from Genesis? Me too. We can do better. (Note: I've frequently failed at this myself, so consider this a reminder for me as much as for you.)

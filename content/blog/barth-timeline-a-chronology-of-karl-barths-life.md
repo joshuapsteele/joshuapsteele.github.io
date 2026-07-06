@@ -8,6 +8,7 @@ tags:
 - barth
 title: 'Barth Timeline: A Chronology of Karl Barth''s Life'
 url: /barth-timeline-a-chronology-of-karl-barths-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwhqc525"
 ---
 
 I really like the [timelines of Bonhoeffer’s life](/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/) that are available in *[The Cambridge Companion to Dietrich Bonhoeffer](https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20)* and in [Bethge’s ](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20)*[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20).* (Those last two links are Amazon affiliate links.)

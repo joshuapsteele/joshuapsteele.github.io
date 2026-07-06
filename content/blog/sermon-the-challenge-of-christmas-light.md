@@ -9,6 +9,7 @@ tags:
   - christmas
   - anglican
 url: /sermon-the-challenge-of-christmas-light/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcf3ckh2v"
 ---
 
 There are better preachers out there. So, if you’re short on time, go and listen to them! However, if you’ve got 26 minutes to spare, I offer “The Challenge of Christmas Light” to you, and would love to hear your feedback.

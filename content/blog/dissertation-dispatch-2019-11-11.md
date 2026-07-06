@@ -10,6 +10,7 @@ tags:
 - research
 title: 'Dissertation Dispatch: 2019-11-11'
 url: /dissertation-dispatch-2019-11-11/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwply62k"
 ---
 
 ## I’m narrowing my focus to Genesis 1–3 and the Sermon on the Mount. 

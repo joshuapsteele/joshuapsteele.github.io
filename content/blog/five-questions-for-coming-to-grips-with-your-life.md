@@ -9,6 +9,7 @@ tags:
   - 80-20
 title: Five Questions for Coming to Grips with Your Life
 url: /five-questions-for-coming-to-grips-with-your-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblzsrc2w"
 ---
 
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman

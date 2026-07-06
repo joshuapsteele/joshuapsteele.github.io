@@ -8,6 +8,7 @@ tags:
   - 80-20
 title: Ten Tools for Embracing Finitude
 url: /ten-tools-for-embracing-finitude/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbm5ts52g"
 ---
 
 Source: [*Four Thousand Weeks: Time Management for Mortals*](https://amzn.to/4fMUDyo) by Oliver Burkeman

@@ -9,6 +9,7 @@ tags:
   - easter
   - holy-week
   - resurrection
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnvf322b"
 ---
 
 With Holy Week and Easter coming up, I’ve been thinking about music and artwork that I’ve found particularly poignant when reflection on the crucifixion and resurrection.

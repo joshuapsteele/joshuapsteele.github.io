@@ -10,6 +10,7 @@ tags:
   - list
   - books
 url: /systematic-theologies-a-list-help-me-update/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5rfxv2g"
 ---
 
 # SYSTEMATIC THEOLOGIES: A LIST

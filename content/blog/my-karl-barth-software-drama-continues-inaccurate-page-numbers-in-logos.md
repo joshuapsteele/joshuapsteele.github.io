@@ -8,6 +8,7 @@ tags:
 - research
 title: 'My Karl Barth Software Drama Continues: Inaccurate Page Numbers in Logos'
 url: /my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4vrnj2f"
 ---
 
 Previously, I wrote about how [the Scripture search tool in the Digital Karl Barth Library was broken](/whats-gone-wrong-with-the-digital-karl-barth-library/). Thankfully, it [appears to have been fixed](/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/) (although it still has issues). This means I can search Barth’s “Collected Edition” (Gesamtausgabe) if needed.

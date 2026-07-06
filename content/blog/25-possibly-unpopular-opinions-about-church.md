@@ -12,6 +12,7 @@ tags:
   - worship-styles
   - church
   - list
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydboiwkc2q"
 ---
 The following are some of my opinions, held with varying levels of intensity, about church/churches.
 

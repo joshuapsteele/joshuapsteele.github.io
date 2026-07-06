@@ -7,6 +7,7 @@ tags:
 - questions
 title: Questions Worth Asking (Self-Elicitation Questions)
 url: /questions-worth-asking/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqim7q2d"
 ---
 
 These are questions that are always worth asking yourself. For a list of questions I'm currently asking and investigating, see [my `/questions` page](/questions).

@@ -9,6 +9,7 @@ tags:
   - anglican
   - lent
 url: /my-sermon-our-help/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchtgjf25"
 ---
 
 Hey internet: I was recently given the chance to preach at my church, [St. Peter’s Anglican](http://stpetersbhm.org/), on the [Second Sunday of Lent](https://web.archive.org/web/20240708160059/https://lectionary.library.vanderbilt.edu//texts.php?id=25). The sermon audio is now online (old, broken link). If you’ve got 23 minutes to spare, give it a listen (old, broken link)!

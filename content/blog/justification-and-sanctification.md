@@ -8,6 +8,7 @@ tags:
   - theology
   - seminary
 url: /justification-and-sanctification/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5jgxs2w"
 ---
 
 For my “Pedagogical Experience” requirement at Wheaton, I’m helping to teach a masters-level Christian Theology course.

@@ -8,6 +8,7 @@ tags:
   - 80-20
 title: Help me come up with “rules for conversation”!
 url: /help-me-come-up-with-rules-for-conversation/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbvtyzz2f"
 ---
 
 In my role as Managing Editor for AnglicanPastor.com, I’m realizing the need to develop some “rules for conversation.”

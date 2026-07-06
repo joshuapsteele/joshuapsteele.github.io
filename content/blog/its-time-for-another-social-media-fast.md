@@ -9,6 +9,7 @@ description: 'Cal Newport''s Deep Work convinced me: time for a 30-day fast from
 url: /its-time-for-another-social-media-fast/
 tags:
   - social-media
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbrualk2w"
 ---
 After listening to [the Blinkist summary of Cal Newport’s *Deep Work*](https://www.blinkist.com/en/books/deep-work-en) (I’ve read the book, this was just for a refresher), I’m convinced that it’s time for another 30-day fast from Twitter, Facebook, and Instagram.
 

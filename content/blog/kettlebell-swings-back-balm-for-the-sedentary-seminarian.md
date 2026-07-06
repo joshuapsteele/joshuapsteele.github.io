@@ -8,6 +8,7 @@ tags:
   - fitness
   - weightlifting
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcehej223"
 ---
 
 I love books. Books, however, do not like my back.

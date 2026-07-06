@@ -8,6 +8,7 @@ tags:
 - racism
 title: Top 3 Books, Movies, and Podcasts about Race for White Christians like Me
 url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsy3zk23"
 ---
 
 There are PLENTY of resource recommendations out there for those interested in learning more about racism and anti-racism (just Google “best X (books, movies, podcasts, etc.) on racism,” “antiracist reading list,” etc.).

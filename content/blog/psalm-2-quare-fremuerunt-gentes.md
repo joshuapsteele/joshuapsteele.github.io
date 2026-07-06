@@ -6,6 +6,7 @@ date: '2013-10-30T22:24:35Z'
 description: "An exegetical paper on Psalm 2—why the nations rage, the Lord's anointed Davidic king, and how the psalm is read in its canonical and New Testament context."
 title: 'Psalm 2: Quare Fremuerunt Gentes? (Why Do the Nations Rage?)'
 url: /psalm-2-quare-fremuerunt-gentes/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjd4v223"
 ---
 
 *(Here’s my paper on Psalm 2, submitted to Dr. [M. Sydney Park](http://www.beesondivinity.com/msydneypark) in partial fulfillment of my Biblical Interpretation course here at [Beeson Divinity School](http://www.beesondivinity.com/). Although I don’t consider this the best thing I’ve ever written, I’d love for you to check this piece out and let me know what you think, because no matter the limitations of the assignment, there’s always room for improvement. Plus, I didn’t have space to talk about all the issues whirring around in my head while writing this paper, and your constructive feedback might very well help me take my next intellectual steps. Click the title below for [the .pdf version](/wp-content/uploads/2013/10/joshuasteelepsalm.pdf).)*

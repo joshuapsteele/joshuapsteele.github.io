@@ -11,6 +11,7 @@ tags:
 - ethics
 title: Bonhoeffer on Stupidity
 url: /bonhoeffer-on-stupidity/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkoccn2g"
 ---
 
 In his "Letters and Papers from Prison," Dietrich Bonhoeffer made some remarkably insightful observations about the nature of stupidity and its dangers to society. These reflections, perhaps more relevant today than ever, deserve our careful attention. Here they are in full.

@@ -13,6 +13,7 @@ tags:
   - leadership
   - relationships
   - soft-skills
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpeu4z2f"
 ---
 
 Dale Carnegie’s timeless classic, *[How to Win Friends and Influence People](https://amzn.to/3K0VcaM)*, has been a bestseller for decades, offering insights and advice on improving interpersonal relationships. The book’s practical principles have helped millions of readers excel in their personal and professional lives.

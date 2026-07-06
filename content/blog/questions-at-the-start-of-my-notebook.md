@@ -8,6 +8,7 @@ tags:
 - questions
 title: Questions at the Start of My Notebook
 url: /questions-at-the-start-of-my-notebook/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblfxys2w"
 ---
 
 For the past few years, I've loosely followed [the "Bullet Journal" method of note-taking](https://bulletjournal.com/). Usually in a [Leuchtturm1917 Hardcover A5 notebook with dotted pages](https://amzn.to/4aiTbCs) (the best!).

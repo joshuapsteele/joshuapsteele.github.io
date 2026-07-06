@@ -9,6 +9,7 @@ tags:
   - linux
   - programming
   - software-engineering
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpmq2k2q"
 ---
 
 Are you new to the world of computer programming? If so, learning [Linux](https://en.wikipedia.org/wiki/Linux) commands is an essential step in your journey. Linux is a powerful and versatile operating system used by developers across various fields.

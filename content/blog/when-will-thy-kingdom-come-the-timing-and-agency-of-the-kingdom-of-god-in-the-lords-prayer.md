@@ -9,6 +9,7 @@ tags:
   - essay
 title: When will Thy Kingdom Come? The Timing and Agency of the Kingdom of God in the Lord's Prayer
 url: /when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbznbdk2w"
 ---
 
 *(Here’s a PDF of this paper: [STEELE\_When Will Thy Kingdom Come](/wp-content/uploads/2019/05/STEELE_When-Will-Thy-Kingdom-Come.pdf).)*

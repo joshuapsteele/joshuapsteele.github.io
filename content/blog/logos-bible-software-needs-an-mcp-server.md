@@ -13,6 +13,7 @@ tags:
   - bible-study
   - software
 url: /logos-bible-software-needs-an-mcp-server/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbfk5lh2v"
 ---
 
 I've spent thousands of dollars on my [Logos Bible Software](https://www.logos.com/) library over the years, and I pay for a subscription partly to use its built-in AI features. They're fine. They'll find a passage, summarize a resource, answer a simple question. But they don't come close to what Claude Opus does when I'm actually trying to think hard about a text, chasing an idea across a dozen commentaries or weighing how different authors handle the same passage.

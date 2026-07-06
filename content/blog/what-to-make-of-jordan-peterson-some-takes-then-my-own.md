@@ -11,6 +11,7 @@ title: What to make of Jordan Peterson? Some takes, then my own.
 tags:
   - jordan-peterson
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7blt223"
 ---
 
 *UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](/two-more-pieces-about-jordan-peterson/)*

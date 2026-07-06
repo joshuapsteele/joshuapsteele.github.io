@@ -14,6 +14,7 @@ tags:
 title: How Do You Make Friends as a Tired Introvert in Your 30s? A Dad's Honest Ask
   for Advice
 url: /how-do-you-make-friends/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbj2usa2d"
 ---
 
 I'm putting this out there because I'm genuinely stuck, and I'm hoping some of you have been where I am and can offer some wisdom.

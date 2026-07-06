@@ -7,6 +7,7 @@ tags:
 - writing
 title: They Say, I Say Writing Templates
 url: /they-say-i-say-writing-templates/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsibqk2q"
 ---
 
 SOURCE: [*They Say / I Say: The Moves that Matter in Academic Writing*](https://amzn.to/3eOMlXF), 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!

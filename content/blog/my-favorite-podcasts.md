@@ -10,6 +10,7 @@ tags:
   - recommendations
   - podcasts
 url: /my-favorite-podcasts/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbxkfr2f"
 ---
 
 # Podcasts: An Introduction

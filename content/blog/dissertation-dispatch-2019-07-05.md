@@ -11,6 +11,7 @@ tags:
   - research
   - religion
 url: /dissertation-dispatch-2019-07-05/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbz3dai2y"
 ---
 
 I got my [dissertation proposal](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/) approved in the Spring of 2018. Working title: “Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion.”

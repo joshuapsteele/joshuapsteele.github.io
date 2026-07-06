@@ -8,6 +8,7 @@ tags:
 - tools
 title: Diagnostic Toos for Homeowners
 url: /diagnostic-tools-for-homeowners/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblc2po2k"
 ---
 
 Since buying our first house about a year ago, I've gotten really into DIY home repair, home improvement, etc. As a software engineer, I find that working with physical tools on physical problems is a refreshing change of pace after staring at a screen all day!

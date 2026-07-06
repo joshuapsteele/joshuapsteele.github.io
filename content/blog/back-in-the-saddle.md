@@ -7,6 +7,7 @@ tags:
 - drafts
 title: Back in the Saddle
 url: /back-in-the-saddle/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbob66t2j"
 ---
 
 I know I’m not alone in this, but the past few years have been pretty rough for me.

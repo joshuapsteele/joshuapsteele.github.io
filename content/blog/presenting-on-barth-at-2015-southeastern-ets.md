@@ -10,6 +10,7 @@ tags:
   - church-unity
   - conferences
 url: /presenting-on-barth-at-2015-southeastern-ets/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydch7rmc23"
 ---
 
 I just received the news today that my student paper submission for the 2015 Southeast Regional Meeting of the Evangelical Theological Society (old, broken link) has been accepted!

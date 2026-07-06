@@ -8,6 +8,7 @@ title: Hate Running? Try Rucking Instead
 tags:
   - fitness
 url: /hate-running-try-rucking-instead/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6vhc52g"
 ---
 
 *(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)*

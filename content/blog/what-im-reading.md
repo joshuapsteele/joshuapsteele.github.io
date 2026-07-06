@@ -8,6 +8,7 @@ tags:
   - reading
   - books
 url: /what-im-reading/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcedet32j"
 ---
 
 Ah, the joys of summer reading.

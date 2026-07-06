@@ -1,0 +1,6 @@
+{{- with site.Params.standardSitePublicationUri }}
+<link rel="site.standard.publication" href="{{ . | safeURL }}">
+{{- end }}
+{{- with .Param "atUri" }}
+<link rel="site.standard.document" href="{{ . | safeURL }}">
+{{- end }}

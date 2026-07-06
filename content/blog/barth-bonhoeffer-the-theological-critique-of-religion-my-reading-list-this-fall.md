@@ -11,6 +11,7 @@ tags:
 title: 'Barth, Bonhoeffer, and The Theological Critique of Religion: My Reading List
   This Fall'
 url: /barth-bonhoeffer-the-theological-critique-of-religion-my-reading-list-this-fall/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcd7szn2g"
 ---
 
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](/barth-bonhoeffer-and-the-bible/).)*

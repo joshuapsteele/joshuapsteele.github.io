@@ -9,6 +9,7 @@ tags:
   - grief
   - family
 url: /20150424my-uncle-timothy-steele/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgt3ec23"
 ---
 
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)

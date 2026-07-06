@@ -9,6 +9,7 @@ tags:
   - reviews
   - church
 url: /lets-take-seth-godin-to-church/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydce3dva2y"
 ---
 
 I’m not going to lie. My first reaction when I saw the cover of this book? [![](/wp-content/uploads/2016/05/img_0502-225x300.jpg)](/wp-content/uploads/2016/05/img_0502.jpg)

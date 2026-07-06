@@ -14,6 +14,7 @@ redirect_to: https://inchristus.com/2025/11/17/if-women-can-be-saved-then-women-
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydby7dd72k"
 ---
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*

@@ -10,6 +10,7 @@ tags:
 - purpose
 title: 'How to Find Your Life''s Purpose: Helpful Advice from Daniel Pink'
 url: /how-to-find-your-lifes-purpose/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbiwtqv25"
 ---
 
 I recently came across [a Daniel Pink video](https://www.youtube.com/watch?v=TEQL2ZRDRVM) that helped clarify and summarize some key insights about finding life's purpose in a really actionable way. The framework was so helpful that I wanted to share it.

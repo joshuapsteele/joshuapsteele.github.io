@@ -6,6 +6,7 @@ date: 2014-04-16T08:17:21Z
 description: An essay on the theme of the fear of death in *White Noise*, the novel by Don DeLillo.
 title: WHITE NOISE, BHOPAL, AND THE HYPERREAL FEAR OF DEATH
 url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchpj3s2q"
 ---
 
 The following essay deals with the theme of the fear of death in [*White Noise*, the novel by Don DeLillo](http://amzn.to/2EgL3pA) (affiliate link).

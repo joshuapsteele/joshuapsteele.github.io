@@ -10,6 +10,7 @@ tags:
   - economics
   - recommendations
 url: /black-friday-book-recommendation-the-economy-of-desire/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcix3rl2i"
 ---
 
 Black Friday proves that the progress of (post)modernity has failed to eradicate the ills of idolatry. Lest we denizens of the [“highly-developed” world ](http://en.wikipedia.org/wiki/List_of_countries_by_Human_Development_Index)think that we have left the primitive vestiges of wood, rock, and gold idolatry behind, our shopping patterns (and indeed our shopping identities as consumers) should remind us of [our consumerism’s dark side](http://www.bbc.co.uk/news/blogs-trending-25153350) — a [lethal one](http://blackfridaydeathcount.com/).

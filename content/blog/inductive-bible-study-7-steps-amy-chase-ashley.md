@@ -12,6 +12,7 @@ tags:
   - bible
   - interpretation
 url: /inductive-bible-study-7-steps-amy-chase-ashley/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydck6v5z2f"
 ---
 
 <address>Update (April 2017): I’ve gone back to update/clean-up the formatting in this wonderful June 2013 guest post on the basics of inductive Bible study from my friend **Amy Elizabeth Chase Ashley,** one of the most gifted students of Scripture with whom I’ve been privileged to study. She blogs at <https://amyechase.wordpress.com/>. </address>---

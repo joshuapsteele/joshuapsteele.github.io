@@ -10,6 +10,7 @@ tags:
   - grief
   - family
 url: /requiem-for-a-cousin-on-his-birthday/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmjlbt2i"
 ---
 
 Today should have been my cousin Eric's 32nd birthday.

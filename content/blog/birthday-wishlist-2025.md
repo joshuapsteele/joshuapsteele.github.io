@@ -13,6 +13,7 @@ tags:
   - recommendations
   - diy
 url: /birthday-wishlist-2025/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbi2q362k"
 ---
 
 It's that time of year again! All the best people were born in October! :) 

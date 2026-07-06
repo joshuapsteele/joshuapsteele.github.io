@@ -10,6 +10,7 @@ tags:
   - anglican
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbthwgs2q"
 ---
 
 I'm pondering the "don't stir the pot" reaction that reliably happens every time we publish something on women's ordination—most especially anything in *favor* of women's ordination—[over at Anglican Compass](https://anglicancompass.com/), where I'm the Managing Editor.

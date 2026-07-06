@@ -11,6 +11,7 @@ tags:
 title: Want a taste of what my dissertation is about? Read these two passages (Dissertation
   Dispatch, 2020-04-03)
 url: /want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbu3psq2d"
 ---
 
 ## What does “religion” mean? Great question!

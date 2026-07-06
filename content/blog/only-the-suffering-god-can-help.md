@@ -9,6 +9,7 @@ tags:
   - bonhoeffer
   - theology
 url: /only-the-suffering-god-can-help/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzw2lk2w"
 ---
 
 ![](/wp-content/uploads/2019/04/img_0297.jpg)

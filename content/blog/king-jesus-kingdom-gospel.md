@@ -11,6 +11,7 @@ tags:
   - theology
   - books
 url: /king-jesus-kingdom-gospel/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjssn62b"
 ---
 
 I highly encourage the following:

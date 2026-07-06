@@ -8,6 +8,7 @@ tags:
   - bible
   - music
 url: /pentecost-songs-and-scripture/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcg733h2v"
 ---
 
 Listening to [the first episode](http://homebrewedchristianity.com/2015/05/18/pentecost-the-arrival-of-the-spirit-and-the-lectiocast/) of the excellent new podcast, [LectioCast](https://web.archive.org/web/20160704235914/http://www.jrdkirk.com:80/2015/05/14/lectiocast-a-lectionary-commentary-podcast/), helped to orient my thoughts toward [tomorrow’s readings](http://lectionary.library.vanderbilt.edu/) for [Pentecost Sunday](http://www.christiantoday.com/article/nine.key.things.to.know.about.pentecost/54344.htm). I’ve reproduced the first lesson, psalm, second lesson, and Gospel reading below, but I’d also like to call your attention to three powerful songs.

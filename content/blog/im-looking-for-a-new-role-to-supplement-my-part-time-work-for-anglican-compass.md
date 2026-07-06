@@ -8,6 +8,7 @@ tags:
   - career
   - anglican-compass
 url: /im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbraiho2k"
 ---
 
 Hey everyone! Just a brief update to note that I’m looking for a new role to supplement my part-time work as Managing Editor of [Anglican Compass](https://anglicancompass.com/)!

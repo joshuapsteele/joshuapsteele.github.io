@@ -9,6 +9,7 @@ title: Getting Back on the "Getting Things Done" Productivity Bandwagon
 tags:
   - gtd
 url: /getting-back-on-the-getting-things-done-productivity-bandwagon/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7rctc2b"
 ---
 
 Getting Things Done ("GTD" for short) is a widely popular personal productivity system invented and popularized by David Allen. However, as [Nicole Dieker at Lifehacker pointed out in 2017](https://lifehacker.com/getting-things-done-ten-years-in-1795707084), "You don’t hear a lot of people talk about the [*Getting Things Done*](http://gettingthingsdone.com/) productivity system anymore."

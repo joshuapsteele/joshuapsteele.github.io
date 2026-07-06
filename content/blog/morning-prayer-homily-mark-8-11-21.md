@@ -9,6 +9,7 @@ tags:
   - bible
   - book-of-common-prayer
 url: /morning-prayer-homily-mark-8-11-21/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcfp35v2g"
 ---
 
 A homily on Mark 8:11-21 (ESV):

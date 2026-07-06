@@ -11,6 +11,7 @@ tags:
 - authoritarianism
 title: What is Fascism?
 url: /what-is-fascism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbi6wz72n"
 ---
 
 What is fascism? The word gets thrown around a lot—sometimes carelessly, yet it refers to one of the most destructive political phenomena of the 20th century, and one we can't afford to misunderstand today.

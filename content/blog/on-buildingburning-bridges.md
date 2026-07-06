@@ -8,6 +8,7 @@ tags:
   - church
   - ecclesiology
 url: /on-buildingburning-bridges/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcksmxs2q"
 ---
 
 DISCLAIMER: there’s a fair bit about the Church that frustrates me.

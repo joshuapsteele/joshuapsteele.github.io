@@ -7,6 +7,7 @@ title: Finding a Hat for My Big, Bald Head
 tags:
   - recommendations
 url: /finding-a-hat-for-my-big-bald-head/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnnc7f25"
 ---
 
 (TL;DR: If you've got a big head like me, I HIGHLY recommend trying the [Ankor Ultra Performance Water-Resistant UPF 50 Baseball Hat](https://amzn.to/3UzLvWa). It's my daily go-to hat, and I love it.)

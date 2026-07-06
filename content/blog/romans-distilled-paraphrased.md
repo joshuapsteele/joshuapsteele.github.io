@@ -10,6 +10,7 @@ tags:
   - bible
   - romans
 url: /romans-distilled-paraphrased/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmy2q32i"
 ---
 
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*

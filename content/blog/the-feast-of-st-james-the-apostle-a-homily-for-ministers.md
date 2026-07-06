@@ -10,6 +10,7 @@ tags:
   - ministry
   - bible
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdhmzn2g"
 ---
 
 *Readings: [Psalm 34; Jeremiah 16:14-21; Mark 1:14-20](https://www.biblegateway.com/passage/?search=Psalm+34%3B+Jeremiah+16%3A14-21%3B+Mark+1%3A14-20&version=NIV)*

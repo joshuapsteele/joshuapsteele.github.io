@@ -10,6 +10,7 @@ tags:
   - books
   - reconciliation
 url: /volf-on-divine-violence/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjgzzq2y"
 ---
 
 A couple relevant excerpts (given recent [posts](/down-with-the-pacifists/)) from “Violence and Peace,” the final chapter of Miroslav Volf’s *[Exclusion and Embrace](https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20)* (my emphasis added in **bold**; paragraph breaks added where noted):

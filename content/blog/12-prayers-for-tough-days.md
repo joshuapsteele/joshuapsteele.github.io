@@ -10,6 +10,7 @@ tags:
   - prayer
   - anglican
   - list
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuhpk22b"
 ---
 
 The “Occasional Prayers” section of the Book of Common Prayer is a goldmine, particularly when the going gets tough.

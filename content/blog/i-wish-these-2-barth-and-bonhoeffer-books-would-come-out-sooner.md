@@ -10,6 +10,7 @@ tags:
 - research
 title: I wish these 2 Barth (and Bonhoeffer) books would come out sooner!
 url: /i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc45vjv2g"
 ---
 
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](/barth-bonhoeffer-and-the-bible/).)*

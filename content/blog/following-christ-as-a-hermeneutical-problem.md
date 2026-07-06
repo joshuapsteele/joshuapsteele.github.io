@@ -8,6 +8,7 @@ tags:
 - reading
 title: Following Christ as a Hermeneutical Problem?
 url: /following-christ-as-a-hermeneutical-problem/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxhlxi2d"
 ---
 
 I’m trying to puzzle out the meaning of the following paragraph from Bonhoeffer’s *Discipleship* (DBWE 4).

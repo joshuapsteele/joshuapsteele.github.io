@@ -10,6 +10,7 @@ tags:
 - bonhoeffer
 title: What did Barth and Bonhoeffer think of the Bible? (Dissertation Dispatch, 2020-03-30)
 url: /what-did-barth-and-bonhoeffer-think-of-the-bible-dissertation-dispatch-2020-03-30/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbu7t4j2f"
 ---
 
 I’m trying to parse out the relevance of Barth’s and Bonhoeffer’s engagement with Scripture for making sense of the “Barth-Bonhoeffer relationship.” Specifically, I’m trying to, at the very least, add some biblical content and context to the ongoing debate over the relationship between Barth’s and Bonhoeffer’s theological critiques of religion.

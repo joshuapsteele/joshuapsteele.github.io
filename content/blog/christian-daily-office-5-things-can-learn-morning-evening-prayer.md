@@ -11,6 +11,7 @@ tags:
   - book-of-common-prayer
   - discipleship
 url: /christian-daily-office-5-things-can-learn-morning-evening-prayer/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcadlua2y"
 ---
 
 # The Problem: We All Need to Grow, But We’re Not Sure How

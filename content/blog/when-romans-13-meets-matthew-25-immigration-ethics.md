@@ -12,6 +12,7 @@ tags:
   - matthew-25
   - political-theology
 url: /when-romans-13-meets-matthew-25-immigration-ethics/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhokgg2k"
 ---
 
 "We have to follow the law. Romans 13 is clear."

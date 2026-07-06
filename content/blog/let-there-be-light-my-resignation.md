@@ -10,6 +10,7 @@ tags:
   - evangelicalism
   - cedarville
 url: /let-there-be-light-my-resignation/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckwila2d"
 ---
 
 ***\*\*Please read:*** ***[Let There Be Light – Leadership Transfer](http://fiatlux125.wordpress.com/2013/02/26/leadership-transfer-2/)******\*\****

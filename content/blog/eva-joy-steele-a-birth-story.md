@@ -9,6 +9,7 @@ tags:
   - kids
   - parenting
 url: /eva-joy-steele-a-birth-story/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6bj6x2k"
 ---
 
 This is a self-indulgently long story. The gist of it is that my wife, Rachel, was unexpectedly induced due to gestational hypertension at 37 weeks, right before we were supposed to head to Pennsylvania for her sister’s wedding.

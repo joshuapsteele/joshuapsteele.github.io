@@ -13,6 +13,7 @@ tags:
 title: 'The Tree of Religion: Karl Barth and Dietrich Bonhoeffer on the Tree of Knowledge
   in Genesis 2:4–3:24'
 url: /the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzjddk23"
 ---
 
 *(Here’s a PDF of this paper: [STEELE\_The Tree of Religion Barth and Bonhoeffer on the Tree of Knowledge](/wp-content/uploads/2019/05/STEELE_The-Tree-of-Religion-Barth-and-Bonhoeffer-on-the-Tree-of-Knowledge.pdf).)*

@@ -7,6 +7,7 @@ title: StickKing to the Slow Carb Diet
 tags:
   - fitness
 url: /stickking-to-the-slow-carb-diet/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3ri6d2j"
 ---
 
 Last night, the scale read 192.4. I’d really like it to read 180 or less.

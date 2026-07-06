@@ -10,6 +10,7 @@ tags:
   - list
   - purpose
 url: /life-lessons/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydboquxc2b"
 ---
 Here are 32 things I’ve learned from life, so far.
 

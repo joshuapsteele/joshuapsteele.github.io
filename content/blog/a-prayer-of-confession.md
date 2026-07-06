@@ -9,6 +9,7 @@ title: A Prayer of Confession
 url: /a-prayer-of-confession/
 tags:
   - prayer
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4bslh2p"
 ---
 
 *To start off the semester the other day, we prayed this prayer of confession together as a class. The professor didn’t remember where the prayer was from, so [I tracked it down online. According to Justin Taylor, it was written by Bob Kauflin](https://www.thegospelcoalition.org/blogs/justin-taylor/a-corporate-confession-of-faith-based-on-the-ten-commandments-and-the-sermon-on-the-mount/).*

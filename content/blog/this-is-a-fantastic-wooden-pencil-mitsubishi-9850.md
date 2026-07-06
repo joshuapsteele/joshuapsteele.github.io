@@ -8,6 +8,7 @@ tags:
 - writing
 title: This is a fantastic wooden pencil (Mitsubishi 9850)
 url: /this-is-a-fantastic-wooden-pencil-mitsubishi-9850/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5bphc2q"
 ---
 
 Just wanted to give a quick shout-out to this fantastic pencil: [the Mitsubishi 9850](https://amzn.to/2QcXI2B).

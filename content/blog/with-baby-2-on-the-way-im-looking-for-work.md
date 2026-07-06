@@ -8,6 +8,7 @@ tags:
   - career
   - family
 url: /with-baby-2-on-the-way-im-looking-for-work/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbv4emk2w"
 ---
 
 I’m a husband to Rachel and a father to Eva.

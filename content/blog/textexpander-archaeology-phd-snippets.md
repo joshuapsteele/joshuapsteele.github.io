@@ -11,6 +11,7 @@ tags:
   - bonhoeffer
 title: 'TextExpander Archaeology: The Snippets of a Ph.D. Student'
 url: /textexpander-archaeology-phd-snippets/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbfg4v22q"
 ---
 
 I'm finally retiring an old set of TextExpander snippets I built up during my Ph.D. work. Before I delete them, I wanted to keep a record, because a person's text-expansion abbreviations turn out to be a surprisingly honest map of what was constantly on their mind. Mine were almost entirely about two theologians, their books, and one stubborn question: can you be *scriptural* without being *religious*?

@@ -7,6 +7,7 @@ tags:
 - jenson
 title: My favorite definition of "theology"
 url: /my-favorite-definition-of-theology/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwdy3h2n"
 ---
 
 This is from Robert Jenson, *Systematic Theology*, Volume 1, p. 11:

@@ -11,6 +11,7 @@ tags:
 - essay
 title: 'What the Bible Says About Poverty: The Book of Proverbs'
 url: /bible-poverty-proverbs/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcnhzmg2b"
 ---
 
 # Introduction: Poverty and Wealth

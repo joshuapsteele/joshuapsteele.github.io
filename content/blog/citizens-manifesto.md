@@ -16,6 +16,7 @@ tags:
   - constitutionalism
   - civic-virtue
   - civic-engagement
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbj6zex2n"
 ---
 
 Democracy is not a finished product but an ongoing experiment that demands constant deliberation, refinement, and renewal. The principles I outline here are working principles—I hold them with conviction while recognizing they must evolve through genuine democratic dialogue. 

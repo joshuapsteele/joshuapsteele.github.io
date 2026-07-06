@@ -11,6 +11,7 @@ tags:
 - computer
 title: 'Devs: How Does Your Personal Laptop Compare to Your Work Laptop?'
 url: /personal-vs-work-laptop/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkciev2g"
 ---
 
 How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with? 

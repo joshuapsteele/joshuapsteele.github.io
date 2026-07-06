@@ -10,6 +10,7 @@ tags:
 - research
 title: Barth and Bonhoeffer on Religion's False God(s)
 url: /barth-and-bonhoeffer-on-religions-false-gods/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3ve732j"
 ---
 
 In *The Epistle to the Romans*, Barth writes the following concerning the false image of God at the heart of religion:

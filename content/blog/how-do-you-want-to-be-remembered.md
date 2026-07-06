@@ -10,6 +10,7 @@ tags:
   - death
   - purpose
 url: /how-do-you-want-to-be-remembered/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdxdxa2d"
 ---
 Do you know what the worst thing about ***death*** is?
 

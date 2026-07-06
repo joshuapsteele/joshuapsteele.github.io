@@ -6,6 +6,7 @@ tags: ["death", "grief", "family"]
 categories: ["personal"]
 description: "A lament for cousin Robin Steele after his sudden death, reflecting on grief, senseless evil, and Christian hope."
 url: /i-wish-we-had-more-time-for-robin/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbfwp5s2q"
 ---
 
 I come from a family of many cousins. As a kid, I even remember thinking there were too many cousins! Not even recognizing everyone at a family reunion. That kind of thing.

@@ -8,6 +8,7 @@ tags:
   - discipleship
   - prayer
 url: /give-thanks/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgxmh22q"
 ---
 
 I'm not the most thankful person.

@@ -11,6 +11,7 @@ tags:
   - bible
   - prayer
 url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpatqy2d"
 ---
 
 ## 1 Peter 4:17

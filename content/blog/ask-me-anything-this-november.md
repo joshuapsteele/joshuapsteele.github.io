@@ -9,6 +9,7 @@ tags:
   - writing
 url: /ask-me-anything-this-november/
 showToc: false
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmbuhp2n"
 ---
 I'd love to blog more regularly, and I love answering questions. So the "WeblogPoMo AMA" challenge caught my eye (old, broken link)!
 

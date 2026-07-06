@@ -8,6 +8,7 @@ tags:
   - reviews
   - recommendations
 url: /is-the-well-equipped-christian-worth-it/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydccdiut2j"
 ---
 
 Have you ever had a problem finding a reliable resource for recommendations?

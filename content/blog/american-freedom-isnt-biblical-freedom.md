@@ -10,6 +10,7 @@ categories:
   - ethics
 description: "A biblical critique of American autonomy, contrasting freedom from constraint with freedom for love, service, and life in Christ."
 url: /american-freedom-vs-biblical-freedom/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbgsixo2k"
 ---
 
 "Give me liberty or give me death."

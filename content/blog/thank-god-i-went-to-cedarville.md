@@ -10,6 +10,7 @@ tags:
   - cedarville
   - seminary
 url: /thank-god-i-went-to-cedarville/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdtits2b"
 ---
 
 As I prepare for my final semester at [Beeson Divinity School](http://www.beesondivinity.com/), it strikes me just how well I was prepared for my seminary education by my undergraduate professors at Cedarville University.

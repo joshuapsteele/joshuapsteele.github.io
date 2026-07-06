@@ -12,6 +12,7 @@ tags:
   - theology
   - interpretation
 url: /on-scripture/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjotv525"
 ---
 
 ## INTRODUCTION: THE NATURE OF SCRIPTURE

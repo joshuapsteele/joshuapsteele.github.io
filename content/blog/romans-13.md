@@ -14,6 +14,7 @@ tags:
   - political-theology
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclghd52g"
 ---
 
 Without context, words can mean anything and everything, and therefore mean nothing. It is only through the delimiting influence of context that words, phrases, sentences, and paragraphs have any meaning at all.

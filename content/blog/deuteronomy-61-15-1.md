@@ -11,6 +11,7 @@ tags:
   - bible
   - interpretation
 url: /deuteronomy-6/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclcf3w2b"
 ---
 
 # Deuteronomy 6:1-15 (NRSV)

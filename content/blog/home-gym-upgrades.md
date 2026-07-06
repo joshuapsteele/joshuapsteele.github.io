@@ -9,6 +9,7 @@ url: /home-gym-upgrades/
 tags:
   - home-gym
   - weightlifting
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnzb222w"
 ---
 
 I’ve often enjoyed lifting weights, but I’ve never enjoyed going to the gym. So, I’ve long wanted a nice home gym.

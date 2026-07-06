@@ -10,6 +10,7 @@ tags:
   - atonement
   - seminary
 url: /theology-outline/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcfdelz2f"
 ---
 
 *Theology is confusing enough, much more so when you attempt to summarize it all in a single essay! Nevertheless, such was my assignment in seminary in 2015. Here are the results.*

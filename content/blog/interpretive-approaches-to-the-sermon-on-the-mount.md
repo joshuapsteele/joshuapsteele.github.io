@@ -9,6 +9,7 @@ title: Interpretive Approaches to the Sermon on the Mount
 url: /interpretive-approaches-to-the-sermon-on-the-mount/
 tags:
   - sermon-on-the-mount
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbvebjk23"
 ---
 
 I’m working on how Karl Barth and Dietrich Bonhoeffer read the Sermon on the Mount.

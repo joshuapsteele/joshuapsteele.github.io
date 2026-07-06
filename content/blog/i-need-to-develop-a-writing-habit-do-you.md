@@ -7,6 +7,7 @@ tags:
 - writing
 title: I Need to Develop a Writing Habit. Do You?
 url: /i-need-to-develop-a-writing-habit-do-you/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7nfdc2q"
 ---
 
 Because good writing = good thinking, I believe that *everyone* could benefit from developing the habit of regular writing.

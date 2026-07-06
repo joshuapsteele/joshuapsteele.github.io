@@ -12,6 +12,7 @@ tags:
   - misanthropy
   - christian-nationalism
   - essay
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbip3cr2f"
 ---
 
 According to David Gushee in [*After Evangelicalism*](https://www.amazon.com/dp/0664266118?tag=joshuapsteele-20), "Christian humanism" basically means

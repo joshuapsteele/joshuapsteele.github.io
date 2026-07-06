@@ -8,6 +8,7 @@ tags:
 - theology
 title: There's more than one kind of "priesthood" in the New Testament
 url: /theres-more-than-one-kind-of-priesthood-in-the-new-testament/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc2rmfn25"
 ---
 
 Just came across [this article in New Blackfriars](https://doi.org/10.1111/nbfr.12440), and it looks helpful, especially in the context of Anglican debates about women’s ordination.

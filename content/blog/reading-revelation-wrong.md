@@ -6,6 +6,7 @@ categories: ["theology"]
 tags: ["evangelicalism", "revelation", "eschatology", "dispensationalism"]
 description: "A critique of dispensational readings of Revelation and their effects on evangelical theology, politics, and hope."
 url: /reading-revelation-wrong/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbg2mrh2p"
 ---
 
 I grew up believing I knew what the book of Revelation was about. It was about the future, specifically our future, and if you paid close enough attention you could match its symbols to newspaper headlines. The beast was probably some European politician. The mark was probably a microchip. Russia was Gog. China was the kings of the East. And Israel, always Israel, was God's prophetic clock, ticking down to the rapture.

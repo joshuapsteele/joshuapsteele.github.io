@@ -12,6 +12,7 @@ tags:
 - bonhoeffer
 - mental-health
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbr4nr22b"
 ---
 I received word yesterday that the Ph.D. Committee voted to approve my request for “Excused Program Leave” beginning in January 2021 and lasting until January 2022.
 

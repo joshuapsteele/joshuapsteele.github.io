@@ -11,6 +11,7 @@ tags:
 - history
 title: 'Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life'
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwlofv2g"
 ---
 
 ## The *Cambridge Companion to Dietrich Bonhoeffer*

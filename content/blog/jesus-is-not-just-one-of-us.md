@@ -8,6 +8,7 @@ tags:
   - sermons
   - anglican
 url: /jesus-is-not-just-one-of-us/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcg36ty2d"
 ---
 
 **NOTE: The audio (old, broken link) of the following sermon, preached on July 05, 2015 at [St. Peter’s Anglican Church in Mountain Brook](http://stpetersbhm.org/), Alabama, can be found here (old, broken link). (I began with a bit of a mic issue. Ignore the garbled first 10 seconds or so!)**

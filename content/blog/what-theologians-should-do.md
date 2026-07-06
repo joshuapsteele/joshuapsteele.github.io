@@ -7,6 +7,7 @@ title: What Theologians (Should) Do
 tags:
   - theology
 url: /what-theologians-should-do/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6fifv25"
 ---
 
 Kevin J. Vanhoozer, affectionately known by some as “KJV,” has written [one of the best, briefest overviews of what theologians (should) do](https://www.firstthings.com/article/2018/08/letter-to-an-aspiring-theologian).

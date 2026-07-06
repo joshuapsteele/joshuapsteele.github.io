@@ -10,6 +10,7 @@ tags:
   - bible
   - theology
   - social-justice
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbjwkyb2f"
 ---
 
 > *"The Bible is clear..."*  

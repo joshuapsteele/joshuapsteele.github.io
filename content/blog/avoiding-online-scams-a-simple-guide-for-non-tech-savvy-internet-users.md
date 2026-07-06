@@ -9,6 +9,7 @@ tags:
 - technology
 title: 'Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users'
 url: /avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydboyxbj2f"
 ---
 
 ## Introduction

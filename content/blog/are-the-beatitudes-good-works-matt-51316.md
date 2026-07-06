@@ -9,6 +9,7 @@ tags:
 - bonhoeffer
 title: Are the Beatitudes “Good Works”? (Matt. 5:13–16)
 url: /are-the-beatitudes-good-works-matt-51316/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuyhfg2b"
 ---
 
 Yesterday, I wrote just a bit about [interpretive approaches to the Beatitudes in Matthew 5](/interpretive-approaches-to-the-beatitudes/). I’m trying to get a better handle on how Barth and Bonhoeffer treat the Sermon on the Mount, and I’m starting with the Beatitudes.

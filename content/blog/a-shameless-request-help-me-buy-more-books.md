@@ -10,6 +10,7 @@ tags:
 - writing
 title: 'A Shameless Request: Help Me Buy More Books?'
 url: /a-shameless-request-help-me-buy-more-books/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbs4d3o2k"
 ---
 
 After realizing just how easy it was to lose access to the physical books that I own (now sequestered in my library carrel at Wheaton), on a bit of a whim [I created a fundraiser to help my upgrade my Logos Bible Software library](https://www.facebook.com/donate/573962246651661/) to either the Anglican Gold ($216) or Anglican Platinum ($582) libraries.

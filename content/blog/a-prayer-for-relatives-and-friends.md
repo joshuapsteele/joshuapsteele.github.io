@@ -8,6 +8,7 @@ url: /a-prayer-for-relatives-and-friends/
 tags:
   - prayer
   - book-of-common-prayer
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxdl2q2y"
 ---
 
 > O Loving Father, we commend to your gracious keeping all who are near and dear to us.

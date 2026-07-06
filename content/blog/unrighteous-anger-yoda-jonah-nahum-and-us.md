@@ -7,6 +7,7 @@ description: A sermon exploring righteous versus unrighteous anger through Yoda'
   wisdom, Jonah's fury, Nahum's prophecy, and our own responses.
 title: (Un)Righteous Anger? – Yoda, Jonah, Nahum, and Us
 url: /unrighteous-anger-yoda-jonah-nahum-and-us/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckcv3r2f"
 ---
 
 (TEXTS: [Jonah 3:5-10; 4:1-11; Nahum 1:1-8](http://www.biblegateway.com/passage/?search=Jonah%203:5-10;%204:1-11;%20Nahum%201:1-8&version=NET))

@@ -11,6 +11,7 @@ tags:
   - acna
   - ministry
 url: /heres-what-im-committing-myself-to-as-a-priest/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbx7nik2q"
 ---
 
 *I’m getting ordained to the priesthood* [*this Saturday, November 02*](/heres-a-video-of-my-ordination-to-the-priesthood/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*

@@ -9,6 +9,7 @@ tags:
   - list
   - 80-20
 
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbhthz2f"
 ---
 
 Do you want to live a more meaningful and purposeful Christian life, but you feel like it’s hard enough just to get everything done on your to-do list each day?

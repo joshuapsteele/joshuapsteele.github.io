@@ -10,6 +10,7 @@ tags:
 - research
 title: 'Theology is exegesis: John Webster on what we can learn from Barth and Bonhoeffer'
 url: /theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc2jtbx2n"
 ---
 
 John Webster’s essay, “Reading the Bible: The Example of Barth and Bonhoeffer” (pages 87–110 in [*Word and Church: Essays in Christian Dogmatics*](https://amzn.to/2EJ4SVN) \[Edinburgh; New York: T&T Clark, 2001\]) is, in large part, the inspiration for [my doctoral dissertation](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).

@@ -14,6 +14,7 @@ tags:
 title: 'The Guilt of Karl Barth: Strengths and Weaknesses of Barth’s Römerbrief Reading
   of Romans 9:30–10:21'
 url: /the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbypbii2d"
 ---
 
 *UPDATE: Here is the paper that I gave at the 2019 Karl Barth Graduate Student Colloquium at the Center for Barth Studies at Princeton Theological Seminary.*

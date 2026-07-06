@@ -11,6 +11,7 @@ tags:
   - anglican
   - theology
 url: /here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydby3ik223"
 ---
 
 Over on his blog, “Non Sermoni Res,” Dr. [William Witt has written several excellent essays on the topic of women’s ordination](http://willgwitt.org/category/theology/womens-ordination/).

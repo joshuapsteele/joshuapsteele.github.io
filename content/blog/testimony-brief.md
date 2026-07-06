@@ -7,6 +7,7 @@ title: 'Testimony: A Faith Story, In Brief'
 tags:
   - discipleship
 url: /testimony-brief/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbthlt2i"
 ---
 
 *The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words. It was challenging to do, but also a helpful exercise! I challenge you to write out your own story in approximately 500 words.*

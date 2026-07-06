@@ -9,6 +9,7 @@ url: /prayers-for-the-sick/
 tags:
   - book-of-common-prayer
   - prayer
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbnraep2p"
 ---
 
 (The following prayers come from [the 1979 Book of Common Prayer](https://www.bcponline.org/PastoralOffices/ministration_to_the_sick.html).)

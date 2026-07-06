@@ -10,6 +10,7 @@ tags:
 - writing
 description: "Using StickK and public accountability to build a daily 500-word dissertation writing habit."
 url: /help-me-stickk-to-my-writing-habit/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4jmjy2y"
 ---
 I need to finish [this dissertation](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/).
 

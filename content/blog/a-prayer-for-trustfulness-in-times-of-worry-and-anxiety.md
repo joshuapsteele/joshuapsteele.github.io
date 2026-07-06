@@ -8,6 +8,7 @@ tags:
   - book-of-common-prayer
 title: A Prayer for Trustfulness in Times of Worry and Anxiety
 url: /a-prayer-for-trustfulness-in-times-of-worry-and-anxiety/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbrmapf25"
 ---
 
 I needed this prayer this morning, and I plan to return to it often in the days ahead.

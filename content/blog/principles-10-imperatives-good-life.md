@@ -9,6 +9,7 @@ tags:
   - books
   - purpose
 url: /principles-10-imperatives-good-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbpkcp2v"
 ---
 
 Why write out a list of principles?

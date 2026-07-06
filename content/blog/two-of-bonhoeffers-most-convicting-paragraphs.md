@@ -10,6 +10,7 @@ tags:
 - bonhoeffer
 title: Two of Bonhoeffer's Most Convicting Paragraphs
 url: /two-of-bonhoeffers-most-convicting-paragraphs/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxlebx2v"
 ---
 
 The following is from Bonhoeffer’s *Discipleship* (usually known as “The Cost of Discipleship” in English, although the original title in German was simply *Nachfolge*).

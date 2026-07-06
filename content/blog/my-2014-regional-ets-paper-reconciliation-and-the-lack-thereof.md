@@ -12,6 +12,7 @@ tags:
   - conferences
   - barth
 url: /my-2014-regional-ets-paper-reconciliation-and-the-lack-thereof/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchxg2j2f"
 ---
 
 If you're interested, I'm presenting my Regional ETS paper today at 5:00pm at Beeson Divinity School, room S009.

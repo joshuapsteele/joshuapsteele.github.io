@@ -13,6 +13,7 @@ tags:
   - habeas-corpus
   - immigration
   - constitutional-law
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbk6iuc2q"
 ---
 
 Imagine waking up to find out that your neighbor—a legal immigrant who works hard, pays taxes, and has never been charged with a crime—was taken away in the middle of the night by government agents. No warrant. No lawyer. No hearing. No chance to defend themselves. Just gone.

@@ -10,6 +10,7 @@ tags:
   - home-improvement
   - diy
   - tools
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkkbbs2w"
 ---
 
 I finally got my first table saw! A 1947 Craftsman 113.22400 8-inch table saw, for $40 on Facebook Marketplace.

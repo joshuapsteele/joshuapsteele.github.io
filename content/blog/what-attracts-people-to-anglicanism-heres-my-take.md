@@ -10,6 +10,7 @@ tags:
 - anglican
 title: What Attracts People to Anglicanism? Here's My Take
 url: /what-attracts-people-to-anglicanism-heres-my-take/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6jj7x2n"
 ---
 
 Based upon my work over at [Rookie Anglican](http://anglicanpastor.com/rookieanglican/), I was asked by [The Telos Collective](https://www.teloscollective.com/) to write a blog post about the different ways that people are coming into Anglicanism. What’s drawing them in?

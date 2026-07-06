@@ -10,6 +10,7 @@ tags:
   - books
   - reading
   - list
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbdq6f2g"
 ---
 
 OK, OK. I get it. Claiming that every Christian should read these 5 books is a bold claim.

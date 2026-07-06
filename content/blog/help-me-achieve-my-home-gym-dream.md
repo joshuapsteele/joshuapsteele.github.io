@@ -11,6 +11,7 @@ tags:
   - fitness
   - weightlifting
 url: /help-me-achieve-my-home-gym-dream/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc25w6d2i"
 ---
 I’m trying to put together a basic home gym in our basement apartment. Mainly, I’m interested in doing squats for now. Then, I’ll expand to deadlifts and benchpress. Our ceilings are too low for overhead presses, however.
 

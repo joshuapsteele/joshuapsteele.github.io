@@ -8,6 +8,7 @@ title: We switched Anglican Compass over from HostGator Shared to Bluehost VPS H
 url: /we-switched-anglican-compass-over-from-hostgator-shared-to-bluehost-vps-hosting/
 tags:
   - anglican-compass
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbtttuf2g"
 ---
 
 As of this morning, it looks like everything for [Anglican Compass](https://anglicancompass.com/) has been successfully moved over from our HostGator shared hosting to Bluehost VPS hosting.

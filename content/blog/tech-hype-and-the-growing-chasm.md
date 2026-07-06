@@ -11,6 +11,7 @@ tags:
 - quote
 title: Tech Hype and the Growing Chasm
 url: /tech-hype-and-the-growing-chasm/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbisxq223"
 ---
 
 Here's Meredith Whittaker on the "key to understanding the growing chasm between the narrative of techno-optimists and the reality of our tech-encumbered world" in [a recent interview with Politico](https://www.politico.com/newsletters/digital-future-daily/2023/12/01/5-questions-for-meredith-whittaker-00129677):

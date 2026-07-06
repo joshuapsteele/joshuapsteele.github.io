@@ -9,6 +9,7 @@ tags:
 - testing
 title: 'Software Testing: Possibilities, Problems, and Principles'
 url: /software-testing-possibilities-problems-and-principles/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbq4s5k23"
 ---
 
 Note: Throughout what follows, I am heavily indebted to two books in particular: [Unit Testing: Principles, Practices, and Patterns](https://www.manning.com/books/unit-testing) by [Vladimir Khorikov](https://twitter.com/vkhorikov?lang=en) (Manning Publications, 2020) and [Effective Software Testing: A Developer’s Guide](https://www.manning.com/books/effective-software-testing) by [Mauricio Aniche](https://twitter.com/mauricioaniche) (Manning Publications, 2022). In fact, this overview of software testing should be viewed as a distillation of Khorikov and Aniche.

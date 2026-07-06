@@ -10,6 +10,7 @@ tags:
   - grief
   - family
 url: /requiescas-in-pace-mi-avia/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydck2unn25"
 ---
 
  (old, broken image)“Depart, O Christian soul, out of this world;  

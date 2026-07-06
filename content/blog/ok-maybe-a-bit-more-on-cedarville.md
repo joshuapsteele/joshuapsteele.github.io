@@ -8,6 +8,7 @@ tags:
   - college
   - cedarville
 url: /ok-maybe-a-bit-more-on-cedarville/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydci35py2d"
 ---
 
 You’ll notice that [the previous post on Cedarville](/cedarville-2/) ends with a link to [the Course Schedule](http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm):

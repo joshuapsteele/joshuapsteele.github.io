@@ -7,6 +7,7 @@ tags:
 - chatgpt
 title: 'ChatGPT: Write a Viral Blogpost about Why to Become a Software Engineer'
 url: /chatgpt-write-a-viral-blogpost-about-why-to-become-a-software-engineer/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqatmc2q"
 ---
 
 Are you considering a career in software engineering but not sure if it’s right for you? Here are just a few reasons why becoming a software engineer is a great choice:

@@ -10,6 +10,7 @@ tags:
 - research
 title: I'm quite excited for these Oxford Handbooks!
 url: /im-quite-excited-for-these-oxford-handbooks/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwa2472n"
 ---
 
 If you’ve not yet consulted the Oxford Handbook series, you should! [The Oxford Handbook of Systematic Theology](https://amzn.to/32MEHGy) is especially useful!

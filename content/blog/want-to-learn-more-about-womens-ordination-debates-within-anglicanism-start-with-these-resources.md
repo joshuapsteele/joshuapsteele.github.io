@@ -9,6 +9,7 @@ url: /want-to-learn-more-about-womens-ordination-debates-within-anglicanism-star
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc2zmtr2f"
 ---
 
 Maybe you, like me, are coming to Anglicanism from a different tradition.

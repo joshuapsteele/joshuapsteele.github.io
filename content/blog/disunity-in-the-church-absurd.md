@@ -10,6 +10,7 @@ tags:
   - ecclesiology
   - conferences
 url: /disunity-in-the-church-absurd/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgh3pn2g"
 ---
 
 Presented at Southeast ETS 2015.

@@ -6,6 +6,7 @@ date: '2015-10-03T08:27:35Z'
 description: "A sermon on Romans 1:1-17 about God's faithfulness, human faith, and the good news revealed in Jesus the Messiah."
 title: 'Faithful Faith in a Faithful God: Romans 1.1-17'
 url: /faithful-faith-in-a-faithful-god-romans-1-1-17/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcfhabt2j"
 ---
 
 # I. Introduction: The Prodigal Son, Part 2

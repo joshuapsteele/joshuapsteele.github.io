@@ -9,6 +9,7 @@ tags:
   - sermons
 title: Why Haven’t You Torn The Sky Open Yet?
 url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqylwy2y"
 ---
 
 *Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.*

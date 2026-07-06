@@ -11,6 +11,7 @@ tags:
   - books
   - reading
 url: /do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7fit525"
 ---
 
 Tim Challies begins his book, [*Do More Better: A Practical Guide to Productivity*](http://amzn.to/2ufosG4) with a bold claim: “I believe this book can improve your life.”

@@ -10,6 +10,7 @@ tags:
   - bible
   - eschatology
 url: /the-grooms-big-day/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcelbj525"
 ---
 
 ## [READINGS](https://www.biblegateway.com/passage/?search=Ephesians+5%3A21-33%3B+Psalm+67%3B+Revelation+19%3A6-10%3B+Matthew+25%3A1-13&version=NIV)

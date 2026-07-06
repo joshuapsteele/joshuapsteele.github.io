@@ -8,6 +8,7 @@ tags:
   - college
   - cedarville
 url: /open-letter-to-cedarville-admins-and-trustees/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclkbxp2k"
 ---
 
 To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.

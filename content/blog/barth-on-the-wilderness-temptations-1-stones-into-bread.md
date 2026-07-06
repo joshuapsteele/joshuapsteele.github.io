@@ -10,6 +10,7 @@ tags:
   - bible
   - lent
 url: /barth-on-the-wilderness-temptations-1-stones-into-bread/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydch3qx32j"
 ---
 
 [Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth) exegesis of [Christ's wilderness temptations](http://postbarthian.com/2013/07/17/karl-barth-on-the-temptation-of-jesus-in-the-wilderness/) isperenniallyinspiring, but particularly poignant during this season of [Lent](http://en.wikipedia.org/wiki/Lent).

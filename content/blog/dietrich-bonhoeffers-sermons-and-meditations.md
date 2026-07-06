@@ -8,6 +8,7 @@ tags:
 - bonhoeffer
 title: Dietrich Bonhoeffer’s Sermons and Meditations
 url: /dietrich-bonhoeffers-sermons-and-meditations/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzfgdk23"
 ---
 
 SOURCE: Dietrich Bonhoeffer, *Indexes and Supplementary Materials*, ed. Victoria J. Barnett et al., vol. 17, Dietrich Bonhoeffer Works (Minneapolis, MN: Fortress Press, 2014), 154–158.

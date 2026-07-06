@@ -12,6 +12,7 @@ tags:
 - romans
 title: I think Karl Barth missed the (pastoral) point of Romans
 url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbytcxx2k"
 ---
 
 I’m scheduled to give a paper on Karl Barth’s reading of Romans 9:30–10:21 in *Der Römerbrief* at the [2019 Barth Graduate Student Colloquium](#) at Princeton in August.

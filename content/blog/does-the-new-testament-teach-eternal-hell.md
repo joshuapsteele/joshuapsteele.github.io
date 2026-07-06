@@ -9,6 +9,7 @@ tags: [hell, universalism]
 description: "A survey of New Testament texts on judgment, hell, and universal salvation, drawing on David Bentley Hart and key biblical passages."
 showToc: true
 TocOpen: false
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbh2n6p2p"
 ---
 
 Most Christians assume that the New Testament clearly and consistently teaches eternal conscious torment in hell. But when you actually go looking for this doctrine in the text, the picture becomes far more complicated than you might expect.

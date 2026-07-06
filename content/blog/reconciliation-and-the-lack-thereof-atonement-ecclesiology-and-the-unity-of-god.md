@@ -13,6 +13,7 @@ tags:
   - barth
   - reconciliation
 url: /reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclohzc23"
 ---
 
 (NOTE: I wrote this essay for my Senior Seminar/Capstone at Cedarville University. You can download the [original undergraduate thesis PDF](/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf).)

@@ -11,6 +11,7 @@ description: "A democracy protest sea shanty set to 'Roll the Old Chariot,' call
 showToc: true
 TocOpen: false
 url: /roll-the-old-republic-along/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhgkxv2g"
 ---
 🇺🇸 **ROLL THE OLD REPUBLIC ALONG**  
 *A Sea Shanty for Democracy*  

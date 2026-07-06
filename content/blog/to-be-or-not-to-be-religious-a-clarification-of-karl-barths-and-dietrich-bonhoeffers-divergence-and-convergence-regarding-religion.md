@@ -12,6 +12,7 @@ tags:
 title: 'To Be or Not To Be Religious: A Clarification of Karl Barth''s and Dietrich
   Bonhoeffer''s Divergence and Convergence Regarding Religion'
 url: /to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcclgh72n"
 ---
 
 *(Note: Read more about my work on [Barth, Bonhoeffer, and the Bible here](/barth-bonhoeffer-and-the-bible/).)*

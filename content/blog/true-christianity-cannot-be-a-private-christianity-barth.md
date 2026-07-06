@@ -7,6 +7,7 @@ tags:
 - barth
 title: '"True Christianity cannot be a private Christianity" (Barth)'
 url: /true-christianity-cannot-be-a-private-christianity-barth/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwtlqs2q"
 ---
 
 {{< figure src="https://i0.wp.com/joshuapsteele.com/wp-content/uploads/2019/11/Karl-Barth-Quote-Green.png?fit=640%2C360&ssl=1" >}}

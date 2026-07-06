@@ -10,6 +10,7 @@ tags:
   - list
 title: A List of Karl Barth's Sermons
 url: /a-list-of-karl-barths-sermons/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3ffrc2q"
 ---
 
 To make this list, I’ve used the data available in the [Digital Karl Barth Library](https://web.archive.org/web/20210613182946/https://dkbl.alexanderstreet.com//). I’ve just taken the tables of contents in the sermon volumes of Barth’s collected works and put them all in one place.

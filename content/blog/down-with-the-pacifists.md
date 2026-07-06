@@ -10,6 +10,7 @@ tags:
   - pacifism
   - theology
 url: /down-with-the-pacifists/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjkzpx2n"
 ---
 
 The past week has been a great one for slipshod attacks on pacifism. First, from [First Things](http://www.firstthings.com/) (Stephen H. Webb) on October 15 —- [“John Howard Yoder and the Violent Power of Pacifism”](https://web.archive.org/web/20131021164419/http://www.firstthings.com:80/onthesquare/2013/10/john-howard-yoder-and-the-violent-power-of-pacifism) (emphasis added below):

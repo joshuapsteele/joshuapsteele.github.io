@@ -7,6 +7,7 @@ tags:
 - hugo
 title: Troubleshooting Hugo to Micro.blog Crossposting
 url: /troubleshooting-hugo-to-microblog-crossposting/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblvu572v"
 ---
 
 *UPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.*

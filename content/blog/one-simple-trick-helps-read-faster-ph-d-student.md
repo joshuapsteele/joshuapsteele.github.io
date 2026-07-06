@@ -7,6 +7,7 @@ tags:
 - reading
 title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
 url: /one-simple-trick-helps-read-faster-ph-d-student/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydca54wd2j"
 ---
 
 Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.

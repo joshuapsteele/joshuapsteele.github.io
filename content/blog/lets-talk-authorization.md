@@ -7,6 +7,7 @@ tags:
 - authorization
 title: Devs! Let's Talk Authorization
 url: /lets-talk-authorization/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbl26zk23"
 ---
 
 Calling all software developers! As I embark on a new, exploratory work project, I'd like to hear your thoughts on authorization.

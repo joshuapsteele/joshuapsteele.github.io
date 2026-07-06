@@ -6,6 +6,7 @@ tags: [theology, politics, prophetic-witness, bonhoeffer, justice]
 description: "Calls for 'balance' and 'not rushing to conclusions' in the face of obvious injustice aren't wisdom. They're complicity dressed up in respectable clothing."
 categories: ["ethics", "theology"]
 url: /cowardice-of-both-sides/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbgkoff2g"
 ---
 
 I keep seeing the same rhetorical move, and it's making me furious.

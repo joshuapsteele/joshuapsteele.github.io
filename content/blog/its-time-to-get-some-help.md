@@ -8,6 +8,7 @@ title: It's Time to Get Some Help
 url: /its-time-to-get-some-help/
 tags:
   - mental-health
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbriewd2j"
 ---
 
 Due to increased symptoms of depression and anxiety in recent weeks, I’ve decided to try out a combination of counseling and medication.

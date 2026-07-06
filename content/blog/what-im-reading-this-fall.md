@@ -7,6 +7,7 @@ tags:
 - reading
 title: What I'm Reading this Fall
 url: /what-im-reading-this-fall/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5zimk23"
 ---
 
 This upcoming semester, I’ll be taking a seminar on the Doctrine of Creation from my supervisor Marc Cortez. I’ll also be doing my “pedagogical experience” in a Christian Theology course—also with Marc Cortez.

@@ -10,6 +10,7 @@ tags:
   - theology
   - creation
 url: /creation-and-doxology-pt-1/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmkhd62b"
 ---
 
 # INTRODUCTION

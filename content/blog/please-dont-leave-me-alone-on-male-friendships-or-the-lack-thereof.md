@@ -11,6 +11,7 @@ tags:
   - loneliness
   - introversion
 url: /please-dont-leave-me-alone-on-male-friendships-or-the-lack-thereof/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7jkrs2b"
 ---
 
 Maybe you, like me, consider yourself quite the introvert. Maybe you, like me, have a difficult time walking the tightrope between feeling quickly overwhelmed by interpersonal relationships, on the one hand, and feeling incredibly lonely, on the other hand.

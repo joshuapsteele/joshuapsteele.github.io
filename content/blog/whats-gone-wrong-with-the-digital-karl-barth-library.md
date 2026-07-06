@@ -10,6 +10,7 @@ tags:
 - research
 title: What's gone wrong with the Digital Karl Barth Library?
 url: /whats-gone-wrong-with-the-digital-karl-barth-library/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5fk3i2d"
 ---
 
 As I *slowly* make progress on [my dissertation (“Scriptural but Not Religious: Karl Barth, Dietrich Bonhoeffer, and a Biblical Critique of Religion”)](/heres-the-elevator-pitch-for-my-dissertation-proposal-scriptural-but-not-religious/), I’m longing for the day when:

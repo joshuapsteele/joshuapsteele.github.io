@@ -9,6 +9,7 @@ tags:
 title: Help! I'm looking for examples of "theological triage," "doctrinal taxonomy,"
   or "dogmatic rank"
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuph632i"
 ---
 
 For a research project, I’m looking for examples of the reasoning that goes into what’s been called, among other things

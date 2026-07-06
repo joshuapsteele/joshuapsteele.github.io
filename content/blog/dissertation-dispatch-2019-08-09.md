@@ -10,6 +10,7 @@ tags:
 - romans
 title: 'Dissertation Dispatch: 2019-08-09'
 url: /dissertation-dispatch-2019-08-09/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbyl4q72p"
 ---
 
 This summer, I’ve spent most of my reading/writing time working on a paper on Barth’s Römerbrief reading of Romans 10. This paper is for the 2019 Barth Graduate Student Colloquium, and it has taken *way* longer than I originally anticipated.

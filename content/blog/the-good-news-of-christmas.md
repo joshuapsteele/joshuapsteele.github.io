@@ -12,6 +12,7 @@ tags:
   - bible
   - theology
 url: /the-good-news-of-christmas/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcna2wn25"
 ---
 
 After reading [The King Jesus Gospel: The Original Good News Revisited](https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20) by Scot McKnight, who makes the claim that the gospel is the saving story of Jesus as Messiah, King, and Lord as the completion to the story of Israel, I started to notice some profound gospel messages in the Christmas carols we often sing during this season.

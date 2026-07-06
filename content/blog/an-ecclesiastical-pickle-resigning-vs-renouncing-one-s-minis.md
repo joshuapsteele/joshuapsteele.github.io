@@ -10,6 +10,7 @@ tags:
 categories:
   - personal
 url: /an-ecclesiastical-pickle/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbgwood2i"
 ---
 
 It's been brought to my attention that the description of how I [resigned from ordained ministry in the Anglican Church in North America](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023 might not be canonically accurate. 

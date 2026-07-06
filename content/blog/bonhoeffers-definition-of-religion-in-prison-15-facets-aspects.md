@@ -9,6 +9,7 @@ tags:
 - research
 title: 'Bonhoeffer''s ''Definition'' of ''Religion'' in Prison: 15 Facets/Aspects'
 url: /bonhoeffers-definition-of-religion-in-prison-15-facets-aspects/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4njn32j"
 ---
 
 Based upon my own reading of Bonhoeffer’s [*Letters and Papers from Prison* \[DBWE 8\]](https://amzn.to/2AuzaJj), here is my attempt at a summary list of the facets/aspects of Bonhoeffer’s view of “religion” in prison.

@@ -7,6 +7,7 @@ tags:
 - parenting
 title: I Love My Kids, But I Sometimes Regret Having Them
 url: /i-love-my-kids-but-i-sometimes-regret-having-them/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmrj6t2i"
 ---
 
 I love my kids, but I sometimes regret having them.

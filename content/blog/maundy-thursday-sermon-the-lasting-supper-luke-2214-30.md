@@ -8,6 +8,7 @@ tags:
   - sermons
   - holy-week
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcc7o6b2f"
 ---
 
 {{< audio src="/wp-content/uploads/2017/04/04-13-17JS.mp3" >}}

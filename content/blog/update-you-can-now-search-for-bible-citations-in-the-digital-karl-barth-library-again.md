@@ -9,6 +9,7 @@ tags:
 title: 'UPDATE: You can now search for Bible citations in the Digital Karl Barth Library
   again'
 url: /update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc55qys2b"
 ---
 
 I [recently wrote](/whats-gone-wrong-with-the-digital-karl-barth-library/) about a problem I found in [Alexander Street Press’](https://alexanderstreet.com/) [Digital Karl Barth Library](https://alexanderstreet.com/products/digital-karl-barth-library): the Scripture citation search function no longer worked!

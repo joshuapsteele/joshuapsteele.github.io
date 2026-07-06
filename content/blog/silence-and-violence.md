@@ -11,6 +11,7 @@ tags:
   - pacifism
   - theology
 url: /silence-and-violence/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcj35652g"
 ---
 
 [![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)

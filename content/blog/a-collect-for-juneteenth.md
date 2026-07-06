@@ -10,6 +10,7 @@ tags:
 - prayer
 title: A Collect for Juneteenth
 url: /a-collect-for-juneteenth/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsq5bq2d"
 ---
 
 The following is a “collect” prayer that I composed for Juneteenth in 2020. What’s a “collect” prayer?

@@ -11,6 +11,7 @@ tags:
   - political-theology
   - politics
 url: /church_and_state/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcne5fj2f"
 ---
 
 (Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](/improvising-church-state/).”)

@@ -10,6 +10,7 @@ title: Two More Pieces about Jordan Peterson
 tags:
   - jordan-peterson
 url: /two-more-pieces-about-jordan-peterson/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6neef25"
 ---
 
 Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](/what-to-make-of-jordan-peterson-some-takes-then-my-own/).

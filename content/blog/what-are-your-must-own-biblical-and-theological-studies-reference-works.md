@@ -9,6 +9,7 @@ tags:
   - books
   - recommendations
 url: /what-are-your-must-own-biblical-and-theological-studies-reference-works/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzzyon2g"
 ---
 
 It just happened again. I had to consult [“BDAG,” A Greek–English Lexicon of the New Testament and Other Early Christian Literature (3rd ed.)](https://www.logos.com/product/3878/a-greek-english-lexicon-of-the-new-testament-and-other-early-christian-literature-3rd-ed).

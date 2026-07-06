@@ -8,6 +8,7 @@ tags:
 - research
 title: 'Karl Barth’s Gesamtausgabe (“Complete/Collected Edition”): A List of Works'
 url: /karl-barths-gesamtausgabe-complete-collected-edition-a-list-of-works/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3becn25"
 ---
 
 Note that, as of 2019-01-26, 54 volumes of the Gesamtausgabe have been published.

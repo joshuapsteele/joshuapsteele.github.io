@@ -7,6 +7,7 @@ title: An Explanation
 url: /an-explanation/
 tags:
   - college
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclsjkl2i"
 ---
 
 **If you haven’t read my previous two blog posts, [“Cedarville, Let there be Light. (pt. 1](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)") and [pt. 2)](http://windowinthesky.wordpress.com/2012/09/21/cedarville-let-there-be-light-pt-2/ "Cedarville, Let there be Light. (pt. 2)"),” please go do so before reading this post.**

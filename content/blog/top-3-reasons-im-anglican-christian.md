@@ -7,6 +7,7 @@ tags:
 - anglican
 title: Top 3 Reasons Why I'm an Anglican Christian
 url: /top-3-reasons-im-anglican-christian/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcahyop2v"
 ---
 
 [![](http://anglicanpastor.com/wp-content/uploads/2017/01/RA-Logo-Black-Transparent-Background-200x167.png)](http://anglicanpastor.com/rookieanglican/)

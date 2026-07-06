@@ -10,6 +10,7 @@ tags:
   - music
   - theology
 url: /the-truth-is-not-a-cave/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7vcr22b"
 ---
 I was recently privileged to see one of my favorite bands, [The Oh Hellos](http://theohhellos.com/), in concert at the House of Blues in downtown Chicago.
 

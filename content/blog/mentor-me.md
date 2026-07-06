@@ -8,6 +8,7 @@ tags:
 - questions
 title: Mentor Me! 11 Questions I'd Like You to Answer
 url: /mentor-me/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqmj7y2y"
 ---
 
 Say what you will about Tim Ferriss, I’ve always really enjoyed the [questions that he asks himself](https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf) and [others](https://tim.blog/2017/10/03/tribe-of-mentors/).

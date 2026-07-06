@@ -10,6 +10,7 @@ tags:
 title: Help! I’m looking for the best Christian resources on the Bible, social justice,
   racism, Critical Race Theory, and Marxism
 url: /help-im-looking-for-the-best-christian-resources-on-the-bible-social-justice-racism-critical-race-theory-and-marxism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsm5tt2i"
 ---
 
 Help me out. I’m looking for the best, clearest, and most charitable explanations of the following three things:

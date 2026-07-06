@@ -13,6 +13,7 @@ tags:
   - coding-bootcamp
   - programming
   - software
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpuqia2y"
 ---
 
 When I changed my major from Mechanical Engineering to Bible shortly before my first semester of college, I realized that what I was studying was not going to make me rich.

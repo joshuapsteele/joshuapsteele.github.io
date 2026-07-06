@@ -10,6 +10,7 @@ tags:
 - research
 title: No One Knows what "Positivism of Revelation" Means!
 url: /no-one-knows-what-positivism-of-revelation-means/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbw3yhi2y"
 ---
 
 When it comes to the Barth-Bonhoeffer relationship, there is perhaps no greater conundrum than the meaning of what Bonhoeffer called Barth’s “Offenbarungspositivismus” (“positivism of revelation” or “revelatory positivism”) in his *Letters and Papers from Prison* (DBWE 8).

@@ -13,6 +13,7 @@ tags:
   - politics
 title: You Can't Follow Jesus and Hate Immigrants
 url: /you-cant-follow-jesus-and-hate-immigrants/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmzgly2d"
 ---
 
 ## You Can't Follow Jesus and Hate Immigrants

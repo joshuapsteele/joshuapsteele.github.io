@@ -9,6 +9,7 @@ categories:
   - theology
 draft: false
 url: /whats-gone-wrong-with-american-evangelicalism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbg6sbp2n"
 ---
 I've been trying to put my thoughts together on what, precisely, grieves me about American evangelicalism. Here's what I have, so far.
 

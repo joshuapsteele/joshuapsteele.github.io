@@ -12,6 +12,7 @@ tags:
   - research
   - sermon-on-the-mount
 url: /barth-bonhoeffer-and-the-bible-back-to-the-beginning-dissertation-dispatch-2020-03-26/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuduik2b"
 ---
 
 Perhaps it’s just the global COVID–19 pandemic, but I’ve been really discouraged about my dissertation lately.

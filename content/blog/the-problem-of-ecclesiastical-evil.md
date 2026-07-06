@@ -7,6 +7,7 @@ tags:
 - drafts
 title: The Problem of Ecclesiastical Evil
 url: /the-problem-of-ecclesiastical-evil/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbo565y2y"
 ---
 
 You’ve probably heard of “the problem of evil” (if not, [here’s an overview](https://en.wikipedia.org/wiki/Problem_of_evil)). But there’s a specific version/aspect of it that I find even more devastating.
