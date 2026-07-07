@@ -15,7 +15,7 @@ A "tool" is "anything that can make your life better." I love tools, whether phy
 (For my personal "tech stack" recommendations, including what I use for email, social media, etc., see [my `/tech-stack` page](/tech-stack/).)
 
 {{< callout "note" >}}
-Some links below are affiliate links (mostly Amazon, via the tag `joshuapsteele-20`). If you buy through them, I may earn a small commission at no extra cost to you. I only list things I actually use and recommend.
+As an Amazon Associate I earn from qualifying purchases. If you buy through these links, I may earn a small commission at no extra cost to you. I only list things I actually use and recommend.
 {{< /callout >}}
 
 ## DIY/Home Repair Tools

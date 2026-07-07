@@ -250,6 +250,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `scripts/check-internal-links.py` - Check for broken internal links; validates against the built `public/` site, so run `npm run build` first (outputs to `scripts/data/`)
 - `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/`)
 - `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links.md` + `scripts/data/`)
+- `scripts/check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure; runs automatically in `npm run build` and CI
 - `scripts/convert-internal-links.py` - Rewrite absolute joshuapsteele.com self-links in post bodies to root-relative links, validating against `public/`; dry-run by default, `--apply` to write
 - `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/wayback-map.json`
 - `scripts/fix-dead-links.py` - Apply dead-link fixes (Wayback snapshot where available, else unlink + "(old, broken link)" marker); body-only, dry-run by default, `--apply` to write

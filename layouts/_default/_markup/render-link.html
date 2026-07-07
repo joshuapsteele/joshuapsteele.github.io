@@ -1,0 +1,7 @@
+{{- $destination := .Destination -}}
+{{- $isAmazonShortLink := findRE `(?i)^https?://(amzn\.to|a\.co)(/|$)` $destination -}}
+{{- $isTaggedAmazonLink := and
+  (findRE `(?i)^https?://([^./]+\.)*amazon\.com(/|$)` $destination)
+  (findRE `(?i)[?&]tag=` $destination)
+-}}
+<a href="{{ $destination | safeURL }}"{{ with .Title }} title="{{ . }}"{{ end }}>{{ .Text | safeHTML }}</a>{{- if or $isAmazonShortLink $isTaggedAmazonLink -}}<span class="amazon-paid-link"> (paid link)</span>{{- end -}}

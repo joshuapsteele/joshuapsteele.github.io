@@ -76,6 +76,9 @@ jobs:
             --minify \
             --baseURL "https://joshuapsteele.com/"
 
+      - name: Verify Amazon Associates disclosures
+        run: python3 scripts/check-amazon-disclosures.py
+
       - name: Send outgoing Webmentions
         if: github.event_name != 'schedule'
         continue-on-error: true

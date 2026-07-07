@@ -28,9 +28,10 @@
 
   {{- partial "reply_context.html" . -}}
 
-  {{- if .Content }}
+  {{- with .Content }}
   <div class="note-content e-content">
-    {{ .Content }}
+    {{- partial "amazon_disclosure.html" . -}}
+    {{ . }}
   </div>
   {{- end }}
 
