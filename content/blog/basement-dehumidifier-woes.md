@@ -13,6 +13,8 @@ categories:
 url: /basement-dehumidifier-woes/
 ---
 
+(UPDATE 2026-07-21: After I pushed-back on their warranty process, AlorAir offered to send me a replacement unit for free, with no need to return the old one. I accepted, and the new unit arrived a few days later. It seems to be working fine so far! Good on them for listening to customer feedback and making things right.)
+
 Basement dehumidifiers seem to be treated as disposable appliances. You buy one, run it for a year or two, and then replace it when it stops pulling water out of the air.
 
 I was hoping to escape that cycle when I bought an [AlorAir Sentinel HD55](https://www.amazon.com/dp/B08N6C4GPP?th=1&linkCode=ll2&tag=joshuapsteele-20&linkId=6fa721b745f724777f6326cf6ab272c3&language=en_US&ref_=as_li_ss_tl) from Amazon in September 2022. It was marketed as a commercial-grade dehumidifier. I expected that to mean it would be more durable than the usual big-box-store models, or at least more repairable if something went wrong.
