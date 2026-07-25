@@ -5,7 +5,7 @@
   Design notes:
     - items[].title is OMITTED for title-less notes (spec-compliant; Micro.Blog renders them as content-only).
     - notes with `syndicate: false` are omitted from this feed but still render on the site.
-    - content_html is full body (Hugo's rendered .Content).
+    - content_html is the full body plus an explicit canonical permalink so every POSSE copy links home.
     - id is the permalink — stable across rebuilds and globally unique.
 */ -}}
 {{- $pages := where .RegularPages "Params.syndicate" "ne" false -}}
@@ -42,6 +42,8 @@
       {{- $replyHTML := printf "<p><a class=\"u-in-reply-to\" href=\"%s\">In reply to</a></p>" (. | htmlEscape) -}}
       {{- $contentHTML = printf "%s\n%s" $replyHTML $contentHTML -}}
       {{- end }}
+      {{- $canonicalHTML := printf "<p><a class=\"u-url\" href=\"%s\">Originally published on joshuapsteele.com</a></p>" (.Permalink | htmlEscape) -}}
+      {{- $contentHTML = printf "%s\n%s" $contentHTML $canonicalHTML -}}
       "content_html": {{ $contentHTML | jsonify }},
       "date_published": {{ .Date.Format "2006-01-02T15:04:05Z07:00" | jsonify }}
       {{- $tags := .Language.Params.Taxonomies.tag | default "tags" -}}

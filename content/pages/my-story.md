@@ -5,13 +5,13 @@ author: joshuapsteele
 categories: personal
 description: My personal journey of faith from childhood to the present
 guid: https://joshuapsteele.com/?page_id=42475
-showtoc: false
+showToc: false
 title: My Story
 url: /my-story
 ---
 
 {{< callout "note" >}}
-I first wrote this summary of my story when I was in seminary at Beeson Divinity School. Some of it is a bit outdated, but I'm leaving it here for posterity and have updated it with more recent sections toward the bottom.
+I first wrote this summary of my story when I was in seminary at Beeson Divinity School. Some of it is a bit **outdated**, but I'm leaving it here for posterity and have updated it with more recent sections toward the bottom.
 
 **More About Me:** [About](/about) • [CV/Resume](/cv) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}

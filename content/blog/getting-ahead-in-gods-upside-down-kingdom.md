@@ -6,14 +6,18 @@ description: A sermon on God's upside-down kingdom values, appealing for a consi
   pro-life ethic rooted in justice and steadfast love.
 title: 'Getting Ahead in God''s Upside-Down Kingdom: An Appeal for a Consistently
   Pro-Life Ethic'
+tags:
+  - sermons
+  - discipleship
 url: /getting-ahead-in-gods-upside-down-kingdom/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcchmkc2b"
 ---
 
 {{< audio src="/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3" >}}
 
-\[[MP3: Getting Ahead in God’s Upside-Down Kingdom](https://joshuapsteele.com/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3)\]
+\[[MP3: Getting Ahead in God’s Upside-Down Kingdom](/wp-content/uploads/2017/01/01-29-17JSGeetingAheadinGodsUpsideDownKingdom.mp3)\]
 
-\[[PDF Sermon Manuscript: Getting Ahead in God’s Upside-Down Kingdom](https://joshuapsteele.com/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf)\]
+\[[PDF Sermon Manuscript: Getting Ahead in God’s Upside-Down Kingdom](/wp-content/uploads/2017/01/SERMON-Getting-Ahead-in-Gods-Upside-Down-Kingdom.pdf)\]
 
 ## Opening Prayer
 

@@ -1,6 +1,6 @@
 # Joshua P. Steele's Personal Website
 
-[![Hugo](https://img.shields.io/badge/Hugo-0.147.3-blue.svg)](https://gohugo.io/)
+[![Hugo](https://img.shields.io/badge/Hugo-Extended-blue.svg)](https://gohugo.io/)
 [![Code License: MIT](https://img.shields.io/badge/Code%20License-MIT-yellow.svg)](LICENSE-CODE)
 [![Content License: CC BY-NC-SA 4.0](https://img.shields.io/badge/Content%20License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE-CONTENT)
 [![Deploy Hugo site to Pages](https://github.com/joshuapsteele/joshuapsteele.github.io/actions/workflows/hugo.yml/badge.svg)](https://github.com/joshuapsteele/joshuapsteele.github.io/actions/workflows/hugo.yml)
@@ -13,7 +13,7 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 ## Tech Stack
 
-- **Static Site Generator**: [Hugo](https://gohugo.io/) 0.147.3 (Extended)
+- **Static Site Generator**: [Hugo Extended](https://gohugo.io/) (exact CI version is pinned in `.github/workflows/hugo.yml`)
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Pages with GitHub Actions
 - **Search**: Fuse.js
@@ -21,7 +21,7 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 ## Features
 
-- 📝 Blog with 310+ posts organized by categories and tags
+- 📝 Blog and short notes organized by categories and tags
 - 📧 **"Steele Notes" email newsletter** via [Buttondown](https://buttondown.com/joshuapsteele)
 - 🔍 Full-text search functionality
 - 📱 Responsive design with dark mode support
@@ -43,7 +43,7 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 ### Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) 0.147.3+
+- [Hugo Extended](https://gohugo.io/installation/)
 - [Node.js](https://nodejs.org/) 18+
 - Git
 
@@ -86,7 +86,8 @@ npm run clean
 ```
 .
 ├── content/
-│   ├── blog/          # Blog posts (310+ markdown files)
+│   ├── blog/          # Blog posts
+│   ├── notes/         # Shortform POSSE notes
 │   ├── pages/         # Static pages (about, contact, cv, now, uses, etc.)
 │   └── search.md      # Search page
 ├── layouts/           # Custom Hugo layouts and overrides
@@ -123,9 +124,9 @@ Example front matter:
 ```yaml
 ---
 title: "My New Post"
-date: 2025-11-14
+date: YYYY-MM-DD
 tags: ["hugo", "blogging"]
-categories: ["Tech"]
+categories: ["productivity"]
 description: "A brief description of the post"
 draft: false
 ---
@@ -146,7 +147,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
 ### Identity & Discovery
 
 - **h-card**: Machine-readable identity information on the homepage
-- **rel="me"**: Verified links to other profiles (Micro.blog, Mastodon)
+- **rel="me"**: Verified links to other profiles (Micro.blog, Mastodon, Bluesky)
 - **WebFinger**: Fediverse discovery at `/.well-known/webfinger`
 - **IndieAuth**: Sign in with your domain at `https://joshuapsteele.com`
 
@@ -163,7 +164,7 @@ This site is part of the [IndieWeb](https://indieweb.org/), a community effort t
   - JavaScript-based display of webmentions and Micro.blog conversations on each post
   - Grouped by type: likes, reposts, replies, mentions
 - **Outgoing Webmentions**: Recent reply posts are checked during deploy and notify the original post when it advertises a Webmention endpoint
-- **Syndication links**: The deploy fetches Micro.blog's public JSON feed and renders known Mastodon, Threads, and Micro.blog discussion links on canonical posts
+- **Syndication links**: The deploy fetches Micro.blog's public JSON feed and renders known Mastodon, Threads, Bluesky, and Micro.blog discussion links on canonical posts
 
 ### Reply Posts
 
@@ -189,10 +190,11 @@ This site is part of the [IndieWeb Webring](https://xn--sr8hvo.ws/) - a collecti
 
 ### POSSE Workflow
 
-Posts are published on this site first, then syndicated to:
+Posts are published on this site first. Micro.blog handles the current Mastodon/Threads syndication, and the public social profiles are:
 - [Micro.blog](https://social.joshuapsteele.com/)
 - [Mastodon](https://mastodon.social/@joshuapsteele)
 - [Threads](https://www.threads.com/@joshuapsteele)
+- [Bluesky](https://bsky.app/profile/joshuapsteele.com) (`@joshuapsteele.com`)
 
 `scripts/fetch_syndication_links.py` maps Micro.blog's `_microblog.syndication` URLs back to canonical joshuapsteele.com paths and writes `data/syndication.json`. GitHub Actions runs it before Hugo builds, and a scheduled deploy refreshes those links after Micro.blog finishes asynchronous cross-posting.
 
@@ -206,7 +208,7 @@ The site automatically deploys to GitHub Pages when changes are pushed to the `m
 # Using the deploy script (commits all changes and pushes to main)
 npm run deploy
 # or with a custom commit message:
-./deploy.sh "Your commit message"
+./scripts/deploy.sh "Your commit message"
 ```
 
 **Important**: Always test locally with `npm run dev` and `npm run build` before deploying!
@@ -222,9 +224,8 @@ The `scripts/` directory contains various automation tools for maintaining and a
   ./scripts/deploy.sh "Optional commit message"
   ```
 - **[review_changes.sh](scripts/review_changes.sh)** - Review staged git changes before committing
-- **[apply-high-traffic-tags.sh](scripts/apply-high-traffic-tags.sh)** - Apply tags to high-traffic posts
 - **[rename_blog_files.sh](scripts/rename_blog_files.sh)** - Rename dated blog posts to remove date prefixes ⚠️ Review before running
-- **[cleanup_images.sh](scripts/cleanup_images.sh)** - Remove legacy/external images ⚠️ DANGEROUS: Review carefully before running
+- **[cleanup_images.sh](scripts/cleanup_images.sh)** - Legacy broad image cleanup ⚠️ Do not run without a fresh media audit
 
 ### Python Audit & Analysis Scripts
 
@@ -246,14 +247,16 @@ The `scripts/` directory contains various automation tools for maintaining and a
   python3 scripts/check-external-links.py
   ```
   Outputs: `scripts/data/audit-external-links.json`
+- **[audit-static-wp-content.py](scripts/audit-static-wp-content.py)** - Non-destructively audit legacy WordPress media references
 
 **Content Management:**
 - **[cleanup_frontmatter.py](scripts/cleanup_frontmatter.py)** - Clean up and standardize front matter fields
 - **[cleanup_posts.py](scripts/cleanup_posts.py)** - General post cleanup utilities
 - **[fix_malformed_yaml.py](scripts/fix_malformed_yaml.py)** - Fix malformed YAML front matter
 - **[generate_descriptions.py](scripts/generate_descriptions.py)** - Generate descriptions for posts missing them
-- **[update_descriptions.py](scripts/update_descriptions.py)** - Update existing descriptions
 - **[show_posts_batch.py](scripts/show_posts_batch.py)** - Display posts in batches for review
+- **[manage-notes.py](scripts/manage-notes.py)** - List or move notes by date, tag, draft status, or syndication flag
+- **[migrate-microblog-archive.py](scripts/migrate-microblog-archive.py)** - Import an exported Micro.blog archive into `/notes/`
 
 **Taxonomy & Categorization:**
 - **[apply-taxonomy.py](scripts/apply-taxonomy.py)** - Apply taxonomy consolidation based on `scripts/data/taxonomy_map.yaml`
@@ -267,7 +270,7 @@ The `scripts/` directory contains various automation tools for maintaining and a
 
 **Analytics:**
 - **[analyze_website_stats.py](scripts/analyze_website_stats.py)** - Analyze traffic statistics
-- **[fetch_popular_posts.py](scripts/fetch_popular_posts.py)** - Fetch and analyze popular posts
+- **[fetch_popular_posts.py](scripts/fetch_popular_posts.py)** - Fetch and publish popular-post data
 - **[categorize_page_changes.py](scripts/categorize_page_changes.py)** - Categorize and analyze page changes
 
 ### Taxonomy Configuration
@@ -291,7 +294,7 @@ Main configuration is in `hugo.yaml`. Key settings include:
 
 - **Profile Mode**: Custom homepage with profile buttons
 - **Navigation**: Top menu and footer customization
-- **Social**: Mastodon, Threads, GitHub, LinkedIn, RSS
+- **Social**: Mastodon, Threads, Bluesky, GitHub, LinkedIn, RSS
 - **Search**: Fuse.js configuration
 - **Feeds**: RSS and JSON output formats
 - **Build**: Image optimization, caching, minification
@@ -299,8 +302,9 @@ Main configuration is in `hugo.yaml`. Key settings include:
 ## Documentation
 
 - **[CLAUDE.md](CLAUDE.md)** - Comprehensive guide for AI assistants working with this codebase
-- **[AGENTS.md](AGENTS.md)** - Repository guidelines and conventions
-- **Audit Reports** - Various `AUDIT-*.md` files with site analysis
+- **[AGENTS.md](AGENTS.md)** - Symlink to `CLAUDE.md`, so Claude Code and Codex share the same guidance
+- **[docs/CLEANUP-CHECKLIST.md](docs/CLEANUP-CHECKLIST.md)** - Living maintenance tracker
+- **Audit Reports** - Dated `AUDIT-*.md` files with point-in-time site analysis
 
 ## Contributing
 

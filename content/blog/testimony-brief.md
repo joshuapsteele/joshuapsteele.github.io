@@ -2,10 +2,12 @@
 author: joshuapsteele
 categories: personal
 date: '2017-08-07T07:00:36Z'
-description: The following is an attempt to tell my testimony, the story of my Christian
-  faith, in approximately 500 words.
+description: "My Christian testimony in about 500 words—the story of my faith and my ongoing struggle to truly know Jesus, not just to know about him."
 title: 'Testimony: A Faith Story, In Brief'
+tags:
+  - discipleship
 url: /testimony-brief/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbthlt2i"
 ---
 
 *The following is an attempt to tell my testimony, the story of my Christian faith, in approximately 500 words. It was challenging to do, but also a helpful exercise! I challenge you to write out your own story in approximately 500 words.*
@@ -16,7 +18,7 @@ url: /testimony-brief/
 
 For as long as I can remember, I have known and followed Jesus Christ as my Lord and Savior. However, there has been a lingering problem in our relationship – on my end. Of course, this problem is called “sin.” But, I mean an even more specific problem: my struggle to *know* Jesus, and not merely to know *about* Jesus.
 
-(For an attempted summary of the *content* of my Christian faith, what I believe, see [“What Do I Believe? A Cross-Centered Credo.”](https://joshuapsteele.com/2015/12/08/a-crucicentric-credo/))
+(For an attempted summary of the *content* of my Christian faith, what I believe, see [“What Do I Believe? A Cross-Centered Credo.”](/a-crucicentric-credo/))
 
 ## Childhood
 
@@ -36,11 +38,11 @@ However, to my shame, I had devoted more time and effort into learning things li
 
 ## College
 
-In [college](https://joshuapsteele.com/tag/cedarville/), I fell in love with the gospel, with biblical and theological studies, and with a young nursing student who loved Jesus and wanted to use her gifts (medical and otherwise) to serve him.
+In [college](/tags/cedarville/), I fell in love with the gospel, with biblical and theological studies, and with a young nursing student who loved Jesus and wanted to use her gifts (medical and otherwise) to serve him.
 
 We decided to follow Christ together as husband and wife. After we were married in 2012, God opened the doors for us to come to Birmingham, AL, where I have continued my pastoral training at Beeson Divinity School and served as a Youth Minister at St. Peter’s Anglican Church. My wife has lovingly cared for the sick and the poor, first as a Registered Nurse, and now as a Nurse Practitioner.
 
-(Want to read my wedding vows? You can do so [here](https://joshuapsteele.com/2012/08/14/wedding-vows/).)
+(Want to read my wedding vows? You can do so [here](/wedding-vows/).)
 
 ## Seminary and Beyond
 
@@ -52,4 +54,4 @@ Although merely knowing *about* Jesus is still a temptation, I know that my Savi
 
 ### OK, that’s my testimony, in brief. What’s yours?
 
-For more personal posts of mine, go [here](https://joshuapsteele.com/category/personal/).
+For more personal posts of mine, go [here](/categories/personal/).

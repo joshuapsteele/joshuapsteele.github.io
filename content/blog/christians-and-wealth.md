@@ -7,7 +7,12 @@ date: '2016-09-24T01:00:30Z'
 description: Why American Christians should embrace downward mobility, living simply
   at human flourishing standards and giving excess to the poor.
 title: 'Christians and Wealth: An Argument for Downward Mobility'
+tags:
+  - economics
+  - poverty
+  - discipleship
 url: /christians-and-wealth/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydccxv672p"
 ---
 
 Great news! If you only have a minute to read about wealth, here’s my argument in a nutshell:
@@ -29,7 +34,7 @@ Great news! If you only have a minute to read about wealth, here’s my argument
 - Warrant: 
     1. Christians want to remain true to Scripture and submit to God’s way of life in order to find satisfaction.
 
-(For more on Christianity, wealth, and poverty, see [my topical study on what the book of Proverbs has to teach us about poverty](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).)
+(For more on Christianity, wealth, and poverty, see [my topical study on what the book of Proverbs has to teach us about poverty](/bible-poverty-proverbs/).)
 
 Still interested in reading about [this contentious topic](https://en.wikipedia.org/wiki/Christian_views_on_poverty_and_wealth)? Continue below.
 
@@ -116,7 +121,7 @@ Above all, perhaps, we must be willing to eschew the idolatry in our hearts and 
 
 Then, and only then, will we be able to reduce our extravagant standards of living, give to the poor from our excess resources out of genuine generosity, and flourish as human beings by fulfilling our primary purpose: exalting and making much of our Maker.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I believe?](/theology-outline/)“)
 
 ---
 
@@ -150,7 +155,7 @@ Witherington, Ben. "Deprogramming Ourselves from a Lifestyle of Conspicuous Cons
 
 [^6]: This same point was said better and more emphatically by Professor John White (Cedarville University) in BEGE-3760 Christian Worldview Integration.
 
-[^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](https://joshuapsteele.com/2011/02/10/20110210proverbs-topical-study-poverty/).
+[^7]: Cf. personal research done from *The Theological Wordbook of the Old Testament* and *Wealth and Poverty in Proverbs* (R.N. Whybray) for [a separate paper](/bible-poverty-proverbs/).
 
 [^8]: Barth, *Church Dogmatics* II/1 (T.&T. Clark, 1957), p. 387
 

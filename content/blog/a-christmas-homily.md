@@ -8,6 +8,7 @@ url: /a-christmas-homily/
 tags:
   - sermons
   - christmas
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydccpaqy2y"
 ---
 
 Good morning! And Merry Christmas!

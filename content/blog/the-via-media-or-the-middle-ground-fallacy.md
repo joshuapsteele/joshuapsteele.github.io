@@ -2,11 +2,12 @@
 author: joshuapsteele
 categories: theology
 date: '2019-10-09T14:19:46Z'
-description: At this point, this is just a sketch.
+description: "How can Anglicans hold onto the via media (the 'middle way') without sliding into the logical 'middle ground' fallacy? A first sketch."
 tags:
 - anglican
 title: The “Via Media”? Or the “Middle Ground Fallacy”?
 url: /the-via-media-or-the-middle-ground-fallacy/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxxijh2n"
 ---
 
 At this point, this is just a sketch. But I’m wondering how we Anglican Christians ought to be careful to keep our precious “via media” (“middle way”) mentality and methodology separate from what’s known as the “middle ground” fallacy.

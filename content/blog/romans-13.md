@@ -7,13 +7,14 @@ date: '2013-02-07T07:48:55Z'
 description: A contextual reading of Romans 13:1-7, correcting common misinterpretations
   and abuses of this oft-misunderstood passage.
 tags:
-- romans 13
-- bible
-- politics
-- government
-- political theology
+  - romans-13
+  - bible
+  - politics
+  - government
+  - political-theology
 title: You're Reading Romans 13 Wrong! Here's How to Read It Correctly
 url: /romans-13/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclghd52g"
 ---
 
 Without context, words can mean anything and everything, and therefore mean nothing. It is only through the delimiting influence of context that words, phrases, sentences, and paragraphs have any meaning at all.
@@ -37,7 +38,7 @@ Far from being a comprehensive condensation of the apostle’s beliefs regarding
 This thesis will be “proven” by appealing to the historical context of the original audience and the overarching context of Romans 12:9-13:10 in which this passage rests.
 
 {{< callout "note" >}}
-For more on the book of Romans, check out [my sermon on Romans 1:1-17](https://joshuapsteele.com/2015/10/03/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!
+For more on the book of Romans, check out [my sermon on Romans 1:1-17](/faithful-faith-in-a-faithful-god-romans-1-1-17/). Looking for a great commentary on Romans? [Read this one by Doug Moo](https://amzn.to/3S1KBB1) \[affiliate link\]!
 
 Also, you should take the time to watch the BibleProject's summary videos on Romans.
 
@@ -132,7 +133,7 @@ The argument for placing 13:1-7 in the overarching context of Paul’s focus on 
 
 This returns the Roman Christians’ focus to love as the central virtue of Christianity and the “fulfillment of the law” (13:8, 10). They were to faithfully follow Jesus the Messiah King, seeking to bring in his kingdom. But it was unthinkable to Paul to effect God’s kingdom in a way that ran against the grain of that kingdom of love, justice, and peace. Therefore, in the middle of exhortations to genuinely love one’s enemies and neighbors, Paul urges his audience to humbly obey their governing authorities so that they might remain faithful to their King’s calling as they went about his work in the city of Rome.
 
-(For more on the book of Romans, check out [my summary of the book’s argument/story](https://joshuapsteele.com/2012/05/03/the-argument-story-of-romans/).)
+(For more on the book of Romans, check out [my summary of the book’s argument/story](/romans-distilled-paraphrased/).)
 
 {{< callout "note" >}}
 Here's N.T. Wright on Romans 13 and the question of Christian submission to government:
@@ -146,7 +147,7 @@ Having an understanding of both the historical background and the context of thi
 
 While some may wish that Romans 13:1-7 had more to say regarding the relationship between church and state, the passage certainly cannot say less than the main points briefly described above. Romans 13:1-7 is not a condensed theology of church and state, but a specific historically-conditioned pastoral address to the Roman believers, diverting them from rebellion and urging them towards humble submission in order to protect their testimony and thereby enhance their effectiveness in God’s redemptive mission.
 
-(For a theological essay about what the Bible is and why it’s important, read [this piece.](https://joshuapsteele.com/on-scripture/))
+(For a theological essay about what the Bible is and why it’s important, read [this piece.](/on-scripture/))
 
 ## Bibliography
 

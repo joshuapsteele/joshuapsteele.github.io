@@ -3,9 +3,10 @@ author: joshuapsteele
 categories: theology
 tags: [essay]
 date: '2015-05-07T22:38:13Z'
-description: 'An essay on what it means to be a human being.'
+description: "An essay on human self-transcendence, divided desires, idolatry, and receiving true humanity from God's address."
 title: What does it mean to be human?
 url: /what-does-it-mean-to-be-human/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgd3ex2k"
 ---
 
 ## *What Does It Mean to Be Human?*
@@ -110,7 +111,7 @@ As Martin Luther concluded:
 
 This is self-transcendence as it was meant to be. Divine discourse encompasses God, the self, and the other, grounding both anthropology and ethics.
 
-(For an overview of what I believe, check out my essay: [“Theology in Outline.”](https://joshuapsteele.com/theology-outline/))
+(For an overview of what I believe, check out my essay: [“Theology in Outline.”](/theology-outline/))
 
 # CONCLUSION
 

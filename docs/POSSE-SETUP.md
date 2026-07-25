@@ -7,7 +7,7 @@ date: 2026-04-17
 
 This runbook walks through the one-time migration from *Micro.Blog is the shortform home, Hugo embeds it* (PESOS) to *Hugo is the shortform home, Micro.Blog subscribes to a feed* (POSSE).
 
-Total time if you don't hit surprises: 60–90 minutes, most of it waiting for Hugo builds and the first Micro.Blog poll cycle.
+Most of the elapsed time is waiting for Hugo builds and the first Micro.Blog poll cycle.
 
 ## What lives where after this change
 
@@ -118,7 +118,7 @@ In Micro.Blog: Account → Edit Feeds (or "Feeds" in some versions of the UI). A
 
     URL: https://joshuapsteele.com/notes/feed.json
 
-Micro.Blog will do an initial poll right away and then re-poll every 5–20 minutes. New Hugo-authored notes will appear in the Micro.Blog timeline. Imported archive notes with `syndicate: false` will not.
+Micro.Blog will do an initial poll right away and then re-poll periodically. New Hugo-authored notes will appear in the Micro.Blog timeline. Imported archive notes with `syndicate: false` will not.
 
 Critically: at this point Micro.Blog is reading posts it *already knows about* (because they originated there) and will happily duplicate them in the timeline if you don't disable the old side.
 
@@ -211,13 +211,13 @@ Your reply.
 
 ## Step 10a — Syndication links
 
-Micro.Blog exposes Mastodon and Threads cross-post URLs in its public JSON feed after it has processed your source feeds. The deploy runs:
+Micro.Blog exposes cross-post URLs in its public JSON feed after it has processed your source feeds. The importer recognizes Mastodon, Threads, and Bluesky URLs when present. The deploy runs:
 
 ```bash
 python3 scripts/fetch_syndication_links.py
 ```
 
-That script writes `data/syndication.json`, keyed by canonical joshuapsteele.com path. `layouts/partials/respond_links.html` uses that data to render links such as "Discuss on Mastodon" and "Discuss on Threads" on posts and notes.
+That script writes `data/syndication.json`, keyed by canonical joshuapsteele.com path. `layouts/partials/respond_links.html` uses that data to render links such as "Discuss on Mastodon," "Discuss on Threads," and "Discuss on Bluesky" on posts and notes.
 
 Because cross-posting happens after the first site build, the workflow also has a scheduled rebuild. That second pass lets the site pick up syndication URLs once Micro.Blog knows them. The scheduled run skips outgoing Webmentions so old reply notifications are not re-sent.
 

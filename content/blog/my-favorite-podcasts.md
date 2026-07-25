@@ -5,7 +5,12 @@ date: '2017-07-25T15:46:34Z'
 description: A guide to podcasts worth listening to during this golden age of the
   medium, from a seasoned podcast enthusiast.
 title: Podcasts You Should Listen To
+tags:
+  - list
+  - recommendations
+  - podcasts
 url: /my-favorite-podcasts/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbxkfr2f"
 ---
 
 # Podcasts: An Introduction
@@ -16,7 +21,7 @@ https://www.youtube.com/watch?v=oerm5Q\_9u2A
 
 Currently, podcasts are one of my very favorite ways to consume information about a wide variety of topics. Sure, gun to my head, I’ll choose books over podcasts as a way to learn. However, unlike books (or videos), you can easily listen to podcasts while doing other things – whether folding laundry, washing dishes, or going for a run/walk.
 
-(Note: as I mentioned in [my list of favorite tools and apps](https://joshuapsteele.com/tools), [Overcast](https://overcast.fm/) is my current favorite podcast player. Although, there are plenty of other worthy podcast players/managers to check out!)
+(Note: as I mentioned in [my list of favorite tools and apps](/tools), [Overcast](https://overcast.fm/) is my current favorite podcast player. Although, there are plenty of other worthy podcast players/managers to check out!)
 
 There are no shortage of podcasts, or lists of best podcasts, for that matter. However, here are my current favorites.
 
@@ -36,7 +41,7 @@ I created [Rookie Anglican](http://anglicanpastor.com/rookieanglican/) as a way 
 
 > According to their [website](https://wordandtable.simplecast.fm/), Word & Table “is a weekly podcast about liturgy, sacrament, and the great tradition of Christian worship and why it is vital in our world today.”
 > 
-> The podcast was started back in October 2016, and it’s hosted by [Alex Wilgus](http://www.greenhousemovement.com/team/alex-wilgus/) and Fr. [Stephen Gauthier](http://www.churchrez.org/staff/profile/stephengauthier), the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.
+> The podcast was started back in October 2016, and it’s hosted by [Alex Wilgus](http://www.greenhousemovement.com/team/alex-wilgus/) and Fr. Stephen Gauthier (old, broken link), the Canon Theologian for the Anglican Church in North America’s Diocese of the Upper Midwest.
 > 
 > You can subscribe to the podcast via [iTunes](https://itunes.apple.com/us/podcast/word-table/id1161203280?mt=2), listen to episodes via the [Word & Table website](https://wordandtable.simplecast.fm/), or simply search for “Word and Table” in your podcast player/manager of choice.
 
@@ -46,7 +51,7 @@ If you’ve got questions about anything related to the Christian tradition, che
 
 I’ve become somewhat of a Tim Ferriss junkie in the past two years. In addition to this podcast – which features long-form interviews with “top performers,” in which Tim distils tips, tricks, habits, and practices for the common person – Ferriss’ books are well worth checking out (Affiliate LInks: [The 4-Hour Workweek](http://amzn.to/2uTWui7); The [4-Hour Body](http://amzn.to/2uxKdxq); The [4-Hour Chef](http://amzn.to/2h0dtJT); [Tools of Titans](http://amzn.to/2h0dwp3)) . He’s great at teaching *[metalearning](https://en.wikipedia.org/wiki/Meta_learning)* – how to learn how to learn!
 
-(Note: Tim Ferriss is how I found out about [kettlebells](https://joshuapsteele.com/2016/05/25/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](https://joshuapsteele.com/tools) for personal fitness.)
+(Note: Tim Ferriss is how I found out about [kettlebells](/kettlebell-swings-back-balm-for-the-sedentary-seminarian/) – one of my [favorite tools](/tools) for personal fitness.)
 
 ## [Coffee Break German](https://radiolingua.com/coffeebreakgerman/)
 
@@ -59,7 +64,7 @@ In my opinion, no podcast beats This American Life in terms of the quality and v
 # Honorable Mentions:
 
 - [The Art of Charm](https://theartofcharm.com/podcast/)
-- [Always Forward](http://www.always-forward.com/category/podcast/): Anglican Church Planting
+- [Always Forward](https://web.archive.org/web/20190509162551/http://www.always-forward.com/category/podcast/): Anglican Church Planting
 - [Monday Morning Preacher](http://www.preachingtoday.com/media/podcast/)
 - Malcolm Gladwell’s [Revisionist History](http://revisionisthistory.com/)
 - [Optimal Living Daily](http://optimallivingdaily.com/)

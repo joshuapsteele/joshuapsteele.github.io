@@ -5,7 +5,12 @@ date: '2022-11-08T19:40:28Z'
 description: 'My curated collection of favorite online resources: thinking tools,
   fitness guides, reading aids, design resources, and developer references.'
 title: 'Most Useful Websites: My Favorite Online Resources'
+tags:
+  - list
+  - recommendations
+  - tools
 url: /most-useful-websites-my-favorite-online-resources/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqeosw2k"
 ---
 
 ## General / Thinking

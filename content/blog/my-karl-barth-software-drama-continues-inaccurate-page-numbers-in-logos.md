@@ -2,17 +2,16 @@
 author: joshuapsteele
 categories: dissertation
 date: '2018-12-11T16:12:55Z'
-description: Previously, I wrote about how the Scripture search tool in the Digital
-  Karl Barth Library was broken.
-format: aside
+description: "Research notes on inaccurate Karl Barth Church Dogmatics page numbers in Logos search results and why that complicates citation work."
 tags:
 - barth
 - research
 title: 'My Karl Barth Software Drama Continues: Inaccurate Page Numbers in Logos'
 url: /my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4vrnj2f"
 ---
 
-Previously, I wrote about how [the Scripture search tool in the Digital Karl Barth Library was broken](https://joshuapsteele.com/whats-gone-wrong-with-the-digital-karl-barth-library/). Thankfully, it [appears to have been fixed](https://joshuapsteele.com/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/) (although it still has issues). This means I can search Barth’s “Collected Edition” (Gesamtausgabe) if needed.
+Previously, I wrote about how [the Scripture search tool in the Digital Karl Barth Library was broken](/whats-gone-wrong-with-the-digital-karl-barth-library/). Thankfully, it [appears to have been fixed](/update-you-can-now-search-for-bible-citations-in-the-digital-karl-barth-library-again/) (although it still has issues). This means I can search Barth’s “Collected Edition” (Gesamtausgabe) if needed.
 
 However, I’m now having some issues with the copy of [Barth’s Church Dogmatics I purchased via Logos Bible Software](https://www.logos.com/product/5758/barths-church-dogmatics).
 

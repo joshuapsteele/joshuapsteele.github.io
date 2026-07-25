@@ -4,10 +4,13 @@ categories:
 - ethics
 - theology
 date: '2012-05-03T14:02:32Z'
-description: The following is an attempt, written in 2012, to distill and paraphrase
-  the main argument/message/story/logic of St.
+description: "A chapter-by-chapter distillation and paraphrase of Romans, tracing Paul's argument about God's faithfulness in Jesus the Messiah."
 title: The Book of Romans, Distilled and Paraphrased
-url: /romans-distilled-paraphrased
+tags:
+  - bible
+  - romans
+url: /romans-distilled-paraphrased/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmy2q32i"
 ---
 
 *The following is an attempt, written in 2012, to distill and paraphrase the main argument/message/story/logic of St. Paul’s Epistle to the Romans.*
@@ -28,7 +31,7 @@ But first, the objections:
 
 See, at first glance, the big idea above seems ridiculous. God is faithful? Have you seen the world recently? It’s corrupt to the core. Idolatry, sexual immorality, violence, deception, hostility, etc. Because people refused to believe that God is who he says he is, Sin and Death have infected and affected every layer of human existence. If God is truly righteous, why is his world so unrighteous?
 
-(For a theological essay about what the Bible is and why it’s important, read [this piece.](https://joshuapsteele.com/on-scripture/))
+(For a theological essay about what the Bible is and why it’s important, read [this piece.](/on-scripture/))
 
 # Romans 2:1-29
 

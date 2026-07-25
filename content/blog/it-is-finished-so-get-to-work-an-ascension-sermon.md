@@ -2,10 +2,13 @@
 author: joshuapsteele
 categories: theology
 date: '2017-06-13T01:29:13Z'
-description: The following is an “It is Finished” sermon preached on Ascension Sunday,
-  2017.
+description: "An Ascension sermon on how Jesus' finished work completes the gospel and sends the church into its mission."
 title: It is Finished! So, Get to Work! – A Sermon on the Ascension
+tags:
+  - sermons
+  - theology
 url: /it-is-finished-so-get-to-work-an-ascension-sermon/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcc3mdl2i"
 ---
 
 *The following is an "It is Finished" sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:*
@@ -50,7 +53,7 @@ I think here of parents in Manchester this week who were forced to say goodbye t
 
 Goodbyes suck, because they leave our stories unfinished.
 
-(Note: For other sermons, check out [my Sermons page](https://joshuapsteele.com/sermons/).)
+(Note: For other sermons, check out [my Sermons page](/sermons/).)
 
 ## WHAT ABOUT THE ASCENSION? DOES IT SUCK?
 

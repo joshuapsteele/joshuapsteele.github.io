@@ -5,7 +5,12 @@ date: '2016-07-25T22:18:51Z'
 description: St. James' martyrdom rebukes ministerial ambitions—a sobering homily
   for those who aspire to serve Christ's Church.
 title: 'The Feast of St. James the Apostle: A Homily for Ministers'
+tags:
+  - sermons
+  - ministry
+  - bible
 url: /the-feast-of-st-james-the-apostle-a-homily-for-ministers/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdhmzn2g"
 ---
 
 *Readings: [Psalm 34; Jeremiah 16:14-21; Mark 1:14-20](https://www.biblegateway.com/passage/?search=Psalm+34%3B+Jeremiah+16%3A14-21%3B+Mark+1%3A14-20&version=NIV)*
@@ -74,7 +79,7 @@ Are we thankful, are we satisfied with our roles as servants within Christ’s C
 
 Are we willing to be “just” fishermen, even if it costs us our ambitions? Even if it costs us our lives?
 
-![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](https://joshuapsteele.com/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)
+![Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project](/wp-content/uploads/2016/07/Guido_Reni_-_Saint_James_the_Greater_-_Google_Art_Project-218x300.jpg)
 
 By God’s grace, **I hope so**.
 

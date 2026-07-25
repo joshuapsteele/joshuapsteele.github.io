@@ -1,7 +1,7 @@
 ---
 title: "What's Gone Wrong with American Evangelicalism: Some Notes"
 date: 2026-03-16
-description: ""
+description: "Notes on American evangelicalism's political captivity, selective victimhood, and failures of moral imagination."
 tags:
   - evangelicalism
   - politics
@@ -9,6 +9,7 @@ categories:
   - theology
 draft: false
 url: /whats-gone-wrong-with-american-evangelicalism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbg6sbp2n"
 ---
 I've been trying to put my thoughts together on what, precisely, grieves me about American evangelicalism. Here's what I have, so far.
 
@@ -92,7 +93,7 @@ I'm not writing from superiority. I previously held many of these positions. I g
 
 ### The history:
 
-- [Jemar Tisby's _The Color of Compromise_](https://www.amazon.com/Color-Compromise-American-Churchs-Complicity/dp/0310597269?&linkCode=ll2&tag=joshuapsteele-20&linkId=a1865a6657412616d67a1f91f3f367f6&language=en_US&ref_=as_li_ss_tl) documents this pattern across four centuries of American church history. His core argument: 
+- [Jemar Tisby's _The Color of Compromise_](https://www.amazon.com/dp/0310597269?tag=joshuapsteele-20) documents this pattern across four centuries of American church history. His core argument: 
     - while individual Christians sometimes stood against racism, the overwhelming pattern among white American Christians has been complicity, ranging from active endorsement to quiet acceptance. 
     - The anti-racists were the exceptions, not the racists. 
     - The SBC was founded over slavery, white evangelicals were overwhelmingly on the wrong side of the civil rights movement, and the political infrastructure of the Religious Right has racial threads woven into its origins. 

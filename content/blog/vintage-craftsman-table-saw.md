@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: productivity
 date: 2025-03-20 06:16:39-04:00
-description: I finally got my first table saw. A 1947 Craftsman 113.22400 8-inch table
-  saw, for $40 on Facebook Marketplace.
+description: "Restoring a 1947 Craftsman 113.22400 table saw I picked up for $40 on Facebook Marketplace—my cleanup-and-rust-removal to-do list, vintage manuals, and parts diagrams."
 draft: false
 title: My Vintage 1947 Craftsman 113 Table Saw
 url: /vintage-craftsman-table-saw/
@@ -11,6 +10,7 @@ tags:
   - home-improvement
   - diy
   - tools
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkkbbs2w"
 ---
 
 I finally got my first table saw! A 1947 Craftsman 113.22400 8-inch table saw, for $40 on Facebook Marketplace.

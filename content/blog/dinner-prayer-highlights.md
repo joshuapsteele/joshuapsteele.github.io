@@ -8,6 +8,7 @@ tags:
 - prayer
 title: Dinner Prayer Highlights from Our 4-Year-Old
 url: /dinner-prayer-highlights-from-our-4-year-old/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblnzjo2k"
 ---
 
 Until the past few days, our 4-year-old son, Andrew, has mainly prayed something like the following before dinner: "Dear Jesus, help us to have a good day tomorrow, and help this food to be good."

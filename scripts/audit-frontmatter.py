@@ -1,166 +1,253 @@
 #!/usr/bin/env python3
 """
-Analyze front matter across all markdown files.
-Identifies missing fields, inconsistencies, and taxonomy issues.
+Analyze front matter across blog markdown files.
+
+This script intentionally uses only the Python standard library so audit checks
+work on a fresh checkout.
 """
 
-import os
-import frontmatter
-from collections import Counter, defaultdict
-import json
-import re
+from __future__ import annotations
 
-def analyze_frontmatter(content_dir):
-    """Analyze front matter across all markdown files"""
-    results = {
-        'total_posts': 0,
-        'missing_fields': defaultdict(list),
-        'field_usage': Counter(),
-        'posts_by_category': defaultdict(list),
-        'posts_by_tag': defaultdict(list),
-        'posts_without_categories': [],
-        'posts_without_tags': [],
-        'posts_without_description': [],
-        'date_issues': [],
-        'all_categories': set(),
-        'all_tags': set(),
-        'author_variants': set(),
-        'draft_posts': [],
-        'posts_with_aliases': [],
-        'field_type_issues': [],
+import argparse
+import json
+import os
+import re
+from collections import Counter, defaultdict
+from pathlib import Path
+from typing import Any, Dict, List
+
+
+def split_front_matter(text: str) -> str:
+    match = re.match(r"^---\s*\r?\n(.*?)\r?\n---\s*\r?\n", text, flags=re.DOTALL)
+    return match.group(1) if match else ""
+
+
+def parse_inline_list(raw: str) -> List[str]:
+    inner = raw.strip()[1:-1]
+    items: List[str] = []
+    buf = ""
+    in_quote = False
+    quote = ""
+
+    for ch in inner:
+        if ch in {"'", '"'}:
+            if in_quote and ch == quote:
+                in_quote = False
+            elif not in_quote:
+                in_quote = True
+                quote = ch
+            buf += ch
+            continue
+        if ch == "," and not in_quote:
+            item = buf.strip().strip("'\"")
+            if item:
+                items.append(item)
+            buf = ""
+            continue
+        buf += ch
+
+    item = buf.strip().strip("'\"")
+    if item:
+        items.append(item)
+    return items
+
+
+def parse_scalar(raw: str) -> Any:
+    value = raw.strip()
+    if value in {"", "null", "Null", "NULL", "~"}:
+        return None
+    if value in {"true", "True", "TRUE"}:
+        return True
+    if value in {"false", "False", "FALSE"}:
+        return False
+    if value.startswith("[") and value.endswith("]"):
+        return parse_inline_list(value)
+    return value.strip("'\"")
+
+
+def parse_front_matter(fm: str) -> Dict[str, Any]:
+    data: Dict[str, Any] = {}
+    lines = fm.splitlines()
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+        match = re.match(r"^([A-Za-z0-9_-]+):\s*(.*?)\s*$", line)
+        if not match:
+            i += 1
+            continue
+
+        key = match.group(1)
+        raw_value = match.group(2)
+        if raw_value:
+            data[key] = parse_scalar(raw_value)
+            i += 1
+            continue
+
+        items: List[str] = []
+        j = i + 1
+        while j < len(lines):
+            item_match = re.match(r"^\s*-\s+(.*?)\s*$", lines[j])
+            if not item_match:
+                break
+            items.append(item_match.group(1).strip().strip("'\""))
+            j += 1
+
+        data[key] = items if items else None
+        i = j
+
+    return data
+
+
+def as_list(value: Any) -> List[str]:
+    if value is None or value == "":
+        return []
+    if isinstance(value, list):
+        return [str(item).strip() for item in value if str(item).strip()]
+    return [str(value).strip()]
+
+
+def has_value(post: Dict[str, Any], field: str) -> bool:
+    if field not in post:
+        return False
+    value = post[field]
+    if isinstance(value, list):
+        return len(as_list(value)) > 0
+    return value is not None and str(value).strip() != ""
+
+
+def analyze_frontmatter(content_dir: Path) -> Dict[str, Any]:
+    results: Dict[str, Any] = {
+        "total_posts": 0,
+        "missing_fields": defaultdict(list),
+        "field_usage": Counter(),
+        "posts_by_category": defaultdict(list),
+        "posts_by_tag": defaultdict(list),
+        "posts_without_categories": [],
+        "posts_without_tags": [],
+        "posts_without_description": [],
+        "posts_without_url": [],
+        "date_issues": [],
+        "all_categories": set(),
+        "all_tags": set(),
+        "author_variants": set(),
+        "draft_posts": [],
+        "posts_with_aliases": [],
+        "field_type_issues": [],
     }
 
-    for root, dirs, files in os.walk(content_dir):
-        for filename in files:
-            if filename.endswith('.md'):
-                filepath = os.path.join(root, filename)
-                results['total_posts'] += 1
+    for root, _, files in os.walk(content_dir):
+        for filename in sorted(files):
+            if not filename.endswith(".md") or filename == "_index.md":
+                continue
 
-                try:
-                    with open(filepath, 'r', encoding='utf-8', errors='ignore') as f:
-                        post = frontmatter.load(f)
+            filepath = Path(root) / filename
+            results["total_posts"] += 1
 
-                    # Track which fields are used
-                    for key in post.keys():
-                        results['field_usage'][key] += 1
+            try:
+                text = filepath.read_text(encoding="utf-8", errors="ignore")
+                post = parse_front_matter(split_front_matter(text))
+                path = filepath.as_posix()
 
-                    # Track authors
-                    if 'author' in post:
-                        results['author_variants'].add(str(post['author']))
+                for key in post:
+                    results["field_usage"][key] += 1
 
-                    # Check for drafts
-                    if post.get('draft', False):
-                        results['draft_posts'].append(filepath)
+                if has_value(post, "author"):
+                    results["author_variants"].add(str(post["author"]))
 
-                    # Check for aliases
-                    if 'aliases' in post:
-                        results['posts_with_aliases'].append(filepath)
+                if post.get("draft") is True:
+                    results["draft_posts"].append(path)
 
-                    # Check categories
-                    if 'categories' not in post or not post['categories']:
-                        results['posts_without_categories'].append(filepath)
-                    else:
-                        # Handle both string and list categories
-                        cats = post['categories']
-                        if isinstance(cats, str):
-                            cats = [cats]
-                        elif not isinstance(cats, list):
-                            cats = []
+                if has_value(post, "aliases"):
+                    results["posts_with_aliases"].append(path)
 
-                        for cat in cats:
-                            cat_str = str(cat).strip()
-                            if cat_str:
-                                results['all_categories'].add(cat_str)
-                                results['posts_by_category'][cat_str].append(filepath)
+                categories = as_list(post.get("categories"))
+                if not categories:
+                    results["posts_without_categories"].append(path)
+                for cat in categories:
+                    results["all_categories"].add(cat)
+                    results["posts_by_category"][cat].append(path)
 
-                    # Check tags
-                    if 'tags' not in post or not post['tags']:
-                        results['posts_without_tags'].append(filepath)
-                    else:
-                        # Handle both string and list tags
-                        tags = post['tags']
-                        if isinstance(tags, str):
-                            tags = [tags]
-                        elif not isinstance(tags, list):
-                            tags = []
+                tags = as_list(post.get("tags"))
+                if not tags:
+                    results["posts_without_tags"].append(path)
+                for tag in tags:
+                    results["all_tags"].add(tag)
+                    results["posts_by_tag"][tag].append(path)
 
-                        for tag in tags:
-                            tag_str = str(tag).strip()
-                            if tag_str:
-                                results['all_tags'].add(tag_str)
-                                results['posts_by_tag'][tag_str].append(filepath)
+                if not has_value(post, "description"):
+                    results["posts_without_description"].append(path)
 
-                    # Check description
-                    if 'description' not in post or not post['description']:
-                        results['posts_without_description'].append(filepath)
+                if not has_value(post, "url"):
+                    results["posts_without_url"].append(path)
 
-                    # Check date
-                    if 'date' not in post:
-                        results['date_issues'].append(f"{filepath}: Missing date")
-                    elif not post['date']:
-                        results['date_issues'].append(f"{filepath}: Empty date")
+                if not has_value(post, "date"):
+                    results["date_issues"].append(f"{path}: Missing or empty date")
 
-                    # Track missing recommended fields
-                    recommended = ['title', 'date', 'author', 'categories', 'tags', 'description']
-                    for field in recommended:
-                        if field not in post:
-                            results['missing_fields'][field].append(filepath)
+                for field in ["title", "date", "author", "categories", "tags", "description", "url"]:
+                    if field not in post:
+                        results["missing_fields"][field].append(path)
 
-                except Exception as e:
-                    results['date_issues'].append(f"{filepath}: Error parsing - {str(e)}")
+            except Exception as exc:
+                results["date_issues"].append(f"{filepath.as_posix()}: Error parsing - {exc}")
 
     return results
 
-def main():
-    print("Analyzing front matter in content directory...")
-    print("This may take a minute...\n")
 
-    results = analyze_frontmatter('content/')
+def serializable(results: Dict[str, Any]) -> Dict[str, Any]:
+    output = {}
+    for key, value in results.items():
+        if isinstance(value, defaultdict):
+            output[key] = {k: sorted(v) for k, v in value.items()}
+        elif isinstance(value, Counter):
+            output[key] = dict(value)
+        elif isinstance(value, set):
+            output[key] = sorted(value)
+        else:
+            output[key] = value
+    return output
 
-    # Convert sets to sorted lists for JSON serialization
-    results['all_categories'] = sorted(list(results['all_categories']))
-    results['all_tags'] = sorted(list(results['all_tags']))
-    results['author_variants'] = sorted(list(results['author_variants']))
 
-    # Save raw results
-    with open('audit-frontmatter.json', 'w') as f:
-        # Convert defaultdicts to dicts
-        results_dict = {
-            k: dict(v) if isinstance(v, defaultdict) else v
-            for k, v in results.items()
-        }
-        json.dump(results_dict, f, indent=2, default=str)
+def main() -> int:
+    parser = argparse.ArgumentParser(description="Analyze Hugo blog front matter")
+    parser.add_argument("--content-dir", default="content/blog", help="Directory of markdown files to audit")
+    parser.add_argument("--output", default="scripts/data/audit-frontmatter.json", help="JSON output path")
+    args = parser.parse_args()
 
-    # Print summary
+    content_dir = Path(args.content_dir)
+    output_path = Path(args.output)
+
+    print(f"Analyzing front matter in {content_dir}...")
+    results = analyze_frontmatter(content_dir)
+    output = serializable(results)
+
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    output_path.write_text(json.dumps(output, indent=2, default=str), encoding="utf-8")
+
     print("=" * 80)
     print("FRONT MATTER AUDIT SUMMARY")
     print("=" * 80)
-    print(f"\n📊 Total Posts Analyzed: {results['total_posts']}")
-
-    print(f"\n❌ Missing Critical Fields:")
+    print(f"\nFiles analyzed: {results['total_posts']}")
+    print("\nMissing critical fields:")
     print(f"   - Without categories: {len(results['posts_without_categories'])} posts")
     print(f"   - Without tags: {len(results['posts_without_tags'])} posts")
     print(f"   - Without description: {len(results['posts_without_description'])} posts")
+    print(f"   - Without url: {len(results['posts_without_url'])} posts")
     print(f"   - Date issues: {len(results['date_issues'])} posts")
-
-    print(f"\n📁 Taxonomy Overview:")
-    print(f"   - Total unique categories: {len(results['all_categories'])}")
-    print(f"   - Total unique tags: {len(results['all_tags'])}")
-
-    print(f"\n📝 Field Usage (Top 15):")
-    for field, count in results['field_usage'].most_common(15):
-        pct = (count / results['total_posts'] * 100)
+    print("\nTaxonomy overview:")
+    print(f"   - Total unique categories: {len(output['all_categories'])}")
+    print(f"   - Total unique tags: {len(output['all_tags'])}")
+    print("\nField usage (top 15):")
+    for field, count in results["field_usage"].most_common(15):
+        pct = count / max(results["total_posts"], 1) * 100
         print(f"   - {field:<20} {count:>4} ({pct:>5.1f}%)")
-
-    print(f"\n✍️  Author Variants: {', '.join(results['author_variants'])}")
-
-    print(f"\n📄 Draft Posts: {len(results['draft_posts'])}")
-    print(f"🔗 Posts with Aliases: {len(results['posts_with_aliases'])}")
-
-    print(f"\n✅ Analysis complete!")
-    print(f"   - Raw data: audit-frontmatter.json")
-    print(f"   - Human report: Will be generated next...")
+    print(f"\nAuthor variants: {', '.join(output['author_variants']) or 'None'}")
+    print(f"Draft posts: {len(results['draft_posts'])}")
+    print(f"Posts with aliases: {len(results['posts_with_aliases'])}")
+    print(f"\nAnalysis complete. Raw data: {output_path}")
     print("=" * 80)
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

@@ -6,12 +6,12 @@ author: joshuapsteele
 categories: productivity
 description: My curriculum vitae (CV) and resume
 guid: https://joshuapsteele.com/?page_id=4007
-showtoc: true
+showToc: true
 title: CV
 url: /cv/
 ---
 
-_(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my resume on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
+_(For a brief profile of what I'm like and what makes me tick as a worker, [read this self-assessment](/what-color-is-my-parachute-the-flower-petal-exercise/). You can also view my profile on [LinkedIn](https://www.linkedin.com/in/joshuapsteele/).)_
 
 * * *
 
@@ -85,9 +85,9 @@ This `/cv` page is just one of [my many "slash pages."](/slashes)
 
 ### Pastor/Clergy (Anglican Priest)
 
-- [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); November 2019 - Present
+- [Church of the Savior](https://friendsofthesavior.org/) (Wheaton, IL); November 2019 - November 2023
 - Diocese: [Churches for the Sake of Others (C4SO)](https://www.c4so.org/)
-- Areas of ministry as a Deacon (see below) and now a Priest have included:
+- Areas of ministry as a Deacon (see below) and then as a Priest included:
   - preaching (public speaking, teaching),
   - teaching,
   - presiding at Holy Communion,
@@ -99,7 +99,7 @@ This `/cv` page is just one of [my many "slash pages."](/slashes)
   - designing and managing church website,
   - and managing the rollout and use of our church management software.
 
-_(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
+_(Note: [to read/listen to my sermons, go here](/sermons/).)_
 
 ### Pastor/Clergy (Anglican Deacon)
 
@@ -170,7 +170,7 @@ _(Note: [to read/listen to my sermons, go here](/portfolio/sermons/).)_
 - Unfinished ABD (All but dissertation) Ph.D. in Biblical & Theological Studies
 - Supervisor: Marc Cortez, Ph.D.
 
-_(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
+_(Note: [to read some of my academic essays, go here](/essays/).)_
 
 ### M.Div. - [Beeson Divinity School](http://www.beesondivinity.com/); Birmingham, AL
 
@@ -191,16 +191,16 @@ _(Note: [to read some of my academic essays, go here](/portfolio/essays/).)_
 ### Beeson Divinity School
 
 - 2017 - History & Doctrine Award 2016-17
-- 2016 - [Guide One Foundation Scholarship](https://www.guideone.com/giving-back/guideone-foundation/scholarship/) ($2,500)
+- 2016 - [Guide One Foundation Scholarship](https://web.archive.org/web/20170726084431/https://www.guideone.com/giving-back/guideone-foundation/scholarship/) ($2,500)
 - 2013-16 - [Dean’s Scholarship](http://beesondivinity.com/scholarships) ($10,000/yr.)
 
 ### Cedarville University
 
 - 2013 - Faculty Scholarship Award (Cumulative 4.0 GPA)
 - 2013 - The Oxford University Press Award: Preseminary Bible (Highest GPA in Program)
-- 2013 - [The Daniel Award](http://www.cedarville.edu/financialaid/Daniel+Award) ($5,000)
-- 2012 - [Dr. Donald Tyler Scholarship](http://www.cedarville.edu/financialaid/Dr.+Donald+Tyler+Scholarship) ($1,250)
-- 2011 - [Alumni Honors Scholarship](http://www.cedarville.edu/financialaid/Alumni+Honors+Scholarship): School of Biblical and Theological Studies ($1,000)
+- 2013 - [The Daniel Award](https://web.archive.org/web/20130102055403/http://www.cedarville.edu:80/financialaid/Daniel+Award) ($5,000)
+- 2012 - [Dr. Donald Tyler Scholarship](https://web.archive.org/web/20130102054824/http://www.cedarville.edu:80/financialaid/Dr.+Donald+Tyler+Scholarship) ($1,250)
+- 2011 - [Alumni Honors Scholarship](https://web.archive.org/web/20130102060014/http://www.cedarville.edu:80/financialaid/Alumni+Honors+Scholarship): School of Biblical and Theological Studies ($1,000)
 - 2009-2013 - Cedarville Scholar (75% Tuition; $70,000)
 - 2009-2013 - Dean’s Academic Scholarship (Remainder of Tuition, Room and Board; $28,000)
 

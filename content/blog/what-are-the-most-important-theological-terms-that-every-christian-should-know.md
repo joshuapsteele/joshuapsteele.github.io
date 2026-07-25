@@ -2,9 +2,14 @@
 author: joshuapsteele
 categories: theology
 date: '2019-10-16T14:14:20Z'
-description: Which theological terms would make your shortlist.
+description: "A glossary of essential theological terms every Christian might want to know, drawn from the 'Jargon-Busting' appendix of Alister McGrath's *Christian Theology*."
 title: What are the most important theological terms that every Christian should know?
+tags:
+  - theology
+  - list
+  - books
 url: /what-are-the-most-important-theological-terms-that-every-christian-should-know/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxtel62b"
 ---
 
 Which theological terms would make your shortlist?

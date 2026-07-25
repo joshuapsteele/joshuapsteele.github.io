@@ -2,7 +2,7 @@
 categories: productivity
 description: A list of apps and software tools I use daily
 draft: false
-showtoc: false
+showToc: false
 title: Defaults
 url: /defaults
 ---
@@ -22,7 +22,7 @@ Here are the apps I use for various tasks:
 - **📖 RSS:** [Readwise Reader](https://readwise.io/read)
 - **👥 Contacts:** Apple Contacts
 - **🌐 Browser:** Safari (iOS), Firefox (macOS)
-- **🕵🏻 Search:** [Kagi](https://kagi.com/) and [Perplexity](https://www.perplexity.ai/)
+- **🕵🏻 Search:** [Kagi](https://kagi.com/)
 - **💬 Chat:** Apple Messages, with WhatsApp and Signal on the side
 - **🔖 Bookmarks:** Saved in browser, [Readwise Reader](https://readwise.io/read), or [Obsidian](https://obsidian.md/)
 - **📑 Read It Later:** [Readwise Reader](https://readwise.io/read)

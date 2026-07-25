@@ -2,12 +2,12 @@
 author: joshuapsteele
 categories: personal
 date: '2012-08-14T20:20:39Z'
-description: The Traditional Wedding Vows In case you didn’t know, the “traditional”
-  wedding vows – in English, at least – are found in the Book of Common Prayer.
+description: "The traditional wedding vows from the Book of Common Prayer, plus the personal vows my wife and I wrote—loosely based on them—for our 2012 wedding."
 tags:
 - poetry
 title: 'Wedding Vows: My Personal Take on the Traditional Version'
 url: /wedding-vows/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmu3dh2p"
 ---
 
 # The Traditional Wedding Vows
@@ -63,4 +63,4 @@ in whose presence I hereto pledge you my faithfulness.
 
 ---
 
-For more personal posts of mine, go [here](https://joshuapsteele.com/category/personal/).
+For more personal posts of mine, go [here](/categories/personal/).

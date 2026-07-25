@@ -4,10 +4,12 @@ categories: theology
 date: '2015-04-24T09:15:27Z'
 description: We lose sight of God's love when we emphasize 'strong' portraits of God
   while neglecting Scripture's 'weak,' brokenhearted images.
-publicize_facebook_url: null
-publicize_twitter_url: null
 title: The Brokenhearted God
+tags:
+  - theology
+  - bible
 url: /the-brokenhearted-god/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgp2hf25"
 ---
 
 Not to take away from the undeniably biblical teaching that God is almighty, but sometimes I think **we lose sight of God's love for his image-bearers when we emphasize certain "strong" portraits of God at the expense of (instead of alongside of) other "weak" portraits found in Scripture**. (I put "strong" and "weak" in quotes because perhaps our definitions of strength and weakness therefore need to change!)
@@ -92,4 +94,4 @@ This rambling post was inspired by the following two songs, which capture the ab
 
 {{< youtube D_wSEMAu2sA >}}
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

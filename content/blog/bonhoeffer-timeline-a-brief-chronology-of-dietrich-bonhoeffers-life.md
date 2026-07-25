@@ -2,8 +2,7 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-11-12T15:21:09Z'
-description: 'The *Cambridge Companion to Dietrich Bonhoeffer* SOURCE (Amazon affiliate
-  link): John W.'
+description: "A year-by-year chronology of Dietrich Bonhoeffer's life, from his 1906 birth in Breslau to his final years, drawn from the *Cambridge Companion to Dietrich Bonhoeffer*."
 tags:
 - bonhoeffer
 - theology
@@ -12,11 +11,12 @@ tags:
 - history
 title: 'Bonhoeffer Timeline: A Chronology of Dietrich Bonhoeffer’s Life'
 url: /bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbwlofv2g"
 ---
 
 ## The *Cambridge Companion to Dietrich Bonhoeffer*
 
-SOURCE (Amazon affiliate link): John W. de Gruchy, ed., [*The Cambridge Companion to Dietrich Bonhoeffer*](https://www.amazon.com/Cambridge-Companion-Dietrich-Bonhoeffer-Companions/dp/0521587816/ref=as_li_ss_tl?keywords=cambridge+companion+bonhoeffer&qid=1573571187&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=9741ea7f11b81c3e60c2df438c4b6202&language=en_US) (Cambridge: Cambridge University Press, 1999), xxiv–xxvi.
+SOURCE (Amazon affiliate link): John W. de Gruchy, ed., [*The Cambridge Companion to Dietrich Bonhoeffer*](https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20) (Cambridge: Cambridge University Press, 1999), xxiv–xxvi.
 
 - 1906, 4 February, Dietrich Bonhoeffer born in Breslau, Germany
 - 1912 Family moves to Berlin, where Karl Bonhoeffer, Dietrich’s father, takes up a position at Berlin University
@@ -136,7 +136,7 @@ SOURCE (Amazon affiliate link): John W. de Gruchy, ed., [*The Cambridge Companio
 
 ## Bethge, *Dietrich Bonhoeffer: A Biography*
 
-SOURCE (Amazon affiliate link): Eberhard Bethge, *[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/Dietrich-Bonhoeffer-Biography-Eberhard-Bethge/dp/0800628446/ref=as_li_ss_tl?keywords=bethge+bonhoeffer&qid=1573573081&sr=8-1&linkCode=ll1&tag=joshuapsteele-20&linkId=d0e904725d0706a643284b2994368588&language=en_US)*, ed. Victoria J. Barnett, trans. Betty Ross, Frank Clarke, and William Glen-Doepel with Eric Mosbacher, Peter, Revised edition (Minneapolis, MN: Fortress Press, 2000), 1025–1027.
+SOURCE (Amazon affiliate link): Eberhard Bethge, *[Dietrich Bonhoeffer: A Biography](https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20)*, ed. Victoria J. Barnett, trans. Betty Ross, Frank Clarke, and William Glen-Doepel with Eric Mosbacher, Peter, Revised edition (Minneapolis, MN: Fortress Press, 2000), 1025–1027.
 
 - 1906 4 February, Dietrich Bonhoeffer born in Breslau
 - 1912 Father appointed to Berlin University; family moves to Berlin

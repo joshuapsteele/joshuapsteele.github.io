@@ -3,7 +3,7 @@ TocOpen: false
 author: joshuapsteele
 categories: ethics
 description: Resources and strategies for resisting tyranny and defending democracy
-showtoc: true
+showToc: true
 title: How to Resist Tyranny
 url: /resist
 ---

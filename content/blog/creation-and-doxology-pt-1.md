@@ -5,7 +5,12 @@ date: '2012-09-17T17:07:57Z'
 description: Recovering biblical creation theology from the Young Earth vs. Neo-Darwinism
   debate to rediscover God's beautiful, worshipful design.
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 1)'
+tags:
+  - bible
+  - theology
+  - creation
 url: /creation-and-doxology-pt-1/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmkhd62b"
 ---
 
 # INTRODUCTION
@@ -31,7 +36,7 @@ Doxologically, the creation of the universe as Elohim’s temple provides the im
 
 However, there is a tension between creation as it is now experienced and as it has just been described.[^16] Genesis 3 gives the tragic explanation: Sin and Death, God’s cosmic enemies, have infected and affected every layer of the cosmic temple,[^17] pulling the universe backwards, so to speak, toward the chaotic watery depths from which it was called into being. If the temple is no longer “safe,” is appropriate worship still possible?
 
-[CONTINUE TO PART 2 –&gt;](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")
+[CONTINUE TO PART 2 –&gt;](/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")
 
 ---
 

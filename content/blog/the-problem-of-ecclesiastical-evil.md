@@ -2,17 +2,17 @@
 author: joshuapsteele
 categories: theology
 date: '2024-03-08T12:26:14Z'
-description: You’ve probably heard of “the problem of evil” (if not, here’s an overview).
-  But there’s a specific version/aspect of it that I find even more devastating.
+description: "A more devastating twist on the problem of evil: if God is good and the Church is his chosen plan for redemption, why is there so much evil within the Church itself?"
 tags:
 - drafts
 title: The Problem of Ecclesiastical Evil
 url: /the-problem-of-ecclesiastical-evil/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbo565y2y"
 ---
 
 You’ve probably heard of “the problem of evil” (if not, [here’s an overview](https://en.wikipedia.org/wiki/Problem_of_evil)). But there’s a specific version/aspect of it that I find even more devastating.
 
-If God is omnipotent (all-powerful), ommniscient (all-knowing(, and omnibenevolent (completely good)…
+If God is omnipotent (all-powerful), omniscient (all-knowing), and omnibenevolent (completely good)…
 
 If the Church is God’s main plan for the redemption of humanity and the cosmos (consider the “body of Christ” paradigm in the New Testament)…
 

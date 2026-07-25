@@ -5,7 +5,12 @@ date: '2017-12-09T15:22:06Z'
 description: Should the Bible be read differently than other texts? Exploring theological
   hermeneutics and Scripture's unique location in Christian theology.
 title: The Hermeneutical Implications of Scripture's Theological Location
+tags:
+  - bible
+  - interpretation
+  - theology
 url: /hermeneutical-implications-scriptures-theological-location/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcblopo2b"
 ---
 
 # INTRODUCTION
@@ -22,7 +27,7 @@ In the second section, therefore, I maintain that, because Scripture plays a uni
 
 Finally, in the third section, I offer an account of biblical and theological studies as a single multifaceted discipline, one that includes both biblical studies and the various theological sub-disciplines of historical, systematic, and pastoral theology. Because Scripture’s subject matter is complex, unified, and irreducibly ecclesiological, biblical and theological studies need each other. This has, I believe, implications for how the contested and contentious fields of biblical theology and the theological interpretation of Scripture ought to relate to each other. Furthermore, because the Church’s understanding of and participation in Scripture’s subject matter is historically, conceptually, and practically complex, the theological subdisciplines need each other.
 
-***(Continue reading this post, or access the PDF: [STEELE Theological Hermeneutics Essay PDF](https://joshuapsteele.com/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf).)***
+***(Continue reading this post, or access the PDF: [STEELE Theological Hermeneutics Essay PDF](/wp-content/uploads/2017/12/STEELE-Theological-Hermeneutics-Essay-PDF.pdf).)***
 
 ---
 
@@ -72,7 +77,7 @@ Finally, in the third section, I offer an account of biblical and theological st
 
 The admittedly diverse texts that make up the Old and New Testaments of Christian Scripture bear witness to a single unified narrative – a sequence of events with its own dramatic coherence and sense – of the triune God’s creation and redemption of the world.[^1] Crucially, Scripture plays an authoritative role in the all-encompassing story to which it bears witness. After briefly summarizing the subject matter of Scripture, I will explain Scripture’s authoritative role by explaining the relationships between Scripture and (1) God, (2) creation, and (3) God’s people.
 
-***(Note: For a related account of Scripture, read my previous essay: [Scripture: What It Is and Why It Matters](https://joshuapsteele.com/on-scripture/).)***
+***(Note: For a related account of Scripture, read my previous essay: [Scripture: What It Is and Why It Matters](/on-scripture/).)***
 
 ## Scripture’s Subject Matter: The Story to Which It Bears Witness
 

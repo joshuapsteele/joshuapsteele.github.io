@@ -8,6 +8,7 @@ tags:
 - writing
 title: Helpful Writing Templates
 url: /helpful-writing-templates/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbyh7ks2w"
 ---
 
 The following templates come from *[They Say / I Say: The Moves That Matter in Academic Writing](https://amzn.to/33TJdor)*.

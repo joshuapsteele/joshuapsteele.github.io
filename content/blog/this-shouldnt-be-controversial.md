@@ -8,6 +8,7 @@ tags:
 - politics
 title: This Shouldn't Be Controversial
 url: /this-shouldnt-be-controversial/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkwcvx2n"
 ---
 
 The following statements should not be controversial, but they sadly are. What would you add to this list?

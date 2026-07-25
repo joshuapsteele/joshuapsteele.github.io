@@ -1,6 +1,26 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+_Last refreshed: 2026-07-05_
+
+This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
+
+## Audit & Cleanup Project (cross-repo) — read this if doing audit, tagging, or cleanup work
+
+This repository and the companion Obsidian vault (`/Users/joshuapsteele/git/joshuapsteele`) are subject to a periodic audit-and-cleanup effort. If your task is part of that effort:
+
+**1. Where your instructions are.** This file (`CLAUDE.md`, symlinked as `AGENTS.md`) holds repo conventions. The project's findings and open work live in `docs/`:
+- `docs/AUDIT-MASTER-REPORT.md` — the latest dated audit snapshot. Read it for context; do not edit it (see point 3).
+- `docs/CLEANUP-CHECKLIST.md` — the living list of open items.
+- `docs/TAGGING-PROGRESS.md` — resumable state for the blog-post tagging effort.
+
+**2. You must log your progress.** Assume the next session (and the other tool — Claude Code or Codex) remembers nothing. If you do not record what you did, that work is invisible to whoever picks this up next.
+
+**3. Where to log it — update the living tracker in the same commit as the change:**
+- Tagging work → update the Progress section of `docs/TAGGING-PROGRESS.md`.
+- Completing an open item → check it off in `docs/CLEANUP-CHECKLIST.md` and move it to "Completed."
+- Do **not** edit the dated `docs/AUDIT-*.md` reports; they are point-in-time snapshots. When a new audit is run, write a new dated report instead.
+- `git log` is the history of record — do not hand-maintain a separate changelog.
+- Only mark something done after verifying it (e.g., `npm run build` passed, the item is actually complete).
 
 ## Project Overview
 
@@ -8,21 +28,26 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 
 ## Site Architecture
 
-- **Static Site Generator**: Hugo 0.147.3 extended (Node 20 in CI, Node 18+ locally)
+- **Static Site Generator**: Hugo Extended (CI pins the exact version in `.github/workflows/hugo.yml`; Node 20 in CI, Node 18+ locally)
 - **Theme**: PaperMod (in `themes/` directory, override via `layouts/` and `assets/`)
 - **Content Structure**:
-  - `content/blog/` - Blog posts (314 markdown files with YAML front matter)
-  - `content/pages/` - Static pages (42 files including about, contact, cv, now, uses, follow, etc.)
+  - `content/blog/` - Long-form blog posts with YAML front matter
+  - `content/pages/` - Static pages including about, contact, cv, now, uses, follow, etc.
+  - `content/notes/` - Short notes; canonical POSSE feed syndicated to Mastodon and Threads via Micro.blog
   - `content/search.md` - Search functionality page
+  - `content/archives.md` - Archives listing page
+  - `content/files.md` - Files listing page
 - **Newsletter**: "Steele Notes" email newsletter via [Buttondown](https://buttondown.com/joshuapsteele)
   - Subscription forms on homepage (`layouts/partials/index_profile.html`) and `/follow` page
   - Powered by Buttondown API embed
 - **Layouts**: Custom Hugo layouts in `layouts/` directory
-  - Custom shortcodes: `audio`, `callout`, `figure`, `files-list`, and `gallery`
-  - Partials for comments, analytics (`google_analytics`, `tinylytics_kudos`), and site components
+  - Custom shortcodes: `audio`, `callout`, `figure`, `files-list`, `gallery`, `amazon-purchases-table`, `linklog-pinned`, `popular-posts`
+  - Partials for comments, analytics (`google_analytics`, `tinylytics_kudos`), and site components: `connected_notes.html`, `h-card.html`, `home_info.html`, `linklog_posts.html`, `microblog_posts.html`, `popular_posts.html`, `post_meta.html`, `respond_links.html`, `webmention_counter.html`
   - IndieWeb partials: `webmentions.html`, `webmention_display.html`, `reply_context.html`
   - Custom blockquote rendering (`layouts/_default/_markup/render-blockquote.html`)
+  - Custom redirect template (`layouts/_default/redirect.html`)
   - Custom 404 page (`layouts/404.html`)
+  - Notes section layouts: `layouts/notes/list.html`, `layouts/notes/single.html`
   - Profile and home info customizations with h-card microformats
   - List template override with h-feed markup
   - Single post template with h-entry markup
@@ -58,16 +83,16 @@ npm run clean
 
 # Deploy to GitHub (commits and pushes to main, triggering CI)
 npm run deploy
-# or: ./deploy.sh "Optional commit message"
+# or: ./scripts/deploy.sh "Optional commit message"
 ```
 
 ### Deployment
 The site uses GitHub Actions for automated deployment (`.github/workflows/hugo.yml`):
 - Workflow triggered on push to `main` branch or manual dispatch
-- Build job: Checks out code with submodules, sets up Hugo 0.147.3 extended + Node 20, caches dependencies, builds site with `hugo --gc --minify`
+- Build job: Checks out code with submodules, installs the Hugo version pinned in the workflow, caches dependencies, builds site with `hugo --gc --minify`
 - Deploy job: Deploys to GitHub Pages using built artifact
 
-The `deploy.sh` script simplifies local deployment workflow:
+The `scripts/deploy.sh` script simplifies local deployment workflow:
 1. Adds all changes to git (`git add .`)
 2. Commits with timestamp or custom message
 3. Pushes to `main` branch (triggers GitHub Actions build and deployment)
@@ -97,12 +122,12 @@ The `deploy.sh` script simplifies local deployment workflow:
 
 ### Profile Mode & Navigation
 - Profile mode enabled on homepage with custom image, title, and subtitle
-- 27 custom profile buttons linking to key pages (About, Blog, Contact, CV, Now, Uses, etc.)
+- Custom profile buttons linking to key pages (About, Blog, Contact, CV, Now, Uses, etc.)
 - Top navigation menu: About, Blog, Contact, Resources, Social, Search
 - Footer text: "Navigate my [blog](/blog) by [categories](/categories) and [tags](/tags)"
 
 ### Social & Sharing
-- Social icons: Mastodon, Threads, GitHub, LinkedIn, microblog, RSS
+- Social icons: Mastodon, Threads, Bluesky, GitHub, LinkedIn, microblog, RSS
 - Default social sharing image: `/images/headshot.jpg`
 - Share buttons enabled on posts
 - Disqus comments configured but disabled by default
@@ -149,7 +174,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
 
 ### Identity & Authentication
 - **rel="me"**: Verified identity links in footer and social icons
-  - Links to Micro.blog and Mastodon (bidirectional verification)
+  - Links to Micro.blog, Mastodon, and Bluesky (including the custom-domain Bluesky handle `@joshuapsteele.com`)
 - **IndieAuth**: Domain-based authentication endpoints (`layouts/partials/extend_head.html`)
   - Authorization endpoint: `https://indieauth.com/auth`
   - Token endpoint: `https://tokens.indieauth.com/token`
@@ -163,7 +188,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
 - **Display**: JavaScript-based webmention display (`layouts/partials/webmention_display.html`)
   - Fetches from webmention.io and Micro.blog's JF2 endpoint on page load
   - Groups by type: likes (facepile), reposts (facepile), replies (full cards), mentions (list)
-  - Styled with extensive CSS (`assets/css/extended/custom.css` lines 383-538)
+  - Styled in `assets/css/extended/custom.css`
 - **Outgoing**: `scripts/send_webmentions.py` runs after the Hugo build in GitHub Actions
   - By default it sends only explicit `u-in-reply-to` links, keeping regular post links quiet
 
@@ -173,7 +198,7 @@ This site is fully IndieWeb-enabled with comprehensive support for decentralized
   - Displays original post with author, title, excerpt
   - JavaScript-based fetching with graceful fallback for CORS issues
   - Marked up with `u-in-reply-to` microformat class
-  - Styled with CSS (`assets/css/extended/custom.css` lines 540-611)
+  - Styled in `assets/css/extended/custom.css`
 
 ### Creating Reply Posts
 Add this to your post's front matter to create a reply:
@@ -200,7 +225,7 @@ Validate implementations with:
 
 ## Taxonomy Management
 
-The site uses a taxonomy consolidation system to maintain consistent categories and tags:
+The site uses a taxonomy consolidation system to maintain consistent categories and tags. Canonical categories are `theology`, `ethics`, `personal`, `productivity`, `dissertation`, `ministry`, `poem`, and `politics`. Use `python3 scripts/audit-frontmatter.py` for live category/tag coverage instead of copying counts into docs.
 
 ### Taxonomy Files
 - `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
@@ -216,22 +241,35 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 
 ### Shell Scripts
 - `scripts/deploy.sh` - Commits all changes with timestamp (or custom message) and pushes to main
-- `scripts/cleanup_images.sh` - Removes legacy/external images (DANGEROUS: review before running)
+- `scripts/cleanup_images.sh` - Legacy broad image cleanup (DANGEROUS: run a fresh media audit first)
 - `scripts/rename_blog_files.sh` - Renames dated blog posts to remove date prefixes (review before running)
-- `scripts/apply-high-traffic-tags.sh` - Apply tags to high-traffic posts
 - `scripts/review_changes.sh` - Review staged changes before committing
 
 ### Python Audit & Analysis Scripts
 - `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/`)
-- `scripts/check-internal-links.py` - Check for broken internal links (outputs to `scripts/data/`)
-- `scripts/check-external-links.py` - Check for broken external links (outputs to `scripts/data/`)
+- `scripts/check-internal-links.py` - Check for broken internal links; validates against the built `public/` site, so run `npm run build` first (outputs to `scripts/data/`)
+- `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/`)
+- `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links.md` + `scripts/data/`)
+- `scripts/check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure; runs automatically in `npm run build` and CI
+- `scripts/convert-internal-links.py` - Rewrite absolute joshuapsteele.com self-links in post bodies to root-relative links, validating against `public/`; dry-run by default, `--apply` to write
+- `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/wayback-map.json`
+- `scripts/fix-dead-links.py` - Apply dead-link fixes (Wayback snapshot where available, else unlink + "(old, broken link)" marker); body-only, dry-run by default, `--apply` to write
+- `scripts/audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
+- `scripts/check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
 - `scripts/analyze_website_stats.py` - Analyze traffic statistics
 - `scripts/cleanup_frontmatter.py` - Clean up and standardize front matter fields
+- `scripts/cleanup_posts.py` - Clean up posts in bulk
 - `scripts/fix_malformed_yaml.py` - Fix malformed YAML front matter
 - `scripts/generate_descriptions.py` - Generate descriptions for posts missing them
-- `scripts/update_descriptions.py` - Update existing descriptions
 - `scripts/categorize_page_changes.py` - Categorize and analyze page changes
 - `scripts/show_posts_batch.py` - Display posts in batches for review
+- `scripts/fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
+- `scripts/fetch_syndication_links.py` - Fetch Micro.blog syndication URLs for Hugo response links
+- `scripts/manage-notes.py` - Manage the content/notes section
+- `scripts/migrate-microblog-archive.py` - Migrate micro.blog archive content
+- `scripts/convert-taxonomy-to-kebab-case.py` - Convert taxonomy terms to kebab-case
+- `scripts/taxonomy_tools.py` - Shared taxonomy utility functions
+- `scripts/amazon/` - Amazon-specific data scripts
 
 ### Documentation Files
 - `CLAUDE.md` - This file - AI assistant guidance
@@ -239,8 +277,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `docs/AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
 - `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings
 - `docs/CLEANUP-CHECKLIST.md` - Checklist for site maintenance
-- `docs/AUDIENCE_GROWTH_STRATEGY.md` - Strategy document
-- `docs/WARP.md` - Additional documentation
+- `docs/archive/AUDIENCE_GROWTH_STRATEGY.md` - Archived strategy document
 
 ## Common Workflows
 
@@ -269,7 +306,7 @@ See `templates/README.md` for detailed template documentation.
 3. Post is automatically committed to GitHub
 4. GitHub Actions builds site in 2-3 minutes
 
-See `DRAFTS-ACTIONS.md` for Drafts setup and usage.
+See `drafts-actions/` directory for Drafts action setup and usage.
 
 **Note**: For micro-blog style posts without titles, use [Micro.blog](https://micro.blog/) instead - it integrates better with social media.
 
@@ -375,3 +412,17 @@ See `DRAFTS-ACTIONS.md` for Drafts setup and usage.
 - Fuse.js Search: https://fusejs.io/
 - Buttondown (Newsletter): https://buttondown.com/
 - Repository: https://github.com/joshuapsteele/joshuapsteele.github.io
+
+## Agent skills
+
+### Issue tracker
+
+Issues are tracked as GitHub issues in this repo, managed via the `gh` CLI. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+
+Default label vocabulary (`needs-triage`, `needs-info`, `ready-for-agent`, `ready-for-human`, `wontfix`). See `docs/agents/triage-labels.md`.
+
+### Domain docs
+
+Single-context: one `CONTEXT.md` + `docs/adr/` at the repo root. See `docs/agents/domain.md`.

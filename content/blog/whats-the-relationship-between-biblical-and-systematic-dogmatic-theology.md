@@ -2,13 +2,13 @@
 author: joshuapsteele
 categories: theology
 date: '2019-01-23T15:18:31Z'
-description: This is the question we’re considering this week in our doctoral seminar
-  on biblical and theological integration.
+description: "A doctoral seminar reading list on biblical theology, systematic theology, and how Scripture and doctrine belong together."
 tags:
 - bible
 - theology
 title: What's the relationship between biblical and systematic/dogmatic theology?
 url: /whats-the-relationship-between-biblical-and-systematic-dogmatic-theology/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3jbi32j"
 ---
 
 This is the question we’re considering this week in our doctoral seminar on biblical and theological integration. Two of us are theologians and the other four are bible scholars. Should be interesting!

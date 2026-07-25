@@ -8,6 +8,7 @@ tags:
 - sermons
 title: 'Preparing the Way of the Lord in the Wilderness: Luke 3:1-6'
 url: /preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc4ztys2b"
 ---
 
 *(Sermon preached at Church of the Savior in Wheaton, IL.)*

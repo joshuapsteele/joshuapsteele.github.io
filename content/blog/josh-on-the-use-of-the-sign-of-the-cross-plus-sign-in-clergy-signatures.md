@@ -2,12 +2,12 @@
 author: joshuapsteele
 categories: personal
 date: '2020-09-04T13:57:32Z'
-description: This is, admittedly, a half-baked opinion. However, I need to get back
-  in the habit of blogging/writing regularly, so here goes.
+description: "A half-baked opinion: why using the sign of the cross (+) in clergy signatures, outside the context of a blessing or prayer, can come across as pretentious."
 tags:
 - opinion
 title: Josh+? On the use of the sign of the cross (plus sign) in clergy signatures
 url: /josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbrekmc23"
 ---
 
 This is, admittedly, a half-baked opinion. However, I need to get back in the habit of blogging/writing regularly, so here goes.

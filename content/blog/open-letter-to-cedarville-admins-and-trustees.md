@@ -2,10 +2,13 @@
 author: joshuapsteele
 categories: personal
 date: '2013-01-13T21:22:06Z'
-description: 'To my sisters and brothers in Christ, entrusted with the arduous task
-  of leading and directing Cedarville University: greetings, grace, and peace.'
+description: "An open letter to Cedarville University's leadership, raising concerns—as a grateful alumnus—about institutional decisions that seemed to contradict the gospel I learned there."
 title: Open Letter to Cedarville Admins and Trustees
+tags:
+  - college
+  - cedarville
 url: /open-letter-to-cedarville-admins-and-trustees/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclkbxp2k"
 ---
 
 To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.
@@ -18,7 +21,7 @@ That is why certain events within the Cedarville community this past year have c
 
 Among other troubling things, including the harassment of those *“godly men and women here – whose vision of God, his Word, and his world I’ve been privileged to catch,”* I have observed [the following:](http://fiatlux125.wordpress.com/concerns/)
 
-- your approval of [the White Papers](http://fiatlux125.wordpress.com/concerns/white-papers/) on [omniscience](http://www.cedarville.edu/~/media/Files/PDF/Shared/Omniscience-White-Paper.pdf), [justification](http://www.cedarville.edu/~/media/Files/PDF/Shared/Forensic-Justification.pdf), and [creation](http://www.cedarville.edu/~/media/Files/PDF/Shared/Creation-White-Paper.pdf),
+- your approval of [the White Papers](http://fiatlux125.wordpress.com/concerns/white-papers/) on omniscience (old, broken link), justification (old, broken link), and [creation](https://web.archive.org/web/20240612233730/https://www.cedarville.edu/~/media/Files/PDF/Shared/Creation-White-Paper.pdf),
 - your rejection of [the proposed Theology Major](http://fiatlux125.wordpress.com/concerns/theology-major-rejected/),
 - your dismissal of[ Dr. Michael Pahl](http://fiatlux125.wordpress.com/concerns/dr-michael-pahl-dismissed/),
 - the untimely resignation of [Dr. William Brown](http://fiatlux125.wordpress.com/concerns/dr-browns-resignation/),

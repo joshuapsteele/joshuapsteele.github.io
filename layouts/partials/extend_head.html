@@ -30,6 +30,9 @@
 <link rel="authorization_endpoint" href="https://indieauth.com/auth">
 <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
 
+{{- /* Standard.site: publication discovery and per-document identity */ -}}
+{{- partial "standard_site_links.html" . -}}
+
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">

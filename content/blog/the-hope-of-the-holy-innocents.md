@@ -4,18 +4,20 @@ categories: theology
 date: '2015-04-24T09:16:32Z'
 description: 'A December 28 sermon on the Slaughter of the Innocents: finding hope
   and meaning in Herod''s horrific massacre of Bethlehem''s babies.'
-excerpt: The Feast of the Holy Innocents is on December 28. Learn more about the hope
-  of the Holy Innocents in this 2014 sermon.
-publicize_twitter_user: is on December 28. Learn more about the hope of the Holy Innocents.
 title: The Hope of the Holy Innocents
+tags:
+  - sermons
+  - christmas
+  - bible
 url: /the-hope-of-the-holy-innocents/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgl63l2i"
 ---
 
 {{< audio src="/wp-content/uploads/2015/12/12–28–14JoshSteeleHolyInnocents.mp3" >}}
 
-(PDF: [The Hope of the Holy Innocents](https://joshuapsteele.com/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))
+(PDF: [The Hope of the Holy Innocents](/wp-content/uploads/2015/12/holy-innocents-matthew-21.pdf))
 
-[Today is December 28](http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
+[Today is December 28](https://web.archive.org/web/20151212023803/http://stpetersbhm.org/wp-content/podcast/12-28-14JoshSteeleHolyInnocents.mp3) (2014) – just the third day since Christmas – a commemoration of what is often called “[The Slaughter of the Innocents](http://en.wikipedia.org/wiki/Massacre_of_the_Innocents),” the killing of the baby boys of [Bethlehem](http://en.wikipedia.org/wiki/Bethlehem) by King [Herod](http://en.wikipedia.org/wiki/Herod_the_Great).
 
 The Church’s regard for this day as a feast day is quite early, going back [to at least the fifth century](http://www.newadvent.org/cathen/07419a.htm). In the fourth century, [Chromatius](http://en.wikipedia.org/wiki/Chromatius) described these babies as the first martyrs of Christ – the first counted worthy to die on Christ’s behalf. Around the same time, St. [Augustine](http://en.wikipedia.org/wiki/Augustine_of_Hippo) claimed that these nameless victims, 
 

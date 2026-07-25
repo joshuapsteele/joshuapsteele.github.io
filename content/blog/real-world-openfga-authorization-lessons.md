@@ -14,6 +14,7 @@ tags:
 - security
 title: Real-World Authorization Lessons with OpenFGA? I’d Love to Hear Them
 url: /real-world-openfga-authorization-lessons/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbk2hk52g"
 ---
 
 Are you using [OpenFGA](https://openfga.dev/) or another Google Zanzibar-inspired authorization engine **in the wild**—not just for a side project or proof of concept, but in a production environment with real users and systems?

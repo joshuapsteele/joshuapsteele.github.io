@@ -2,17 +2,21 @@
 author: joshuapsteele
 categories: personal
 date: '2012-09-21T07:00:39Z'
-description: 'Read Part One") Further Questions, All Relating to the University Statement
-  on Dr. Pahl’s Dismissal: - If Dr.'
+description: "Follow-up questions about Cedarville University's statement on Dr. Michael Pahl's dismissal and the Bible department's future."
 title: Cedarville, Let there be Light. (pt. 2)
+tags:
+  - college
+  - evangelicalism
+  - cedarville
 url: /cedarville-let-there-be-light-pt-2/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclwj3t2j"
 ---
 
 [Read Part One](http://windowinthesky.wordpress.com/2012/09/20/cedarville-let-there-be-light-pt-1/ "Cedarville, Let there be Light. (pt. 1)")
 
 # Further Questions, All Relating to the University Statement on Dr. Pahl’s Dismissal:
 
-- If Dr. Pahl’s book, [*The Beginning and the End*](http://www.amazon.com/The-Beginning-End-Rereading-Revelations/dp/1608999270), was controversial enough to lead to his dismissal, why was the book allowed to be used as a textbook last school year? 
+- If Dr. Pahl’s book, [*The Beginning and the End*](https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20), was controversial enough to lead to his dismissal, why was the book allowed to be used as a textbook last school year? 
     - Shouldn’t we trust the Bible professors’ judgment in their selection of the book as a text?
     - If we should, then was it worth firing Dr. Pahl over a book which other CU professors approved of enough to require as a text for their courses?
     - If not, why not? Why don’t we trust these highly-trained men and women as an institution? Shouldn’t they be a resource instead of a feared danger? Does this potential fear have anything to do with Dr. Pahl being dismissed?
@@ -27,4 +31,4 @@ url: /cedarville-let-there-be-light-pt-2/
 - What explanation has been given to the students who have been affected by Dr. Pahl’s dismissal (i.e. the ones registered for his classes)? Has that explanation been accurate and forthright?
 - Are any other professors currently being considered for dismissal by the University for things they have written and published?
 
-[(CONTINUED: An Explanation)](https://joshuapsteele.com/2012/09/22/an-explanation/ "An Explanation")
+[(CONTINUED: An Explanation)](/an-explanation/ "An Explanation")

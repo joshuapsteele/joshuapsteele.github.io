@@ -4,9 +4,14 @@ categories:
 - productivity
 - theology
 date: '2018-02-28T12:51:21Z'
-description: Personal Productivity in Psalm 127 I love Psalm 127.
+description: "What Psalm 127 teaches about productivity—why anxious overwork is futile, and how trusting God reframes our labor, our rest, and even our kids."
 title: 'Go to Sleep and Have Some Kids: What the Bible (Psalm 127) Says about Productivity'
+tags:
+  - bible
+  - theology
+  - kids
 url: /go-sleep-kids-bible-psalm-127-says-productivity/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcapybk2b"
 ---
 
 ## Personal Productivity in Psalm 127
@@ -24,7 +29,7 @@ I don’t know about you, but it’s easy for me to think that my success or lac
 
 Not true! It doesn’t matter how hard you work. If the Lord is not behind it and in favor of it, you’ll be laboring in vain.
 
-Now, of course, this Psalm doesn’t undo the Bible other admonitions to work diligently, lest you fall into poverty (see my post about [Poverty in the book of Proverbs](https://joshuapsteele.com/20110210proverbs-topical-study-poverty/)).
+Now, of course, this Psalm doesn’t undo the Bible other admonitions to work diligently, lest you fall into poverty (see my post about [Poverty in the book of Proverbs](/bible-poverty-proverbs/)).
 
 However, it does have implications for when we go to bed!
 
@@ -47,7 +52,7 @@ However, if you’re staying up late and getting up early in order to toil away 
 
 ## Have Some Kids
 
-The second part of the Psalm hits close to home as well! (See my previous post: [3 Confessions of an Expectant Father](https://joshuapsteele.com/3-confessions-expectant-father/).)
+The second part of the Psalm hits close to home as well! (See my previous post: [3 Confessions of an Expectant Father](/3-confessions-expectant-father/).)
 
 Verses 3-5 read:
 
@@ -64,7 +69,7 @@ DISCLAIMER: I don’t have space here to address the complicated issue of infert
 
 Nevertheless, these verses also teach an important truth: children are a blessing from God.
 
-Don’t get me wrong, I love kids. And, [as I’ve said in my previous post, I’m excited to be a dad](https://joshuapsteele.com/3-confessions-expectant-father/)!
+Don’t get me wrong, I love kids. And, [as I’ve said in my previous post, I’m excited to be a dad](/3-confessions-expectant-father/)!
 
 And yet, I think that I’m going to need this Psalm as a frequent reminder in the days and years ahead! Personal productivity advice has come around to the idea of sleep being important, but I don’t know if there’s broad consensus on children always being considered a blessing! If you ask many people, [the jury is still out on whether or not having children makes you happier](https://www.psychologytoday.com/blog/the-happiness-doctor/201709/does-having-children-make-us-happy) – much less more productive!!
 

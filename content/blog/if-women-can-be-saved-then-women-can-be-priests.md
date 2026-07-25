@@ -14,11 +14,12 @@ redirect_to: https://inchristus.com/2025/11/17/if-women-can-be-saved-then-women-
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydby7dd72k"
 ---
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Pastor does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*
 
-*After reading this piece, please see [Lee Nelson’s response](http://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) and [Emily McGowin’s rejoinder](http://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/).*
+*After reading this piece, please see [Lee Nelson’s response](https://web.archive.org/web/20211020205941/https://anglicancompass.com/the-problem-with-making-a-patristic-argument-for-the-ordination-of-women-a-response-to-emily-mcgowin/) and [Emily McGowin’s rejoinder](https://web.archive.org/web/20211020194742/https://anglicancompass.com/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson/).*
 
 ---
 
@@ -57,7 +58,7 @@ The church has consistently answered: No, of course not. In the logic of “what
 
 Indeed, it is precisely in the particularities of Jesus Christ’s person that he can save all people. The particularity of the incarnation is the pathway to the universality of salvation. “\[H\]e had to be made like them, fully human in every way, in order that he might become a merciful and faithful high priest in service to God, and that he might make atonement for the sins of the people” and “not only for ours but also for the sins of the whole world” (Heb. 2:17; 1 Jn. 2:2).
 
-As Beth Felker Jones says in her book [*Practicing Christian Doctrine*](http://www.amazon.com/Practicing-Christian-Doctrine-Introduction-Theologically/dp/0801049334/ref=as_li_ss_tl?keywords=Practicing+Christian+Doctrine&pd_rd_i=0801049334&pd_rd_r=01c428a0-07cc-4048-8894-9d6ce2c96457&pd_rd_w=P9xKu&pd_rd_wg=KXfEi&pf_rd_p=39e7c2a0-69e1-4a3f-8d8f-4c4ee1aefdb5&pf_rd_r=66AKMKQNSQTGPJWF63JS&psc=1&qid=1569494218&s=gateway&linkCode=ll1&tag=anglicanpasto-20&linkId=6d704c46c306131181f6420e60ccefbf&language=en_US), “Jesus does not come among us as a generic human being; he comes as we do, with particulars.” The truth is, there is no such thing as a generic human being. So, in order to be human, the Word had to become a particular human being, with ethnicity, culture, language, sex, gender, and more.
+As Beth Felker Jones says in her book [*Practicing Christian Doctrine*](https://www.amazon.com/dp/0801049334?tag=joshuapsteele-20), “Jesus does not come among us as a generic human being; he comes as we do, with particulars.” The truth is, there is no such thing as a generic human being. So, in order to be human, the Word had to become a particular human being, with ethnicity, culture, language, sex, gender, and more.
 
 What, then, of Jesus’ maleness? Can a male Christ save women?
 
@@ -148,13 +149,13 @@ But it is by virtue of those very distinctions that women offer a powerful sacra
 The argument offered here is inspired, in part, by the following resources. I recommend them to you for further reading:
 
 - Thomas F. Torrance, [*Royal Priesthood: A Theology of Ordained Ministry*](http://amzn.to/2mVXCiM), 2nd Edition (London: T & T Clark, 2003).
-- Sarah Coakley, “[The Woman at the Altar: Cosmological Disturbance or Gender Subversion?](http://www.anglicantheologicalreview.org/read/issue/13/)” *Anglican Theological Review*, 86.1 (2004): 75-93.
+- Sarah Coakley, “[The Woman at the Altar: Cosmological Disturbance or Gender Subversion?](https://web.archive.org/web/20170904162344/http://www.anglicantheologicalreview.org:80/read/issue/13/)” *Anglican Theological Review*, 86.1 (2004): 75-93.
 - William G. Witt, “Concerning Women’s Ordination: Women’s Ordination and the Priesthood of Christ”, accessed September 12, 2019: <http://willgwitt.org/theology/concerning-womens-ordination-and-the-priesthood-of-christ/>.
 
 ---
 
 [Featured image by Adam Jones via Flickr](http://www.flickr.com/photos/adam_jones/27713547834).
 
-[Want to learn more about women’s ordination debates within Anglicanism? Check out these resources.](http://anglicancompass.com/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources/)
+Want to learn more about women’s ordination debates within Anglicanism? Check out these resources. (old, broken link)
 
 [Want to write for Anglican Pastor? Check out our writing guidelines.](http://anglicancompass.com/write-for-anglican-pastor/)

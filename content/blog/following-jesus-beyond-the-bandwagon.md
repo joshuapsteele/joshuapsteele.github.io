@@ -5,7 +5,11 @@ date: '2016-09-12T22:34:54Z'
 description: '(A chapel message in a Christian school.)* There are a few things you
   should know about me: - I am a student at a *Christian* seminary.'
 title: Following Jesus Beyond the Bandwagon
+tags:
+  - discipleship
+  - sermons
 url: /following-jesus-beyond-the-bandwagon/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcd3t5h2p"
 ---
 
 *(A chapel message in a Christian school.)*

@@ -5,15 +5,17 @@
   "description": "Joshua P. Steele's personal website",
   "scripts": {
     "dev": "hugo server --buildDrafts --buildFuture",
-    "build": "hugo --gc --minify --cleanDestinationDir",
+    "build": "hugo --gc --minify --cleanDestinationDir && python3 scripts/check-amazon-disclosures.py",
     "build:fast": "hugo --gc",
     "build:stats": "hugo --gc --minify --templateMetrics --templateMetricsHints",
+    "check:amazon-disclosures": "python3 scripts/check-amazon-disclosures.py",
     "deploy": "./scripts/deploy.sh",
     "clean": "rm -rf public resources",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {},
-  "dependencies": {},
+  "devDependencies": {
+    "sequoia-cli": "^0.5.7"
+  },
   "engines": {
     "node": ">=18.0.0"
   }

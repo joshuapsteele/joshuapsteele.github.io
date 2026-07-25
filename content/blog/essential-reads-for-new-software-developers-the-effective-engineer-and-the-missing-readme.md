@@ -2,14 +2,14 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-07-03T21:08:09Z'
-description: Are you stepping into the exciting world of software engineering, or
-  considering whether to take that leap.
+description: "Two book recommendations for new software developers: The Effective Engineer for leverage and The Missing README for surviving real engineering teams."
 tags:
 - books
 - reviews
 title: 'Essential Reads for New Software Developers: The Effective Engineer and The
   Missing README'
 url: /essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbp4su52g"
 ---
 
 Are you stepping into the exciting world of software engineering, or considering whether to take that leap? You’re not alone. This field attracts countless individuals worldwide, fueled by an ever-increasing demand for technological solutions, the promise of high salaries, and a keen interest in problem-solving.

@@ -6,11 +6,16 @@ description: Over on his blog, “Non Sermoni Res,” Dr. William Witt has writt
   excellent essays on the topic of women’s ordination.
 title: Here are all of William Witt's essays on Women's ordination, in a single PDF
   (with bookmarks!)
+tags:
+  - womens-ordination
+  - anglican
+  - theology
 url: /here-are-all-of-william-witts-essays-on-womens-ordination-in-a-single-pdf-with-bookmarks/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydby3ik223"
 ---
 
 Over on his blog, “Non Sermoni Res,” Dr. [William Witt has written several excellent essays on the topic of women’s ordination](http://willgwitt.org/category/theology/womens-ordination/).
 
 Here’s [the guide that Witt put together in order to orient readers to his essays](http://willgwitt.org/a-guide-to-my-essays-about-womens-ordination/).
 
-What I've done is to combine the blog posts into a single PDF, with bookmarks. Here it is: [Witt_Womens-Ordination-Essays (PDF)](https://joshuapsteele.com/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf)
+What I've done is to combine the blog posts into a single PDF, with bookmarks. Here it is: [Witt_Womens-Ordination-Essays (PDF)](/wp-content/uploads/2019/09/Witt_Womens-Ordination-Essays.pdf)

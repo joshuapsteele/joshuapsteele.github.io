@@ -54,11 +54,13 @@
   {{- partial "toc.html" . }}
   {{- end }}
 
-  {{- if .Content }}
+  {{- $content := .Content -}}
+  {{- if $content }}
   <div class="post-content e-content">
+    {{- partial "amazon_disclosure.html" $content -}}
     {{- if not (.Param "disableAnchoredHeadings") }}
-    {{- partial "anchored_headings.html" .Content -}}
-    {{- else }}{{ .Content }}{{ end }}
+    {{- partial "anchored_headings.html" $content -}}
+    {{- else }}{{ $content }}{{ end }}
   </div>
   {{- end }}
   <a class="u-url" href="{{ .Permalink }}" style="display:none;" rel="bookmark">{{ .Permalink }}</a>

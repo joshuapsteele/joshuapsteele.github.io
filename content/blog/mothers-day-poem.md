@@ -2,15 +2,16 @@
 author: joshuapsteele
 categories: personal
 date: 2009-05-10
-description: The following is an original Mother’s Day poem of mine, that I wrote
-  for my mom (the best mom ever, of course) back in 2009.
+description: "\"From a Grateful Son,\" an original Mother's Day poem I wrote for my mom in 2009, giving thanks for a lifetime of her patience, care, and love."
 tags:
 - poetry
 title: 'From a Grateful Son: A Mother''s Day Poem'
 url: /mothers-day-poem/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcnpvvq2d"
 ---
-
+{{< callout "note" >}}
 The following is an original Mother’s Day poem of mine, that I wrote for my mom (the best mom ever, of course) back in 2009. It’s called “From a Grateful Son,” and I hope that you enjoy it.
+{{< /callout >}}
 
 ## From a Grateful Son – A Poem for My Mother
 
@@ -45,8 +46,8 @@ with these three words to say –
 
 ---
 
-(For another original poem of mine, check out [“A Valediction.”](https://joshuapsteele.com/2009/06/06/a-valediction/))
+(For another original poem of mine, check out [“A Valediction.”](/a-valediction/))
 
 What’s next? Well, whether you enjoyed the poem or not – or whether or not Mother’s Day is even nearby on the calendar – I think you know what you should go and do next after reading this post:
 
-# Call Your Mother! 🙂
+**Call Your Mother!** 🙂

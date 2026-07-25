@@ -2,12 +2,12 @@
 author: joshuapsteele
 categories: productivity
 date: '2020-06-30T17:40:44Z'
-description: 'SOURCE: *They Say / I Say: The Moves that Matter in Academic Writing*,
-  4th edition (affiliate link).'
+description: "A handy collection of the rhetorical sentence templates from *They Say / I Say*—ready-made moves for academic writing, from disagreeing well to planting a naysayer."
 tags:
 - writing
 title: They Say, I Say Writing Templates
 url: /they-say-i-say-writing-templates/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsibqk2q"
 ---
 
 SOURCE: [*They Say / I Say: The Moves that Matter in Academic Writing*](https://amzn.to/3eOMlXF), 4th edition (affiliate link). Perhaps the most helpful and practical book on academic writing!

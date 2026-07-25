@@ -4,7 +4,11 @@ categories: personal
 date: 2019-11-25T16:14:29Z
 description: Post from 2020 about looking for work while our second child was on the way.
 title: "With baby #2 on the way, I'm looking for work!"
+tags:
+  - career
+  - family
 url: /with-baby-2-on-the-way-im-looking-for-work/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbv4emk2w"
 ---
 
 I’m a husband to Rachel and a father to Eva.
@@ -31,5 +35,5 @@ But I also need to provide (health insurance!) for my family.
 
 ## So, if you know of any position that you think would be a good fit for me, please let me know!
 
-- For more information, [take a look at my CV](https://joshuapsteele.com/portfolio/cv/) and my [portfolio](https://joshuapsteele.com/portfolio/).
-- To contact me, you can leave a comment below, or [use my contact form](https://joshuapsteele.com/contact/) (which goes straight to my inbox).
+- For more information, [take a look at my CV](/portfolio/cv/) and my [portfolio](/portfolio/).
+- To contact me, you can leave a comment below, or [use my contact form](/contact/) (which goes straight to my inbox).

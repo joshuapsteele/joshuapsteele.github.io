@@ -2,14 +2,15 @@
 author: joshuapsteele
 categories: personal
 date: 2015-04-24T09:13:34Z
-description: "A particularly challenging quote from Karl Barth's *Evangelical Theology: An Introduction*."
+description: "Karl Barth's warning from Evangelical Theology about the humility, calling, and responsibility required of anyone doing theology."
 title: Who am I to be a theologian?
 url: /who-am-i-to-be-a-theologian/
 tags:
   - barth
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchlidx2k"
 ---
 
-For my 20th Century History & Doctrine course at [Beeson Divinity School](http://www.beesondivinity.com/), I'm re-reading through [Karl Barth](http://en.wikipedia.org/wiki/Karl_Barth)'s *[Evangelical Theology: An Introduction](http://www.amazon.com/Evangelical-Theology-Introduction-Karl-Barth/dp/0802818196)*. If you're involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!
+For my 20th Century History & Doctrine course at [Beeson Divinity School](http://www.beesondivinity.com/), I'm re-reading through [Karl Barth](http://en.wikipedia.org/wiki/Karl_Barth)'s *[Evangelical Theology: An Introduction](https://www.amazon.com/dp/0802818196?tag=joshuapsteele-20)*. If you're involved in the life and ministry of the Church in any respect, I strongly recommend that you buy and read this book!
 
 Here's a particularly challenging portion from the chapter on "Wonder," beginning on page 71. I wish the language were gender-inclusive, but Karl's words still ring true:
 
@@ -25,4 +26,4 @@ Here's a particularly challenging portion from the chapter on "Wonder," beginnin
 > 
 > It is another question whether I know what self-wonderment means for me, whether I am ready and able to subordinate my bit of research, thought, and speech to the logic of this wonder (and not in reverse order!). But <u>there can be no question about one fact: I find myself confronted by the wondrous reality of the living*God*. This confrontation occurs in even the most timid and untalented attempt to take seriously the subject in which I have become involved or to work theologically at all, whether in the field of exegesis, Church history, dogmatics, or ethics</u>."
 > 
-> Posted via [blogwith](http://blogwith.co)
+> Posted via "blogwith" (now defunct, RIP!)

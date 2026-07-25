@@ -12,6 +12,7 @@ tags:
 - romans
 title: I think Karl Barth missed the (pastoral) point of Romans
 url: /i-think-karl-barth-missed-the-pastoral-point-of-romans/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbytcxx2k"
 ---
 
 I’m scheduled to give a paper on Karl Barth’s reading of Romans 9:30–10:21 in *Der Römerbrief* at the [2019 Barth Graduate Student Colloquium](#) at Princeton in August.
@@ -177,7 +178,7 @@ Now, Barth is absolutely correct to interpret Paul as arguing for (1) unity betw
 
 ## If you miss the Jew-Gentile tensions *within* the Church, you miss the (pastoral) point of Romans!
 
-I agree with the thrust of Scot McKnight’s argument, in his recent book, [*Reading Romans Backward: A Gospel of Peace in the Midst of Empire*](https://www.amazon.com/Reading-Romans-Backwards-Gospel-Empire/dp/1481308777), that “Romans 12–16…reveals the pastoral context of Romans.”
+I agree with the thrust of Scot McKnight’s argument, in his recent book, [*Reading Romans Backward: A Gospel of Peace in the Midst of Empire*](https://www.amazon.com/dp/1481308777?tag=joshuapsteele-20), that “Romans 12–16…reveals the pastoral context of Romans.”
 
 (Here’s a webinar where Scot introduces his work.)
 

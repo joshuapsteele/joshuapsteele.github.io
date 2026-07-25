@@ -10,11 +10,12 @@ tags:
   - prayer
   - anglican
   - list
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuhpk22b"
 ---
 
 The “Occasional Prayers” section of the Book of Common Prayer is a goldmine, particularly when the going gets tough.
 
-The following prayers come from [the Anglican Church in North America’s 2019 Book of Common Prayer](http://bcp2019.anglicanchurch.net/). You can [view the text of the 2019 BCP here](http://bcp2019.anglicanchurch.net/index.php/downloads/). And you can [download a Word document containing all of the Occasional Prayers here](https://joshuapsteele.com/wp-content/uploads/2020/03/56-Occasional-Prayers.docx).
+The following prayers come from [the Anglican Church in North America’s 2019 Book of Common Prayer](http://bcp2019.anglicanchurch.net/). You can [view the text of the 2019 BCP here](http://bcp2019.anglicanchurch.net/index.php/downloads/). And you can [download a Word document containing all of the Occasional Prayers here](/wp-content/uploads/2020/03/56-Occasional-Prayers.docx).
 
 ## 58. FOR A PERSON IN TROUBLE OR BEREAVEMENT
 

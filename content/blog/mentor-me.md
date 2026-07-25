@@ -1,20 +1,21 @@
 ---
 author: joshuapsteele
-categories: []
+categories:
+- productivity
 date: '2022-04-15T20:24:45Z'
-description: Say what you will about Tim Ferriss, I’ve always really enjoyed the questions
-  that he asks himself and others.
+description: "Eleven mentor-style questions about books, failure, habits, investments, focus, and advice for people entering the real world."
 tags:
 - questions
 title: Mentor Me! 11 Questions I'd Like You to Answer
 url: /mentor-me/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqmj7y2y"
 ---
 
 Say what you will about Tim Ferriss, I’ve always really enjoyed the [questions that he asks himself](https://tim.blog/wp-content/uploads/2020/01/17-Questions-That-Changed-My-Life.pdf) and [others](https://tim.blog/2017/10/03/tribe-of-mentors/).
 
 I also really enjoy LEARNING as much as I can from other people. And so, with that in mind, I’d like to “open source” my search for mentors and **invite you, dear reader, to answer at least one of the questions below.**
 
-**Please comment your answers below** this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email ([use my contact form here](https://joshuapsteele.com/contact/)). Then, go ask these questions to others! Cheers!
+**Please comment your answers below** this post (that way others can benefit from your knowledge as well!). Or, if you’d like, send them to me via email ([use my contact form here](/contact/)). Then, go ask these questions to others! Cheers!
 
 1. What is the book (or books) you’ve given most as a gift, and why? Or what are one to three books that have greatly influenced your life?
 2. What purchase of $100 or less has most positively impacted your life in the last six months (or in recent memory)?

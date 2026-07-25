@@ -5,7 +5,11 @@ date: '2019-04-20T00:17:56Z'
 description: 'Bonhoeffer''s profound prison reflection: only the suffering God can
   help—a radical theological claim about God''s nature and presence.'
 title: Only the Suffering God Can Help
+tags:
+  - bonhoeffer
+  - theology
 url: /only-the-suffering-god-can-help/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbzw2lk2w"
 ---
 
-![](https://joshuapsteele.com/wp-content/uploads/2019/04/img_0297.jpg)
+![](/wp-content/uploads/2019/04/img_0297.jpg)

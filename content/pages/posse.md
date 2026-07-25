@@ -5,7 +5,7 @@ aliases:
 categories: personal
 description: My current personal tech stack
 draft: false
-showtoc: false
+showToc: false
 title: My POSSE (Publish Own Site, Syndicate Everywhere) Tech Stack
 url: /posse
 ---
@@ -52,3 +52,4 @@ Here's my current personal tech stack. For other recommended tools and resources
     - Strata mobile app for notes
     - Bookmark archiving and highlighting
     - Short video hosting
+- My AT Protocol identity and Bluesky profile is [`@joshuapsteele.com`](https://bsky.app/profile/joshuapsteele.com)

@@ -2,14 +2,14 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-07-25T21:24:41Z'
-description: Introduction Online scams can touch anyone’s life. They don’t discriminate
-  based on how tech-savvy you are or how often you use the internet.
+description: "A simple, jargon-free guide to recognizing and avoiding online scams—how they work, the warning signs, and how to keep yourself and less tech-savvy loved ones safe."
 tags:
 - internet
 - security
 - technology
 title: 'Avoiding Online Scams: A Simple Guide for Non-Tech-Savvy Internet Users'
 url: /avoiding-online-scams-a-simple-guide-for-non-tech-savvy-internet-users/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydboyxbj2f"
 ---
 
 ## Introduction

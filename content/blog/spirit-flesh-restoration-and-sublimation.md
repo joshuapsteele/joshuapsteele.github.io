@@ -11,6 +11,7 @@ tags:
 - writing
 title: Spirit, Flesh, Restoration, and Sublimation
 url: /spirit-flesh-restoration-and-sublimation/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3ndcp2p"
 ---
 
 There’s an intriguing passage in Bonhoeffer’s Letters and Papers from Prison where he discusses the relationship between “spirit” and “flesh,” in the context of discussing “restoration” and “sublimation,” in the context of discussing lyrics from certain hymns and songs that were meaningful to him in prison.

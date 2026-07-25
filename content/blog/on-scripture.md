@@ -7,7 +7,12 @@ date: '2013-10-02T13:01:12Z'
 description: 'A theological statement: Scripture as the Spirit''s illocutionary act
   testifying to the Son, accomplishing redemption in God''s people.'
 title: 'Scripture: What The Bible Is And Why It Matters'
+tags:
+  - bible
+  - theology
+  - interpretation
 url: /on-scripture/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjotv525"
 ---
 
 ## INTRODUCTION: THE NATURE OF SCRIPTURE
@@ -22,7 +27,7 @@ Practically, this providential role has worked itself out in various ways throug
 
 Theologically, the authority of Scripture is inescapably **trinitarian** in nature and **ecclesiological** in implication.
 
-(For an explanation of the Trinity, see my essay "[Trinity: What is it? (Why) Is it important?](https://joshuapsteele.com/holy-trinity/)")
+(For an explanation of the Trinity, see my essay "[Trinity: What is it? (Why) Is it important?](/holy-trinity/)")
 
 ## WHAT SCRIPTURE IS FOR CHRISTIANS
 

@@ -5,7 +5,11 @@ date: '2016-03-29T22:07:45Z'
 description: What would it have been like, on the first Holy Saturday?** What would
   it be like, tonight, if Jesus has been dead for almost 33 hours.
 title: Son of Man, Can Your Bones Live?
+tags:
+  - holy-week
+  - bible
 url: /son-of-man-can-your-bones-live/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcep7mv2g"
 ---
 
 ### **What would it have been like, on the first Holy Saturday?**
@@ -160,4 +164,4 @@ Amen.
 
 ---
 
-(Sermon preached on [Easter Vigil](http://www.bcponline.org/SpecialDays/EasterVigil.html), March 26, 2016. For an idea of the readings which preceded the homily in this service, [see here](http://lectionary.library.vanderbilt.edu/texts.php?id=131).)
+(Sermon preached on [Easter Vigil](http://www.bcponline.org/SpecialDays/EasterVigil.html), March 26, 2016. For an idea of the readings which preceded the homily in this service, [see here](https://web.archive.org/web/20240712145539/https://lectionary.library.vanderbilt.edu/texts.php?id=131).)

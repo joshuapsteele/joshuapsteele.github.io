@@ -2,7 +2,7 @@
 categories: productivity
 description: How I use (and don't use) AI tools.
 draft: false
-showtoc: false
+showToc: false
 title: AI
 url: /ai
 ---
@@ -11,8 +11,7 @@ url: /ai
 
 - To code. I use the following tools:
     - Claude Code
-    - Windsurf IDE
-    - GitHub Copilot
+    - OpenAI's Codex
 - To brainstorm
 - To clean-up text
 

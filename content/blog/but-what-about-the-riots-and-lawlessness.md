@@ -2,13 +2,17 @@
 author: joshuapsteele
 categories: ethics
 date: '2020-06-04T21:47:31Z'
-description: I commend the entire interview series that Ed Stetzer recently did with
-  Esau McCaulley.
+description: "Esau McCaulley on protests, riots, systemic racism, empathy, and why Christians should clearly oppose injustice."
 title: “But, What About the Riots and Lawlessness?”
+tags:
+  - racism
+  - race
+  - justice
 url: /but-what-about-the-riots-and-lawlessness/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbt3zlc2q"
 ---
 
-I commend [the entire interview series that Ed Stetzer recently did with Esau McCaulley](https://www.christianitytoday.com/edstetzer/2020/june/race-in-america-interview-with-esau-mccaulley-part-one.html). Among many highlights, I appreciate McCaulley’s following answer to the question of negotiating the differences between protests and riots. Again, [read the whole interview](https://www.christianitytoday.com/edstetzer/2020/june/racism-in-america-interview-with-esau-mccaulley-part-four.html) and series, but here’s a key section related to concern about rioting and lawlessness:
+I commend [the entire interview series that Ed Stetzer recently did with Esau McCaulley](https://web.archive.org/web/20210505222537/https://www.christianitytoday.com/edstetzer/2020/june/race-in-america-interview-with-esau-mccaulley-part-one.html). Among many highlights, I appreciate McCaulley’s following answer to the question of negotiating the differences between protests and riots. Again, [read the whole interview](https://web.archive.org/web/20210623055346/https://www.christianitytoday.com/edstetzer/2020/june/racism-in-america-interview-with-esau-mccaulley-part-four.html) and series, but here’s a key section related to concern about rioting and lawlessness:
 
 > \[Ed Stetzer\] We both agree: Protests are good. Riots are not. Unpack that for us from your context.
 > 

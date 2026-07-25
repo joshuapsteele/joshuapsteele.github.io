@@ -2,13 +2,14 @@
 author: joshuapsteele
 categories: theology
 date: 2020-11-28T00:22:13Z
-description: An Advent sermon for those who hate waiting.
+description: "An Advent sermon on Isaiah's cry for God to tear open the heavens, written for people who hate waiting."
 tags:
   - advent
   - isaiah
   - sermons
 title: Why Haven’t You Torn The Sky Open Yet?
 url: /why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqylwy2y"
 ---
 
 *Sermon preached on Saturday, November 28, 2020 (First Sunday of Advent) via Zoom at Church of the Savior in Wheaton, IL.*

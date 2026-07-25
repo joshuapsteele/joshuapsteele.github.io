@@ -9,6 +9,7 @@ tags:
 - research
 title: Karl Barth's Reversal on the "Knowledge of Good and Evil"
 url: /karl-barths-reversal-on-the-knowledge-of-good-and-evil/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3zhh32i"
 ---
 
 I argue that, although Barth’s interpretation of the Genesis passages changed between [*The Epistle to the Romans*](https://amzn.to/2SVxH69) and the [*Church Dogmatics*](https://www.logos.com/product/5758/barths-church-dogmatics), his mature readings of Genesis 2–3 still support his overall theological critique of religion as idolatry, the self-justifying positing of false gods.

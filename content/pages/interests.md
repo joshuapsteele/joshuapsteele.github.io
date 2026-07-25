@@ -3,7 +3,7 @@ categories: productivity
 description: Some of my interests, hobbies, and things I like to do in my
   free time
 draft: false
-showtoc: false
+showToc: false
 title: Interests
 url: /interests
 ---

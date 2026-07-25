@@ -4,15 +4,19 @@ categories:
 - ethics
 - theology
 date: '2013-09-18T13:13:58Z'
-description: 'I highly encourage the following: 1\. Read Scot McKnight’s The King
-  Jesus Gospel.'
+description: "Scot McKnight and Tim Gombis on the gospel as the kingdom announcement of King Jesus, not merely a private transaction."
 title: King Jesus' Kingdom Gospel
+tags:
+  - bible
+  - theology
+  - books
 url: /king-jesus-kingdom-gospel/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcjssn62b"
 ---
 
 I highly encourage the following:
 
-1\. Read Scot McKnight’s [The King Jesus Gospel](http://www.amazon.com/The-King-Jesus-Gospel-Revisited/dp/031049298X).
+1\. Read Scot McKnight’s [The King Jesus Gospel](https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20).
 
 2\. Check out Tim Gombis’ insightful series of posts on [The Gospel of the Kingdom](http://timgombis.com/2013/09/16/the-gospel-of-the-kingdom/), pt. [1](http://timgombis.com/2013/09/16/the-gospel-of-the-kingdom/), [2](http://timgombis.com/2013/09/17/the-gospel-of-the-kingdom-pt-2/), and [3](http://timgombis.com/2013/09/18/the-gospel-of-the-kingdom-pt-3/).
 

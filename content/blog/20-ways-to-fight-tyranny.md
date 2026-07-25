@@ -12,6 +12,7 @@ tags:
   - list
 title: "20 Ways to Fight Tyranny: Lessons from Timothy Snyder"
 url: /20-ways-to-fight-tyranny/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbjkllk23"
 ---
 
 The following 20 "lessons" are taken from Timothy Snyder's [*On Tyranny: Twenty Lessons from the Twentieth Century*](https://amzn.to/3SFZkke).

@@ -2,11 +2,14 @@
 author: joshuapsteele
 categories: personal
 date: '2015-04-24T09:15:26Z'
-description: (This post is about my late uncle, Timothy Steele. It’s long, and I swear
-  toward the end. Sorry.) --- > “It is better to go to a funeral than a feast.
-publicize_twitter_user: With some added theological reflection on Death and Hope.
+description: "Remembering my Uncle Timothy Steele: his laughter, love, faith, and the Christian hope that rages against death."
 title: My Uncle, Timothy Steele
+tags:
+  - death
+  - grief
+  - family
 url: /20150424my-uncle-timothy-steele/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgt3ec23"
 ---
 
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)
@@ -17,7 +20,7 @@ url: /20150424my-uncle-timothy-steele/
 
 ---
 
-[![Image](https://joshuapsteele.com/wp-content/uploads/2015/10/image.png)](https://joshuapsteele.com/wp-content/uploads/2015/10/image.png)
+[![Image](/wp-content/uploads/2015/10/image.png)](/wp-content/uploads/2015/10/image.png)
 
 ## Timothy Steele
 
@@ -69,4 +72,4 @@ I don’t just follow Jesus to get into heaven someday when I die. I follow him 
 
 And, following the words of my beloved Uncle Tim, ***that’s beautiful***.
 
-(For another reflection on death, hope, and resurrection, read [my sermon: “Son of Man, Can Your Bones Live?”](https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/))
+(For another reflection on death, hope, and resurrection, read [my sermon: “Son of Man, Can Your Bones Live?”](/son-of-man-can-your-bones-live/))

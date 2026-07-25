@@ -2,13 +2,17 @@
 author: joshuapsteele
 categories: productivity
 date: '2016-05-28T16:44:59Z'
-description: I’m not going to lie. My first reaction when I saw the cover of this
-  book.
+description: "Reading Seth Godin's Linchpin for the church: pastors, Christians, and congregations as creative, generous, community-serving workers."
 title: Let's Take Seth Godin to Church
+tags:
+  - books
+  - reviews
+  - church
 url: /lets-take-seth-godin-to-church/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydce3dva2y"
 ---
 
-I’m not going to lie. My first reaction when I saw the cover of this book? [![](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502-225x300.jpg)](https://joshuapsteele.com/wp-content/uploads/2016/05/img_0502.jpg)
+I’m not going to lie. My first reaction when I saw the cover of this book? [![](/wp-content/uploads/2016/05/img_0502-225x300.jpg)](/wp-content/uploads/2016/05/img_0502.jpg)
 
 ##### No! Of course you’re not indispensable. What use could this crap possibly be to the Church, or to me – simultaneously a pastor and a pastor-in-training.
 
@@ -19,7 +23,7 @@ Then, however, **I read the book**. And I suggest you do, too!
 
 *(Note: affiliate link. I get paid if you make a purchase.)*
 
-[Seth Godin](http://www.sethgodin.com/sg/), bald marketing extraordinaire, is convinced that a paradigm shift has taken place. I’ll quote from his annotated table of contents (which, by the way, I wish all books had):
+[Seth Godin](https://web.archive.org/web/20180409015613/http://www.sethgodin.com/sg/), bald marketing extraordinaire, is convinced that a paradigm shift has taken place. I’ll quote from his annotated table of contents (which, by the way, I wish all books had):
 
 > We have gone from two teams (management and labor) to a third team, **the linchpins. These are people who own their own means of production, who can make a difference, lead us, and connect us. The death of the factory means that the entire system we have built our lives around is now upside down. This is either a huge opportunity or a giant threat.** Revolutions are frightening because the new benefits sometimes lag behind the old pain. This time, the opportunity is to bring your best self to the marketplace and be rewarded for it (vii).
 

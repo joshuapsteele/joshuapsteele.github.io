@@ -2,11 +2,13 @@
 author: joshuapsteele
 categories: ethics
 date: '2015-04-24T09:15:25Z'
-description: I'm not the most thankful person.
-publicize_facebook_url: null
-publicize_twitter_url: null
+description: "Book of Common Prayer resources for cultivating gratitude, including grace at meals, the General Thanksgiving, and a thanksgiving litany."
 title: Give Thanks!
+tags:
+  - discipleship
+  - prayer
 url: /give-thanks/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgxmh22q"
 ---
 
 I'm not the most thankful person.
@@ -73,4 +75,4 @@ What are you thankful for?
 
 ~Josh
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

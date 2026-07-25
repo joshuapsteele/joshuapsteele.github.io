@@ -4,16 +4,16 @@ categories: productivity
 date: '2018-11-22T17:00:05Z'
 description: 'Just wanted to give a quick shout-out to this fantastic pencil: the
   Mitsubishi 9850. It’s cheap, writes well, erases well, and looks great.'
-format: aside
 tags:
 - writing
 title: This is a fantastic wooden pencil (Mitsubishi 9850)
 url: /this-is-a-fantastic-wooden-pencil-mitsubishi-9850/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc5bphc2q"
 ---
 
 Just wanted to give a quick shout-out to this fantastic pencil: [the Mitsubishi 9850](https://amzn.to/2QcXI2B).
 
-[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001BKZVWU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=joshuapsteele-20&language=en_US)](https://www.amazon.com/Mitsubishi-Pencil-pencil-hardness-K9850HB/dp/B001BKZVWU/ref=as_li_ss_il?ie=UTF8&linkCode=li3&tag=joshuapsteele-20&linkId=e6e38efe0138c6a5bb4092270163728e&language=en_US)![](https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&language=en_US&l=li3&o=1&a=B001BKZVWU)
+[![](//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001BKZVWU&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=joshuapsteele-20&language=en_US)](https://www.amazon.com/dp/B001BKZVWU?tag=joshuapsteele-20)![](https://ir-na.amazon-adsystem.com/e/ir?t=joshuapsteele-20&language=en_US&l=li3&o=1&a=B001BKZVWU)
 
 It’s cheap, writes well, erases well, and looks great!
 

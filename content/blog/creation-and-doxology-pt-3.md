@@ -5,10 +5,15 @@ date: '2012-09-18T08:08:12Z'
 description: How New Testament theology links creation with redemption through Christ,
   the Creator-Redeemer who brings new creation.
 title: 'Creation and Doxology: A Portrait of Biblical Creation Theology (pt. 3)'
+tags:
+  - bible
+  - theology
+  - creation
 url: /creation-and-doxology-pt-3/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcmcll525"
 ---
 
-(Read [Pt. 1](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)") and [Pt. 2 ](https://joshuapsteele.com/2012/09/17/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")first!)
+(Read [Pt. 1](/creation-and-doxology-pt-1/ "Creation and Doxology (pt. 1)") and [Pt. 2 ](/creation-and-doxology-pt-2/ "Creation and Doxology (pt. 2)")first!)
 
 # CREATION AND REDEMPTION: CHRIST AND NEW CREATION
 

@@ -13,6 +13,7 @@ tags:
 - nationalism
 title: 'Theology Against Nationalism: 10 Theses from Michael Gorman'
 url: /theology-against-nationalism/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhslwx2v"
 ---
 
 *"My Kingdom is Not of This World" – Jesus*

@@ -8,6 +8,7 @@ tags:
 - racism
 title: Top 3 Books, Movies, and Podcasts about Race for White Christians like Me
 url: /top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsy3zk23"
 ---
 
 There are PLENTY of resource recommendations out there for those interested in learning more about racism and anti-racism (just Google “best X (books, movies, podcasts, etc.) on racism,” “antiracist reading list,” etc.).
@@ -20,7 +21,7 @@ So, if you’re looking for a place to start, I recommend the following as a beg
 
 ## Books
 
-1. [*The Color of Compromise: The Truth about the American Church’s Complicity in Racism*](https://amzn.to/3dFpxck) by Jemar Tisby (Also, if you have Amazon Prime, there’s a [free “Color of Compromise” video teaching series by Jemar Tisby](https://amzn.to/2Mu7tpI))
+1. [*The Color of Compromise: The Truth about the American Church’s Complicity in Racism*](https://amzn.to/3dFpxck) by Jemar Tisby (Also, if you have Amazon Prime, there’s a free “Color of Compromise” video teaching series by Jemar Tisby (old, broken link))
 2. [ *White Fragility: Why It’s So Hard for White People to Talk About Racism* ](https://amzn.to/2A8Lylg)by Robin DiAngelo
 3. [*How to be an Antiracist*](https://amzn.to/2XyMloK) by Ibram X. Kendi (I’ve listened to this on Audible, but I need to revisit it, along with Kendi’s [ *Stamped from the Beginning: The Definitive History of Racist Ideas in America*](https://amzn.to/2UfR3Wh))
 
@@ -34,4 +35,4 @@ So, if you’re looking for a place to start, I recommend the following as a beg
 
 1. [Seeing White](https://www.sceneonradio.org/seeing-white/)
 2. [Code Switch](https://www.npr.org/sections/codeswitch/)
-3. [Truth’s Table](https://www.truthstable.com/podcast)
+3. [Truth’s Table](https://web.archive.org/web/20211212125011/https://www.truthstable.com/podcast)

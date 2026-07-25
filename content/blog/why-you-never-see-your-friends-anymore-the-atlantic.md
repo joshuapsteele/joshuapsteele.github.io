@@ -4,7 +4,11 @@ categories: personal
 date: 2019-10-16T16:38:20Z
 description: A short post on the demise of friendship.
 title: '"Why You Never See Your Friends Anymore" (The Atlantic)'
+tags:
+  - friendship
+  - loneliness
 url: /why-you-never-see-your-friends-anymore-the-atlantic/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbxpelg2k"
 ---
 
 Judith Shulevitz offers up [a (depressing) eye-opening analysis of our overbusy lives](https://www.theatlantic.com/magazine/archive/2019/11/why-dont-i-see-you-anymore/598336/). There is another way! But community and Sabbath both require sacrifice.

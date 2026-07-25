@@ -1,0 +1,13 @@
+{{- $content := printf "%s" . -}}
+{{- $contentLower := lower $content -}}
+{{- $hasAmazonLink := or
+  (strings.Contains $contentLower "amazon.com")
+  (strings.Contains $contentLower "amzn.to")
+  (strings.Contains $contentLower "a.co/")
+-}}
+{{- $requiredStatement := "As an Amazon Associate I earn from qualifying purchases." -}}
+{{- if and $hasAmazonLink (not (strings.Contains $content $requiredStatement)) }}
+<aside class="amazon-associate-disclosure" aria-label="Affiliate disclosure">
+  <p><strong>Affiliate disclosure:</strong> As an Amazon Associate I earn from qualifying purchases.</p>
+</aside>
+{{- end -}}

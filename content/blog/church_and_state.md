@@ -7,10 +7,14 @@ date: '2011-05-26T12:23:48Z'
 description: Reflections on Kevin DeYoung's Memorial Day theology and the complex
   relationship between Christian faith and national identity.
 title: Church and State
+tags:
+  - political-theology
+  - politics
 url: /church_and_state/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcne5fj2f"
 ---
 
-(Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](https://joshuapsteele.com/2015/12/08/improvising-church-state/).”)
+(Note: for a more recent piece on the relationship between Church and State, see my essay: “[Improvising Church and State](/improvising-church-state/).”)
 
 I just read an article by Kevin DeYoung at The Gospel Coalition: [“Thinking Theologically About Memorial Day”](http://thegospelcoalition.org/blogs/kevindeyoung/2011/05/26/thinking-theologically-about-memorial-day/?comments#comments). Listen to his intro:
 

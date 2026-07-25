@@ -2,13 +2,13 @@
 author: joshuapsteele
 categories: dissertation
 date: '2019-01-29T17:46:15Z'
-description: Came across this Barth quote in Church Dogmatics II/2 this morning. I
-  really like it, because it’s a good reminder that Barth valued the Bible.
+description: "A Karl Barth quote from Church Dogmatics II/2 on Scripture, theology, and discerning what Christians ought to do."
 tags:
 - barth
 - bible
 title: Barth, the Bible, and "What we ought to do"
 url: /barth-the-bible-and-what-we-ought-to-do/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc35ihx2p"
 ---
 
 Came across this Barth quote in Church Dogmatics II/2 this morning. I really like it, because it’s a good reminder that Barth valued the Bible. His distinction between the Bible as witness to the Word of God and Jesus Christ as the Word of God did not cause him to abandon the Scriptural witness.

@@ -5,8 +5,14 @@ author: joshuapsteele
 categories:
 - dissertation
 - personal
-description: I received word yesterday that the Ph.D.
+description: "Why I took a one-year leave from my Ph.D. program to protect my mental health, heal, and discern the future of the dissertation."
+tags:
+- research
+- barth
+- bonhoeffer
+- mental-health
 url: /its-official-im-hitting-pause-on-my-ph-d-for-a-year/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbr4nr22b"
 ---
 I received word yesterday that the Ph.D. Committee voted to approve my request for “Excused Program Leave” beginning in January 2021 and lasting until January 2022.
 

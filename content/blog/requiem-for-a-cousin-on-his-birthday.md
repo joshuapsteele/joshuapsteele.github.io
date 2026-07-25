@@ -1,12 +1,16 @@
 ---
-activitypub_status: null
 author: joshuapsteele
 categories: personal
 date: '2024-09-28T09:00:54Z'
 description: Today should have been my cousin Eric's 32nd birthday.
-showtoc: false
+showToc: false
 title: Requiem for a Cousin on His Birthday
+tags:
+  - death
+  - grief
+  - family
 url: /requiem-for-a-cousin-on-his-birthday/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmjlbt2i"
 ---
 
 Today should have been my cousin Eric's 32nd birthday.
@@ -17,7 +21,7 @@ Another member of our family gone too soon.
 
 Two passages of Scripture came to mind as I thought about Eric today. 
 
-First, this one from Ecclesiastes (which I [previously wrote a bit about after the untimely death of my Uncle Tim](https://joshuapsteele.com/20150424my-uncle-timothy-steele/)).
+First, this one from Ecclesiastes (which I [previously wrote a bit about after the untimely death of my Uncle Tim](/20150424my-uncle-timothy-steele/)).
 
 > It is better to go to the house of mourning  
 > than to go to the house of feasting,  

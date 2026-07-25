@@ -2,21 +2,21 @@
 author: joshuapsteele
 categories: productivity
 date: '2023-03-09T14:10:31Z'
-description: I’m posting my answers to these software engineering questions here,
-  just in case anyone else finds them helpful.
+description: "My answers to common software engineering questions from a coding bootcamp student—how I got into the field, what I'd recommend, and lessons from the transition."
 title: 'Ask Me Anything: Software Engineering Questions from a Coding Bootcamp Student'
 url: /ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student/
 tags:
   - software
   - software-engineering
   - technology
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpqohf25"
 ---
 
 I’m posting my answers to these software engineering questions here, just in case anyone else finds them helpful! (Also, it gives me another link to share when I get asked these kinds of questions.)
 
 ## How did you become interested in software engineering?
 
-I wrote a bit about [my coding bootcamp journey](https://joshuapsteele.com/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/) in a previous post.
+I wrote a bit about [my coding bootcamp journey](/my-coding-bootcamp-journey-how-a-pastor-became-a-programmer/) in a previous post.
 
 Part of my interest in software engineering is/was related to the particular path my journey took. That is, while studying Bible/religion/theology, I always knew that “bi-vocational ministry” (ministering in a church setting while also making money from another profession) was on the table.
 
@@ -130,4 +130,4 @@ Need to get your sh\*t together, life-wise? Check out these books below. Start w
 
 ---
 
-I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the [contact form on my website](https://joshuapsteele.com/contact/).
+I hope that helps! Do you have more questions for me? Let me know in the comments! Or use the [contact form on my website](/contact/).

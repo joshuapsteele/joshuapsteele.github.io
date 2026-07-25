@@ -23,7 +23,17 @@ Icon
 .hugo_build.lock
 hugo_stats.json
 
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
 # Private datasets (never commit)
 data-private/
 Retail.OrderHistory*.csv
 *.zip
+
+# Local Sequoia publication state (reconstructible from ATProto)
+.sequoia-state.json

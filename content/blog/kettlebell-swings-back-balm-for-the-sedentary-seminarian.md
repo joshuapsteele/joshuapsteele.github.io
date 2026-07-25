@@ -2,9 +2,13 @@
 author: joshuapsteele
 categories: productivity
 date: '2016-05-25T23:53:49Z'
-description: Books, however, do not like my back.
+description: "Kettlebell swings as a practical way for sedentary seminarians, students, and desk workers to care for their backs."
 title: 'Kettlebell Swings: Back Balm for the Sedentary [Seminarian]'
+tags:
+  - fitness
+  - weightlifting
 url: /kettlebell-swings-back-balm-for-the-sedentary-seminarian/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcehej223"
 ---
 
 I love books. Books, however, do not like my back.
@@ -27,7 +31,7 @@ However, as [BreakingMuscle.com clarifies](http://breakingmuscle.com/kettlebells
 
 Thanks to the full-body movement of the swing, **you really don’t need to use a lot of weight to feel a difference**. For example, I’ve been squatting 225 lbs. in maintenance mode recently, and after the first day of kettlebell swings with a 35 lb. kettlebell, my glutes and hamstrings were more sore than they’d been in months!
 
-I’ve been very impressed with the results of [a basic kettlebell workout](http://rkcblog.dragondoor.com/the-best-and-simplest-one-kettlebell-workout/), and it will enable me to get exercise at home during the semester, when going to the gym is more of a stretch.
+I’ve been very impressed with the results of [a basic kettlebell workout](https://web.archive.org/web/20250908112714/https://rkcblog.dragondoor.com/the-best-and-simplest-one-kettlebell-workout/), and it will enable me to get exercise at home during the semester, when going to the gym is more of a stretch.
 
 **Would you like to give kettlebell swings a try?**
 
@@ -37,11 +41,11 @@ For the CliffsNotes version, here’s [the Tim Ferriss blogpost on the matter](h
 
 If you’re more of a visual learner, here’s a helpful instructional video from Eric Moss:
 
-[http://https://www.youtube.com/watch?v=0\_XjJjLc7NE](http://https://www.youtube.com/watch?v=0_XjJjLc7NE)
+{{< youtube 0_XjJjLc7NE >}}
 
 **What weight should you start with?** I began with a 35 lb. (16 kg.). Kettlebells USA has [one of the best guides on choosing a starting weight](https://www.kettlebellsusa.com/what-size-kettlebell-should-i-buy-guidelines-for-men-and-women-to-choose-a-starter-kettlebell-weight), based upon your gender and current fitness level.
 
-**What brand of kettlebell should you purchase?** I went with [Sweethome’s budget pick](http://thesweethome.com/reviews/best-kettlebell/): the [CAP Cast Iron Competition Weight Kettlebell](http://www.amazon.com/dp/B00I6CRMP0/). But, [the in-depth review of different brands by Mark Bixby at Sweethome](http://thesweethome.com/reviews/best-kettlebell/) can’t be beat. I like the CAP, but I now agree with his assessment that the grip tears up your hands a bit on one-handed excercises.
+**What brand of kettlebell should you purchase?** I went with [Sweethome’s budget pick](http://thesweethome.com/reviews/best-kettlebell/): the [CAP Cast Iron Competition Weight Kettlebell](https://www.amazon.com/dp/B00I6CRMP0?tag=joshuapsteele-20). But, [the in-depth review of different brands by Mark Bixby at Sweethome](http://thesweethome.com/reviews/best-kettlebell/) can’t be beat. I like the CAP, but I now agree with his assessment that the grip tears up your hands a bit on one-handed excercises.
 
 Give two-handed kettlebell swings a try! Your back and body will thank you (although, full disclosure, you’ll be sore after the first time).
 

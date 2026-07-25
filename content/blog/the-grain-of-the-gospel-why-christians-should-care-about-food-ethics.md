@@ -2,10 +2,12 @@
 author: joshuapsteele
 categories: ethics
 date: '2018-04-02T06:00:45Z'
-description: The following is a guest post written by my friend and former college
-  roommate, **Zak Weston**.
+description: "A guest essay by Zak Weston on factory farming, environmental harm, and why Christian discipleship should include food ethics."
 title: 'The Grain of the Gospel: Why Christians Should Care about Food Ethics'
+tags:
+  - ethics
 url: /the-grain-of-the-gospel-why-christians-should-care-about-food-ethics/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc75g6a2d"
 ---
 
 *The following is a guest post written by my friend and former college roommate, **Zak Weston**. Zak’s been working in the area of food ethics, and I asked him to write up a post about why Christians should care about these issues. It’s an area in which I need to make some changes in my own life. He delivered this thought-provoking and challenging piece. I hope you enjoy.*
@@ -39,7 +41,7 @@ Most consumers assume that their meat comes from farms where animals graze and w
 
 ## Animal Suffering
 
-The [vast majority](https://farmforward.com/ending-factory-farming/#easy-footnote-3) (&gt;99%) of the more than 10 billion chickens, turkeys, pigs, and cows slaughtered each year in the US for meat are raised on factory farms, industrial facilities often referred to as Concentrated Animal Feeding Operations (CAFOs). 
+The [vast majority](https://web.archive.org/web/20180407011358/https://farmforward.com/ending-factory-farming/) (&gt;99%) of the more than 10 billion chickens, turkeys, pigs, and cows slaughtered each year in the US for meat are raised on factory farms, industrial facilities often referred to as Concentrated Animal Feeding Operations (CAFOs). 
 
 Built to maximize efficiency and profits, these farms are hell on earth for their inhabitants. Animals are [overcrowded](https://www.google.com/search?q=cafo+pictures&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjGqOXlv6DYAhUL5oMKHUF2AogQ_AUICygC&biw=1280&bih=835) and prevented from moving freely or performing natural behaviors. Many never see sunlight or grass at any point in their lives, and are fed unnatural diets of subsidized feed crops such as corn and soybeans — enduring [miserable](https://www.mercyforanimals.org/the-problem) lives that are cut short by slaughter. 
 
@@ -59,7 +61,7 @@ Meat production is [resource-intensive](http://www.climatecentral.org/news/studi
 
 The UN’s Food and Agriculture Organisation [found that almost 80%](http://www.fao.org/animal-production/en/) of the planet’s total agricultural land is used for feeding or processing meat. 
 
-Globally, animal agriculture [emits more greenhouse gases](http://www.fao.org/news/story/en/item/197623/icode/) than the entire transportation system – all cars, trains, planes and ships – and is responsible for more emissions than any other economic sector.
+Globally, animal agriculture [emits more greenhouse gases](https://web.archive.org/web/20231125132343/https://www.fao.org/news/story/en/item/197623/icode/) than the entire transportation system – all cars, trains, planes and ships – and is responsible for more emissions than any other economic sector.
 
 ---
 

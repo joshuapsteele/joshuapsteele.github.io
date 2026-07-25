@@ -5,13 +5,15 @@ categories:
 - productivity
 - theology
 date: '2018-06-08T19:08:55Z'
-description: Previously, I catalogued a bunch of different takes on Jordan Peterson,
-  before giving my own take.
+description: "Following up on Jordan Peterson with two more critiques: Nellie Bowles on patriarchy and Wesley Yang's more nuanced account."
 title: Two More Pieces about Jordan Peterson
+tags:
+  - jordan-peterson
 url: /two-more-pieces-about-jordan-peterson/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6neef25"
 ---
 
-Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](https://joshuapsteele.com/what-to-make-of-jordan-peterson-some-takes-then-my-own/).
+Previously, [I catalogued a bunch of different takes on Jordan Peterson, before giving my own take](/what-to-make-of-jordan-peterson-some-takes-then-my-own/).
 
 Since that post, two other pieces about Jordan Peterson have been written that I’d like to share.
 

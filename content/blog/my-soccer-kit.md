@@ -5,9 +5,11 @@ draft: false
 author: joshuapsteele
 tags: [sports, soccer, fitness, recommendations]
 categories: [personal]
+description: "The soccer gear, fitness routine, and training resources I use for co-ed rec soccer, from turf shoes to a backyard rebounder."
 showToc: false
 TocOpen: false
 url: /my-soccer-kit/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbh6ovk2w"
 ---
 
 I've been playing some co-ed rec soccer recently. It's been a lot of fun, and also a reminder that I've gotten out of shape and I'm getting older (I'm now 34, and everyone else on my team is in their 20s). But I'm enjoying it nonetheless.
@@ -38,4 +40,4 @@ First, I have to call out the ["John Terry Treadmill Workout"](https://www.thick
 
 --- 
 
-For other things I recommend, see my [Recommended Tools and Resources](/recommended-tools-and-resources/) page!
+For other things I recommend, see my [Recommended Tools and Resources](/resources/) page!

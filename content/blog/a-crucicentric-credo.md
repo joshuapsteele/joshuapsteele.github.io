@@ -5,7 +5,12 @@ categories:
 date: 2015-12-08T11:45:35Z
 description: A seminary student's theological outline centering on Christ's cross as the heart of Christian faith, from creation to consummation.
 title: "Theology in Outline: What Do I Believe?"
+tags:
+  - theology
+  - atonement
+  - seminary
 url: /theology-outline/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcfdelz2f"
 ---
 
 *Theology is confusing enough, much more so when you attempt to summarize it all in a single essay! Nevertheless, such was my assignment in seminary in 2015. Here are the results.*
@@ -63,7 +68,7 @@ The Trinity is one God, not three, because it is concerned with “a relationshi
 
 And yet, we are still faced with the difficulty of the Incarnation: **how can the eternal God be so temporal, the transcendent One so immanent?**
 
-(For more on the Trinity, see my essay: [“The Holy Trinity: What Is It? (Why) Is It Important?”](https://joshuapsteele.com/holy-trinity/))
+(For more on the Trinity, see my essay: [“The Holy Trinity: What Is It? (Why) Is It Important?”](/holy-trinity/))
 
 ## ELECTION & CREATION
 
@@ -145,7 +150,7 @@ Once more, to the **CROSS**. There, the Trinity stretches to the utmost, as the 
 
 However, through the power of the Holy Spirit, the exiled Son of God is vindicated as the Savior of the world and brought back from the far country of death!
 
-(For more on the Resurrection, see my sermon: [“Son Of Man, Can Your Bones Live?”](https://joshuapsteele.com/2016/03/29/son-of-man-can-your-bones-live/))
+(For more on the Resurrection, see my sermon: [“Son Of Man, Can Your Bones Live?”](/son-of-man-can-your-bones-live/))
 
 Through this movement of the Son into the utmost exile and back again, **sin itself is offered up to destruction**.[^23]
 

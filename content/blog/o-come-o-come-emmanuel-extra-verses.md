@@ -9,6 +9,7 @@ tags:
 - hymn
 title: 'O Come, O Come, Emmanuel: Extra Verses'
 url: /o-come-o-come-emmanuel-extra-verses/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblrxds2q"
 ---
 
 "O Come, O Come, Emmanuel" has long been one of my favorite hymns. This Advent, I've decided to write some additional verses. They emphasize God's heart for the poor and the powerless. 

@@ -9,6 +9,7 @@ url: /for-the-good-of-the-order-a-plea-for-charity-on-the-ordination-of-women/
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsedkp2v"
 ---
 
 Almost every vocational deacon I know, when asked why he or she has not become a priest, will respond, “I have never felt called to the priesthood.” Some will add emphatically, “not for a minute!”

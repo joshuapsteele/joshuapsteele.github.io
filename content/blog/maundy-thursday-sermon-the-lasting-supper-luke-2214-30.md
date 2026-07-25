@@ -2,10 +2,13 @@
 author: joshuapsteele
 categories: theology
 date: '2017-04-13T19:44:07Z'
-description: There is something special about last meals, isn’t there. I’d like to
-  show you a series of photographs.
+description: "A Maundy Thursday sermon on Luke 22:14-30—reflecting on last meals, betrayal, and the kingdom Jesus confers on his disciples at the Last Supper."
 title: The Lasting Supper – Luke 22:14-30
+tags:
+  - sermons
+  - holy-week
 url: /maundy-thursday-sermon-the-lasting-supper-luke-2214-30/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcc7o6b2f"
 ---
 
 {{< audio src="/wp-content/uploads/2017/04/04-13-17JS.mp3" >}}

@@ -12,6 +12,7 @@ tags:
   - list
 title: "198 Ways to Fight Tyranny: Methods of Nonviolent Action from Gene Sharp"
 url: /198-ways-to-fight-tyranny/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbjogn525"
 ---
 
 The following 198 methods of nonviolent action are taken from Gene Sharp's [*The Politics of Nonviolent Action*](https://amzn.to/4kXevBx).

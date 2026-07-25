@@ -2,11 +2,12 @@
 author: joshuapsteele
 categories: theology
 date: '2018-02-25T15:06:44Z'
-description: This idea has been bouncing around in my head for a bit.
+description: "Could the idea of 'mental models'—simplified concepts that help explain how the world works—be a helpful model for how we understand and do theology?"
 tags:
 - theology
 title: 'Mental Models: A Helpful Model for Theology?'
 url: /mental-models-helpful-model-theology/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcaxvel2j"
 ---
 
 This idea has been bouncing around in my head for a bit. It’s not fully-formed by any means, but I’d like to get it out there and hear what you think of it.
@@ -29,7 +30,7 @@ Here’s a helpful video from [Farnam Street](https://www.fs.blog/mental-models/
 
 ## Examples of mental models
 
-For example, [the 80/20 Principle](https://joshuapsteele.com/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/) (20% of causes lead to 80% of effects) and the [Eisenhower Decision Matrix](https://joshuapsteele.com/prioritize-life-5-minutes-introduction-eisenhower-decision-matrix/) (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.
+For example, [the 80/20 Principle](/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle/) (20% of causes lead to 80% of effects) and the Eisenhower Decision Matrix (organizing things by importance and urgency to prioritize decisions) could both be considered mental models.
 
 Another famous mental model is [Occam’s Razor](https://www.fs.blog/2017/05/mental-model-occams-razor/), the idea that the simplest hypothesis is preferable.
 

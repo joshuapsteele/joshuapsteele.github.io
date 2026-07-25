@@ -2,13 +2,13 @@
 author: Hannah King
 categories: personal
 date: '2020-07-02T06:00:53Z'
-description: There is not unanimous agreement about women’s ordination in the worldwide
-  Anglican Communion.
+description: "A female ACNA priest makes the case for 'dual integrities'—why she supports those who disagree with her in the Anglican debate over women's ordination."
 title: I'm a Female Priest and I Support My Opponents in the Women's Ordination Debate
 url: /im-a-female-priest-and-i-support-my-opponents-in-the-womens-ordination-debate/
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbsafb22w"
 ---
 
 There is not unanimous agreement about women’s ordination in the worldwide Anglican Communion. Godly and thoughtful Christians hold opposing convictions about Holy Orders and who is called to ordained ministry. You often see the results of this debate at the Provincial level—a national expression of the Church may or may not ordain women, in accordance with their conviction. But for the Anglican Church in North America this disagreement is internal to the Province, varying from diocese to diocese and bishop to bishop.
@@ -48,7 +48,7 @@ Unity does not have to mean absolute unanimity on secondary issues and practices
 
 ## This is not to say that “anything goes”
 
-As canon theologian Esau McCaulley [noted](https://esaumccaulley.com/2020/01/26/come-let-us-read-together-a-hopefully-warm-invitation-to-think-the-best-of-each-other-in-the-womens-ordination-discussion/?fbclid=IwAR2Aafb_9UCW8j0W-F-DTzH-p2BvWfmszuPIQp0Yx6zLgjklU8u7cGFzkcs), there are certainly boundaries around what constitutes “tolerable” disagreement in the Church. This is precisely why the historic ecumenical creeds came into being, and this is why our bishops gather to have difficult conversations about questions of orthodoxy today. Therefore we can follow their example by practicing gracious respect for conscience within those parameters.
+As canon theologian Esau McCaulley noted (old, broken link), there are certainly boundaries around what constitutes “tolerable” disagreement in the Church. This is precisely why the historic ecumenical creeds came into being, and this is why our bishops gather to have difficult conversations about questions of orthodoxy today. Therefore we can follow their example by practicing gracious respect for conscience within those parameters.
 
 ## Bearing with one another in love
 

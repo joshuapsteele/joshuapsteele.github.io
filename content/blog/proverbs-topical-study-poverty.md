@@ -4,14 +4,14 @@ categories:
 - ethics
 - theology
 date: 2011-02-10
-description: 'Introduction: Poverty and Wealth In contrast to the affluence of mainstream
-  American culture, poverty is a harsh and painful reality.'
+description: "A topical study of what the book of Proverbs teaches about poverty and wealth—the nature of poverty, the character of God, and how his people should respond."
 tags:
 - poverty
 - proverbs
 - essay
 title: 'What the Bible Says About Poverty: The Book of Proverbs'
-url: /bible-poverty-proverbs
+url: /bible-poverty-proverbs/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcnhzmg2b"
 ---
 
 # Introduction: Poverty and Wealth
@@ -24,7 +24,7 @@ However, one can effortlessly go through daily life in middle class America with
 
 In this milieu of wealth and poverty existing side by side in an atmosphere of confusion and apathy, the book of Proverbs provides relevant insights into the nature of poverty, the nature of Yahweh, and how his people should respond to it.
 
-(For more on how Christians should think about poverty and wealth, see my essay [“Christians and Wealth.”](https://joshuapsteele.com/christians-and-wealth/))
+(For more on how Christians should think about poverty and wealth, see my essay [“Christians and Wealth.”](/christians-and-wealth/))
 
 ## Descriptions of Poverty: Effects and Causes
 

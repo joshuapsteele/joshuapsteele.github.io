@@ -5,7 +5,12 @@ date: '2015-04-24T09:13:42Z'
 description: Karl Barth's exegesis of Christ's wilderness temptations isperenniallyinspiring,
   but particularly poignant during this season of Lent.
 title: 'Karl Barth on the Wilderness Temptations: #1, Stones into Bread'
+tags:
+  - barth
+  - bible
+  - lent
 url: /barth-on-the-wilderness-temptations-1-stones-into-bread/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydch3qx32j"
 ---
 
 [Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth) exegesis of [Christ's wilderness temptations](http://postbarthian.com/2013/07/17/karl-barth-on-the-temptation-of-jesus-in-the-wilderness/) isperenniallyinspiring, but particularly poignant during this season of [Lent](http://en.wikipedia.org/wiki/Lent).
@@ -14,7 +19,7 @@ What does it mean for Christ to be the Perfect Penitent? And how should this inf
 
 [](http://postbarthian.com/2013/07/17/karl-barth-on-the-temptation-of-jesus-in-the-wilderness/)
 
-The following series of quotations comes from a lengthy small-print section in [CD](http://en.wikipedia.org/wiki/Church_Dogmatics) [IV](http://www.foundationrt.org/outlines/Barth_Dogmatics_Volume_IV.pdf)/1, 259-73 *(§ 59 The Obedience of the Son of God; 2. The Judge Judged in Our Place)*. There Barth walks through the three wilderness temptations before masterfully connecting them to Christ's experience in the Garden of Gethsemane.
+The following series of quotations comes from a lengthy small-print section in [CD](http://en.wikipedia.org/wiki/Church_Dogmatics) [IV](https://web.archive.org/web/20110203080451/http://foundationrt.org/outlines/Barth_Dogmatics_Volume_IV.pdf)/1, 259-73 *(§ 59 The Obedience of the Son of God; 2. The Judge Judged in Our Place)*. There Barth walks through the three wilderness temptations before masterfully connecting them to Christ's experience in the Garden of Gethsemane.
 
 On page 261, the discussion of the temptations begins:
 
@@ -36,4 +41,4 @@ However, Christ the God-Human is more human and less sinful than us in his refus
 
 Stay tuned for Karl Barth's exegesis of the second temptation, for Christ to fall down and worship Satan.
 
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

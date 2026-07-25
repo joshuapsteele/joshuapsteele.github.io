@@ -8,6 +8,7 @@ tags:
 - questions
 title: 'Cut the "Positivity" Crap: What Frustrates You?'
 url: /cut-positivity-crap-frustrates/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcalwdk2w"
 ---
 
 I’ll keep this short, sweet, and to the point: **I’m looking for problems that I can help solve, so I need you to rant at me in the comments.**

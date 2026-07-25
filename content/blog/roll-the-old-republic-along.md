@@ -7,9 +7,11 @@ tags: [sea-shanty, democracy, politics, protest, song, poetry]
 
 categories: [ethics]
 
+description: "A democracy protest sea shanty set to 'Roll the Old Chariot,' calling people to resist kings and defend the republic."
 showToc: true
 TocOpen: false
 url: /roll-the-old-republic-along/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhgkxv2g"
 ---
 🇺🇸 **ROLL THE OLD REPUBLIC ALONG**  
 *A Sea Shanty for Democracy*  
@@ -107,4 +109,4 @@ We’ll roll the old Republic along —
   
 ---  
 
-HT: [Josiah Hawthorne on Bluesky](https://bsky.app/profile/josiahhawthorne.bsky.social/post/3m3cphfo6yc2l) for the idea.
+HT: Josiah Hawthorne on Bluesky (old, broken link) for the idea.

@@ -8,10 +8,13 @@ date: '2018-03-28T14:44:59Z'
 description: Surveying various perspectives on Jordan Peterson's cultural phenomenon
   before offering my own theological and ethical assessment.
 title: What to make of Jordan Peterson? Some takes, then my own.
+tags:
+  - jordan-peterson
 url: /what-to-make-of-jordan-peterson-some-takes-then-my-own/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7blt223"
 ---
 
-*UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](https://joshuapsteele.com/two-more-pieces-about-jordan-peterson/)*
+*UPDATE: Read my post, [“Two More Pieces about Jordan Peterson.”](/two-more-pieces-about-jordan-peterson/)*
 
 If I remember correctly, I first heard of and listened to Jordan Peterson on [an episode of The Art of Manliness podcast](https://www.artofmanliness.com/2017/08/31/podcast-335-using-power-myths-live-flourishing-life/). (Or perhaps it was [this episode](https://www.artofmanliness.com/2018/02/06/12-rules-for-life-jordan-peterson-interview/).)
 
@@ -21,7 +24,7 @@ Blog posts, podcast episodes, conversations with friends – Peterson has been p
 
 ## Gerald McDermott’s Take
 
-My [old seminary professor, Gerald McDermott](http://www.patheos.com/blogs/northamptonseminar/2018/02/03/biblical-wisdom-secular-psychologist/), has blogged about Peterson’s new book, “[12 Rules for Life: an Antidote to Chaos](https://www.amazon.com/12-Rules-Life-Antidote-Chaos/dp/0345816021/ref=as_li_ss_tl?ie=UTF8&qid=1522244418&sr=8-1&keywords=12+rules+for+life&linkCode=ll1&tag=joshuapsteele-20&linkId=3dbfc723801c4d44e8f654a5e7da752c),” saying:
+My [old seminary professor, Gerald McDermott](http://www.patheos.com/blogs/northamptonseminar/2018/02/03/biblical-wisdom-secular-psychologist/), has blogged about Peterson’s new book, “[12 Rules for Life: an Antidote to Chaos](https://www.amazon.com/dp/0345816021?tag=joshuapsteele-20),” saying:
 
 > It is a good book, blunt and inspiring.
 > 

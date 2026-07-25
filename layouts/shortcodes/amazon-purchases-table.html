@@ -76,7 +76,7 @@
               {{- $name := .product_name -}}
               {{- $url := .affiliate_url -}}
               {{- if $url -}}
-                <a href="{{ $url }}" rel="sponsored nofollow" target="_blank">{{ $name }}</a>
+                <a href="{{ $url }}" rel="sponsored nofollow" target="_blank">{{ $name }}</a><span class="amazon-paid-link"> (paid link)</span>
               {{- else -}}
                 {{ $name }}
               {{- end -}}

@@ -17,7 +17,7 @@
         <data class="p-name" value="{{ $displayDate | time.Format "Jan 2, 2006 · 3:04pm" }}"></data>
         {{- end }}
         <p class="microblog-content e-content">
-          <a href="{{ .Permalink }}" class="u-url">{{ .Plain | truncate 220 }}</a>
+          <a href="{{ .Permalink }}" class="u-url">{{ .Plain | htmlUnescape | truncate 220 }}</a>
         </p>
         <div class="microblog-meta">
           <a href="{{ .Permalink }}" class="u-url">

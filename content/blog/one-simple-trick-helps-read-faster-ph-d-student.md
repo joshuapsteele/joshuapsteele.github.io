@@ -2,18 +2,19 @@
 author: joshuapsteele
 categories: productivity
 date: '2018-03-05T06:00:28Z'
-description: Reading is the closest thing that human beings have to a superpower.
+description: "A Ph.D. student reading tip: use physical markers and active attention to move through books faster and better."
 tags:
 - reading
 title: This One Simple Trick Helps Me Read Faster as a Ph.D. Student
 url: /one-simple-trick-helps-read-faster-ph-d-student/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydca54wd2j"
 ---
 
 Reading is the closest thing that human beings have to a superpower. We can learn, from other minds, from other times, just by looking at symbols on a screen or a page.
 
 But, I mean, come on. Who has enough time to read? I don’t know about you, but I’ve got a stack of books a mile high that I’d like to work my way through.
 
-Now, there’s a bunch of good advice out there about **finding more time to read** (see [this post from Farnam Street](https://www.fs.blog/2013/09/finding-time-to-read/) and [this post from The Art of Manliness](https://www.artofmanliness.com/2018/02/26/how-to-read-more-books/)). In fact, finding more time to read is one of the main reasons why you should learn the basics of personal productivity and time management (see [my posts about productivity and time management](https://joshuapsteele.com/category/productivity-and-time-management/)).
+Now, there’s a bunch of good advice out there about **finding more time to read** (see [this post from Farnam Street](https://www.fs.blog/2013/09/finding-time-to-read/) and [this post from The Art of Manliness](https://www.artofmanliness.com/2018/02/26/how-to-read-more-books/)). In fact, finding more time to read is one of the main reasons why you should learn the basics of personal productivity and time management (see [my posts about productivity and time management](/categories/productivity/)).
 
 However, even if you manage to find more time to read, it can be very helpful to **improve your reading speed**.
 

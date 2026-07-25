@@ -2,11 +2,12 @@
 author: joshuapsteele
 categories: theology
 date: 2015-09-01T18:00:24Z
-description: A Morning Prayer homily on Mark 1:29-45
+description: "A Morning Prayer homily on Mark 1:29-45—Jesus heals Peter's mother-in-law, withdraws to pray, and cleanses a leper."
 title: "Morning Prayer Homily: Mark 1.29-45"
 url: /morning-prayer-homily-mark-1-29-45/
 tags:
   - sermons
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcfszph2k"
 ---
 
 A homily on Mark 1:29-45 (ESV):

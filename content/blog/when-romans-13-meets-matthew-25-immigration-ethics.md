@@ -4,15 +4,15 @@ date: "2025-10-13"
 title: "When Romans 13 Meets Matthew 25: Immigration Ethics"
 description: "Romans 13 is often used to justify harsh immigration policies, but what happens when we read it alongside Matthew 25's vision of Christ-centered judgment? A biblical framework for Christian immigration ethics."
 categories:
-  - bible
   - ethics
   - theology
 tags:
   - immigration
-  - romans 13
-  - matthew 25
-  - political theology
+  - romans-13
+  - matthew-25
+  - political-theology
 url: /when-romans-13-meets-matthew-25-immigration-ethics/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhokgg2k"
 ---
 
 "We have to follow the law. Romans 13 is clear."

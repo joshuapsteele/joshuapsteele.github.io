@@ -2,17 +2,21 @@
 author: joshuapsteele
 categories: theology
 date: '2015-04-24T09:13:36Z'
-description: I've been reproducingKarl Barth'smagnificent exegesis of Christ's wilderness
-  temptations in *Church Dogmatics* IV/1.
+description: "Part 3 of a series on Karl Barth's reading of Christ's wilderness temptations in *Church Dogmatics* IV/1: the temptation to leap from the temple, or the leap of false faith."
 title: 'Barth on the Wilderness Temptations: #3, The Leap of False Faith'
+tags:
+  - barth
+  - bible
+  - lent
 url: /barth-on-the-wilderness-temptations-3-the-leap-of-false-faith/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchhnpa2d"
 ---
 
-I've been reproducing[Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth)magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.
+I've been reproducing [Karl Barth's](http://en.wikipedia.org/wiki/Karl_Barth) magnificent exegesis of Christ's wilderness temptations in *[Church Dogmatics](http://en.wikipedia.org/wiki/Church_Dogmatics)* IV/1.
 
-It is a particularly appropriate discussion for this season of[Lent](http://en.wikipedia.org/wiki/Lent), for Jesus was not tempted to break the Law or commit a moral infraction. Instead, he was tempted to abandon his role as the Perfect Penitent. For Barth, if Christ had capitulated to any of the temptations, he would have abandoned God's redemptive mission. Jesus Christ had to persist in penitence in order to be "[the Judge Judged in Our Place](https://books.google.com/books?id=BAzwi9GQHtoC&pg=PA211&lpg=PA211&dq=judge+judged+in+our+place&source=bl&ots=6QQm6gLbOc&sig=T82UORb7xuRT8l8I__5370Dilk0&hl=en&sa=X&ei=SRrtVOTuJK3ksATGrIDoDw&ved=0CCYQ6AEwAQ#v=onepage&q=judge%20judged%20in%20our%20place&f=false)" (Barth's most concise description of the atonement proper).
+It is a particularly appropriate discussion for this season of [Lent](http://en.wikipedia.org/wiki/Lent), for Jesus was not tempted to break the Law or commit a moral infraction. Instead, he was tempted to abandon his role as the Perfect Penitent. For Barth, if Christ had capitulated to any of the temptations, he would have abandoned God's redemptive mission. Jesus Christ had to persist in penitence in order to be "[the Judge Judged in Our Place](https://books.google.com/books?id=BAzwi9GQHtoC&pg=PA211&lpg=PA211&dq=judge+judged+in+our+place&source=bl&ots=6QQm6gLbOc&sig=T82UORb7xuRT8l8I__5370Dilk0&hl=en&sa=X&ei=SRrtVOTuJK3ksATGrIDoDw&ved=0CCYQ6AEwAQ#v=onepage&q=judge%20judged%20in%20our%20place&f=false)" (Barth's most concise description of the atonement proper).
 
-In response to the[first temptation, to turn stones into bread](https://joshuapsteele.com/barth-on-the-wilderness-temptations-1-stones-into-bread), Christ refused to use divine power as a "technical instrument" to preserve his own life. In response to the [second temptation, to worship Satan in exchange for authority and power](https://joshuapsteele.com/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan), Christ refused to sell redemption short by establishing a Christendom "ostensibly ruled by Jesus but secretly by Satan."
+In response to the[first temptation, to turn stones into bread](/barth-on-the-wilderness-temptations-1-stones-into-bread), Christ refused to use divine power as a "technical instrument" to preserve his own life. In response to the [second temptation, to worship Satan in exchange for authority and power](/barth-on-the-wilderness-temptations-2-christendoms-cost-worship-satan), Christ refused to sell redemption short by establishing a Christendom "ostensibly ruled by Jesus but secretly by Satan."
 
 Which brings us to today's discussion:
 

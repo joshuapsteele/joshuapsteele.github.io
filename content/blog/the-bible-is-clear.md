@@ -2,7 +2,7 @@
 author: joshuapsteele
 categories: theology
 date: 2025-05-05 14:26:00-04:00
-description: The Bible is clear about the poor, the oppressed, and the marginalized.
+description: "'The Bible is clear' often serves as a partisan battering ram—but on one thing it really is clear: God's concern for the poor, the oppressed, and the marginalized."
 draft: false
 title: The Bible Is Clear about the Poor, Oppressed, and Marginalized
 url: /the-bible-is-clear/
@@ -10,6 +10,7 @@ tags:
   - bible
   - theology
   - social-justice
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbjwkyb2f"
 ---
 
 > *"The Bible is clear..."*  

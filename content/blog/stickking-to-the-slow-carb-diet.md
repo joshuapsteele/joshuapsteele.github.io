@@ -2,14 +2,17 @@
 author: joshuapsteele
 categories: personal
 date: '2019-01-22T02:14:32Z'
-description: Last night, the scale read 192.4. I’d really like it to read 180 or less.
+description: "Using StickK accountability to stay on the Slow Carb Diet and work toward a weight-loss goal."
 title: StickKing to the Slow Carb Diet
+tags:
+  - fitness
 url: /stickking-to-the-slow-carb-diet/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc3ri6d2j"
 ---
 
 Last night, the scale read 192.4. I’d really like it to read 180 or less.
 
-So, in lieu of how effective [putting money on the line via StickK](https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/) has been for my daily writing habit these past two weeks, I’ve decided to put money on the line as motivation to stick to the Slow Carb Diet for a month.
+So, in lieu of how effective [putting money on the line via StickK](/help-me-stickk-to-my-writing-habit/) has been for my daily writing habit these past two weeks, I’ve decided to put money on the line as motivation to stick to the Slow Carb Diet for a month.
 
 For my writing habit, I’ve committed to writing 500 words toward my dissertation every day for 8 weeks. For every week I’m unsuccessful, $35 goes to the NRA. (I’m a pacifist. I do not like the NRA.)
 
@@ -17,7 +20,7 @@ For my Slow Carb Diet commitment, I’m going to keep the diet 6 days a week for
 
 ## Try StickK
 
-If there’s a habit that you’d like to develop or quit, I highly recommend giving [StickK](https://joshuapsteele.com/help-me-stickk-to-my-writing-habit/) a try! Fear of losing money to an organization you hate is a powerful motivator!
+If there’s a habit that you’d like to develop or quit, I highly recommend giving [StickK](/help-me-stickk-to-my-writing-habit/) a try! Fear of losing money to an organization you hate is a powerful motivator!
 
 ## Try the Slow Carb Diet
 

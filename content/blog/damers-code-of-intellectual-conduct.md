@@ -2,16 +2,17 @@
 author: joshuapsteele
 categories: ethics
 date: 2019-11-19T15:26:29Z
-description: "This code of conduct very much relates to Rapoport’s Rules, Adler’s advice, and Alan Jacobs’s “The Thinking Person’s Checklist.” SOURCE: T."
+description: "T. Edward Damer's twelve principles for fair, fallacy-free argument—from the Fallibility and Truth-Seeking Principles to the rules of charity and resolution."
 title: Damer’s “Code of Intellectual Conduct”
 url: /damers-code-of-intellectual-conduct/
 tags:
   - reading
   - how-to-think
   - 80-20
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbvi3tl2j"
 ---
 
-This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](https://joshuapsteele.com/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](https://joshuapsteele.com/alan-jacobss-the-thinking-persons-checklist/)
+This code of conduct very much relates to [Rapoport’s Rules, Adler’s advice](/help-me-come-up-with-rules-for-conversation/), and [Alan Jacobs’s “The Thinking Person’s Checklist.”](/alan-jacobss-the-thinking-persons-checklist/)
 
 SOURCE: T. Edward Damer, *Attacking Faulty Reasoning: A Practical Guide to Fallacy-Free Arguments*, 6th ed (Australia ; Belmont, CA: Wadsworth/Cengage Learning, 2009), 7–8.
 

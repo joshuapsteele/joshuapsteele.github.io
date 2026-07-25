@@ -1,17 +1,21 @@
 ---
 TocOpen: false
 author: joshuapsteele
-categories: null
+categories:
+- ethics
+- poem
 date: 2025-10-13 08:09:09-04:00
 draft: false
 showToc: true
 tags:
-- music
-- poetry
-- satire
-- public health
+  - music
+  - poetry
+  - satire
+  - public-health
 title: The Fate of Diphtheria
+description: "A satirical public-health song about diphtheria, vaccines, and the dangers of losing herd immunity."
 url: /the-fate-of-diphtheria/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbhkevn25"
 ---
 
 *(to the tune of [“The Fate of Ophelia” by Taylor Swift](https://www.youtube.com/watch?v=ko70cExuzZM))*

@@ -11,6 +11,7 @@ categories:
   - personal
   - ministry
 url: /am-i-still-a-priest/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbfshl62k"
 ---
 
 ## The Ecclesiastical Pickle

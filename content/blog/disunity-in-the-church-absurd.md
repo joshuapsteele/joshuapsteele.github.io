@@ -2,12 +2,15 @@
 author: joshuapsteele
 categories: theology
 date: '2015-05-06T09:10:34Z'
-description: Presented at Southeast ETS 2015. DISUNITY AS ECCLESIOLOGICAL IMPOSSIBILITY:A
-  BARTHIAN ANALOGY ** ***Joshua P.
-publicize_facebook_url: null
-publicize_twitter_url: null
+description: "A Southeast ETS paper using Karl Barth to argue that church disunity is an ecclesiological impossibility, possible only as sin is possible."
 title: Disunity in the Church? Absurd!
+tags:
+  - barth
+  - church-unity
+  - ecclesiology
+  - conferences
 url: /disunity-in-the-church-absurd/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgh3pn2g"
 ---
 
 Presented at Southeast ETS 2015.
@@ -26,7 +29,7 @@ Second, almost two decades later, Barth described as “impossible” that which
 
 In order to describe in Barthian terms what it means for church disunity to be possible only as sin is possible, the purpose of this paper is to correlate Barth’s anthropological concept of sin as ontological impossibility with its parallel ecclesiological concept: disunity as ecclesiological impossibility. I will then conclude by locating this discussion within Barth’s own ecumenical vision – with an eye toward informing and motivating further ecumenical efforts.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](/theology-outline/)“)
 
 ### SIN AS ONTOLOGICAL IMPOSSIBILITY
 
@@ -138,4 +141,4 @@ NOTES:
 13 See also Barth, *The Church and the Churches*, 51-2.  
 14 Barth, *The Church and the Churches, 55.*  
 15 Barth, *The Church and the Churches*, 56.  
-Posted via [blogwith](http://blogwith.co)
+Posted via "blogwith" (now defunct, RIP!)

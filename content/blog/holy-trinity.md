@@ -4,7 +4,11 @@ categories: theology
 date: '2013-11-04T21:14:47Z'
 description: 'Introduction: The Holy Trinity One God.'
 title: 'The Holy Trinity: What Is It? (Why) Is It Important?'
+tags:
+  - theology
+  - trinity
 url: /holy-trinity/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcj74xc23"
 ---
 
 ## Introduction: The Holy Trinity
@@ -23,7 +27,7 @@ The definitive statement of trinitarian belief is the Niceno-Constantinopolitan 
 
 One in three, three in one: Father, Son, and Spirit – each Person equally and essentially God, and yet each distinct from the other two.
 
-(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](https://joshuapsteele.com/theology-outline/)“)
+(For a\[n attempted\] summary of the Christian faith, see my essay: “[Theology in Outline: What do I Believe?](/theology-outline/)“)
 
 ## Is the Trinity in the Bible? – Canonical Presence
 

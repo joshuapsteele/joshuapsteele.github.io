@@ -223,6 +223,29 @@ body:not(.dark) .footer-logo {
     background-color: rgba(191, 135, 0, 0.15);
 }
 
+/* Amazon Associates disclosures */
+.amazon-associate-disclosure {
+    margin: 0 0 1.5em;
+    padding: 12px 16px;
+    border: 2px solid #0969da;
+    border-radius: 6px;
+    background: rgba(9, 105, 218, 0.1);
+}
+
+.amazon-associate-disclosure p {
+    margin: 0;
+}
+
+.amazon-paid-link {
+    font-size: 0.9em;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.dark .amazon-associate-disclosure {
+    background: rgba(9, 105, 218, 0.15);
+}
+
 /* Popular Posts styles */
 .popular-posts {
     margin: 2em 0;

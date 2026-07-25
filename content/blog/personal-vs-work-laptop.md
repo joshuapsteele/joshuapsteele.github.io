@@ -3,8 +3,7 @@ TocOpen: false
 author: joshuapsteele
 categories: productivity
 date: 2025-04-09 08:49:29-04:00
-description: How does your personal machine compare to your work laptop. If you were
-  going to get a new personal computer/laptop today, what would you go with.
+description: "Comparing an aging personal MacBook Pro with a newer work machine while thinking through what laptop specs make sense for personal development."
 draft: false
 showToc: false
 tags:
@@ -12,6 +11,7 @@ tags:
 - computer
 title: 'Devs: How Does Your Personal Laptop Compare to Your Work Laptop?'
 url: /personal-vs-work-laptop/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbkciev2g"
 ---
 
 How does your personal machine compare to your work laptop? If you were going to get a new personal computer/laptop today, what would you go with? 

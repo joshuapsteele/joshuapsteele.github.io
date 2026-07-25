@@ -5,7 +5,7 @@ author: joshuapsteele
 categories: ministry
 description: My commitments and vows regarding Christian ministry, both past and present.
 guid: https://joshuapsteele.com/?page_id=42536
-showtoc: false
+showToc: false
 title: Philosophy of Ministry
 url: /philosophy-of-ministry
 ---

@@ -2,9 +2,14 @@
 author: joshuapsteele
 categories: personal
 date: '2018-08-09T15:56:09Z'
-description: This is a self-indulgently long story.
+description: "The story of Eva Joy Steele's birth: gestational hypertension, an unexpected induction, a missed wedding, and a joyful arrival."
 title: 'Eva Joy Steele: A Birth Story'
+tags:
+  - family
+  - kids
+  - parenting
 url: /eva-joy-steele-a-birth-story/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6bj6x2k"
 ---
 
 This is a self-indulgently long story. The gist of it is that my wife, Rachel, was unexpectedly induced due to gestational hypertension at 37 weeks, right before we were supposed to head to Pennsylvania for her sister’s wedding.
@@ -107,11 +112,11 @@ Nevertheless, they decided to try to insert what is called the Cook Cervical Rip
 
 Here’s a picture of what we’re talking about.
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter.jpg)
+![](/wp-content/uploads/2018/08/Cook-Catheter.jpg)
 
 They insert that thing through the cervix, before inflating those balloons on both sides of the cervix.
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg)
+![](/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg)
 
 Or, at least, that’s how it’s *supposed* to go.
 
@@ -307,6 +312,6 @@ Also, we’re incredibly grateful to our doula, Teri, for her support along the 
 
 For me, after going through this with my wife, I’m even more impressed by what a strong woman she is. I already knew that she had grit, but making through such a long process without any kind of pain medication was nothing short of amazing.
 
-![](https://joshuapsteele.com/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg)
+![](/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg)
 
 With Rachel and Eva, I think we’ve got a pretty great team.

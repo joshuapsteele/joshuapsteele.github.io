@@ -7,7 +7,11 @@ date: '2023-06-09T12:17:21Z'
 description: Biblical passages from 1 Peter, Isaiah, and elsewhere for corporate prayer
   and fasting during times of church crisis.
 title: Scriptures to Read on Days of Prayer and Fasting for the Church
+tags:
+  - bible
+  - prayer
 url: /scriptures-to-read-on-days-of-prayer-and-fasting-for-the-church/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbpatqy2d"
 ---
 
 ## 1 Peter 4:17

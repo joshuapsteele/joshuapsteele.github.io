@@ -2,13 +2,14 @@
 author: joshuapsteele
 categories: dissertation
 date: 2016-11-12T20:03:30Z
-description: A reading list of works about Karl Barth and Dietrich Bonhoeffer
+description: "A reading list of thirty works on Karl Barth and Dietrich Bonhoeffer, with an invitation for additions."
 tags:
   - barth
   - bonhoeffer
   - research
 title: 30 Works on Karl Barth and Dietrich Bonhoeffer. Are There Others?
 url: /works-on-barth-and-bonhoeffer/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcct5xh2v"
 ---
 
 1. ABROMEIT, Hans-Jürgen. *Das Geheimnis Christi: Dietrich Bonhoeffers erfahrungsbezogene Christologie*. Neukirchener Beiträge zur systemaschen Theologie 8. Neukirchen-Vluyn: Neukirchener Verlag, 1991.

@@ -2,13 +2,16 @@
 author: joshuapsteele
 categories: theology
 date: '2015-07-09T21:43:51Z'
-description: 'NOTE: The audio of the following sermon, preached on July 05, 2015 at
-  St. Peter’s Anglican Church in Mountain Brook, Alabama, can be found here.'
+description: "A sermon from St. Peter's Anglican on why Jesus is not merely one of us, but the Lord who comes to save."
 title: Jesus is Not Just &quot;One of Us&quot;
+tags:
+  - sermons
+  - anglican
 url: /jesus-is-not-just-one-of-us/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcg36ty2d"
 ---
 
-**NOTE: The [audio](http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3) of the following sermon, preached on July 05, 2015 at [St. Peter’s Anglican Church in Mountain Brook](http://stpetersbhm.org/), Alabama, can be found [here](http://stpetersbhm.org/wp-content/podcast/07-05-15JS-Jesusisnotjustoneofus.mp3). (I began with a bit of a mic issue. Ignore the garbled first 10 seconds or so!)**
+**NOTE: The audio (old, broken link) of the following sermon, preached on July 05, 2015 at [St. Peter’s Anglican Church in Mountain Brook](http://stpetersbhm.org/), Alabama, can be found here (old, broken link). (I began with a bit of a mic issue. Ignore the garbled first 10 seconds or so!)**
 
 —
 

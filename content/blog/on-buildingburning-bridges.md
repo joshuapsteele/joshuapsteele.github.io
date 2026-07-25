@@ -2,9 +2,13 @@
 author: joshuapsteele
 categories: personal
 date: '2013-03-29T15:07:13Z'
-description: 'DISCLAIMER: there’s a fair bit about the Church that frustrates me.'
+description: "A reflection on frustration with the church, bridge-building, and when critique risks burning the wrong bridges."
 title: On Building/Burning Bridges
+tags:
+  - church
+  - ecclesiology
 url: /on-buildingburning-bridges/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcksmxs2q"
 ---
 
 DISCLAIMER: there’s a fair bit about the Church that frustrates me.

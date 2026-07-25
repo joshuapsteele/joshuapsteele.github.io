@@ -9,6 +9,7 @@ tags:
 - tools
 title: 'Help, I''m Addicted to Mini Toolkits: The EDC Tool Struggle Is Real'
 url: /help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbmviic23"
 ---
 
 I don’t know what it is about mini toolkits, but I love them.

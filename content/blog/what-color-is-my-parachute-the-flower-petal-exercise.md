@@ -2,10 +2,13 @@
 author: joshuapsteele
 categories: personal
 date: '2021-01-19T22:34:46Z'
-description: I’m working my way through the classic job search guide *What Color Is
-  Your Parachute*.
+description: "A walkthrough of the seven-part Flower Petal self-assessment from *What Color Is Your Parachute?*—and my own results from working through this classic job-search exercise."
 title: What Color is My Parachute? The Flower Petal Exercise
+tags:
+  - career
+  - books
 url: /what-color-is-my-parachute-the-flower-petal-exercise/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbqukow2b"
 ---
 
 I’m working my way through the classic job search guide *[What Color Is Your Parachute](https://amzn.to/3O8cnYK)*. First, I’ll summarize the 7-part “Flower Petal” exercise—a comprehensive self-assessment geared toward the workplace. Then, I’ll share \*my\* results from the self-assessment.
@@ -114,4 +117,4 @@ My “Holland Code”: I like to spend time and work with the following kinds of
 
 I want to serve the world by serving the church. I want to help everyone know and love God more so that we join God in making the world a better, more beautiful place.
 
-***(Note: To learn more about me, [read my story](https://joshuapsteele.com/portfolio/my-story/) and [take a look at my C.V.](https://joshuapsteele.com/portfolio/cv/))***
+***(Note: To learn more about me, [read my story](/portfolio/my-story/) and [take a look at my C.V.](/portfolio/cv/))***

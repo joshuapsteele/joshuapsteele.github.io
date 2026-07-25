@@ -9,6 +9,7 @@ tags:
 title: Help! I'm looking for examples of "theological triage," "doctrinal taxonomy,"
   or "dogmatic rank"
 url: /help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbuph632i"
 ---
 
 For a research project, I’m looking for examples of the reasoning that goes into what’s been called, among other things
@@ -65,7 +66,7 @@ That’s what I’m really interested in.
 
 ---
 
-## Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, “[The Bible, Dogmatic Rank, and a Statement of Faith: Part 1](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf).”
+## Evangelical Free Church of America (EFCA) Spiritual Heritage Committee, “The Bible, Dogmatic Rank, and a Statement of Faith: Part 1 (old, broken link).”
 
 ### Regarding “Dogmatic Rank”:
 
@@ -75,7 +76,7 @@ That’s what I’m really interested in.
 > 
 > The third, the nonfundamental articles, focuses on “articles the denial of which does not endanger salvation since they are not fundamental to the maintenance of Christian truth and are not concerned with the objects of faith,” e.g., identity of the Antichrist and the nature of angels. “Such doctrines, nonetheless, are scriptural and, therefore, if rightly stated, edifying.”\[3\]
 > 
-> <cite>[https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf)</cite>
+> <cite>https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf (old, broken link)</cite>
 
 Here, the EFCA document has a couple of helpful footnotes:
 
@@ -111,12 +112,12 @@ Furthermore, in FN4, they list some examples of doctrinal taxonomy:
 > 5\. *Historical consensus*: How widespread is the consensus on this doctrine or practice in the Church of both the past and present  
 > 6\. *Application to the church and the believer*: How relevant is this doctrine or practice to us today?
 > 
-> <cite>[https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_introduction_0.pdf)</cite>
+> <cite>https://www.efca.org/sites/default/files/resources/docs/2019/05/the\_bible\_dogmatic\_rank\_and\_a\_statement\_of\_faith\_-\_introduction\_0.pdf (old, broken link)</cite>
 
 Finally, note that *this* EFCA document references an earlier one and a later one:
 
-- “For an earlier version of dogmatic rank in the EFCA, cf. Michael P. Andrus, ‘[Drawing Doctrinal Lines: Where? And How?: How do we distinguish between the Essentials and the Non-essentials of the Faith?](https://www.efca.org/sites/default/files/resources/docs/2019/02/drawing_doctrinal_lines_forum_presentation.pdf)‘ (January 2007)
-- “As an exercise, see how this is applied to the doctrine of election: [The Bible, Dogmatic Rank, and a Statement of Faith: How do we determine what is a major doctrine?](https://www.efca.org/sites/default/files/resources/docs/2019/05/the_bible_dogmatic_rank_and_a_statement_of_faith_-_election.pdf)“
+- “For an earlier version of dogmatic rank in the EFCA, cf. Michael P. Andrus, ‘[Drawing Doctrinal Lines: Where? And How?: How do we distinguish between the Essentials and the Non-essentials of the Faith?](https://web.archive.org/web/20201108173952/https://www.efca.org/sites/default/files/resources/docs/2019/02/drawing_doctrinal_lines_forum_presentation.pdf)‘ (January 2007)
+- “As an exercise, see how this is applied to the doctrine of election: The Bible, Dogmatic Rank, and a Statement of Faith: How do we determine what is a major doctrine? (old, broken link)“
 
 ---
 
@@ -151,7 +152,7 @@ Finally, note that *this* EFCA document references an earlier one and a later on
 
 ## **(LUTHERAN) “X. Church Practices,” in The Formula of Concord (1577)**
 
-- [Article 10 of the Formula of Concord](http://bookofconcord.org/fc-ep.php#X.%20Church%20Rites) is devoted to the controversy “Concerning ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been introduced into the Church for the sake of good order and propriety.”
+- [Article 10 of the Formula of Concord](https://bookofconcord.org/epitome/church-rites/) is devoted to the controversy “Concerning ceremonies or church rites which are neither commanded nor forbidden in God’s Word, but have been introduced into the Church for the sake of good order and propriety.”
 - The main question/debate was “whether, in time of persecution and in case of confession, even if the enemies of the Gospel have not reached an agreement with us in doctrine, some abrogated ceremonies, which in themselves are matters of indifference and are neither commanded nor forbidden by God, may nevertheless, upon the pressure and demand of the adversaries, be reestablished without violence to conscience, and we may thus \[rightly\] have conformity with them in such ceremonies and adiaphora. To this the one side has said Yea, the other, Nay.”
 
 ### Affirmative Statements (from the Epitome/Summary)
@@ -328,7 +329,7 @@ Taylor highlights and quotes from:
 
 ### Here’s Taylor summarizing Wittmer:
 
-> Michael Wittmer, professor of theology and historical theology at Grand Rapids Theological Seminary, wrote a helpful book entitled, *[Don’t Stop Believing: Why Living Like Jesus Is Not Enough](http://www.amazon.com/Dont-Stop-Believing-Living-Enough/dp/0310281164/bettwowor-20/?tag=bettwowor0e-20)*. He classifies Christian beliefs into three categories:
+> Michael Wittmer, professor of theology and historical theology at Grand Rapids Theological Seminary, wrote a helpful book entitled, *[Don’t Stop Believing: Why Living Like Jesus Is Not Enough](https://www.amazon.com/dp/0310281164?tag=joshuapsteele-20)*. He classifies Christian beliefs into three categories:
 > 
 > 1\. what you *must* believe
 > 2\. what you must not *reject*

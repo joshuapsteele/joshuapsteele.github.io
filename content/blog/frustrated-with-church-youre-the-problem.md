@@ -2,13 +2,16 @@
 author: joshuapsteele
 categories: theology
 date: '2016-06-11T17:24:37Z'
-description: Yesterday, I asked you to join the Church if you, like me, are frustrated
-  with the Church.
+description: "A follow-up to frustrated Christians: the church's problems include us, which means repentance and repair start close to home."
 title: Frustrated with Church? You're the Problem!
+tags:
+  - church
+  - ecclesiology
 url: /frustrated-with-church-youre-the-problem/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcdlikt2i"
 ---
 
-Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](http://frustrated). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!
+Yesterday, I asked you [to join the Church if you, like me, are frustrated with the Church](/frustrated-with-church-join-the-club). The strongest critiques of religion come from within, not without, the Christian community. Plus, your frustrations are likely shared by many others within the Church!
 
 However, it’s not enough to point the finger at others from your pew, instead of doing so from the public square. Yes, that’s a good first step, but another one is necessary.
 

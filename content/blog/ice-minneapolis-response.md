@@ -2,9 +2,11 @@
 title: "A Response to 'Minneapolis, ICE, and the Christian Response'"
 date: '2026-01-28T10:00:00Z'
 draft: false
-tags: ["Christianity", "politics", "immigration", "ICE", "Romans 13"]
+tags: [theology, politics, immigration, ice, romans-13]
 categories: ["ethics", "theology"]
+description: "A critique of false neutrality in Christian responses to ICE violence, arguing that justice requires truth-telling and moral clarity."
 url: /ice-minneapolis-response/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbggsl72v"
 ---
 
 Kevin Briggins recently published a piece titled ["Minneapolis, ICE, and the Christian Response"](https://kevinbriggins.substack.com/p/minneapolis-ice-and-the-christian) that attempts to offer Christians a balanced framework for thinking about the recent unrest in Minneapolis. I don't think it succeeds. The piece frames itself as balanced, but the scrutiny only flows in one direction. Briggins examines ICE opponents' rhetoric in detail, attributes their concerns to emotional manipulation, and barely acknowledges that ICE itself might bear any responsibility for what's happened.

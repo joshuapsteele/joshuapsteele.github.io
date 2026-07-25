@@ -1,0 +1,1219 @@
+{
+  "date": "2026-05-23",
+  "unique_checked": 458,
+  "working": 363,
+  "dead": 1,
+  "blocked": 150,
+  "dead_details": [
+    {
+      "file": "blog/top-3-books-movies-and-podcasts-about-race-for-white-christians-like-me.md",
+      "text": "free \u201cColor of Compromise\u201d video teaching series by Jemar Tisby",
+      "url": "https://amzn.to/2Mu7tpI",
+      "final_url": "https://amzn.to/2Mu7tpI",
+      "status": 404,
+      "note": "HTTP 404/410"
+    }
+  ],
+  "blocked_details": [
+    {
+      "file": "blog/80-20-approach-christian-life-2-reasons-christians-care-pareto-principle.md",
+      "text": "The 80/20 Principle: The Secret to Achieving More with Less",
+      "url": "http://amzn.to/2BEFj3k",
+      "final_url": "https://www.amazon.com/80-20-Principle-Secret-Achieving/dp/0385491743/ref=as_li_ss_tl?ie=UTF8&linkCode=sl1&tag=joshuapsteele-20&linkId=3b1042b62fdc7c62740a0e4dae5ef9c1",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "text": "*White Noise*, the novel by Don DeLillo",
+      "url": "http://amzn.to/2EgL3pA",
+      "final_url": "https://www.amazon.com/White-Noise-Criticism-Critical-Library/dp/0140274987/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1517767460&sr=1-2&keywords=white+noise&linkCode=sl1&tag=joshuapsteele-20&linkId=8d939ac4d32120e7427c063d126e9806",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
+      "text": "***White Noise***",
+      "url": "http://amzn.to/2EgL3pA",
+      "final_url": "https://www.amazon.com/White-Noise-Criticism-Critical-Library/dp/0140274987/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1517767460&sr=1-2&keywords=white+noise&linkCode=sl1&tag=joshuapsteele-20&linkId=8d939ac4d32120e7427c063d126e9806",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/5-books-every-christian-read.md",
+      "text": "The CEB Study Bible",
+      "url": "http://amzn.to/2G1ysEJ",
+      "final_url": "https://www.amazon.com/CEB-Study-Bible-Common-English/dp/1609260287/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1516574131&sr=1-1&keywords=ceb+study+bible&linkCode=sl1&tag=joshuapsteele-20&linkId=73df584b8efa6a7cd0ad3264685af066",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/5-books-every-christian-read.md",
+      "text": "Theology: The Basics",
+      "url": "http://amzn.to/2EpfFmn",
+      "final_url": "https://www.amazon.com/Theology-Basics-Alister-McGrath/dp/1119158087/ref=as_li_ss_tl?ie=UTF8&qid=1517368686&sr=8-12&keywords=theology&linkCode=sl1&tag=joshuapsteele-20&linkId=cc84c37058acf0ad8e43e1be6771314b",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/5-books-every-christian-read.md",
+      "text": "buy and read Perman\u2019s book",
+      "url": "http://amzn.to/2DOtMjQ",
+      "final_url": "https://www.amazon.com/Whats-Best-Next-Gospel-Transforms/dp/0310533988/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1517369650&sr=1-1&keywords=what's+best+next&linkCode=sl1&tag=joshuapsteele-20&linkId=98bf324ebf023c645aadd35f89a5bd1c",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/cedarville-let-there-be-light-pt-1.md",
+      "text": "The Beginning and the End: Rereading Genesis\u2019s Stories and Revelation\u2019s Visions.",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/cedarville-let-there-be-light-pt-1.md",
+      "text": "The Beginning and the End: Rereading Genesis\u2019s Stories and Revelation\u2019s Visions",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/cedarville-let-there-be-light-pt-1.md",
+      "text": "book",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/diagnostic-tools-for-homeowners.md",
+      "text": "digital laser measure",
+      "url": "https://amzn.to/4hgXKiY",
+      "final_url": "https://www.amazon.com/gp/product/B08YNS4FKW?ie=UTF8&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=c09c733ff1ae719ed085de7bdb65f6ed&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/diagnostic-tools-for-homeowners.md",
+      "text": "this one",
+      "url": "https://amzn.to/4g3DCzG",
+      "final_url": "https://www.amazon.com/gp/product/B0B62LBZPC?ie=UTF8&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=ad4f7c20ddef10a4cff7d8117ccf2699&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/diagnostic-tools-for-homeowners.md",
+      "text": "this clamp-style one",
+      "url": "https://amzn.to/4jmNHum",
+      "final_url": "https://www.amazon.com/gp/product/B07Z398YWF?ie=UTF8&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=429c98e04d704ca05201fab3541aff68&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/diagnostic-tools-for-homeowners.md",
+      "text": "the HF96 thermal camera",
+      "url": "https://www.amazon.com/s?k=Thermal+Camera&i=industrial&crid=20QNPPCV22QY5&sprefix=thermal+camera%2Cindustrial%2C161&linkCode=ll2&tag=joshuapsteele-20&linkId=15f72127db1af4702b5c7752725ffa0d&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Thermal+Camera&i=industrial&crid=20QNPPCV22QY5&sprefix=thermal+camera%2Cindustrial%2C161&linkCode=ll2&tag=joshuapsteele-20&linkId=15f72127db1af4702b5c7752725ffa0d&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/what-to-make-of-jordan-peterson-some-takes-then-my-own.md",
+      "text": "12 Rules for Life: an Antidote to Chaos",
+      "url": "https://www.amazon.com/dp/0345816021?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0345816021?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Dictionary of Scripture and Ethics",
+      "url": "https://www.amazon.com/s?k=Dictionary+of+Scripture+and+Ethics&linkCode=ll2&tag=joshuapsteele-20&linkId=fe86bbace8a5c59f7354c6bde6fc84eb&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Dictionary+of+Scripture+and+Ethics&linkCode=ll2&tag=joshuapsteele-20&linkId=fe86bbace8a5c59f7354c6bde6fc84eb&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Migration Theory: Talking across Disciplines",
+      "url": "https://www.amazon.com/s?k=Migration+Theory%3A+Talking+across+Disciplines&crid=2X0CWCPHERXT6&sprefix=migration+theory+talking+across+disciplines%2Caps%2C198&linkCode=ll2&tag=joshuapsteele-20&linkId=d9b25e15f9aab25b87dcddac62ca0c13&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Migration+Theory%3A+Talking+across+Disciplines&crid=2X0CWCPHERXT6&sprefix=migration+theory+talking+across+disciplines%2Caps%2C198&linkCode=ll2&tag=joshuapsteele-20&linkId=d9b25e15f9aab25b87dcddac62ca0c13&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Christians at the Border: Immigration, the Church, and the Bible",
+      "url": "https://www.amazon.com/s?k=Christians+at+the+Border%3A+Immigration%2C+the+Church%2C+and+the+Bible&crid=32MV5KEGRWYR2&sprefix=christians+at+the+border+immigration%2C+the+church%2C+and+the+bible%2Caps%2C124&linkCode=ll2&tag=joshuapsteele-20&linkId=a8ce589e7b8f5e2125749678778e8cde&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Christians+at+the+Border%3A+Immigration%2C+the+Church%2C+and+the+Bible&crid=32MV5KEGRWYR2&sprefix=christians+at+the+border+immigration%2C+the+church%2C+and+the+bible%2Caps%2C124&linkCode=ll2&tag=joshuapsteele-20&linkId=a8ce589e7b8f5e2125749678778e8cde&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "A Promised Land, a Perilous Journey: Theological Perspectives on Migration",
+      "url": "https://www.amazon.com/s?k=A+Promised+Land%2C+a+Perilous+Journey%3A+Theological+Perspectives+on+Migration&linkCode=ll2&tag=joshuapsteele-20&linkId=8c9b33c40387d2d71b96e96a65713f08&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=A+Promised+Land%2C+a+Perilous+Journey%3A+Theological+Perspectives+on+Migration&linkCode=ll2&tag=joshuapsteele-20&linkId=8c9b33c40387d2d71b96e96a65713f08&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Beyond Christendom: Globalization, African Migration and the Transformation of the West",
+      "url": "https://www.amazon.com/s?k=Beyond+Christendom%3A+Globalization%2C+African+Migration+and+the+Transformation+of+the+West&crid=38OIWY4STEBQ6&sprefix=beyond+christendom+globalization%2C+african+migration+and+the+transformation+of+the+west%2Caps%2C673&linkCode=ll2&tag=joshuapsteele-20&linkId=178a4a4633ddd5301321234bf602c21c&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Beyond+Christendom%3A+Globalization%2C+African+Migration+and+the+Transformation+of+the+West&crid=38OIWY4STEBQ6&sprefix=beyond+christendom+globalization%2C+african+migration+and+the+transformation+of+the+west%2Caps%2C673&linkCode=ll2&tag=joshuapsteele-20&linkId=178a4a4633ddd5301321234bf602c21c&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "The Immigration Crisis: Immigrants, Aliens, and the Bible",
+      "url": "https://www.amazon.com/s?k=The+Immigration+Crisis%3A+Immigrants%2C+Aliens%2C+and+the+Bible&crid=13TZXIB2DU4RA&sprefix=the+immigration+crisis+immigrants%2C+aliens%2C+and+the+bible%2Caps%2C120&linkCode=ll2&tag=joshuapsteele-20&linkId=3e0b0dbfe1d2dbd481e0567c7d25fc0b&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=The+Immigration+Crisis%3A+Immigrants%2C+Aliens%2C+and+the+Bible&crid=13TZXIB2DU4RA&sprefix=the+immigration+crisis+immigrants%2C+aliens%2C+and+the+bible%2Caps%2C120&linkCode=ll2&tag=joshuapsteele-20&linkId=3e0b0dbfe1d2dbd481e0567c7d25fc0b&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Israelite Religion and Biblical Theology: Collected Essays",
+      "url": "https://www.amazon.com/s?k=Israelite+Religion+and+Biblical+Theology%3A+Collected+Essays&crid=145DSSZTE5ND6&sprefix=israelite+religion+and+biblical+theology+collected+essays%2Caps%2C190&linkCode=ll2&tag=joshuapsteele-20&linkId=6d6f1d1724384c9477dd5574fa34b2a9&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Israelite+Religion+and+Biblical+Theology%3A+Collected+Essays&crid=145DSSZTE5ND6&sprefix=israelite+religion+and+biblical+theology+collected+essays%2Caps%2C190&linkCode=ll2&tag=joshuapsteele-20&linkId=6d6f1d1724384c9477dd5574fa34b2a9&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Alterity and Identity in Israel: The \u201cGer\u201d in the Old Testament",
+      "url": "https://www.amazon.com/dp/3110166259?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/3110166259?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Character Ethics and the Old Testament: Moral Dimensions of Scripture",
+      "url": "https://www.amazon.com/s?k=Character+Ethics+and+the+Old+Testament%3A+Moral+Dimensions+of+Scripture&i=stripbooks&crid=34829867BOH7H&sprefix=character+ethics+and+the+old+testament+moral+dimensions+of+scripture%2Cstripbooks%2C164&linkCode=ll2&tag=joshuapsteele-20&linkId=b3b0e3fd17b6cf98ae2c7b668f1aaf93&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Character+Ethics+and+the+Old+Testament%3A+Moral+Dimensions+of+Scripture&i=stripbooks&crid=34829867BOH7H&sprefix=character+ethics+and+the+old+testament+moral+dimensions+of+scripture%2Cstripbooks%2C164&linkCode=ll2&tag=joshuapsteele-20&linkId=b3b0e3fd17b6cf98ae2c7b668f1aaf93&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "A Biblical Theology of Exile",
+      "url": "https://www.amazon.com/s?k=A+Biblical+Theology+of+Exile&i=stripbooks&crid=3I3GTYYYNMGKG&sprefix=a+biblical+theology+of+exile%2Cstripbooks%2C129&linkCode=ll2&tag=joshuapsteele-20&linkId=29c3b70bc2d70885233a11b32565b929&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=A+Biblical+Theology+of+Exile&i=stripbooks&crid=3I3GTYYYNMGKG&sprefix=a+biblical+theology+of+exile%2Cstripbooks%2C129&linkCode=ll2&tag=joshuapsteele-20&linkId=29c3b70bc2d70885233a11b32565b929&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "Welcoming the Stranger: Justice, Compassion, and Truth in the Immigration Debate",
+      "url": "https://www.amazon.com/s?k=Welcoming+the+Stranger%3A+Justice%2C+Compassion%2C+and+Truth+in+the+Immigration+Debate&i=stripbooks&crid=1WRXSCMO496VJ&sprefix=welcoming+the+stranger+justice%2C+compassion%2C+and+truth+in+the+immigration+debate%2Cstripbooks%2C189&linkCode=ll2&tag=joshuapsteele-20&linkId=087500d1ab68a09c911379f9f43c620d&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=Welcoming+the+Stranger%3A+Justice%2C+Compassion%2C+and+Truth+in+the+Immigration+Debate&i=stripbooks&crid=1WRXSCMO496VJ&sprefix=welcoming+the+stranger+justice%2C+compassion%2C+and+truth+in+the+immigration+debate%2Cstripbooks%2C189&linkCode=ll2&tag=joshuapsteele-20&linkId=087500d1ab68a09c911379f9f43c620d&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/you-cant-follow-jesus-and-hate-immigrants.md",
+      "text": "The New Americans: A Guide to Immigration since 1965",
+      "url": "https://www.amazon.com/s?k=The+New+Americans%3A+A+Guide+to+Immigration+since+1965&i=stripbooks&crid=2N3PT4EQRVX3L&sprefix=the+new+americans+a+guide+to+immigration+since+1965%2Cstripbooks%2C168&linkCode=ll2&tag=joshuapsteele-20&linkId=da3fcf14437d7adf247477a032177eab&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=The+New+Americans%3A+A+Guide+to+Immigration+since+1965&i=stripbooks&crid=2N3PT4EQRVX3L&sprefix=the+new+americans+a+guide+to+immigration+since+1965%2Cstripbooks%2C168&linkCode=ll2&tag=joshuapsteele-20&linkId=da3fcf14437d7adf247477a032177eab&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/who-am-i-to-be-a-theologian.md",
+      "text": "Evangelical Theology: An Introduction",
+      "url": "https://www.amazon.com/dp/0802818196?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0802818196?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/if-women-can-be-saved-then-women-can-be-priests.md",
+      "text": "*Practicing Christian Doctrine*",
+      "url": "https://www.amazon.com/dp/0801049334?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0801049334?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/against-christian-misanthropy.md",
+      "text": "*After Evangelicalism*",
+      "url": "https://www.amazon.com/dp/0664266118?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0664266118?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "Garrett Green\u2019s recent re-translation of ",
+      "url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "*CD*",
+      "url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": " \u00a717",
+      "url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567031098?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "Tom Greggs\u2019 ***Theology Against Religion***",
+      "url": "https://www.amazon.com/dp/0567104230?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567104230?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "Andreas Pangritz\u2019s ***Karl Barth in the Theology of Dietrich Bonhoeffer***",
+      "url": "https://www.amazon.com/dp/080284281X?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/080284281X?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "Jeffrey Pugh\u2019s ***Religionless Christianity***",
+      "url": "https://www.amazon.com/dp/0567032590?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567032590?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
+      "text": "Sven Ensminger\u2019s ***Karl Barth\u2019s Theology as a Resource for a Christian Theology of Religions***",
+      "url": "https://www.amazon.com/dp/0567666727?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567666727?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/king-jesus-kingdom-gospel.md",
+      "text": "The King Jesus Gospel",
+      "url": "https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/ten-tools-for-embracing-finitude.md",
+      "text": "*Four Thousand Weeks: Time Management for Mortals*",
+      "url": "https://amzn.to/4fMUDyo",
+      "final_url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122?&linkCode=sl1&tag=joshuapsteele-20&linkId=db15523dba6743a6fd142636cb65490b&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/alabama-update.md",
+      "text": "Life of Pi",
+      "url": "https://www.amazon.com/dp/0547848412?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0547848412?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/alabama-update.md",
+      "text": "*Water, Christianity and the Rise of Capitalism*",
+      "url": "https://www.amazon.com/dp/1780760663?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1780760663?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/reading-revelation-wrong.md",
+      "text": "*Evangelical Dictionary of Theology*",
+      "url": "https://amzn.to/4uUd9NU",
+      "final_url": "https://www.amazon.com/Evangelical-Dictionary-Theology-Daniel-Treier/dp/0801039460?crid=25QMSVUV9AT4R&dib=eyJ2IjoiMSJ9.9-n-bhpqzeeYw4RcDMRkyymP7hIW5l9sg88t5Z3Siz3EbSQcFkXL85_Q4TTBe_BC4DN6pvOZMxKj-U7htJbpLEbdRS-G0cWP_Mipwc6k953IepaZxQhWmy_yWTnEIvtTuJw7gJZXyJWuv8Tf3xPMzK_QfY8QmkzR_XMUpO2vr0p9msbCyGCGXc4_eXiuRsxJQwxGQ0_WZ4Nw9PldgGzhCdcV87xbqhzWIvXTyWkWtjQ.H9qCmg9bpIuen5xIdFapsEhducOg4Y05tpFFnKgGu3w&dib_tag=se&keywords=evangelical+dictionary+of+theology&qid=1773942133&sprefix=evangelical+dictionary+of+theolo,aps,223&sr=8-1&linkCode=sl2&tag=joshuapsteele-20&linkId=47d8737baef5d566be67c5e8f69404d6&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/myths-and-facts-about-immigrants.md",
+      "text": "_The Most Common Arguments Against Immigration and Why They're Wrong_",
+      "url": "https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/myths-and-facts-about-immigrants.md",
+      "text": "Kindle",
+      "url": "https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B097HT6MPJ?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "text": "LaBear 29-Piece Kit",
+      "url": "https://amzn.to/4lLN8KV",
+      "final_url": "https://www.amazon.com/dp/B08NV5FLHF?coliid=I1QZRTDZYQ8XUE&colid=BW0P3RTT6XVG&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=b580c70d2489944fcf9dc3e863973193&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "text": "Wiha 74984 32 Piece GoBox",
+      "url": "https://amzn.to/4n3mFcH",
+      "final_url": "https://www.amazon.com/dp/B0C5FXSBHL?pd_rd_i=B0C5FXSBHL&pd_rd_w=mWITQ&content-id=amzn1.sym.f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_p=f2f1cf8f-cab4-44dc-82ba-0ca811fb90cc&pf_rd_r=CV5QTCQZBMS913AE02Z4&pd_rd_wg=zOCXd&pd_rd_r=ab77bc07-a37f-451c-9a61-a5d2521c0ce0&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWxfdGhlbWF0aWM&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=158e02d7600e9870ccbb8d175e011320&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "text": "LLNDEI 48 Piece Kit",
+      "url": "https://amzn.to/4oS8UPH",
+      "final_url": "https://www.amazon.com/LLNDEI-Mini-Ratcheting-Screwdriver-Extensions/dp/B0DDKTXLFK?crid=22XNXMZNHB3BQ&dib=eyJ2IjoiMSJ9.j9WXx2ZXJOvn9tjtyXNvVerGRdDEsReUmP4jhE8g7fJyyNNj5ftxdkF9dSXpV3h1HUwqYt4aKVryJ5k4ypObwSnVhgqR2cEoGBtWAbDoh9Tq-_ikHxr4ESym_F5nw0OV3smNntfieQ6OcKpiH9eskdYckQdW8_7Zft24iyT8C-WTyvA-6qqg_A_ZaU2Mt3h47QW0XQ3UyNNYt2pFs9-tSjpwPMJHKZL9Fq3iEykVKRCybqJvXPHJSYCKQSyW2IpjNBDd5Vs4iVwbXv06x8pMQK2HN6LevLSs1gIYNa-qok8.tv02KxarO9C4yGOcxcXay0gYV4xE_lCbQbwNLJXN_vE&dib_tag=se&keywords=mini+ratchet+socket+bit+set&qid=1756403631&sprefix=mini+ratchet+socket+bit+set,aps,132&sr=8-6&linkCode=sl1&tag=joshuapsteele-20&linkId=9bef035b2a73472092244c775e27282d&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "text": "this one from P.I.T.",
+      "url": "https://amzn.to/4d8MDWV",
+      "final_url": "https://www.amazon.com/dp/B09WVK229W?coliid=IRPIV81UZARKG&colid=BW0P3RTT6XVG&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=6c3b4df4ae9fe3f3766f6e96dfd6c8a4&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "text": "this one from Bosch",
+      "url": "https://amzn.to/4epaaUC",
+      "final_url": "https://www.amazon.com/dp/B0071IK9CI?coliid=I1Z8LQW557PL0S&colid=BW0P3RTT6XVG&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=e613efe5e2bacdcfcd787bc7a814decd&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/3-confessions-expectant-father.md",
+      "text": "The Road Back to You",
+      "url": "http://amzn.to/2BTmugK",
+      "final_url": "https://www.amazon.com/Road-Back-You-Enneagram-Self-Discovery/dp/0830846190/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519733465&sr=1-1&keywords=enneagram&linkCode=sl1&tag=joshuapsteele-20&linkId=0fb0b02398c11fe9e1cbd2c3527bf2ad",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/3-confessions-expectant-father.md",
+      "text": "*The Pastor Theologian*",
+      "url": "http://amzn.to/2F9xCbu",
+      "final_url": "https://www.amazon.com/Pastor-Theologian-Resurrecting-Ancient-Vision/dp/031051682X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1519733861&sr=1-1&keywords=pastor+theologian&linkCode=sl1&tag=joshuapsteele-20&linkId=da95c47b54eccb2719edbfa8a63348f0",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/saw-updates.md",
+      "text": "safety ON/OFF switch for the front of the saw",
+      "url": "https://amzn.to/4hXfz6C",
+      "final_url": "https://www.amazon.com/dp/B08PY8B8CZ?&linkCode=sl1&tag=joshuapsteele-20&linkId=7c848e1d745e481ad4c5870b77c30573&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/saw-updates.md",
+      "text": "8-inch thin-kerf combination blade",
+      "url": "https://amzn.to/4iNvCF7",
+      "final_url": "https://www.amazon.com/dp/B00020JOA0?th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=7f1c9347240cc8e0fd1eaafd1ad86279&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/saw-updates.md",
+      "text": "this 10-32 interior thread cam lever handle from Amazon",
+      "url": "https://amzn.to/4lcbSgf",
+      "final_url": "https://www.amazon.com/dp/B013I9Z60S?&linkCode=sl1&tag=joshuapsteele-20&linkId=90ba932be8b246a2e73344009542cf5a&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/finding-a-hat-for-my-big-bald-head.md",
+      "text": "Flexfit Mens Cool & Dry Sport",
+      "url": "https://amzn.to/4aI6v2F",
+      "final_url": "https://www.amazon.com/dp/B0CP8FB4GH?psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=5a2898e3948b5bad4c964f70b05244f5&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/silence-and-violence.md",
+      "text": "Volf, E&E, 306",
+      "url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/silence-and-violence.md",
+      "text": "Volf, E&E, 286",
+      "url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/what-is-fascism.md",
+      "text": "*On Tyranny: Twenty Lessons from the Twentieth Century* by Timothy Snyder",
+      "url": "https://amzn.to/4nGLrQ7",
+      "final_url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.qvbVxYXiKbc6-ZQ1Zxdv9xmIHdXiudxCWGvAg0hV9L8nr61_u-To0xwo_YTy-GJMQRbQktAk0TGOfDeUVXHv5zoYaLhZQouTNpRibi3L8dub_qRJpXz6mFvdf-2TX957WSsvvrTnqc4wNml4QX1BevphdEQEkn2XyWmyloVnfLglYccEDwv0nsQIUK4UNNrYhehjovFI5H0qnP8mVSmG3HcjgjHO10eRMxEKFXGh07E7MVBQJgLMEo4oefv1ybgcXD1CvghR8oiaCB4Jp0zhiAj0Dr78O47MpJYZzvB94yU.ETIbQk5-H2Ctf2h7QKVIfhlZJ9uBenoB31zOA-aFvR0&qid=1758548709&sr=8-10&linkCode=sl1&tag=joshuapsteele-20&linkId=c4422646971296667ea70e35fe5e4d48&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/what-is-fascism.md",
+      "text": "*How to Spot a Fascist* by Umberto Eco",
+      "url": "https://amzn.to/4ngkenL",
+      "final_url": "https://www.amazon.com/How-Spot-Fascist-UMBERTO-ECO/dp/1787302660?crid=310Z6OSRGGABR&dib=eyJ2IjoiMSJ9.qvbVxYXiKbc6-ZQ1Zxdv9xmIHdXiudxCWGvAg0hV9L8nr61_u-To0xwo_YTy-GJMQRbQktAk0TGOfDeUVXHv5zoYaLhZQouTNpRibi3L8dub_qRJpXz6mFvdf-2TX957WSsvvrTnqc4wNml4QX1BevphdEQEkn2XyWmyloVnfLglYccEDwv0nsQIUK4UNNrYhehjovFI5H0qnP8mVSmG3HcjgjHO10eRMxEKFXGh07E7MVBQJgLMEo4oefv1ybgcXD1CvghR8oiaCB4Jp0zhiAj0Dr78O47MpJYZzvB94yU.ETIbQk5-H2Ctf2h7QKVIfhlZJ9uBenoB31zOA-aFvR0&dib_tag=se&keywords=Fascism&qid=1758548709&sprefix=fascism,aps,166&sr=8-15&linkCode=sl1&tag=joshuapsteele-20&linkId=cc279fd8330201ba530dc92deb0c5c87&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/presenting-on-barth-at-2015-southeastern-ets.md",
+      "text": "God's Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth",
+      "url": "https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/five-questions-for-coming-to-grips-with-your-life.md",
+      "text": "*Four Thousand Weeks: Time Management for Mortals*",
+      "url": "https://amzn.to/4fMUDyo",
+      "final_url": "https://www.amazon.com/Four-Thousand-Weeks-Management-Mortals/dp/0374159122?&linkCode=sl1&tag=joshuapsteele-20&linkId=db15523dba6743a6fd142636cb65490b&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/theology-against-nationalism.md",
+      "text": "consider Phil Christman's arguments on \"Why Christians Should Be Leftists\"",
+      "url": "https://amzn.to/4hyp2mi",
+      "final_url": "https://www.amazon.com/Why-Christians-Should-Be-Leftists/dp/0802884059?&linkCode=sl1&tag=joshuapsteele-20&linkId=1c5b7656a4e18d6866af6dfa88679e23&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/getting-back-on-the-getting-things-done-productivity-bandwagon.md",
+      "text": "Leuchtturm1917 Medium Size Hardcover A5 Notebook \u2013 Dotted Grid",
+      "url": "http://amzn.to/2FG5Ccu",
+      "final_url": "https://www.amazon.com/Leuchtturm1917-Medium-Size-Hardcover-Notebook/dp/B002TSIMW4/ref=as_li_ss_tl?s=office-products&ie=UTF8&qid=1520978638&sr=1-4&keywords=leuchtturm1917+dotted&linkCode=sl1&tag=joshuapsteele-20&linkId=984e8400e77e8a8096db6eda9301dec5",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/getting-back-on-the-getting-things-done-productivity-bandwagon.md",
+      "text": "Getting Things Done",
+      "url": "http://amzn.to/2FC6IWz",
+      "final_url": "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1520941228&sr=1-1&keywords=getting+things+done&linkCode=sl1&tag=joshuapsteele-20&linkId=f9e01859a64c92a62bc662022a190a66",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/getting-back-on-the-getting-things-done-productivity-bandwagon.md",
+      "text": "Getting Things Done",
+      "url": "http://amzn.to/2FC6IWz",
+      "final_url": "https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1520941228&sr=1-1&keywords=getting+things+done&linkCode=sl1&tag=joshuapsteele-20&linkId=f9e01859a64c92a62bc662022a190a66",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life.md",
+      "text": "*The Cambridge Companion to Dietrich Bonhoeffer*",
+      "url": "https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life.md",
+      "text": "Dietrich Bonhoeffer: A Biography",
+      "url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/the-perfect-translation.md",
+      "text": "Translating the English Bible: From Relevance to Deconstruction",
+      "url": "https://www.amazon.com/dp/0227173910?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0227173910?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/the-perfect-translation.md",
+      "text": "Aichele",
+      "url": "https://www.amazon.com/dp/B008SLHBC8?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B008SLHBC8?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/my-regional-ets-presentation-reconciliation-and-the-lack-thereof.md",
+      "text": "*God's Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth*",
+      "url": "https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "text": "*Equal and Different: Male and Female in Church and Family.*",
+      "url": "http://amzn.to/2CZmiLI",
+      "final_url": "https://www.amazon.com/Equal-Different-Female-Christian-classics/dp/0340694394/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1548877643&sr=1-1&keywords=Equal+and+Different:+Male+and+Female+in+Church+and+Family&linkCode=sl1&tag=anglicanpasto-20&linkId=8cfbf4ba4049047921e01d2791c48c21&language=en_US",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "text": "*Women in the Church: A Fresh Analysis of 1 Timothy 2:9-15.*",
+      "url": "http://amzn.to/2GaPxOV",
+      "final_url": "https://www.amazon.com/Women-Church-Fresh-Analysis-Timothy/dp/0801020204/ref=as_li_ss_tl?ie=UTF8&qid=1548878314&sr=8-1&keywords=Women+in+the+Church:+A+Fresh+Analysis+of+1+Timothy+2:9-15&linkCode=sl1&tag=anglicanpasto-20&linkId=e0024d8aa78c00d501378e3a5fe5b550&language=en_US",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/want-to-learn-more-about-womens-ordination-debates-within-anglicanism-start-with-these-resources.md",
+      "text": "*Icons of Christ: A Biblical and Systematic Theology for Women\u2019s Ordination*",
+      "url": "https://www.amazon.com/dp/1481313193?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1481313193?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "20 Myths about Religion and Politics in America",
+      "url": "https://amzn.to/4ebfuLH",
+      "final_url": "https://www.amazon.com/Myths-about-Religion-Politics-America/dp/1506482015?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.Ds3JWRZvmQ6wjF6L1_zvDg.XFeMrB5kj7pFs6hhs3AaQjWQGhzn3UgiTztMzc7didA&qid=1725904099&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=670ff6e2be25aa029eada90b1898b6e0&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Disarming Leviathan: Loving Your Christian Nationalist Neighbor",
+      "url": "https://amzn.to/4eikNIy",
+      "final_url": "https://www.amazon.com/Disarming-Leviathan-Christian-Nationalist-Neighbor/dp/1514008513?crid=3BOIWTRMQRUO1&dib=eyJ2IjoiMSJ9.w6PTTpo8lXqMK-uN1EloGey65T6jiLGIhLXlnhLTU23Y1kA2-rrJP83CqOLO5UG_MDo7hvI6QeL1rdD-mBe3waPIXG-5DbsqgrnqfXcABWh-HTKkeJ_USLBMXsrIV4z5.Z80umf3r2sbSMx15pnJUo04lbTBPWzniYHmzaAB6FNc&dib_tag=se&keywords=disarming+leviathan+caleb+campbell&qid=1725904034&sprefix=disarming+leviathan,aps,94&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=1970ea38cfbefc84a233ae791b25470e&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Mortal Goods: Reimagining Christian Political Duty",
+      "url": "https://amzn.to/4d0kr8o",
+      "final_url": "https://www.amazon.com/Mortal-Goods-Reimagining-Christian-Political/dp/1540963802?crid=37W50EFKTCV0K&dib=eyJ2IjoiMSJ9.pZHP8kyxV5SogVPwYHTV-4JQaC-h4GkePbogMxjnB33K3s6A_a-LDjbhVZt3cv1vNPyU63JyKWJdmvmcwAn6q-AP6F8yfJGh-XGjBQPyg7g.r6edFgPeqvZ3FtsEaTtjFGLvHwdJg8vXfjijtK7v0ks&dib_tag=se&keywords=mortal+goods+radner&qid=1725904143&sprefix=mortal+goods+radn,aps,124&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=e5d8e36b48219e73a1ba8218e7da1b2f&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Religious Freedom in a Secular Age: A Christian Case for Liberty, Equality, and Secular Government",
+      "url": "https://amzn.to/4a3XVdU",
+      "final_url": "https://www.amazon.com/Religious-Freedom-Secular-Age-Government-ebook/dp/B09N8W6CC3?crid=218WB3ZOXM7GB&dib=eyJ2IjoiMSJ9.J0rB-GszMMl_70a0Tl9tA0AaLw1gYft_oiS9qlqRWAdMLTCUmlWzrWQ7qcHWbE4YfNaWO92W3lj7Tevwop07HtRRJCxHnKsFzrwXCMGxHiLkaNWlaw7gEp7REV6UcgQlGQ_X0_HSzO34cIMDAYMwG4FVGaZUEE5DCRu_daPKpRPGOHDqjHVWAHfsWQivj46OdmftXpLS5KnZGpa0qZSxLE3-Gy6Xno6aYPWHfszI0bw.F9QmE16B3hDPpcVn2X5Q1jGJuGoFf6gc81QYa8VM2Qo&dib_tag=se&keywords=Religious+Freedom+in+a+Secular+Age&qid=1710438681&sprefix=religious+freedom+in+a+secular+age,aps,172&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=c6df1362778dd2b1f06e27eeac45d8e4&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Abortion and the Christian Tradition: A Pro-Choice Theological Ethic",
+      "url": "https://amzn.to/4eh6V1f",
+      "final_url": "https://www.amazon.com/Abortion-Christian-Tradition-Pro-Choice-Theological/dp/0664265685?crid=26SZSPM4FUNIB&dib=eyJ2IjoiMSJ9.APP325WigwrxQ_Iyk5hMgkih6WjP5-U1-tIhsmE6aHztXZu8gTjsj4NeK9TsCp502amiy9u2WiJH9RAw3Q_QzZgSrhuLFIpnyu3CeqL8MgaE4zw-whDlBAhu9g1nktm0U8TFQFhrpfBhsLNM0MG2kshX4-ysBsXV_yHTeA5Z5Dtwn6n9y84KxreV9VtaOKFGaeESgPZV4spjUA8PZ_uwcebp9ve7hBNPewJXZQj4kGI.yINaKH6Jnwtq9d_JMFwAcCxB5MOJ2Wntc7P4-zN1xAg&dib_tag=se&keywords=abortion+christian+tradition&qid=1725904209&sprefix=abortion+christian+traditio,aps,126&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=11b8733e6a92ce49c696cd3b2aaf53a9&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Volume 1",
+      "url": "https://amzn.to/4dUWuRd",
+      "final_url": "https://www.amazon.com/American-Yawp-Massively-Collaborative-Textbook/dp/1503606716?crid=16Z34RQPKHPFP&dib=eyJ2IjoiMSJ9.cNR3eSVCCmy-dYeRwBnH7nd25Qj74ySgz3Cd4Km8fjv-Jn5tPrnQLSXS5LVgYnPSVOaDIyxDroI2JF35hyWVyX58Ax7bnD-8Fd0AwNdwaDw.PHjgY99jNYb32uLUO8wkhuJFU6cNbzvOsJIrpxoFst4&dib_tag=se&keywords=american+yawp&qid=1725903230&sprefix=american+yawp,aps,151&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=bba3b6e2f3b0bfeab3a31e30786c0565&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "Myth America: Historians Take on the Biggest Legends and Lies about Our Past",
+      "url": "https://amzn.to/4d1KXyl",
+      "final_url": "https://www.amazon.com/Myth-America-Historians-Biggest-Legends/dp/1541604660?crid=5SMW6HE0Y34B&dib=eyJ2IjoiMSJ9.znldHRjayG3XLWr4Qa9LP5chTjcCOfu1zwWsR8tBTp430aXinH5MxeEYJwVG0-03QImWvjL-oR4HEnRaVZKIVFUu2sY2YVWGKkYhqbW-uBxW5y7AXi5U_g-uWUlNfZg7AZ7SHhwBb6ziROxdVeD1HMp1rtRSb7cicrMVbPNGp7WpIlo2NX-ridwq-25EJGN75A8IbQxgN7eKuMF7fyA0jAQe8G_DqzCbpCTbnLnU_Fo.KEuQyLs3TIOmcjbNiss_1BcAKqyVi-ASdkJ94Vyytnk&dib_tag=se&keywords=myth+american&qid=1725904374&sprefix=myth+american,aps,141&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=2786f456a9bee2617a7b56733b75a6bd&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/christianity-and-politics-my-2024-reading-list.md",
+      "text": "The Lessons of History",
+      "url": "https://amzn.to/4d0D3FB",
+      "final_url": "https://www.amazon.com/Lessons-History-Will-Durant/dp/143914995X?crid=27GEV02YLQYRE&dib=eyJ2IjoiMSJ9.BxmtrRu3zr89r9WMChPqriEWruoZsTduYlydvzPbgz-c8h_MnLioiQBnRCFt84ZjHqu_ShS-d6nQGWnQrL1g3giFLVpOdpKIgLtwokBEY4zYPtW7oKwOGmnS3OnUBxicOlGU6JDpWtzjopZ4-CRc0bw4vxsVWEMpp7FZHVip0GllRCHMWkl5URGHAu7EK5UMOKxmAtxr2M6SIrIkbctZhDyGzqhJbO2sDPDIqo6_QjU.fFMht8KZwSpINsN0b9LiAA1HITIVaiP7NHLIEPqW8hI&dib_tag=se&keywords=lessons+of+history+will+durant&qid=1725904458&sprefix=lessons+of+history,aps,122&sr=8-1&linkCode=sl1&tag=joshuapsteele-20&linkId=ced4aa611fd783ccfac73893e901ed76&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/my-soccer-kit.md",
+      "text": "Adidas Samba Indoor Soccer Shoes",
+      "url": "https://amzn.to/4r5UGfc",
+      "final_url": "https://www.amazon.com/dp/B0CKMKQG4Q?_encoding=UTF8&th=1&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=eff630569ec6cc15f3b888a31eb37577&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/my-soccer-kit.md",
+      "text": "Adidas Defender 5.0 Duffel Bag",
+      "url": "https://amzn.to/4oTQJbV",
+      "final_url": "https://www.amazon.com/dp/B0CYTY31MQ?th=1&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=9c57bfeed99cf1b585e92ed348f75bf6&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/my-soccer-kit.md",
+      "text": "Festty Glasses Straps",
+      "url": "https://amzn.to/4p2WxAg",
+      "final_url": "https://www.amazon.com/dp/B0BG9XR1MQ?&linkCode=sl1&tag=joshuapsteele-20&linkId=9599d2200a4b57d82a880da4f4ab434d&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/my-soccer-kit.md",
+      "text": "Soccer IQ: Things That Smart Players Do, Vol. 1",
+      "url": "https://amzn.to/48tOypG",
+      "final_url": "https://www.amazon.com/dp/1469982471?&linkCode=sl1&tag=joshuapsteele-20&linkId=344d17c2a1287a38848b2ae940d8da72&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/black-friday-book-recommendation-the-economy-of-desire.md",
+      "text": "Bell\u2019s book is available on Amazon",
+      "url": "https://www.amazon.com/dp/0801035732?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0801035732?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/198-ways-to-fight-tyranny.md",
+      "text": "*The Politics of Nonviolent Action*",
+      "url": "https://amzn.to/4kXevBx",
+      "final_url": "https://www.amazon.com/Politics-Nonviolent-Action-Gene-Sharp-ebook/dp/B08FXKNLJG?&linkCode=sl1&tag=joshuapsteele-20&linkId=801b592e0f15aa1eb06afcdbafa761f5&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/principles-10-imperatives-good-life.md",
+      "text": "In Defense of Food",
+      "url": "https://www.amazon.com/dp/1594133328?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1594133328?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
+      "text": "CAP Cast Iron Competition Weight Kettlebell",
+      "url": "https://www.amazon.com/dp/B00I6CRMP0?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B00I6CRMP0?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/an-explanation.md",
+      "text": "*The Beginning and The End*",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/an-explanation.md",
+      "text": "*The Beginning and the End*",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/ok-maybe-a-bit-more-on-cedarville.md",
+      "text": "\u201cJunia is Not Alone\u201d by Scot McKnight",
+      "url": "https://www.amazon.com/dp/B006H4PFZ8?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B006H4PFZ8?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/ok-maybe-a-bit-more-on-cedarville.md",
+      "text": "The Feminist Mistake: The Radical Impact of Feminism on Church and Culture, by Mary A. Kassian",
+      "url": "https://www.amazon.com/dp/1581345704?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1581345704?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/14-characteristics-of-fascism.md",
+      "text": "_On Tyranny: Twenty Lessons from the Twentieth Century_ by Timothy Snyder",
+      "url": "https://amzn.to/4nGLrQ7",
+      "final_url": "https://www.amazon.com/Tyranny-Twenty-Lessons-Twentieth-Century/dp/0804190119?_encoding=UTF8&dib_tag=se&dib=eyJ2IjoiMSJ9.qvbVxYXiKbc6-ZQ1Zxdv9xmIHdXiudxCWGvAg0hV9L8nr61_u-To0xwo_YTy-GJMQRbQktAk0TGOfDeUVXHv5zoYaLhZQouTNpRibi3L8dub_qRJpXz6mFvdf-2TX957WSsvvrTnqc4wNml4QX1BevphdEQEkn2XyWmyloVnfLglYccEDwv0nsQIUK4UNNrYhehjovFI5H0qnP8mVSmG3HcjgjHO10eRMxEKFXGh07E7MVBQJgLMEo4oefv1ybgcXD1CvghR8oiaCB4Jp0zhiAj0Dr78O47MpJYZzvB94yU.ETIbQk5-H2Ctf2h7QKVIfhlZJ9uBenoB31zOA-aFvR0&qid=1758548709&sr=8-10&linkCode=sl1&tag=joshuapsteele-20&linkId=c4422646971296667ea70e35fe5e4d48&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/14-characteristics-of-fascism.md",
+      "text": "_How to Spot a Fascist_ by Umberto Eco",
+      "url": "https://amzn.to/4ngkenL",
+      "final_url": "https://www.amazon.com/How-Spot-Fascist-UMBERTO-ECO/dp/1787302660?crid=310Z6OSRGGABR&dib=eyJ2IjoiMSJ9.qvbVxYXiKbc6-ZQ1Zxdv9xmIHdXiudxCWGvAg0hV9L8nr61_u-To0xwo_YTy-GJMQRbQktAk0TGOfDeUVXHv5zoYaLhZQouTNpRibi3L8dub_qRJpXz6mFvdf-2TX957WSsvvrTnqc4wNml4QX1BevphdEQEkn2XyWmyloVnfLglYccEDwv0nsQIUK4UNNrYhehjovFI5H0qnP8mVSmG3HcjgjHO10eRMxEKFXGh07E7MVBQJgLMEo4oefv1ybgcXD1CvghR8oiaCB4Jp0zhiAj0Dr78O47MpJYZzvB94yU.ETIbQk5-H2Ctf2h7QKVIfhlZJ9uBenoB31zOA-aFvR0&dib_tag=se&keywords=Fascism&qid=1758548709&sprefix=fascism,aps,166&sr=8-15&linkCode=sl1&tag=joshuapsteele-20&linkId=cc279fd8330201ba530dc92deb0c5c87&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/whats-gone-wrong-with-american-evangelicalism.md",
+      "text": "Jemar Tisby's _The Color of Compromise_",
+      "url": "https://www.amazon.com/dp/0310597269?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0310597269?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "The Cambridge Companion to Dietrich Bonhoeffer",
+      "url": "https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0521587816?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "Bethge\u2019s ",
+      "url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "Dietrich Bonhoeffer: A Biography",
+      "url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0800628446?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "The Cambridge Companion to Karl Barth",
+      "url": "https://www.amazon.com/dp/0521585600?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0521585600?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "Busch\u2019s ",
+      "url": "https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/barth-timeline-a-chronology-of-karl-barths-life.md",
+      "text": "Karl Barth: His Life from Letters and Autobiographical Texts",
+      "url": "https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0800604857?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/want-a-taste-of-what-my-dissertation-is-about-read-these-two-passages-dissertation-dispatch-2020-04-03.md",
+      "text": "Alister McGrath\u2019s *The Christian Theology Reader* (5th edition)",
+      "url": "https://www.amazon.com/dp/1118874382?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1118874382?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/help-im-looking-for-examples-of-theological-triage-doctrinal-taxonomy-or-dogmatic-rank.md",
+      "text": "Don\u2019t Stop Believing: Why Living Like Jesus Is Not Enough",
+      "url": "https://www.amazon.com/dp/0310281164?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0310281164?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/oh-cedarville.md",
+      "text": "The Beginning and The End",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/birthday-wishlist-2025.md",
+      "text": "Milescraft Exactor Multifunction Measuring and Marking Tool",
+      "url": "https://amzn.to/4mw4qvG",
+      "final_url": "https://www.amazon.com/dp/B071RPGZM9?coliid=I2D6KJ9MMQ9G64&colid=BW0P3RTT6XVG&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=85ab58d3b1e70143d0941bf9205352cb&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/birthday-wishlist-2025.md",
+      "text": "WORKPRO Mini Water Pump Pliers, 4-Inch",
+      "url": "https://amzn.to/4807rB5",
+      "final_url": "https://www.amazon.com/WORKPRO-Adjustable-15-Position-Push-Lock-Multi-Surface/dp/B0DNM3HJW1?crid=2RVK5NPJ3I1Z2&dib=eyJ2IjoiMSJ9.QTjiBavg_fqwBcJGIH-lhy26HAvCEJUPjSEoyhf7s5Al9bZist7L8DTIPPim2QyZI4KReZybuhDFMmZx_HOz7L3VYKcFbeRHd9RBOj4z9wqWhGZpg3Dyz2EiQqe_2G9LQoSN6LatMi_Rw0dnw3nJEuASFJzacGk1PCBtFgVLRcGUj8BRRcYmBQNSRyd4200oR4hbI6OUTmnphdaRQPgPTLjdY7zWbbXhXBeXQzHGg3-zwaG9VsFBxak3NKp4CgGcssRmdUjKaRm4wzpbQh_aIjonVqOsgaG05MaDigi02_I.gAE71NiKASeR_RbQ7hVSidrvjy6QXb-c8J0vFKEXZlE&dib_tag=se&keywords=workpro%2Bpliers&qid=1758807531&sprefix=workpro%2Bpliers,aps,156&sr=8-7&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=48d131eecb36d069f08f8212959e4921&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/birthday-wishlist-2025.md",
+      "text": "WORKPRO 7-Inch Pliers Wrench",
+      "url": "https://amzn.to/4nSn7ek",
+      "final_url": "https://www.amazon.com/WORKPRO-7-Adjustable-Pliers-Wrench/dp/B0CZ3M4KX9?content-id=amzn1.sym.9ce0d71e-7aca-4397-8822-32313a4aff8e:amzn1.sym.9ce0d71e-7aca-4397-8822-32313a4aff8e&crid=1QUDFRALL8OW9&cv_ct_cx=plier%2Bwrench&keywords=plier%2Bwrench&pd_rd_i=B0CZ3M4KX9&pd_rd_r=379751e9-ef4f-45d8-9faa-69fa7f86f0ec&pd_rd_w=8UaTQ&pd_rd_wg=OF2cH&pf_rd_p=9ce0d71e-7aca-4397-8822-32313a4aff8e&pf_rd_r=CZNZ5V5RQ87S6X0GANZG&qid=1758807564&sbo=RZvfv//HxDF%2BO5021pAnSA%3D%3D&sprefix=plier%2Bwrenc,aps,154&sr=1-4-6024b2a3-78e4-4fed-8fed-e1613be3bcce-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=db338ab45e2d3a9bbbf3b03b0651eebe&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/birthday-wishlist-2025.md",
+      "text": "Milescraft Portable Drilling Guide",
+      "url": "https://amzn.to/4mBe9kH",
+      "final_url": "https://www.amazon.com/dp/B014A1Z92I?coliid=I2OR4W9MQTHNNE&colid=BW0P3RTT6XVG&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=657051382e9a22df2fa2f10253b984a4&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/the-good-news-of-christmas.md",
+      "text": "The King Jesus Gospel: The Original Good News Revisited",
+      "url": "https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/031049298X?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/i-love-my-kids-but-i-sometimes-regret-having-them.md",
+      "text": "read all the parenting books",
+      "url": "https://www.amazon.com/s?k=parenting+books&crid=3QVJIF4D7G2D7&sprefix=parenting%2Caps%2C183&linkCode=ll2&tag=joshuapsteele-20&linkId=e2dc22d364345a0d1e9b31822e628163&language=en_US&ref_=as_li_ss_tl",
+      "final_url": "https://www.amazon.com/s?k=parenting+books&crid=3QVJIF4D7G2D7&sprefix=parenting%2Caps%2C183&linkCode=ll2&tag=joshuapsteele-20&linkId=e2dc22d364345a0d1e9b31822e628163&language=en_US&ref_=as_li_ss_tl",
+      "status": 503,
+      "note": "rate-limited / server error"
+    },
+    {
+      "file": "blog/cedarville-let-there-be-light-pt-2.md",
+      "text": "*The Beginning and the End*",
+      "url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/1608999270?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/volf-on-divine-violence.md",
+      "text": "Exclusion and Embrace",
+      "url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/tidbits-2025-09-19.md",
+      "text": "rotating Pomodoro timer for focus and productivity",
+      "url": "https://amzn.to/4neZRHs",
+      "final_url": "https://www.amazon.com/dp/B0D7JG4VLD?th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=061f60b9b2a804310037f0818a0897c8&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "blog/tidbits-2025-09-19.md",
+      "text": "small but incredibly powerful electric air duster",
+      "url": "https://amzn.to/4pvImUP",
+      "final_url": "https://www.amazon.com/dp/B0DHNG4DL8?&linkCode=sl1&tag=joshuapsteele-20&linkId=3c9f56305cd207faa4cb13339f4e8799&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/resist.md",
+      "text": "*The Politics of Nonviolent Action*",
+      "url": "https://amzn.to/4kXevBx",
+      "final_url": "https://www.amazon.com/Politics-Nonviolent-Action-Gene-Sharp-ebook/dp/B08FXKNLJG?&linkCode=sl1&tag=joshuapsteele-20&linkId=801b592e0f15aa1eb06afcdbafa761f5&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/wish-list.md",
+      "text": "Veto Pro Pac SP-MC tool bag",
+      "url": "https://amzn.to/4n59hW3",
+      "final_url": "https://www.amazon.com/dp/B0F15N1T1F?coliid=I3GM3NMN0K02L1&colid=BW0P3RTT6XVG&psc=0&linkCode=sl1&tag=joshuapsteele-20&linkId=d66ce395ec1895160ef6da04fbb440cc&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "EXOTAC FreeKey System",
+      "url": "https://www.amazon.com/dp/B00AQ664H6?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B00AQ664H6?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "COROS Pace 3 Sport Watch",
+      "url": "https://www.amazon.com/dp/B0CFQQ9FDL?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0CFQQ9FDL?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "uniball Power Tank RT",
+      "url": "https://www.amazon.com/dp/B002HJDFRM?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B002HJDFRM?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Field Notes",
+      "url": "https://www.amazon.com/dp/B071Y41YY3?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B071Y41YY3?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Leuchtturm1917 A5 Dotted",
+      "url": "https://www.amazon.com/dp/B002TSIMW4?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B002TSIMW4?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "CIVIVI Mini Praxis",
+      "url": "https://www.amazon.com/dp/B0BF8FPH5L?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0BF8FPH5L?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Streamlight ProTac 1L-1AA",
+      "url": "https://www.amazon.com/dp/B01G75P1SC?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B01G75P1SC?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Workpro 18-in-1 Multitool",
+      "url": "https://www.amazon.com/dp/B0C88XTTC1?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0C88XTTC1?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "tarred, twisted nylon bank line",
+      "url": "https://www.amazon.com/dp/B0068IQFCA?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0068IQFCA?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Bic Classic Lighter",
+      "url": "https://www.amazon.com/dp/B086R3LFBW?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B086R3LFBW?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/carry.md",
+      "text": "Osprey Daylite Commuter Backpack",
+      "url": "https://www.amazon.com/dp/B08LP148YT?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B08LP148YT?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/questions.md",
+      "text": "Veto Pro Pac TP-LC tool bag",
+      "url": "https://www.amazon.com/dp/B09TPZKBDP?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B09TPZKBDP?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/questions.md",
+      "text": "this moisture meter",
+      "url": "https://www.amazon.com/dp/B07SZX8QXH?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B07SZX8QXH?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/questions.md",
+      "text": "thermal camera",
+      "url": "https://www.amazon.com/dp/B0CWS4BVCX?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0CWS4BVCX?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "OLFA 25mm Utility Knife",
+      "url": "https://amzn.to/4fm9CQ0",
+      "final_url": "https://www.amazon.com/gp/product/B001DKOQGU?ie=UTF8&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=54d2e8b1961cf59e856afd648e98d614&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "OLFA 18mm Utility Knife",
+      "url": "https://amzn.to/4fhzrRp",
+      "final_url": "https://www.amazon.com/gp/product/B0006SJAR0?ie=UTF8&th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=9258b9a8ea77d89c27fc9efdf0232622&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "ESTWING 12 oz Straight Rip Claw - E3-12S",
+      "url": "https://www.amazon.com/dp/B0002YWCHS?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0002YWCHS?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "WORKPRO 12-in-1 Ratcheting Multi-Bit Screwdriver",
+      "url": "https://www.amazon.com/dp/B0761K3H82?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0761K3H82?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "HOTO 24-in-1 Precision Screwdriver",
+      "url": "https://amzn.to/4enkfAW",
+      "final_url": "https://www.amazon.com/dp/B08XB69Q4F?th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=5b5426c0e9b5740f94e784d557c67ec6&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Stanley FatMax 25-foot Measuring Tape",
+      "url": "https://www.amazon.com/dp/B00002PV66?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B00002PV66?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "FastCap Metric Reverse Measuring Tape",
+      "url": "https://amzn.to/4rccx4c",
+      "final_url": "https://www.amazon.com/dp/B000GFHABG?&linkCode=sl1&tag=joshuapsteele-20&linkId=43d44738a047863b845cd1a869c888f4&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "ESTWING Pro Claw Moulding Puller - 10\" Pry Bar",
+      "url": "https://amzn.to/4pqQ9T8",
+      "final_url": "https://www.amazon.com/dp/B004397VEW?th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=53c91ed9f68b321fdbf7fcc82d7a0970&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Lisle 35100 1/4\" Pry Bar with Strike Cap",
+      "url": "https://amzn.to/4rdrjYx",
+      "final_url": "https://www.amazon.com/dp/B0CF2NSVHD?th=1&linkCode=sl1&tag=joshuapsteele-20&linkId=c5847a1ef80fcf4490f33483bdc07587&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "ETENWOLF Digital Tire Pressure Gauge, 2 Pack",
+      "url": "https://www.amazon.com/dp/B0CKYZB8KL?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B0CKYZB8KL?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Owala FreeSip, 24oz",
+      "url": "https://www.amazon.com/dp/B085DV8T75?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B085DV8T75?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Muji Nail Clipper",
+      "url": "https://www.amazon.com/dp/B00ECPRRIC?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B00ECPRRIC?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Tub O' Towels Heavy Duty Cleaning Wipes",
+      "url": "https://www.amazon.com/dp/B00022W4ZU?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B00022W4ZU?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "Field Notes",
+      "url": "https://www.amazon.com/dp/B071Y41YY3?tag=joshuapsteele-20",
+      "final_url": "https://www.amazon.com/dp/B071Y41YY3?tag=joshuapsteele-20",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time_",
+      "url": "http://amzn.to/2DzEFco",
+      "final_url": "https://www.amazon.com/Eat-That-Frog-Great-Procrastinating/dp/162656941X/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1516572777&sr=1-1&keywords=eat+that+frog&linkCode=sl1&tag=joshuapsteele-20&linkId=f6972dbbe46aa1898720ae6732e2348b",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_Deep Work: Rules for Focused Success in a Distracted World_",
+      "url": "http://amzn.to/2DotWhU",
+      "final_url": "https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1516572865&sr=1-1&keywords=deep+work&linkCode=sl1&tag=joshuapsteele-20&linkId=627c77e9e60ca6cba3c692b97ee38e53",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_Cracking the Coding Interview: 189 Programming Questions and Solutions_",
+      "url": "https://amzn.to/4oaQcTf",
+      "final_url": "https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850?crid=1P1BGDP9ZUHKN&dib=eyJ2IjoiMSJ9.nj6XTCgbP7Ay4ig5zGU-o9OB8p-raRuETwl6G824MZwXFDCmKiAMNzhAsZLUT1gQzoa9teRw_FaEiAzZ4ya1rEyHHw8vkKy19yMpeo0WCzWKgK_RZu-bLblps5j83qz2j_v31ntDI5VqSA3cSVd_zAjWwV_YCfzDau3FBk978SFgUm8_PvAcofi1HbJhmFiaa4eiBpYtAp9P3OcAYyDEV6EDIXjd8XFg78_WYxxoSpE.cQGRD1XJVIvnqrH3urJrjsFBTdP8XbzcWs617eVMddQ&dib_tag=se&keywords=cracking+the+coding+interview&qid=1753965901&s=books&sprefix=Cracking+,stripbooks,147&sr=1-1&linkCode=sl1&tag=joshuapsteele-20&linkId=ce3e6abdf9357f849ca9c108847cac67&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_The Software Engineer's Guidebook_",
+      "url": "https://amzn.to/4mFRXX5",
+      "final_url": "https://www.amazon.com/dp/B0CV6ZNLLP?_encoding=UTF8&pd_rd_w=1dm44&content-id=amzn1.sym.0131757e-9d21-45b8-b9d6-eb167b000b17&pf_rd_p=0131757e-9d21-45b8-b9d6-eb167b000b17&pf_rd_r=A7BD8823R8N7VWBM3Y47&pd_rd_wg=IC1Aa&pd_rd_r=26d1b064-256b-4dc2-8ebd-2107f24bbcdb&linkCode=sl1&tag=joshuapsteele-20&linkId=67c1501ed8bc3a9cb9bf53d887f7d06d&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_System Design Interview_",
+      "url": "https://amzn.to/4mdgNhb",
+      "final_url": "https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF?pd_rd_w=Ddzc6&content-id=amzn1.sym.dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_p=dcf559c6-d374-405e-a13e-133e852d81e1&pf_rd_r=T3YTAPVHNSPXTSXVAYSM&pd_rd_wg=htAVs&pd_rd_r=85cee4fe-2dcd-4d8a-9b18-159327f225ba&pd_rd_i=B08CMF2CQF&psc=1&linkCode=sl1&tag=joshuapsteele-20&linkId=f227ad49f26b1323d0cb0c05cb41ec2f&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    },
+    {
+      "file": "pages/recommended-tools-and-resources.md",
+      "text": "_Understanding Distributed Systems, Second Edition_",
+      "url": "https://amzn.to/4og0dyq",
+      "final_url": "https://www.amazon.com/Understanding-Distributed-Systems-Second-applications/dp/1838430210?crid=3VEGJFZLDV6QO&dib=eyJ2IjoiMSJ9.AseGERx9paWryacF_2x78zPAUWu0NqUpJKAgrZpuLKwHKlrl-oyV_mSQV-rm2tJtDbd1lGnJHPDJ4BJX4cALpRIW2H7ync5weGvqtxpVogfeFkEJXIgT8bf97LdfO2RRZ93om-qC46peoebrty5eDCQOfIlOUjOwcuN-gw_bVRlY8g-5_-nU8ps3BciMRKA9KwIhGby3VqNbyG3C-3QT5eha6cbeKJbYTGuv8onZEvI.RhDXDOyRz2HMmJhRxUn2274TSqsjPRJC-B7EOfObMsQ&dib_tag=se&keywords=Understanding+Distributed+Systems&qid=1753965754&s=books&sprefix=understanding+distributed+systems,stripbooks,112&sr=1-1&linkCode=sl1&tag=joshuapsteele-20&linkId=b941c57e6e5edb42ba78c5456b6b455b&language=en_US&ref_=as_li_ss_tl",
+      "status": 200,
+      "note": "CAPTCHA / Robot Check"
+    }
+  ]
+}

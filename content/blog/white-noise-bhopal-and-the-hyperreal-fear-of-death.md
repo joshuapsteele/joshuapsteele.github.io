@@ -6,6 +6,7 @@ date: 2014-04-16T08:17:21Z
 description: An essay on the theme of the fear of death in *White Noise*, the novel by Don DeLillo.
 title: WHITE NOISE, BHOPAL, AND THE HYPERREAL FEAR OF DEATH
 url: /white-noise-bhopal-and-the-hyperreal-fear-of-death/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydchpj3s2q"
 ---
 
 The following essay deals with the theme of the fear of death in [*White Noise*, the novel by Don DeLillo](http://amzn.to/2EgL3pA) (affiliate link).
@@ -38,7 +39,7 @@ And yet, plot slowly invades. In Gladney’s own words: “All plots tend to mov
 
 Out of the static emerges one of the novel’s central themes: the fear of death.
 
-(Note: I have written elsewhere about death. See “[Son of Man, Can Your Bones Live?](https://joshuapsteele.com/son-of-man-can-your-bones-live/)” and “[My Uncle, Timothy Steele](https://joshuapsteele.com/20150424my-uncle-timothy-steele/).”)
+(Note: I have written elsewhere about death. See “[Son of Man, Can Your Bones Live?](/son-of-man-can-your-bones-live/)” and “[My Uncle, Timothy Steele](/20150424my-uncle-timothy-steele/).”)
 
 According to Albert Mobilio, *White Noise* explores “the narcissist’s inevitable trap: a preoccupation with dying.”\[6\] And DeLillo explores this theme masterfully.
 
@@ -178,7 +179,7 @@ However, as my wife tearfully recounted the story to me that night, she wondered
 
 More importantly, **whose death do we fear?**
 
-![](https://joshuapsteele.com/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg)
+![](/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg)
 
 ## It is my contention that **we cannot really fear our *own* deaths**.
 

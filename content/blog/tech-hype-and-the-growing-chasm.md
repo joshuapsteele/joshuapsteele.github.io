@@ -3,15 +3,15 @@ TocOpen: false
 author: joshuapsteele
 categories: productivity
 date: 2025-07-31 08:11:02-04:00
-description: Meredith Whittaker on the growing gap between tech-optimist narratives
-  and our actual tech-encumbered reality.
+description: "Meredith Whittaker's warning about the widening gap between tech-optimist stories and the tech-encumbered reality people actually inhabit."
 draft: false
 showToc: false
 tags:
 - link
 - quote
 title: Tech Hype and the Growing Chasm
-url: /tech-hype-and-the-growing-chasm
+url: /tech-hype-and-the-growing-chasm/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbisxq223"
 ---
 
 Here's Meredith Whittaker on the "key to understanding the growing chasm between the narrative of techno-optimists and the reality of our tech-encumbered world" in [a recent interview with Politico](https://www.politico.com/newsletters/digital-future-daily/2023/12/01/5-questions-for-meredith-whittaker-00129677):

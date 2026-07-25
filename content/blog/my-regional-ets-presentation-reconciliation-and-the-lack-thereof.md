@@ -11,6 +11,8 @@ tags:
   - church-unity
   - conferences
   - barth
+url: /my-regional-ets-presentation-reconciliation-and-the-lack-thereof/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcil4jh2p"
 ---
 
 If you're in the Birmingham area from March 21-22, 2014, and you're interested in evangelical theology, please consider attending the [Evangelical Theological Society's Southeastern Regional Meeting at Beeson Divinity School](http://www.beesondivinity.com/ets)! This year's theme is "the theological interpretation of Scripture," and the plenary speaker is Wheaton's [Daniel J. Treier](http://www.wheaton.edu/Academics/Faculty/T/Daniel-Treier) (incidentally, Dr. Treier and I are both alumni of Cedarville).
@@ -30,6 +32,6 @@ If you can't make it to my presentation but you're interested in the topic:
 - Read the [full essay on my blog](/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god/)
 - Download the [original undergraduate thesis PDF](/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf)
 
-I also recommend Adam J. Johnson's [*God's Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth*](http://www.amazon.com/Gods-Being-Reconciliation-Theological-Systematic/dp/0567123456/) (T&T Clark Studies in Systematic Theology). The paperback edition is much more affordable than the previous hardcover, and without his fresh insights into the doctrine of the atonement and Barthian theology, my paper would not have been possible.
+I also recommend Adam J. Johnson's [*God's Being in Reconciliation: The Theological Basis of the Unity and Diversity of the Atonement in the Theology of Karl Barth*](https://www.amazon.com/dp/0567123456?tag=joshuapsteele-20) (T&T Clark Studies in Systematic Theology). The paperback edition is much more affordable than the previous hardcover, and without his fresh insights into the doctrine of the atonement and Barthian theology, my paper would not have been possible.
 
-Please attend the entire conference at Beeson if possible! Check out the [full conference schedule](http://www.beesondivinity.com/assets/1346/ets_southeast_2014_schedule_1_page.pdf).
+Please attend the entire conference at Beeson if possible! Check out the full conference schedule (old, broken link).

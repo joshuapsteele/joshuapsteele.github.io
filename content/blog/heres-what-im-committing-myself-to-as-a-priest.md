@@ -2,12 +2,19 @@
 author: joshuapsteele
 categories: ministry
 date: '2019-10-28T19:57:33Z'
-description: I’m getting ordained to the priesthood* *this Saturday, November 02**.
+description: "Posting the ACNA priestly ordination vows and exhortation before ordination, as a public record of the commitments involved."
 title: Here's what I'm committing myself to as a priest.
+tags:
+  - ordination
+  - anglican
+  - book-of-common-prayer
+  - acna
+  - ministry
 url: /heres-what-im-committing-myself-to-as-a-priest/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbx7nik2q"
 ---
 
-*I’m getting ordained to the priesthood* [*this Saturday, November 02*](https://joshuapsteele.com/ordination/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*
+*I’m getting ordained to the priesthood* [*this Saturday, November 02*](/heres-a-video-of-my-ordination-to-the-priesthood/)*. For public/posterity’s sake, I wanted to post some of the main parts of the ordination liturgy (from the ACNA’s 2019 Book of Common Prayer).*
 
 ## The Presentation
 

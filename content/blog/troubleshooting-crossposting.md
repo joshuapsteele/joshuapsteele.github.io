@@ -2,12 +2,12 @@
 author: joshuapsteele
 categories: personal
 date: '2024-11-19T17:25:36-05:00'
-description: 'UPDATE: This now seems to work. The post made it to Micro.blog, BlueSky,
-  and Mastodon, at least.'
+description: "Notes from troubleshooting Hugo-to-Micro.blog crossposting, including feed behavior, POSSE syndication, and what finally worked."
 tags:
 - hugo
 title: Troubleshooting Hugo to Micro.blog Crossposting
 url: /troubleshooting-hugo-to-microblog-crossposting/
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydblvu572v"
 ---
 
 *UPDATE: This now seems to work! The post made it to Micro.blog, BlueSky, and Mastodon, at least. Just not to Threads.*

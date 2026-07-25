@@ -2,21 +2,21 @@
 author: Aaron Harrison
 categories: personal
 date: '2020-05-20T05:00:00Z'
-description: 'Editor’s Note: The piece below represents the opinion of the author.
-  Anglican Compass does not take a site-wide position for or against women’s ordination.'
+description: "Aaron Harrison argues that baptism, slavery, martyrdom, and the priesthood of Christ reshape Anglican debates over women's ordination."
 title: 'The Altar and the Arena: What Slaves and Martyrs Have to Teach Us About Women’s
   Ordination'
 url: /the-altar-and-the-arena-what-slaves-and-martyrs-have-to-teach-us-about-womens-ordination/
 tags:
   - anglican-compass
   - womens-ordination
+atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbtls2f2g"
 ---
 
 *Editor’s Note: The piece below represents the opinion of the author. Anglican Compass does not take a site-wide position for or against women’s ordination. We do, however, require both clarity and charity. We ask that your responses to it do so as well.*
 
 ---
 
-Over the past several months, readers of Anglican Compass have engaged with many opinions on [the topic of women’s ordination](http://anglicancompass.com/tag/womens-ordination/). One wonders, given the state of dual integrities within the ACNA and the ever-churning blog debates between our public intellectuals, what is the point of another take on this issue?
+Over the past several months, readers of Anglican Compass have engaged with many opinions on the topic of women’s ordination (old, broken link). One wonders, given the state of dual integrities within the ACNA and the ever-churning blog debates between our public intellectuals, what is the point of another take on this issue?
 
 But stay with me, friends. At the risk of debate fatigue, I want to stir these waters once more because after reading these pieces, I believe we are missing several key points in the conversation. In fact, I believe we need to engage in a fundamentally different conversation—one that centers the debate in its proper theological home: baptism and the Person of Christ.
 
@@ -134,4 +134,4 @@ Any disagreement among Christians is an opportunity to discern the mind of Chris
 
 For that, we need a christological reasoning that re-centers this debate in the life and death of Jesus Christ, the God-human, and the priesthood of his body and blood.
 
-If you are baptized into Christ, you are a new creation and are justified by faith to be a priest following Christ’s priesthood. To quote [Dr. McGowin’s first piece on Anglican Compass](http://anglicancompass.com/if-women-can-be-saved-then-women-can-be-priests/), “by becoming one with Christ in our baptism, all become partakers of his Royal Priesthood.” Because both men and women are called to be Christ’s witnesses, to be the *anthropos*, they are both called to be *in persona Christi*, to embody the life of martyrdom, whether in the arena or at the altar.
+If you are baptized into Christ, you are a new creation and are justified by faith to be a priest following Christ’s priesthood. To quote [Dr. McGowin’s first piece on Anglican Compass](/if-women-can-be-saved-then-women-can-be-priests/), “by becoming one with Christ in our baptism, all become partakers of his Royal Priesthood.” Because both men and women are called to be Christ’s witnesses, to be the *anthropos*, they are both called to be *in persona Christi*, to embody the life of martyrdom, whether in the arena or at the altar.
