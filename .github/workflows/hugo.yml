@@ -52,7 +52,16 @@ jobs:
             exit 0
           fi
 
-          if git diff --quiet -- data/syndication.json; then
+          # syndication.json carries a "generated" timestamp that is rewritten on
+          # every fetch, so a plain `git diff` would always report a change and the
+          # gate would never skip. Compare the meaningful content instead.
+          sig() { python3 -c "import json,sys; d=json.load(sys.stdin); d.pop('generated', None); print(json.dumps(d, sort_keys=True))"; }
+          old_sig="$(git show HEAD:data/syndication.json | sig)"
+          new_sig="$(sig < data/syndication.json)"
+
+          if [ "$old_sig" = "$new_sig" ]; then
+            # Drop the timestamp-only churn so nothing is committed.
+            git checkout -- data/syndication.json
             echo "should_build=false" >> "$GITHUB_OUTPUT"
             echo "::notice title=No syndication changes::Nothing new from Micro.blog; skipping build and deploy."
             exit 0
@@ -61,10 +70,8 @@ jobs:
           echo "should_build=true" >> "$GITHUB_OUTPUT"
 
           # Commit the refreshed file so the next scheduled run compares against
-          # an up-to-date baseline. Without this the gate would fire on every
-          # run once syndication.json drifted from the committed copy.
-          # Pushing with GITHUB_TOKEN does not retrigger this workflow, so the
-          # build and deploy jobs below still run as part of this same run.
+          # an up-to-date baseline. Pushing with GITHUB_TOKEN does not retrigger
+          # this workflow, so build and deploy still run as part of this run.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/syndication.json
