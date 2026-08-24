@@ -11,9 +11,7 @@ url: /it-is-finished-so-get-to-work-an-ascension-sermon/
 atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcc3mdl2i"
 ---
 
-*The following is an "It is Finished" sermon preached on Ascension Sunday, 2017. You can listen to the sermon here:*
-
-{{< audio src="https://joshuapsteele.com/wp-content/uploads/2017/06/05-28-17JS.mp3" >}}
+*The following is an "It is Finished" sermon preached on Ascension Sunday, 2017.*
 
 ## GOODBYES SUCK
 

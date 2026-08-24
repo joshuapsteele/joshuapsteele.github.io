@@ -1,11 +1,14 @@
 {
-  "total_posts": 324,
+  "total_posts": 335,
   "missing_fields": {
     "author": [
       "content/blog/am-i-still-a-priest.md",
       "content/blog/american-freedom-isnt-biblical-freedom.md",
       "content/blog/an-ecclesiastical-pickle-resigning-vs-renouncing-one-s-minis.md",
       "content/blog/cowardice-of-both-sides.md",
+      "content/blog/fathers-day-gift-ideas-2026.md",
+      "content/blog/how-to-lead-a-bible-study.md",
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md",
       "content/blog/i-wish-we-d-had-more-time-for-robin.md",
       "content/blog/ice-minneapolis-response.md",
       "content/blog/myths-and-facts-about-immigrants.md",
@@ -13,22 +16,20 @@
       "content/blog/rededicate-250-a-poem.md",
       "content/blog/romans-13-is-not-a-blank-check-for-cruelty.md",
       "content/blog/whats-gone-wrong-with-american-evangelicalism.md"
-    ],
-    "description": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
     ]
   },
   "field_usage": {
-    "author": 313,
-    "categories": 324,
-    "date": 324,
-    "description": 323,
-    "tags": 324,
-    "title": 324,
-    "url": 324,
-    "draft": 43,
-    "showToc": 26,
-    "TocOpen": 16,
+    "author": 321,
+    "categories": 335,
+    "date": 335,
+    "description": 335,
+    "tags": 335,
+    "title": 335,
+    "url": 335,
+    "atUri": 324,
+    "draft": 49,
+    "showToc": 27,
+    "TocOpen": 17,
     "aliases": 2,
     "layout": 1,
     "redirect_to": 1
@@ -50,6 +51,7 @@
       "content/blog/an-explanation.md",
       "content/blog/ask-me-anything-this-november.md",
       "content/blog/back-in-the-saddle.md",
+      "content/blog/basement-dehumidifier-woes.md",
       "content/blog/bonhoeffer-on-stupidity.md",
       "content/blog/cedarville-2.md",
       "content/blog/cedarville-let-there-be-light-pt-1.md",
@@ -71,6 +73,8 @@
       "content/blog/how-do-you-make-friends.md",
       "content/blog/how-do-you-want-to-be-remembered.md",
       "content/blog/how-to-find-your-lifes-purpose.md",
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md",
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
       "content/blog/i-love-my-kids-but-i-sometimes-regret-having-them.md",
       "content/blog/i-wish-we-d-had-more-time-for-robin.md",
       "content/blog/if-women-can-be-saved-then-women-can-be-priests.md",
@@ -198,6 +202,7 @@
       "content/blog/8-questions-to-ask-while-reading-theology.md",
       "content/blog/a-christmas-homily.md",
       "content/blog/a-crucicentric-credo.md",
+      "content/blog/a-new-battle-hymn.md",
       "content/blog/a-prayer-for-relatives-and-friends.md",
       "content/blog/a-prayer-of-confession.md",
       "content/blog/against-christian-misanthropy.md",
@@ -225,6 +230,7 @@
       "content/blog/dont-stir-the-pot.md",
       "content/blog/down-with-the-pacifists.md",
       "content/blog/faithful-faith-in-a-faithful-god-romans-1-1-17.md",
+      "content/blog/family-ties-what-it-takes-to-have-a-healthy-church.md",
       "content/blog/following-jesus-beyond-the-bandwagon.md",
       "content/blog/frustrated-with-church-join-the-club.md",
       "content/blog/frustrated-with-church-youre-the-problem.md",
@@ -245,6 +251,7 @@
       "content/blog/introduction-to-christian-theology-a-draft-syllabus.md",
       "content/blog/it-is-finished-so-get-to-work-an-ascension-sermon.md",
       "content/blog/jesus-is-not-just-one-of-us.md",
+      "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
       "content/blog/justification-and-sanctification.md",
       "content/blog/king-jesus-kingdom-gospel.md",
       "content/blog/learn-more-about-rublevs-trinity-icon-video.md",
@@ -270,6 +277,7 @@
       "content/blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
       "content/blog/reading-revelation-wrong.md",
       "content/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god.md",
+      "content/blog/rededicate-250-a-poem.md",
       "content/blog/romans-13-is-not-a-blank-check-for-cruelty.md",
       "content/blog/romans-13.md",
       "content/blog/romans-distilled-paraphrased.md",
@@ -286,6 +294,7 @@
       "content/blog/the-bible-is-clear.md",
       "content/blog/the-brokenhearted-god.md",
       "content/blog/the-epistle-to-philemon.md",
+      "content/blog/the-expectationally-challenged-christian.md",
       "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
       "content/blog/the-good-news-of-christmas.md",
       "content/blog/the-grooms-big-day.md",
@@ -303,6 +312,7 @@
       "content/blog/truth-to-power.md",
       "content/blog/two-more-pieces-about-jordan-peterson.md",
       "content/blog/two-of-bonhoeffers-most-convicting-paragraphs.md",
+      "content/blog/unity-when-we-cant-get-along.md",
       "content/blog/unity.md",
       "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
       "content/blog/volf-on-divine-violence.md",
@@ -319,6 +329,7 @@
       "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
       "content/blog/white-noise-bhopal-and-the-hyperreal-fear-of-death.md",
       "content/blog/who-really-cares-about-the-trinity-in-2020.md",
+      "content/blog/who-really-cares-about-the-trinity.md",
       "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md",
       "content/blog/womens-ordination-debates-in-anglicanism-the-2017-acna-report-and-the-2003-amia-report.md",
       "content/blog/you-cant-follow-jesus-and-hate-immigrants.md"
@@ -374,6 +385,7 @@
       "content/blog/software-testing-possibilities-problems-and-principles.md",
       "content/blog/tech-hype-and-the-growing-chasm.md",
       "content/blog/ten-tools-for-embracing-finitude.md",
+      "content/blog/textexpander-archaeology-phd-snippets.md",
       "content/blog/the-four-tendencies-4-ways-you-can-play-to-your-personality-strengths.md",
       "content/blog/they-say-i-say-writing-templates.md",
       "content/blog/this-is-a-fantastic-wooden-pencil-mitsubishi-9850.md",
@@ -429,6 +441,7 @@
       "content/blog/karl-barths-reversal-on-the-knowledge-of-good-and-evil.md",
       "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
       "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
+      "content/blog/textexpander-archaeology-phd-snippets.md",
       "content/blog/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021.md",
       "content/blog/the-phd-plan-or-the-lack-thereof.md",
       "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
@@ -441,14 +454,19 @@
       "content/blog/works-on-barth-and-bonhoeffer.md"
     ],
     "poem": [
+      "content/blog/a-new-battle-hymn.md",
       "content/blog/rededicate-250-a-poem.md",
       "content/blog/the-fate-of-diphtheria.md"
     ],
     "politics": [
+      "content/blog/a-new-battle-hymn.md",
       "content/blog/rededicate-250-a-poem.md"
     ],
-    "Theology": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
+    "diy": [
+      "content/blog/fathers-day-gift-ideas-2026.md"
+    ],
+    "Church": [
+      "content/blog/how-to-lead-a-bible-study.md"
     ]
   },
   "posts_by_tag": {
@@ -591,6 +609,7 @@
     "church": [
       "content/blog/25-possibly-unpopular-opinions-about-church.md",
       "content/blog/acnatoo.md",
+      "content/blog/family-ties-what-it-takes-to-have-a-healthy-church.md",
       "content/blog/frustrated-with-church-join-the-club.md",
       "content/blog/frustrated-with-church-youre-the-problem.md",
       "content/blog/how-to-have-a-theological-argument.md",
@@ -655,10 +674,12 @@
     "sermons": [
       "content/blog/a-christmas-homily.md",
       "content/blog/faithful-faith-in-a-faithful-god-romans-1-1-17.md",
+      "content/blog/family-ties-what-it-takes-to-have-a-healthy-church.md",
       "content/blog/following-jesus-beyond-the-bandwagon.md",
       "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
       "content/blog/it-is-finished-so-get-to-work-an-ascension-sermon.md",
       "content/blog/jesus-is-not-just-one-of-us.md",
+      "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
       "content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md",
       "content/blog/morning-prayer-homily-james-2-1-13.md",
       "content/blog/morning-prayer-homily-mark-1-29-45.md",
@@ -667,12 +688,15 @@
       "content/blog/preparing-the-way-of-the-lord-in-the-wilderness-luke-31-6.md",
       "content/blog/sermon-the-challenge-of-christmas-light.md",
       "content/blog/take-up-your-tongue-and-follow-jesus.md",
+      "content/blog/the-expectationally-challenged-christian.md",
       "content/blog/the-feast-of-st-james-the-apostle-a-homily-for-ministers.md",
       "content/blog/the-grooms-big-day.md",
       "content/blog/the-hope-of-the-holy-innocents.md",
       "content/blog/three-recent-sermons.md",
+      "content/blog/unity-when-we-cant-get-along.md",
       "content/blog/unrighteous-anger-yoda-jonah-nahum-and-us.md",
       "content/blog/who-really-cares-about-the-trinity-in-2020.md",
+      "content/blog/who-really-cares-about-the-trinity.md",
       "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md"
     ],
     "christmas": [
@@ -726,7 +750,8 @@
       "content/blog/what-are-the-most-important-theological-terms-that-every-christian-should-know.md",
       "content/blog/what-are-your-must-own-biblical-and-theological-studies-reference-works.md",
       "content/blog/what-theologians-should-do.md",
-      "content/blog/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology.md"
+      "content/blog/whats-the-relationship-between-biblical-and-systematic-dogmatic-theology.md",
+      "content/blog/who-really-cares-about-the-trinity.md"
     ],
     "atonement": [
       "content/blog/a-crucicentric-credo.md",
@@ -808,6 +833,7 @@
       "content/blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
       "content/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god.md",
       "content/blog/spirit-flesh-restoration-and-sublimation.md",
+      "content/blog/textexpander-archaeology-phd-snippets.md",
       "content/blog/the-guilt-of-karl-barth-strengths-and-weaknesses-of-barths-romerbrief-reading-of-romans-9301021.md",
       "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
       "content/blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md",
@@ -912,6 +938,44 @@
       "content/blog/when-will-thy-kingdom-come-the-timing-and-agency-of-the-kingdom-of-god-in-the-lords-prayer.md",
       "content/blog/works-on-barth-and-bonhoeffer.md"
     ],
+    "hymn": [
+      "content/blog/a-new-battle-hymn.md",
+      "content/blog/o-come-o-come-emmanuel-extra-verses.md"
+    ],
+    "poetry": [
+      "content/blog/a-new-battle-hymn.md",
+      "content/blog/a-valediction.md",
+      "content/blog/mothers-day-poem.md",
+      "content/blog/no-kings.md",
+      "content/blog/o-come-o-come-emmanuel-extra-verses.md",
+      "content/blog/rededicate-250-a-poem.md",
+      "content/blog/roll-the-old-republic-along.md",
+      "content/blog/the-fate-of-diphtheria.md",
+      "content/blog/wedding-vows.md",
+      "content/blog/what-shall-we-do-with-a-would-be-tyrant.md"
+    ],
+    "immigration": [
+      "content/blog/a-new-battle-hymn.md",
+      "content/blog/gods-economy.md",
+      "content/blog/government-kidnap-without-trial.md",
+      "content/blog/ice-minneapolis-response.md",
+      "content/blog/myths-and-facts-about-immigrants.md",
+      "content/blog/romans-13-is-not-a-blank-check-for-cruelty.md",
+      "content/blog/when-romans-13-meets-matthew-25-immigration-ethics.md",
+      "content/blog/you-cant-follow-jesus-and-hate-immigrants.md"
+    ],
+    "poverty": [
+      "content/blog/a-new-battle-hymn.md",
+      "content/blog/christians-and-wealth.md",
+      "content/blog/gods-economy.md",
+      "content/blog/proverbs-topical-study-poverty.md"
+    ],
+    "justice": [
+      "content/blog/a-new-battle-hymn.md",
+      "content/blog/but-what-about-the-riots-and-lawlessness.md",
+      "content/blog/cowardice-of-both-sides.md",
+      "content/blog/rededicate-250-a-poem.md"
+    ],
     "writing": [
       "content/blog/a-ridiculously-helpful-markdown-tutorial.md",
       "content/blog/a-shameless-request-help-me-buy-more-books.md",
@@ -944,16 +1008,6 @@
       "content/blog/heres-the-template-i-use-to-take-notes-on-books-i-read.md",
       "content/blog/prayer-of-st-thomas-aquinas-before-study.md",
       "content/blog/the-underrated-joy-of-fixing-things-yourself.md"
-    ],
-    "poetry": [
-      "content/blog/a-valediction.md",
-      "content/blog/mothers-day-poem.md",
-      "content/blog/no-kings.md",
-      "content/blog/o-come-o-come-emmanuel-extra-verses.md",
-      "content/blog/roll-the-old-republic-along.md",
-      "content/blog/the-fate-of-diphtheria.md",
-      "content/blog/wedding-vows.md",
-      "content/blog/what-shall-we-do-with-a-would-be-tyrant.md"
     ],
     "high-school": [
       "content/blog/a-valediction.md"
@@ -1050,6 +1104,7 @@
       "content/blog/only-the-suffering-god-can-help.md",
       "content/blog/reading-recommendations-barths-bonhoeffers-false-gods.md",
       "content/blog/spirit-flesh-restoration-and-sublimation.md",
+      "content/blog/textexpander-archaeology-phd-snippets.md",
       "content/blog/the-tree-of-religion-karl-barth-and-dietrich-bonhoeffer-on-the-tree-of-knowledge-in-genesis-24-324.md",
       "content/blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md",
       "content/blog/to-be-or-not-to-be-religious-a-clarification-of-karl-barths-and-dietrich-bonhoeffers-divergence-and-convergence-regarding-religion.md",
@@ -1108,11 +1163,24 @@
       "content/blog/barth-on-the-wilderness-temptations-3-the-leap-of-false-faith.md",
       "content/blog/my-sermon-our-help.md"
     ],
+    "home-improvement": [
+      "content/blog/basement-dehumidifier-woes.md",
+      "content/blog/home-improvement-roadmap-and-roadblocks.md",
+      "content/blog/saw-updates.md",
+      "content/blog/vintage-craftsman-table-saw.md"
+    ],
+    "appliances": [
+      "content/blog/basement-dehumidifier-woes.md"
+    ],
+    "right-to-repair": [
+      "content/blog/basement-dehumidifier-woes.md"
+    ],
     "reviews": [
       "content/blog/best-budget-smart-tv.md",
       "content/blog/do-more-better-tim-challies-excellent-little-book-on-personal-productivity-could-change-your-life.md",
       "content/blog/essential-reads-for-new-software-developers-the-effective-engineer-and-the-missing-readme.md",
       "content/blog/help-im-addicted-to-mini-toolkits-the-edc-tool-struggle-is-real.md",
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
       "content/blog/is-the-well-equipped-christian-worth-it.md",
       "content/blog/lets-take-seth-godin-to-church.md",
       "content/blog/the-perfect-translation.md"
@@ -1121,7 +1189,9 @@
       "content/blog/best-budget-smart-tv.md",
       "content/blog/birthday-wishlist-2025.md",
       "content/blog/black-friday-book-recommendation-the-economy-of-desire.md",
+      "content/blog/fathers-day-gift-ideas-2026.md",
       "content/blog/finding-a-hat-for-my-big-bald-head.md",
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
       "content/blog/is-the-well-equipped-christian-worth-it.md",
       "content/blog/most-useful-websites-my-favorite-online-resources.md",
       "content/blog/my-favorite-podcasts.md",
@@ -1145,10 +1215,6 @@
     ],
     "history": [
       "content/blog/bonhoeffer-timeline-a-brief-chronology-of-dietrich-bonhoeffers-life.md"
-    ],
-    "justice": [
-      "content/blog/but-what-about-the-riots-and-lawlessness.md",
-      "content/blog/cowardice-of-both-sides.md"
     ],
     "evangelicalism": [
       "content/blog/cedarville-2.md",
@@ -1179,18 +1245,15 @@
     "discipleship": [
       "content/blog/christian-daily-office-5-things-can-learn-morning-evening-prayer.md",
       "content/blog/christians-and-wealth.md",
+      "content/blog/family-ties-what-it-takes-to-have-a-healthy-church.md",
       "content/blog/following-jesus-beyond-the-bandwagon.md",
       "content/blog/getting-ahead-in-gods-upside-down-kingdom.md",
       "content/blog/give-thanks.md",
       "content/blog/how-to-have-a-theological-argument.md",
       "content/blog/lets-learn-how-to-be-bored-again.md",
       "content/blog/take-up-your-tongue-and-follow-jesus.md",
-      "content/blog/testimony-brief.md"
-    ],
-    "poverty": [
-      "content/blog/christians-and-wealth.md",
-      "content/blog/gods-economy.md",
-      "content/blog/proverbs-topical-study-poverty.md"
+      "content/blog/testimony-brief.md",
+      "content/blog/the-expectationally-challenged-christian.md"
     ],
     "political-theology": [
       "content/blog/church_and_state.md",
@@ -1321,15 +1384,6 @@
     "gtd": [
       "content/blog/getting-back-on-the-getting-things-done-productivity-bandwagon.md"
     ],
-    "immigration": [
-      "content/blog/gods-economy.md",
-      "content/blog/government-kidnap-without-trial.md",
-      "content/blog/ice-minneapolis-response.md",
-      "content/blog/myths-and-facts-about-immigrants.md",
-      "content/blog/romans-13-is-not-a-blank-check-for-cruelty.md",
-      "content/blog/when-romans-13-meets-matthew-25-immigration-ethics.md",
-      "content/blog/you-cant-follow-jesus-and-hate-immigrants.md"
-    ],
     "civil-rights": [
       "content/blog/government-kidnap-without-trial.md"
     ],
@@ -1345,6 +1399,7 @@
     "fitness": [
       "content/blog/hate-running-try-rucking-instead.md",
       "content/blog/help-me-achieve-my-home-gym-dream.md",
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
       "content/blog/kettlebell-swings-back-balm-for-the-sedentary-seminarian.md",
       "content/blog/my-soccer-kit.md",
       "content/blog/stickking-to-the-slow-carb-diet.md"
@@ -1363,12 +1418,8 @@
     ],
     "trinity": [
       "content/blog/holy-trinity.md",
-      "content/blog/learn-more-about-rublevs-trinity-icon-video.md"
-    ],
-    "home-improvement": [
-      "content/blog/home-improvement-roadmap-and-roadblocks.md",
-      "content/blog/saw-updates.md",
-      "content/blog/vintage-craftsman-table-saw.md"
+      "content/blog/learn-more-about-rublevs-trinity-icon-video.md",
+      "content/blog/who-really-cares-about-the-trinity.md"
     ],
     "friendship": [
       "content/blog/how-do-you-make-friends.md",
@@ -1408,6 +1459,38 @@
     "conflict": [
       "content/blog/how-to-have-a-theological-argument.md"
     ],
+    "bible study": [
+      "content/blog/how-to-lead-a-bible-study.md"
+    ],
+    "small groups": [
+      "content/blog/how-to-lead-a-bible-study.md"
+    ],
+    "James": [
+      "content/blog/how-to-lead-a-bible-study.md"
+    ],
+    "practical": [
+      "content/blog/how-to-lead-a-bible-study.md"
+    ],
+    "health": [
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md"
+    ],
+    "medical": [
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md"
+    ],
+    "anxiety": [
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md"
+    ],
+    "tips": [
+      "content/blog/how-to-not-pass-out-or-faint-when-getting-your-blood-drawn.md"
+    ],
+    "soccer": [
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
+      "content/blog/my-soccer-kit.md"
+    ],
+    "sports": [
+      "content/blog/i-finally-found-wide-soccer-cleats.md",
+      "content/blog/my-soccer-kit.md"
+    ],
     "grief": [
       "content/blog/i-wish-we-d-had-more-time-for-robin.md",
       "content/blog/my-uncle-timothy-steele.md",
@@ -1436,6 +1519,14 @@
     "social-media": [
       "content/blog/its-time-for-another-social-media-fast.md",
       "content/blog/lets-learn-how-to-be-bored-again.md"
+    ],
+    "advent": [
+      "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
+      "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md"
+    ],
+    "isaiah": [
+      "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
+      "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md"
     ],
     "opinion": [
       "content/blog/josh-on-the-use-of-the-sign-of-the-cross-plus-sign-in-clergy-signatures.md"
@@ -1483,15 +1574,6 @@
     ],
     "podcasts": [
       "content/blog/my-favorite-podcasts.md"
-    ],
-    "sports": [
-      "content/blog/my-soccer-kit.md"
-    ],
-    "soccer": [
-      "content/blog/my-soccer-kit.md"
-    ],
-    "hymn": [
-      "content/blog/o-come-o-come-emmanuel-extra-verses.md"
     ],
     "music": [
       "content/blog/pentecost-songs-and-scripture.md",
@@ -1559,21 +1641,12 @@
     "quote": [
       "content/blog/tech-hype-and-the-growing-chasm.md"
     ],
-    "Dietrich Bonhoeffer": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
-    ],
-    "Karl Barth": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
-    ],
-    "dissertation": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
-    ],
-    "productivity": [
-      "content/blog/textexpander-archaeology-phd-snippets.md"
-    ],
     "social-justice": [
       "content/blog/the-bible-is-clear.md",
       "content/blog/why-is-the-word-systemic-a-flashpoint-for-certain-christians.md"
+    ],
+    "hope": [
+      "content/blog/the-expectationally-challenged-christian.md"
     ],
     "satire": [
       "content/blog/the-fate-of-diphtheria.md"
@@ -1597,11 +1670,11 @@
       "content/blog/two-more-pieces-about-jordan-peterson.md",
       "content/blog/what-to-make-of-jordan-peterson-some-takes-then-my-own.md"
     ],
-    "advent": [
-      "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md"
+    "unity": [
+      "content/blog/unity-when-we-cant-get-along.md"
     ],
-    "isaiah": [
-      "content/blog/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020.md"
+    "john": [
+      "content/blog/unity-when-we-cant-get-along.md"
     ],
     "refugees": [
       "content/blog/you-cant-follow-jesus-and-hate-immigrants.md"
@@ -1609,14 +1682,13 @@
   },
   "posts_without_categories": [],
   "posts_without_tags": [],
-  "posts_without_description": [
-    "content/blog/textexpander-archaeology-phd-snippets.md"
-  ],
+  "posts_without_description": [],
   "posts_without_url": [],
   "date_issues": [],
   "all_categories": [
-    "Theology",
+    "Church",
     "dissertation",
+    "diy",
     "ethics",
     "ministry",
     "personal",
@@ -1627,19 +1699,21 @@
   ],
   "all_tags": [
     "80-20",
-    "Dietrich Bonhoeffer",
-    "Karl Barth",
+    "James",
     "abuse",
     "acna",
     "advent",
     "ai",
     "anglican",
     "anglican-compass",
+    "anxiety",
+    "appliances",
     "atonement",
     "authoritarianism",
     "authorization",
     "barth",
     "bible",
+    "bible study",
     "bible-study",
     "biography",
     "bonhoeffer",
@@ -1672,7 +1746,6 @@
     "democracy",
     "discipleship",
     "dispensationalism",
-    "dissertation",
     "diy",
     "drafts",
     "due-process",
@@ -1693,12 +1766,14 @@
     "grief",
     "gtd",
     "habeas-corpus",
+    "health",
     "hell",
     "high-school",
     "history",
     "holy-week",
     "home-gym",
     "home-improvement",
+    "hope",
     "how-to-think",
     "hugo",
     "humanism",
@@ -1711,6 +1786,7 @@
     "isaiah",
     "isolation",
     "jenson",
+    "john",
     "jordan-peterson",
     "juneteenth",
     "justice",
@@ -1728,6 +1804,7 @@
     "loneliness",
     "matthew-25",
     "mcp",
+    "medical",
     "mental-health",
     "ministry",
     "misanthropy",
@@ -1744,8 +1821,8 @@
     "political-theology",
     "politics",
     "poverty",
+    "practical",
     "prayer",
-    "productivity",
     "programming",
     "prophetic-witness",
     "protest",
@@ -1768,6 +1845,7 @@
     "resurrection",
     "revelation",
     "reviews",
+    "right-to-repair",
     "romans",
     "romans-13",
     "safety",
@@ -1777,6 +1855,7 @@
     "seminary",
     "sermon-on-the-mount",
     "sermons",
+    "small groups",
     "soccer",
     "social-justice",
     "social-media",
@@ -1788,11 +1867,13 @@
     "technology",
     "testing",
     "theology",
+    "tips",
     "tools",
     "travel",
     "trinity",
     "tyranny",
     "umberto-eco",
+    "unity",
     "universalism",
     "weightlifting",
     "womens-ordination",
@@ -1811,6 +1892,7 @@
     "joshuapsteele"
   ],
   "draft_posts": [
+    "content/blog/how-to-lead-a-bible-study.md",
     "content/blog/the-underrated-joy-of-fixing-things-yourself.md"
   ],
   "posts_with_aliases": [

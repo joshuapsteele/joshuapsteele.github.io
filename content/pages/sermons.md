@@ -17,7 +17,7 @@ url: /sermons
 
 ## [Why Haven't You Torn the Sky Open Yet?](/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/)
 
-{{< audio src="/wp-content/uploads/2020/12/Sermon112820.mp3" >}}
+READ: [Why Haven’t You Torn the Sky Open Yet? Sermon Manuscript](/why-havent-you-torn-the-sky-open-yet-sermon-first-sunday-of-advent-2020/)
 
 Isaiah 64. November 28, 2020 (First Sunday of Advent). Preached at Church of the Savior in Wheaton, IL (via Zoom).
 
@@ -25,31 +25,31 @@ Isaiah 64. November 28, 2020 (First Sunday of Advent). Preached at Church of the
 
 Matthew 28:16-20. June 6, 2020. Preached at Church of the Savior in Wheaton, IL (via Zoom).
 
-{{< audio src="/wp-content/uploads/2020/07/Sermon060620.mp3" >}}
+READ: [Who Really Cares about the Trinity? Transcript](/who-really-cares-about-the-trinity/)
 
 ## [Family Ties (What It Takes to Have a Healthy Church)](https://friendsofthesavior.org/sermons/what-it-takes-to-have-a-healthy-church-family-ties-joshua-steele)
 
 1 Timothy 5:1-16. September 14, 2019. Preached at Church of the Savior in Wheaton, IL.
 
-{{< audio src="/wp-content/uploads/2019/11/sermon-09-14-19.mp3" >}}
+READ: [Family Ties Transcript](/family-ties-what-it-takes-to-have-a-healthy-church/)
 
 ## [Unity When We Can't Get Along](https://friendsofthesavior.org/sermons/unity-when-we-cant-get-along-josh-steele)
 
 John 17:20-26. June 1, 2019. Preached at Church of the Savior in Wheaton, IL.
 
-{{< audio src="/wp-content/uploads/2019/11/sermon-06-01-19.mp3" >}}
+READ: [Unity When We Can’t Get Along Transcript](/unity-when-we-cant-get-along/)
 
 ## [John the Baptist Fulfills the Words of Isaiah](https://friendsofthesavior.org/sermons/john-the-baptist-fulfills-the-words-of-isaiah-josh-steele)
 
 Luke 3:1-6. December 8, 2018. Preached at Church of the Savior in Wheaton, IL.
 
-{{< audio src="/wp-content/uploads/2019/11/sermon-12-08-18.mp3" >}}
+READ: [John the Baptist Fulfills the Words of Isaiah Transcript](/john-the-baptist-fulfills-the-words-of-isaiah/)
 
 ## [The Expectationally-Challenged Christian](https://friendsofthesavior.org/sermons/the-expectationally-challenged-christian-josh-steele)
 
 January 20, 2018. Preached at Church of the Savior in Wheaton, IL.
 
-{{< audio src="/wp-content/uploads/2019/11/STE-016.mp3" >}}
+READ: [The Expectationally-Challenged Christian Transcript](/the-expectationally-challenged-christian/)
 
 * * *
 
