@@ -33,7 +33,7 @@ The obvious caveat: I can't promise this holds forever, or for every size and co
 
 ## What Didn't Work: New Balance 442 Pro TF v3
 
-I've had good luck with New Balance shoes in 2E in the past, so I expected them to be the easy answer here. I ordered the [New Balance 442 Pro TF v3](https://www.amazon.com/dp/B0F4M6STYT?th=1&psc=1&linkCode=ll2&tag=joshuapsteele-20&linkId=f305701ab80553e5ee8fe2021bcd4e77&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl) in 11.5, 12, and 12.5 to find the right fit.
+I've had good luck with New Balance shoes in 2E in the past, so I expected them to be the easy answer here. I ordered the [New Balance 442 Pro TF v3](https://amzn.to/4wFuolv) in 11.5, 12, and 12.5 to find the right fit.
 
 None of them worked. As plenty of reviews have noted, these are not wide shoes. Every size was too narrow across the forefoot, and going up a full size just gave me a long, narrow shoe.
 
