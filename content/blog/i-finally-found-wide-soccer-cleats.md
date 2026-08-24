@@ -1,15 +1,50 @@
 ---
 title: "I Finally Found Wide Soccer Cleats"
 date: 2026-08-24T19:40:11Z
-draft: true
-tags: []
-categories: []
+draft: false
+author: joshuapsteele
+description: "After striking out with New Balance and settling for a size-up Puma, I found turf shoes that actually fit my 11.5 2E feet: the Asics DS Light Club TF."
+tags: [soccer, sports, fitness, recommendations, reviews]
+categories: [personal]
 url: /i-finally-found-wide-soccer-cleats/
 ---
 
-- I've long been on the hunt for soccer cleats that would comfortably fit my 11.5 Wide (2E) feet.
-- Specifically, because I mainly play indoor soccer these days, and have been dealing with some peroneal tendonitis foot pain after playing some outdoor soccer in very cheap cleats, I've been looking for turf shoes.
-- I've been wearing Puma Attacanto turf shoes (Amazon affiliate link: https://www.amazon.com/PUMA-ATTACANTO-Trainer-Soccer-Sneaker/dp/B0DQ8RJ7BF?crid=3AKW8YL857RZ0&dib=eyJ2IjoiMSJ9.0TiSzovLQVBLqZnh7Bk6M1fRpkjc5HDf8O767jebWBv0NTY4lms517jWgrGlowp3icr5BFVlDYLg73vgoiCmkP1CJdN4FsbtVGSfyCraixFNoACFHOW1--uN3MtuPW1gVGQetHms6mmjTGOaZth01t_SfO1DtRpYsVje5bST_PSzAf1G1iZsN_ISW8roNLq_D7ZoQo72GJ-9dx2p2gZamJ02ENG-7JQKDK6IO6h3KYtLi0fHnNrAV3Ri6Qkt_p4fZq8ZYRplD7NLiGpVgLKIbbyTAUTC2BHsq8kIouvjmKQ.dvR-yv0dV5tqIGmeOi-8XSqTYVFNz1gE7_0usXNVhWE&dib_tag=se&keywords=puma%2Battacanto%2Bturf%2Bshoes&qid=1787600216&sprefix=puma%2Battacanto%2Bturf%2Bshoe%2Caps%2C151&sr=8-1&th=1&psc=1&linkCode=ll2&tag=joshuapsteele-20&linkId=2b80aee6bdf20db3868bf1b9e91c24c0&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl) in size 12 to fit the width of my feet, and these have worked reasonably well, especially for the price. But I wanted something a bit wider and with a bit more support.
-- These turf shoes are the best I've found: Asics DS LIGHT CLUB TF, size 11.5: https://www.asics.com/us/en-us/ds-light-club-tf/p/ANA_1103A123-001.html?size=11.5
-- NOTE: Asics also has a DS LIGHT CLUB TF WIDE with very limited size availability: https://www.asics.com/us/en-us/ds-light-club-tf-wide/p/ANA_1103A112-001.html. At first, I thought I was out of luck, before realizing that the Asics Japan website lists the same item/style number as "Wide": https://www.asics.com/jp/ja-jp/ds-light-club-tf-wide/p/1103A123-001.html?size=29. I took a chance and the turf shoes that arrived are labeled as "Wide"!
-- NOTE: Because I've had good luck with New Balance shoes in 2E width in the past, I decided to give the New Balance Unisex Adult 442 Pro Tf V3 turf shoes (https://www.amazon.com/dp/B0F4M6STYT?th=1&psc=1&linkCode=ll2&tag=joshuapsteele-20&linkId=f305701ab80553e5ee8fe2021bcd4e77&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl) a try in 11.5, 12, and 12.5. But, as many reviews have noted, these are NOT wide shoes. All of those were too narrow for my feet. I legitimately don't understand why New Balance hasn't fixed this issue, since they so reliably have other shoes in legitimately wide widths!
+I've been hunting for soccer shoes that comfortably fit my 11.5 Wide (2E) feet for a long time. Soccer cleats run narrow by default, and most brands treat "wide" as an afterthought, if they offer it at all.
+
+My requirements are a little specific. I mostly play indoor soccer these days, so I need turf shoes rather than firm-ground cleats. I also picked up some peroneal tendonitis after playing outdoor soccer in very cheap cleats, which made "supportive enough that my foot doesn't hurt afterward" a real criterion rather than a nice-to-have.
+
+## What I'd Been Wearing
+
+Until recently, I played in [Puma Attacanto turf shoes](https://amzn.to/48rxZux) in a size 12, sized up half a size purely to buy some extra width. That's the classic wide-foot compromise: you accept a shoe that's too long so it's less painfully narrow.
+
+Honestly, they worked reasonably well, especially for the price. But sizing up isn't the same as a shoe that actually fits, and I wanted something genuinely wider with a bit more support.
+
+## The Winner: Asics DS Light Club TF
+
+The best turf shoes I've found are the [Asics DS Light Club TF](https://www.asics.com/us/en-us/ds-light-club-tf/p/ANA_1103A123-001.html?size=11.5) in size 11.5.
+
+Here's the part that took me a while to figure out. Asics does sell a [DS Light Club TF Wide](https://www.asics.com/us/en-us/ds-light-club-tf-wide/p/ANA_1103A112-001.html) in the US, but the size availability is very limited, and I couldn't get the size I needed. I assumed I was out of luck.
+
+Then I noticed something odd. The Asics Japan site lists [style number 1103A123-001](https://www.asics.com/jp/ja-jp/ds-light-club-tf-wide/p/1103A123-001.html?size=29) as the *wide* version. That's the same style number the US site sells as the regular DS Light Club TF. In other words, the shoe the US site calls "standard" appears to be the same product Japan calls "wide."
+
+I took a chance and ordered them. The turf shoes that arrived are labeled **Wide**, and they fit my feet better than anything else I've tried.
+
+The obvious caveat: I can't promise this holds forever, or for every size and colorway. Asics could change the model, and stock varies. But if you have wide feet and the US "Wide" listing has nothing in your size, it's worth cross-checking the style number against the Japanese site before you give up.
+
+## What Didn't Work: New Balance 442 Pro TF v3
+
+I've had good luck with New Balance shoes in 2E in the past, so I expected them to be the easy answer here. I ordered the [New Balance 442 Pro TF v3](https://www.amazon.com/dp/B0F4M6STYT?th=1&psc=1&linkCode=ll2&tag=joshuapsteele-20&linkId=f305701ab80553e5ee8fe2021bcd4e77&language=en_US&gaOptInStatus=true&ref_=as_li_ss_tl) in 11.5, 12, and 12.5 to find the right fit.
+
+None of them worked. As plenty of reviews have noted, these are not wide shoes. Every size was too narrow across the forefoot, and going up a full size just gave me a long, narrow shoe.
+
+I genuinely don't understand this one. New Balance is one of the most reliable brands out there for actual 2E and 4E widths in running and walking shoes. Their soccer line doesn't reflect that at all. To be fair, soccer shoes are supposed to fit snugly, and a narrow last is partly a performance choice rather than an oversight. But there's a difference between "snug" and "there is no wide option for a brand built on wide options."
+
+## The Short Version
+
+If you have wide feet and play on turf:
+
+- **Asics DS Light Club TF** is the one I'd recommend first. Check the Japanese site's style number if the US Wide listing is out of your size.
+- **Puma Attacanto** is a decent budget option if you size up, though you're trading length for width.
+- **New Balance 442 Pro TF v3** is not wide, no matter what your experience with New Balance running shoes suggests.
+
+If you've found other genuinely wide soccer shoes, I'd love to hear about them. You can see the rest of what I play in over on [my soccer kit](/my-soccer-kit/).
