@@ -39,6 +39,14 @@ None of them worked. As plenty of reviews have noted, these are not wide shoes. 
 
 I genuinely don't understand this one. New Balance is one of the most reliable brands out there for actual 2E and 4E widths in running and walking shoes. Their soccer line doesn't reflect that at all. To be fair, soccer shoes are supposed to fit snugly, and a narrow last is partly a performance choice rather than an oversight. But there's a difference between "snug" and "there is no wide option for a brand built on wide options."
 
+## The Insoles That Made a Difference
+
+Finding the right shoe was only half of it. I've also started wearing [CURREX CLEATPRO insoles](https://amzn.to/4zvVNsN) to help with the peroneal tendonitis, and they've made a noticeable difference in comfort and support.
+
+I have high arches, so I went with the **High Profile** version in XL. CURREX also makes Medium and Low Profile versions, so there's an option for pretty much any foot type. Pick based on your arch, not just your shoe size.
+
+The thing I was worried about was bulk. Soccer shoes don't have much room to spare, and a thick insole can easily ruin the fit of a shoe you just spent months tracking down. These are thin enough to drop into my cleats without getting in the way, which is exactly what I needed.
+
 ## The Short Version
 
 If you have wide feet and play on turf:
@@ -46,5 +54,6 @@ If you have wide feet and play on turf:
 - **Asics DS Light Club TF** is the one I'd recommend first. Check the Japanese site's style number if the US Wide listing is out of your size.
 - **Puma Attacanto** is a decent budget option if you size up, though you're trading length for width.
 - **New Balance 442 Pro TF v3** is not wide, no matter what your experience with New Balance running shoes suggests.
+- **CURREX CLEATPRO insoles** are worth adding regardless of which shoe you land on, especially if you're dealing with foot pain. Match the profile (High, Medium, or Low) to your arch.
 
 If you've found other genuinely wide soccer shoes, I'd love to hear about them. You can see the rest of what I play in over on [my soccer kit](/my-soccer-kit/).

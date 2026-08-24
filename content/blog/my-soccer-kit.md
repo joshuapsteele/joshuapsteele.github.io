@@ -31,6 +31,7 @@ First, I have to call out the ["John Terry Treadmill Workout"](https://www.thick
 - [Adidas Samba Indoor Soccer Shoes](https://amzn.to/4r5UGfc) (These are what I wear on the way to the game and when kicking around a soccer ball in my backyard)
 - [Asics DS Light Club TF](https://www.asics.com/us/en-us/ds-light-club-tf/p/ANA_1103A123-001.html?size=11.5) (These are what I now wear for our indoor soccer games on turf. I have wide 2E feet, and these are the first turf shoes that have actually fit me properly. See [I Finally Found Wide Soccer Cleats](/i-finally-found-wide-soccer-cleats/) for the whole saga, including the Asics style-number quirk that made them findable.)
 - [Puma Attacanto Turf Shoes](https://amzn.to/48rxZux) (What I wore on turf before the Asics, and still a fantastic option for the price. If you don't need a wide fit, these are hard to beat for the money.)
+- [CURREX CLEATPRO Insoles](https://amzn.to/4zvVNsN) (I wear these in my turf shoes to help with peroneal tendonitis. I have high arches, so I use the High Profile version in XL, but they also make Medium and Low Profile options for other foot types. They're thin enough to fit in cleats without getting in the way, and they make a noticeable difference in comfort and support.)
 - [Mitre ULTIMATCH Soccer Ball](https://amzn.to/48cO2eI)
 - [ETENWOLF P300 Plus Ball Pump](https://amzn.to/49yI89T)
 - [Adidas Defender 5.0 Duffel Bag](https://amzn.to/4oTQJbV)
