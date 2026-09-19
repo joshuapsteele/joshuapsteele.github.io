@@ -27,33 +27,6 @@
       "published": "2026-08-24T19:40:11+00:00",
       "threads": "https://www.threads.com/@joshuapsteele/post/Dcb59XAGx9N"
     },
-    "/notes/2026-08-10-1828/": {
-      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6aqaz3n2o",
-      "canonical": "https://joshuapsteele.com/notes/2026-08-10-1828/",
-      "links": [
-        {
-          "service": "microblog",
-          "url": "https://micro.blog/joshuapsteele/95543893"
-        },
-        {
-          "service": "mastodon",
-          "url": "https://mastodon.social/@joshuapsteele/117073620278484054"
-        },
-        {
-          "service": "bluesky",
-          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6aqaz3n2o"
-        },
-        {
-          "service": "threads",
-          "url": "https://www.threads.com/@joshuapsteele/post/Db4HCXhG9MI"
-        }
-      ],
-      "mastodon": "https://mastodon.social/@joshuapsteele/117073620278484054",
-      "microblog": "https://micro.blog/joshuapsteele/95543893",
-      "microblog_id": "95543893",
-      "published": "2026-08-10T22:28:58+00:00",
-      "threads": "https://www.threads.com/@joshuapsteele/post/Db4HCXhG9MI"
-    },
     "/notes/2026-08-10-1830/": {
       "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6ap46of2m",
       "canonical": "https://joshuapsteele.com/notes/2026-08-10-1830/",
@@ -137,33 +110,6 @@
       "published": "2026-08-24T19:40:11+00:00",
       "threads": "https://www.threads.com/@joshuapsteele/post/Dcb59XAGx9N"
     },
-    "https://joshuapsteele.com/notes/2026-08-10-1828/": {
-      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6aqaz3n2o",
-      "canonical": "https://joshuapsteele.com/notes/2026-08-10-1828/",
-      "links": [
-        {
-          "service": "microblog",
-          "url": "https://micro.blog/joshuapsteele/95543893"
-        },
-        {
-          "service": "mastodon",
-          "url": "https://mastodon.social/@joshuapsteele/117073620278484054"
-        },
-        {
-          "service": "bluesky",
-          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6aqaz3n2o"
-        },
-        {
-          "service": "threads",
-          "url": "https://www.threads.com/@joshuapsteele/post/Db4HCXhG9MI"
-        }
-      ],
-      "mastodon": "https://mastodon.social/@joshuapsteele/117073620278484054",
-      "microblog": "https://micro.blog/joshuapsteele/95543893",
-      "microblog_id": "95543893",
-      "published": "2026-08-10T22:28:58+00:00",
-      "threads": "https://www.threads.com/@joshuapsteele/post/Db4HCXhG9MI"
-    },
     "https://joshuapsteele.com/notes/2026-08-10-1830/": {
       "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3msr6ap46of2m",
       "canonical": "https://joshuapsteele.com/notes/2026-08-10-1830/",
@@ -219,7 +165,7 @@
       "threads": "https://www.threads.com/@joshuapsteele/post/Dcqs-AllLMA"
     }
   },
-  "count": 4,
-  "generated": "2026-09-10T18:25:24.587597+00:00",
+  "count": 3,
+  "generated": "2026-09-19T10:54:26.467410+00:00",
   "source": "https://micro.blog/posts/joshuapsteele"
 }
