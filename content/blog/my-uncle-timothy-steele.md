@@ -1,26 +1,38 @@
 ---
 author: joshuapsteele
-categories: personal
-date: '2015-04-24T09:15:26Z'
+categories:
+  - personal
+  - theology
+date: '2014-10-12T12:00:00Z'
 description: "Remembering my Uncle Timothy Steele: his laughter, love, faith, and the Christian hope that rages against death."
 title: My Uncle, Timothy Steele
 tags:
   - death
   - grief
   - family
-url: /20150424my-uncle-timothy-steele/
+  - hope
+  - resurrection
+url: /my-uncle-timothy-steele/
+aliases:
+  - /20150424my-uncle-timothy-steele/
+cover:
+  image: /wp-content/uploads/2015/10/image.png
+  alt: Timothy Steele
+  hidden: true
 atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgt3ec23"
 ---
+
+*Republished in October 2026, twelve years after Uncle Tim died. You can read [his obituary here](https://www.freckchapel.com/obituaries/timothy-steele).*
 
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)
 
 ---
 
-> “It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart. Sorrow is better than laughter, because sober reflection is good for the heart.” (Ecclesiastes 7:2-3)
+> “It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart. Sorrow is better than laughter, because sober reflection is good for the heart.” (Ecclesiastes 7:2–3)
 
 ---
 
-[![Image](/wp-content/uploads/2015/10/image.png)](/wp-content/uploads/2015/10/image.png)
+![Timothy Steele](/wp-content/uploads/2015/10/image.png)
 
 ## Timothy Steele
 
@@ -44,31 +56,31 @@ Here’s why I find that story encouraging in the midst of pain: **You don’t m
 
 If you ever met my Uncle Tim, you know of his gracious love toward every single person he met. These past few days have been filled with stories about this man who was a force of nature, always ready to extend his gregarious love toward even, if not especially, “discarded and used-up people,” as my cousin Whitney put it. And as my Uncle John put it, “***Tim loved you like Jesus does.***”
 
-I was struck by viewing those loving, gracious memories of my Uncle Tim in light of the relationship revealed to me in that serious conversation in the garage. That is, to realize that my Uncle Tim was such a uniquely loving person, not just because he thought it was a good idea or because he just had so much love on his own, but because of the love he had received from Christ. To realize that <u>the intense love which characterized every personal encounter with my Uncle flowed from the intense love he had first and continually experienced in his personal encounter with the crucified-and-risen Jesus Christ</u>.
+I was struck by viewing those loving, gracious memories of my Uncle Tim in light of the relationship revealed to me in that serious conversation in the garage. That is, to realize that my Uncle Tim was such a uniquely loving person, not just because he thought it was a good idea or because he just had so much love on his own, but because of the love he had received from Christ. To realize that *the intense love which characterized every personal encounter with my uncle flowed from the intense love he had first and continually experienced in his personal encounter with the crucified-and-risen Jesus Christ*.
 
 Unlike many, my Uncle Tim understood that the Gospel of Christ doesn’t just make a difference in the “afterlife,” but that it makes a difference in the here-and-now! That ***if knowing Christ makes no difference in how you treat the flesh-and-blood people around you who are made in God’s image, then you probably don’t know Christ***. The eternal life spoken of in the Gospel doesn’t begin the day you die, it began the day Christ died and rose from the grave.
 
 I often worry that Christian pronouncements about the good news of Jesus Christ strike others as hollow, fake, and escapist – especially in the context of a funeral. How can trite truisms about Jesus be relevant in the midst of so much pain?
 
-But my Uncle Tim’s life on earth, painful ending and all, was not a trite truism. You know if you knew Timothy Steele. He demonstrated what ***faith*** looks like — that it has to do with more than just thinking the right things, more than just following a list of rules — it has to do with <u>a faithful relationship to a PERSON, a relationship which then changes the way you treat PEOPLE</u>.
+But my Uncle Tim’s life on earth, painful ending and all, was not a trite truism. You know if you knew Timothy Steele. He demonstrated what ***faith*** looks like – that it has to do with more than just thinking the right things, more than just following a list of rules – it has to do with *a faithful relationship to a PERSON, a relationship which then changes the way you treat PEOPLE*.
 
 ---
 
 ## Conclude and Reflect
 
-I write this reflection mid-air, on my way back to Alabama. I wish that I had gotten to see my family members in a house of merrymaking, but it was a house of mourning instead.As we remembered the life of the man who could make you laugh so hard you cried, there was a lot of laughter and a lot of tears in the Steele family this weekend. There was riotous applause at the funeral at one point, but I know there’s still a whole lot of sadness and pain.
+I write this reflection mid-air, on my way back to Alabama. I wish that I had gotten to see my family members in a house of merrymaking, but it was a house of mourning instead. As we remembered the life of the man who could make you laugh so hard you cried, there was a lot of laughter and a lot of tears in the Steele family this weekend. There was riotous applause at the funeral at one point, but I know there’s still a whole lot of sadness and pain.
 
-If you’re reading this and you, like me, are privileged to have known Timothy Steele, would you reflect on the connection between the love this man showed to all and the love of Christ which he had first received? When you seek hope in the midst of your reasonable sorrow, and you spend time dwelling on happy memories of the man, would you consider that the source of all that gracious love wasn’t a general sense, it wasn’t an impersonal force…<u>it was my Uncle Tim’s encounter and relationship with a person</u>.
+If you’re reading this and you, like me, are privileged to have known Timothy Steele, would you reflect on the connection between the love this man showed to all and the love of Christ which he had first received? When you seek hope in the midst of your reasonable sorrow, and you spend time dwelling on happy memories of the man, would you consider that the source of all that gracious love wasn’t a general sense, it wasn’t an impersonal force…*it was my Uncle Tim’s encounter and relationship with a person*.
 
-And if you’re reading this and your pain feels too great for all this Jesus talk at the moment, if, like me, you experienced a big dose of anger at the side of Tim’s casket this weekend…that God would allow this life to end so soon…that this world is still broken and infected by Death, would you please join me in clinging to the hope that <u>God hates death even more than we do</u>?
+And if you’re reading this and your pain feels too great for all this Jesus talk at the moment, if, like me, you experienced a big dose of anger at the side of Tim’s casket this weekend…that God would allow this life to end so soon…that this world is still broken and infected by Death, would you please join me in clinging to the hope that *God hates death even more than we do*?
 
 Sometimes it doesn’t feel like it, but seriously, he does. For all the hopeful Christian talk at funerals, we can never forget that Death *sucks*.
 
-No, that’s not strong enough. ***Death is fucking horrible***. And I hope you agree that I say that out of concern for accuracy, and not merely vulgarity.Death’s final defeat has been declared at the empty tomb of Jesus Christ, butdammit, we’re still waiting for the final removal of Death’s presence from this world. It’s not our annoying, normal friend. It’s our alien enemy. And I don’t know about you, but when Death strikes close to my door, when it hits the ones I love, I want to **rage** against it with all I have.
+No, that’s not strong enough. ***Death is fucking horrible***. And I hope you agree that I say that out of concern for accuracy, and not merely vulgarity. Death’s final defeat has been declared at the empty tomb of Jesus Christ, but dammit, we’re still waiting for the final removal of Death’s presence from this world. It’s not our annoying, normal friend. It’s our alien enemy. And I don’t know about you, but when Death strikes close to my door, when it hits the ones I love, I want to **rage** against it with all I have.
 
 **God rages against Death. He dove headfirst into the depths of this world, into the realm of the discarded and the used-up, the dead and the dying. He himself dove into the very grave, that he might emerge from it victorious. That he might lay Death itself in its cold grave, that he might silence the bastard enemy of the children of God.**
 
-I don’t just follow Jesus to get into heaven someday when I die. I follow him because he hates Death more than I do, because in an important sense he is more heartbroken than I am over the death of my Uncle and the sorrow of the family members he left behind. And because, amazingly enough, he invites me and his people — he invites YOU — to join him in the mission of eternal life, to join him in the process of putting Death to death in our daily lives, in the world around us.
+I don’t just follow Jesus to get into heaven someday when I die. I follow him because he hates Death more than I do, because in an important sense he is more heartbroken than I am over the death of my uncle and the sorrow of the family members he left behind. And because, amazingly enough, he invites me and his people – he invites YOU – to join him in the mission of eternal life, to join him in the process of putting Death to death in our daily lives, in the world around us.
 
 And, following the words of my beloved Uncle Tim, ***that’s beautiful***.
 

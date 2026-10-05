@@ -39,7 +39,7 @@ And yet, plot slowly invades. In Gladney’s own words: “All plots tend to mov
 
 Out of the static emerges one of the novel’s central themes: the fear of death.
 
-(Note: I have written elsewhere about death. See “[Son of Man, Can Your Bones Live?](/son-of-man-can-your-bones-live/)” and “[My Uncle, Timothy Steele](/20150424my-uncle-timothy-steele/).”)
+(Note: I have written elsewhere about death. See “[Son of Man, Can Your Bones Live?](/son-of-man-can-your-bones-live/)” and “[My Uncle, Timothy Steele](/my-uncle-timothy-steele/).”)
 
 According to Albert Mobilio, *White Noise* explores “the narcissist’s inevitable trap: a preoccupation with dying.”\[6\] And DeLillo explores this theme masterfully.
 
