@@ -2,7 +2,10 @@
 title: "I Wish We'd Had More Time (For Robin)"
 date: 2026-03-21T16:30:00Z
 draft: false
-tags: ["death", "grief", "family"]
+tags:
+  - death
+  - grief
+  - family
 categories: ["personal"]
 description: "A lament for cousin Robin Steele after his sudden death, reflecting on grief, senseless evil, and Christian hope."
 url: /i-wish-we-had-more-time-for-robin/

@@ -22,7 +22,7 @@ cover:
 atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcgt3ec23"
 ---
 
-*Republished in October 2026, twelve years after Uncle Tim died. You can read [his obituary here](https://www.freckchapel.com/obituaries/timothy-steele).*
+*Re-shared in October 2026, twelve years after Uncle Tim died. You can read [his obituary here](https://www.freckchapel.com/obituaries/timothy-steele).*
 
 (This post is about my late uncle, Timothy Steele. It’s long, and I swear toward the end. Sorry.)
 
