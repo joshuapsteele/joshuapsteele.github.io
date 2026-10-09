@@ -1,63 +1,7 @@
 {
-  "by_path": {
-    "/notes/2026-08-30-0952/": {
-      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3muclbf7xhp2n",
-      "canonical": "https://joshuapsteele.com/notes/2026-08-30-0952/",
-      "links": [
-        {
-          "service": "microblog",
-          "url": "https://micro.blog/joshuapsteele/96657455"
-        },
-        {
-          "service": "mastodon",
-          "url": "https://mastodon.social/@joshuapsteele/117184874692924853"
-        },
-        {
-          "service": "bluesky",
-          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3muclbf7xhp2n"
-        },
-        {
-          "service": "threads",
-          "url": "https://www.threads.com/@joshuapsteele/post/Dcqs-AllLMA"
-        }
-      ],
-      "mastodon": "https://mastodon.social/@joshuapsteele/117184874692924853",
-      "microblog": "https://micro.blog/joshuapsteele/96657455",
-      "microblog_id": "96657455",
-      "published": "2026-08-30T13:52:32+00:00",
-      "threads": "https://www.threads.com/@joshuapsteele/post/Dcqs-AllLMA"
-    }
-  },
-  "by_url": {
-    "https://joshuapsteele.com/notes/2026-08-30-0952/": {
-      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3muclbf7xhp2n",
-      "canonical": "https://joshuapsteele.com/notes/2026-08-30-0952/",
-      "links": [
-        {
-          "service": "microblog",
-          "url": "https://micro.blog/joshuapsteele/96657455"
-        },
-        {
-          "service": "mastodon",
-          "url": "https://mastodon.social/@joshuapsteele/117184874692924853"
-        },
-        {
-          "service": "bluesky",
-          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3muclbf7xhp2n"
-        },
-        {
-          "service": "threads",
-          "url": "https://www.threads.com/@joshuapsteele/post/Dcqs-AllLMA"
-        }
-      ],
-      "mastodon": "https://mastodon.social/@joshuapsteele/117184874692924853",
-      "microblog": "https://micro.blog/joshuapsteele/96657455",
-      "microblog_id": "96657455",
-      "published": "2026-08-30T13:52:32+00:00",
-      "threads": "https://www.threads.com/@joshuapsteele/post/Dcqs-AllLMA"
-    }
-  },
-  "count": 1,
-  "generated": "2026-10-06T00:46:53.083782+00:00",
+  "by_path": {},
+  "by_url": {},
+  "count": 0,
+  "generated": "2026-10-09T15:15:59.285766+00:00",
   "source": "https://micro.blog/posts/joshuapsteele"
 }
