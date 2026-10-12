@@ -30,7 +30,7 @@ Sure, tests aren’t very fun or glamorous to write and maintain. But can you im
 
 What if your house could test itself and let you know when it needed repairs? What if your body could test itself? What if, every day, you could live your life in the comfort of knowing that you and your belongings were being checked for errors thousands of times? Wouldn’t that be nice? Imagine the security and freedom that such a life-wide testing suite could provide!
 
-![](https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080)
+![A group of coworkers celebrating around a laptop.](https://images.unsplash.com/photo-1576267423445-b2e0074d68a4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3fHxoYXBweSUyMGNvbXB1dGVyfGVufDB8fHx8MTY2NTQ5MjI5MQ&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Possibilities of Software Testing
 
@@ -52,7 +52,7 @@ And, as we’ll discuss below, [well-designed code is easy to test](https://docs
 
 Now, speaking of testing difficulties…
 
-![](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080)
+![A woman biting a pencil while looking at a laptop.](https://images.unsplash.com/photo-1516534775068-ba3e7458af70?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw1fHxmcnVzdHJhdGVkfGVufDB8fHx8MTY2NTQ5MjMxNw&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Problems with Software Testing
 
@@ -84,7 +84,7 @@ What should we keep in mind when we prepare to write code, when tests break, whe
 
 ---
 
-![](https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080)
+![A person drawing diagrams and notes on a glass board.](https://images.unsplash.com/photo-1598520106830-8c45c2035460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHx3aGl0ZWJvYXJkfGVufDB8fHx8MTY2NTQ5MjE1Ng&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Principles of Software Testing
 
@@ -138,7 +138,7 @@ This is because, apart from Maintainability, the other three qualities are in te
 
 And, even then, you can’t completely forget about the last quality you’ve chosen not to prioritize! After all, no one wants a test that (1) doesn’t catch any bugs, (2) is so tightly coupled to the production code that it’s meaningless, or (3) takes forever to run.
 
-![](https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080)
+![Broken pieces of a blue and white plate scattered on the floor.](https://images.unsplash.com/photo-1508935620299-047e0e35fbe3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHwxfHxicm9rZW58ZW58MHx8fHwxNjY1NDkyNTcw&ixlib=rb-1.2.1&q=80&w=1080)
 
 ### Avoid Brittle Tests: Maximize Resistance to Refactoring
 
@@ -292,7 +292,7 @@ If we’re just considering binary true/false conditions, then MC/DC requires N 
 
 While MC/DC isn’t a silver bullet to solve all code coverage issues, it’s a great example of applying the “test the what, not the how” testing principle to the topic of code coverage. When deciding which test cases to (not) write, we want to make sure that we’re covering the aspects of our software’s logic that influence it’s observable behavior.
 
-![](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080)
+![A person drafting an architectural plan with a pencil and ruler.](https://images.unsplash.com/photo-1503387762-592deb58ef4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw0fHxibHVlcHJpbnR8ZW58MHx8fHwxNjY1NDkyNjMy&ixlib=rb-1.2.1&q=80&w=1080)
 
 ### Well-Designed Code is Easy to Test
 
@@ -374,7 +374,7 @@ If the classes in our domain code depend only on each other, they should be rela
 
 Nevertheless, even if we do all of this properly, we still need to reckon with collaborators and dependencies at some point, ideally without making our testing suite prohibitively expensive and time-consuming to run! This brings us to the important topic of test doubles.
 
-![](https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080)
+![Five transparent display mannequins arranged in a row.](https://images.unsplash.com/photo-1620889276134-ea33a1084664?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw3NHx8bWFubmVxdWlufGVufDB8fHx8MTY2NTQ5MjczMQ&ixlib=rb-1.2.1&q=80&w=1080)
 
 ### Test Doubles: Mocks vs Stubs
 
@@ -426,7 +426,7 @@ And, even when writing integration tests for application service code, when inte
 
 Finally, when replacing unmanaged dependencies with test doubles, we should do so by creating (and then mocking or stubbing) an adapter layer that stands between our application and the third-party dependency. In other words, even when mocking a dependency you don’t control, you should “only mock types that you own” (Khorikov 2020). This doesn’t mean that you should mock managed dependencies like your database (see above)! But it does add in a helpful buffer between your application and its unmanaged dependencies.
 
-![](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080)
+![A road stretching over rolling hills between autumn trees.](https://images.unsplash.com/photo-1471958680802-1345a694ba6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxyb2FkfGVufDB8fHx8MTY2NTQ5MjQ3Mw&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Conclusion
 
@@ -442,7 +442,7 @@ Nevertheless, I hope that this overview of software testing possibilities, probl
 
 ---
 
-![](https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080)
+![Rows of bookshelves in a bright library.](https://images.unsplash.com/photo-1600431521340-491eca880813?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNDIyNzR8MHwxfHNlYXJjaHw2fHxsaWJyYXJ5fGVufDB8fHx8MTY2NTQ5MjQzNA&ixlib=rb-1.2.1&q=80&w=1080)
 
 ## Recommended Resources on Software Testing
 

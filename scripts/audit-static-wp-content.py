@@ -16,7 +16,7 @@ from urllib.parse import quote
 ROOT = Path(__file__).resolve().parents[1]
 STATIC_DIR = ROOT / "static"
 WP_DIR = STATIC_DIR / "wp-content"
-JSON_OUTPUT = ROOT / "scripts" / "data" / "audit-static-wp-content.json"
+JSON_OUTPUT = ROOT / "scripts" / "data" / "audits" / "audit-static-wp-content.json"
 MD_OUTPUT = ROOT / "docs" / f"AUDIT-static-wp-content-{date.today().isoformat()}.md"
 
 SOURCE_PATHS = [
@@ -314,7 +314,7 @@ def write_markdown(report):
             "",
             "The legacy bulk deletion script is retired. This inventory includes live media references. Review the orphan candidates above first, then delete only confirmed-unused files in a separate, explicit cleanup pass.",
             "",
-            f"Machine-readable details are in `scripts/data/{JSON_OUTPUT.name}`.",
+            f"Machine-readable details are in `{JSON_OUTPUT.relative_to(ROOT) if JSON_OUTPUT.is_relative_to(ROOT) else JSON_OUTPUT}`.",
             "",
         ]
     )

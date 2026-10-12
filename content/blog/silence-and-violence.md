@@ -14,7 +14,7 @@ url: /silence-and-violence/
 atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcj35652g"
 ---
 
-[![](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)
+[![A stone cross seen through a diamond-patterned window.](http://malcolmguite.files.wordpress.com/2012/11/p1050316silent-cross.jpg?w=500&h=646)](http://malcolmguite.wordpress.com/2013/11/06/silence-a-sonnet-for-remembrance-day-3/)
 
 **“Violence is not human destiny because the God of peace is the beginning and the end of human history…**
 
@@ -39,7 +39,7 @@ Only the silence of a dying God.
 
 ### Then, Volf on violence:
 
-![](http://downloads.unmultimedia.org/photo/medium/119/119163.jpg)
+![Statue of a man raising a hammer over a sword that curves into a plow blade.](http://downloads.unmultimedia.org/photo/medium/119/119163.jpg)
 
 “Religions advocate nonviolence in general, while at the same time finding ways to legitimate violence in specific situations; their representatives both preach against war and bless the weapons of their nation’s troops. **And so the deep religious wisdom about nonviolence boils down to a principle that no self-respecting war-lord will deny, namely that you can be violent whenever you cannot be nonviolent, provided your goals are just (which they usually are for the simple reason that they are yours)**. Religious dialogue or no religious dialogue, **without the principled assertion that it *is never appropriate to use religion to give moral sanction to the use of violence*, religious images and religious leaders will continue to be exploited by politicians and generals engaged in violence.**” ([Volf, E&E, 286](https://www.amazon.com/dp/0687002826?tag=joshuapsteele-20)).
 

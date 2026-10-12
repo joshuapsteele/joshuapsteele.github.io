@@ -3,9 +3,9 @@
 Look up Internet Archive (Wayback Machine) snapshots for the dead external
 links found by check-external-links.py.
 
-Reads the dead URLs from scripts/data/audit-external-links.json, queries the
+Reads the dead URLs from scripts/data/audits/audit-external-links.json, queries the
 Wayback availability API for the closest usable (HTTP 2xx) snapshot of each,
-and writes a mapping to scripts/data/wayback-map.json:
+and writes a mapping to scripts/data/audits/wayback-map.json:
 
     { "<dead url>": {"wayback": "<snapshot url>"|null,
                      "timestamp": "...", "snap_status": "..."} }
@@ -23,8 +23,8 @@ from urllib.parse import quote
 from urllib.request import Request, urlopen
 from urllib.error import URLError
 
-AUDIT = Path('scripts/data/audit-external-links.json')
-OUT = Path('scripts/data/wayback-map.json')
+AUDIT = Path('scripts/data/audits/audit-external-links.json')
+OUT = Path('scripts/data/audits/wayback-map.json')
 API = 'https://archive.org/wayback/available?url='
 HEADERS = {'User-Agent': 'joshuapsteele.com link maintenance (Wayback lookup)'}
 
@@ -67,6 +67,7 @@ def main():
             print(f"  {i}/{len(dead_urls)} (snapshots found so far: {have})")
         time.sleep(0.5)  # be polite to archive.org
 
+    OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(mapping, indent=2))
     print(f"\nSnapshots found: {have}/{len(dead_urls)} "
           f"({len(dead_urls) - have} will need unlink + marker)")

@@ -9,6 +9,11 @@ import re
 from collections import Counter
 import json
 import sys
+from pathlib import Path
+
+DATA_DIR = Path(__file__).resolve().parent / "data"
+INPUT = DATA_DIR / "inputs" / "high-traffic-posts-needing-tags.json"
+OUTPUT = DATA_DIR / "suggestions" / "tag-suggestions.json"
 
 # Tag vocabulary based on existing successful tags
 TAG_PATTERNS = {
@@ -100,7 +105,7 @@ def suggest_tags(filepath, max_tags=5):
 
 def main():
     # Load posts needing tags
-    with open('high-traffic-posts-needing-tags.json', 'r') as f:
+    with INPUT.open('r') as f:
         posts = json.load(f)
     
     print("=" * 70)
@@ -140,12 +145,13 @@ def main():
         })
     
     # Save suggestions
-    with open('tag-suggestions.json', 'w') as f:
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    with OUTPUT.open('w') as f:
         json.dump(suggestions, f, indent=2)
     
     print("=" * 70)
     print(f"✅ Generated tag suggestions for {len(suggestions)} posts")
-    print("   Saved to: tag-suggestions.json")
+    print(f"   Saved to: {OUTPUT}")
     print("=" * 70)
     print()
     print("Review suggestions and run with --apply to add tags")

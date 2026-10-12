@@ -5,7 +5,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ## Structure
 
 - **Root scripts** (`.py` and `.sh` files) - Executable maintenance and utility scripts
-- **`data/`** - Generated data files, audit results, and configuration files
+- **`data/`** - Canonical taxonomy configuration plus separate audit, suggestion, and input subdirectories
 
 ## Main Scripts
 
@@ -24,14 +24,14 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 - `migrate-microblog-archive.py` - Import an exported Micro.blog archive into `content/notes/`
 
 ### Auditing & Analysis
-- `audit-frontmatter.py` - Analyze front matter for issues (outputs to `data/`)
+- `audit-frontmatter.py` - Analyze front matter for issues (outputs to `data/audits/`)
 - `audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
-- `check-internal-links.py` - Check for broken internal links; validates against the built `public/` site (run `npm run build` first). Outputs to `data/`
-- `check-external-links.py` - Check non-Amazon, non-self external links. Sends browser headers, throttles per-domain, retries, and classifies results as dead vs. blocked/manual. Skips Amazon and joshuapsteele.com (handled below). Outputs to `data/`
-- `check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, cookie jar, sequential jittered delays, redirect-following). Flags `--delay`/`--jitter`/`--limit`. Outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `data/`
+- `check-internal-links.py` - Check for broken internal links; validates against the built `public/` site (run `npm run build` first). Outputs to `data/audits/`
+- `check-external-links.py` - Check non-Amazon, non-self external links. Sends browser headers, throttles per-domain, retries, and classifies results as dead vs. blocked/manual. Skips Amazon and joshuapsteele.com (handled below). Outputs to `data/audits/`
+- `check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, cookie jar, sequential jittered delays, redirect-following). Flags `--delay`/`--jitter`/`--limit`. Outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `data/audits/`
 - `check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure. Runs automatically in `npm run build` and CI
 - `convert-internal-links.py` - Rewrite absolute self-links (joshuapsteele.com) in post bodies to root-relative internal links, validating against `public/` and flagging any that don't resolve. Dry-run by default; `--apply` to write
-- `lookup-wayback.py` - For the dead URLs in `data/audit-external-links.json`, query the Internet Archive for the closest usable (2xx) snapshot; writes `data/wayback-map.json`
+- `lookup-wayback.py` - For the dead URLs in `data/audits/audit-external-links.json`, query the Internet Archive for the closest usable (2xx) snapshot; writes `data/audits/wayback-map.json`
 - `fix-dead-links.py` - Apply dead-link fixes from the audit + Wayback map: rewrite to the snapshot where one exists, else unlink and mark "(old, broken link)" / "(old, broken image)". Body-only; dry-run by default, `--apply` to write
 - `analyze_website_stats.py` - Analyze website traffic statistics
 - `categorize_page_changes.py` - Categorize and analyze page changes
@@ -80,9 +80,12 @@ python3 scripts/send_webmentions.py --public-dir /tmp/jps-public --feed /tmp/jps
 ## Data Directory
 
 The `data/` subdirectory contains:
-- **Audit results** - JSON files from audit scripts
-- **Taxonomy configuration** - `taxonomy_map.yaml` and related files
-- **Generated data** - CSV stats and other output files
+- **Canonical configuration** - `taxonomy_map.yaml` stays at its existing path; it is the reviewed map consumed by `apply-taxonomy.py`.
+- **`audits/`** - Audit JSON, the Wayback map, and the historical post inventory. External-link checking, Wayback lookup, and dead-link fixing share these paths.
+- **`suggestions/`** - Unreviewed taxonomy maps and tag suggestions. These are proposals, not active configuration. `taxonomy_tools.py` accepts an explicit output path; write new proposals here.
+- **`inputs/`** - Historical traffic CSV, high-traffic post selection, and an old popular-post export. These are retained inputs; the website reads its current `data/popular.json` at the repository root.
+
+Moved files retain their original contents and dates. Rerunning an audit replaces its machine-readable JSON; dated Markdown reports remain immutable. Run scripts from the repository root as above. Tag suggestions now read the retained high-traffic input and write into `suggestions/`; traffic analysis reads the CSV from `inputs/`.
 
 ## Retired One-Off Scripts
 
@@ -97,6 +100,6 @@ See the main repository [CLAUDE.md](../CLAUDE.md) for detailed documentation.
 
 `npm run verify` runs regression tests and a clean production build, including disclosure and rendered-site checks. These use Python's standard library and Node's built-in test runner. See [maintenance](../docs/MAINTENANCE.md) for deployment and archival conventions.
 
-Optional legacy tools require extra packages: `python-frontmatter` for tagging/category suggestions, `PyYAML` for YAML cleanup/batch display, and `pandas` for traffic analysis. Install them in a virtual environment with `python3 -m pip install -r scripts/requirements-optional.txt`; they are not production-build dependencies.
+Optional legacy tools require extra packages: `python-frontmatter` for tagging/category suggestions, `PyYAML` for YAML cleanup/batch display, and `pandas` for traffic analysis. Use Python 3.10+ for the optional tools (the current python-frontmatter package uses `typing.TypeGuard`). Install them in a virtual environment with `python3 -m pip install -r scripts/requirements-optional.txt`; they are not production-build dependencies.
 
 Report generators accept `--report PATH` and default to dated Markdown filenames, refusing to overwrite an existing report. The media auditor also accepts `--output PATH` for its JSON. Use `--help` before running network crawls. Historical reports now live in `docs/archive/`.

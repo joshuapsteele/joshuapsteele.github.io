@@ -30,7 +30,7 @@ Image quality is configured per format, following [Hugo's imaging configuration]
 
 ## Reports and housekeeping
 
-Dated reports are immutable. Link the newest audit from `docs/README.md`, CLAUDE.md, and the cleanup checklist. Archive superseded reports unchanged; Git is the history of record. Generated audit JSON and suggestions in `scripts/data/` are not canonical taxonomy configuration. Do not delete them without checking script consumers.
+Dated reports are immutable. Link the newest audit from `docs/README.md`, CLAUDE.md, and the cleanup checklist. Archive superseded reports unchanged; Git is the history of record. Keep the reviewed taxonomy map at `scripts/data/taxonomy_map.yaml`. Machine-readable audit results and the Wayback map live in `scripts/data/audits/`; unreviewed taxonomy/tag proposals live in `scripts/data/suggestions/`; retained traffic and selection inputs live in `scripts/data/inputs/`. The root Hugo `data/` directory still supplies live website data. Do not delete retained files without checking script consumers.
 
 External/Amazon/media auditors accept explicit report paths and default to dated report filenames. They refuse to overwrite an existing Markdown report; choose a new output name for a repeat run. External checks can be slow and bot-blocked, so they are not CI gates.
 

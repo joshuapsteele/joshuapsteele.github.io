@@ -211,7 +211,7 @@ def serializable(results: Dict[str, Any]) -> Dict[str, Any]:
 def main() -> int:
     parser = argparse.ArgumentParser(description="Analyze Hugo blog front matter")
     parser.add_argument("--content-dir", default="content/blog", help="Directory of markdown files to audit")
-    parser.add_argument("--output", default="scripts/data/audit-frontmatter.json", help="JSON output path")
+    parser.add_argument("--output", default="scripts/data/audits/audit-frontmatter.json", help="JSON output path")
     args = parser.parse_args()
 
     content_dir = Path(args.content_dir)

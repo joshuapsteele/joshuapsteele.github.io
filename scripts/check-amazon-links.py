@@ -20,7 +20,7 @@ Usage:
 
 Output:
   docs/AUDIT-amazon-links.md
-  scripts/data/audit-amazon-links.json
+  scripts/data/audits/audit-amazon-links.json
 """
 
 import argparse
@@ -193,7 +193,7 @@ def main():
             })
 
     report_path = args.report
-    data_path = Path('scripts/data/audit-amazon-links.json')
+    data_path = Path('scripts/data/audits/audit-amazon-links.json')
     report_path.parent.mkdir(parents=True, exist_ok=True)
     data_path.parent.mkdir(parents=True, exist_ok=True)
 

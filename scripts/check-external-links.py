@@ -192,7 +192,7 @@ def check_links_parallel(unique_urls, max_workers=10):
 
 
 REPORT_PATH = Path(f'docs/AUDIT-external-links-{date.today().isoformat()}.md')
-DATA_PATH = Path('scripts/data/audit-external-links.json')
+DATA_PATH = Path('scripts/data/audits/audit-external-links.json')
 
 
 def _write_section(f, title, items, blurb):

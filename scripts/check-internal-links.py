@@ -347,7 +347,7 @@ def main():
 
     # Save detailed results
     import json
-    output_path = Path('scripts/data/audit-internal-links.json')
+    output_path = Path('scripts/data/audits/audit-internal-links.json')
     output_path.parent.mkdir(parents=True, exist_ok=True)
     with output_path.open('w') as f:
         # Convert set to list for JSON serialization

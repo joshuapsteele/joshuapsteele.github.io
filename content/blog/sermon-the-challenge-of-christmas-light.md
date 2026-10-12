@@ -16,7 +16,7 @@ There are better preachers out there. So, if you’re short on time, go and list
 
 I preached this sermon on December 27, 2015 at [St. Peter’s Anglican Church](http://stpetersbhm.org/) in Mountain Brook, AL, as we celebrated the [Feast of St. John the Apostle and Evangelist](http://www.lectionarypage.net/YearABC/HolyDays/John.html).
 
-![](https://iconreader.files.wordpress.com/2010/08/st20john005.jpg)
+![Icon of St. John holding an open book.](https://iconreader.files.wordpress.com/2010/08/st20john005.jpg)
 
 My sermon text was that day’s Gospel lesson, [1 John 1:1-9, expanded to include 2:1-2](https://www.biblegateway.com/passage/?search=1+John+1%3A1-2%3A2&version=ESV). But I also reference the Old Testament lesson, [Exodus 33:18-23](http://www.lectionarypage.net/YearABC/HolyDays/John.html#ot1).
 

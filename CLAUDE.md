@@ -226,8 +226,8 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 
 ### Taxonomy Files
 - `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
-- `scripts/data/taxonomy_map.suggested.yaml` - AI-generated suggestions (review before using)
-- `scripts/data/taxonomy_map.generated.yaml` - Generated mapping results from processing
+- `scripts/data/suggestions/taxonomy_map.suggested.yaml` - AI-generated suggestions (review before using)
+- `scripts/data/suggestions/taxonomy_map.generated.yaml` - Generated mapping results from processing
 
 ### Taxonomy Scripts
 - `scripts/apply-taxonomy.py` - Apply taxonomy consolidation based on `taxonomy_map.yaml`
@@ -242,13 +242,13 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `scripts/review_changes.sh` - Review staged changes before committing
 
 ### Python Audit & Analysis Scripts
-- `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/`)
-- `scripts/check-internal-links.py` - Check for broken internal links; validates against the built `public/` site, so run `npm run build` first (outputs to `scripts/data/`)
-- `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/`)
-- `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `scripts/data/`)
+- `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/audits/`)
+- `scripts/check-internal-links.py` - Check for broken internal links; validates against the built `public/` site, so run `npm run build` first (outputs to `scripts/data/audits/`)
+- `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/audits/`)
+- `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `scripts/data/audits/`)
 - `scripts/check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure; runs automatically in `npm run build` and CI
 - `scripts/convert-internal-links.py` - Rewrite absolute joshuapsteele.com self-links in post bodies to root-relative links, validating against `public/`; dry-run by default, `--apply` to write
-- `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/wayback-map.json`
+- `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/audits/wayback-map.json`
 - `scripts/fix-dead-links.py` - Apply dead-link fixes (Wayback snapshot where available, else unlink + "(old, broken link)" marker); body-only, dry-run by default, `--apply` to write
 - `scripts/audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
 - `scripts/check_conversation_sources.py` - Check Webmention.io and Micro.blog conversation data for a post URL
@@ -332,7 +332,7 @@ See `drafts-actions/` directory for Drafts action setup and usage.
 1. Front matter audit: `python3 scripts/audit-frontmatter.py`
 2. Internal links: `python3 scripts/check-internal-links.py`
 3. External links: `python3 scripts/check-external-links.py` (may take time)
-4. Review generated JSON files in `scripts/data/` for issues
+4. Review generated JSON files in `scripts/data/audits/` for issues
 5. Fix issues incrementally and re-run audits
 
 ### Applying Taxonomy Changes

@@ -8,10 +8,11 @@ import numpy as np
 from collections import Counter
 from datetime import datetime
 import re
+from pathlib import Path
 
 # Read the CSV
 print("Loading website statistics...")
-df = pd.read_csv('stats-Personal Hugo Website-2025-10-11T09_08_55.csv')
+df = pd.read_csv(Path(__file__).resolve().parent / "data" / "inputs" / "stats-Personal Hugo Website-2025-10-11T09_08_55.csv")
 
 print(f"✅ Loaded {len(df):,} page views")
 print(f"📊 Columns: {', '.join(df.columns)}\n")

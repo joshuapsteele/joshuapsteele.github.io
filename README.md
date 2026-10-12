@@ -232,19 +232,19 @@ The `scripts/` directory contains various automation tools for maintaining and a
   ```bash
   python3 scripts/audit-frontmatter.py
   ```
-  Outputs: `scripts/data/audit-frontmatter.json`
+  Outputs: `scripts/data/audits/audit-frontmatter.json`
 
 - **[check-internal-links.py](scripts/check-internal-links.py)** - Check for broken internal links
   ```bash
   python3 scripts/check-internal-links.py
   ```
-  Outputs: `scripts/data/audit-internal-links.json`
+  Outputs: `scripts/data/audits/audit-internal-links.json`
 
 - **[check-external-links.py](scripts/check-external-links.py)** - Check for broken external links (may take time)
   ```bash
   python3 scripts/check-external-links.py
   ```
-  Outputs: `scripts/data/audit-external-links.json`
+  Outputs: `scripts/data/audits/audit-external-links.json`
 - **[audit-static-wp-content.py](scripts/audit-static-wp-content.py)** - Non-destructively audit legacy WordPress media references
 
 **Content Management:**
@@ -276,8 +276,8 @@ The `scripts/` directory contains various automation tools for maintaining and a
 The site uses a taxonomy consolidation system with configuration files in `scripts/data/`:
 
 - **[taxonomy_map.yaml](scripts/data/taxonomy_map.yaml)** - Master configuration defining category/tag consolidation rules
-- **taxonomy_map.suggested.yaml** - AI-generated suggestions (review before using)
-- **taxonomy_map.generated.yaml** - Generated mapping results from processing
+- **scripts/data/suggestions/taxonomy_map.suggested.yaml** - AI-generated suggestions (review before using)
+- **scripts/data/suggestions/taxonomy_map.generated.yaml** - Generated mapping results from processing
 
 ### Best Practices for Scripts
 

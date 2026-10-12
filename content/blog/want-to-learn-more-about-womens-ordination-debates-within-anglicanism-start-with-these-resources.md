@@ -91,7 +91,7 @@ To put some numbers to this debate, [I’ve produced the following chart](http:/
 
 Click the image below to view the most recent version of the spreadsheet on Google Sheets.
 
-[![](http://anglicancompass.com/wp-content/uploads/2019/01/Screen-Shot-2020-01-14-at-11.33.22-AM.png)](http://docs.google.com/spreadsheets/d/1QG0EDrpgGnfPf668T5qsnUcczUA_g6b3HjgbPC-aiTg/edit?usp=sharing)
+[![ACNA dioceses grouped by whether they ordain women to no orders, the diaconate only, or the priesthood and diaconate, with 2018 congregation, membership, and attendance figures. Follow this image link for the spreadsheet data.](http://anglicancompass.com/wp-content/uploads/2019/01/Screen-Shot-2020-01-14-at-11.33.22-AM.png)](http://docs.google.com/spreadsheets/d/1QG0EDrpgGnfPf668T5qsnUcczUA_g6b3HjgbPC-aiTg/edit?usp=sharing)
 
 ---
 

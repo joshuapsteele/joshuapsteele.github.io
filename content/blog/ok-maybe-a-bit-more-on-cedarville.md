@@ -19,9 +19,9 @@ Equally ludicrous? The [textbook choices](http://cedarville.verbacompare.com/com
 
 # [Countering the Claims of Evangelical Feminism: Biblical Responses to the Key Questions, by Wayne Grudem](https://www.amazon.com/dp/1590525183?tag=joshuapsteele-20)
 
-![](http://images.betterworldbooks.com/159/Countering-the-Claims-of-Evangelical-Feminism-Grudem-Wayne-9781590525180.jpg)
+![Cover of Countering the Claims of Evangelical Feminism: Biblical Responses to the Key Questions by Wayne Grudem.](http://images.betterworldbooks.com/159/Countering-the-Claims-of-Evangelical-Feminism-Grudem-Wayne-9781590525180.jpg)
 
-![](http://g.christianbook.com/g/ebooks/covers/w185/4/45704_w185.png)
+![Cover of The Feminist Mistake: The Radical Impact of Feminism on Church and Culture by Mary A. Kassian.](http://g.christianbook.com/g/ebooks/covers/w185/4/45704_w185.png)
 
 # [The Feminist Mistake: The Radical Impact of Feminism on Church and Culture, by Mary A. Kassian](https://www.amazon.com/dp/1581345704?tag=joshuapsteele-20)
 

@@ -11,7 +11,7 @@ Fix the dead external links found by check-external-links.py, using the strategy
 
 Operates on post BODIES only (never the YAML front matter). Dry-run by default.
 
-Inputs:  scripts/data/audit-external-links.json, scripts/data/wayback-map.json
+Inputs:  scripts/data/audits/audit-external-links.json, scripts/data/audits/wayback-map.json
 Usage:   python3 scripts/fix-dead-links.py [--apply]
 """
 
@@ -21,8 +21,8 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-AUDIT = Path('scripts/data/audit-external-links.json')
-WAYBACK = Path('scripts/data/wayback-map.json')
+AUDIT = Path('scripts/data/audits/audit-external-links.json')
+WAYBACK = Path('scripts/data/audits/wayback-map.json')
 FRONT_MATTER = re.compile(r'^(---\r?\n.*?\r?\n---\r?\n)', re.DOTALL)
 
 
