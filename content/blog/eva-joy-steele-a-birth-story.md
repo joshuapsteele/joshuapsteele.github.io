@@ -112,11 +112,11 @@ Nevertheless, they decided to try to insert what is called the Cook Cervical Rip
 
 Here’s a picture of what we’re talking about.
 
-![](/wp-content/uploads/2018/08/Cook-Catheter.jpg)
+![Cook cervical ripening catheter with two inflated balloons and tubing.](/wp-content/uploads/2018/08/Cook-Catheter.jpg)
 
 They insert that thing through the cervix, before inflating those balloons on both sides of the cervix.
 
-![](/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg)
+![Cross-section showing the two balloons of a cervical ripening catheter positioned on either side of the cervix.](/wp-content/uploads/2018/08/Cook-Catheter-Insertion.jpg)
 
 Or, at least, that’s how it’s *supposed* to go.
 
@@ -312,6 +312,6 @@ Also, we’re incredibly grateful to our doula, Teri, for her support along the 
 
 For me, after going through this with my wife, I’m even more impressed by what a strong woman she is. I already knew that she had grit, but making through such a long process without any kind of pain medication was nothing short of amazing.
 
-![](/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg)
+![Josh and Rachel smiling with newborn Eva in the hospital bed.](/wp-content/uploads/2018/08/thumb_DSC_0060_1024.jpg)
 
 With Rachel and Eva, I think we’ve got a pretty great team.

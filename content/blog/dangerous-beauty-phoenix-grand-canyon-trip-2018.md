@@ -14,21 +14,21 @@ atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc7z637
 
 The main reason for the trip was to visit some good friends of ours, the Smith family, in Phoenix, AZ. Here’s a picture of the group of us together after church at [Living Faith Anglican Church in Tempe, AZ](https://livingfaithanglican.org/), where my friend Peter Smith is the rector.
 
-![](/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg)
+![Josh and Rachel with the Smith family after church in Tempe, Arizona.](/wp-content/uploads/2018/03/IMG_3626-1024x768.jpg)
 
 The trip was a blast. It was great to catch up with the Smiths and to see their new home and church in Arizona.
 
 Plus, we got to go hiking at (1) Saguaro Lake,
 
-![](/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg)
+![Josh and Rachel standing beside Saguaro Lake, with desert mountains behind them.](/wp-content/uploads/2018/03/IMG_3618-1024x768.jpg)
 
 (2) Cathedral Rock in Sedona,
 
-![](/wp-content/uploads/2018/03/IMG_3663.jpg)
+![Rachel and Josh below the red rock formations of Cathedral Rock in Sedona.](/wp-content/uploads/2018/03/IMG_3663.jpg)
 
 and (3) the South Kaibab Trail at the Grand Canyon.
 
-![](/wp-content/uploads/2018/03/IMG_3743.jpg)
+![Josh and Rachel sitting on a rocky overlook above the Grand Canyon along the South Kaibab Trail.](/wp-content/uploads/2018/03/IMG_3743.jpg)
 
 (That last photo is my favorite from the entire trip. Thanks to the random guy on the trail who took it for us!)
 

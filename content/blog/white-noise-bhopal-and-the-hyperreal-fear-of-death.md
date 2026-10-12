@@ -179,7 +179,7 @@ However, as my wife tearfully recounted the story to me that night, she wondered
 
 More importantly, **whose death do we fear?**
 
-![](/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg)
+![A green ECG trace changes from heartbeats to a flat line.](/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg)
 
 ## It is my contention that **we cannot really fear our *own* deaths**.
 

@@ -8,7 +8,7 @@ Current baseline: [October audit](AUDIT-2026-10-12.md). Procedures: [maintenance
 
 ### Medium priority
 
-- [ ] Write or verify alt text for legacy content images. The October production scan found 50 occurrences without `alt`, including old WordPress figures, slide thumbnails, remote images, and an Amazon tracking pixel. Review images in context: do not use guessed filename descriptions or blanket empty alt text for meaningful images. This is an accessibility content pass, not a build failure.
+- [ ] Finish alt text for legacy content images: **37 production occurrences remain**, down from 50. Remaining sources are 10 low-resolution “No Seconds” sermon slides in `content/blog/maundy-thursday-sermon-the-lasting-supper-luke-2214-30.md` and 27 remote images across 12 posts (including 8 Unsplash images in the software-testing post and the Mitsubishi product image). The slide captions are too small to transcribe reliably from the retained thumbnails; review higher-resolution originals before describing the full artwork. Review remote images in context before writing descriptions. Do not use guessed filename descriptions or blanket empty alt text for meaningful images. This is an accessibility content pass, not a build failure.
 
 ### Optional / low priority
 
@@ -18,6 +18,8 @@ Current baseline: [October audit](AUDIT-2026-10-12.md). Procedures: [maintenance
 - [ ] Separate generated audit/suggestion data from canonical configuration after checking consumers. Current `scripts/data/` files remain available to existing scripts.
 
 ## Completed in the October cleanup
+
+- [x] Reviewed 12 local images against their pixels and post context and added descriptive alt text (family/travel photos, ultrasound, catheter images, ECG illustration, book cover, sermon title slide, and Bonhoeffer portrait). Transcribed the Bonhoeffer quote into readable post text and gave the Amazon tracking pixel deliberate empty alt text. Production rescan: 37 images still lack `alt`; `npm run verify` passes and local browser review confirms the Bonhoeffer image description and transcript.
 
 - [x] Fixed all 9 broken rendered link occurrences, kept drafts unpublished, and added an alias for the older credo URL. Production link/asset validation now runs in `npm run build`; the older source checker can no longer accept source existence over missing production output.
 - [x] Moved conversations/reply context into fingerprinted JavaScript. Counter and display share fetches and deduplication; reply context reads the original URL from its data attribute. Counters render only on single posts, avoiding repeated IDs on lists.

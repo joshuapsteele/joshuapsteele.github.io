@@ -16,7 +16,7 @@ atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcattbc
 
 In case you haven’t heard the news, my wife Rachel and I are expecting our firstborn child this August! Rachel is currently 16 weeks along, and we won’t find out the gender of the baby (whom I am affectionately calling “Lump”) for another month.
 
-![](/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg)
+![Ultrasound image of our first baby.](/wp-content/uploads/2018/02/IMG_3515-e1519734672450-1024x777.jpg)
 
 ### The last few months have been quite busy for us since we found out Rachel is pregnant.
 

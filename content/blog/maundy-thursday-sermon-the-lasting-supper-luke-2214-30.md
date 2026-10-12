@@ -18,7 +18,7 @@ I’d like to show you a series of photographs. These photographs, except for th
 I don't want to belabor the artwork with my commentary, so I'll give you a few seconds to take each slide in.
 
 {{< gallery >}}
-![](/wp-content/uploads/2017/04/Slide2-150x150.jpg)
+![Title slide: No Seconds by Henry Hargreaves.](/wp-content/uploads/2017/04/Slide2-150x150.jpg)
 ![](/wp-content/uploads/2017/04/Slide11-150x150.jpg)
 ![](/wp-content/uploads/2017/04/Slide10-150x150.jpg)
 ![](/wp-content/uploads/2017/04/Slide9-150x150.jpg)
