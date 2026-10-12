@@ -3,8 +3,8 @@ title: "How to Lead a Bible Study When You've Never Led One"
 date: 2026-08-12
 draft: true
 description: "A short, practical guide for anyone who's been asked to lead a small group and doesn't feel qualified. You don't need a seminary degree. You need a good book, a few good questions, and the willingness to sit in silence."
-tags: ["bible study", "small groups", "James", "practical"]
-categories: ["Church"]
+tags: ["bible-study", "small-groups", "james", "practical"]
+categories: ["ministry"]
 url: "/how-to-lead-a-bible-study/"
 ---
 

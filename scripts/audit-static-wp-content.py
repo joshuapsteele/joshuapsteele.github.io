@@ -2,9 +2,8 @@
 """
 Audit legacy WordPress media under static/wp-content without deleting files.
 
-The cleanup script in this repo is intentionally destructive. This companion
-audit builds a reviewable inventory first, so legacy media can be pruned only
-after checking which files are still referenced by site sources.
+This read-only audit builds a reviewable inventory, so legacy media can be
+considered individually after checking source references and inbound URLs.
 """
 
 import json
@@ -18,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 STATIC_DIR = ROOT / "static"
 WP_DIR = STATIC_DIR / "wp-content"
 JSON_OUTPUT = ROOT / "scripts" / "data" / "audit-static-wp-content.json"
-MD_OUTPUT = ROOT / "docs" / "AUDIT-static-wp-content.md"
+MD_OUTPUT = ROOT / "docs" / f"AUDIT-static-wp-content-{date.today().isoformat()}.md"
 
 SOURCE_PATHS = [
     "content",
@@ -313,7 +312,7 @@ def write_markdown(report):
             "",
             "## Cleanup Recommendation",
             "",
-            "Do not run `scripts/cleanup_images.sh` as-is. It removes the entire `static/wp-content/` directory, but this audit found live references there. Review the orphan candidates above first, then delete only confirmed-unused files in a separate, explicit cleanup pass.",
+            "The legacy bulk deletion script is retired. This inventory includes live media references. Review the orphan candidates above first, then delete only confirmed-unused files in a separate, explicit cleanup pass.",
             "",
             f"Machine-readable details are in `scripts/data/{JSON_OUTPUT.name}`.",
             "",
@@ -324,6 +323,17 @@ def write_markdown(report):
 
 
 def main():
+    global MD_OUTPUT, JSON_OUTPUT
+    import argparse
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument("--report", type=Path, default=MD_OUTPUT)
+    parser.add_argument("--output", type=Path, default=JSON_OUTPUT)
+    args = parser.parse_args()
+    MD_OUTPUT, JSON_OUTPUT = args.report.resolve(), args.output.resolve()
+    if MD_OUTPUT.exists():
+        parser.error("Report already exists; choose a new --report path.")
+    MD_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+    JSON_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     report = audit()
     write_json(report)
     write_markdown(report)
@@ -332,8 +342,8 @@ def main():
     print(f"Scanned {totals['files']} static/wp-content files ({totals['size']}).")
     print(f"Referenced: {totals['referenced_files']}")
     print(f"Orphan candidates: {totals['orphan_candidates']}")
-    print(f"Wrote {JSON_OUTPUT.relative_to(ROOT)}")
-    print(f"Wrote {MD_OUTPUT.relative_to(ROOT)}")
+    print(f"Wrote {JSON_OUTPUT}")
+    print(f"Wrote {MD_OUTPUT}")
 
 
 if __name__ == "__main__":

@@ -21,7 +21,7 @@ If you're interested, I'm presenting my Regional ETS paper today at 5:00pm at Be
 
 If you're able to attend the presentation, that's great! If not, you can:
 
-- Read the [full essay on my blog](/blog/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god/)
+- Read the [full essay on my blog](/reconciliation-and-the-lack-thereof-atonement-ecclesiology-and-the-unity-of-god/)
 - Download the [complete thesis PDF](/wp-content/uploads/2016/12/Reconciliation_and_the_Lack_Thereof_Aton.pdf)
 
 Atonement theology and the unity of the Church are two areas I'm very passionate about and intend to devote further study to in the future. I'd love to hear any questions, comments, or suggestions you might have!

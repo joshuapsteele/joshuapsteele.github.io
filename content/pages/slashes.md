@@ -37,17 +37,17 @@ This is a meta-page listing all the slash pages available on my website.
 - [/posse](/posse) - My strategy for cross-posting content
 - [/questions](/questions) - Questions I've asked
 - [/resist](/resist) - Resources and strategies for resisting tyranny
-- ~~[/sale](/sale) - Indie web yard sale items~~ (draft)
+- ~~`/sale` - Indie web yard sale items~~ (draft)
 - ~~[/save](/save) - Referral links and discount codes~~ (draft)
 - [/sermons](/sermons) - Sermons I've preached
 - [/slashes](/slashes) - This meta-page listing all slash pages
 - [/someday](/someday) - Future aspirations and goals
-- [/subscriptions](/subscriptions) - Subscriptions I currently pay for
+- `/subscriptions` - Subscriptions I currently pay for (draft)
 - [/til](/til) - Today I Learned snippets
-- ~~[/tip](/tip) - Ways to tip me or buy me a coffee~~ (draft)
+- ~~`/tip` - Ways to tip me or buy me a coffee~~ (draft)
 - [/uses](/uses) - Tools and gear I use
 - [/verify](/verify) - Verify my online identities
-- [/why](/why) - My purpose, direction, and values
+- `/why` - My purpose, direction, and values (draft)
 - [/wish-list](/wish-list) - Things I wish for
 - [/yep](/yep) - Things I agree with or will do
 

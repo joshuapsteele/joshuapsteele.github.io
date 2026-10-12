@@ -191,7 +191,7 @@ def check_links_parallel(unique_urls, max_workers=10):
     return results
 
 
-REPORT_PATH = Path('docs/AUDIT-06-external-links.md')
+REPORT_PATH = Path(f'docs/AUDIT-external-links-{date.today().isoformat()}.md')
 DATA_PATH = Path('scripts/data/audit-external-links.json')
 
 
@@ -281,11 +281,16 @@ def reclassify_existing():
 
 
 def main():
+    global REPORT_PATH
     import argparse
     ap = argparse.ArgumentParser(description=__doc__)
     ap.add_argument('--reclassify', action='store_true',
                     help='re-bucket the saved results with current rules; no network')
+    ap.add_argument("--report", type=Path, default=REPORT_PATH)
     args = ap.parse_args()
+    REPORT_PATH = args.report
+    if REPORT_PATH.exists():
+        ap.error("Report already exists; choose a new --report path.")
 
     if args.reclassify:
         reclassify_existing()

@@ -18,7 +18,7 @@ atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcbthlt
 
 For as long as I can remember, I have known and followed Jesus Christ as my Lord and Savior. However, there has been a lingering problem in our relationship – on my end. Of course, this problem is called “sin.” But, I mean an even more specific problem: my struggle to *know* Jesus, and not merely to know *about* Jesus.
 
-(For an attempted summary of the *content* of my Christian faith, what I believe, see [“What Do I Believe? A Cross-Centered Credo.”](/a-crucicentric-credo/))
+(For an attempted summary of the *content* of my Christian faith, what I believe, see [“What Do I Believe? A Cross-Centered Credo.”](/theology-outline/))
 
 ## Childhood
 

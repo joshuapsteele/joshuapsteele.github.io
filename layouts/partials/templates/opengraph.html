@@ -58,6 +58,8 @@
   {{- end }}
 {{- end }}
 
+<meta property="og:image:alt" content="{{ .Params.cover.alt | default .Params.image_alt | default site.Title }}">
+
 {{- with .Params.audio }}
   {{- range . | first 6  }}
     <meta property="og:audio" content="{{ . | absURL }}">

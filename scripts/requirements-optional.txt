@@ -1,0 +1,4 @@
+# Optional maintenance tools only; core verification is standard-library-only.
+python-frontmatter>=1.1,<2
+PyYAML>=6,<7
+pandas>=2.2,<4

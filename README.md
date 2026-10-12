@@ -17,7 +17,7 @@ This is the source code for my personal website and blog, built with Hugo and de
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Pages with GitHub Actions
 - **Search**: Fuse.js
-- **Node**: 18+ (local) / 20 (CI)
+- **Node**: 18+ (local) / 22 (CI)
 
 ## Features
 
@@ -50,12 +50,9 @@ This is the source code for my personal website and blog, built with Hugo and de
 ### Installation
 
 ```bash
-# Clone the repository with submodules
-git clone --recurse-submodules https://github.com/joshuapsteele/joshuapsteele.github.io.git
+# Clone the repository (PaperMod is vendored)
+git clone https://github.com/joshuapsteele/joshuapsteele.github.io.git
 cd joshuapsteele.github.io
-
-# If you forgot --recurse-submodules, initialize them:
-git submodule update --init --recursive
 
 # Install dependencies (if any)
 npm install
@@ -101,7 +98,7 @@ npm run clean
 │   ├── *.py           # Python scripts for auditing and content management
 │   └── *.sh           # Shell scripts for deployment and utilities
 ├── templates/         # Obsidian blog post templates
-├── themes/            # PaperMod theme (git submodule)
+├── themes/            # PaperMod theme (vendored)
 ├── docs/              # Additional documentation and audit reports
 ├── public/            # Generated site (git-ignored, never edit)
 ├── hugo.yaml          # Main site configuration
@@ -205,7 +202,7 @@ The site automatically deploys to GitHub Pages when changes are pushed to the `m
 ### Manual Deployment
 
 ```bash
-# Using the deploy script (commits all changes and pushes to main)
+# Using the deploy script (verifies and commits staged changes on main, then pushes)
 npm run deploy
 # or with a custom commit message:
 ./scripts/deploy.sh "Your commit message"
@@ -215,17 +212,18 @@ npm run deploy
 
 ## Maintenance Tools
 
+Start with the [documentation index](docs/README.md) and [maintenance guide](docs/MAINTENANCE.md). Use the Hugo Extended version in `.hugo-version`; `npm run verify` runs regression checks and validates production output.
+
 The `scripts/` directory contains various automation tools for maintaining and analyzing the site. All scripts should be run from the repository root directory.
 
 ### Shell Scripts
 
-- **[deploy.sh](scripts/deploy.sh)** - Commits all changes with timestamp (or custom message) and pushes to main branch
+- **[deploy.sh](scripts/deploy.sh)** - Verifies and commits explicitly staged changes on main, then pushes
   ```bash
   ./scripts/deploy.sh "Optional commit message"
   ```
 - **[review_changes.sh](scripts/review_changes.sh)** - Review staged git changes before committing
 - **[rename_blog_files.sh](scripts/rename_blog_files.sh)** - Rename dated blog posts to remove date prefixes ⚠️ Review before running
-- **[cleanup_images.sh](scripts/cleanup_images.sh)** - Legacy broad image cleanup ⚠️ Do not run without a fresh media audit
 
 ### Python Audit & Analysis Scripts
 

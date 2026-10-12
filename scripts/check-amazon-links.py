@@ -146,7 +146,10 @@ def main():
                     help='added random 0..jitter seconds per request (default 1.5)')
     ap.add_argument('--limit', type=int, default=0,
                     help='only check the first N unique URLs (0 = all)')
+    ap.add_argument("--report", type=Path, default=Path(f"docs/AUDIT-amazon-links-{date.today().isoformat()}.md"))
     args = ap.parse_args()
+    if args.report.exists():
+        ap.error("Report already exists; choose a new --report path.")
 
     print("=" * 70)
     print("AMAZON LINKS CHECKER")
@@ -189,7 +192,7 @@ def main():
                 'final_url': final, 'status': status, 'note': note,
             })
 
-    report_path = Path('docs/AUDIT-amazon-links.md')
+    report_path = args.report
     data_path = Path('scripts/data/audit-amazon-links.json')
     report_path.parent.mkdir(parents=True, exist_ok=True)
     data_path.parent.mkdir(parents=True, exist_ok=True)

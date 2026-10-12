@@ -33,6 +33,7 @@ jobs:
       contents: write
     outputs:
       should_build: ${{ steps.decide.outputs.should_build }}
+      revision: ${{ steps.revision.outputs.sha }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -76,29 +77,36 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/syndication.json
           git commit -m "Refresh Micro.blog syndication links [skip ci]"
-          git push || echo "::warning title=Syndication baseline not pushed::A newer commit landed first; the next run will pick it up."
+          if ! git push; then
+            echo "should_build=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Main advanced; skip this scheduled build and retry next run."
+          fi
+
+      - name: Record exact source revision
+        id: revision
+        run: echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
 
   # Build job
   build:
     needs: gate
     if: needs.gate.outputs.should_build == 'true'
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.160.1
+    outputs:
+      revision: ${{ needs.gate.outputs.revision }}
     steps:
       - name: Checkout
         uses: actions/checkout@v6
         with:
           # enableGitInfo needs full history for lastmod dates.
           fetch-depth: 0
+          ref: ${{ needs.gate.outputs.revision }}
 
-      - name: Install Hugo
-        run: |
-          curl -L "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz" -o /tmp/hugo.tar.gz
-          mkdir -p /tmp/hugo
-          tar -xzf /tmp/hugo.tar.gz -C /tmp/hugo hugo
-          echo "/tmp/hugo" >> "$GITHUB_PATH"
-          /tmp/hugo/hugo version
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+
+      - name: Install pinned Hugo
+        run: bash scripts/install-hugo-ci.sh
 
       - name: Fetch popular posts from Tinylytics
         env:
@@ -111,32 +119,12 @@ jobs:
           fi
 
       - name: Fetch Micro.blog syndication links
+        if: github.event_name != 'schedule'
         continue-on-error: true
         run: python3 scripts/fetch_syndication_links.py
 
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "https://joshuapsteele.com/"
-
-      - name: Verify Amazon Associates disclosures
-        run: python3 scripts/check-amazon-disclosures.py
-
-      - name: Send outgoing Webmentions
-        if: github.event_name != 'schedule'
-        continue-on-error: true
-        run: |
-          python3 scripts/send_webmentions.py \
-            --public-dir public \
-            --feed public/notes/feed.json \
-            --feed public/blog/feed.json \
-            --limit 5 \
-            --since-days 30
+      - name: Verify production site
+        run: npm run verify
 
       - name: Archive Pages artifact
         run: |
@@ -171,6 +159,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     permissions:
+      contents: read
       pages: write
       id-token: write
     # Serialize only the deployment itself.
@@ -178,9 +167,51 @@ jobs:
       group: "pages"
       cancel-in-progress: false
     steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ needs.build.outputs.revision }}
+
+      - name: Skip obsolete build
+        id: freshness
+        env:
+          BUILD_REVISION: ${{ needs.build.outputs.revision }}
+        run: |
+          latest="$(git ls-remote origin refs/heads/main | cut -f1)"
+          if [ -z "$latest" ]; then
+            echo "::error::Could not resolve main."
+            exit 1
+          fi
+          if [ "$latest" = "$BUILD_REVISION" ]; then
+            echo "current=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "current=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Skipping obsolete build $BUILD_REVISION."
+          fi
+
       - name: Deploy to GitHub Pages
         id: deployment
+        if: steps.freshness.outputs.current == 'true'
         env:
           NODE_OPTIONS: --no-deprecation
         # Pin the Node 24 update until actions/deploy-pages publishes the next tag.
         uses: actions/deploy-pages@cd2ce8fcbc39b97be8ca5fce6e763baed58fa128
+
+      - name: Download deployed artifact for Webmentions
+        if: steps.freshness.outputs.current == 'true' && github.event_name != 'schedule'
+        uses: actions/download-artifact@v6
+        with:
+          name: github-pages
+          path: ${{ runner.temp }}/deployed
+
+      - name: Send outgoing Webmentions after deployment
+        if: steps.freshness.outputs.current == 'true' && github.event_name != 'schedule'
+        continue-on-error: true
+        run: |
+          mkdir -p public
+          tar -xf "$RUNNER_TEMP/deployed/artifact.tar" -C public
+          python3 scripts/send_webmentions.py \
+            --public-dir public \
+            --feed public/notes/feed.json \
+            --feed public/blog/feed.json \
+            --limit 5 \
+            --since-days 30

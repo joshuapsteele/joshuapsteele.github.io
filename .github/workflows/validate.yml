@@ -1,0 +1,20 @@
+name: Validate site
+on:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - name: Install pinned Hugo
+        run: bash scripts/install-hugo-ci.sh
+      - name: Verify production site
+        run: npm run verify

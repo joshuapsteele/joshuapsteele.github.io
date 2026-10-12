@@ -46,6 +46,7 @@
             {{- $replyHTML := printf "<p><a class=\"u-in-reply-to\" href=\"%s\">In reply to</a></p>" (. | htmlEscape) -}}
             {{- $contentHTML = printf "%s\n%s" $replyHTML $contentHTML -}}
             {{- end }}
+            "authors": [{"name": {{ (partial "author.html" .) | jsonify }}{{ with .Params.author_url }}, "url": {{ . | jsonify }}{{ end }}}],
             "title": {{ .Title | jsonify }},
             "id": {{ .Permalink | jsonify }},
             "url": {{ .Permalink | jsonify }},

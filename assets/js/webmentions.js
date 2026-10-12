@@ -1,0 +1,560 @@
+(function() {
+  const canonicalLink = document.querySelector('link[rel="canonical"]');
+  const targetUrl = canonicalLink && canonicalLink.href ? canonicalLink.href : window.location.href;
+  const sources = [
+    {
+      name: "webmention.io",
+      url: `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(targetUrl)}&per-page=50`
+    },
+    {
+      name: "micro.blog",
+      url: `https://micro.blog/webmention?target=${encodeURIComponent(targetUrl)}&format=jf2`
+    }
+  ];
+
+  const container = document.getElementById("webmentions-container");
+  const loading = document.getElementById("webmentions-loading");
+  const error = document.getElementById("webmentions-error");
+  const none = document.getElementById("webmentions-none");
+  const heading = document.getElementById("webmentions-heading");
+
+  if (!container || !loading || !error || !none) return;
+
+  Promise.all(sources.map(fetchMentions))
+    .then(results => {
+      loading.style.display = "none";
+
+      const successful = results.filter(result => result.ok);
+      if (successful.length === 0) {
+        error.style.display = "block";
+        return;
+      }
+
+      const mentions = dedupeMentions(successful.flatMap(result => result.mentions));
+      if (mentions.length === 0) {
+        none.style.display = "block";
+        return;
+      }
+
+      const grouped = groupMentions(mentions);
+      renderCounter(grouped);
+      const totalCount = grouped.likes.length + grouped.reposts.length + grouped.replies.length + grouped.mentions.length;
+      if (heading && totalCount > 0) {
+        heading.textContent = `💬 Conversations (${totalCount})`;
+      }
+
+      renderGroups(grouped);
+
+      if (successful.length < sources.length) {
+        error.style.display = "block";
+      }
+    });
+
+  function renderCounter(grouped) {
+    const counter = document.getElementById("webmention-counter");
+    const text = document.getElementById("webmention-counter-text");
+    if (!counter || !text) return;
+    const parts = [];
+    const replies = grouped.replies.length;
+    if (replies) parts.push(`💬 ${replies} ${replies === 1 ? "reply" : "replies"}`);
+    if (grouped.likes.length) parts.push(`❤️ ${grouped.likes.length}`);
+    if (grouped.reposts.length) parts.push(`🔁 ${grouped.reposts.length}`);
+    if (grouped.mentions.length) parts.push(`🔗 ${grouped.mentions.length}`);
+    text.textContent = parts.join(" · ");
+    counter.style.display = parts.length ? "inline" : "none";
+  }
+
+  function fetchMentions(source) {
+    return fetch(source.url)
+      .then(response => {
+        if (source.name === "micro.blog" && response.status === 404) {
+          return { type: "feed", name: "Conversation", children: [] };
+        }
+        if (!response.ok) throw new Error(`${source.name} returned ${response.status}`);
+        return response.json();
+      })
+      .then(data => ({
+        ok: true,
+        mentions: normalizeMentions(data, source.name)
+      }))
+      .catch(err => {
+        console.error("Error loading webmentions from " + source.name + ":", err);
+        return { ok: false, mentions: [] };
+      });
+  }
+
+  function normalizeMentions(data, sourceName) {
+    const rawMentions = Array.isArray(data.children)
+      ? data.children
+      : (Array.isArray(data.items) ? data.items.map(jsonFeedItemToMention) : []);
+
+    return rawMentions.map(mention => {
+      const normalized = Object.assign({}, mention);
+      normalized._sourceName = sourceName;
+
+      if (!normalized["wm-property"]) {
+        if (normalized["like-of"]) normalized["wm-property"] = "like-of";
+        else if (normalized["repost-of"]) normalized["wm-property"] = "repost-of";
+        else if (normalized["in-reply-to"] || sourceName === "micro.blog") normalized["wm-property"] = "in-reply-to";
+        else normalized["wm-property"] = "mention-of";
+      }
+      if (sourceName === "micro.blog" && normalized["wm-property"] === "mention-of") {
+        normalized["wm-property"] = "in-reply-to";
+      }
+
+      return normalized;
+    });
+  }
+
+  function jsonFeedItemToMention(item) {
+    return {
+      type: "entry",
+      url: item.url || item.external_url || item.id,
+      published: item.date_published,
+      content: {
+        html: item.content_html || "",
+        text: item.content_text || item.summary || ""
+      },
+      author: item.author || (Array.isArray(item.authors) ? item.authors[0] : null)
+    };
+  }
+
+  function dedupeMentions(mentions) {
+    const seen = new Map();
+    const out = [];
+
+    mentions.forEach(mention => {
+      const key = mentionKey(mention);
+      if (seen.has(key)) {
+        mergeMention(seen.get(key), mention);
+        return;
+      }
+
+      seen.set(key, mention);
+      out.push(mention);
+    });
+
+    return out;
+  }
+
+  function mergeMention(target, source) {
+    target.author = mergeAuthor(target.author, source.author);
+    target.content = mergeContent(target.content, source.content);
+
+    copyIfMissing(target, source, "published");
+    copyIfMissing(target, source, "url");
+    copyIfMissing(target, source, "wm-source");
+    copyIfMissing(target, source, "wm-id");
+    copyIfMissing(target, source, "wm-property");
+  }
+
+  function mergeAuthor(targetAuthor, sourceAuthor) {
+    const target = Object.assign({}, targetAuthor || {});
+    const source = sourceAuthor || {};
+
+    ["type", "name", "url", "photo"].forEach(field => {
+      if (!hasText(target[field]) && hasText(source[field])) {
+        target[field] = source[field];
+      }
+    });
+
+    return target;
+  }
+
+  function mergeContent(targetContent, sourceContent) {
+    const target = Object.assign({}, targetContent || {});
+    const source = sourceContent || {};
+
+    ["html", "text"].forEach(field => {
+      if (!hasText(target[field]) && hasText(source[field])) {
+        target[field] = source[field];
+      }
+    });
+
+    return target;
+  }
+
+  function copyIfMissing(target, source, field) {
+    if (!hasText(target[field]) && hasText(source[field])) {
+      target[field] = source[field];
+    }
+  }
+
+  function hasText(value) {
+    return typeof value === "string" ? value.trim().length > 0 : value !== undefined && value !== null;
+  }
+
+  function mentionKey(mention) {
+    const urlKey = mention.url || mention["wm-source"] || mention.id;
+    if (urlKey) return urlKey;
+
+    const author = mention.author || {};
+    const content = mention.content || {};
+    const contentText = content.text || content.html || "";
+    return [
+      mention["wm-property"] || "",
+      mention.url || mention["wm-source"] || mention.id || "",
+      author.url || author.name || "",
+      mention.published || "",
+      contentText.slice(0, 160)
+    ].join("|");
+  }
+
+  function groupMentions(mentions) {
+    const grouped = {
+      likes: [],
+      reposts: [],
+      replies: [],
+      mentions: []
+    };
+
+    mentions.forEach(mention => {
+      const type = mention["wm-property"];
+      if (type === "like-of") grouped.likes.push(mention);
+      else if (type === "repost-of") grouped.reposts.push(mention);
+      else if (type === "in-reply-to") grouped.replies.push(mention);
+      else grouped.mentions.push(mention);
+    });
+
+    grouped.replies.sort(sortByPublished);
+    grouped.mentions.sort(sortByPublished);
+    return grouped;
+  }
+
+  function sortByPublished(a, b) {
+    return dateValue(a.published) - dateValue(b.published);
+  }
+
+  function dateValue(value) {
+    const date = value ? new Date(value) : null;
+    return date && !isNaN(date) ? date.getTime() : 0;
+  }
+
+  function renderGroups(grouped) {
+    container.replaceChildren();
+
+    if (grouped.likes.length > 0) {
+      container.appendChild(renderFacepileSection("❤️", "Likes", grouped.likes));
+    }
+    if (grouped.reposts.length > 0) {
+      container.appendChild(renderFacepileSection("🔁", "Reposts", grouped.reposts));
+    }
+    if (grouped.replies.length > 0) {
+      container.appendChild(renderReplySection(grouped.replies));
+    }
+    if (grouped.mentions.length > 0) {
+      container.appendChild(renderMentionSection(grouped.mentions));
+    }
+  }
+
+  function renderFacepileSection(icon, label, mentions) {
+    const section = createSection(`${icon} ${label} (${mentions.length})`);
+    const facepile = document.createElement("div");
+    facepile.className = "webmention-facepile";
+
+    mentions.slice(0, 20).forEach(mention => {
+      const author = mention.author || {};
+      const name = authorDisplayName(author, mention.url);
+      const href = safeUrl(author.url || mention.url);
+      const photo = safeUrl(author.photo);
+
+      if (!photo) return;
+
+      const link = document.createElement("a");
+      if (href) link.href = href;
+      link.title = name;
+      link.rel = "nofollow noopener";
+      link.target = "_blank";
+
+      const img = document.createElement("img");
+      img.src = photo;
+      img.alt = name;
+      img.className = "webmention-avatar";
+      link.appendChild(img);
+      facepile.appendChild(link);
+    });
+
+    section.appendChild(facepile);
+    return section;
+  }
+
+  function renderReplySection(replies) {
+    const section = createSection(`💬 Replies (${replies.length})`);
+    const list = document.createElement("div");
+    list.className = "webmention-replies";
+    const threads = buildReplyThreads(replies);
+
+    threads.forEach(thread => {
+      list.appendChild(renderReplyThread(thread, 0));
+    });
+
+    section.appendChild(list);
+    return section;
+  }
+
+  function buildReplyThreads(replies) {
+    const threads = [];
+    const latestByHandle = new Map();
+
+    replies.forEach(reply => {
+      const node = { reply, children: [] };
+      const ownHandle = normalizedAuthorHandle(reply);
+      const parentHandle = leadingMentionHandle(reply);
+      const parent = parentHandle && parentHandle !== ownHandle ? latestByHandle.get(parentHandle) : null;
+
+      if (parent) parent.children.push(node);
+      else threads.push(node);
+
+      if (ownHandle) latestByHandle.set(ownHandle, node);
+    });
+
+    return threads;
+  }
+
+  function renderReplyThread(node, depth) {
+    const group = document.createElement("div");
+    group.className = depth > 0 ? "webmention-thread webmention-thread-child" : "webmention-thread";
+
+    const reply = renderReply(node.reply);
+    if (depth > 0) reply.classList.add("webmention-reply-child");
+    group.appendChild(reply);
+
+    if (node.children.length > 0) {
+      const children = document.createElement("div");
+      children.className = "webmention-thread-children";
+      node.children.forEach(child => {
+        children.appendChild(renderReplyThread(child, depth + 1));
+      });
+      group.appendChild(children);
+    }
+
+    return group;
+  }
+
+  function renderReply(reply) {
+    const author = reply.author || {};
+    const name = authorDisplayName(author, reply.url || reply["wm-source"]);
+    const photo = safeUrl(author.photo);
+    const url = safeUrl(reply.url || reply["wm-source"]);
+    const authorUrl = safeUrl(author.url || url);
+    const published = formatPublished(reply.published);
+    const content = reply.content || {};
+
+    const item = document.createElement("div");
+    item.className = "webmention-reply";
+
+    const authorWrap = document.createElement("div");
+    authorWrap.className = "webmention-author";
+
+    if (photo) {
+      const img = document.createElement("img");
+      img.src = photo;
+      img.alt = name;
+      img.className = "webmention-avatar";
+      authorWrap.appendChild(img);
+    }
+
+    const authorInfo = document.createElement("div");
+    authorInfo.className = "webmention-author-info";
+
+    const authorLink = createExternalLink(authorUrl || url, name, "webmention-author-name");
+    authorInfo.appendChild(authorLink);
+
+    if (published) {
+      const time = document.createElement("time");
+      time.className = "webmention-published";
+      time.textContent = published;
+      authorInfo.appendChild(time);
+    }
+
+    authorWrap.appendChild(authorInfo);
+    item.appendChild(authorWrap);
+
+    if (content.html || content.text) {
+      const contentWrap = document.createElement("div");
+      contentWrap.className = "webmention-content";
+      if (content.html) appendSanitizedHtml(contentWrap, content.html);
+      else contentWrap.textContent = content.text;
+      item.appendChild(contentWrap);
+    }
+
+    if (url) {
+      const linkWrap = document.createElement("div");
+      linkWrap.className = "webmention-link";
+      linkWrap.appendChild(createExternalLink(url, "View original →"));
+      item.appendChild(linkWrap);
+    }
+
+    return item;
+  }
+
+  function renderMentionSection(mentions) {
+    const section = createSection(`🔗 Mentions (${mentions.length})`);
+    const list = document.createElement("div");
+    list.className = "webmention-mentions";
+
+    mentions.forEach(mention => {
+      const author = mention.author || {};
+      const name = authorDisplayName(author, mention.url || mention["wm-source"]);
+      const url = safeUrl(mention.url || mention["wm-source"]);
+      const published = formatPublished(mention.published);
+
+      const item = document.createElement("div");
+      item.className = "webmention-mention";
+
+      const authorSpan = document.createElement("span");
+      authorSpan.className = "webmention-mention-author";
+      authorSpan.textContent = name;
+      item.appendChild(authorSpan);
+      item.appendChild(document.createTextNode(" mentioned this"));
+
+      if (published) item.appendChild(document.createTextNode(" on " + published));
+      if (url) {
+        item.appendChild(document.createTextNode(" - "));
+        item.appendChild(createExternalLink(url, "View →"));
+      }
+
+      list.appendChild(item);
+    });
+
+    section.appendChild(list);
+    return section;
+  }
+
+  function createSection(title) {
+    const section = document.createElement("div");
+    section.className = "webmention-type-section";
+    const heading = document.createElement("h4");
+    heading.textContent = title;
+    section.appendChild(heading);
+    return section;
+  }
+
+  function createExternalLink(href, text, className) {
+    const link = document.createElement("a");
+    const cleanHref = safeUrl(href);
+    if (cleanHref) link.href = cleanHref;
+    link.textContent = text;
+    if (className) link.className = className;
+    link.rel = "nofollow noopener";
+    link.target = "_blank";
+    return link;
+  }
+
+  function authorDisplayName(author, fallbackUrl) {
+    const handle = authorHandle(author, fallbackUrl);
+    if (handle) return `@${handle}`;
+    if (hasText(author.name)) return author.name.trim();
+    return "someone";
+  }
+
+  function normalizedAuthorHandle(reply) {
+    return normalizeHandle(authorHandle(reply.author || {}, reply.url || reply["wm-source"]));
+  }
+
+  function leadingMentionHandle(reply) {
+    const text = mentionText(reply);
+    const match = text.match(/^\s*@([A-Za-z0-9_.-]+)/);
+    return match ? normalizeHandle(match[1]) : "";
+  }
+
+  function mentionText(mention) {
+    const content = mention.content || {};
+    if (hasText(content.text)) return content.text;
+    if (!hasText(content.html)) return "";
+
+    const template = document.createElement("template");
+    template.innerHTML = content.html;
+    return template.content.textContent || "";
+  }
+
+  function normalizeHandle(value) {
+    return (value || "").replace(/^@/, "").toLowerCase();
+  }
+
+  function authorHandle(author, fallbackUrl) {
+    const fallbackHandle = handleFromUrl(fallbackUrl);
+    if (fallbackHandle) return fallbackHandle;
+
+    const authorHandle = handleFromUrl(author.url);
+    if (authorHandle) return authorHandle;
+
+    return "";
+  }
+
+  function handleFromUrl(value) {
+    const profileUrl = safeUrl(value);
+    if (!profileUrl) return "";
+
+    try {
+      const url = new URL(profileUrl);
+      const hostname = url.hostname.toLowerCase();
+      const parts = url.pathname.split("/").filter(Boolean).map(part => decodeURIComponent(part));
+
+      if (hostname === "micro.blog" && parts[0]) return parts[0].replace(/^@/, "");
+      if ((hostname.endsWith("threads.com") || hostname.endsWith("threads.net")) && parts[0]) return parts[0].replace(/^@/, "");
+      if (parts[0] === "users" && parts[1]) return parts[1].replace(/^@/, "");
+      if (parts[0] && parts[0].startsWith("@")) return parts[0].replace(/^@/, "");
+    } catch (_) {
+      return "";
+    }
+
+    return "";
+  }
+
+  function appendSanitizedHtml(parent, html) {
+    const template = document.createElement("template");
+    template.innerHTML = html;
+    Array.from(template.content.childNodes).forEach(node => {
+      parent.appendChild(sanitizeNode(node));
+    });
+  }
+
+  function sanitizeNode(node) {
+    if (node.nodeType === Node.TEXT_NODE) {
+      return document.createTextNode(node.textContent);
+    }
+
+    if (node.nodeType !== Node.ELEMENT_NODE) {
+      return document.createDocumentFragment();
+    }
+
+    const allowedTags = new Set(["A", "P", "BR", "EM", "STRONG", "B", "I", "CODE", "PRE", "BLOCKQUOTE", "UL", "OL", "LI", "SPAN"]);
+    const tag = node.tagName;
+
+    if (!allowedTags.has(tag)) {
+      const fragment = document.createDocumentFragment();
+      Array.from(node.childNodes).forEach(child => fragment.appendChild(sanitizeNode(child)));
+      return fragment;
+    }
+
+    const clean = document.createElement(tag.toLowerCase());
+    if (tag === "A") {
+      const href = safeUrl(node.getAttribute("href"));
+      if (href) {
+        clean.href = href;
+        clean.rel = "nofollow noopener";
+        clean.target = "_blank";
+      }
+    }
+
+    Array.from(node.childNodes).forEach(child => clean.appendChild(sanitizeNode(child)));
+    return clean;
+  }
+
+  function formatPublished(value) {
+    const date = value ? new Date(value) : null;
+    if (!date || isNaN(date)) return "";
+    return date.toLocaleDateString();
+  }
+
+  function safeUrl(value) {
+    if (!value) return "";
+    try {
+      const url = new URL(value, window.location.href);
+      return (url.protocol === "http:" || url.protocol === "https:") ? url.href : "";
+    } catch (_) {
+      return "";
+    }
+  }
+})();

@@ -7,7 +7,7 @@
 #
 # This ensures compatibility with Obsidian and cleaner URLs
 
-# Target: 8 Current Categories
+# Target: 9 Current Categories
 # 1. theology - All theological content, biblical studies, church theology
 # 2. ethics - Ethics, politics, social justice, political theology
 # 3. ministry - Ministry, preaching, pastoral work, church life
@@ -16,6 +16,7 @@
 # 6. dissertation - Keep separate (cohesive academic series)
 # 7. poem - Poetry
 # 8. politics - Directly political posts
+# 9. diy - Hands-on projects and related gift/tool content
 
 category_mapping:
   # THEOLOGY - Consolidate bible, religion, discipleship, sermons

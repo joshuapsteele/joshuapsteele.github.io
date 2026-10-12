@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Last refreshed: 2026-07-05_
+_Last refreshed: 2026-10-12_
 
 This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
 
@@ -9,14 +9,14 @@ This file provides guidance to AI coding agents working in this repository. `AGE
 This repository and the companion Obsidian vault (`/Users/joshuapsteele/git/joshuapsteele`) are subject to a periodic audit-and-cleanup effort. If your task is part of that effort:
 
 **1. Where your instructions are.** This file (`CLAUDE.md`, symlinked as `AGENTS.md`) holds repo conventions. The project's findings and open work live in `docs/`:
-- `docs/AUDIT-MASTER-REPORT.md` — the latest dated audit snapshot. Read it for context; do not edit it (see point 3).
+- `docs/AUDIT-2026-10-12.md` — the latest dated audit snapshot. Read it for context; do not edit it (see point 3). Older reports, including `docs/archive/AUDIT-MASTER-REPORT.md`, are historical snapshots.
 - `docs/CLEANUP-CHECKLIST.md` — the living list of open items.
-- `docs/TAGGING-PROGRESS.md` — resumable state for the blog-post tagging effort.
+- `docs/MAINTENANCE.md` — current maintenance and taxonomy conventions; the completed tagging handoff is archived.
 
 **2. You must log your progress.** Assume the next session (and the other tool — Claude Code or Codex) remembers nothing. If you do not record what you did, that work is invisible to whoever picks this up next.
 
 **3. Where to log it — update the living tracker in the same commit as the change:**
-- Tagging work → update the Progress section of `docs/TAGGING-PROGRESS.md`.
+- Tagging work → update `docs/CLEANUP-CHECKLIST.md`; keep the completed tagging handoff archived.
 - Completing an open item → check it off in `docs/CLEANUP-CHECKLIST.md` and move it to "Completed."
 - Do **not** edit the dated `docs/AUDIT-*.md` reports; they are point-in-time snapshots. When a new audit is run, write a new dated report instead.
 - `git log` is the history of record — do not hand-maintain a separate changelog.
@@ -28,7 +28,7 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 
 ## Site Architecture
 
-- **Static Site Generator**: Hugo Extended (CI pins the exact version in `.github/workflows/hugo.yml`; Node 20 in CI, Node 18+ locally)
+- **Static Site Generator**: Hugo Extended (local setup and CI use `.hugo-version`; Node 22 in CI, Node 18+ locally)
 - **Theme**: PaperMod (in `themes/` directory, override via `layouts/` and `assets/`)
 - **Content Structure**:
   - `content/blog/` - Long-form blog posts with YAML front matter
@@ -89,13 +89,10 @@ npm run deploy
 ### Deployment
 The site uses GitHub Actions for automated deployment (`.github/workflows/hugo.yml`):
 - Workflow triggered on push to `main` branch or manual dispatch
-- Build job: Checks out code with submodules, installs the Hugo version pinned in the workflow, caches dependencies, builds site with `hugo --gc --minify`
+- Build job: Checks out an explicit source revision, installs Hugo from `.hugo-version`, runs regression tests and a validated production build
 - Deploy job: Deploys to GitHub Pages using built artifact
 
-The `scripts/deploy.sh` script simplifies local deployment workflow:
-1. Adds all changes to git (`git add .`)
-2. Commits with timestamp or custom message
-3. Pushes to `main` branch (triggers GitHub Actions build and deployment)
+The `scripts/deploy.sh` wrapper requires explicitly staged changes on main and a clean remaining working tree, runs `npm run verify`, then commits and pushes. It stops on any error; review `git diff --cached` first.
 
 **Important**: Never push directly to `main` without testing locally first with `npm run dev` and `npm run build`
 
@@ -225,7 +222,7 @@ Validate implementations with:
 
 ## Taxonomy Management
 
-The site uses a taxonomy consolidation system to maintain consistent categories and tags. Canonical categories are `theology`, `ethics`, `personal`, `productivity`, `dissertation`, `ministry`, `poem`, and `politics`. Use `python3 scripts/audit-frontmatter.py` for live category/tag coverage instead of copying counts into docs.
+The site uses a taxonomy consolidation system to maintain consistent categories and tags. Canonical categories are `theology`, `ethics`, `personal`, `productivity`, `dissertation`, `ministry`, `poem`, `politics`, and `diy`. Use `python3 scripts/audit-frontmatter.py` for live category/tag coverage instead of copying counts into docs.
 
 ### Taxonomy Files
 - `scripts/data/taxonomy_map.yaml` - Master configuration defining category/tag consolidation rules
@@ -240,8 +237,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 ## Maintenance Scripts
 
 ### Shell Scripts
-- `scripts/deploy.sh` - Commits all changes with timestamp (or custom message) and pushes to main
-- `scripts/cleanup_images.sh` - Legacy broad image cleanup (DANGEROUS: run a fresh media audit first)
+- `scripts/deploy.sh` - Verifies and commits explicitly staged changes on main, then pushes
 - `scripts/rename_blog_files.sh` - Renames dated blog posts to remove date prefixes (review before running)
 - `scripts/review_changes.sh` - Review staged changes before committing
 
@@ -249,7 +245,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `scripts/audit-frontmatter.py` - Analyze front matter for missing fields and inconsistencies (outputs to `scripts/data/`)
 - `scripts/check-internal-links.py` - Check for broken internal links; validates against the built `public/` site, so run `npm run build` first (outputs to `scripts/data/`)
 - `scripts/check-external-links.py` - Check non-Amazon, non-self external links; sends browser headers, throttles per-domain, retries, and classifies dead vs. blocked/manual (outputs to `scripts/data/`)
-- `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links.md` + `scripts/data/`)
+- `scripts/check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort: browser headers, cookie jar, sequential jittered delays, redirect-following (`--delay`/`--jitter`/`--limit`; outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `scripts/data/`)
 - `scripts/check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure; runs automatically in `npm run build` and CI
 - `scripts/convert-internal-links.py` - Rewrite absolute joshuapsteele.com self-links in post bodies to root-relative links, validating against `public/`; dry-run by default, `--apply` to write
 - `scripts/lookup-wayback.py` - Query the Internet Archive for snapshots of the dead URLs in `audit-external-links.json`; writes `scripts/data/wayback-map.json`
@@ -275,7 +271,7 @@ The site uses a taxonomy consolidation system to maintain consistent categories 
 - `CLAUDE.md` - This file - AI assistant guidance
 - `docs/AGENTS.md` - Repository guidelines and conventions
 - `docs/AUDIT-*.md` - Various audit reports (structure, frontmatter, internal links, external links, taxonomy, action plan)
-- `docs/AUDIT-MASTER-REPORT.md` - Consolidated audit findings
+- `docs/AUDIT-2026-10-12.md` - Current audit baseline (historical master report archived)
 - `docs/CLEANUP-CHECKLIST.md` - Checklist for site maintenance
 - `docs/archive/AUDIENCE_GROWTH_STRATEGY.md` - Archived strategy document
 
@@ -363,7 +359,6 @@ See `drafts-actions/` directory for Drafts action setup and usage.
 - Don't commit without testing locally first
 - Don't change file naming conventions without asking
 - Don't remove or modify front matter fields without understanding their purpose
-- Don't run destructive scripts (`scripts/cleanup_images.sh`, `scripts/rename_blog_files.sh`) without explicit confirmation
 - Don't push directly to `main` in production without testing
 
 ### Safety Checks
@@ -384,7 +379,7 @@ See `drafts-actions/` directory for Drafts action setup and usage.
 ### Local Development Issues
 - **Port 1313 already in use**: Kill existing Hugo server or use `hugo server -p 1314`
 - **Changes not reflecting**: Hard refresh browser (Ctrl+F5) or clear cache
-- **Theme not loading**: Ensure theme submodule is initialized: `git submodule update --init`
+- **Theme not loading**: Verify tracked `themes/PaperMod/` files are present; the theme is vendored, not a submodule
 
 ### Content Issues
 - **Broken internal links**: Run `python3 scripts/check-internal-links.py` and fix reported issues
@@ -402,7 +397,7 @@ See `drafts-actions/` directory for Drafts action setup and usage.
 - Run `npm run dev` and review pages, menus, feeds, social images locally (http://localhost:1313)
 - Run `npm run build` and scan console output for warnings and errors
 - Review `git status` and `git diff` to verify all changes are intentional
-- No unit tests; manual verification required
+- Run `npm test` for regression checks; manual visual verification is also required
 - Check that navigation, search, and RSS feeds work correctly
 
 ## Additional Resources

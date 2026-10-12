@@ -17,7 +17,7 @@ This site is built with Hugo (PaperMod theme) and deployed via GitHub Pages. Use
 - `npm run build:fast` – Quick build for sanity checks.
 - `npm run build:stats` – Build with template metrics (performance insights).
 - `npm run deploy` - Runs `scripts/deploy.sh` to commit and push `main` (CI publishes).
-- Prereqs: Node and Hugo Extended installed locally. CI pins its exact versions in `.github/workflows/hugo.yml`.
+- Prereqs: Node and Hugo Extended installed locally. Hugo is pinned in `.hugo-version`; CI uses Node 22.
 
 ## Coding Style & Naming Conventions
 - Markdown: use YAML front matter. Example:
@@ -33,7 +33,7 @@ This site is built with Hugo (PaperMod theme) and deployed via GitHub Pages. Use
 - CSS: extend via `assets/css/extended/custom.css`.
 
 ## Testing Guidelines
-- No unit tests; verify locally: `npm run dev`, review pages, menus, feeds, and social images.
+- Run `npm test` and verify locally: `npm run dev`, review pages, menus, feeds, and social images.
 - Before PR: run `npm run build` and scan console output for warnings.
 
 ## Commit & Pull Request Guidelines
@@ -60,5 +60,5 @@ in_reply_to: "https://example.com/original-post"
 See CLAUDE.md "IndieWeb Features" section for full technical details.
 
 ## Notes & Maintenance
-- Housekeeping scripts: `audit-static-wp-content.py` reviews legacy media without deleting it; `cleanup_images.sh` is an older broad cleanup script and should not be run without a fresh audit. `rename_blog_files.sh` renames dated posts and should be reviewed before running.
+- See `MAINTENANCE.md` for current procedures and `CLEANUP-CHECKLIST.md` for open work. Media auditing is read-only; the old bulk deletion script is retired.
 - Avoid editing `public/`. Prefer config, content, and overrides.

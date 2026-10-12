@@ -15,11 +15,18 @@
 
 {{- if not (.Param "hideAuthor") -}}
 {{- with (partial "author.html" .) }}
-{{- $scratch.Add "meta" (slice (printf "<span class=\"p-author h-card\"><a class=\"p-name u-url\" href=\"%s\">%s</a></span>" site.BaseURL .)) }}
+{{- $authorURL := $.Params.author_url -}}
+{{- if or (eq . "joshuapsteele") (eq . site.Params.author) -}}
+  {{- $authorURL = $authorURL | default site.BaseURL -}}
+{{- end -}}
+{{- if $authorURL -}}
+  {{- $scratch.Add "meta" (slice (printf "<span class=\"p-author h-card\"><a class=\"p-name u-url\" href=\"%s\">%s</a></span>" ($authorURL | safeURL | htmlEscape) (. | htmlEscape))) -}}
+{{- else -}}
+  {{- $scratch.Add "meta" (slice (printf "<span class=\"p-author h-card\"><span class=\"p-name\">%s</span></span>" (. | htmlEscape))) -}}
+{{- end -}}
 {{- end }}
 {{- end }}
 
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
-{{- partial "webmention_counter.html" . -}}

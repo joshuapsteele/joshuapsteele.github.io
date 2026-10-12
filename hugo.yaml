@@ -130,8 +130,6 @@ params:
         url: "/tags/"
       - name: TIL 🆕
         url: "/til/"
-      - name: Why ❓
-        url: "/why/"
       - name: Wish List 🎁
         url: "/wish-list/"
       - name: Yep ✅
@@ -239,7 +237,12 @@ caches:
 # Asset processing
 imaging:
   resampleFilter: "CatmullRom"
-  quality: 75
+  jpeg:
+    quality: 75
+  webp:
+    quality: 75
+  avif:
+    quality: 75
   anchor: "Smart"
 
 # services:

@@ -10,7 +10,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 ## Main Scripts
 
 ### Deployment
-- `deploy.sh` - Deploy site to GitHub (commits with timestamp and pushes)
+- `deploy.sh` - Verify and publish explicitly staged changes on main
 - `fetch_popular_posts.py` - Fetch popular posts from Tinylytics API (used in CI/CD)
 - `fetch_syndication_links.py` - Fetch Micro.blog syndication URLs (including Mastodon, Threads, and Bluesky) for Hugo response links
 - `send_webmentions.py` - Discover and send outgoing Webmentions for recently built reply posts
@@ -28,7 +28,7 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 - `audit-static-wp-content.py` - Non-destructively audit legacy WordPress media references
 - `check-internal-links.py` - Check for broken internal links; validates against the built `public/` site (run `npm run build` first). Outputs to `data/`
 - `check-external-links.py` - Check non-Amazon, non-self external links. Sends browser headers, throttles per-domain, retries, and classifies results as dead vs. blocked/manual. Skips Amazon and joshuapsteele.com (handled below). Outputs to `data/`
-- `check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, cookie jar, sequential jittered delays, redirect-following). Flags `--delay`/`--jitter`/`--limit`. Outputs `docs/AUDIT-amazon-links.md` + `data/`
+- `check-amazon-links.py` - Check Amazon links (amazon.com/amzn.to/a.co) with anti-block best effort (browser headers, cookie jar, sequential jittered delays, redirect-following). Flags `--delay`/`--jitter`/`--limit`. Outputs `docs/AUDIT-amazon-links-YYYY-MM-DD.md` + `data/`
 - `check-amazon-disclosures.py` - Verify every Amazon-affiliate-link page in the built `public/` site contains the required Associate statement and every tagged or shortened Amazon affiliate link has an adjacent `(paid link)` disclosure. Runs automatically in `npm run build` and CI
 - `convert-internal-links.py` - Rewrite absolute self-links (joshuapsteele.com) in post bodies to root-relative internal links, validating against `public/` and flagging any that don't resolve. Dry-run by default; `--apply` to write
 - `lookup-wayback.py` - For the dead URLs in `data/audit-external-links.json`, query the Internet Archive for the closest usable (2xx) snapshot; writes `data/wayback-map.json`
@@ -44,7 +44,6 @@ This directory contains maintenance, audit, and deployment scripts for the joshu
 - `taxonomy_tools.py` - Shared taxonomy utilities
 
 ### Utilities
-- `cleanup_images.sh` - Legacy broad image cleanup (**DANGEROUS**; run a fresh media audit first)
 - `rename_blog_files.sh` - Rename dated blog posts to remove date prefixes
 - `review_changes.sh` - Review staged git changes before committing
 - `show_posts_batch.py` - Display posts in batches for review
@@ -93,3 +92,11 @@ One-off bulk scripts should not stay here after the migration or cleanup pass th
 - `update_descriptions.py` - Hardcoded a prior description rewrite batch and could overwrite later curation.
 
 See the main repository [CLAUDE.md](../CLAUDE.md) for detailed documentation.
+
+## Verification and optional Python dependencies
+
+`npm run verify` runs regression tests and a clean production build, including disclosure and rendered-site checks. These use Python's standard library and Node's built-in test runner. See [maintenance](../docs/MAINTENANCE.md) for deployment and archival conventions.
+
+Optional legacy tools require extra packages: `python-frontmatter` for tagging/category suggestions, `PyYAML` for YAML cleanup/batch display, and `pandas` for traffic analysis. Install them in a virtual environment with `python3 -m pip install -r scripts/requirements-optional.txt`; they are not production-build dependencies.
+
+Report generators accept `--report PATH` and default to dated Markdown filenames, refusing to overwrite an existing report. The media auditor also accepts `--output PATH` for its JSON. Use `--help` before running network crawls. Historical reports now live in `docs/archive/`.

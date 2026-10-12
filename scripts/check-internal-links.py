@@ -283,7 +283,7 @@ def check_internal_links(content_dir):
                             is_valid = True
 
                         # Check for relative paths
-                        if not is_valid and not url.startswith('/'):
+                        if not os.path.isdir(public_dir) and not is_valid and not url.startswith('/'):
                             # Try to resolve relative path
                             current_dir = os.path.dirname(filepath)
                             target_path = os.path.normpath(os.path.join(current_dir, url))
@@ -291,7 +291,7 @@ def check_internal_links(content_dir):
                                 is_valid = True
 
                         # Check for common patterns
-                        if not is_valid:
+                        if not os.path.isdir(public_dir) and not is_valid:
                             # Remove leading slash for checking
                             check_url = normalized.lstrip('/')
 
@@ -371,6 +371,7 @@ def main():
                     print(f"      (normalized: {link['normalized']})")
 
     print("\n" + "=" * 80)
+    return 1 if results["broken_links"] else 0
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())
