@@ -13,9 +13,9 @@ The following essay deals with the theme of the fear of death in [*White Noise*,
 
 ---
 
-> *It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart.**\[1\]***
+> *It is better to go to a funeral than a feast. For death is the destiny of every person, and the living should take this to heart.**\[1\]
 
-Don DeLillo’s *White Noise*, “a paradigm of postmodern literature,”\[2\] yields the kind of cognitive dissonance that makes you wonder whether the author simply missed the mark, or if you are only confused because you suffer from the postmodern condition which DeLillo adroitly analyzes.
+Don DeLillo’s [*White Noise*](http://amzn.to/2EgL3pA), “a paradigm of postmodern literature,”\[2\] yields the kind of cognitive dissonance that makes you wonder whether the author simply missed the mark, or if you are only confused because you suffer from the postmodern condition which DeLillo adroitly analyzes.
 
 I agree with Pico Iyer when he evaluates DeLillo as “that rarest of birds, a novelist on fire with ideas – and an outlaw epistemologist to boot – he uses his fictional excursions as occasions to think aloud in shadowed sentences, speak in modern tongues, plumb mysteries, fathom depths.”\[3\]
 
@@ -23,9 +23,7 @@ One such depth is the **fear of death**, echoing throughout the pages of *White 
 
 In this essay, I endeavor to analyze the Baudrillardian concept of hyperreality as it pertains to the human fear of death, using DeLillo’s *White Noise* and the Union Carbide disaster in Bhopal, India as literary and factual signposts.
 
-# [***White Noise***](http://amzn.to/2EgL3pA)
-
-[![White Noise by Don DeLillo.](http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/White_Noise.jpg/200px-White_Noise.jpg)](http://amzn.to/2EgL3pA)
+## White Noise
 
 Jack Gladney, the novel’s protagonist, is the chairman of the department of Hitler studies at the College-on-the-Hill in a nondescript anytown called Blacksmith. He and his wife, Babette, are the heads of a hodgepodge family filled with an assortment of children from various marriages.
 
@@ -53,7 +51,7 @@ The same chapter closes with Jack’s admission that he is crafting an identity 
 
 In the final chapter of the book’s first section, another confession emerges:
 
-***The truth is I don’t want to die first. Given a choice between loneliness and death, it would take me a fraction of a second to decide. But I don’t want to be alone either. Everything I say to Babette about holes and gaps is true. Her death would leave me scattered, talking to chairs and pillows. Don’t let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light. Let us both live forever, in sickness and in health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating. Who decides these things? What is out there? Who are you?\[12\]***
+> The truth is I don’t want to die first. Given a choice between loneliness and death, it would take me a fraction of a second to decide. But I don’t want to be alone either. Everything I say to Babette about holes and gaps is true. Her death would leave me scattered, talking to chairs and pillows. Don’t let us die, I want to cry out to that fifth century sky ablaze with mystery and spiral light. Let us both live forever, in sickness and in health, feebleminded, doddering, toothless, liver-spotted, dim-sighted, hallucinating. Who decides these things? What is out there? Who are you?\[12\]
 
 Jack Gladney wants to be somebody, and he desperately does not want to die.
 
@@ -63,15 +61,15 @@ In brief, a noxious cloud of a chemical known as Nyodene D gets released into th
 
 When Jack tries to ascertain if his exposure will cause any health risks, he has a poignant conversation with one of the evacuation officials:
 
-***“That’s quite an important armband you’ve got there. What does SIMUVAC mean? Sounds important.”***
-
-***“Short for simulated evacuation. A new state program they’re still battling over funds for.”***
-
-***“But this evacuation isn’t simulated. It’s real.”***
-
-***“We know that. But we thought we could use it as a model.”***
-
-***“A form of practice? Are you saying you saw a chance to use the real event in order to rehearse the simulation?”\[13\]***
+> “That’s quite an important armband you’ve got there. What does SIMUVAC mean? Sounds important.”
+>
+> “Short for simulated evacuation. A new state program they’re still battling over funds for.”
+>
+> “But this evacuation isn’t simulated. It’s real.”
+>
+> “We know that. But we thought we could use it as a model.”
+>
+> “A form of practice? Are you saying you saw a chance to use the real event in order to rehearse the simulation?”\[13\]
 
 The answer is yes. Unfortunately for Gladney, though, his exposure to the Nyodene D was (presumably) real enough. As his fear of death increases as a result of this news, even a specific death sentence eludes him.
 
@@ -89,7 +87,7 @@ A watershed moment for Jack comes in his lengthy conversation with Murray in cha
 
 Consider Murray’s words:
 
-***I believe, Jack, there are two kinds of people in the world. Killers and diers. Most of us are diers. We don’t have the disposition, the rage or whatever it takes to be a killer. We let death happen. We lie down and die. But think what it’s like to be a killer. Think how exciting it is, in theory, to kill a person in direct confrontation. If he dies, you cannot. To kill him is to gain life-credit. The more people you kill, the more credit you store up. It explains any number of massacres, wars, executions.\[15\]***
+> I believe, Jack, there are two kinds of people in the world. Killers and diers. Most of us are diers. We don’t have the disposition, the rage or whatever it takes to be a killer. We let death happen. We lie down and die. But think what it’s like to be a killer. Think how exciting it is, in theory, to kill a person in direct confrontation. If he dies, you cannot. To kill him is to gain life-credit. The more people you kill, the more credit you store up. It explains any number of massacres, wars, executions.\[15\]
 
 Although Murray claims this is a purely theoretical conversation and Jack feigns incredulity, the idea is too tempting for Gladney to resist.
 
@@ -101,7 +99,7 @@ The myth of redemptive violence instantly fades into a parody of redemptive virt
 
 At the hospital, Jack’s conversation with one of the nuns brings the chapter to a poignant, jarring close. She explains:
 
-***Our pretense is a dedication. Someone must appear to believe. Our lives are no less serious than if we professed real faith, real belief. As belief shrinks from the world, people find it more necessary than ever that someone believe. Wild-eyed men in caves. Nuns in black. Monks who do not speak. We are left to believe. Fools, children. Those who have abandoned belief must still believe in us. They are sure they are right not to believe but they know belief must not fade completely. Hell is when no one believes. There must always be believers. Fools, idiots, those who hear voices, those who speak in tongues. We are your lunatics. We surrender our lives to make your nonbelief possible. You are sure that you are right but you don’t want everyone to think as you do. There is no truth without fools. We are your fools, your madwomen, rising at dawn to pray, lighting candles, asking statues for good health, long life.\[16\]***
+> Our pretense is a dedication. Someone must appear to believe. Our lives are no less serious than if we professed real faith, real belief. As belief shrinks from the world, people find it more necessary than ever that someone believe. Wild-eyed men in caves. Nuns in black. Monks who do not speak. We are left to believe. Fools, children. Those who have abandoned belief must still believe in us. They are sure they are right not to believe but they know belief must not fade completely. Hell is when no one believes. There must always be believers. Fools, idiots, those who hear voices, those who speak in tongues. We are your lunatics. We surrender our lives to make your nonbelief possible. You are sure that you are right but you don’t want everyone to think as you do. There is no truth without fools. We are your fools, your madwomen, rising at dawn to pray, lighting candles, asking statues for good health, long life.\[16\]
 
 In the world of *White Noise*, even belief is simulated. Gladney returns home, his mind racing, to watch his children sleep. Similarly, the reader (whose mind is presumably racing as well), is left to watch the novel end.
 
@@ -113,15 +111,13 @@ The final scene is devoted to the supermarket, the transcendental temple of the 
 
 *Fame* and *death*. Searching for center, gripped by thanatophobia. White noise.
 
-# [**The Bhopal Disaster**](http://en.wikipedia.org/wiki/Bhopal_disaster)****\[20\]****
+## [The Bhopal Disaster](http://en.wikipedia.org/wiki/Bhopal_disaster)\[20\]
 
 *White Noise* was first published in January 1985, not long after a disastrous chemical leak in Bhopal, central India.
 
 On the evening of December 3, 1984, a storage tank of methyl isocyanate (MIC, used to produce pesticide) ruptured at the Union Carbide plant, releasing toxic fumes which northwestern winds blew into the shantytowns of Bhopal. The white fumes wreaked havoc on the populace, littering the streets with corpses or vomiting, defecating individuals about to die. “As many as 200,000 people ran through the city streets, coughing, screaming and calling out to each other.”\[21\]
 
 Adding insult to injury, the factory siren went off at around 2:00am, causing many to think that a fire had started. Hundreds rushed toward the plant in order to help – unknowingly entering the path of the lethal gas. Unlike *White Noise*, there was no SIMUVAC.
-
-![Bhopal-Union Carbide 1 crop memorial.jpg](http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Bhopal-Union_Carbide_1_crop_memorial.jpg/225px-Bhopal-Union_Carbide_1_crop_memorial.jpg)
 
 Bhopal was rendered a city of corpses.
 
@@ -141,11 +137,9 @@ As Newsweek put it: “Experts elsewhere said that many of the victims in India 
 
 BLACKSMITH. BHOPAL. BENGAY. BRILLO. Which death should we fear?
 
-# **The Hyperreal Fear of Death in White Noise**
+## The Hyperreal Fear of Death in White Noise
 
-![WikipediaBaudrillard20040612-cropped.png](http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/WikipediaBaudrillard20040612-cropped.png/220px-WikipediaBaudrillard20040612-cropped.png)
-
-According to Jean Baudrillard, **hyperreality** is “***the generation by models of a real without origin or reality***.”\[25\]
+According to Jean Baudrillard, **hyperreality** is “the generation by models of a real without origin or reality.”\[25\]
 
 When our simulations of reality become indistinguishable from the reality itself, we have entered into the realm of the hyperreal. Not only is it difficult (some would say impossible) to reach beyond the simulations, but we often prefer the simulations to reality itself.
 
@@ -159,13 +153,13 @@ In a vicious cycle, the various fear-driven ways in which we react to death make
 
 After all, death itself can only be experienced once.\[27\] Until the end, we spend a lifetime fearing that which we have not experienced.
 
-The first strategy is ***avoidance***, distancing ourselves from the terrifying and uncomfortable. Consider the euphemism. People do not just “die,” they “pass away,” “move on,” “kick the bucket,” “hang up their tennis shoes” (Spanish), and “fall asleep” (Koine Greek).
+The first strategy is avoidance, distancing ourselves from the terrifying and uncomfortable. Consider the euphemism. People do not just “die,” they “pass away,” “move on,” “kick the bucket,” “hang up their tennis shoes” (Spanish), and “fall asleep” (Koine Greek).
 
-The second strategy is ***embrace***, subversively trying to strip death of its fear by exploring the macabre. Consider horror movies. Sure, they rely on the fear of death, but they also attempt to treat it – giving the audience the strength to say “I’ve seen worse” when it comes to their own (probably) mediocre deaths. These first two approaches are often combined. The hero attempts to transcend death through valor, to embrace death through battle-hardened courage. Jack Gladney attempts to avoid and embrace death through Hitler, who was “larger than death.”\[28\]
+The second strategy is embrace, subversively trying to strip death of its fear by exploring the macabre. Consider horror movies. Sure, they rely on the fear of death, but they also attempt to treat it – giving the audience the strength to say “I’ve seen worse” when it comes to their own (probably) mediocre deaths. These first two approaches are often combined. The hero attempts to transcend death through valor, to embrace death through battle-hardened courage. Jack Gladney attempts to avoid and embrace death through Hitler, who was “larger than death.”\[28\]
 
-A third strategy is ***examination***. This is best illustrated within *White Noise* by Murray, whose quote to Jack during the ATE merits quotation at length:
+A third strategy is examination. This is best illustrated within *White Noise* by Murray, whose quote to Jack during the ATE merits quotation at length:
 
-*“This is the nature of modern death,” Murray said. “It has a life independent of us. It is growing in prestige and dimension. It has a sweep it never had before. We study it objectively. We can predict its appearance, trace its path in the body. We can take cross-section pictures of it, tape its tremors and waves. We’ve never been so close to it, so familiar with its habits and attitudes. **We know it intimately. But it continues to grow, to acquire breadth and scope, new outlets, new passages and means. The more we learn, the more it grows.** Is this some law of physics? Every advance in knowledge and technique is matched by a new kind of death, a new strain. **Death adapts, like a viral agent**.”\[29\]*
+> “This is the nature of modern death,” Murray said. “It has a life independent of us. It is growing in prestige and dimension. It has a sweep it never had before. We study it objectively. We can predict its appearance, trace its path in the body. We can take cross-section pictures of it, tape its tremors and waves. We’ve never been so close to it, so familiar with its habits and attitudes. **We know it intimately. But it continues to grow, to acquire breadth and scope, new outlets, new passages and means. The more we learn, the more it grows.** Is this some law of physics? Every advance in knowledge and technique is matched by a new kind of death, a new strain. **Death adapts, like a viral agent**.”\[29\]*
 
 If we embrace death to strip it of fear, we examine death and attempt to fight it in order to strip it of mystery. However, this is an unsuccessful endeavor. Death eludes our grasp and overpowers our assaults.
 
@@ -179,9 +173,7 @@ However, as my wife tearfully recounted the story to me that night, she wondered
 
 More importantly, **whose death do we fear?**
 
-![A green ECG trace changes from heartbeats to a flat line.](/wp-content/uploads/2014/04/73df8-ekg_flatline1024x682.jpg)
-
-## It is my contention that **we cannot really fear our *own* deaths**.
+It is my contention that **we cannot really fear our *own* deaths**.
 
 Like Jack Gladney, we are limited to fearing and interacting with death’s simulacra.
 
