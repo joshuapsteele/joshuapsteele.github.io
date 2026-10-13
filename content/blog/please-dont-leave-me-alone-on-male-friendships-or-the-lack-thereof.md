@@ -20,7 +20,7 @@ Maybe you, like me, feel these problems acutely as a male (although I’m sure t
 
 Maybe we’re not alone.
 
-# The Lonely American Man
+## The Lonely American Man
 
 I just got done listening to a fantastic episode of the podcast Hidden Brain called [The Lonely American Man](https://www.npr.org/2018/03/19/594719471/guys-we-have-a-problem-how-american-masculinity-creates-lonely-men).
 
@@ -32,13 +32,13 @@ Sure, I spend more time face-to-face with my male Ph.D. colleagues, but we’re 
 
 If you listen to the end of the podcast episode I linked to above, you’ll hear about an interesting study/experiment performed on commuters. When given the choice/assignment of (1) not interacting with other commuters, (2) interacting with other commuters, and (3) carrying on as normal during their commute, people predicted that they would be happiest – and that other people would be happiest! – when they just stayed out of each other’s way. However, it turns out that we’re much happier when connecting with other people, and that other people are much more willing to connect with us than we often imagine!
 
-# Men, How Can We Do Better?
+## Men, How Can We Do Better?
 
 I need to do a better job of taking these things to heart in how I go about my daily life. Although I truly *am* an introvert – meaning that I need some time alone each day in order to recharge – I’m persuaded that I could benefit from some more meaningful friendships in my life – especially some more face-to-face friendships.
 
 Although I’m sure there’s other great stuff on this topic out there, if you’re interested in this topic, I highly recommend the following posts from The Art of Manliness:
 
-## [“Making and Keeping Man Friendships”](https://www.artofmanliness.com/2008/10/28/how-to-make-friends/)
+### [“Making and Keeping Man Friendships”](https://www.artofmanliness.com/2008/10/28/how-to-make-friends/)
 
 This post contains the following advice on making man/male friendships:  
 – Join an organization  
@@ -52,11 +52,11 @@ Then, when it comes to maintaining male friendships:
 – Have a “Guys Night Out”  
 – Keep in touch with regular communication
 
-## [“The History and Nature of Man Friendships”](https://www.artofmanliness.com/2008/08/24/the-history-and-nature-of-man-friendships/)
+### [“The History and Nature of Man Friendships”](https://www.artofmanliness.com/2008/08/24/the-history-and-nature-of-man-friendships/)
 
 Male friendships have changed a LOT over the past couple hundred years. This post gives a nice overview of some of the more significant changes.
 
-## [“The 5 Types of Friend Every Man Needs”](https://www.artofmanliness.com/2013/09/26/the-5-types-of-friends-every-man-needs/)
+### [“The 5 Types of Friend Every Man Needs”](https://www.artofmanliness.com/2013/09/26/the-5-types-of-friends-every-man-needs/)
 
 The 5 Types are:  
 1\. The Mentor  
@@ -65,11 +65,11 @@ The 5 Types are:
 4\. The Fitness Buff  
 5\. The Work Pal
 
-## [“Podcast #360: Understanding Male Friendships”](https://www.artofmanliness.com/2017/11/30/understanding-male-friendships/)
+### [“Podcast #360: Understanding Male Friendships”](https://www.artofmanliness.com/2017/11/30/understanding-male-friendships/)
 
 This is a podcast interview with Geoffrey Greif, the author of the book [Buddy System: Understanding Male Friendships](http://amzn.to/2HPL0z1). Well worth 50 minutes of your time! Be sure to check out the show notes.
 
-# What are your thoughts on male friendships or the lack thereof? Please let me know in the comments below!
+What are your thoughts on male friendships or the lack thereof? Please let me know in the comments below!
 
 ===
 
