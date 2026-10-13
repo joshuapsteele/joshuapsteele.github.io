@@ -13,7 +13,7 @@ This is the source code for my personal website and blog, built with Hugo and de
 
 ## Tech Stack
 
-- **Static Site Generator**: [Hugo Extended](https://gohugo.io/) (exact CI version is pinned in `.github/workflows/hugo.yml`)
+- **Static Site Generator**: [Hugo Extended](https://gohugo.io/) (local and CI version is pinned in `.hugo-version`)
 - **Theme**: [PaperMod](https://github.com/adityatelange/hugo-PaperMod)
 - **Deployment**: GitHub Pages with GitHub Actions
 - **Search**: Fuse.js
@@ -97,6 +97,8 @@ npm run clean
 │   ├── data/          # Configuration files and audit outputs
 │   ├── *.py           # Python scripts for auditing and content management
 │   └── *.sh           # Shell scripts for deployment and utilities
+├── tools/
+│   └── evergreen-recycler/ # Private recycling dashboard and worker (droplet)
 ├── templates/         # Obsidian blog post templates
 ├── themes/            # PaperMod theme (vendored)
 ├── docs/              # Additional documentation and audit reports
@@ -192,6 +194,8 @@ Posts are published on this site first. Micro.blog handles the current Mastodon/
 - [Mastodon](https://mastodon.social/@joshuapsteele)
 - [Threads](https://www.threads.com/@joshuapsteele)
 - [Bluesky](https://bsky.app/profile/joshuapsteele.com) (`@joshuapsteele.com`)
+
+Existing articles can also be shared again through the [evergreen recycler](tools/evergreen-recycler/README.md), a private Python/SQLite dashboard at [recycler.joshuapsteele.com](https://recycler.joshuapsteele.com). It publishes approved short teasers to the hosted Micro.blog blog for cross-posting to Threads and Bluesky, with links back to the existing canonical articles. The worker runs as a systemd user service on the DigitalOcean droplet; it is deployed separately from Hugo. See the [operations guide](tools/evergreen-recycler/OPERATIONS.md) for updates, backups, and service management.
 
 `scripts/fetch_syndication_links.py` maps Micro.blog's `_microblog.syndication` URLs back to canonical joshuapsteele.com paths and writes `data/syndication.json`. GitHub Actions runs it before Hugo builds, and a scheduled deploy refreshes those links after Micro.blog finishes asynchronous cross-posting.
 
@@ -302,6 +306,7 @@ Main configuration is in `hugo.yaml`. Key settings include:
 - **[CLAUDE.md](CLAUDE.md)** - Comprehensive guide for AI assistants working with this codebase
 - **[AGENTS.md](AGENTS.md)** - Symlink to `CLAUDE.md`, so Claude Code and Codex share the same guidance
 - **[docs/CLEANUP-CHECKLIST.md](docs/CLEANUP-CHECKLIST.md)** - Living maintenance tracker
+- **[Evergreen recycler](tools/evergreen-recycler/README.md)** and **[operations](tools/evergreen-recycler/OPERATIONS.md)** - Private content recycling service and deployment guide
 - **Audit Reports** - Dated `AUDIT-*.md` files with point-in-time site analysis
 
 ## Contributing

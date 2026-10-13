@@ -6,3 +6,4 @@
 - [Scripts](../scripts/README.md): available tools and optional dependencies.
 - [Archived reports](archive/): historical snapshots, not an open-work queue. The May `AUDIT-MASTER-REPORT.md` and completed tagging handoff live here.
 - [POSSE setup](POSSE-SETUP.md) and [notes tools](NOTES-TOOLS.md).
+- [Evergreen recycler](../tools/evergreen-recycler/README.md) and [operations](../tools/evergreen-recycler/OPERATIONS.md): private dashboard, Micro.blog teaser recycling, droplet deployment, and backups.

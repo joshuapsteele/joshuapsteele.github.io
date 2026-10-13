@@ -37,3 +37,8 @@ Retail.OrderHistory*.csv
 
 # Local Sequoia publication state (reconstructible from ATProto)
 .sequoia-state.json
+
+# Evergreen recycler private runtime data and credentials
+tools/evergreen-recycler/state/
+tools/evergreen-recycler/.env
+tools/evergreen-recycler/*.sqlite3*

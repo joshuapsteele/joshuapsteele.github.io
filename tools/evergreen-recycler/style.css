@@ -1,0 +1,304 @@
+:root {
+  color-scheme:light;
+  --paper:#f8f6f0;
+  --ink:#243b32;
+  --muted:#64736a;
+  --line:#dce2d9;
+  --green:#28543b;
+  --white:#fffefa
+}
+
+* {
+  box-sizing:border-box
+}
+
+body {
+  margin:0;
+  background:var(--paper);
+  color:var(--ink);
+  font:16px/1.6 system-ui,-apple-system,sans-serif
+}
+
+header,main,footer {
+  max-width:1120px;
+  margin:auto;
+  padding:28px
+}
+
+header {
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+  border-bottom:1px solid var(--line);
+  padding-top:45px
+}
+
+h1 {
+  font:52px/1.1 Georgia,serif;
+  margin:9px 0
+}
+
+h2 {
+  font:28px/1.2 Georgia,serif;
+  margin:12px 0
+}
+
+h3 {
+  font-size:18px;
+  line-height:1.4;
+  margin:0
+}
+
+p {
+  margin:8px 0 16px
+}
+
+.eyebrow {
+  font-size:11px;
+  letter-spacing:2px;
+  font-weight:700
+}
+
+.badge {
+  padding:7px 14px;
+  background:#e5eadf;
+  border-radius:24px;
+  font-size:13px
+}
+
+section {
+  background:var(--white);
+  border:1px solid var(--line);
+  border-radius:12px;
+  padding:26px
+}
+
+.overview {
+  display:grid;
+  grid-template-columns:1.5fr 1fr;
+  gap:18px
+}
+
+.muted,small,footer {
+  color:var(--muted);
+  font-size:13px
+}
+
+#next-copy {
+  white-space:pre-wrap;
+  overflow-wrap:anywhere
+}
+
+button {
+  font:inherit;
+  font-size:14px;
+  font-weight:600;
+  background:var(--green);
+  color:white;
+  border:1px solid var(--green);
+  border-radius:6px;
+  padding:10px 15px;
+  cursor:pointer
+}
+
+.secondary {
+  background:transparent;
+  color:var(--green);
+  border-color:var(--line)
+}
+
+button:disabled {
+  opacity:.5;
+  cursor:wait
+}
+
+nav {
+  display:flex;
+  gap:8px;
+  margin:28px 0 16px
+}
+
+nav button {
+  background:transparent;
+  color:var(--muted);
+  border-color:transparent
+}
+
+nav .active {
+  color:var(--green);
+  border-color:var(--green)
+}
+
+label {
+  display:block;
+  font-size:14px;
+  font-weight:600
+}
+
+input,textarea,select {
+  display:block;
+  width:100%;
+  font:inherit;
+  color:var(--ink);
+  background:white;
+  border:1px solid #bcc9bd;
+  border-radius:6px;
+  padding:10px;
+  margin:6px 0 16px
+}
+
+textarea {
+  resize:vertical;
+  min-height:100px;
+  font-size:14px
+}
+
+.section-top {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:20px
+}
+
+.filters {
+  display:flex;
+  gap:18px
+}
+
+.filters label:first-child {
+  flex:1
+}
+
+.fields {
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:0 24px
+}
+
+fieldset {
+  border:1px solid var(--line);
+  margin:0 0 20px;
+  border-radius:6px
+}
+
+#days {
+  display:flex;
+  gap:15px;
+  flex-wrap:wrap
+}
+
+#days label,.approval {
+  display:flex;
+  align-items:center;
+  gap:7px
+}
+
+input[type=checkbox] {
+  width:auto;
+  margin:0
+}
+
+.article,.attempt {
+  border-top:1px solid var(--line);
+  padding:22px 0
+}
+
+.article-head {
+  display:flex;
+  justify-content:space-between;
+  gap:20px;
+  align-items:flex-start
+}
+
+.article-head a {
+  font-size:12px;
+  color:var(--muted);
+  overflow-wrap:anywhere
+}
+
+summary {
+  cursor:pointer;
+  color:var(--green);
+  font-size:14px;
+  margin:10px 0
+}
+
+details form {
+  margin-top:15px
+}
+
+#notice {
+  min-height:24px;
+  color:var(--green)
+}
+
+.error {
+  color:#a13620!important
+}
+
+.attempt pre {
+  white-space:pre-wrap;
+  overflow-wrap:anywhere;
+  font:14px/1.6 system-ui
+}
+
+.attempt a {
+  color:var(--green)
+}
+
+#login {
+  max-width:550px;
+  margin:24px auto
+}
+
+#more {
+  margin-top:20px
+}
+
+footer {
+  border-top:1px solid var(--line);
+  text-align:center
+}
+
+button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible,summary:focus-visible {
+  outline:3px solid #b68f39;
+  outline-offset:3px
+}
+
+[hidden] {
+  display:none!important
+}
+
+@media(max-width:700px) {
+  header,main,footer {
+    padding:20px
+  }
+  .overview,.fields {
+    grid-template-columns:1fr
+  }
+  header .badge {
+    max-width:145px;
+    text-align:center
+  }
+  h1 {
+    font-size:44px
+  }
+  .section-top,.article-head {
+    flex-direction:column;
+    align-items:stretch
+  }
+  nav {
+    gap:0
+  }
+  nav button {
+    font-size:12px;
+    padding:9px
+  }
+  section {
+    padding:20px
+  }
+  .filters {
+    flex-direction:column;
+    gap:0
+  }
+}

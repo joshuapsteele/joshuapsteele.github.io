@@ -232,6 +232,14 @@ python3 scripts/send_webmentions.py \
     --dry-run
 ```
 
+## Step 10b — Evergreen recycling
+
+The [evergreen recycler](../tools/evergreen-recycler/README.md) periodically shares reviewed teasers for existing articles. Its private dashboard is at <https://recycler.joshuapsteele.com>. It runs separately from Hugo on the DigitalOcean droplet, with SQLite state and a systemd scheduler.
+
+Approve articles, write teaser variants, and choose posting slots in the dashboard. Each teaser is a new post on the hosted Micro.blog blog, linking back to the original joshuapsteele.com article. Configure Threads and Bluesky cross-posting for that hosted blog's feed. The recycler's library cooldown and teaser rotation control repeat sharing; it does not create new Hugo notes or change the original article's date.
+
+Teaser conversations and cross-post URLs belong to the new Micro.blog teaser. The existing `fetch_syndication_links.py` importer maps posts whose own canonical URLs are on joshuapsteele.com, so it does not attach recycled teaser URLs to the original article automatically. See the [recycler operations guide](../tools/evergreen-recycler/OPERATIONS.md) for updates, imports, backups, and service management.
+
 ## Step 11 — Delete or park the old actions
 
 Once you're confident the new workflow is stable (give it a week of regular use), clean up Drafts:

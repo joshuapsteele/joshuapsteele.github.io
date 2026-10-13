@@ -1,0 +1,9 @@
+[Unit]
+Description=Back up the evergreen recycler database
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/evergreen-recycler
+ExecStart=/usr/bin/python3 %h/evergreen-recycler/backup.py
+UMask=0077
+NoNewPrivileges=true

@@ -1,6 +1,6 @@
 # CLAUDE.md
 
-_Last refreshed: 2026-10-12_
+_Last refreshed: 2026-10-13_
 
 This file provides guidance to AI coding agents working in this repository. `AGENTS.md` at the repo root is a symlink to this file, so Claude Code (which reads `CLAUDE.md`) and Codex (which reads `AGENTS.md`) share one source of guidance and cannot drift apart. Edit this file; the symlink stays in sync automatically.
 
@@ -56,6 +56,7 @@ This is Joshua P. Steele's personal website built with Hugo static site generato
 - **Configuration**: `hugo.yaml` (main site configuration)
 - **Build Output**: `public/` directory (generated, git-ignored, never edit directly)
 - **Templates**: Obsidian blog post templates in `templates/` directory (for use with Obsidian editor)
+- **Evergreen Recycler**: Separate Python/SQLite app in `tools/evergreen-recycler/`, hosted at `https://recycler.joshuapsteele.com` on the DigitalOcean droplet as a systemd user service. Publishes approved teasers to Micro.blog for Threads/Bluesky cross-posting. See its `README.md` and `OPERATIONS.md`; GitHub Pages deployment does not update this service. Keep `.env`, SQLite state, and backups out of Git, and keep only the droplet worker live.
 
 ## Development Commands
 

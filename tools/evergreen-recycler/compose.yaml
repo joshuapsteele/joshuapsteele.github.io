@@ -1,0 +1,21 @@
+services:
+  recycler:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:8787:8787"
+    environment:
+      RECYCLER_ADMIN_TOKEN: ${RECYCLER_ADMIN_TOKEN:?Set a dashboard access key in .env}
+      MICROBLOG_TOKEN: ${MICROBLOG_TOKEN:-}
+      RECYCLER_LIVE: ${RECYCLER_LIVE:-0}
+    volumes:
+      - recycler-data:/data
+    read_only: true
+    tmpfs:
+      - /tmp
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+volumes:
+  recycler-data:

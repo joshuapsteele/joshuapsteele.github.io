@@ -1,0 +1,18 @@
+[Unit]
+Description=Evergreen blog recycler
+After=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/evergreen-recycler
+ExecStart=/usr/bin/python3 %h/evergreen-recycler/app.py serve --host 127.0.0.1 --port 8787
+Environment=PYTHONUNBUFFERED=1
+Restart=always
+RestartSec=5
+KillSignal=SIGINT
+TimeoutStopSec=45
+UMask=0077
+NoNewPrivileges=true
+
+[Install]
+WantedBy=default.target
