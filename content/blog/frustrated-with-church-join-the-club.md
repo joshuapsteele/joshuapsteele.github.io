@@ -29,7 +29,7 @@ Why?
 
 Because the Church must be composed of people who realize the Church’s shortcomings and failures.
 
-Otherwise, it <u>***is***</u> **just a club.**
+Otherwise, it *is* **just a club.**
 
 I’m asking you to stay, because most leaders within the Church share your frustrations.
 

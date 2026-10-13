@@ -13,7 +13,7 @@ atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydc6vhc5
 
 *(DISCLAIMER: You are, of course, more than welcome to try rucking, even if you also love running.)*
 
-# Rucking &gt; Running
+## Rucking is better than Running
 
 It took me a *long* time to “fall in love” with running. It did not take me nearly as long to fall *out* of love with running!
 
@@ -30,7 +30,7 @@ I first heard about *rucking*—carrying a weighted pack on your back—as a for
 >  Start walking.  
 >  That’s it.
 
-# Want to Get Started? Here’s How to Ruck on a Budget
+## Want to Get Started? Here’s How to Ruck on a Budget
 
 To get started with rucking, I first used my old backpack and a couple dumbbells. This worked fine, but I didn’t like how the dumbbells dug into my lower back.
 
@@ -38,7 +38,7 @@ So, I did some research about rucking on a budget, and I found [this very helpfu
 
 Nevertheless, I picked different gear. Here’s my current rucking setup:
 
-## Backpack: LA Police Gear 3 Day Backpack 2.0
+### Backpack: LA Police Gear 3 Day Backpack 2.0
 
 ![IMG 4031](/wp-content/uploads/2018/06/IMG_4031.jpg "IMG_4031.JPG")
 
@@ -62,7 +62,7 @@ So far, this 2-liter hydration pack from Source has NOT disappointed me!
 
 <iframe frameborder="0" marginheight="0" marginwidth="0" scrolling="no" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=joshuapsteele-20&marketplace=amazon&region=US&placement=B004QMDS1G&asins=B004QMDS1G&linkId=f286494baa9002d10bd5a95fd78ff03d&show_border=true&link_opens_in_new_window=true" style="width:120px;height:240px;"></iframe>
 
-## Weight: Bricks and Duct Tape
+### Weight: Bricks and Duct Tape
 
 ![IMG 4033](/wp-content/uploads/2018/06/IMG_4033.jpg "IMG_4033.JPG")
 
@@ -78,7 +78,7 @@ I also used some [bubble wrap that I picked up at Walmart](https://www.walmart.c
 
 Here’s [a helpful guide to wrapping bricks from GoRuck](https://web.archive.org/web/20190113223231/http://news.goruck.com:80/event-news/wrapping-bricks-explained/).
 
-## To Position the Bricks: 2 Foam Yoga Blocks/Bricks
+### To Position the Bricks: 2 Foam Yoga Blocks/Bricks
 
 ![IMG 4035](/wp-content/uploads/2018/06/IMG_4035.jpg "IMG_4035.JPG")
 
@@ -90,7 +90,7 @@ You could also go with these from Amazon. Just make sure that the yoga blocks ar
 
 ---
 
-# Want to Learn More About Rucking?
+## Want to Learn More About Rucking?
 
 To learn more about rucking, I highly recommend [this Art of Manliness blogpost, “Cardio for the Man Who Hates Cardio: The Benefits of Rucking,”](https://www.artofmanliness.com/articles/the-benefits-of-rucking/) as well as [this Art of Manliness podcast episode about rucking, “Podcast #314: Building Better Citizens Through Rucking.”](https://www.artofmanliness.com/articles/podcast-314-building-better-citizens-rucking/)
 
@@ -98,7 +98,7 @@ Also, check out [this great resource from GoRuck, “What is Rucking?,”](https
 
 <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="315" loading="lazy" src="https://www.youtube.com/embed/LqoyqYxGTW0" width="560"></iframe>
 
-# Got Questions About Rucking? Ask Them in the Comments Below!
+## Got Questions About Rucking? Ask Them in the Comments Below!
 
 ---
 

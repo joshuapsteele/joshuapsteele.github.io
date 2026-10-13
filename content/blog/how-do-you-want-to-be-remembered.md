@@ -20,7 +20,7 @@ That is, we don’t suffer the most from our own deaths (a one-time occurrence),
 
 A sad reality, to be sure.
 
-### What if, however, we could use death to our own advantage?
+What if, however, we could use death to our own advantage?
 
 I’m convinced this is the truth behind Ecclesiastes 7:2 –
 

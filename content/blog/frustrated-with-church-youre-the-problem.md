@@ -15,7 +15,7 @@ Yesterday, I asked you [to join the Church if you, like me, are frustrated with 
 
 However, it’s not enough to point the finger at others from your pew, instead of doing so from the public square. Yes, that’s a good first step, but another one is necessary.
 
-##### You – and I – need to be willing to take ownership for the Church’s failures.
+You – and I – need to be willing to take ownership for the Church’s failures.
 
 Now, (1) does this mean that we’re to always play the scapegoat, even when the problems aren’t directly our fault? (2) Wouldn’t this open us up to the risk of ignoring the persecution of others by corrupt and power-hungry leaders within the Church?
 
