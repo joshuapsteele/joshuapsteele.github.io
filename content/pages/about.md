@@ -14,7 +14,7 @@ I'm Josh Steele, a software engineer, writer, husband, father, and former Anglic
 
 Professionally, I work on backend systems in the Identity and Access Management (IAM) space for a cybersecurity company. Most of my day-to-day work lives around Java, SQL, Python, distributed systems, debugging, and the human work of making technical decisions with other people. Here's my [LinkedIn](https://www.linkedin.com/in/joshuapsteele/) and my [CV](/cv/), if you'd like the professional version.
 
-Before pivoting to tech, I spent years studying theology and serving in Anglican ministry. I was ordained a deacon in 2016 and a priest in 2019 in the Anglican Church in North America. Due to growing disaffection with the denomination, I [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023.
+Before pivoting to tech, I spent years studying theology and serving in (Anglican) church ministry. I worked as a youth minister, was ordained a deacon in 2016, and was ordained a priest in 2019...all in the Anglican Church in North America (ACNA). Due to growing disaffection and disagreement with the denomination (I was deemed too liberal on issues like social justice, women's ordination, and treating LGBTQ+ people with, you know, basic dignity and respect 😏), I [resigned from active ministry](/im-resigning-from-ordained-ministry-in-the-anglican-church-in-north-america/) in November 2023.
 
 (Apparently [there's disagreement within the ACNA over whether, by resigning, I thereby renounced my Holy Orders as such](/am-i-still-a-priest/). I'm still trying to figure out what, if anything, to do with my Holy Orders and three degrees in theology.)
 
@@ -28,7 +28,7 @@ This `/about` page is just one of [my many "slash pages."](/slashes)
 **More About Me:** [CV/Resume](/cv) • [My Story](/my-story) • [What I'm Doing Now](/now) • [Essays](/essays) • [Sermons](/sermons) • [Philosophy of Ministry](/philosophy-of-ministry)
 {{< /callout >}}
 
-In my free time (what's that?), I buy books and tools, then try to find enough time to use them. DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I'm trying to become competent in as many practical skills as possible, which feels only fair after spending so many years studying theology.
+In my free time (what's that?), I buy [books and tools](/resources/), then try to find enough time to use them. DIY home repair projects have been a welcome change of pace from spending all day looking at a screen. I'm trying to become competent in as many practical skills as possible, which feels only fair after spending so many years studying theology.
 
 This is my main personal website, powered by [Hugo](https://gohugo.io) and [PaperMod](https://github.com/adityatelange/hugo-PaperMod), and hosted on [GitHub Pages](https://github.com/joshuapsteele/joshuapsteele.github.io).
 
