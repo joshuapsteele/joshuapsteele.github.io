@@ -27,6 +27,7 @@ Every Day Carry (EDC) Items:
     - [Gear Infusion GhostTi Utility Knife](https://www.gearinfusion.com/products/ghostti) as the best utility blade knife I've found. Check it out!
 - Flashlight: one of the following
     - [Streamlight ProTac 1L-1AA](https://www.amazon.com/dp/B01G75P1SC?tag=joshuapsteele-20)
+    - [WUBEN G5 Rechargeable Flashlight](https://www.amazon.com/dp/B0DT6S7363?tag=joshuapsteele-20)
 - Fidget: one of the following
    - [Stimagz](https://stimara.com/products/stimagz-series-ii)
    - [ONO Roller](https://getono.com/collections/ono-roller)
