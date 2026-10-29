@@ -18,10 +18,10 @@ Here are the apps I use for various tasks:
 - **📷 iPhone Photo Shooting:** iOS Camera
 - **🌅 Photo Management:** Photos.app
 - **📆 Calendar:** Apple Calendar and Google Calendar, linked
-- **📦 Cloud file storage:** iCloud Drive and [Dropbox](https://www.dropbox.com/)
+- **📦 Cloud file storage:** iCloud Drive with [IDrive](https://www.idrive.com/) as an additional backup layer
 - **📖 RSS:** [Readwise Reader](https://readwise.io/read)
 - **👥 Contacts:** Apple Contacts
-- **🌐 Browser:** Safari (iOS), Firefox (macOS)
+- **🌐 Browser:** Safari, [Brave](https://brave.com/), and [Orion](https://orionbrowser.com/)
 - **🕵🏻 Search:** [Kagi](https://kagi.com/)
 - **💬 Chat:** Apple Messages, with WhatsApp and Signal on the side
 - **🔖 Bookmarks:** Saved in browser, [Readwise Reader](https://readwise.io/read), or [Obsidian](https://obsidian.md/)
