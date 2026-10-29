@@ -32,7 +32,8 @@ Every Day Carry (EDC) Items:
    - [ONO Roller](https://getono.com/collections/ono-roller)
    - [ONO Slider](https://getono.com/collections/sliders)
 - Multitool: one of the following
-    - Leatherman Wave knockoff:
+    - [Leatherman Skeletool CX](https://www.amazon.com/dp/B000059GTH?tag=joshuapsteele-20)
+    - Leatherman Wave+ knockoff:
         - [Harbor Freight's Gordon 20-in-1 Multitool](https://www.harborfreight.com/20-in-1-multi-tool-59617.html) or 
         - [Workpro 18-in-1 Multitool](https://www.amazon.com/dp/B0C88XTTC1?tag=joshuapsteele-20)
     - [Gear Infusion EverRatchet Clip Ratcheting Multitool](https://www.gearinfusion.com/collections/everratchet/products/everratchet-clip)
@@ -48,7 +49,6 @@ What are you carrying these days?
 Also, for what it's worth, I love EDC and I find this video very funny:
 
 {{< youtube eLrYpMuZQqw >}}
-
 
 {{< callout "note" >}}
 This `/carry` page is just one of [my many "slash pages."](/slashes). It's similar to my [`/defaults`](/defaults) and [`/uses`](/uses) pages, but focuses on the everyday carry (EDC) items I find useful.
