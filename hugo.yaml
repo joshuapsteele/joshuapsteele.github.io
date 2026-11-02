@@ -14,7 +14,7 @@ taxonomies:
   category: categories
   tag: tags
 params:
-  description: Joshua P. Steele's home on the web
+  description: Josh Steele is a software engineer, writer, husband, father, and former Anglican priest near Toledo, Ohio. He writes about theology, ethics, technology, books, tools, DIY projects, and the practical work of living.
   standardSitePublicationUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.publication/3mpycrniluq2y
   env: production
   defaultTheme: auto
