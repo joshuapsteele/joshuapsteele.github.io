@@ -35,13 +35,14 @@ async function refresh() {
   $('#counts').textContent = approved + ' approved / ' + state.articles.length + ' articles';
   $('#pause').textContent = state.settings.paused ? 'Resume queue' : 'Pause queue';
   $('#next-title').textContent = state.next.article?.title || 'No eligible article';
-  $('#next-copy').textContent = state.next.content || 'Approve an article with a teaser to start the rotation. Age, expiry, and cooldown rules apply.';
+  $('#next-copy').textContent = state.next.content || 'Approve an article with a teaser to start the rotation. Age, season, expiry, and cooldown rules apply.';
   const names = ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'];
-  $('#schedule-summary').textContent = state.settings.weekdays.map(d => names[d]).join(', ') + ' at ' + state.settings.time + ' · ' + state.settings.timezone + ' · ' + state.settings.cooldown_days + '-day cooldown';
+  $('#schedule-summary').textContent = state.settings.weekdays.map(d => names[d]).join(', ') + ' at ' + state.settings.time + ' · ' + state.settings.timezone + ' · ' + state.settings.cooldown_days + '-day cooldown' + (state.settings.shuffle ? ' · shuffled' : '');
   const form = $('#settings-form');
   for (const [key, value] of Object.entries(state.settings)) {
     if (form.elements[key]) form.elements[key].value = value;
   }
+  form.elements.shuffle.checked = !!state.settings.shuffle;
   $('#days').replaceChildren();
   names.forEach((name, day) => {
     const label = node('label', name);
@@ -62,7 +63,7 @@ function renderArticles() {
     const head = node('div', undefined, 'article-head');
     const text = node('div'); text.append(node('h3', a.title));
     const link = node('a', a.url); link.href = a.url; link.target = '_blank'; link.rel = 'noopener noreferrer';
-    text.append(link, node('p', new Date(a.published).getFullYear() + ' · ' + a.shares + ' shares' + (a.last_shared ? ' · Last shared ' + a.last_shared.slice(0, 10) : ''), 'muted'));
+    text.append(link, node('p', new Date(a.published).getFullYear() + ' · ' + a.shares + ' shares' + (a.last_shared ? ' · Last shared ' + a.last_shared.slice(0, 10) : '') + (a.season_start ? ' · Seasonal ' + a.season_start + ' to ' + a.season_end : ''), 'muted'));
     head.append(text, node('span', !a.present ? 'Removed from archive' : a.enabled ? 'Approved' : 'Needs review', 'badge'));
     article.append(head);
     const details = node('details'); details.append(node('summary', 'Edit teasers & approval'));
@@ -75,9 +76,12 @@ function renderArticles() {
     const approval = node('label', 'Approved for automatic recycling', 'approval');
     const checkbox = node('input'); checkbox.type = 'checkbox'; checkbox.checked = !!a.enabled; approval.prepend(checkbox);
     const expiresLabel = node('label', 'Stop after (optional)'); const expires = node('input'); expires.type = 'date'; expires.value = a.expires; expiresLabel.append(expires);
-    form.append(label, count, approval, expiresLabel, node('button', 'Save article'));
+    const season = node('fieldset'); season.append(node('legend', 'Share only in season, every year (optional)'));
+    const seasonInput = (title, value) => { const l = node('label', title); const i = node('input'); i.placeholder = 'MM-DD'; i.pattern = '\\d{2}-\\d{2}'; i.maxLength = 5; i.value = value || ''; l.append(i); season.append(l); return i; };
+    const seasonStart = seasonInput('Season starts', a.season_start); const seasonEnd = seasonInput('Season ends', a.season_end);
+    form.append(label, count, approval, season, expiresLabel, node('button', 'Save article'));
     form.addEventListener('submit', e => { e.preventDefault(); action(async () => {
-      await api('article', {id: a.id, enabled: checkbox.checked, variants: variants.value.split('\n').map(t => t.trim()).filter(Boolean), expires: expires.value});
+      await api('article', {id: a.id, enabled: checkbox.checked, variants: variants.value.split('\n').map(t => t.trim()).filter(Boolean), expires: expires.value, season_start: seasonStart.value.trim(), season_end: seasonEnd.value.trim()});
       await refresh(); notice('Article saved.');
     }); });
     details.append(form); article.append(details); $('#articles').append(article);
@@ -116,6 +120,7 @@ $('#settings-form').addEventListener('submit', e => { e.preventDefault(); action
   const form = e.currentTarget; const next = {...state.settings};
   ['timezone', 'time', 'destination'].forEach(k => { next[k] = form.elements[k].value.trim(); });
   ['cooldown_days', 'minimum_age_days', 'grace_minutes'].forEach(k => { next[k] = Number(form.elements[k].value); });
+  next.shuffle = form.elements.shuffle.checked;
   next.weekdays = [...$('#days').querySelectorAll('input:checked')].map(el => Number(el.value));
   await api('settings', next); await refresh(); notice('Schedule saved.');
 }); });

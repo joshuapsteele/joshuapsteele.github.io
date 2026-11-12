@@ -3,6 +3,7 @@
 import argparse
 from contextlib import contextmanager
 import csv
+import hashlib
 import hmac
 import html
 import io
@@ -26,7 +27,7 @@ MICROPUB = 'https://micro.blog/micropub'
 FEED = 'https://joshuapsteele.com/blog/feed.json'
 DEFAULTS = {'paused': True, 'timezone': 'America/New_York', 'weekdays': [0, 2, 4],
             'time': '10:00', 'cooldown_days': 90, 'minimum_age_days': 30,
-            'grace_minutes': 60, 'destination': ''}
+            'grace_minutes': 60, 'destination': '', 'shuffle': False}
 LOG = logging.getLogger('recycler')
 
 
@@ -89,12 +90,38 @@ def validate_variants(variants, url):
     return clean
 
 
+def validate_season(start, end):
+    """A yearly MM-DD window. Both ends or neither; start after end wraps the new year."""
+    if not start and not end:
+        return '', ''
+    if not (isinstance(start, str) and isinstance(end, str) and start and end):
+        raise ValueError('Set both a season start and a season end, or neither.')
+    for value in (start, end):
+        if len(value) != 5:
+            raise ValueError('Use MM-DD for season dates.')
+        try:
+            datetime.strptime('2000-' + value, '%Y-%m-%d')  # A leap year, so 02-29 is accepted.
+        except ValueError:
+            raise ValueError('Use MM-DD for season dates.') from None
+    return start, end
+
+
+def in_season(start, end, month_day):
+    if not start:
+        return True
+    if start <= end:
+        return start <= month_day <= end
+    return month_day >= start or month_day <= end
+
+
 def validate_settings(value):
     if set(value) != set(DEFAULTS):
         raise ValueError('Invalid settings fields.')
     ZoneInfo(value['timezone'])
     if type(value['paused']) is not bool:
         raise ValueError('Paused must be a boolean.')
+    if type(value['shuffle']) is not bool:
+        raise ValueError('Shuffle must be a boolean.')
     if (not isinstance(value['weekdays'], list) or not value['weekdays']
             or any(type(day) is not int or not 0 <= day <= 6 for day in value['weekdays'])):
         raise ValueError('Select weekdays from Monday (0) through Sunday (6).')
@@ -130,6 +157,10 @@ class Store:
                 post_url TEXT NOT NULL DEFAULT '', message TEXT NOT NULL DEFAULT '',
                 FOREIGN KEY(article_id) REFERENCES articles(id));
             ''')
+            columns = {row['name'] for row in db.execute('PRAGMA table_info(articles)')}
+            for column in ('season_start', 'season_end'):
+                if column not in columns:
+                    db.execute("ALTER TABLE articles ADD COLUMN %s TEXT NOT NULL DEFAULT ''" % column)
             db.execute('INSERT OR IGNORE INTO settings VALUES (1, ?)', (json.dumps(DEFAULTS),))
 
     @contextmanager
@@ -144,7 +175,8 @@ class Store:
             db.close()
 
     def settings(self, db):
-        return json.loads(db.execute('SELECT value FROM settings WHERE id=1').fetchone()[0])
+        # Defaults fill in settings added after this database was created.
+        return {**DEFAULTS, **json.loads(db.execute('SELECT value FROM settings WHERE id=1').fetchone()[0])}
 
     def import_articles(self, items, authoritative=False):
         rows = []
@@ -184,19 +216,27 @@ class Store:
             expires = value.get('expires', '')
             if expires:
                 datetime.strptime(expires, '%Y-%m-%d')
-            db.execute('UPDATE articles SET enabled=?, variants=?, expires=? WHERE id=?',
-                       (value['enabled'], json.dumps(variants), expires, row['id']))
+            # A request without season fields keeps the stored window.
+            season = validate_season(value.get('season_start', row['season_start']),
+                                     value.get('season_end', row['season_end']))
+            db.execute('''UPDATE articles SET enabled=?, variants=?, expires=?, season_start=?, season_end=?
+              WHERE id=?''', (value['enabled'], json.dumps(variants), expires, *season, row['id']))
 
     def eligible(self, db, settings, moment):
         local_date = moment.astimezone(ZoneInfo(settings['timezone'])).date().isoformat()
         candidates = db.execute('''SELECT * FROM articles WHERE enabled=1 AND present=1
           ORDER BY COALESCE(last_shared,''), shares, published, id''').fetchall()
+        if settings['shuffle']:
+            # Seeded by the local date: the preview matches what that day's slot posts.
+            candidates.sort(key=lambda row: hashlib.sha256(('%s:%d' % (local_date, row['id'])).encode()).digest())
         for row in candidates:
             if parse_date(row['published']) > moment - timedelta(days=settings['minimum_age_days']):
                 continue
             if row['last_shared'] and parse_date(row['last_shared']) > moment - timedelta(days=settings['cooldown_days']):
                 continue
             if row['expires'] and row['expires'] < local_date:
+                continue
+            if not in_season(row['season_start'], row['season_end'], local_date[5:]):
                 continue
             variants = validate_variants(json.loads(row['variants']), row['url'])
             return dict(row), variants[row['shares'] % len(variants)] + '\n\n' + row['url']

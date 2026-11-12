@@ -140,6 +140,69 @@ class RecyclerTests(unittest.TestCase):
         self.assertEqual(self.store.snapshot()['history'], [])
         self.client.publish.assert_not_called()
 
+    def test_seasonal_window_recurs_yearly_and_can_wrap_new_year(self):
+        edit = {'id': 1, 'enabled': True, 'variants': ['First angle']}
+        self.store.edit_article(dict(edit, season_start='11-27', season_end='12-24'))
+        self.assertEqual(self.tick()['status'], 'empty')  # October 12 is out of season.
+        self.assertEqual(self.store.snapshot()['next']['article'], None)
+        # An edit without season fields keeps the stored window.
+        self.store.edit_article(edit)
+        self.assertEqual(self.store.snapshot()['articles'][0]['season_start'], '11-27')
+        advent = datetime(2026, 11, 30, 15, 0, tzinfo=timezone.utc)  # Monday, 10am Eastern
+        self.assertEqual(self.tick(moment=advent)['status'], 'accepted')
+        january = datetime(2028, 1, 3, 15, 0, tzinfo=timezone.utc)  # A Monday, past the cooldown
+        self.assertEqual(self.tick(moment=january)['status'], 'empty')
+        self.assertEqual(self.tick(moment=datetime(2028, 11, 27, 15, 0, tzinfo=timezone.utc))['status'], 'accepted')
+        self.assertTrue(app.in_season('12-26', '01-06', '01-02'))
+        self.assertTrue(app.in_season('12-26', '01-06', '12-30'))
+        self.assertFalse(app.in_season('12-26', '01-06', '06-01'))
+        self.store.edit_article(dict(edit, season_start='', season_end=''))
+        self.assertEqual(self.store.snapshot()['articles'][0]['season_end'], '')
+        for start, end in [('11-27', ''), ('13-01', '12-24'), ('1-1', '2-2'), ('02-30', '03-01')]:
+            with self.assertRaises(ValueError):
+                self.store.edit_article(dict(edit, season_start=start, season_end=end))
+
+    def test_shuffle_varies_by_day_matches_preview_and_respects_cooldown(self):
+        self.store.import_articles([{'url': 'https://joshuapsteele.com/post-%d/' % n, 'title': 'Post %d' % n,
+                                     'date': '2021-01-01'} for n in range(2, 9)])
+        for n in range(2, 9):
+            self.store.edit_article({'id': n, 'enabled': True, 'variants': ['Teaser %d' % n]})
+        self.settings.update(shuffle=True, weekdays=list(range(7)))
+        self.save_settings()
+        with self.store.connect() as db:
+            first = {(NOW + timedelta(days=d)).date(): self.store.eligible(db, self.settings, NOW + timedelta(days=d))[0]['id']
+                     for d in range(14)}
+            again = self.store.eligible(db, self.settings, NOW + timedelta(minutes=30))[0]['id']
+        self.assertEqual(again, first[NOW.date()])  # Stable within a day, so the preview is honest.
+        self.assertGreater(len(set(first.values())), 2)  # Not simply the oldest article every day.
+        shared = []
+        for d in range(8):
+            self.assertEqual(self.tick(moment=NOW + timedelta(days=d))['status'], 'accepted')
+            shared.append(self.client.publish.call_args.args[1])
+        self.assertEqual(len(set(shared)), 8)  # Cooldown still prevents repeats.
+        self.assertEqual(self.tick(moment=NOW + timedelta(days=8))['status'], 'empty')
+
+    def test_older_database_gains_season_columns_and_new_settings(self):
+        path = Path(self.tmp.name) / 'old.sqlite3'
+        import sqlite3
+        db = sqlite3.connect(path)
+        db.executescript("""CREATE TABLE settings (id INTEGER PRIMARY KEY CHECK(id=1), value TEXT NOT NULL);
+          CREATE TABLE articles (id INTEGER PRIMARY KEY, url TEXT UNIQUE NOT NULL, title TEXT NOT NULL,
+            published TEXT NOT NULL, variants TEXT NOT NULL DEFAULT '[]', enabled INTEGER NOT NULL DEFAULT 0,
+            expires TEXT NOT NULL DEFAULT '', last_shared TEXT, shares INTEGER NOT NULL DEFAULT 0,
+            present INTEGER NOT NULL DEFAULT 1);""")
+        old = {k: v for k, v in self.settings.items() if k != 'shuffle'}
+        db.execute('INSERT INTO settings VALUES (1, ?)', (json.dumps(old),))
+        db.execute("INSERT INTO articles(url,title,published,variants,enabled) VALUES (?,?,?,?,1)",
+                   (URL, 'Old', '2020-01-01T00:00:00+00:00', '["Kept"]'))
+        db.commit(); db.close()
+        snapshot = app.Store(path).snapshot()
+        self.assertIs(snapshot['settings']['shuffle'], False)
+        self.assertEqual(snapshot['settings']['destination'], DEST)
+        self.assertEqual(snapshot['articles'][0]['season_start'], '')
+        self.assertEqual(snapshot['next']['article']['title'], 'Old')
+        app.validate_settings(snapshot['settings'])
+
     def test_validation_protects_content_and_settings(self):
         for url in ['http://joshuapsteele.com/post/', 'https://evil.com/post/', 'https://joshuapsteele.com@evil.com/post/']:
             with self.assertRaises(ValueError):
@@ -151,6 +214,8 @@ class RecyclerTests(unittest.TestCase):
             app.validate_settings(dict(self.settings, weekdays=[7]))
         with self.assertRaises(ValueError):
             app.validate_settings(dict(self.settings, cooldown_days=0))
+        with self.assertRaises(ValueError):
+            app.validate_settings(dict(self.settings, shuffle='yes'))
 
     def test_dst_fall_back_slot_is_only_claimed_once_per_local_date(self):
         settings = dict(self.settings, weekdays=[6], time='01:30')
