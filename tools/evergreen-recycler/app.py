@@ -3,6 +3,7 @@
 import argparse
 from contextlib import contextmanager
 import csv
+from datetime import date
 import hashlib
 import hmac
 import html
@@ -11,6 +12,7 @@ import json
 import logging
 import os
 from pathlib import Path
+import re
 import shlex
 import sqlite3
 import threading
@@ -28,6 +30,8 @@ FEED = 'https://joshuapsteele.com/blog/feed.json'
 DEFAULTS = {'paused': True, 'timezone': 'America/New_York', 'weekdays': [0, 2, 4],
             'time': '10:00', 'cooldown_days': 90, 'minimum_age_days': 30,
             'grace_minutes': 60, 'destination': '', 'shuffle': False}
+LINK_TAG = '?ref=evergreen'  # Appended to shared links so analytics can count recycler visits.
+SEASON_DATE = re.compile(r'^(?:(\d{2})-(\d{2})|(easter|advent)([+-]\d{1,3})?)$')
 LOG = logging.getLogger('recycler')
 
 
@@ -84,34 +88,66 @@ def validate_variants(variants, url):
         if not isinstance(text, str) or not text.strip() or '\n' in text or '\r' in text:
             raise ValueError('Each teaser must be one nonempty line.')
         text = text.strip()
-        if len(text + '\n\n' + url) > 280:
-            raise ValueError('Each teaser plus the article URL must fit within 280 characters.')
+        if len(text + '\n\n' + url + LINK_TAG) > 280:
+            raise ValueError('Each teaser plus the tagged article URL must fit within 280 characters.')
         clean.append(text)
     return clean
 
 
+def easter(year):
+    """Western (Gregorian) Easter Sunday."""
+    a, b, c = year % 19, year // 100, year % 100
+    d, e = b // 4, b % 4
+    g = (8 * b + 13) // 25
+    h = (19 * a + b - d - g + 15) % 30
+    i, k = c // 4, c % 4
+    l = (32 + 2 * e + 2 * i - h - k) % 7
+    m = (a + 11 * h + 19 * l) // 433
+    month = (h + l - 7 * m + 90) // 25
+    return date(year, month, (h + l - 7 * m + 33 * month + 19) % 32)
+
+
+def season_date(value, year):
+    """Resolve MM-DD, or easter/advent with an optional day offset, in a given year."""
+    month, day, anchor, offset = SEASON_DATE.match(value).groups()
+    if month:
+        if (month, day) == ('02', '29'):
+            return date(year, 3, 1) - timedelta(days=1)
+        return date(year, int(month), int(day))
+    if anchor == 'easter':
+        base = easter(year)
+    else:  # The first Sunday of Advent falls on November 27 through December 3.
+        base = date(year, 11, 27)
+        base += timedelta(days=(6 - base.weekday()) % 7)
+    return base + timedelta(days=int(offset or 0))
+
+
 def validate_season(start, end):
-    """A yearly MM-DD window. Both ends or neither; start after end wraps the new year."""
+    """A yearly window. Both ends or neither; a fixed end before its start wraps the new year."""
     if not start and not end:
         return '', ''
     if not (isinstance(start, str) and isinstance(end, str) and start and end):
         raise ValueError('Set both a season start and a season end, or neither.')
     for value in (start, end):
-        if len(value) != 5:
-            raise ValueError('Use MM-DD for season dates.')
         try:
-            datetime.strptime('2000-' + value, '%Y-%m-%d')  # A leap year, so 02-29 is accepted.
+            if not SEASON_DATE.match(value):
+                raise ValueError
+            season_date(value, 2000)  # A leap year, so 02-29 is accepted.
         except ValueError:
-            raise ValueError('Use MM-DD for season dates.') from None
+            raise ValueError('Use MM-DD, or easter or advent with an optional offset in days, such as easter-3.') from None
     return start, end
 
 
-def in_season(start, end, month_day):
+def in_season(start, end, today):
     if not start:
         return True
-    if start <= end:
-        return start <= month_day <= end
-    return month_day >= start or month_day <= end
+    for year in (today.year - 1, today.year):
+        first, last = season_date(start, year), season_date(end, year)
+        if last < first:
+            last = season_date(end, year + 1)
+        if first <= today <= last:
+            return True
+    return False
 
 
 def validate_settings(value):
@@ -238,10 +274,10 @@ class Store:
                 continue
             if row['expires'] and row['expires'] < local_date:
                 continue
-            if not in_season(row['season_start'], row['season_end'], local_date[5:]):
+            if not in_season(row['season_start'], row['season_end'], date.fromisoformat(local_date)):
                 continue
             variants = validate_variants(json.loads(row['variants']), row['url'])
-            return dict(row), variants[row['shares'] % len(variants)] + '\n\n' + row['url']
+            return dict(row), variants[row['shares'] % len(variants)] + '\n\n' + row['url'] + LINK_TAG
         return None, None
 
     def snapshot(self):
@@ -253,6 +289,7 @@ class Store:
                                  db.execute('SELECT * FROM articles ORDER BY published DESC')],
                     'history': [dict(row) for row in db.execute('SELECT * FROM attempts ORDER BY id DESC LIMIT 100')],
                     'next': {'article': article, 'content': content},
+                    'link_tag': LINK_TAG,
                     'live': os.environ.get('RECYCLER_LIVE') == '1',
                     'connected': bool(os.environ.get('MICROBLOG_TOKEN'))}
 
