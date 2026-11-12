@@ -182,6 +182,23 @@ class RecyclerTests(unittest.TestCase):
         self.assertEqual(len(set(shared)), 8)  # Cooldown still prevents repeats.
         self.assertEqual(self.tick(moment=NOW + timedelta(days=8))['status'], 'empty')
 
+    def test_shuffle_posts_in_season_articles_before_year_round_ones(self):
+        self.store.import_articles([{'url': 'https://joshuapsteele.com/post-%d/' % n, 'title': 'Post %d' % n,
+                                     'date': '2021-01-01'} for n in range(2, 30)])
+        for n in range(2, 30):
+            self.store.edit_article({'id': n, 'enabled': True, 'variants': ['Teaser %d' % n]})
+        self.store.edit_article({'id': 17, 'enabled': True, 'variants': ['Seasonal'],
+                                 'season_start': '12-28', 'season_end': '12-30'})
+        self.settings.update(shuffle=True, weekdays=list(range(7)))
+        self.save_settings()
+        day = datetime(2026, 12, 27, 15, 0, tzinfo=timezone.utc)
+        self.tick(moment=day)
+        self.assertNotIn('Seasonal', self.client.publish.call_args.args[1])
+        self.tick(moment=day + timedelta(days=1))
+        self.assertIn('Seasonal', self.client.publish.call_args.args[1])
+        self.tick(moment=day + timedelta(days=2))  # Cooldown: it posts once per window.
+        self.assertNotIn('Seasonal', self.client.publish.call_args.args[1])
+
     def test_older_database_gains_season_columns_and_new_settings(self):
         path = Path(self.tmp.name) / 'old.sqlite3'
         import sqlite3

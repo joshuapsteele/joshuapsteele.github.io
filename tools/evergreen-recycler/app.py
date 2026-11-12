@@ -228,7 +228,9 @@ class Store:
           ORDER BY COALESCE(last_shared,''), shares, published, id''').fetchall()
         if settings['shuffle']:
             # Seeded by the local date: the preview matches what that day's slot posts.
-            candidates.sort(key=lambda row: hashlib.sha256(('%s:%d' % (local_date, row['id'])).encode()).digest())
+            # Seasonal articles sort first; a short window would otherwise often pass unpicked.
+            candidates.sort(key=lambda row: (not row['season_start'],
+                                             hashlib.sha256(('%s:%d' % (local_date, row['id'])).encode()).digest()))
         for row in candidates:
             if parse_date(row['published']) > moment - timedelta(days=settings['minimum_age_days']):
                 continue
