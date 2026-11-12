@@ -13,6 +13,8 @@ The production worker is on the existing DigitalOcean droplet, accessed through 
 - Production dashboard: <https://recycler.joshuapsteele.com>
 - `loginctl enable-linger joshuapsteele` is enabled, so the user service survives logout and starts at boot.
 
+As of November 2026 production posts daily at 09:00 America/New_York with a 60-day cooldown and shuffle on; these are dashboard settings, not the code defaults described in the README.
+
 The local library, approvals, teaser copy, schedule, destination, and first accepted post were migrated together. The local worker was stopped and local `.env` changed to `RECYCLER_LIVE=0`. Its database remains paused. Keep production scheduling on the droplet; two independent live databases can post duplicate teasers.
 
 The first live teaser was accepted at <https://social.joshuapsteele.com/2026/10/13/wide-feet-play-soccer-try.html>. Josh confirmed delivery to [Threads](https://www.threads.com/@joshuapsteele/post/Deb5RymlqXl) and [Bluesky](https://bsky.app/profile/joshuapsteele.com/post/3mxr4jr6mbv26). Migration preserved that day's slot claim and the article cooldown.

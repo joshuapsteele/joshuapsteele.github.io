@@ -153,12 +153,15 @@ class RecyclerTests(unittest.TestCase):
         january = datetime(2028, 1, 3, 15, 0, tzinfo=timezone.utc)  # A Monday, past the cooldown
         self.assertEqual(self.tick(moment=january)['status'], 'empty')
         self.assertEqual(self.tick(moment=datetime(2028, 11, 27, 15, 0, tzinfo=timezone.utc))['status'], 'accepted')
-        self.assertTrue(app.in_season('12-26', '01-06', '01-02'))
-        self.assertTrue(app.in_season('12-26', '01-06', '12-30'))
-        self.assertFalse(app.in_season('12-26', '01-06', '06-01'))
+        day = app.date
+        self.assertTrue(app.in_season('12-26', '01-06', day(2027, 1, 2)))
+        self.assertTrue(app.in_season('12-26', '01-06', day(2026, 12, 30)))
+        self.assertFalse(app.in_season('12-26', '01-06', day(2026, 6, 1)))
+        self.assertTrue(app.in_season('02-20', '02-29', day(2027, 2, 28)))  # No leap day in 2027.
         self.store.edit_article(dict(edit, season_start='', season_end=''))
         self.assertEqual(self.store.snapshot()['articles'][0]['season_end'], '')
-        for start, end in [('11-27', ''), ('13-01', '12-24'), ('1-1', '2-2'), ('02-30', '03-01')]:
+        for start, end in [('11-27', ''), ('13-01', '12-24'), ('1-1', '2-2'), ('02-30', '03-01'),
+                           ('easter', ''), ('easter3', 'easter+5'), ('pentecost', 'easter'), ('advent+1000', 'advent')]:
             with self.assertRaises(ValueError):
                 self.store.edit_article(dict(edit, season_start=start, season_end=end))
 
@@ -181,6 +184,32 @@ class RecyclerTests(unittest.TestCase):
             shared.append(self.client.publish.call_args.args[1])
         self.assertEqual(len(set(shared)), 8)  # Cooldown still prevents repeats.
         self.assertEqual(self.tick(moment=NOW + timedelta(days=8))['status'], 'empty')
+
+    def test_seasons_can_follow_easter_and_advent(self):
+        day = app.date
+        self.assertEqual([app.easter(y) for y in (2024, 2026, 2027, 2038)],
+                         [day(2024, 3, 31), day(2026, 4, 5), day(2027, 3, 28), day(2038, 4, 25)])
+        self.assertEqual(app.season_date('easter-46', 2027), day(2027, 2, 10))  # Ash Wednesday
+        self.assertEqual(app.season_date('easter+49', 2027), day(2027, 5, 16))  # Pentecost
+        self.assertEqual([app.season_date('advent', y) for y in (2026, 2027, 2028)],
+                         [day(2026, 11, 29), day(2027, 11, 28), day(2028, 12, 3)])
+        self.assertTrue(app.in_season('easter-3', 'easter-3', day(2027, 3, 25)))  # Maundy Thursday
+        self.assertFalse(app.in_season('easter-3', 'easter-3', day(2026, 3, 25)))
+        self.assertTrue(app.in_season('advent', '01-05', day(2027, 1, 3)))
+        self.assertFalse(app.in_season('advent', '01-05', day(2026, 11, 28)))
+        edit = {'id': 1, 'enabled': True, 'variants': ['First angle']}
+        self.store.edit_article(dict(edit, season_start='advent+7', season_end='advent+13'))
+        self.assertEqual(self.tick(moment=datetime(2026, 11, 30, 15, 0, tzinfo=timezone.utc))['status'], 'empty')
+        self.assertEqual(self.tick(moment=datetime(2026, 12, 7, 15, 0, tzinfo=timezone.utc))['status'], 'accepted')
+
+    def test_shared_links_carry_the_analytics_tag_within_the_length_budget(self):
+        self.tick()
+        self.assertTrue(self.client.publish.call_args.args[1].endswith('\n\n' + URL + app.LINK_TAG))
+        self.assertEqual(self.store.snapshot()['link_tag'], '?ref=evergreen')
+        room = 280 - len('\n\n' + URL + app.LINK_TAG)
+        app.validate_variants(['x' * room], URL)
+        with self.assertRaises(ValueError):
+            app.validate_variants(['x' * (room + 1)], URL)
 
     def test_shuffle_posts_in_season_articles_before_year_round_ones(self):
         self.store.import_articles([{'url': 'https://joshuapsteele.com/post-%d/' % n, 'title': 'Post %d' % n,

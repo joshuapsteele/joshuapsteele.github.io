@@ -71,13 +71,13 @@ function renderArticles() {
     const label = node('label', 'Teaser variants · one per line');
     const variants = node('textarea'); variants.value = a.variants.join('\n'); label.append(variants);
     const count = node('p', '', 'muted');
-    const updateCount = () => { count.textContent = 'Longest teaser + URL: ' + Math.max(0, ...variants.value.split('\n').filter(t => t.trim()).map(t => Array.from(t.trim() + '\n\n' + a.url).length)) + ' / 280 characters'; };
+    const updateCount = () => { count.textContent = 'Longest teaser + tagged URL: ' + Math.max(0, ...variants.value.split('\n').filter(t => t.trim()).map(t => Array.from(t.trim() + '\n\n' + a.url + (state.link_tag || '')).length)) + ' / 280 characters'; };
     variants.addEventListener('input', updateCount); updateCount();
     const approval = node('label', 'Approved for automatic recycling', 'approval');
     const checkbox = node('input'); checkbox.type = 'checkbox'; checkbox.checked = !!a.enabled; approval.prepend(checkbox);
     const expiresLabel = node('label', 'Stop after (optional)'); const expires = node('input'); expires.type = 'date'; expires.value = a.expires; expiresLabel.append(expires);
-    const season = node('fieldset'); season.append(node('legend', 'Share only in season, every year (optional)'));
-    const seasonInput = (title, value) => { const l = node('label', title); const i = node('input'); i.placeholder = 'MM-DD'; i.pattern = '\\d{2}-\\d{2}'; i.maxLength = 5; i.value = value || ''; l.append(i); season.append(l); return i; };
+    const season = node('fieldset'); season.append(node('legend', 'Share only in season, every year (optional)'), node('p', 'A date as MM-DD, or days from Easter Sunday or the first Sunday of Advent: easter-46 is Ash Wednesday, easter+49 is Pentecost, advent+7 is the second Sunday of Advent.', 'muted'));
+    const seasonInput = (title, value) => { const l = node('label', title); const i = node('input'); i.placeholder = 'MM-DD or easter-3'; i.pattern = '\\d{2}-\\d{2}|(easter|advent)([+-]\\d{1,3})?'; i.maxLength = 12; i.value = value || ''; l.append(i); season.append(l); return i; };
     const seasonStart = seasonInput('Season starts', a.season_start); const seasonEnd = seasonInput('Season ends', a.season_end);
     form.append(label, count, approval, season, expiresLabel, node('button', 'Save article'));
     form.addEventListener('submit', e => { e.preventDefault(); action(async () => {
