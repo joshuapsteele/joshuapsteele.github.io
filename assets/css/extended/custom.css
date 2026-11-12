@@ -51,6 +51,24 @@ body:not(.dark) .footer-logo {
     margin: 0 auto !important;
 }
 
+.footer-joshternet {
+    display: flex;
+    justify-content: center;
+    min-height: 31px;
+    margin: 12px 0;
+}
+
+.footer-joshternet a {
+    display: inline-flex;
+    border-bottom: none;
+}
+
+.footer-joshternet svg {
+    display: block;
+    width: 88px;
+    height: 31px;
+}
+
 /* Profile button overrides for better layout control */
 .profile .buttons {
     max-width: 600px; /* Increased from theme's 400px */
