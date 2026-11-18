@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/pages/questions.md",
+                "file": "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "questions"
+              "title": "no-one-knows-what-positivism-of-revelation-means"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -78,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "right": {
     "id": "75a397c9b49ffabf",
@@ -195,32 +196,32 @@
   },
   "active": "ea0eb323388f0608",
   "lastOpenFiles": [
+    "node_modules/uint8arrays/README.md",
+    "content/pages/follow.md",
+    "content/blog/birthday-wishlist-2025.md",
+    "content/blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md",
+    "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
+    "content/blog/christianity-and-politics-my-2024-reading-list.md",
+    "archetypes/default.md",
+    "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
+    "content/blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
+    "content/blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md",
+    "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
+    "content/blog/frustrated-with-church-youre-the-problem.md",
+    "templates/blog-post-draft.md",
+    "content/pages/someday.md",
+    "node_modules/@clack/prompts/CHANGELOG.md",
+    "content/blog/20-ways-to-fight-tyranny.md",
+    "node_modules/@atproto/oauth-client-node/README.md",
+    "node_modules/core-js/README.md",
+    "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
+    "content/pages/amazon-purchases.md",
+    "node_modules/undici/docs/docs/api/Util.md",
+    "node_modules/core-js/stage/README.md",
+    "content/pages/questions.md",
     "content/pages/resist.md",
     "content/pages/sale.md",
     "content/pages/save.md",
-    "content/pages/sermons.md",
-    "content/pages/slashes.md",
-    "content/pages/someday.md",
-    "content/pages/subscriptions.md",
-    "content/pages/til.md",
-    "content/pages/tip.md",
-    "content/pages/verify.md",
-    "content/pages/why.md",
-    "content/pages/wish-list.md",
-    "content/pages/yep.md",
-    "content/pages/blogroll.md",
-    "content/pages/amazon-purchases.md",
-    "content/pages/ai.md",
-    "content/pages/about.md",
-    "content/notes/2026-06-16-0733.md",
-    "content/pages/recommended-tools-and-resources.md",
-    "content/pages/questions.md",
-    "content/pages/posse.md",
-    "content/pages/portfolio-about-me.md",
-    "content/pages/popular.md",
-    "content/pages/philosophy-of-ministry.md",
-    "content/pages/now.md",
-    "content/pages/nope.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

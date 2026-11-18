@@ -81,8 +81,6 @@ They are BOTH reminders that we are finite creatures who cannot accomplish every
 
 So, take heart! Go to bed a little earlier tonight! Everything doesn’t depend on you.
 
----
-
-## How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?
+How would your sleep habits and/or your plans for the future change if you took Psalm 127 to heart?
 
 Let me know in the comments below!

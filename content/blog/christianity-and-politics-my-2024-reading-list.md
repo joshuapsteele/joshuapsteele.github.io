@@ -1,15 +1,17 @@
 ---
-title: 'Christianity and Politics: My 2024 Reading List'
-date: '2024-09-09T14:03:42Z'
+title: "Christianity and Politics: My 2024 Reading List"
+date: 2024-09-09T14:03:42Z
 author: joshuapsteele
 categories:
-- ethics
-- theology
+  - ethics
+  - theology
 tags:
-- politics
+  - politics
+  - reading
+  - books
 description: My reading list exploring Church-State relations and Christian political engagement, from high school curiosity to 2024 concerns.
 url: /christianity-and-politics-my-2024-reading-list/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbn5lg52g"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydbn5lg52g
 ---
 The relationship between Church and State, particularly the intersection of Christianity and politics, has been on my mind since I first started paying attention during the lead-up to the 2008 USA presidential election. Back then, I was just a high school student, but these themes have stuck with me ever since.
 
@@ -19,7 +21,7 @@ As I’ve thought more about these topics, my reading list has grown, and I want
 
 (All the links below are Amazon affiliate links, by the way.)
 
-### Christian Political Theology Reading List
+## Christian Political Theology Reading List
 
 - *[20 Myths about Religion and Politics in America](https://amzn.to/4ebfuLH)* by Ryan P. Burge
 - *[Anointed with Oil: How Christianity and Crude Made Modern America](https://amzn.to/3zeJSW6)* by Darren Dochuk
@@ -33,7 +35,7 @@ As I’ve thought more about these topics, my reading list has grown, and I want
 - *[Religious Freedom in a Secular Age: A Christian Case for Liberty, Equality, and Secular Government](https://amzn.to/4a3XVdU)* by Michael Bird
 - *[Scandalous Witness: A Little Political Manifest for Christians](https://amzn.to/47n9RaE)* by Lee C. Camp
 
-### Abortion-Specific Reads
+## Abortion-Specific Reads
 
 When it comes to abortion, I think it’s a tragedy that needs to be reduced, ideally through a consistent pro-life ethic. However, I’m also curious about progressive theological arguments for a pro-choice stance. Here are a few books I’m reading to explore those ideas:
 
@@ -41,7 +43,7 @@ When it comes to abortion, I think it’s a tragedy that needs to be reduced, id
 - *[Pro-Choice and Christian: Reconciling Faith, Politics, and Justice](https://amzn.to/3Xh0lkt)* by Kira Schlesinger
 - *[Trust Women: A Progressive Christian Argument for Reproductive Justice](https://amzn.to/3XmUCcW)* by Rebecca Todd Peters
 
-### History Reading List
+## History Reading List
 
 In addition to Christian political theology, I’ve also been diving into U.S. and world history, trying to get a better sense of where we’ve been and how it informs the present.
 
