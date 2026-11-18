@@ -34,4 +34,4 @@ Or, if you’d rather watch a video of Tim teaching his technique, check this on
 
 Anyways, I hope this simple tip helps you to read faster when you want to! Give it a try and let me know what you think.
 
-## Got any reading tips you’d like to share? Post them in the comments below!
+Got any reading tips you’d like to share? Post them in the comments below!

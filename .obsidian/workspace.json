@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/volf-on-divine-violence.md",
+                "file": "content/blog/how-to-lead-a-bible-study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "volf-on-divine-violence"
+              "title": "how-to-lead-a-bible-study"
             }
           }
         ]
@@ -196,6 +196,20 @@
   },
   "active": "ea0eb323388f0608",
   "lastOpenFiles": [
+    "node_modules/jose/LICENSE.md",
+    "content/blog/a-shameless-request-help-me-buy-more-books.md",
+    "content/search.md",
+    "content/notes/2026-07-06-1442.md",
+    "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
+    "node_modules/undici/docs/docs/api/Errors.md",
+    "content/blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md",
+    "node_modules/@atproto/common-web/CHANGELOG.md",
+    "CLAUDE.md",
+    "node_modules/debug/README.md",
+    "content/blog/one-simple-trick-helps-read-faster-ph-d-student.md",
+    "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
+    "content/blog/unity.md",
+    "content/blog/volf-on-divine-violence.md",
     "node_modules/undici/README.md",
     "node_modules/undici/docs/docs/api/MockAgent.md",
     "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
@@ -206,22 +220,8 @@
     "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
     "content/blog/christianity-and-politics-my-2024-reading-list.md",
     "archetypes/default.md",
-    "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
     "content/blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
     "content/blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md",
-    "content/blog/john-the-baptist-fulfills-the-words-of-isaiah.md",
-    "content/blog/frustrated-with-church-youre-the-problem.md",
-    "templates/blog-post-draft.md",
-    "content/pages/someday.md",
-    "node_modules/@clack/prompts/CHANGELOG.md",
-    "content/blog/20-ways-to-fight-tyranny.md",
-    "node_modules/@atproto/oauth-client-node/README.md",
-    "node_modules/core-js/README.md",
-    "content/blog/taking-scripture-and-womens-ordination-seriously-a-response-to-blake-johnson-and-lee-nelson.md",
-    "content/pages/amazon-purchases.md",
-    "node_modules/undici/docs/docs/api/Util.md",
-    "node_modules/core-js/stage/README.md",
-    "content/pages/questions.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
