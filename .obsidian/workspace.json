@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
+                "file": "content/blog/volf-on-divine-violence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "no-one-knows-what-positivism-of-revelation-means"
+              "title": "volf-on-divine-violence"
             }
           }
         ]
@@ -196,6 +196,9 @@
   },
   "active": "ea0eb323388f0608",
   "lastOpenFiles": [
+    "node_modules/undici/README.md",
+    "node_modules/undici/docs/docs/api/MockAgent.md",
+    "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
     "node_modules/uint8arrays/README.md",
     "content/pages/follow.md",
     "content/blog/birthday-wishlist-2025.md",
@@ -219,9 +222,6 @@
     "node_modules/undici/docs/docs/api/Util.md",
     "node_modules/core-js/stage/README.md",
     "content/pages/questions.md",
-    "content/pages/resist.md",
-    "content/pages/sale.md",
-    "content/pages/save.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",
