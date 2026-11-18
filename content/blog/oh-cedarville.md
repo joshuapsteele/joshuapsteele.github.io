@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-02-19T07:38:20Z'
-description: "A frustrated reflection on Cedarville University, including the White Papers, Michael Pahl's dismissal, and Carl Ruby's departure."
-title: Oh Cedarville!
+date: 2013-02-19T07:38:20Z
+description: A frustrated reflection on Cedarville University, including the White Papers, Michael Pahl's dismissal, and Carl Ruby's departure.
+title: (Cedarville Archive) Oh Cedarville!
 tags:
   - college
   - cedarville
 url: /oh-cedarville/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcl6fwc2q"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcl6fwc2q
 ---
 
 Have you ever been extremely frustrated with someone/thing you love?

@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2014-03-20T11:46:15Z'
-description: "More Cedarville concerns, focused on a women-only gender issues course and the narrow textbook choices assigned for it."
-title: Ok, Maybe a Bit More on Cedarville!
+date: 2014-03-20T11:46:15Z
+description: More Cedarville concerns, focused on a women-only gender issues course and the narrow textbook choices assigned for it.
+title: (Cedarville Archive) Ok, Maybe a Bit More on Cedarville!
 tags:
   - college
   - cedarville
 url: /ok-maybe-a-bit-more-on-cedarville/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydci35py2d"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydci35py2d
 ---
 
 You’ll notice that [the previous post on Cedarville](/cedarville-2/) ends with a link to [the Course Schedule](http://www.cedarville.edu/courses/schedule/2014fa_bi_beth.htm):

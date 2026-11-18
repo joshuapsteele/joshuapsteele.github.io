@@ -1,16 +1,15 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2014-03-18T17:11:59Z'
-description: Why I can't be proud of Cedarville University anymore, and why prospective
-  students should consider other Christian colleges.
-title: Cedarville!
+date: 2014-03-18T17:11:59Z
+description: Why I can't be proud of Cedarville University anymore, and why prospective students should consider other Christian colleges.
+title: (Cedarville Archive) Cedarville!
 tags:
   - college
   - evangelicalism
   - cedarville
 url: /cedarville-2/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcidcvz2f"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcidcvz2f
 ---
 
 I wish I could say I was proud of my alma mater…

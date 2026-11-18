@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/blog/how-to-lead-a-bible-study.md",
+                "file": "content/blog/presenting-on-barth-at-2015-southeastern-ets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how-to-lead-a-bible-study"
+              "title": "presenting-on-barth-at-2015-southeastern-ets"
+            }
+          },
+          {
+            "id": "26c65fbaefdefa72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/blog/a-ridiculously-helpful-markdown-tutorial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "a-ridiculously-helpful-markdown-tutorial"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,10 +70,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:#cedarville",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -175,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -194,34 +209,36 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ea0eb323388f0608",
+  "active": "26c65fbaefdefa72",
   "lastOpenFiles": [
-    "node_modules/jose/LICENSE.md",
-    "content/blog/a-shameless-request-help-me-buy-more-books.md",
-    "content/search.md",
-    "content/notes/2026-07-06-1442.md",
-    "content/blog/logos-10-bible-software-the-ultimate-theological-learning-tool.md",
-    "node_modules/undici/docs/docs/api/Errors.md",
-    "content/blog/theology-is-exegesis-john-webster-on-what-we-can-learn-from-barth-and-bonhoeffer.md",
-    "node_modules/@atproto/common-web/CHANGELOG.md",
-    "CLAUDE.md",
-    "node_modules/debug/README.md",
-    "content/blog/one-simple-trick-helps-read-faster-ph-d-student.md",
-    "content/blog/go-sleep-kids-bible-psalm-127-says-productivity.md",
-    "content/blog/unity.md",
-    "content/blog/volf-on-divine-violence.md",
-    "node_modules/undici/README.md",
-    "node_modules/undici/docs/docs/api/MockAgent.md",
-    "content/blog/no-one-knows-what-positivism-of-revelation-means.md",
-    "node_modules/uint8arrays/README.md",
+    "node_modules/typescript/SECURITY.md",
+    "content/blog/honors-grace-and-generosity.md",
     "content/pages/follow.md",
-    "content/blog/birthday-wishlist-2025.md",
-    "content/blog/im-looking-for-a-new-role-to-supplement-my-part-time-work-for-anglican-compass.md",
-    "content/blog/quit-claiming-that-we-mutualists-egalitarians-dont-take-the-bible-or-tradition-seriously.md",
-    "content/blog/christianity-and-politics-my-2024-reading-list.md",
-    "archetypes/default.md",
-    "content/blog/i-wish-these-2-barth-and-bonhoeffer-books-would-come-out-sooner.md",
-    "content/blog/ask-me-anything-software-engineering-questions-from-a-coding-bootcamp-student.md",
+    "content/blog/my-karl-barth-software-drama-continues-inaccurate-page-numbers-in-logos.md",
+    "static/wp-content/uploads/2018/12/Screen-Shot-1-2018-12-11-at-2.26.08-PM-1024x546.png",
+    "static/wp-content/uploads/2018/12/Screen-Shot-2-2018-12-11-at-2.28.06-PM.png",
+    "node_modules/core-js/stable/README.md",
+    "content/blog/morning-prayer-homily-mark-8-11-21.md",
+    "node_modules/tlds/Readme.md",
+    "docs/archive/AUDIT-static-wp-content.md",
+    "content/notes/2026-07-30-1444.md",
+    "content/notes/2026-07-26-0753.md",
+    "node_modules/undici/docs/docs/api/Util.md",
+    "content/blog/thank-god-i-went-to-cedarville.md",
+    "content/blog/sacrificing-scripture-on-the-altars-of-our-own-agendas.md",
+    "content/blog/open-letter-to-cedarville-admins-and-trustees.md",
+    "content/blog/open-apology.md",
+    "content/blog/ok-maybe-a-bit-more-on-cedarville.md",
+    "content/blog/oh-cedarville.md",
+    "content/blog/my-unforgettable-cedarville-experience-pt-2-2.md",
+    "content/blog/my-unforgettable-cedarville-experience.md",
+    "content/blog/let-there-be-light-my-resignation.md",
+    "content/blog/cedarville-let-there-be-light-pt-2.md",
+    "content/blog/cedarville-let-there-be-light-pt-1.md",
+    "content/blog/cedarville-2.md",
+    "node_modules/fast-string-width/readme.md",
+    "templates/blog-post-draft.md",
+    "content/blog/presenting-on-barth-at-2015-southeastern-ets.md",
     "public/tags/zanzibar/feed.xml",
     "public/tags/writing/feed.xml",
     "public/tags/youtube/feed.xml",

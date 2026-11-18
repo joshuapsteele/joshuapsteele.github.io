@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-04-15T22:31:53Z'
-description: "Receiving two Cedarville honors and reflecting on grace, generosity, gratitude, and the people who made seminary possible."
-title: Honors, Grace, and Generosity
+date: 2013-04-15T22:31:53Z
+description: Receiving two Cedarville honors and reflecting on grace, generosity, gratitude, and the people who made seminary possible.
+title: (Cedarville Archive) Honors, Grace, and Generosity
 tags:
   - college
   - cedarville
 url: /honors-grace-and-generosity/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckon2z2f"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckon2z2f
 ---
 
 Yahweh and others have been too good to me.

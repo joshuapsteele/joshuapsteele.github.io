@@ -1,16 +1,15 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-02-26T16:45:09Z'
-description: Resigning from the Let There Be Light platform to protest Cedarville
-  University's troubling institutional changes and leadership decisions.
-title: 'Let There Be Light: My Resignation'
+date: 2013-02-26T16:45:09Z
+description: Resigning from the Let There Be Light platform to protest Cedarville University's troubling institutional changes and leadership decisions.
+title: "(Cedarville Archive) Let There Be Light: My Resignation"
 tags:
   - college
   - evangelicalism
   - cedarville
 url: /let-there-be-light-my-resignation/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckwila2d"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydckwila2d
 ---
 
 ***\*\*Please read:*** ***[Let There Be Light – Leadership Transfer](http://fiatlux125.wordpress.com/2013/02/26/leadership-transfer-2/)******\*\****

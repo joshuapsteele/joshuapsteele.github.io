@@ -1,14 +1,14 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-01-13T21:22:06Z'
-description: "An open letter to Cedarville University's leadership, raising concerns—as a grateful alumnus—about institutional decisions that seemed to contradict the gospel I learned there."
-title: Open Letter to Cedarville Admins and Trustees
+date: 2013-01-13T21:22:06Z
+description: An open letter to Cedarville University's leadership, raising concerns—as a grateful alumnus—about institutional decisions that seemed to contradict the gospel I learned there.
+title: (Cedarville Archive) Open Letter to Cedarville Admins and Trustees
 tags:
   - college
   - cedarville
 url: /open-letter-to-cedarville-admins-and-trustees/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclkbxp2k"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydclkbxp2k
 ---
 
 To my sisters and brothers in Christ, entrusted with the arduous task of leading and directing Cedarville University: greetings, grace, and peace.

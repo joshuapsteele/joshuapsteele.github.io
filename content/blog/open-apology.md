@@ -1,15 +1,14 @@
 ---
 author: joshuapsteele
 categories: personal
-date: '2013-02-22T23:36:21Z'
-description: A public apology to anyone I may have offended during my student activism
-  efforts at Cedarville University.
-title: Open Apology
+date: 2013-02-22T23:36:21Z
+description: A public apology to anyone I may have offended during my student activism efforts at Cedarville University.
+title: (Cedarville Archive) Open Apology
 tags:
   - college
   - cedarville
 url: /open-apology/
-atUri: "at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcl2jgc2b"
+atUri: at://did:plc:fz4b2acwzs7snxpro4gzv7hs/site.standard.document/3mpydcl2jgc2b
 ---
 
 To whomever the following concerns:
