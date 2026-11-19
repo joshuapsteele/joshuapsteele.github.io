@@ -190,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -209,7 +209,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "26c65fbaefdefa72",
+  "active": "f529731350d6380b",
   "lastOpenFiles": [
     "node_modules/typescript/SECURITY.md",
     "content/blog/honors-grace-and-generosity.md",
