@@ -1,7 +1,63 @@
 {
-  "by_path": {},
-  "by_url": {},
-  "count": 0,
-  "generated": "2026-10-09T15:15:59.285766+00:00",
+  "by_path": {
+    "/hyper-tough-hyper-stack-meme-tool-for-half-price/": {
+      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3n2qvuo3hyu2b",
+      "canonical": "https://joshuapsteele.com/hyper-tough-hyper-stack-meme-tool-for-half-price/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/101410686"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/117649491520433788"
+        },
+        {
+          "service": "bluesky",
+          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3n2qvuo3hyu2b"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/Df9_GONloLJ"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/117649491520433788",
+      "microblog": "https://micro.blog/joshuapsteele/101410686",
+      "microblog_id": "101410686",
+      "published": "2026-11-20T13:00:00+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/Df9_GONloLJ"
+    }
+  },
+  "by_url": {
+    "https://joshuapsteele.com/hyper-tough-hyper-stack-meme-tool-for-half-price/": {
+      "bluesky": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3n2qvuo3hyu2b",
+      "canonical": "https://joshuapsteele.com/hyper-tough-hyper-stack-meme-tool-for-half-price/",
+      "links": [
+        {
+          "service": "microblog",
+          "url": "https://micro.blog/joshuapsteele/101410686"
+        },
+        {
+          "service": "mastodon",
+          "url": "https://mastodon.social/@joshuapsteele/117649491520433788"
+        },
+        {
+          "service": "bluesky",
+          "url": "https://bsky.app/profile/did:plc:fz4b2acwzs7snxpro4gzv7hs/post/3n2qvuo3hyu2b"
+        },
+        {
+          "service": "threads",
+          "url": "https://www.threads.com/@joshuapsteele/post/Df9_GONloLJ"
+        }
+      ],
+      "mastodon": "https://mastodon.social/@joshuapsteele/117649491520433788",
+      "microblog": "https://micro.blog/joshuapsteele/101410686",
+      "microblog_id": "101410686",
+      "published": "2026-11-20T13:00:00+00:00",
+      "threads": "https://www.threads.com/@joshuapsteele/post/Df9_GONloLJ"
+    }
+  },
+  "count": 1,
+  "generated": "2026-11-20T20:08:31.932060+00:00",
   "source": "https://micro.blog/posts/joshuapsteele"
 }
