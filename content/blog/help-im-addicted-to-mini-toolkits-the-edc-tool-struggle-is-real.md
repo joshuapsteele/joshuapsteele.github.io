@@ -24,6 +24,7 @@ OK, but what about these “mini toolkits”?
 UPDATE: Here are the mini toolkits worth checking out:
 
 - [ICON 1/4 in. Drive Compact Socket and Bit Set, 52-Piece](https://www.harborfreight.com/14-in-drive-compact-socket-and-bit-set-52-piece-70695.html)
+- [Hyper Tough Hyper Stack 1/4-Inch Drive Socket Set, 52 Pieces](https://www.walmart.com/ip/Hyper-Tough-Hyper-Stack-1-4-Inch-Drive-Socket-Set-with-Hard-Carrying-Case-SAE-and-Metric-52-Pieces/20848018071) (Walmart's half-price lookalike of the ICON 52-piece; [here's how they compare](/hyper-tough-hyper-stack-meme-tool-for-half-price/))
 - [ICON 1/4 in. Drive Mini Ratchet and Socket Set, 45-Piece](https://www.harborfreight.com/14-in-drive-mini-ratchet-and-socket-set-45-piece-70696.html)
 - [Wera Tool-Check Plus](https://amzn.to/3XM6KG2)
 - [LaBear 29-Piece Kit](https://amzn.to/4lLN8KV)
@@ -64,6 +65,10 @@ UPDATE: The new Meme Tool w/Sockets has been released! AKA: [ICON 1/4 in. Drive 
 Here's a great video review of the new set from GritWork:
 
 {{< youtube Tl_p9PDbTSc >}}
+{{< /callout >}}
+
+{{< callout "note" >}}
+UPDATE (November 2026): Walmart now sells a near-identical 52-piece kit, the Hyper Tough Hyper Stack, for $39.97. I bought one, of course. [Here's how it stacks up against the Harbor Freight ICON set.](/hyper-tough-hyper-stack-meme-tool-for-half-price/)
 {{< /callout >}}
 
 Yes, I probably have a problem. But does anyone else out there have the same problem? Have you found a mini toolkit that you absolutely love? What about other EDC tools? Please let me know in the comments below!
